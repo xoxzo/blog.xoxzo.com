@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+          <title></title>
+        <meta charset="utf-8" />
+        <link href="http://devblog.xoxzo.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title=" Full Atom Feed" />
+        <link href="http://devblog.xoxzo.com/feeds/engineering.atom.xml" type="application/atom+xml" rel="alternate" title=" Categories Atom Feed" />
+
+
+
+    <meta name="tags" content="django" />
+
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="./"> <strong></strong></a></h1>
+        </header><!-- /#banner -->
+        <nav id="menu"><ul>
+        </ul></nav><!-- /#menu -->
+<section id="content" class="body">
+  <header>
+    <h2 class="entry-title">
+      <a href="./django-transactioncommit_manually-wrapper.html" rel="bookmark"
+         title="Permalink to Django transaction.commit_manually wrapper">Django transaction.commit_manually wrapper</a></h2>
+ 
+  </header>
+  <footer class="post-info">
+    <abbr class="published" title="2012-08-27T09:02:00+09:00">
+      2012-08-27
+    </abbr>
+    <address class="vcard author">
+      By           <a class="url fn" href="./author/kamal-mustafa.html">Kamal Mustafa</a>
+    </address>
+  </footer><!-- /.post-info -->
+  <div class="entry-content">
+    <p>I first <a href="http://metaKamal%20Mustafa.blogspot.com/2011/05/django-transactioncommitmanually-mask.html">encountered this
+problem</a>
+1 year ago and it look's like the issue still not being fixed till now.
+The <a href="https://code.djangoproject.com/ticket/6623">corresponding ticket</a>
+has been 5 years old already. When you used
+<code>transaction.commit_manually</code> decorator around your function (usually
+views function), you mark that function to be executed in single
+transaction but you'll manage the transaction control, whether to commit
+or rollback yourself. This in contrast to another related decorator
+<code>transaction.commit_on_success</code> where django will handle the commit or
+rollback depending on the function can be successfully executed or not.</p>
+<p>Using <code>transaction.commit_manually</code>, there's usually a case when an
+exception occurred in the function uncaught causing the commit or
+rollback call not reached. When django detect this (because it see the
+dirty bit in the transaction object), it raise
+<code>TransactionManagementError</code> with the infamous message 'Transaction
+managed block ended with pending COMMIT/ROLLBACK'. The original
+exception however is buried inside the traceback and you have to dig it
+out in the order to find out the real issue. It's really annoying
+because sometime you have to disable the decorator in order to find out
+the real error.</p>
+<p>Until the issue get fixed and we manage to upgrade to latest version of
+django (which unlikely to happen in the near future), I have decided to
+create a wrapper around <code>transaction.commit_manually</code> and use it instead
+of the original decorator.</p>
+<p>I have also update the patch in the
+<a href="https://code.djangoproject.com/ticket/6623">ticket</a> to apply cleanly to
+current django trunk but so far no feedback yet from django core
+developers.</p>
+  </div><!-- /.entry-content -->
+</section>
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
+                which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+        </footer><!-- /#contentinfo -->
+</body>
+</html>

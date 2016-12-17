@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+          <title>Xoxzoの公式ブログ：「開花、発展、向上させる」</title>
+        <meta charset="utf-8" />
+        <link href="http://devblog.xoxzo.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Xoxzoの公式ブログ：「開花、発展、向上させる」 Full Atom Feed" />
+        <link href="http://devblog.xoxzo.com/feeds/engineering.atom.xml" type="application/atom+xml" rel="alternate" title="Xoxzoの公式ブログ：「開花、発展、向上させる」 Categories Atom Feed" />
+
+
+
+
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="./">Xoxzoの公式ブログ：「開花、発展、向上させる」 <strong></strong></a></h1>
+        </header><!-- /#banner -->
+        <nav id="menu"><ul>
+        </ul></nav><!-- /#menu -->
+<section id="content" class="body">
+  <header>
+    <h2 class="entry-title">
+      <a href="./polyfilling-the-future.html" rel="bookmark"
+         title="Permalink to Supporting HTML5 features in browsers using polyfill">Supporting HTML5 features in browsers using polyfill</a></h2>
+ 
+  </header>
+  <footer class="post-info">
+    <abbr class="published" title="2012-04-23T11:23:00+09:00">
+      2012-04-23
+    </abbr>
+    <address class="vcard author">
+      By           <a class="url fn" href="./author/xoxzoblog.html">xoxzoblog</a>
+    </address>
+  </footer><!-- /.post-info -->
+  <div class="entry-content">
+    <div>
+
+**What is polyfill?**
+
+</div>
+
+<div>
+
+A polyfill or polyfiller is code designed to provide technology that is
+not native to a web browser. For example, earlier versions of Internet
+Explorer do not support all the features of HTML5 which may necessitate
+the use of polyfills to display features of HTML5 which are not
+supported by the web browser.
+
+</div>
+
+<div>
+
+<div>
+
+**What does it mean?**
+
+</div>
+
+<div>
+
+If you use &lt;audio&gt; tag for certain filetypes (for example, an mp3
+file), there are some browser that do not supports it.[^\[1\]^](anchor1)
+What does it needs to be done if we want to play an mp3 file on Firefox
+3.6? Well, we can use a flash audio player for instance or we could
+provide other compatible files. The latter is not preferable for it
+requires a lot of space and processing power. We'd have to convert every
+single file that are not supported by browsers to a format it supports.
+Polyfills provide a fallback for this type of
+situations.[^\[2\]^](anchor2)
+
+</div>
+
+</div>
+
+<div>
+
+<div>
+
+**How Do We Check A Feature Is In A Browser?**
+
+</div>
+
+<div>
+
+Check out <http://html5readiness.com/> to view the readiness of a
+browser to a specific HTML5 feature. 
+
+</div>
+
+</div>
+
+<p><a class="asset-img-link" href="https://xoxzoblog.files.wordpress.com/2012/04/860d2-6a0153916e707f970b0168ea921382970c-pi.jpg"><img alt="Capture4-23-2012-6.41.10
+AM" src="https://xoxzoblog.files.wordpress.com/2012/04/860d2-6a0153916e707f970b0168ea921382970c-pi.jpg" title="Capture4-23-2012-6.41.10 AM" />{.asset
+.asset-image .at-xid-6a0153916e707f970b0168ea921382970c
+.image-full}</a></p>
+<div>
+
+<div>
+
+**But How Do We Check It In Code?**
+
+</div>
+
+<div>
+
+To check it in code, we could use Modernizr to detect if a specific
+feature is in the browser. <http://modernizr.com/docs/#features-css>
+
+</div>
+
+<div>
+
+For example,
+
+</div>
+
+<div class="highlight"><pre><span></span>if (Modernizr.audio.mp3 == &#39;&#39; and &#39;&#39; == false)
+{
+// Use the flash audio player
+}
+</pre></div>
+
+
+<div>
+
+**Where Do We Get These Polyfills?**
+
+</div>
+
+<div>
+
+Most of them are listed at <http://html5please.com>
+
+</div>
+
+</div>
+
+<div>
+
+**That's it. **
+
+</div>
+
+<div>
+
+The "polyfill" or "regressive enhancement" technique just means that you
+go ahead and use HTML5 features then use other libraries to emulate
+native behavior in older browsers. So instead of worrying about support
+in some browsers, use these polyfills to enhance the browsers to provide
+the user with proper experience to your web sites and applications.
+
+</div>
+
+<div>
+
+<div>
+
+<div>
+
+[1.]( "anchor1") <http://html5doctor.com/native-audio-in-the-browser/>
+
+</div>
+
+<div>
+
+[2.]( "anchor2") <http://html5please.com/#audio>
+
+</div>
+
+</div>
+
+</div>
+  </div><!-- /.entry-content -->
+</section>
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
+                which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+        </footer><!-- /#contentinfo -->
+</body>
+</html>

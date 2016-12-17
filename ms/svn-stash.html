@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+          <title></title>
+        <meta charset="utf-8" />
+        <link href="http://devblog.xoxzo.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title=" Full Atom Feed" />
+        <link href="http://devblog.xoxzo.com/feeds/engineering.atom.xml" type="application/atom+xml" rel="alternate" title=" Categories Atom Feed" />
+
+
+
+    <meta name="tags" content="git" />
+    <meta name="tags" content="svn" />
+    <meta name="tags" content="version control" />
+
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="./"> <strong></strong></a></h1>
+        </header><!-- /#banner -->
+        <nav id="menu"><ul>
+        </ul></nav><!-- /#menu -->
+<section id="content" class="body">
+  <header>
+    <h2 class="entry-title">
+      <a href="./svn-stash.html" rel="bookmark"
+         title="Permalink to Svn stash">Svn stash</a></h2>
+ 
+  </header>
+  <footer class="post-info">
+    <abbr class="published" title="2012-03-09T19:32:00+09:00">
+      2012-03-09
+    </abbr>
+    <address class="vcard author">
+      By           <a class="url fn" href="./author/kamal-mustafa.html">Kamal Mustafa</a>
+    </address>
+  </footer><!-- /.post-info -->
+  <div class="entry-content">
+    <p>Update 2012-05-02 - Add new use-case when merging from trunk.</p>
+<hr />
+<p>One thing I like in git is the <code>stash</code> command. Basically what it's
+doing is<br />
+to take out current changes that we have, store it in temporary place
+and then<br />
+revert our repo to it's previous pristine state. This has a number of
+use cases.<br />
+Let say you're working on some features and then got some bug report
+that need<br />
+to be fixed quickly. You may do new checkout in other location and do
+the bug<br />
+fixing work, commit it and then continue on your new features work. This
+may not<br />
+really prevalent if you work in branch since the bug might need to be
+fixed in<br />
+another branch. <code>git branch</code> does the job here since it allow you to
+quickly<br />
+switch branch.</p>
+<p>Now back to us who still stuck with svn. Nothing wrong with svn, it does
+the work<br />
+and 99% of the time we're happy with it. There's another use case than I
+mentioned<br />
+just now. Supposed while working on the new features, you found a bug.
+It may be<br />
+just 1 line fix and you don't want the fix end up with features you're
+working on<br />
+currently. With svn, you have few options:-</p>
+<ul>
+<li>Do new checkout in another directory, fix the bug and commit.</li>
+<li><code>svn diff &gt; tmp.diff</code>, <code>svn revert -R .</code>, fix the bug and commit,
+    <code>patch -p0 &lt; tmp.diff</code></li>
+</ul>
+<p>Second option not really nice solution if you have lot of newly added
+files and<br />
+you want to have clean environment in order to test the bug fixes. You
+have to<br />
+manually copy all the files to some other place. So I search around for
+'svn stash'<br />
+and luckily there's few others who'd also thinking about 'svn stash'.
+<a href="http://www.blisted.org/blog/bin/svn/stash">There's one<br />
+that look complete</a>, from a
+guy named scott (can't find any more details) so I<br />
+give it a try. The script work quite well, it named as <code>svn</code>, just put
+somewhere<br />
+under your <code>$PATH</code>, make sure it come first before the usual path such
+as <code>/usr/bin</code><br />
+or <code>/usr/local/bin</code>. The script basically a wrapper to actually svn
+executable,<br />
+it contains few additonal commands and if none match, it just forward
+that to the real svn.</p>
+<p>Scott's blog have enough explanation on how to use the script so I won't
+repeat it<br />
+here. Basically the flow are:-</p>
+<ul>
+<li><code>svn stash</code></li>
+<li>... fix bug etc</li>
+<li><code>svn commit</code></li>
+<li><code>svn stash list</code></li>
+<li><code>svn stash pop</code> or <code>svn stash apply &lt;stash-name&gt;</code> - pop will remove
+    the stash while <code>apply</code> will keep it.</li>
+</ul>
+<p>Another useful use-case is when working on branch. While in the middle
+of your work on the branch, you might want to merge latest changes from
+trunk. It always good practice to merge into a clean working directory
+rather than have the changes from merge mix your current uncommitted
+work. You may not ready yet to commit your current changes. With <code>stash</code>
+command you can 'stash' the current changes, merge latest changes from
+trunk, commit, reapply the stash and continue to work:-</p>
+<div class="highlight"><pre><span></span>kamal@sms:~/marimore_sms/branches/381-reset-count
+$ svn status
+M       lib/py/mamoprivate/sms/__init__.py
+M       bin/sendsmsd
+kamal@sms:~/marimore_sms/branches/381-reset-count
+$ svn stash
+Reverted &#39;lib/py/mamoprivate/sms/__init__.py&#39;
+Reverted &#39;bin/sendsmsd&#39;
+Changes stashed as: &quot;4d51a3eb-3a16-4e63-89e7-09e74cd30d91&quot;
+Working copy reverted to 129
+kamal@sms:~/marimore_sms/branches/381-reset-count
+$ svn status
+kamal@sms:~/marimore_sms/branches/381-reset-count
+$ svn merge ../../trunk/
+--- Merging r129 through r132 into &#39;.&#39;:
+U    lib/py/mamoprivate/d/projects/sms/settings.py
+M       lib/py/mamoprivate/d/projects/sms/settings.py
+kamal@sms:~/marimore_sms/branches/381-reset-count
+$ svn ci -m &#39;merge latest trunk, refs #381&#39;
+Sending        381-reset-count
+Sending        381-reset-count/lib/py/mamoprivate/d/projects/sms/settings.py
+Transmitting file data .
+Committed revision 133.
+kamal@sms:~/marimore_sms/branches/381-reset-count
+$ svn stash list
+1637 2012-05-02 13:56 4d51a3eb-3a16-4e63-89e7-09e74cd30d91
+kamal@sms:~/marimore_sms/branches/381-reset-count
+$ svn stash pop 4d51a3eb-3a16-4e63-89e7-09e74cd30d91
+pop: 4d51a3eb-3a16-4e63-89e7-09e74cd30d91
+Unstaging stash &quot;4d51a3eb-3a16-4e63-89e7-09e74cd30d91&quot;.
+M       lib/py/mamoprivate/sms/__init__.py
+M       bin/sendsmsd
+Stash &quot;4d51a3eb-3a16-4e63-89e7-09e74cd30d91&quot; removed.
+kamal@sms:~/marimore_sms/branches/381-reset-count
+$ svn status
+M       lib/py/mamoprivate/sms/__init__.py
+M       bin/sendsmsd
+</pre></div>
+
+
+<p>It also have some other goodies but I haven't try any of them. The
+script also show<br />
+a creative way to provide 'plugins' to a command that do not natively
+support plugin.<br />
+I might apply the same technique to other command. I have in mind to
+override the<br />
+svn commit command to provide some kind pre-commit hook that run the
+code through<br />
+static code checker before commiting. We're using Unfuddle so no chance
+for us to use<br />
+the native svn pre-commit hook. Lastly, thanks to
+<a href="http://www.blisted.org/">scott</a> for such useful script.</p>
+  </div><!-- /.entry-content -->
+</section>
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
+                which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+        </footer><!-- /#contentinfo -->
+</body>
+</html>

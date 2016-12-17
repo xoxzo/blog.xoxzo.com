@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+          <title>Xoxzo Official Blog: Empowerment</title>
+        <meta charset="utf-8" />
+        <link href="http://devblog.xoxzo.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Xoxzo Official Blog: Empowerment Full Atom Feed" />
+        <link href="http://devblog.xoxzo.com/feeds/engineering.atom.xml" type="application/atom+xml" rel="alternate" title="Xoxzo Official Blog: Empowerment Categories Atom Feed" />
+
+
+
+    <meta name="tags" content="git" />
+    <meta name="tags" content="github" />
+    <meta name="tags" content="version control" />
+
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="./">Xoxzo Official Blog: Empowerment <strong></strong></a></h1>
+        </header><!-- /#banner -->
+        <nav id="menu"><ul>
+        </ul></nav><!-- /#menu -->
+<section id="content" class="body">
+  <header>
+    <h2 class="entry-title">
+      <a href="./github-managing-fork-and-making-pull-request.html" rel="bookmark"
+         title="Permalink to Github: Managing fork and making pull request">Github: Managing fork and making pull request</a></h2>
+ 
+  </header>
+  <footer class="post-info">
+    <abbr class="published" title="2015-09-10T09:08:00+09:00">
+      2015-09-10
+    </abbr>
+    <address class="vcard author">
+      By           <a class="url fn" href="./author/kamal-mustafa.html">Kamal Mustafa</a>
+    </address>
+  </footer><!-- /.post-info -->
+  <div class="entry-content">
+    <p>It's common when you're using a third party library, there's come a
+point when you need to make some changes to accomodate your project
+requirements. On Github, it easy to fork the repository into your own
+repo and start making all the changes you need.</p>
+<p>One thing to consider when creating a fork is that you always want your
+changes to be merged back with the upstream repo. This will lift out lot
+of burden in maintaining your changes and syncing it out with the
+changes in the upstream. To facilitate this, you have to do a number of
+things that will help this 'merging' process easier both on your part
+and also original developer(s).</p>
+<p>Always create a specific branch for the specific changes you want to
+made. This will help in sending a pull request back as it would allow
+the original developer(s) to review the changes atomically.</p>
+<p>Because of the first rule above, it mean changes you did would span into
+more than 1 branch, so how would you use that in your project ? So you
+need to create another branch, called it develop or something and merge
+all the changes in other branches into this branch. So you would
+probably have list of branches such as:-</p>
+<div class="highlight"><pre><span></span>* develop
+master
+remotes/origin/HEAD -&gt; origin/master
+remotes/origin/develop
+remotes/origin/master
+remotes/origin/signup-form-mixin
+remotes/origin/update-email-verify
+</pre></div>
+
+
+<p>Any changes that specific to your project need and never intended to be
+merged with upstream repo should be in <code>develop</code> branch. Never make any
+changes to the <code>master</code> branch. That branch should only be the place
+where you pull changes from upstream.</p>
+  </div><!-- /.entry-content -->
+</section>
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
+                which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+        </footer><!-- /#contentinfo -->
+</body>
+</html>

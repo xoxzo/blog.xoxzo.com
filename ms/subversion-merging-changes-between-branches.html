@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+          <title></title>
+        <meta charset="utf-8" />
+        <link href="http://devblog.xoxzo.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title=" Full Atom Feed" />
+        <link href="http://devblog.xoxzo.com/feeds/engineering.atom.xml" type="application/atom+xml" rel="alternate" title=" Categories Atom Feed" />
+
+
+
+    <meta name="tags" content="scm" />
+    <meta name="tags" content="subversion" />
+    <meta name="tags" content="svn" />
+    <meta name="tags" content="version control" />
+
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="./"> <strong></strong></a></h1>
+        </header><!-- /#banner -->
+        <nav id="menu"><ul>
+        </ul></nav><!-- /#menu -->
+<section id="content" class="body">
+  <header>
+    <h2 class="entry-title">
+      <a href="./subversion-merging-changes-between-branches.html" rel="bookmark"
+         title="Permalink to Subversion merging changes between branches">Subversion merging changes between branches</a></h2>
+ 
+  </header>
+  <footer class="post-info">
+    <abbr class="published" title="2011-09-24T08:04:00+09:00">
+      2011-09-24
+    </abbr>
+    <address class="vcard author">
+      By           <a class="url fn" href="./author/kamal-mustafa.html">Kamal Mustafa</a>
+    </address>
+  </footer><!-- /.post-info -->
+  <div class="entry-content">
+    <p>For svn branching strategy, we used the <a href="http://stackoverflow.com/questions/597707/best-branching-strategy-when-doing-continuous-integration">feature
+branch</a>
+approach. This mean we keep trunk stable at all time and for any new
+features to work on, we start a new branch. While working on the branch,
+we'll keep it in sync with trunk by merging any latest changes happened
+on the trunk. Once the feature is ready, we merge that branch back into
+trunk. Subversion &gt; 1.5 <code>--reintegrate</code> option really helpfull here.</p>
+<p>There's a case however we end up with multiple branches active at a
+time. Supposed there are 3 new features that need to be implemented.
+Logically I would start 3 separate branches to work on each features
+since all of it are not related to each other. Let assume I start 3
+branches named as branch-A, branch-B and branch-C. I keep working on
+these 3 branches over the time. As the time passed by, branch-A is
+finished and ready to get into trunk. As usual after making sure
+branch-A has all the latest changes in trunk, I merged it back into
+trunk:-</p>
+<div class="highlight"><pre><span></span>$ <span class="nb">cd</span> branches/branch-A
+$ svn merge ../../trunk
+$ svn ci -m <span class="s1">&#39;merge latest changes from trunk into branch-A&#39;</span>
+$ <span class="nb">cd</span> ../../trunk
+$ svn merge --reintegrate ../branches/branch-A
+</pre></div>
+
+
+<p>Everything work flawlessly and as expected here. Before continuing
+working on other branches, I'll make sure all those branches in sync
+with trunk by merging all latest changes in the trunk. This would
+include the new features implemented in branch-A.</p>
+<div class="highlight"><pre><span></span>$ <span class="nb">cd</span> branches/branch-B
+$ svn merge ../../trunk
+$ svn ci -m <span class="s1">&#39;merge latest trunk into branch-B&#39;</span>
+$ <span class="nb">cd</span> branches/branch-C
+$ svn merge ../../trunk
+$ svn ci -m <span class="s1">&#39;merge latest trunk into branch-C&#39;</span>
+</pre></div>
+
+
+<p>I'd then continue working on branch-B and branch-C. Later on I'd
+realized that changes that I made in branch-C actually also needed in
+branch-B. Let assume I added new function in branch-C and then found out
+that the code in branch-B also need the same function. Now it's not
+possible to merge branch-C into trunk yet so that it changes can be
+propagated to branch-B. Ideally I should be able to merge changes
+between branch-B and branch-C before merging back both branches into
+trunk but subversion is not that clever in tracking merge between
+branches like this. So I decided that all development now should be done
+in branch-B. This mean I need to merge all changes that been done in
+branch-C into branch-B.</p>
+<p>When trying to do this - merge branch-C into branch-B, I ended up with
+lot of conflict. Remember the changes we have done in the branch-A
+earlier ? In branch-A, among the changes that we have done involved
+adding some new files. Now the changes (adding new files) exists in both
+branch-B and branch-C because we take it from trunk. When merging
+branch-C into branch-B subversion will try to add the new files again
+and we have conflict. It said something like - "local add, incoming add
+upon merge". Searching around, I found the solution in this <a href="http://stackoverflow.com/questions/738367/why-am-i-getting-tree-conflicts-in-subversion">SO
+question</a>:-</p>
+<div class="highlight"><pre><span></span>$ svn resolve -R --accept working
+</pre></div>
+
+
+<p>It mean for any conflict, keep the current working copy and discard the
+incoming changes. This is fine if you know exactly the changes that you
+need contained in different files than the conflicted one. Otherwise you
+have to manually inspect the file and fix the conflicting line. I'm not
+sure yet whether this can be merged cleanly back to the trunk. Will
+update this post later.</p>
+  </div><!-- /.entry-content -->
+</section>
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
+                which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+        </footer><!-- /#contentinfo -->
+</body>
+</html>

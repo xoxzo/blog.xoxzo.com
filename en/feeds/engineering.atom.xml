@@ -1,0 +1,1358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Xoxzo Official Blog: Empowerment</title><link href="http://devblog.xoxzo.com/en/" rel="alternate"></link><link href="http://devblog.xoxzo.com/feeds/engineering.atom.xml" rel="self"></link><id>http://devblog.xoxzo.com/en/</id><updated>2016-02-15T09:18:00+09:00</updated><entry><title>A python basic class in Tokyo Feb 6, 2016</title><link href="http://devblog.xoxzo.com/en/a-python-basic-class-in-tokyo-feb-6-2016.html" rel="alternate"></link><published>2016-02-15T09:18:00+09:00</published><updated>2016-02-15T09:18:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:devblog.xoxzo.com,2016-02-15:en/a-python-basic-class-in-tokyo-feb-6-2016.html</id><summary type="html">&lt;p&gt;&lt;a href="https://djangogirls.org/"&gt;&lt;img alt="logo" src="https://xoxzoblog.files.wordpress.com/2016/02/logo.png?w=150" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I have attended an event of Django Girls Japan and Python ladies, a
+Python basic.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://djangogirls-org.connpass.com/event/25660/"&gt;http://djangogirls-org.connpass.com/event/25660/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. An introduction&lt;/strong&gt;&lt;br /&gt;
+We had 8 girls attended with 1 instructor and 3 mentors.&lt;br /&gt;
+6 students from within Tokyo and 1 from Nagoya and me from Kyoto.&lt;br /&gt;
+&lt;strong&gt;2. Session&lt;/strong&gt;&lt;br /&gt;
+Using a text book of &lt;a href="http://www.amazon.co.jp/dp/4797371595"&gt;http://www.amazon.co.jp/dp/4797371595&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We pre-read a half of the text before arrival, brought in some questions
+about. As most of us were really beginners at Python, (0 - 2 years) none
+of us really had good knowledge to even make questions.&lt;/p&gt;
+&lt;p&gt;The instructor thinks the basic level that he wanted us to have today is
+to have an 'idea' of python.&lt;/p&gt;
+&lt;p&gt;He gave us some time to think about:&lt;br /&gt;
+- What is Data types, what will be problems if mis-treat the data
+types.&lt;br /&gt;
+- What is Collection type data, and what are list, dictionary and taple,
+their data rules and how to define.&lt;/p&gt;
+&lt;p&gt;Also,&lt;br /&gt;
+- What is Functions, what is Argument and what is returned value exactly
+mean.&lt;br /&gt;
+&amp;gt;&amp;gt;&lt;br /&gt;
+I had some rough or general idea about them but as he explained as&lt;br /&gt;
+Function is like a factory&lt;br /&gt;
+Argument is like a reception that would take the orders/materials&lt;br /&gt;
+Return value is like a completed product made at the factory&lt;br /&gt;
+was very helpful.&lt;/p&gt;
+&lt;p&gt;Also then we students wondered what is modules then, so we challenged
+onto some exercise to see what it is.&lt;/p&gt;
+&lt;p&gt;exercise 1&lt;br /&gt;
+a. Use 'For' and create a program that shows from 1 to 100&lt;br /&gt;
+b. Use 'if' to edit that program to show the numbers only over 30&lt;br /&gt;
+c. Edit that program to show only even numbers&lt;br /&gt;
+d. Edit that program to show only even numbers/over 50&lt;br /&gt;
+e. Edit that program to show only odd numbers&lt;/p&gt;
+&lt;p&gt;exercise 2&lt;br /&gt;
+Create a game program that we can play paper-scissors and rock.&lt;/p&gt;
+&lt;p&gt;When I compared my codes with the instructor's, I felt mine is like a
+kinder-child made ...&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt; &lt;span class="c1"&gt;#-*- coding: utf-8&lt;/span&gt;
+
+&lt;span class="c1"&gt;## まず、モジュールを読んでくる##&lt;/span&gt;
+ &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;random&lt;/span&gt;
+
+&lt;span class="c1"&gt;## randomモジュールにある、randint()という関数を使う##&lt;/span&gt;
+
+&lt;span class="k"&gt;print&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;じゃんけんをしましょう！&lt;/span&gt;
+ &lt;span class="mi"&gt;1&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="err"&gt;グー、&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="err"&gt;チョキ、&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="err"&gt;パー&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;)&lt;/span&gt;
+
+&lt;span class="c1"&gt;##　両者の手をみる ##&lt;/span&gt;
+ &lt;span class="n"&gt;cpu&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;random&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;randint&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+ &lt;span class="n"&gt;user&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;int&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;input&lt;/span&gt;&lt;span class="p"&gt;())&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;## 勝ち負けの判定 ##&lt;br /&gt;
+if user == 1:&lt;br /&gt;
+if cpu == 1:&lt;br /&gt;
+print ("あなたはグー、CPUもグー、「あいこ」です！")&lt;br /&gt;
+if cpu == 2:&lt;br /&gt;
+print ("あなたはグー、CPUはチョキ、あなたの勝ちです！")&lt;br /&gt;
+else:&lt;br /&gt;
+print ("あなたはグー、CPUはパー、あなたの負けです！")&lt;/p&gt;
+&lt;p&gt;if user == 2:&lt;br /&gt;
+if cpu == 1:&lt;br /&gt;
+print ("あなたはチョキ、CPUはグー、あなたの負けです！")&lt;br /&gt;
+if cpu == 2:&lt;br /&gt;
+print ("あなたはチョキ、CPUもチョキ、「あいこ」です！")&lt;br /&gt;
+else:&lt;br /&gt;
+print ("あなたはチョキ、CPUはパー、あなたの勝ちです！")&lt;/p&gt;
+&lt;p&gt;if user == 3:&lt;br /&gt;
+if cpu == 1:&lt;br /&gt;
+print ("あなたはパー、CPUはグー、あなたの勝ちです！")&lt;br /&gt;
+if cpu == 2:&lt;br /&gt;
+print ("あなたはパー、CPUはチョキ、あなたの負けです！")&lt;br /&gt;
+else:&lt;br /&gt;
+print ("あなたはパー、CPUもパー、「あいこ」です！")&lt;br /&gt;
+But, anyways, this is the start of learning. I am glad that I have made
+a first step.&lt;/p&gt;</summary><category term="Python"></category></entry><entry><title>Github: Managing fork and making pull request</title><link href="http://devblog.xoxzo.com/en/github-managing-fork-and-making-pull-request.html" rel="alternate"></link><published>2015-09-10T09:08:00+09:00</published><updated>2015-09-10T09:08:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2015-09-10:en/github-managing-fork-and-making-pull-request.html</id><summary type="html">&lt;p&gt;It's common when you're using a third party library, there's come a
+point when you need to make some changes to accomodate your project
+requirements. On Github, it easy to fork the repository into your own
+repo and start making all the changes you need.&lt;/p&gt;
+&lt;p&gt;One thing to consider when creating a fork is that you always want your
+changes to be merged back with the upstream repo. This will lift out lot
+of burden in maintaining your changes and syncing it out with the
+changes in the upstream. To facilitate this, you have to do a number of
+things that will help this 'merging' process easier both on your part
+and also original developer(s).&lt;/p&gt;
+&lt;p&gt;Always create a specific branch for the specific changes you want to
+made. This will help in sending a pull request back as it would allow
+the original developer(s) to review the changes atomically.&lt;/p&gt;
+&lt;p&gt;Because of the first rule above, it mean changes you did would span into
+more than 1 branch, so how would you use that in your project ? So you
+need to create another branch, called it develop or something and merge
+all the changes in other branches into this branch. So you would
+probably have list of branches such as:-&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;* develop
+master
+remotes/origin/HEAD -&amp;gt; origin/master
+remotes/origin/develop
+remotes/origin/master
+remotes/origin/signup-form-mixin
+remotes/origin/update-email-verify
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Any changes that specific to your project need and never intended to be
+merged with upstream repo should be in &lt;code&gt;develop&lt;/code&gt; branch. Never make any
+changes to the &lt;code&gt;master&lt;/code&gt; branch. That branch should only be the place
+where you pull changes from upstream.&lt;/p&gt;</summary><category term="git"></category><category term="github"></category><category term="version control"></category></entry><entry><title>PyCon AU 2015 Write Up</title><link href="http://devblog.xoxzo.com/en/pycon-au-2015-write-up.html" rel="alternate"></link><published>2015-08-29T10:33:00+09:00</published><updated>2015-08-29T10:33:00+09:00</updated><author><name>Zaki Akhmad</name></author><id>tag:devblog.xoxzo.com,2015-08-29:en/pycon-au-2015-write-up.html</id><summary type="html">&lt;p&gt;[caption id="attachment_666" align="aligncenter" width="630"]&lt;img alt="PyCon
+AU 2015 with 440
+attendees." src="https://xoxzoblog.files.wordpress.com/2015/08/img_6546.jpg?w=630" /&gt;{.size-large
+.wp-image-666 width="630" height="176"} PyCon AU 2015 with 440
+attendees.[/caption]&lt;/p&gt;
+&lt;p&gt;It's 2015, and it's another time for PyCon Australia. Last year, PyCon
+Australia 2014 was held also in Brisbane, Queensland. The same city as
+PyCon 2015. Every two years, the same city will host PyCon Australia. In
+2016 and 2017, PyCon Australia will be held in Melbourne, Victoria.&lt;/p&gt;
+&lt;p&gt;This year, there were 440 people who registered. On Friday, the
+committee decided to push back the schedules (until before lunch) to 20
+minutes because of &lt;em&gt;hiccup&lt;/em&gt; during registration.&lt;/p&gt;
+&lt;p&gt;The conference was held at Pullman Brisbane - King George Square. The
+location is at the heart of Brisbane city. This makes it very
+accessible. It only took me only 10 minutes to King George Square from
+Herston Bus Station, the closest bus station from where I stayed. One
+disadvantage of having a conference at this venue is that basically they
+don't have a &lt;em&gt;real&lt;/em&gt; conference room, instead they have multiple rooms
+with partition on each side.&lt;/p&gt;
+&lt;p&gt;[caption id="attachment_658" align="aligncenter"
+width="630"]&lt;img alt="Pullman Brisbane - King George Square, the PyCon AU 2015
+venue." src="https://xoxzoblog.files.wordpress.com/2015/08/img_6641.jpg?w=630" /&gt;{.size-large
+.wp-image-658 width="630" height="473"} Pullman Brisbane - King George
+Square, the PyCon AU 2015 venue.[/caption]&lt;/p&gt;
+&lt;p&gt;The &lt;a href="http://2015.pycon-au.org/programme/about"&gt;conference&lt;/a&gt; took 5 days.
+One day for miniconf, two days for the conference, and another two days
+for sprints (and also one day for
+&lt;a href="http://2015.pycon-au.org/programme/workshops"&gt;workshop!&lt;/a&gt;). Wow, there's
+a lot of talks and talks!&lt;/p&gt;
+&lt;p&gt;One thing the most difficult that I faced with multi-tracks conference
+is deciding which talk I should attend. Even though I knew that all &lt;a href="https://www.youtube.com/user/PyConAU"&gt;the
+talks are recorded&lt;/a&gt;, making this
+decision still not easy.&lt;/p&gt;
+&lt;p&gt;There were &lt;a href="https://www.youtube.com/playlist?list=PLs4CJRBY5F1LvjmMRjvSUnGJCWGvhRxtI"&gt;two
+keynotes&lt;/a&gt;
+at PyCon AU 2015.&lt;/p&gt;
+&lt;p&gt;https://www.youtube.com/watch?v=gaFk0Sya_HI&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://2015.pycon-au.org/media/news/38"&gt;The first keynote speech&lt;/a&gt; is
+mainly about Education. It turns out that Israel government has
+programming curriculum at very early stage. The speaker told how great
+is &lt;a href="https://scratch.mit.edu/"&gt;Scratch&lt;/a&gt; programming language as graphical
+programming language but then the difficulties come when we need to
+switch to text-based programming language. And Python still the best
+choice to teach children in programming.&lt;/p&gt;
+&lt;p&gt;https://www.youtube.com/watch?v=NheE6udjfGI&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://2015.pycon-au.org/media/news/37"&gt;The second keynote&lt;/a&gt; mainly
+about ethical side of programming consequences. In one example, she
+showed how Flickr auto tag feature identify a black people as an animal.
+In another example she told how someone's Facebook account keeps
+repeating a moment when her child is dead.&lt;/p&gt;
+&lt;p&gt;Basically these are following tracks at PyCon AU:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/playlist?list=PLs4CJRBY5F1LZECyoAZWhWkaJpF5NHQZW"&gt;OpenStack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/playlist?list=PLs4CJRBY5F1IvHnT3OvHOB49laSsULy_V"&gt;Django&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/playlist?list=PLs4CJRBY5F1IZYVBLXGX1DRYXHMjUjG8k"&gt;Science and
+    Data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/playlist?list=PLs4CJRBY5F1I5vuApyUXp6bLWly1E-b0s"&gt;Education&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I put my main interest to these streams: Django, Science and Data, and
+Education. So, I switched back from one talk to another talk which are
+interests me.&lt;/p&gt;
+&lt;p&gt;https://www.youtube.com/watch?v=1ABPQyANid0&lt;/p&gt;
+&lt;p&gt;Since, I feel that I should learn more about how doing development with
+Django web framework, I attended this talk. During this talk, "Two
+Scoops of Django" was mentioned a lot. Then about &lt;a href="http://12factor.net/"&gt;12 factor app
+manifesto&lt;/a&gt;. Basically this talk was interesting
+because it gave you the tips and tricks while doing development with
+Django.&lt;/p&gt;
+&lt;p&gt;https://www.youtube.com/watch?v=k7hSD_-gWMw&lt;/p&gt;
+&lt;p&gt;For the Science and Data stream, this talk interests me a lot. Because
+basically this talk gave practical implementation in real life, how we
+can predict a sports game result. This talk realizes me that it will be
+better for me if I have a good foundation on machine learning.&lt;/p&gt;
+&lt;p&gt;Other than that, there were job board and lightning talks.&lt;/p&gt;
+&lt;p&gt;[caption id="attachment_663" align="aligncenter" width="630"]&lt;a href="https://xoxzoblog.files.wordpress.com/2015/08/img_6567.jpg"&gt;&lt;img alt="PyCon
+AU 2015 Job
+Board" src="https://xoxzoblog.files.wordpress.com/2015/08/img_6567.jpg?w=630" /&gt;{.size-large
+.wp-image-663 width="630"
+height="473"}&lt;/a&gt;
+PyCon AU 2015 Job Board[/caption]&lt;/p&gt;
+&lt;p&gt;[caption id="attachment_662" align="aligncenter"
+width="630"]&lt;a href="https://xoxzoblog.files.wordpress.com/2015/08/img_6573.jpg"&gt;&lt;img alt="Interested giving lightning talk? Write it on the
+card!" src="https://xoxzoblog.files.wordpress.com/2015/08/img_6573.jpg?w=630" /&gt;{.size-large
+.wp-image-662 width="630"
+height="473"}&lt;/a&gt;
+Interested giving lightning talk? Write it on the card![/caption]&lt;/p&gt;
+&lt;p&gt;And for the workshop, I attended electronics workshop instead of Django
+Girls workshop. I played with Arduino. I code using Python and made the
+blinking LEDs. This electronic workshop was very interesting for me
+since we could program Arduino with Python. Back on the days when I was
+at university, I should code using assembler to program a
+microcontroller. With Python as high level programming language, of
+course it will be easier.&lt;/p&gt;
+&lt;p&gt;[caption id="attachment_657" align="aligncenter"
+width="630"]&lt;a href="https://xoxzoblog.files.wordpress.com/2015/08/img_6684.jpg"&gt;&lt;img alt="Electronics workshop at PyCon AU
+2015" src="https://xoxzoblog.files.wordpress.com/2015/08/img_6684.jpg?w=630" /&gt;{.size-large
+.wp-image-657 width="630"
+height="473"}&lt;/a&gt;
+Electronics workshop at PyCon AU 2015[/caption]&lt;/p&gt;
+&lt;p&gt;It was my first time PyCon AU experience. And it was very nice to meet
+people who shares the same interest and enthusiast with you. And in the
+end, the main point of attending a conference is to meet its people.&lt;/p&gt;
+&lt;p&gt;See you at the next (nearest) PyCon!&lt;/p&gt;</summary><category term="django"></category><category term="PyCon"></category><category term="PyCon AU"></category><category term="PyCon AU 2015"></category><category term="Python"></category></entry><entry><title>PyconMY 2015 Talk - Mastering Python Ecosystem</title><link href="http://devblog.xoxzo.com/en/pyconmy-2015-talk-mastering-python-ecosystem.html" rel="alternate"></link><published>2015-08-28T17:04:00+09:00</published><updated>2015-08-28T17:04:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2015-08-28:en/pyconmy-2015-talk-mastering-python-ecosystem.html</id><summary type="html">&lt;p&gt;Pycon Malaysia (PyconMY) 2015 just wrapped up last week. This is the
+first ever Python conference in Malaysia after a &lt;a href="http://Kamal%20Mustafa.github.io/posts/mini-pycon-my-2014.html"&gt;mini
+Pycon&lt;/a&gt;
+held last year. It was held in Universiti Malaya (UM), Kuala Lumpur.
+Unfortunately, due to some emergency with my family, I have to leave
+early after delivering my talk and basically missed the whole event.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://xoxzoblog.files.wordpress.com/2015/08/pycon1.jpg"&gt;&lt;img alt="pycon1" src="https://xoxzoblog.files.wordpress.com/2015/08/pycon1.jpg?w=300" /&gt;{.alignnone
+.size-medium .wp-image-739 width="300"
+height="169"}&lt;/a&gt;&lt;a href="https://xoxzoblog.files.wordpress.com/2015/08/pycon2.jpg"&gt;&lt;img alt="pycon2" src="https://xoxzoblog.files.wordpress.com/2015/08/pycon2.jpg?w=300" /&gt;{.alignnone
+.size-medium .wp-image-740 width="300"
+height="169"}&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Throughout the talk, I try to give broad general overview of what they
+can expect if they were some day decide to adopt Python into their work
+environment.&lt;/p&gt;
+&lt;p&gt;The main barrier to Python is not the language itself but the ecosystem
+around it. Some people come to Python not because they want to learn it
+but because the application they want to use happened to be developed in
+Python. If they can get pass this stage, Python would appear as
+attractive to them and will make them start learning the language.&lt;/p&gt;
+&lt;p&gt;This is basically the path that I took to learn Python. I started not by
+learning the language, but trying all sort of applications built in
+Python. This, I think allow me to begin with an end in mind. Rather than
+wondering what I can do with the language once I know all the syntax and
+so on, I know exactly what sort of applications Python can build, now I
+just need to dig deeper how exactly does people built it. The is how I
+managed to see how Python features such as list comprehension,
+decorator, metaclass and others being used to solve real problems.&lt;/p&gt;
+&lt;p&gt;You can view the slides
+&lt;a href="https://docs.google.com/presentation/d/1Mt6laaDXGWLN7rm1pvYcqeEzCi9FoJ6VLEMryBEMw_c/edit#slide=id.p"&gt;here&lt;/a&gt;.&lt;/p&gt;</summary><category term="PyCon"></category><category term="Python"></category><category term="talk"></category></entry><entry><title>Talk at UTHM</title><link href="http://devblog.xoxzo.com/en/talk-at-uthm.html" rel="alternate"></link><published>2015-05-29T09:19:00+09:00</published><updated>2015-05-29T09:19:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2015-05-29:en/talk-at-uthm.html</id><summary type="html">&lt;p&gt;&lt;img alt="Header image" src="http://devblog.xoxzo.com/en/images/imBJVxY.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Two days ago, I was invited by Universiti Tun Hussein Onn (UTHM) student
+to give a talk on their 1 day seminar for the students in the Computer
+Science and Information Technology (FSKTM) faculty. Thinking that this
+is a good chance to connect with the students, I'd agreed and went there
+with a friend from &lt;a href="https://www.facebook.com/groups/jomwebjohor/"&gt;JomWeb Johor&lt;/a&gt;, 
+a community of web developers in Johor Bahru.&lt;/p&gt;
+&lt;p&gt;I was not fully prepare, due to short notice I got but I try my best to
+share something that I have learnt throughout my careers in this
+industry. The title of my talk was '&lt;em&gt;Menjana Pengalaman Melalui OSS
+Development&lt;/em&gt;', loosely translated as '&lt;em&gt;Building Experiences through OSS
+Development&lt;/em&gt;'.&lt;/p&gt;
+&lt;p&gt;Throughout the two and half hours talk, I try to give some insight to
+the student on how to solve the most common dilemma of any fresh
+graduate (not just in IT) that is - the requirement for x years of
+experiences that the industry need. We in IT however are quite lucky
+that the same dilemma not necessarily applied to us, if we know how to
+get around that.&lt;/p&gt;
+&lt;p&gt;After the talk, we continued with a forum session joined by 4 other
+speakers invited by the organizer. The 4 talk basically run in parallel
+in separate rooms, so it quite a miss that I can't listen to the other
+sessions. The issues raised in the forum are quite common - is student
+prepared as expected by industry, what else can university can do to
+equip student, salary, what technologies having the brightest future
+etc. But there's one question from a student that I think, caught
+everyone in surprise.&lt;/p&gt;
+&lt;p&gt;This student, basically already spent 4 years in the industry before
+deciding to back into university to further his study. He said that he
+feel's trapped into his job and passion in programming, not having a
+quality life anymore. This is something to ponder I think. Unfortunately
+I didn't (other panels as well) has clear answer for him.&lt;/p&gt;</summary><category term="open source"></category><category term="oss"></category><category term="talk"></category></entry><entry><title>AWS Summit KL 2015</title><link href="http://devblog.xoxzo.com/en/aws-summit-kl-2015.html" rel="alternate"></link><published>2015-05-28T23:07:00+09:00</published><updated>2015-05-28T23:07:00+09:00</updated><author><name>almond55</name></author><id>tag:devblog.xoxzo.com,2015-05-28:en/aws-summit-kl-2015.html</id><summary type="html">&lt;p&gt;On the 21st of May, the first AWS Summit was held at Connexion@Nexus,
+located in Kuala Lumpur. A total of 1075 participants turned up that day
+which lasted from 7.30am till 6pm.&lt;/p&gt;
+&lt;p&gt;&lt;a class="asset-img-link" href="https://xoxzoblog.files.wordpress.com/2015/05/5c468-6a0153916e707f970b01b8d11b4dc4970c-pi.jpg"&gt;&lt;img alt="IMAG0509" src="https://xoxzoblog.files.wordpress.com/2015/05/5c468-6a0153916e707f970b01b8d11b4dc4970c-pi.jpg?w=300" title="IMAG0509" /&gt;{.asset
+.asset-image .at-xid-6a0153916e707f970b01b8d11b4dc4970c
+.img-responsive}&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The summit was split into two tracks. The first track is Introduction to
+AWS while the second track is AWS Architecture. There were also
+exhibition booths ran by sponsors of the event. A good part of the
+exhibition was aimed at companies thinking about converting their system
+to the cloud.&lt;/p&gt;
+&lt;p&gt;The keynote introduced a new AWS feature called AWS Lambda, which was
+the core of several keynotes during the day. Other AWS components were
+re-introduced and have their uses featured in several applications. The
+keynotes in the advanced track mostly feature big data analytics while
+the introduction track introduces the audience to the various services
+that AWS has. There is also a dedicated talk about container computing,
+mostly referencing to Docker.&lt;/p&gt;
+&lt;p&gt;&lt;a class="asset-img-link" href="https://xoxzoblog.files.wordpress.com/2015/05/12fb2-6a0153916e707f970b01bb0835babb970d-pi.jpg"&gt;&lt;img alt="IMAG0517" src="https://xoxzoblog.files.wordpress.com/2015/05/12fb2-6a0153916e707f970b01bb0835babb970d-pi.jpg?w=300" title="IMAG0517" /&gt;{.asset
+.asset-image .at-xid-6a0153916e707f970b01bb0835babb970d
+.img-responsive}&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;AWS Lambda features a serverless and stateless web app. All you need are
+functions and make use of S3 and DynamoDB without the need to set up
+your own infrastructure. Charges will occur every 100ms the process is
+running after the free monthly quota is used up.&lt;/p&gt;
+&lt;p&gt;Other services which were highlighted was AWS Machine Learning for
+analyzing data trends and predicting outcomes based on the data fed, AWS
+Kinesis for live streaming data, AWS Redshift is another kind of
+database which is used in big data analytics. Also featured was the
+elastic file system, or AWS EFS as well as AWS EMR, which is the
+equivalent of the Hadoop cluster.&lt;/p&gt;
+&lt;p&gt;The day ended with a lucky draw session contributed by the sponsors as
+well as from AWS themselves.&lt;/p&gt;
+&lt;p&gt;In conclusion, it was a fun and informative day for all who attended.
+The excitement of Lambda still echoed in various conversations long
+after the morning keynote and demo was addressed. There is also a
+growing support of local services to help other companies migrate to the
+cloud. This year's summit seems to be the first step for many Malaysian
+companies. But by next year's summit we're definitely going to see even
+more creative use out of AWS as more and more people will be exposed and
+using it.&lt;/p&gt;
+&lt;p&gt;&lt;a class="asset-img-link" href="https://xoxzoblog.files.wordpress.com/2015/05/6ebd8-6a0153916e707f970b01b8d11b4f16970c-pi.jpg"&gt;&lt;img alt="IMAG0522" src="https://xoxzoblog.files.wordpress.com/2015/05/6ebd8-6a0153916e707f970b01b8d11b4f16970c-pi.jpg?w=200" title="IMAG0522" /&gt;{.asset
+.asset-image .at-xid-6a0153916e707f970b01b8d11b4f16970c
+.img-responsive}&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;P/S: This little selfie booth in the outside foyer really grabbed
+everyone's attention.&lt;/p&gt;</summary></entry><entry><title>MARIMORE Engineering Team Camp in Malacca</title><link href="http://devblog.xoxzo.com/en/marimore-engineering-team-camp-in-malacca.html" rel="alternate"></link><published>2014-09-13T14:32:00+09:00</published><updated>2014-09-13T14:32:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:devblog.xoxzo.com,2014-09-13:en/marimore-engineering-team-camp-in-malacca.html</id><summary type="html">&lt;p&gt;&lt;span
+style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;Early
+September 2014 we had a 2-day team camp for our engineering team in
+Malacca.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;Because
+all of us work remotely all the time and we usually only communicate via
+voice, video and/or text, it is great to meetup and discuss targets,
+issues and ideas face-to-face. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;Meetups
+are a great way to communicate issues or ideas which are complicated to
+be put to paper. I find that discussing ideas are much more effective
+face-to-face; Perhaps due to the many tools (like pen and paper)
+expressions (nuances in the facial expression, hand movements and voice)
+that we can utilize and the real-time nature of the discussion.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;At the
+same time the beauty of working remotely all the time is that it trains
+you to be precise and concise as much as possible but without leaving
+too much information out to get your point across. Usually we only have
+one shot to communicate (i.e sending an email or a text message) which
+if we miss to get the point across, will require the reader to get our
+subsequent explaination in her next iteration, and this will require us
+to wait.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;The
+camp this time was done at &lt;a href="http://www.hattenhotel-melaka.com/"&gt;Hatten Hotel
+Malacca&lt;/a&gt;, in the UNESCO heritage
+city of &lt;a class="zem_slink" href="http://maps.google.com/maps?ll=2.20569166667,102.256136111&amp;amp;spn=0.1,0.1&amp;amp;q=2.20569166667,102.256136111%20(Malacca%20City)&amp;amp;t=h" title="Malacca City"&gt;Malacca
+City&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;
+&lt;a class="asset-img-link" href="https://xoxzoblog.files.wordpress.com/2014/09/afd30-6a0153916e707f970b01b7c6df2ddd970b-pi.jpg"&gt;&lt;img alt="2014-09-04
+07.42.40" src="https://xoxzoblog.files.wordpress.com/2014/09/afd30-6a0153916e707f970b01b7c6df2ddd970b-pi.jpg?w=300" title="2014-09-04 07.42.40" /&gt;{.asset
+.asset-image .at-xid-6a0153916e707f970b01b7c6df2ddd970b
+.img-responsive}&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;^The\ view\ from\ my\ room^ &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;Team
+camp started at 10AM on the first day, and since everyone was driving to
+the hotel, we met up at the 12th floor executive check-in lounge.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;It was
+our first time having our team camp at Hatten Hotel, but we were very
+happy with the service. Since we had the executive rooms, we were able
+to take advantage of the executive lounge with it's free flow of coffee
+and juice, with some light snacks around 4PM in the afternoon.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;The
+hotel WiFi was also available and pretty fast, although it was a bit
+flaky at times. Each of us has a &lt;a href="http://www.yes.my/v3/personal/devices/huddle.do"&gt;YES 4G
+Huddle&lt;/a&gt;, so we managed
+to get connected (coverage wasn't an issue since Hatten is in the middle
+of the town) when the hotel WiFi was difficult to connect.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;Food
+wasn't an issue: There were many small eateries across the street in the
+Dataran Pahlawan mall, and for breakfast Hatten had a breakfast plan
+included with our reservation and the spread was impressive. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;The
+team camp this time focused more on FullCourt, the Cloud Communications
+platform &lt;a href="http://press.marimore.co.jp/2014/07/marimore-acquiring-fullcourt.html" title="MARIMORE acquiring FullCourt"&gt;we acquired last
+July&lt;/a&gt;.
+Discussion focused on the current status of development,
+functionalities, issues faced and also an overview of the roadmap that
+we have planned for all of our cloud services.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;This
+meetup was also to congratulate and welcome &lt;a href="http://www.marimore.co.jp/en/ourstaff/"&gt;Aman, the new addition to
+our team&lt;/a&gt;. Aman in mainly
+responsible for the technology transfer of FullCourt from the current
+FullCourt team.&lt;br /&gt;
+&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;&lt;a class="asset-img-link" href="https://xoxzoblog.files.wordpress.com/2014/09/24e92-6a0153916e707f970b01b8d0692672970c-pi.jpg"&gt;&lt;img alt="2014-09-04
+12.12.07" src="https://xoxzoblog.files.wordpress.com/2014/09/24e92-6a0153916e707f970b01b8d0692672970c-pi.jpg?w=300" title="2014-09-04 12.12.07" /&gt;{.asset
+.asset-image .at-xid-6a0153916e707f970b01b8d0692672970c
+.img-responsive}&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;^The\ engineering\ team^&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;We
+continued our discussion in the morning of the 2nd day, and we ended the
+team camp by lunch time since we wanted everyone to be home by
+dinner.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;MARIMORE
+tries to do team camps a few times a year, and this time it was the
+first time we had it in Malacca. I was pretty happy with the experience,
+and will put Malacca high on top of our list.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Related articles&lt;/p&gt;
+&lt;div class="zemanta-article-ul zemanta-article-ul-image"
+style="margin:0;padding:0;overflow:hidden;"&gt;
+
+&lt;div class="zemanta-article-ul-li-image zemanta-article-ul-li"
+style="padding:0;background:none;list-style:none;display:block;float:left;vertical-align:top;text-align:left;width:84px;font-size:11px;margin:2px 10px 10px 2px;"&gt;
+
+[![](http://i.zemanta.com/282082733_80_80.jpg)](http://press.marimore.co.jp/2014/07/marimore-acquiring-fullcourt.html)[MARIMORE
+acquiring
+FullCourt](http://press.marimore.co.jp/2014/07/marimore-acquiring-fullcourt.html)
+
+&lt;/div&gt;
+
+&lt;/div&gt;</summary><category term="hatten hotel"></category><category term="malacca"></category><category term="MARIMORE"></category></entry><entry><title>Django transaction.commit_manually wrapper</title><link href="http://devblog.xoxzo.com/en/django-transactioncommit_manually-wrapper.html" rel="alternate"></link><published>2012-08-27T09:02:00+09:00</published><updated>2012-08-27T09:02:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2012-08-27:en/django-transactioncommit_manually-wrapper.html</id><summary type="html">&lt;p&gt;I first &lt;a href="http://metaKamal%20Mustafa.blogspot.com/2011/05/django-transactioncommitmanually-mask.html"&gt;encountered this
+problem&lt;/a&gt;
+1 year ago and it look's like the issue still not being fixed till now.
+The &lt;a href="https://code.djangoproject.com/ticket/6623"&gt;corresponding ticket&lt;/a&gt;
+has been 5 years old already. When you used
+&lt;code&gt;transaction.commit_manually&lt;/code&gt; decorator around your function (usually
+views function), you mark that function to be executed in single
+transaction but you'll manage the transaction control, whether to commit
+or rollback yourself. This in contrast to another related decorator
+&lt;code&gt;transaction.commit_on_success&lt;/code&gt; where django will handle the commit or
+rollback depending on the function can be successfully executed or not.&lt;/p&gt;
+&lt;p&gt;Using &lt;code&gt;transaction.commit_manually&lt;/code&gt;, there's usually a case when an
+exception occurred in the function uncaught causing the commit or
+rollback call not reached. When django detect this (because it see the
+dirty bit in the transaction object), it raise
+&lt;code&gt;TransactionManagementError&lt;/code&gt; with the infamous message 'Transaction
+managed block ended with pending COMMIT/ROLLBACK'. The original
+exception however is buried inside the traceback and you have to dig it
+out in the order to find out the real issue. It's really annoying
+because sometime you have to disable the decorator in order to find out
+the real error.&lt;/p&gt;
+&lt;p&gt;Until the issue get fixed and we manage to upgrade to latest version of
+django (which unlikely to happen in the near future), I have decided to
+create a wrapper around &lt;code&gt;transaction.commit_manually&lt;/code&gt; and use it instead
+of the original decorator.&lt;/p&gt;
+&lt;p&gt;I have also update the patch in the
+&lt;a href="https://code.djangoproject.com/ticket/6623"&gt;ticket&lt;/a&gt; to apply cleanly to
+current django trunk but so far no feedback yet from django core
+developers.&lt;/p&gt;</summary><category term="django"></category></entry><entry><title>Database Transaction in Django</title><link href="http://devblog.xoxzo.com/en/database-transaction-in-django.html" rel="alternate"></link><published>2012-06-21T07:54:00+09:00</published><updated>2012-06-21T07:54:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2012-06-21:en/database-transaction-in-django.html</id><summary type="html">&lt;p&gt;Keep forgetting about this so this is to wrap my heads around it. First
+I have&lt;br /&gt;
+the impression that Django by default execute database operations within
+a&lt;br /&gt;
+transaction block, which is the source of my confusion. It's true only
+to&lt;br /&gt;
+certain extent. The &lt;a href="https://docs.djangoproject.com/en/1.3/topics/db/transactions/"&gt;first section in django
+documentation&lt;/a&gt;
+already explained&lt;br /&gt;
+this (emphasized is mine):-&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Django’s default behavior is to run with an open transaction which it&lt;br /&gt;
+commits automatically when any built-in, &lt;strong&gt;data-altering model
+function&lt;br /&gt;
+is called&lt;/strong&gt;. For example, if you call model.save() or
+model.delete(),the&lt;br /&gt;
+change will be committed immediately.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Once you call any function that will alter the data such as &lt;code&gt;.save()&lt;/code&gt;
+method,&lt;br /&gt;
+Django will commit the transaction and start a new one. Take the
+following code&lt;br /&gt;
+for example:-&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;def step1():
+mms = MMSMessage()
+mms.save()
+step2()
+@transaction.commit_manually
+def step2():
+transaction.rollback()
+step1()
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;I thought no &lt;code&gt;MMSMessage&lt;/code&gt; object will be saved since when &lt;code&gt;step2()&lt;/code&gt;
+function&lt;br /&gt;
+get called, the transaction was rollback. But the fact is, the
+transaction&lt;br /&gt;
+already committed when &lt;code&gt;mms.save()&lt;/code&gt; is called and by the time &lt;code&gt;step2()&lt;/code&gt;&lt;br /&gt;
+executed it's already running in a new transaction, so the rollback does
+not&lt;br /&gt;
+has any effect. To get what we want, both function must be made to run
+in a&lt;br /&gt;
+single transaction.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;def step1():
+mms = MMSMessage()
+mms.save()
+step2()
+@transaction.commit_manually
+def step2():
+transaction.rollback()
+@transaction.commit_manually
+def main():
+step1()
+main()
+&lt;/pre&gt;&lt;/div&gt;</summary><category term="django"></category><category term="Python"></category><category term="transaction"></category></entry><entry><title>Django: Where does settings belong ?</title><link href="http://devblog.xoxzo.com/en/django-where-does-settings-belong.html" rel="alternate"></link><published>2012-05-23T20:07:00+09:00</published><updated>2012-05-23T20:07:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2012-05-23:en/django-where-does-settings-belong.html</id><summary type="html">&lt;p&gt;Settings is very central to all Django applications. Django even barf if
+you&lt;br /&gt;
+don't supply one and import any django modules or functions (most of
+it). The&lt;br /&gt;
+way to specify settings to Django app however a bit awkward. Rather
+calling&lt;br /&gt;
+some function and pass the settings to that function, Django require you
+to put&lt;br /&gt;
+the path to settings module in os.environ dict. Consider a Flask
+application:-&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;flask&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;Flask&lt;/span&gt;
+&lt;span class="n"&gt;app&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;Flask&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;__name__&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="nd"&gt;@app.route&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;/&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;hello_world&lt;/span&gt;&lt;span class="p"&gt;():&lt;/span&gt;
+&lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;Hello World!&amp;#39;&lt;/span&gt;
+&lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;__name__&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;__main__&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+&lt;span class="n"&gt;app&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;run&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;debug&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="bp"&gt;True&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;It feels natural. You instantiate an app, call it's run() method and
+pass&lt;br /&gt;
+&lt;code&gt;debug&lt;/code&gt; as parameter to the function. It's easy to explain. Or if Flask
+not&lt;br /&gt;
+your favourite, let's take a look at Bottle example:-&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;bottle&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;route&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;run&lt;/span&gt;
+&lt;span class="nd"&gt;@route&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;/hello&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;hello&lt;/span&gt;&lt;span class="p"&gt;():&lt;/span&gt;
+&lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;Hello World!&amp;quot;&lt;/span&gt;
+&lt;span class="n"&gt;run&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;host&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;localhost&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;port&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;8080&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;debug&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="bp"&gt;True&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;It still maintain the same flow. But let's look at how we pass settings
+to&lt;br /&gt;
+Django app. This is what you get in default &lt;code&gt;manage.py&lt;/code&gt; generated by&lt;br /&gt;
+&lt;code&gt;django-admin.py startproject&lt;/code&gt; command:-&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;os&lt;/span&gt;
+&lt;span class="n"&gt;os&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;environ&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;setdefault&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;DJANGO_SETTINGS_MODULE&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;myapp.settings&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;__name__&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;__main__&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+&lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;django.core.management&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;execute_from_command_line&lt;/span&gt;
+&lt;span class="n"&gt;execute_from_command_line&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Compared to example for other 2 frameworks, the logic now seem to branch
+into 2&lt;br /&gt;
+separate paths. First you have to figure out what is going on with&lt;br /&gt;
+&lt;code&gt;os.environ.setdefault()&lt;/code&gt; stuff, and then the stuff with&lt;br /&gt;
+&lt;code&gt;execute_from_command_line()&lt;/code&gt;. Enough to confuse beginner. Only later on
+I&lt;br /&gt;
+figured out that you can actually skip &lt;code&gt;os.environ&lt;/code&gt; stuff and directly
+set&lt;br /&gt;
+settings as you wish. The above example can be re-written as:-&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;django.conf&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;settings&lt;/span&gt;
+&lt;span class="n"&gt;settings&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;configure&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;DEBUG&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="bp"&gt;True&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;__name__&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;__main__&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+&lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;django.core.management&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;execute_from_command_line&lt;/span&gt;
+&lt;span class="n"&gt;execute_from_command_line&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Now it look more like the other 2 frameworks. This however not much an
+issue,&lt;br /&gt;
+because once your application grow, you'll definitely want to put your
+settings&lt;br /&gt;
+in one central place and could be the reason why Django has made that
+decision&lt;br /&gt;
+for you early on. The real issue is where should we put the central
+settings ?&lt;/p&gt;
+&lt;p&gt;Django settings, being a pure python module mean it has to be somewhere
+on your&lt;br /&gt;
+&lt;code&gt;sys.path&lt;/code&gt; so Django can import it to initialize the application.
+Logically I&lt;br /&gt;
+want the settings for &lt;code&gt;myapp&lt;/code&gt; to appear as &lt;code&gt;myapp.settings&lt;/code&gt;. This
+however would&lt;br /&gt;
+make the settings now part of the application. But settings suppose to
+have&lt;br /&gt;
+some piece of information that will be used to create and initialized
+the&lt;br /&gt;
+application (ROOT_URLCONF come to mind) but now the settings itself
+already&lt;br /&gt;
+part of the application. I've repeated the word application too much in
+last&lt;br /&gt;
+sentence.&lt;/p&gt;
+&lt;p&gt;One situation when this chicken-and-egg manifest. I want to deploy my
+app using&lt;br /&gt;
+&lt;code&gt;setup.py&lt;/code&gt; which mean &lt;code&gt;myapp&lt;/code&gt; will be installed in &lt;code&gt;site-packages&lt;/code&gt;. That
+also&lt;br /&gt;
+mean &lt;code&gt;settings.py&lt;/code&gt; will also reside in &lt;code&gt;site-packages&lt;/code&gt;. But for web
+application&lt;br /&gt;
+there are more than just python code. There should be a directory to
+store&lt;br /&gt;
+uploaded files or csv files for some external data. I want to keep all
+this in&lt;br /&gt;
+a self contained project directory but since now &lt;code&gt;myapp.settings&lt;/code&gt; reside
+in&lt;br /&gt;
+&lt;code&gt;site-packages&lt;/code&gt; I'm losing the ability to calculate the path to my
+project dir&lt;br /&gt;
+at run time. While I can compensate this by having a standardized
+location on&lt;br /&gt;
+production machine, I'd still want to keep this in one single project
+dir for&lt;br /&gt;
+development so each developers work doesn't step into each other and
+also for&lt;br /&gt;
+portabilty of development environment.&lt;/p&gt;
+&lt;p&gt;The only way now is to not installing &lt;code&gt;myapp&lt;/code&gt; into &lt;code&gt;site-packages&lt;/code&gt; but
+altering&lt;br /&gt;
+sys.path to add path to the directory containing &lt;code&gt;myapp&lt;/code&gt; package. Some
+of open&lt;br /&gt;
+source django project I found put &lt;code&gt;settings.py&lt;/code&gt; outside the app
+packages,&lt;br /&gt;
+usually at the same level of &lt;code&gt;manage.py&lt;/code&gt; or &lt;code&gt;.wsgi&lt;/code&gt; script used to
+launch the&lt;br /&gt;
+app. They then specify the settings as
+&lt;code&gt;os.environ['DJANGO_SETTINGS_MODULE'] = 'settings'&lt;/code&gt;. This make settings
+external to the application but at the same time&lt;br /&gt;
+exposed &lt;code&gt;settings&lt;/code&gt; into the global namespace. While I haven't yet found
+any&lt;br /&gt;
+packages at PyPI using the name &lt;code&gt;settings&lt;/code&gt;, it still doesn't feel right.&lt;/p&gt;
+&lt;p&gt;I take a look at how settings are handled in Pylons/Pyramid project. Few
+things&lt;br /&gt;
+observed:-&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;They use INI files instead of pure python.&lt;/li&gt;
+&lt;li&gt;The INI files are placed at the top level of project directory.&lt;/li&gt;
+&lt;li&gt;Application get installed into &lt;code&gt;site-packages&lt;/code&gt; using setup.py&lt;/li&gt;
+&lt;li&gt;Since settings stayed in project dir, you still get referenced to
+    the project&lt;br /&gt;
+   dir even your app get installed into &lt;code&gt;site-packages&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;While it look quite similar to placing &lt;code&gt;settings.py&lt;/code&gt; at your project
+root, the&lt;br /&gt;
+INI files is not python module so there's no problem of exposing the
+settings&lt;br /&gt;
+into global namespace. The settings now also look truely external to
+the&lt;br /&gt;
+application. This has getting quite long but still the question
+remained&lt;br /&gt;
+unanswered, where should we put the settings file ?&lt;/p&gt;</summary><category term="django"></category><category term="Python"></category></entry><entry><title>PHP execution model vs Python web</title><link href="http://devblog.xoxzo.com/en/php-execution-model-vs-python-web.html" rel="alternate"></link><published>2012-05-02T16:48:00+09:00</published><updated>2012-05-02T16:48:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2012-05-02:en/php-execution-model-vs-python-web.html</id><summary type="html">&lt;p&gt;We're still looking for a better way to explain the difference between
+PHP execution model vs Python for web application to new developers
+joining us. This is to help them understand the key differences when
+developing web application in Python. One source of confusion among them
+was when they realized the state-full nature of Python web application
+compared to state-less nature of PHP. The following diagram is my
+attempt to show them these key difference.&lt;/p&gt;
+&lt;h2&gt;PHP&lt;/h2&gt;
+&lt;div align="center"&gt;
+
+[![Php](https://xoxzoblog.files.wordpress.com/2012/05/5e422-6a0153916e707f970b0168eaaad5df970c-pi.png?w=271 "Php"){.asset
+.asset-image
+.at-xid-6a0153916e707f970b0168eaaad5df970c}](https://xoxzoblog.files.wordpress.com/2012/05/5e422-6a0153916e707f970b0168eaaad5df970c-pi.png){.asset-img-link}
+
+&lt;/div&gt;
+
+&lt;p&gt;PHP execution model is quite simple actually and follow a cgi-like
+model. It simply take the php file as it's input, parse and interpret it
+and then return what ever output the script produced, pass it back to
+apache as response that will return back to requesting user (browser).
+Unlike cgi, mod_php already preloaded with the PHP interpreter so the
+process of parsing and executing the script is fast since it does not
+need to invoke PHP interpreter for each requests.&lt;/p&gt;
+&lt;p&gt;This diagram also tell us that &lt;code&gt;mod_php&lt;/code&gt; is simply a fast PHP
+interpreter and it does not know anything about our application. This
+make PHP a state-less environment.&lt;/p&gt;
+&lt;h2&gt;Python&lt;/h2&gt;
+&lt;div align="center"&gt;
+
+[![Python](https://xoxzoblog.files.wordpress.com/2012/05/7c5e7-6a0153916e707f970b016765b4178f970b-pi.png?w=216 "Python"){.asset
+.asset-image
+.at-xid-6a0153916e707f970b016765b4178f970b}](https://xoxzoblog.files.wordpress.com/2012/05/7c5e7-6a0153916e707f970b016765b4178f970b-pi.png){.asset-img-link}
+
+&lt;/div&gt;
+
+&lt;p&gt;In Python/Django execution model, our app always running as part of the
+server process (although probably as separate user) and only the views
+function/callable that will be executed on each request. This mean some
+part of our code will only been executed once when we start/restart the
+web server and only the code in the views function/callable are
+guaranteed to run in each requests. This mean it's possible to store
+data that would persist between requests. For example:-&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;django.http&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;HttpResponse&lt;/span&gt;
+&lt;span class="n"&gt;counter&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;[]&lt;/span&gt;
+&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;home&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;request&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+&lt;span class="n"&gt;counter&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;append&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="n"&gt;HttpResponse&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;Counter: &lt;/span&gt;&lt;span class="si"&gt;%d&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;&lt;/span&gt; &lt;span class="o"&gt;%&lt;/span&gt; &lt;span class="nb"&gt;len&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;counter&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;This is simple django views and if you access this through browser
+you'll see the counter value will be incremented every time you refresh
+the browser. If you're just coming from PHP this new fact should be more
+a warning than a cool new thing you want to try doing since most of the
+time you want to avoid storing state like this and make sure you always
+start with a fresh data on each requests. If you really need to store
+data that persist between requests such remembering user already login,
+there's better way such as django session object.&lt;/p&gt;
+&lt;p&gt;Another important consequences from this new fact about python execution
+model is that it mean when we change our code, we have to restart the
+server so that it will have the latest copy of our code. PHP programmers
+might found this daunting at first but if you already work in
+application server model like Java you'll know that this is rather
+typical because when the server is start, it already load our code into
+memory, waiting to call some function when request came in. PHP due to
+it's CGI-like manner is different because the whole code only executed
+as part of the request.&lt;/p&gt;
+&lt;p&gt;Executing whole application code on each requests work best with PHP
+because it's already been designed from the ground up as web language.
+The standard library functions in PHP also been written in C so it's
+already fast and executing that on each requests doesn't matter much.
+Python however has most of it's standard library written in Python
+itself which mean executing that on each request would be too slow.
+You'll also facing the same problem in PHP once your code base grow to
+certain level where you need to look for solution that cache the opcode
+such as APC or eAccelerator.&lt;/p&gt;
+&lt;p&gt;Definitely there are more to discuss on the differences between PHP and
+Python execution model for web application but I hope this post can
+start giving you an idea why developing in Python a bit different than
+what you already accustomed to in PHP. I'll try to expand this topic
+more in upcoming posts and also welcome any suggestion to help PHP
+developers to keep up fast in Python web development. Related reading
+that help me a lot in understanding the difference between PHP and
+Python web execution model is a blog post by Ian Bicking few years ago -
+&lt;a href="http://blog.ianbicking.org/2008/01/12/what-php-deployment-gets-right/"&gt;What PHP Deployment Gets
+Right&lt;/a&gt;.&lt;/p&gt;</summary><category term="php"></category><category term="Python"></category></entry><entry><title>Supporting HTML5 features in browsers using polyfill</title><link href="http://devblog.xoxzo.com/en/polyfilling-the-future.html" rel="alternate"></link><published>2012-04-23T11:23:00+09:00</published><updated>2012-04-23T11:23:00+09:00</updated><author><name>xoxzoblog</name></author><id>tag:devblog.xoxzo.com,2012-04-23:en/polyfilling-the-future.html</id><summary type="html">&lt;div&gt;
+
+**What is polyfill?**
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+A polyfill or polyfiller is code designed to provide technology that is
+not native to a web browser. For example, earlier versions of Internet
+Explorer do not support all the features of HTML5 which may necessitate
+the use of polyfills to display features of HTML5 which are not
+supported by the web browser.
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;div&gt;
+
+**What does it mean?**
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+If you use &amp;lt;audio&amp;gt; tag for certain filetypes (for example, an mp3
+file), there are some browser that do not supports it.[^\[1\]^](anchor1)
+What does it needs to be done if we want to play an mp3 file on Firefox
+3.6? Well, we can use a flash audio player for instance or we could
+provide other compatible files. The latter is not preferable for it
+requires a lot of space and processing power. We'd have to convert every
+single file that are not supported by browsers to a format it supports.
+Polyfills provide a fallback for this type of
+situations.[^\[2\]^](anchor2)
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;div&gt;
+
+**How Do We Check A Feature Is In A Browser?**
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+Check out &lt;http://html5readiness.com/&gt; to view the readiness of a
+browser to a specific HTML5 feature. 
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a class="asset-img-link" href="https://xoxzoblog.files.wordpress.com/2012/04/860d2-6a0153916e707f970b0168ea921382970c-pi.jpg"&gt;&lt;img alt="Capture4-23-2012-6.41.10
+AM" src="https://xoxzoblog.files.wordpress.com/2012/04/860d2-6a0153916e707f970b0168ea921382970c-pi.jpg" title="Capture4-23-2012-6.41.10 AM" /&gt;{.asset
+.asset-image .at-xid-6a0153916e707f970b0168ea921382970c
+.image-full}&lt;/a&gt;&lt;/p&gt;
+&lt;div&gt;
+
+&lt;div&gt;
+
+**But How Do We Check It In Code?**
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+To check it in code, we could use Modernizr to detect if a specific
+feature is in the browser. &lt;http://modernizr.com/docs/#features-css&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+For example,
+
+&lt;/div&gt;
+
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;if (Modernizr.audio.mp3 == &amp;#39;&amp;#39; and &amp;#39;&amp;#39; == false)
+{
+// Use the flash audio player
+}
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;div&gt;
+
+**Where Do We Get These Polyfills?**
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+Most of them are listed at &lt;http://html5please.com&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+**That's it. **
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+The "polyfill" or "regressive enhancement" technique just means that you
+go ahead and use HTML5 features then use other libraries to emulate
+native behavior in older browsers. So instead of worrying about support
+in some browsers, use these polyfills to enhance the browsers to provide
+the user with proper experience to your web sites and applications.
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;div&gt;
+
+&lt;div&gt;
+
+[1.]( "anchor1") &lt;http://html5doctor.com/native-audio-in-the-browser/&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+[2.]( "anchor2") &lt;http://html5please.com/#audio&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;</summary></entry><entry><title>Releasing dev version of your package to PyPI</title><link href="http://devblog.xoxzo.com/en/releasing-dev-version-of-your-package-to-pypi.html" rel="alternate"></link><published>2012-03-20T08:50:00+09:00</published><updated>2012-03-20T08:50:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2012-03-20:en/releasing-dev-version-of-your-package-to-pypi.html</id><summary type="html">&lt;p&gt;&lt;a href="http://pypi.python.org/pypi"&gt;PyPI&lt;/a&gt; (Python Package Index) has become a
+central place for python developers these days to look for third party
+libraries. Common tools such as easy_install, pip or buildout by
+default will look into &lt;a href="http://pypi.python.org/pypi"&gt;PyPI&lt;/a&gt; when asked to
+install certain packages. For example:-&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;easy_install Django
+easy_install Django==1.3.1
+pip install Django
+pip install Django==1.2.4
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;all those commands above will either install the latest stable release
+of Django or an exact version as specified as argument to the command.
+For our own &lt;a href="https://github.com/marimore/mamopublic"&gt;mamopublic&lt;/a&gt;
+package, I'd plan to also release it on
+&lt;a href="http://pypi.python.org/pypi"&gt;PyPI&lt;/a&gt; so it more inline with other third
+party libraries that we need to install as part of our project
+dependencies. The process actually pretty straightforward, once you have
+sign up and get your username and password, all you have to do is from
+your package root:-&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;python setup.py register # this will register the package name on pypi
+python setup.py sdist upload
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;It will ask you to save the username and password in &lt;code&gt;~/.pypirc&lt;/code&gt; so you
+don't have to&lt;br /&gt;
+type username and password everytime you want to upload to
+&lt;a href="http://pypi.python.org/pypi"&gt;PyPI&lt;/a&gt;. Now I can install
+&lt;a href="https://github.com/marimore/mamopublic"&gt;mamopublic&lt;/a&gt; simpy by just
+typing &lt;code&gt;easy_install mamopublic&lt;/code&gt;. That will grab the tarball from
+&lt;a href="http://pypi.python.org/pypi"&gt;PyPI&lt;/a&gt; website. There's always a case that
+I want to install the latest code from our github commit. I have seen
+lot of packages on &lt;a href="http://pypi.python.org/pypi"&gt;PyPI&lt;/a&gt; that allow us to
+install their latest dev release using command such as:-&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;easy_install django-nose==dev
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Looking around in setuptools/distribute documentation, I didn't found
+any settings for &lt;code&gt;setup.py&lt;/code&gt; that allow us to specify the url to download
+the package instead from &lt;a href="http://pypi.python.org/pypi"&gt;PyPI&lt;/a&gt;'s tarball.
+Finally, checking package edit page on PyPI I noticed that there's an
+input field for download url. So what I did was to change the version in
+setup.py to 'dev' instead of '1.8' and then upload it to PyPI. Since
+'dev' version not exists yet, PyPI happily accept that. PyPI apparently
+refused to accept upload of package of similar version. You have to bump
+the version number or delete the package from PyPI first. Then I went to
+the package edit page and specified the download url pointing to github
+generated tarball from latest commit.&lt;/p&gt;
+&lt;p&gt;Now it's possible to install our latest commit simply by using
+&lt;code&gt;easy_install -U mamopublic==dev&lt;/code&gt;.&lt;/p&gt;</summary><category term="distribute"></category><category term="easy_install"></category><category term="pip"></category><category term="pypi"></category><category term="Python"></category><category term="setuptools"></category></entry><entry><title>Svn stash</title><link href="http://devblog.xoxzo.com/en/svn-stash.html" rel="alternate"></link><published>2012-03-09T19:32:00+09:00</published><updated>2012-03-09T19:32:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2012-03-09:en/svn-stash.html</id><summary type="html">&lt;p&gt;Update 2012-05-02 - Add new use-case when merging from trunk.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;One thing I like in git is the &lt;code&gt;stash&lt;/code&gt; command. Basically what it's
+doing is&lt;br /&gt;
+to take out current changes that we have, store it in temporary place
+and then&lt;br /&gt;
+revert our repo to it's previous pristine state. This has a number of
+use cases.&lt;br /&gt;
+Let say you're working on some features and then got some bug report
+that need&lt;br /&gt;
+to be fixed quickly. You may do new checkout in other location and do
+the bug&lt;br /&gt;
+fixing work, commit it and then continue on your new features work. This
+may not&lt;br /&gt;
+really prevalent if you work in branch since the bug might need to be
+fixed in&lt;br /&gt;
+another branch. &lt;code&gt;git branch&lt;/code&gt; does the job here since it allow you to
+quickly&lt;br /&gt;
+switch branch.&lt;/p&gt;
+&lt;p&gt;Now back to us who still stuck with svn. Nothing wrong with svn, it does
+the work&lt;br /&gt;
+and 99% of the time we're happy with it. There's another use case than I
+mentioned&lt;br /&gt;
+just now. Supposed while working on the new features, you found a bug.
+It may be&lt;br /&gt;
+just 1 line fix and you don't want the fix end up with features you're
+working on&lt;br /&gt;
+currently. With svn, you have few options:-&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Do new checkout in another directory, fix the bug and commit.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;svn diff &amp;gt; tmp.diff&lt;/code&gt;, &lt;code&gt;svn revert -R .&lt;/code&gt;, fix the bug and commit,
+    &lt;code&gt;patch -p0 &amp;lt; tmp.diff&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Second option not really nice solution if you have lot of newly added
+files and&lt;br /&gt;
+you want to have clean environment in order to test the bug fixes. You
+have to&lt;br /&gt;
+manually copy all the files to some other place. So I search around for
+'svn stash'&lt;br /&gt;
+and luckily there's few others who'd also thinking about 'svn stash'.
+&lt;a href="http://www.blisted.org/blog/bin/svn/stash"&gt;There's one&lt;br /&gt;
+that look complete&lt;/a&gt;, from a
+guy named scott (can't find any more details) so I&lt;br /&gt;
+give it a try. The script work quite well, it named as &lt;code&gt;svn&lt;/code&gt;, just put
+somewhere&lt;br /&gt;
+under your &lt;code&gt;$PATH&lt;/code&gt;, make sure it come first before the usual path such
+as &lt;code&gt;/usr/bin&lt;/code&gt;&lt;br /&gt;
+or &lt;code&gt;/usr/local/bin&lt;/code&gt;. The script basically a wrapper to actually svn
+executable,&lt;br /&gt;
+it contains few additonal commands and if none match, it just forward
+that to the real svn.&lt;/p&gt;
+&lt;p&gt;Scott's blog have enough explanation on how to use the script so I won't
+repeat it&lt;br /&gt;
+here. Basically the flow are:-&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;svn stash&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;... fix bug etc&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;svn commit&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;svn stash list&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;svn stash pop&lt;/code&gt; or &lt;code&gt;svn stash apply &amp;lt;stash-name&amp;gt;&lt;/code&gt; - pop will remove
+    the stash while &lt;code&gt;apply&lt;/code&gt; will keep it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Another useful use-case is when working on branch. While in the middle
+of your work on the branch, you might want to merge latest changes from
+trunk. It always good practice to merge into a clean working directory
+rather than have the changes from merge mix your current uncommitted
+work. You may not ready yet to commit your current changes. With &lt;code&gt;stash&lt;/code&gt;
+command you can 'stash' the current changes, merge latest changes from
+trunk, commit, reapply the stash and continue to work:-&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;kamal@sms:~/marimore_sms/branches/381-reset-count
+$ svn status
+M       lib/py/mamoprivate/sms/__init__.py
+M       bin/sendsmsd
+kamal@sms:~/marimore_sms/branches/381-reset-count
+$ svn stash
+Reverted &amp;#39;lib/py/mamoprivate/sms/__init__.py&amp;#39;
+Reverted &amp;#39;bin/sendsmsd&amp;#39;
+Changes stashed as: &amp;quot;4d51a3eb-3a16-4e63-89e7-09e74cd30d91&amp;quot;
+Working copy reverted to 129
+kamal@sms:~/marimore_sms/branches/381-reset-count
+$ svn status
+kamal@sms:~/marimore_sms/branches/381-reset-count
+$ svn merge ../../trunk/
+--- Merging r129 through r132 into &amp;#39;.&amp;#39;:
+U    lib/py/mamoprivate/d/projects/sms/settings.py
+M       lib/py/mamoprivate/d/projects/sms/settings.py
+kamal@sms:~/marimore_sms/branches/381-reset-count
+$ svn ci -m &amp;#39;merge latest trunk, refs #381&amp;#39;
+Sending        381-reset-count
+Sending        381-reset-count/lib/py/mamoprivate/d/projects/sms/settings.py
+Transmitting file data .
+Committed revision 133.
+kamal@sms:~/marimore_sms/branches/381-reset-count
+$ svn stash list
+1637 2012-05-02 13:56 4d51a3eb-3a16-4e63-89e7-09e74cd30d91
+kamal@sms:~/marimore_sms/branches/381-reset-count
+$ svn stash pop 4d51a3eb-3a16-4e63-89e7-09e74cd30d91
+pop: 4d51a3eb-3a16-4e63-89e7-09e74cd30d91
+Unstaging stash &amp;quot;4d51a3eb-3a16-4e63-89e7-09e74cd30d91&amp;quot;.
+M       lib/py/mamoprivate/sms/__init__.py
+M       bin/sendsmsd
+Stash &amp;quot;4d51a3eb-3a16-4e63-89e7-09e74cd30d91&amp;quot; removed.
+kamal@sms:~/marimore_sms/branches/381-reset-count
+$ svn status
+M       lib/py/mamoprivate/sms/__init__.py
+M       bin/sendsmsd
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;It also have some other goodies but I haven't try any of them. The
+script also show&lt;br /&gt;
+a creative way to provide 'plugins' to a command that do not natively
+support plugin.&lt;br /&gt;
+I might apply the same technique to other command. I have in mind to
+override the&lt;br /&gt;
+svn commit command to provide some kind pre-commit hook that run the
+code through&lt;br /&gt;
+static code checker before commiting. We're using Unfuddle so no chance
+for us to use&lt;br /&gt;
+the native svn pre-commit hook. Lastly, thanks to
+&lt;a href="http://www.blisted.org/"&gt;scott&lt;/a&gt; for such useful script.&lt;/p&gt;</summary><category term="git"></category><category term="svn"></category><category term="version control"></category></entry><entry><title>Understanding Python Import</title><link href="http://devblog.xoxzo.com/en/understanding-python-import.html" rel="alternate"></link><published>2011-11-22T16:32:00+09:00</published><updated>2011-11-22T16:32:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2011-11-22:en/understanding-python-import.html</id><summary type="html">&lt;p&gt;There's a lot have been written on understanding Python import so I'm
+not sure whether this one would help to clear the confusion or just add
+more. I hope for the former. Having a new hire who is new to Python
+bring up this issue again for us.&lt;/p&gt;
+&lt;p&gt;Python has few ways to import other modules and has been greatly covered
+in effbot's article - &lt;a href="http://effbot.org/zone/import-confusion.htm"&gt;Importing Python
+Modules&lt;/a&gt;. Module in Python
+is any file that end with .py. You can import it if you can somehow make
+that file available on Python import path (more on this later). An
+immediate companion to module is package - you can think of it as
+collection of modules but there's much simpler definition - any
+directory containing (even blank) file named as &lt;code&gt;__init__.py&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;So the first form of import in python which is the &lt;code&gt;import&lt;/code&gt; statement
+can only import a module or package. Let say we have this example module
+named &lt;code&gt;sugar&lt;/code&gt;.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="err"&gt;$&lt;/span&gt; &lt;span class="n"&gt;touch&lt;/span&gt; &lt;span class="n"&gt;sugar&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;py&lt;/span&gt;
+&lt;span class="err"&gt;$&lt;/span&gt; &lt;span class="n"&gt;python&lt;/span&gt;
+&lt;span class="n"&gt;Python&lt;/span&gt; &lt;span class="mf"&gt;2.6&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;r265&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;79063&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Apr&lt;/span&gt; &lt;span class="mi"&gt;16&lt;/span&gt; &lt;span class="mi"&gt;2010&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;13&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;09&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;56&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;GCC&lt;/span&gt; &lt;span class="mf"&gt;4.4&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;linux2&lt;/span&gt;
+&lt;span class="n"&gt;Type&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;help&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;copyright&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;credits&amp;quot;&lt;/span&gt; &lt;span class="ow"&gt;or&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;license&amp;quot;&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;more&lt;/span&gt; &lt;span class="n"&gt;information&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;sugar&lt;/span&gt;
+&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;sugar&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;That's quite clear I think. We have file named &lt;code&gt;sugar.py&lt;/code&gt; and then we
+can import it from python interpreter executed within the same
+directory. If there's a function named &lt;code&gt;is_sweet()&lt;/code&gt; in &lt;code&gt;sugar.py&lt;/code&gt;, we
+can reference it now as &lt;code&gt;sugar.is_sweet()&lt;/code&gt;. Following this, you might be
+attempting to do the following:-&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;sugar.is_sweet&lt;/span&gt;
+&lt;span class="n"&gt;Traceback&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;most&lt;/span&gt; &lt;span class="n"&gt;recent&lt;/span&gt; &lt;span class="n"&gt;call&lt;/span&gt; &lt;span class="n"&gt;last&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+&lt;span class="n"&gt;File&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;&amp;lt;console&amp;gt;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;line&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;&lt;/span&gt;&lt;span class="n"&gt;module&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&lt;/span&gt;
+&lt;span class="ne"&gt;ImportError&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;No&lt;/span&gt; &lt;span class="n"&gt;module&lt;/span&gt; &lt;span class="n"&gt;named&lt;/span&gt; &lt;span class="n"&gt;is_sweet&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;As the error message say, there's no module name is_sweet. Remember, we
+can only import module (or package) ? &lt;code&gt;is_sweet&lt;/code&gt; on the other hand is a
+function so I hope this is pretty clear at this moment. There could be
+few reasons why you want to import only specific object rather than the
+whole module and since python doesn't allow this, is this the end of the
+world ? Luckily python provide another form of import that is
+&lt;code&gt;from ... import&lt;/code&gt; or I prefer to illustrate it as
+&lt;code&gt;from module|package import object&lt;/code&gt;. So, continuing from previous
+example:-&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;sugar&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;is_sweet&lt;/span&gt;
+&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;is_sweet&lt;/span&gt;
+&lt;span class="o"&gt;&amp;lt;&lt;/span&gt;&lt;span class="n"&gt;function&lt;/span&gt; &lt;span class="n"&gt;is_sweet&lt;/span&gt; &lt;span class="n"&gt;at&lt;/span&gt; &lt;span class="mh"&gt;0xb731de9c&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Now we can import &lt;code&gt;is_sweet&lt;/code&gt; function from module &lt;code&gt;sugar&lt;/code&gt;. So we can
+import specific object from a module using
+&lt;code&gt;from module|package import object&lt;/code&gt; form. Noticed that I used the term
+object here because in python everything is an object - module is
+object, package is object, function is object, class is object etc. Let
+say we reorganize our sugar module into a package.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$ mkdir sugar
+$ touch sugar/__init__.py
+$ touch sugar/white.py
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Here we added new module named &lt;code&gt;white&lt;/code&gt; to &lt;code&gt;sugar&lt;/code&gt; package. To
+specifically import white module we can:-&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;sugar.white&lt;/span&gt;
+&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;sugar&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;white&lt;/span&gt;
+&lt;span class="o"&gt;&amp;lt;&lt;/span&gt;&lt;span class="n"&gt;module&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;sugar.white&amp;#39;&lt;/span&gt; &lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;sugar/white.pyc&amp;#39;&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;or:-&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;sugar&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;white&lt;/span&gt;
+&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;white&lt;/span&gt;
+&lt;span class="o"&gt;&amp;lt;&lt;/span&gt;&lt;span class="n"&gt;module&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;sugar.white&amp;#39;&lt;/span&gt; &lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;sugar/white.pyc&amp;#39;&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Try to say this phrase again in your head for a few times -
+&lt;code&gt;from module|package import object&lt;/code&gt; - (In English - from a module or
+package, you can import an object). Again, everything is object in
+Python.&lt;/p&gt;
+&lt;h2&gt;Import path&lt;/h2&gt;
+&lt;p&gt;Now we understand how import work (hopefully), another question come up.
+How does python know where to look for all these modules ? When trying
+to import module, Python look through a list of path. This list is
+stored under &lt;code&gt;sys&lt;/code&gt; module and can be referenced as &lt;code&gt;sys.path&lt;/code&gt;.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;sys&lt;/span&gt;
+&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;sys&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;path&lt;/span&gt;
+&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+&lt;span class="s1"&gt;&amp;#39;/home/kamal/lib/python2.6/site-packages/setuptools-0.6c11-py2.6.egg&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+&lt;span class="s1"&gt;&amp;#39;/home/kamal/lib/python2.6/site-packages/pip-1.0.1-py2.6.egg&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+&lt;span class="s1"&gt;&amp;#39;/home/kamal/lib/python2.6/site-packages/patu-0.1-py2.6.egg&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+&lt;span class="s1"&gt;&amp;#39;/home/kamal/lib/python2.6/site-packages/lxml-2.3-py2.6-linux-i686.egg&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+&lt;span class="o"&gt;......&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Python provide a number of ways for you to modify this list of path so
+that module that you intended can be found. One of it by specifying
+environment variable named PYTHONPATH.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;PYTHONPATH=/home/kamal/my-python-lib
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;From now on, any &lt;code&gt;*.py&lt;/code&gt; file under &lt;code&gt;/home/kamal/my-python-lib&lt;/code&gt; can be
+imported if you execute python from that environment. Another way is to
+modify &lt;code&gt;sys.path&lt;/code&gt; directly and more convenient since you can do this in
+the initial bootstrap code of your application.&lt;/p&gt;</summary><category term="Python"></category></entry><entry><title>Subversion merging changes between branches</title><link href="http://devblog.xoxzo.com/en/subversion-merging-changes-between-branches.html" rel="alternate"></link><published>2011-09-24T08:04:00+09:00</published><updated>2011-09-24T08:04:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2011-09-24:en/subversion-merging-changes-between-branches.html</id><summary type="html">&lt;p&gt;For svn branching strategy, we used the &lt;a href="http://stackoverflow.com/questions/597707/best-branching-strategy-when-doing-continuous-integration"&gt;feature
+branch&lt;/a&gt;
+approach. This mean we keep trunk stable at all time and for any new
+features to work on, we start a new branch. While working on the branch,
+we'll keep it in sync with trunk by merging any latest changes happened
+on the trunk. Once the feature is ready, we merge that branch back into
+trunk. Subversion &amp;gt; 1.5 &lt;code&gt;--reintegrate&lt;/code&gt; option really helpfull here.&lt;/p&gt;
+&lt;p&gt;There's a case however we end up with multiple branches active at a
+time. Supposed there are 3 new features that need to be implemented.
+Logically I would start 3 separate branches to work on each features
+since all of it are not related to each other. Let assume I start 3
+branches named as branch-A, branch-B and branch-C. I keep working on
+these 3 branches over the time. As the time passed by, branch-A is
+finished and ready to get into trunk. As usual after making sure
+branch-A has all the latest changes in trunk, I merged it back into
+trunk:-&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$ &lt;span class="nb"&gt;cd&lt;/span&gt; branches/branch-A
+$ svn merge ../../trunk
+$ svn ci -m &lt;span class="s1"&gt;&amp;#39;merge latest changes from trunk into branch-A&amp;#39;&lt;/span&gt;
+$ &lt;span class="nb"&gt;cd&lt;/span&gt; ../../trunk
+$ svn merge --reintegrate ../branches/branch-A
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Everything work flawlessly and as expected here. Before continuing
+working on other branches, I'll make sure all those branches in sync
+with trunk by merging all latest changes in the trunk. This would
+include the new features implemented in branch-A.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$ &lt;span class="nb"&gt;cd&lt;/span&gt; branches/branch-B
+$ svn merge ../../trunk
+$ svn ci -m &lt;span class="s1"&gt;&amp;#39;merge latest trunk into branch-B&amp;#39;&lt;/span&gt;
+$ &lt;span class="nb"&gt;cd&lt;/span&gt; branches/branch-C
+$ svn merge ../../trunk
+$ svn ci -m &lt;span class="s1"&gt;&amp;#39;merge latest trunk into branch-C&amp;#39;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;I'd then continue working on branch-B and branch-C. Later on I'd
+realized that changes that I made in branch-C actually also needed in
+branch-B. Let assume I added new function in branch-C and then found out
+that the code in branch-B also need the same function. Now it's not
+possible to merge branch-C into trunk yet so that it changes can be
+propagated to branch-B. Ideally I should be able to merge changes
+between branch-B and branch-C before merging back both branches into
+trunk but subversion is not that clever in tracking merge between
+branches like this. So I decided that all development now should be done
+in branch-B. This mean I need to merge all changes that been done in
+branch-C into branch-B.&lt;/p&gt;
+&lt;p&gt;When trying to do this - merge branch-C into branch-B, I ended up with
+lot of conflict. Remember the changes we have done in the branch-A
+earlier ? In branch-A, among the changes that we have done involved
+adding some new files. Now the changes (adding new files) exists in both
+branch-B and branch-C because we take it from trunk. When merging
+branch-C into branch-B subversion will try to add the new files again
+and we have conflict. It said something like - "local add, incoming add
+upon merge". Searching around, I found the solution in this &lt;a href="http://stackoverflow.com/questions/738367/why-am-i-getting-tree-conflicts-in-subversion"&gt;SO
+question&lt;/a&gt;:-&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$ svn resolve -R --accept working
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;It mean for any conflict, keep the current working copy and discard the
+incoming changes. This is fine if you know exactly the changes that you
+need contained in different files than the conflicted one. Otherwise you
+have to manually inspect the file and fix the conflicting line. I'm not
+sure yet whether this can be merged cleanly back to the trunk. Will
+update this post later.&lt;/p&gt;</summary><category term="scm"></category><category term="subversion"></category><category term="svn"></category><category term="version control"></category></entry><entry><title>Vacancy: Full-time Junior Python/Django Web Developer</title><link href="http://devblog.xoxzo.com/en/vacancy-junior-pythondjango-web-developer.html" rel="alternate"></link><published>2011-09-19T08:09:00+09:00</published><updated>2011-09-19T08:09:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2011-09-19:en/vacancy-junior-pythondjango-web-developer.html</id><summary type="html">&lt;p&gt;MARIMORE ENGINEERING SDN. BHD. develops and maintains Django/Python
+based web applications for our clients. We rely heavily on open source
+and at the same time try to contribute back to the community via open
+source code, documentation, monetary contribution or participation in
+open source events.&lt;/p&gt;
+&lt;p&gt;We believe in ROWE (Results Only Work Environment). All our members are
+given a high level of freedom, in exchange for a high level of
+dedication and responsibility towards their art.&lt;/p&gt;
+&lt;h2&gt;Responsibilities&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Develop new features for services provided by Marimore Inc.&lt;/li&gt;
+&lt;li&gt;Services include sms sending API, forum sites and content based
+    web applications.&lt;/li&gt;
+&lt;li&gt;Maintain existing features and do timely update to the software and
+    libraries used in the application.&lt;/li&gt;
+&lt;li&gt;Maintain and write documentation for services provided and also
+    internal technical documentation (wiki).&lt;/li&gt;
+&lt;li&gt;Deploy new features or changes to the live server.&lt;/li&gt;
+&lt;li&gt;Report your work progress and any relevant issues to the Lead
+    Engineer/Engineering team on a regular basis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;1 to 2 years experience in web development regardless of whether as
+    professional or hobbyist project. Fresh grads with good portfolio or
+    open source projects also fine, please provide link to code samples
+    or your project repo.&lt;/li&gt;
+&lt;li&gt;Know HTML, CSS and basic understanding of JavaScript.&lt;/li&gt;
+&lt;li&gt;Understand HTTP - know at least a few common HTTP methods and how
+    they are used.&lt;/li&gt;
+&lt;li&gt;Not fearful of the command line, be it linux/unix or windows OS.&lt;/li&gt;
+&lt;li&gt;Proficient in either PHP, .NET, Java, Ruby or Perl. You'll have to
+    learn Python once coming on board though.&lt;/li&gt;
+&lt;li&gt;MySQL or PostgreSQL.&lt;/li&gt;
+&lt;li&gt;Know how to use Google.&lt;/li&gt;
+&lt;li&gt;Proficient in English.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Plus&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Python/Django or any other framework/libraries.&lt;/li&gt;
+&lt;li&gt;Active in community - open source projects, forum, q&amp;amp;a sites,
+    mailing list etc.&lt;/li&gt;
+&lt;li&gt;Informative technical blog.&lt;/li&gt;
+&lt;li&gt;Experience in Amazon Web Services, esp. EC2 and RDS.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Expected starting salary will be MYR 2300. This will change depending on
+your experience and current salary.&lt;/p&gt;
+&lt;p&gt;This is remote position so applicant location doesn't really matter as&lt;br /&gt;
+long as you have good Internet connectivity. 1 month on-site training&lt;br /&gt;
+however required before you can start working from any of your&lt;br /&gt;
+preferred location. Communication done through Skype, email and task&lt;br /&gt;
+tracker.&lt;/p&gt;
+&lt;p&gt;If you are interested, we are happy to talk to you. Please contact
+hr@marimore.co.jp with a copy of your CV and a short introduction about
+yourself.&lt;/p&gt;
+&lt;div style="text-align:center;"&gt;
+
+**----- UPDATE 2011-10-07 -----**
+
+&lt;/div&gt;
+
+&lt;p&gt;We are happy to announce that we've found some great candidates and that
+&lt;strong&gt;this vacancy is now closed.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Thank you for your interest in MARIMORE ENGINEERING.&lt;/p&gt;</summary><category term="developer"></category><category term="django"></category><category term="Python"></category><category term="vacancy"></category></entry><entry><title>Porting function based generic views to class based views</title><link href="http://devblog.xoxzo.com/en/porting-function-based-generic-views-to-class-based-views.html" rel="alternate"></link><published>2011-09-16T12:12:00+09:00</published><updated>2011-09-16T12:12:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2011-09-16:en/porting-function-based-generic-views-to-class-based-views.html</id><summary type="html">&lt;p&gt;It not really obvious in the
+&lt;a href="https://docs.djangoproject.com/en/1.3/ref/class-based-views/"&gt;documentation&lt;/a&gt;
+how we should proceed. I try to make as little changes as possible to
+code. The following is a sample function that we need to port to class
+based views.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;django.views.generic&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;list_detail&lt;/span&gt;
+&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;supported_sending_networks&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;request&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;page&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+&lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;django.core.paginator&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;Paginator&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;InvalidPage&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;EmptyPage&lt;/span&gt;
+&lt;span class="n"&gt;_TEMPLATE_PATH&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;faq/list_sending_networks.html&amp;quot;&lt;/span&gt;
+&lt;span class="n"&gt;network_list&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;EZSPossibleSendNetwork&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;objects&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;all&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;span class="n"&gt;paginator&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;Paginator&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;network_list&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;15&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="n"&gt;list_detail&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;object_list&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;
+&lt;span class="n"&gt;request&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+&lt;span class="n"&gt;queryset&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="n"&gt;network_list&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+&lt;span class="n"&gt;paginate_by&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;15&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+&lt;span class="n"&gt;page&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="n"&gt;page&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+&lt;span class="n"&gt;template_name&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="n"&gt;_TEMPLATE_PATH&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+&lt;span class="n"&gt;template_object_name&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;networks&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;The new equivalent class based views for this is
+&lt;code&gt;django.views.generic.list.ListView&lt;/code&gt;. My first attempt after looking at
+the documentation:-&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;def def supported_sending_networks(request, page=1):
+class SupportedSendingNetworkView(ListView):
+queryset = EZSPossibleSendNetwork.objects.all()
+paginate_by = 15
+context_object_name = &amp;#39;networks_list&amp;#39;
+template_name = &amp;quot;faq/list_sending_networks.html&amp;quot;
+return SupportedSendingNetworkView.as_view()
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;but I got error related to something 'function object not iterable ...'.
+Look like the as_view() function call actually return a function object
+rather than a response. Looking around I'm supposed to alias the class
+with the function name.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="k"&gt;class&lt;/span&gt; &lt;span class="n"&gt;SupportedSendingNetworkView&lt;/span&gt;(&lt;span class="n"&gt;ListView&lt;/span&gt;):
+&lt;span class="n"&gt;queryset&lt;/span&gt; = &lt;span class="n"&gt;EZSPossibleSendNetwork&lt;/span&gt;.&lt;span class="n"&gt;objects&lt;/span&gt;.&lt;span class="nb"&gt;all&lt;/span&gt;()
+&lt;span class="n"&gt;paginate_by&lt;/span&gt; = &lt;span class="mi"&gt;15&lt;/span&gt;
+&lt;span class="n"&gt;context_object_name&lt;/span&gt; = &lt;span class="s"&gt;&amp;#39;networks_list&amp;#39;&lt;/span&gt;
+&lt;span class="n"&gt;template_name&lt;/span&gt; = &lt;span class="s"&gt;&amp;quot;faq/list_sending_networks.html&amp;quot;&lt;/span&gt;
+&lt;span class="n"&gt;supported_sending_networks&lt;/span&gt; = &lt;span class="n"&gt;SupportedSendingNetworkView&lt;/span&gt;.&lt;span class="n"&gt;as_view&lt;/span&gt;()
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Make sense since now &lt;code&gt;supported_sending_networks&lt;/code&gt; would simply be a
+plain function. While the views now work, there's still no pager. Turn
+out that now Django only expect the &lt;code&gt;page&lt;/code&gt; parameter for the pager to
+work in either two ways only:-&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Specified as parameter in the urlconf.&lt;/li&gt;
+&lt;li&gt;As query string parameter.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This mean I have to modify my urls.py definition. Once that defined, I
+need to pass the page value as a context object by overriding the
+get_context_data() method.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="k"&gt;class&lt;/span&gt; &lt;span class="n"&gt;SupportedSendingNetworkView&lt;/span&gt;(&lt;span class="n"&gt;ListView&lt;/span&gt;):
+&lt;span class="n"&gt;queryset&lt;/span&gt; = &lt;span class="n"&gt;EZSPossibleSendNetwork&lt;/span&gt;.&lt;span class="n"&gt;objects&lt;/span&gt;.&lt;span class="nb"&gt;all&lt;/span&gt;()
+&lt;span class="n"&gt;paginate_by&lt;/span&gt; = &lt;span class="mi"&gt;15&lt;/span&gt;
+&lt;span class="n"&gt;context_object_name&lt;/span&gt; = &lt;span class="s"&gt;&amp;#39;networks_list&amp;#39;&lt;/span&gt;
+&lt;span class="n"&gt;template_name&lt;/span&gt; = &lt;span class="s"&gt;&amp;quot;faq/list_sending_networks.html&amp;quot;&lt;/span&gt;
+&lt;span class="n"&gt;def&lt;/span&gt; &lt;span class="n"&gt;get_context_data&lt;/span&gt;(&lt;span class="k"&gt;self&lt;/span&gt;, **&lt;span class="n"&gt;kwargs&lt;/span&gt;):
+&lt;span class="nb"&gt;context&lt;/span&gt; = &lt;span class="n"&gt;super&lt;/span&gt;(&lt;span class="n"&gt;SupportedSendingNetworkView&lt;/span&gt;, &lt;span class="k"&gt;self&lt;/span&gt;).&lt;span class="n"&gt;get_context_data&lt;/span&gt;(**&lt;span class="n"&gt;kwargs&lt;/span&gt;)
+&lt;span class="n"&gt;try:&lt;/span&gt;
+&lt;span class="nb"&gt;context&lt;/span&gt;[&lt;span class="s"&gt;&amp;#39;page&amp;#39;&lt;/span&gt;] = &lt;span class="nb"&gt;int&lt;/span&gt;(&lt;span class="k"&gt;self&lt;/span&gt;.&lt;span class="n"&gt;args&lt;/span&gt;[&lt;span class="mi"&gt;0&lt;/span&gt;])
+&lt;span class="n"&gt;except&lt;/span&gt; (&lt;span class="n"&gt;IndexError&lt;/span&gt;, &lt;span class="n"&gt;ValueError&lt;/span&gt;):
+&lt;span class="nb"&gt;context&lt;/span&gt;[&lt;span class="s"&gt;&amp;#39;page&amp;#39;&lt;/span&gt;] = &lt;span class="mi"&gt;1&lt;/span&gt;
+&lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="nb"&gt;context&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;All parameters to the views now available as &lt;code&gt;self.args&lt;/code&gt; or
+&lt;code&gt;self.kwargs&lt;/code&gt; respectively. Some other notes, function based generic
+views would be &lt;a href="https://docs.djangoproject.com/en/dev/internals/deprecation/"&gt;deprecated in
+Django-1.5&lt;/a&gt;
+so if you moving to Django-1.3 this a good time to start porting your
+generic views usage to class based views. It also not obvious to me that
+we have to call the superclass method when overriding &lt;code&gt;get_context_data&lt;/code&gt;
+method otherwise you would not have the complete context data. It only
+after I found this blog &lt;a href="http://blog.oscarcp.com/?p=182"&gt;post&lt;/a&gt;.&lt;/p&gt;</summary><category term="class based views"></category><category term="django"></category><category term="django views"></category><category term="generic views"></category><category term="Python"></category></entry></feed>

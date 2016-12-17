@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Xoxzo Official Blog: Empowerment</title><link href="http://devblog.xoxzo.com/en/" rel="alternate"></link><link href="http://devblog.xoxzo.com/feeds/engineering-event-open-source-libraries-xoxzo.atom.xml" rel="self"></link><id>http://devblog.xoxzo.com/en/</id><updated>2016-06-09T10:00:00+09:00</updated><entry><title>Tokyu Ruby Kaigi</title><link href="http://devblog.xoxzo.com/en/tokyu-ruby-kaigi.html" rel="alternate"></link><published>2016-06-09T10:00:00+09:00</published><updated>2016-06-09T10:00:00+09:00</updated><author><name>anonaka</name></author><id>tag:devblog.xoxzo.com,2016-06-09:en/tokyu-ruby-kaigi.html</id><summary type="html">&lt;p&gt;On May 29, I attended the 10th annual &lt;a href="http://regional.rubykaigi.org/tokyu10/"&gt;Tokyu Ruby
+Kaigi&lt;/a&gt; held at Shibuya,Tokyo. I
+made a lightning talk about a &lt;a href="https://rubygems.org/gems/xoxzo-cloudruby"&gt;Xoxzo telephony
+gem&lt;/a&gt; (gem is the ruby
+packaging system). This gem is the first public gem I wrote in my
+life. I also enjoyed a lot of exciting talks, laughs and of course
+fantastic food and excellent beer.&lt;/p&gt;
+&lt;p&gt;[gallery ids="1451,1452" type="rectangular"]&lt;/p&gt;
+&lt;p&gt;This is the second time I joined this conference and hopefully want to
+come back next year!&lt;/p&gt;</summary><category term="ruby"></category></entry></feed>

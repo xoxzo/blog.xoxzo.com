@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+          <title>Xoxzoの公式ブログ：「開花、発展、向上させる」</title>
+        <meta charset="utf-8" />
+        <link href="http://devblog.xoxzo.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Xoxzoの公式ブログ：「開花、発展、向上させる」 Full Atom Feed" />
+        <link href="http://devblog.xoxzo.com/feeds/engineering.atom.xml" type="application/atom+xml" rel="alternate" title="Xoxzoの公式ブログ：「開花、発展、向上させる」 Categories Atom Feed" />
+
+
+
+    <meta name="tags" content="django" />
+    <meta name="tags" content="Python" />
+    <meta name="tags" content="transaction" />
+
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="./">Xoxzoの公式ブログ：「開花、発展、向上させる」 <strong></strong></a></h1>
+        </header><!-- /#banner -->
+        <nav id="menu"><ul>
+        </ul></nav><!-- /#menu -->
+<section id="content" class="body">
+  <header>
+    <h2 class="entry-title">
+      <a href="./database-transaction-in-django.html" rel="bookmark"
+         title="Permalink to Database Transaction in Django">Database Transaction in Django</a></h2>
+ 
+  </header>
+  <footer class="post-info">
+    <abbr class="published" title="2012-06-21T07:54:00+09:00">
+      2012-06-21
+    </abbr>
+    <address class="vcard author">
+      By           <a class="url fn" href="./author/kamal-mustafa.html">Kamal Mustafa</a>
+    </address>
+  </footer><!-- /.post-info -->
+  <div class="entry-content">
+    <p>Keep forgetting about this so this is to wrap my heads around it. First
+I have<br />
+the impression that Django by default execute database operations within
+a<br />
+transaction block, which is the source of my confusion. It's true only
+to<br />
+certain extent. The <a href="https://docs.djangoproject.com/en/1.3/topics/db/transactions/">first section in django
+documentation</a>
+already explained<br />
+this (emphasized is mine):-</p>
+<blockquote>
+<p>Django’s default behavior is to run with an open transaction which it<br />
+commits automatically when any built-in, <strong>data-altering model
+function<br />
+is called</strong>. For example, if you call model.save() or
+model.delete(),the<br />
+change will be committed immediately.</p>
+</blockquote>
+<p>Once you call any function that will alter the data such as <code>.save()</code>
+method,<br />
+Django will commit the transaction and start a new one. Take the
+following code<br />
+for example:-</p>
+<div class="highlight"><pre><span></span>def step1():
+mms = MMSMessage()
+mms.save()
+step2()
+@transaction.commit_manually
+def step2():
+transaction.rollback()
+step1()
+</pre></div>
+
+
+<p>I thought no <code>MMSMessage</code> object will be saved since when <code>step2()</code>
+function<br />
+get called, the transaction was rollback. But the fact is, the
+transaction<br />
+already committed when <code>mms.save()</code> is called and by the time <code>step2()</code><br />
+executed it's already running in a new transaction, so the rollback does
+not<br />
+has any effect. To get what we want, both function must be made to run
+in a<br />
+single transaction.</p>
+<div class="highlight"><pre><span></span>def step1():
+mms = MMSMessage()
+mms.save()
+step2()
+@transaction.commit_manually
+def step2():
+transaction.rollback()
+@transaction.commit_manually
+def main():
+step1()
+main()
+</pre></div>
+  </div><!-- /.entry-content -->
+</section>
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
+                which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+        </footer><!-- /#contentinfo -->
+</body>
+</html>

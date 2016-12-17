@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+          <title>Xoxzo Official Blog: Empowerment</title>
+        <meta charset="utf-8" />
+        <link href="http://devblog.xoxzo.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Xoxzo Official Blog: Empowerment Full Atom Feed" />
+        <link href="http://devblog.xoxzo.com/feeds/engineering.atom.xml" type="application/atom+xml" rel="alternate" title="Xoxzo Official Blog: Empowerment Categories Atom Feed" />
+
+
+
+    <meta name="tags" content="Python" />
+
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="./">Xoxzo Official Blog: Empowerment <strong></strong></a></h1>
+        </header><!-- /#banner -->
+        <nav id="menu"><ul>
+        </ul></nav><!-- /#menu -->
+<section id="content" class="body">
+  <header>
+    <h2 class="entry-title">
+      <a href="./understanding-python-import.html" rel="bookmark"
+         title="Permalink to Understanding Python Import">Understanding Python Import</a></h2>
+ 
+  </header>
+  <footer class="post-info">
+    <abbr class="published" title="2011-11-22T16:32:00+09:00">
+      2011-11-22
+    </abbr>
+    <address class="vcard author">
+      By           <a class="url fn" href="./author/kamal-mustafa.html">Kamal Mustafa</a>
+    </address>
+  </footer><!-- /.post-info -->
+  <div class="entry-content">
+    <p>There's a lot have been written on understanding Python import so I'm
+not sure whether this one would help to clear the confusion or just add
+more. I hope for the former. Having a new hire who is new to Python
+bring up this issue again for us.</p>
+<p>Python has few ways to import other modules and has been greatly covered
+in effbot's article - <a href="http://effbot.org/zone/import-confusion.htm">Importing Python
+Modules</a>. Module in Python
+is any file that end with .py. You can import it if you can somehow make
+that file available on Python import path (more on this later). An
+immediate companion to module is package - you can think of it as
+collection of modules but there's much simpler definition - any
+directory containing (even blank) file named as <code>__init__.py</code>.</p>
+<p>So the first form of import in python which is the <code>import</code> statement
+can only import a module or package. Let say we have this example module
+named <code>sugar</code>.</p>
+<div class="highlight"><pre><span></span><span class="err">$</span> <span class="n">touch</span> <span class="n">sugar</span><span class="o">.</span><span class="n">py</span>
+<span class="err">$</span> <span class="n">python</span>
+<span class="n">Python</span> <span class="mf">2.6</span><span class="o">.</span><span class="mi">5</span> <span class="p">(</span><span class="n">r265</span><span class="p">:</span><span class="mi">79063</span><span class="p">,</span> <span class="n">Apr</span> <span class="mi">16</span> <span class="mi">2010</span><span class="p">,</span> <span class="mi">13</span><span class="p">:</span><span class="mi">09</span><span class="p">:</span><span class="mi">56</span><span class="p">)</span>
+<span class="p">[</span><span class="n">GCC</span> <span class="mf">4.4</span><span class="o">.</span><span class="mi">3</span><span class="p">]</span> <span class="n">on</span> <span class="n">linux2</span>
+<span class="n">Type</span> <span class="s2">&quot;help&quot;</span><span class="p">,</span> <span class="s2">&quot;copyright&quot;</span><span class="p">,</span> <span class="s2">&quot;credits&quot;</span> <span class="ow">or</span> <span class="s2">&quot;license&quot;</span> <span class="k">for</span> <span class="n">more</span> <span class="n">information</span><span class="o">.</span>
+<span class="o">&gt;&gt;&gt;</span> <span class="kn">import</span> <span class="nn">sugar</span>
+<span class="o">&gt;&gt;&gt;</span> <span class="n">sugar</span>
+</pre></div>
+
+
+<p>That's quite clear I think. We have file named <code>sugar.py</code> and then we
+can import it from python interpreter executed within the same
+directory. If there's a function named <code>is_sweet()</code> in <code>sugar.py</code>, we
+can reference it now as <code>sugar.is_sweet()</code>. Following this, you might be
+attempting to do the following:-</p>
+<div class="highlight"><pre><span></span><span class="o">&gt;&gt;&gt;</span> <span class="kn">import</span> <span class="nn">sugar.is_sweet</span>
+<span class="n">Traceback</span> <span class="p">(</span><span class="n">most</span> <span class="n">recent</span> <span class="n">call</span> <span class="n">last</span><span class="p">):</span>
+<span class="n">File</span> <span class="s2">&quot;&lt;console&gt;&quot;</span><span class="p">,</span> <span class="n">line</span> <span class="mi">1</span><span class="p">,</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
+<span class="ne">ImportError</span><span class="p">:</span> <span class="n">No</span> <span class="n">module</span> <span class="n">named</span> <span class="n">is_sweet</span>
+</pre></div>
+
+
+<p>As the error message say, there's no module name is_sweet. Remember, we
+can only import module (or package) ? <code>is_sweet</code> on the other hand is a
+function so I hope this is pretty clear at this moment. There could be
+few reasons why you want to import only specific object rather than the
+whole module and since python doesn't allow this, is this the end of the
+world ? Luckily python provide another form of import that is
+<code>from ... import</code> or I prefer to illustrate it as
+<code>from module|package import object</code>. So, continuing from previous
+example:-</p>
+<div class="highlight"><pre><span></span><span class="o">&gt;&gt;&gt;</span> <span class="kn">from</span> <span class="nn">sugar</span> <span class="kn">import</span> <span class="n">is_sweet</span>
+<span class="o">&gt;&gt;&gt;</span> <span class="n">is_sweet</span>
+<span class="o">&lt;</span><span class="n">function</span> <span class="n">is_sweet</span> <span class="n">at</span> <span class="mh">0xb731de9c</span><span class="o">&gt;</span>
+</pre></div>
+
+
+<p>Now we can import <code>is_sweet</code> function from module <code>sugar</code>. So we can
+import specific object from a module using
+<code>from module|package import object</code> form. Noticed that I used the term
+object here because in python everything is an object - module is
+object, package is object, function is object, class is object etc. Let
+say we reorganize our sugar module into a package.</p>
+<div class="highlight"><pre><span></span>$ mkdir sugar
+$ touch sugar/__init__.py
+$ touch sugar/white.py
+</pre></div>
+
+
+<p>Here we added new module named <code>white</code> to <code>sugar</code> package. To
+specifically import white module we can:-</p>
+<div class="highlight"><pre><span></span><span class="o">&gt;&gt;&gt;</span> <span class="kn">import</span> <span class="nn">sugar.white</span>
+<span class="o">&gt;&gt;&gt;</span> <span class="n">sugar</span><span class="o">.</span><span class="n">white</span>
+<span class="o">&lt;</span><span class="n">module</span> <span class="s1">&#39;sugar.white&#39;</span> <span class="kn">from</span> <span class="s1">&#39;sugar/white.pyc&#39;</span><span class="o">&gt;</span>
+</pre></div>
+
+
+<p>or:-</p>
+<div class="highlight"><pre><span></span><span class="o">&gt;&gt;&gt;</span> <span class="kn">from</span> <span class="nn">sugar</span> <span class="kn">import</span> <span class="n">white</span>
+<span class="o">&gt;&gt;&gt;</span> <span class="n">white</span>
+<span class="o">&lt;</span><span class="n">module</span> <span class="s1">&#39;sugar.white&#39;</span> <span class="kn">from</span> <span class="s1">&#39;sugar/white.pyc&#39;</span><span class="o">&gt;</span>
+</pre></div>
+
+
+<p>Try to say this phrase again in your head for a few times -
+<code>from module|package import object</code> - (In English - from a module or
+package, you can import an object). Again, everything is object in
+Python.</p>
+<h2>Import path</h2>
+<p>Now we understand how import work (hopefully), another question come up.
+How does python know where to look for all these modules ? When trying
+to import module, Python look through a list of path. This list is
+stored under <code>sys</code> module and can be referenced as <code>sys.path</code>.</p>
+<div class="highlight"><pre><span></span><span class="o">&gt;&gt;&gt;</span> <span class="kn">import</span> <span class="nn">sys</span>
+<span class="o">&gt;&gt;&gt;</span> <span class="n">sys</span><span class="o">.</span><span class="n">path</span>
+<span class="p">[</span><span class="s1">&#39;&#39;</span><span class="p">,</span>
+<span class="s1">&#39;/home/kamal/lib/python2.6/site-packages/setuptools-0.6c11-py2.6.egg&#39;</span><span class="p">,</span>
+<span class="s1">&#39;/home/kamal/lib/python2.6/site-packages/pip-1.0.1-py2.6.egg&#39;</span><span class="p">,</span>
+<span class="s1">&#39;/home/kamal/lib/python2.6/site-packages/patu-0.1-py2.6.egg&#39;</span><span class="p">,</span>
+<span class="s1">&#39;/home/kamal/lib/python2.6/site-packages/lxml-2.3-py2.6-linux-i686.egg&#39;</span><span class="p">,</span>
+<span class="o">......</span>
+</pre></div>
+
+
+<p>Python provide a number of ways for you to modify this list of path so
+that module that you intended can be found. One of it by specifying
+environment variable named PYTHONPATH.</p>
+<div class="highlight"><pre><span></span>PYTHONPATH=/home/kamal/my-python-lib
+</pre></div>
+
+
+<p>From now on, any <code>*.py</code> file under <code>/home/kamal/my-python-lib</code> can be
+imported if you execute python from that environment. Another way is to
+modify <code>sys.path</code> directly and more convenient since you can do this in
+the initial bootstrap code of your application.</p>
+  </div><!-- /.entry-content -->
+</section>
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
+                which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+        </footer><!-- /#contentinfo -->
+</body>
+</html>
