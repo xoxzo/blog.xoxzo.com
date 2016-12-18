@@ -4,6 +4,7 @@ Lang: en
 Author: Kamal Mustafa
 Tags: php, python
 Slug: php-execution-model-vs-python-web
+Summary: A comparison on how php and python executes it's web applications
 
 We're still looking for a better way to explain the difference between
 PHP execution model vs Python for web application to new developers
