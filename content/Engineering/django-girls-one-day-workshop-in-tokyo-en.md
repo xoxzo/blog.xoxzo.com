@@ -37,7 +37,7 @@ easy to ask questions for his friendly atmosphere too.
 
 **Contents of the tutorial**
 
-![]({filename}/images/19649557504_a990e81024_z.jpg)
+![Django Girls Workshop]({filename}/images/19649557504_a990e81024_z.jpg)
 
 1.  Started off with the command line. As I’m getting aged and my first
     experience with computer was before the Windows has come out, so I
@@ -101,8 +101,8 @@ Never never started, never never go forward. I have at least started.
 Thanks to all the Django Girls, the coaches/mentors of the workshop and
 the sponsors!!!
 
-![]({filename}/images/20263894682_61d9ee050e_z.jpg)
-![]({filename}/images/20084176790_f05a18a29e_z.jpg)
+![Django Girls Workshop]({filename}/images/20263894682_61d9ee050e_z.jpg)
+![Django Girls Workshop]({filename}/images/20084176790_f05a18a29e_z.jpg)
 
 Lastly, the lunch and tea time sweets provided on the day was beautiful
 too! I enjoyed that part of the workshop as well.
