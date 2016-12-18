@@ -1,10 +1,9 @@
 Title: Django Girls One Day Workshop in Tokyo
 Date: 2015-08-06 14:17
+Lang: en
 Author: Aiko Yokoyama
-Category: Django Web Framework, Engineering
 Tags: djangogirls, 東京
 Slug: django-girls-one-day-workshop-in-tokyo
-Status: published
 
 [![logo\_django]({filename}/images/logo_django.png)](https://djangogirls.org/tokyo/)
 
@@ -14,7 +13,7 @@ One day work shop at TECH LAB PAAK in Tokyo, July 26, 2015
 
 **Django Girls in Tokyo**
 
-![]({filename}/images/20278115621_c87c785323_z.jpg)
+![djangogirls]({filename}/images/django-girls-workshop/20278115621_c87c785323_z.jpg)
 
 This is a Django workshop for female who wants to start Django. The
 participants were not asked any background knowledge in programming.
@@ -37,7 +36,7 @@ easy to ask questions for his friendly atmosphere too.
 
 **Contents of the tutorial**
 
-![Django Girls Workshop]({filename}/images/19649557504_a990e81024_z.jpg)
+![Django Girls Workshop]({filename}/images/django-girls-workshop/19649557504_a990e81024_z.jpg)
 
 1.  Started off with the command line. As I’m getting aged and my first
     experience with computer was before the Windows has come out, so I
@@ -59,7 +58,7 @@ easy to ask questions for his friendly atmosphere too.
 
 **What we have achieved**
 
-![]({filename}/images/19651250533_d6a200f1a2_z.jpg)
+![djangogirls]({filename}/images/django-girls-workshop/19651250533_d6a200f1a2_z.jpg)
 
 Using the Blog app, we all work to reach our aim of the day, ‘to create
 the first web application.’
@@ -77,7 +76,7 @@ python manage.py runserver but didn’t get to ‘deploy’ though it is in
 the tutorial, I myself want to try that in the near future by reviewing
 what I have learnt there in a kind of hurry.
 
-![]({filename}/images/20263896922_76dc83048c_z.jpg)
+![djangogirls]({filename}/images/django-girls-workshop/20263896922_76dc83048c_z.jpg)
 
 **Looking at the future**
 
@@ -101,8 +100,8 @@ Never never started, never never go forward. I have at least started.
 Thanks to all the Django Girls, the coaches/mentors of the workshop and
 the sponsors!!!
 
-![Django Girls Workshop]({filename}/images/20263894682_61d9ee050e_z.jpg)
-![Django Girls Workshop]({filename}/images/20084176790_f05a18a29e_z.jpg)
+![Django Girls Workshop]({filename}/images/django-girls-workshop/20263894682_61d9ee050e_z.jpg)
+![Django Girls Workshop]({filename}/images/django-girls-workshop/20084176790_f05a18a29e_z.jpg)
 
 Lastly, the lunch and tea time sweets provided on the day was beautiful
 too! I enjoyed that part of the workshop as well.
