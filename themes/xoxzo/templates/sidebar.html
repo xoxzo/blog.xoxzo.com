@@ -3,23 +3,17 @@
         <div class="sidebar-menu">
             <h3>CATEGORIES</h3>
             <ul>
-                <li><a href="#">Activities</a></li>
-                <li><a href="#">Engineering</a></li>
-                <li><a href="#">Event</a></li>
-                <li><a href="#">Internal Activities</a></li>
-                <li><a href="#">Activities</a></li>
-                <li><a href="#">Activities</a></li>
+            {% for category, articles in categories %}
+                <li><a href="{{ SITEURL }}/{{ category.url }}">{{ category }}</a></li>
+            {% endfor %}
             </ul>
         </div>
         <div class="sidebar-menu">
-            <h3>DATES</h3>
+            <h3>TAGS</h3>
             <ul>
-                <li>November 2016</li>
-                <li>October 2016</li>
-                <li>September 2016</li>
-                <li>August 2016</li>
-                <li>July 2016</li>
-                <li>May 2016</li>
+            {% for tag, articles in tags|sort %}
+                <li><a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a> ({{ articles|count }})</li>
+            {% endfor %}
             </ul>
         </div>
         <div class="sidebar-menu">

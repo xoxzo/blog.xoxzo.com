@@ -117,11 +117,11 @@ article:last-child {
 
 article img {
     max-width: 100%;
-    margin-bottom: 30px;
+    margin: 15px 0;
 }
 
 .article-info {
-    font-size: 1rem;
+    font-size: 1.1rem;
     font-weight: 500;
 }
 
@@ -129,7 +129,8 @@ article img {
     font-family: 'Roboto', 'Open Sans', 'Helvetica Neue, Helvetica, Arial', sans-serif;
     font-weight: 700;
     line-height: 3.4rem;
-    margin-bottom: 20px;
+    margin-bottom: 25px;
+    color: #35313b;
 }
 
 .article-title a {
@@ -138,6 +139,11 @@ article img {
 
 .article-title a:hover {
     color: #666;
+}
+
+.article-author {
+    margin-top: -15px;
+    margin-bottom: 30px;
 }
 
 .continue {
@@ -158,6 +164,16 @@ footer {
     width: 100%;
     color: #aaa;
     padding: 50px 0;
+}
+
+footer a {
+    color: inherit;
+    text-decoration: underline;
+}
+
+footer a:hover {
+    color: white;
+    text-decoration: underline;
 }
 
 @media (max-width: 543px){
