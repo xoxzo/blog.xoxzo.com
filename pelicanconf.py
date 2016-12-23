@@ -69,3 +69,7 @@ I18N_SUBSITES   = {
     },
 }
 
+DATE_FORMATS = {
+    'en': '%b %d, %Y',
+    'jp': '%Y-%m-%d',
+}
