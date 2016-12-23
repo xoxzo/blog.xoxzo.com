@@ -131,6 +131,14 @@ article img {
     margin: 15px 0;
 }
 
+article p {
+    margin-bottom: 1.5rem;
+}
+
+article p:last-child {
+    margin-bottom: 0;
+}
+
 .article-info {
     font-size: 1.1rem;
     font-weight: 500;
