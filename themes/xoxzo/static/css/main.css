@@ -156,6 +156,15 @@ article img {
     color: #666;
 }
 
+.pagination {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.page-num:hover {
+    background-color: white;
+}
+
 footer {
     font-size: 0.85rem;
     position: absolute;
