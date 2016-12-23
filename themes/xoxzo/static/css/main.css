@@ -180,8 +180,12 @@ article p:last-child {
     margin-bottom: 2rem;
 }
 
-.page-num:hover {
+.paginator .page-num:hover, .paginator .disabled:hover {
     background-color: white;
+}
+
+.paginator .disabled span {
+    color: #aaa;
 }
 
 footer {
@@ -207,6 +211,10 @@ footer a:hover {
 @media (max-width: 543px){
     .content {
         margin-top: 0;
+    }
+
+    article {
+        padding: 70px 0;
     }
 
     .article-title {
