@@ -165,6 +165,22 @@ article p:last-child {
     margin-bottom: 30px;
 }
 
+.article-tag {
+    padding-top: 20px;
+}
+
+.btn-tag {
+    color: white;
+    background-color: #aaa;
+    border-color: #aaa;
+}
+
+.btn-tag:hover {
+    color: white;
+    background-color: #bbb;
+    border-color: #bbb;
+}
+
 .continue {
     color: #4e4e4e;
     font-weight: bold;

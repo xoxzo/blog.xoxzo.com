@@ -32,6 +32,15 @@
                     </p>
                     <hr>
                     {{ article.content }}
+                    {% if article.tags %}
+                      <div class="article-tag">
+                      {% for tag in article.tags %}
+                          <a href="{{ SITEURL }}/{{ tag.url }}">
+                              <span class="btn btn-tag btn-sm">{{ tag }}</span>
+                          </a>
+                      {% endfor %}
+                    {% endif %}
+                    </div>
                 </article>
             </div>
         </section>
