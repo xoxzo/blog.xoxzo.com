@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="{{ DEFAULT_LANG }}">
+<head>
+    {% block head %}
+    {% endblock %}
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap.min.css" integrity="sha384-AysaV+vQoT3kOAXZkl02PThvDr8HYKPZhNT5h/CXfBThSRXQ6jW5DO2ekP5ViFdi" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/{{ CSS_FILE }}" />
+
+    {% if FEED_ALL_ATOM %}
+    <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Full Atom Feed" />
+    {% endif %}
+    {% if FEED_ALL_RSS %}
+    <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Full RSS Feed" />
+    {% endif %}
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+    <nav class="navbar navbar-fixed-top navbar-dark bg-inverse">
+        <div class="container">
+            <a class="navbar-brand" href="{{ SITEURL }}">
+                <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/xoxzo_navbar_logo_w_trans.png">
+                <span>BLOG</span>
+            </a>
+            <ul class="nav navbar-nav float-xs-right">
+                <li class="nav-item">
+                <a class="nav-link" href="http://info.xoxzo.com">Info</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://twitter.com/xoxzotelephony">Twitter</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+
+    {% block content %}
+    {% endblock %}
+
+    <footer>
+        <div class="container">
+            <p>© 2016 Xoxzo Inc. All rights reserved.</p>
+            <p>Powered by <a href="http://getpelican.com/">Pelican</a></p>
+        </div>
+    </footer>
+</body>
+</html>

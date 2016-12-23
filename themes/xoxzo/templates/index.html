@@ -1,0 +1,62 @@
+{% extends "base.html" %}
+
+{% block content %}
+<main class="container">
+    <div class="row">
+        <section class="content col-md-8 col-lg-9 float-md-right">
+            <div class="container">
+                {% for article in articles_page.object_list %}
+                <article>
+                    <!-- <a href="#"><img src="images/post_1.jpg"></a> -->
+                    <h2 class="article-info">
+                        <a href="#" title="{{ article.date.isoformat() }}">November 7, 2016</a> / <a href="#">New Release</a>
+                    </h2>
+                    <h1 class="article-title"><a href="{{ SITEURL }}/{{ article.url }}" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h1>
+                    <!-- <address class="vcard author">By
+                    {% for author in article.authors %}
+                        <a class="url fn" href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
+                    {% endfor %}
+                    </address> -->
+                    <p>{{ article.summary }} … <a href="{{ SITEURL }}/{{ article.url }}" class="continue">Continue reading ></a></p>
+                </article>
+                {% endfor %}
+
+                {% if articles_page.has_other_pages() %}
+                    {% include 'pagination.html' %}
+                {% endif %}
+            </div>
+        </section>
+
+        <section class="sidebar col-md-4 col-lg-3">
+            <div class="container">
+                <div class="sidebar-menu">
+                    <h3>CATEGORIES</h3>
+                    <ul>
+                        <li><a href="#">Activities</a></li>
+                        <li><a href="#">Engineering</a></li>
+                        <li><a href="#">Event</a></li>
+                        <li><a href="#">Internal Activities</a></li>
+                        <li><a href="#">Activities</a></li>
+                        <li><a href="#">Activities</a></li>
+                    </ul>
+                </div>
+                <div class="sidebar-menu">
+                    <h3>DATES</h3>
+                    <ul>
+                        <li>November 2016</li>
+                        <li>October 2016</li>
+                        <li>September 2016</li>
+                        <li>August 2016</li>
+                        <li>July 2016</li>
+                        <li>May 2016</li>
+                    </ul>
+                </div>
+                <div class="sidebar-menu">
+                    <h3>SEARCH</h3>
+                    <input type="text" class="form-control" placeholder="Search">
+                </div>
+            </div>
+        </section>
+    </div>
+</main>
+{% endblock content %}
