@@ -1,15 +1,16 @@
 {% extends "base.html" %}
+
 {% block head %}
-  {{ super() }}
-  {% for keyword in article.keywords %}
+    {{ super() }}
+    {% for keyword in article.keywords %}
     <meta name="keywords" content="{{ keyword }}" />
-  {% endfor %}
-  {% for description in article.description %}
+    {% endfor %}
+    {% for description in article.description %}
     <meta name="description" content="{{ description }}" />
-  {% endfor %}
-  {% for tag in article.tags %}
+    {% endfor %}
+    {% for tag in article.tags %}
     <meta name="tags" content="{{ tag }}" />
-  {% endfor %}
+    {% endfor %}
 {% endblock %}
 
 {% block content %}
@@ -19,26 +20,29 @@
             <div class="container">
                 <article>
                     <h2 class="article-info">
-                      {{ article.locale_date }} /
-                      <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
+                        {{ article.locale_date }} /
+                        <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
                     </h2>
                     <h1 class="article-title">{{ article.title }}</h1>
-                    <!-- {% import 'translations.html' as translations with context %}
-                    {{ translations.translations_for(article) }} -->
                     <p class="article-author">By
-                    {% for author in article.authors %}
+                        {% for author in article.authors %}
                         <a href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
-                    {% endfor %}
+                        <br>
+                        {% import 'translations.html' as translations with context %}
+                        {{ translations.translations_for(article) }}
+                        {% endfor %}
                     </p>
                     <hr>
-                    {{ article.content }}
+                    <div class="article-content">
+                      {{ article.content }}
+                    </div>
                     {% if article.tags %}
-                      <div class="article-tag">
-                      {% for tag in article.tags %}
-                          <a href="{{ SITEURL }}/{{ tag.url }}">
-                              <span class="btn btn-tag btn-sm">{{ tag }}</span>
-                          </a>
-                      {% endfor %}
+                    <div class="article-tag">
+                        {% for tag in article.tags %}
+                        <a href="{{ SITEURL }}/{{ tag.url }}">
+                            <span class="btn btn-tag btn-sm">{{ tag }}</span>
+                        </a>
+                        {% endfor %}
                     {% endif %}
                     </div>
                 </article>

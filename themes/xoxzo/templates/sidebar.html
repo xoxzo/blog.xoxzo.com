@@ -3,17 +3,17 @@
         <div class="sidebar-menu">
             <h3>CATEGORIES</h3>
             <ul>
-            {% for category, articles in categories %}
+                {% for category, articles in categories %}
                 <li><a href="{{ SITEURL }}/{{ category.url }}">{{ category }}</a></li>
-            {% endfor %}
+                {% endfor %}
             </ul>
         </div>
         <div class="sidebar-menu">
             <h3>TAGS</h3>
             <ul>
-            {% for tag, articles in tags|sort %}
+                {% for tag, articles in tags|sort %}
                 <li><a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a> ({{ articles|count }})</li>
-            {% endfor %}
+                {% endfor %}
             </ul>
         </div>
         <div class="sidebar-menu">
