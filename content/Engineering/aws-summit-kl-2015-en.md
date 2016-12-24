@@ -1,6 +1,8 @@
 Title: AWS Summit KL 2015
 Date: 2015-05-28 23:07
+Lang: ja
 Author: Abdul Rahman
+Tags: python; aws; kuala lumpur; connexion@nexus
 Slug: aws-summit-kl-2015
 
 On the 21st of May, the first AWS Summit was held at Connexion@Nexus,

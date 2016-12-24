@@ -43,8 +43,8 @@ DEFAULT_DATE_FORMAT = "%Y-%m-%d"
 STATIC_PATHS = ['images', 'pdfs', 'extra/CNAME']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 
-THEME           = 'themes/simple'
-#THEME           = 'themes/pelican-blue'
+#THEME           = 'themes/simple'
+THEME           = 'themes/xoxzo'
 PLUGIN_PATHS    = [os.path.join(PROJECT_ROOT, 'plugins'),]
 PLUGINS         = ["i18n_subsites", ]
 

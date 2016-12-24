@@ -17,7 +17,7 @@ Summary: プラバシーマーク更新をいたしました。
 ![Privacy Mark MARIMORE]({filename}/images/privacy-mark/p-mark-cert-2015.jpg)
 
 -   取得年月日  
-   [平成２５年５月２３日]({filename}/privacymark-syutoku-ja.md)
+   [平成２５年５月２３日]({filename}/PR/privacymark-syutoku-ja.md)
 -   登録番号  
    第１０８２４０８９（０２）号
 -   有効期間  

@@ -2,7 +2,7 @@ Title: 特許侵害訴訟の提起について（特許第4889813号 ）
 Date: 2012-12-28 20:00
 Author: Iqbal Abdullah
 Lang: ja
-Tags: ショートメッセージ, メディアネットワークサービス, 特許, EZSMS, 訴訟, wing-sms, 提起, 侵害
+Tags: ショートメッセージ, メディアネットワークサービス, 特許, EZSMS, 訴訟, wing-sms
 Slug: patent-lawsuit-action
 
     株式会社MARIMORE（代表：イクバル・アバドゥラ、東京都台東区）は、2012年12月28日、
@@ -21,7 +21,7 @@ Slug: patent-lawsuit-action
 
     なお、この訴訟提起による弊社のサービスへの影響はございません。
 
-    アップデート
+アップデート
 
-    本件訴訟は和解により2013-03-06日付で取り下げしましたので、
-    [こちら]({filename}/contents/patent-lawsuit-action-resolved-ja.md)でお知らせいたします。
+本件訴訟は和解により2013-03-06日付で取り下げしましたので、
+[こちら]({filename}/PR/patent-lawsuit-action-resolved-ja.md)でお知らせいたします。
