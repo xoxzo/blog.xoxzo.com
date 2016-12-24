@@ -210,6 +210,19 @@ article p:last-child {
     color: #aaa;
 }
 
+.pg {
+    margin-top: 40px;
+}
+
+.pg h1 {
+    color: #35313b;
+    margin-bottom: 20px;
+}
+
+.pg ul {
+    padding-left: 20px;
+}
+
 footer {
     font-size: 0.85rem;
     position: absolute;
