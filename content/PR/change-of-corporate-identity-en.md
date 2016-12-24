@@ -9,7 +9,7 @@ Summary: MARIMORE Inc changed it's trading name to Xoxzo Inc.
 **MARIMORE Inc. changed it's trading name to Xoxzo Inc. on September 30,
 2015**
 
-[![Xoxzo Inc.]({filename}/images/xoxzo-logo-02.png)
+![Xoxzo Inc.]({filename}/images/xoxzo-logo-02.png)
 
 We, formerly known as MARIMORE Inc, has been on the development of both
 SMS sending systems and Telephony systems.
@@ -27,6 +27,6 @@ community we're involved in.
 
 Thank you for your kind support, and watch this space!
 
-Iqbal Abdullah, CEO  
-Xoxzo Inc.  
+Iqbal Abdullah, CEO
+Xoxzo Inc.
 <https://info.xoxzo.com/>

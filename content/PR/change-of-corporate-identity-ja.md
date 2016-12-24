@@ -8,7 +8,7 @@ Summary: 「株式会社MARIMORE」は「株式会社Xoxzo」に生まれ変わ�
 
 ### 2015年9月30日「株式会社MARIMORE」は「株式会社Xoxzo」に生まれ変わります。
 
-[![Xoxzo Inc.]({filename}/images/xoxzo-logo-02.png)
+![Xoxzo Inc.]({filename}/images/xoxzo-logo-02.png)
 
 当社はこれまでSMS配信システムとテレフォニーシステムの提供と開発を行ってきました。常にお客様の求めていることが何なのかを考え、それを応えるために自らの手で生み出してきたそのポリシーは、より一層使い得やすさと便利なものを生み出すことの結論に導かれました。
 
@@ -16,6 +16,6 @@ Summary: 「株式会社MARIMORE」は「株式会社Xoxzo」に生まれ変わ�
 
 今後とも、よろしくお願いいたします。
 
-株式会社Xoxzo （ゾクゾー）  
-代表取締役 イクバル・アバドゥラ  
+株式会社Xoxzo （ゾクゾー）
+代表取締役 イクバル・アバドゥラ
 <https://info.xoxzo.com/>
