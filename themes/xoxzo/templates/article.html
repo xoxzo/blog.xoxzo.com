@@ -32,7 +32,9 @@
                     {% endfor %}
                     </p>
                     <hr>
+                    <div class="article-content">
                     {{ article.content }}
+                    </div>
                     {% if article.tags %}
                       <div class="article-tag">
                       {% for tag in article.tags %}
