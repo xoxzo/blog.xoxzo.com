@@ -148,7 +148,7 @@ article p:last-child {
     font-family: 'Roboto', 'Open Sans', 'Helvetica Neue, Helvetica, Arial', sans-serif;
     font-weight: 700;
     line-height: 3.4rem;
-    margin-bottom: 25px;
+    margin-bottom: 15px;
     color: #35313b;
 }
 
@@ -161,8 +161,8 @@ article p:last-child {
 }
 
 .article-author {
-    margin-top: -15px;
     margin-bottom: 30px;
+    line-height: 2rem;
 }
 
 .article-tag {
@@ -171,8 +171,8 @@ article p:last-child {
 
 .btn-tag {
     color: white;
-    background-color: #aaa;
-    border-color: #aaa;
+    background-color: #999;
+    border-color: #999;
 }
 
 .btn-tag:hover {

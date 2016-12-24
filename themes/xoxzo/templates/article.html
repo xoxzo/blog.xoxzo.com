@@ -23,11 +23,12 @@
                       <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
                     </h2>
                     <h1 class="article-title">{{ article.title }}</h1>
-                    <!-- {% import 'translations.html' as translations with context %}
-                    {{ translations.translations_for(article) }} -->
                     <p class="article-author">By
                     {% for author in article.authors %}
                         <a href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
+                        <br>
+                        {% import 'translations.html' as translations with context %}
+                        {{ translations.translations_for(article) }}
                     {% endfor %}
                     </p>
                     <hr>
