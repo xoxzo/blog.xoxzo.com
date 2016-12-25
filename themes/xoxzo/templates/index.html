@@ -1,33 +1,35 @@
 {% extends "base.html" %}
 
 {% block content %}
-<main class="container">
-    <div class="row">
-        <section class="content col-md-8 col-lg-9 float-md-right">
-            <div class="container">
-                {% block content_title %}
-                {% endblock %}
+<div class="with-sidebar">
+    <main class="container">
+        <div class="row">
+            <section class="content col-md-8 col-lg-9 float-md-right">
+                <div class="container">
+                    {% block content_title %}
+                    {% endblock %}
 
-                {% for article in articles_page.object_list %}
-                <article>
-                    <h2 class="article-info">
-                        {{ article.locale_date }} /
-                        <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
-                    </h2>
-                    <h1 class="article-title"><a href="{{ SITEURL }}/{{ article.url }}" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h1>
-                    {{ article.summary }}
-                    <p><a href="{{ SITEURL }}/{{ article.url }}" class="continue">Continue reading ></a></p>
-                </article>
-                {% endfor %}
+                    {% for article in articles_page.object_list %}
+                    <article>
+                        <h2 class="article-info">
+                            {{ article.locale_date }} /
+                            <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
+                        </h2>
+                        <h1 class="article-title"><a href="{{ SITEURL }}/{{ article.url }}" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h1>
+                        {{ article.summary }}
+                        <p><a href="{{ SITEURL }}/{{ article.url }}" class="continue">Continue reading ></a></p>
+                    </article>
+                    {% endfor %}
 
-                {% if articles_page.has_other_pages() %}
-                    {% include 'pagination.html' %}
-                {% endif %}
-            </div>
-        </section>
+                    {% if articles_page.has_other_pages() %}
+                        {% include 'pagination.html' %}
+                    {% endif %}
+                </div>
+            </section>
 
-        {% include 'sidebar.html' %}
+            {% include 'sidebar.html' %}
 
-    </div>
-</main>
+        </div>
+    </main>
+</div>
 {% endblock content %}
