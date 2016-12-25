@@ -27,7 +27,7 @@ Zenlokは、大切な人との大切なコミュニケーションを安心に�
 東京都渋谷区代々木4丁目32番1号トーシンミレニアムビル5階  
 代表： 代表取締役　アミール・アヤロン  
 設立： 2007年4月  
-URL ： http://www.zenlok.com/
+URL ： [http://www.zenlok.com/](http://www.zenlok.com/)
 
 【株式会社Xoxzoについて】
 
@@ -38,4 +38,5 @@ Xoxzoは、2007年2月に設立以来SMS技術を中心に自社サービスを�
 住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F  
 代表： 代表取締役　イクバル・アバドゥラ  
 設立： 2007年2月  
-URL ： http://info.xoxzo.com/ja/
+URL ： [http://info.xoxzo.com/ja/](http://info.xoxzo.com/ja/)
+
