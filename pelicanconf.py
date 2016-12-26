@@ -74,3 +74,6 @@ DATE_FORMATS = {
     'jp': DEFAULT_DATE_FORMAT,
     'ms': DEFAULT_DATE_FORMAT,
 }
+
+#ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'
+
