@@ -71,10 +71,12 @@ I18N_SUBSITES   = {
 
 DATE_FORMATS = {
     'en': DEFAULT_DATE_FORMAT,
-    'jp': DEFAULT_DATE_FORMAT,
+    'ja': DEFAULT_DATE_FORMAT,
     'ms': DEFAULT_DATE_FORMAT,
 }
 
 ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
+PAGE_URL = 'pages/{slug}/'
+PAGE_SAVE_AS = 'pages/{slug}/index.html'
 
