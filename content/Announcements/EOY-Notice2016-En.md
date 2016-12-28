@@ -11,6 +11,7 @@ Please note that our office will be closed during the following time period for 
 
 Holiday period: from Thursday December 29, 2016 to Tuesday January 3, 2017
 
-All non-urgent inquiries made during the holidays will be responded on January 4, 2017 or after. We apologize for any inconvenience this may cause, and thank you for your consideration in this matter.
+All non-urgent inquiries made during the holidays will be responded on January 4, 2017 or after. 
+We apologize for any inconvenience this may cause, and thank you for your consideration in this matter.
 
 Team Xoxzo wishes you and your families all the best and having a great holiday welcoming the New Year.
