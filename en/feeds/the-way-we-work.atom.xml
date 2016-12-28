@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Xoxzo Official Blog: Empowerment</title><link href="http://devblog.xoxzo.com/en/" rel="alternate"></link><link href="http://devblog.xoxzo.com/feeds/the-way-we-work.atom.xml" rel="self"></link><id>http://devblog.xoxzo.com/en/</id><updated>2016-04-22T23:25:00+09:00</updated><entry><title>The communication costs of remote work</title><link href="http://devblog.xoxzo.com/en/the-communication-costs-of-remote-work.html" rel="alternate"></link><published>2016-04-22T23:25:00+09:00</published><updated>2016-04-22T23:25:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:devblog.xoxzo.com,2016-04-22:en/the-communication-costs-of-remote-work.html</id><summary type="html">&lt;p&gt;We have a distributed team and everyone remotely works from wherever
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Xoxzo Official Blog: Empowerment</title><link href="http://blog.xoxzo.com/en/" rel="alternate"></link><link href="http://blog.xoxzo.com/feeds/the-way-we-work.atom.xml" rel="self"></link><id>http://blog.xoxzo.com/en/</id><updated>2016-04-22T23:25:00+09:00</updated><entry><title>The communication costs of remote work</title><link href="http://blog.xoxzo.com/en/2016/04/22/the-communication-costs-of-remote-work/" rel="alternate"></link><published>2016-04-22T23:25:00+09:00</published><updated>2016-04-22T23:25:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2016-04-22:en/2016/04/22/the-communication-costs-of-remote-work/</id><summary type="html">&lt;p&gt;We have a distributed team and everyone remotely works from wherever
 they are (6 cities across 3 countries). Remote work is nothing new
 (we've practiced it since 2007), at least for us and generally: But it
 requires a different approach and similar to re-thinking about &lt;em&gt;work&lt;/em&gt; as
@@ -27,9 +27,9 @@ you write the summary or the title of the tickets so that it include all
 the necessary keywords that includes what the ticket is all about, as
 nearly all the time that is all that is shown to you in lists&lt;/p&gt;
 &lt;p&gt;A bad example that just says "write code". &lt;em&gt;Duuh&lt;/em&gt;. &lt;/p&gt;
-&lt;p&gt;&lt;img alt="bad-example-jira" src="http://devblog.xoxzo.com/en/images/bad-example-jira.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="bad-example-jira" src="http://blog.xoxzo.com/en/images/bad-example-jira.png" /&gt;&lt;/p&gt;
 &lt;p&gt;On the other hand, you don't need to overdo the summary. Something like this will suffice&lt;/p&gt;
-&lt;p&gt;&lt;img alt="jira-good-example" src="http://devblog.xoxzo.com/en/images/jira-good-example.png" /&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img alt="jira-good-example" src="http://blog.xoxzo.com/en/images/jira-good-example.png" /&gt; &lt;/p&gt;
 &lt;p&gt;A concise and precise summary statements will remove the need for anyone
 who is going through your tasks to click on each link to read it's
 details, in order to decide if it's something they need to look into. A
@@ -48,7 +48,7 @@ ambiguous, communication costs kicks in because you'll need to spend
 time following it up and read the other person's mind&lt;/p&gt;
 &lt;p&gt;The great thing about Slack is that it allows you to add &lt;a href="http://www.theverge.com/2015/7/9/8916347/slack-emoji-reactions"&gt;reactions to a
 post&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="ack" src="http://devblog.xoxzo.com/en/images/ack.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ack" src="http://blog.xoxzo.com/en/images/ack.png" /&gt;&lt;/p&gt;
 &lt;p&gt;This gives you the ability to acknowledge something, without having to
 write things out. A second of clicking on a button will remove that
 ambiguity as we can see who clicked.&lt;/p&gt;
@@ -77,7 +77,7 @@ We are after all social animals with complex understanding of one
 another. This is the one big disadvantage of remote working, so we try
 lessen the impact of this by having periodical Team Camps, where we
 actually get together and spend time doing something together.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="2015-08-19 21.31.17" src="http://devblog.xoxzo.com/en/images/2015-08-19-21-31-17.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="2015-08-19 21.31.17" src="http://blog.xoxzo.com/en/images/2015-08-19-21-31-17.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;Don't assume or guess. Give it a call&lt;/h2&gt;
 &lt;p&gt;The final tip is sort of an anti-pattern, and I practice it as a last
 resort. If things start to go out of hand via text (email or chat), I'll

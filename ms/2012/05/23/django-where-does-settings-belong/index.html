@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+    
+    <meta name="tags" content="django" />
+    <meta name="tags" content="Python" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title></title>
+    <link rel="stylesheet" href="http://blog.xoxzo.com/ms/theme/css/bootstrap.min.css">
+    <link rel="stylesheet" href="http://blog.xoxzo.com/ms/theme/css/main.css">
+    <link rel="stylesheet" href="http://blog.xoxzo.com/ms/theme/css/pygment.css">
+
+    <link href="http://blog.xoxzo.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title=" Full Atom Feed" />
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+    <nav class="navbar navbar-fixed-top navbar-dark bg-inverse">
+        <div class="container">
+            <a class="navbar-brand" href="http://blog.xoxzo.com/ms">
+                <img src="http://blog.xoxzo.com/ms/theme/images/xoxzo_navbar_logo_w_trans.png">
+                <span>BLOG</span>
+            </a>
+            <button class="navbar-toggler hidden-sm-up float-xs-right" type="button" data-toggle="collapse" data-target="#collapsingNav" aria-controls="collapsingNav" aria-expanded="false" aria-label="Toggle navigation"></button>
+            <div class="collapse navbar-toggleable-xs" id="collapsingNav">
+                <ul class="nav navbar-nav float-xs-left float-sm-right">
+                    <li class="nav-item"><a class="nav-link " href="http://blog.xoxzo.com/ms/pages/who-are-xoxzo.html">Who We Are</a></li>
+                    <li class="nav-item">
+                    <a class="nav-link" href="http://info.xoxzo.com">Info</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://twitter.com/xoxzotelephony">Twitter</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+<div class="with-sidebar">
+    <main class="container">
+        <div class="row">
+            <section class="content col-md-8 col-lg-9 float-md-right">
+                <div class="container">
+                    <article>
+                        <h2 class="article-info">
+                            2012-05-23 /
+                            <a href="http://blog.xoxzo.com/ms/category/engineering.html">Engineering</a>
+                        </h2>
+                        <h1 class="article-title">Django: Where does settings belong ?</h1>
+                        <p class="article-author">By
+                            <a href="http://blog.xoxzo.com/ms/author/kamal-mustafa.html">Kamal Mustafa</a>
+                            <br>
+                            
+                        </p>
+                        <hr>
+                        <div class="article-content">
+                          <p>Settings is very central to all Django applications. Django even barf if
+you<br />
+don't supply one and import any django modules or functions (most of
+it). The<br />
+way to specify settings to Django app however a bit awkward. Rather
+calling<br />
+some function and pass the settings to that function, Django require you
+to put<br />
+the path to settings module in os.environ dict. Consider a Flask
+application:-</p>
+<div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">flask</span> <span class="kn">import</span> <span class="n">Flask</span>
+<span class="n">app</span> <span class="o">=</span> <span class="n">Flask</span><span class="p">(</span><span class="n">__name__</span><span class="p">)</span>
+<span class="nd">@app.route</span><span class="p">(</span><span class="s1">&#39;/&#39;</span><span class="p">)</span>
+<span class="k">def</span> <span class="nf">hello_world</span><span class="p">():</span>
+<span class="k">return</span> <span class="s1">&#39;Hello World!&#39;</span>
+<span class="k">if</span> <span class="n">__name__</span> <span class="o">==</span> <span class="s1">&#39;__main__&#39;</span><span class="p">:</span>
+<span class="n">app</span><span class="o">.</span><span class="n">run</span><span class="p">(</span><span class="n">debug</span><span class="o">=</span><span class="bp">True</span><span class="p">)</span>
+</pre></div>
+
+
+<p>It feels natural. You instantiate an app, call it's run() method and
+pass<br />
+<code>debug</code> as parameter to the function. It's easy to explain. Or if Flask
+not<br />
+your favourite, let's take a look at Bottle example:-</p>
+<div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">bottle</span> <span class="kn">import</span> <span class="n">route</span><span class="p">,</span> <span class="n">run</span>
+<span class="nd">@route</span><span class="p">(</span><span class="s1">&#39;/hello&#39;</span><span class="p">)</span>
+<span class="k">def</span> <span class="nf">hello</span><span class="p">():</span>
+<span class="k">return</span> <span class="s2">&quot;Hello World!&quot;</span>
+<span class="n">run</span><span class="p">(</span><span class="n">host</span><span class="o">=</span><span class="s1">&#39;localhost&#39;</span><span class="p">,</span> <span class="n">port</span><span class="o">=</span><span class="mi">8080</span><span class="p">,</span> <span class="n">debug</span><span class="o">=</span><span class="bp">True</span><span class="p">)</span>
+</pre></div>
+
+
+<p>It still maintain the same flow. But let's look at how we pass settings
+to<br />
+Django app. This is what you get in default <code>manage.py</code> generated by<br />
+<code>django-admin.py startproject</code> command:-</p>
+<div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">os</span>
+<span class="n">os</span><span class="o">.</span><span class="n">environ</span><span class="o">.</span><span class="n">setdefault</span><span class="p">(</span><span class="s1">&#39;DJANGO_SETTINGS_MODULE&#39;</span><span class="p">,</span> <span class="s1">&#39;myapp.settings&#39;</span><span class="p">)</span>
+<span class="k">if</span> <span class="n">__name__</span> <span class="o">==</span> <span class="s1">&#39;__main__&#39;</span><span class="p">:</span>
+<span class="kn">from</span> <span class="nn">django.core.management</span> <span class="kn">import</span> <span class="n">execute_from_command_line</span>
+<span class="n">execute_from_command_line</span><span class="p">()</span>
+</pre></div>
+
+
+<p>Compared to example for other 2 frameworks, the logic now seem to branch
+into 2<br />
+separate paths. First you have to figure out what is going on with<br />
+<code>os.environ.setdefault()</code> stuff, and then the stuff with<br />
+<code>execute_from_command_line()</code>. Enough to confuse beginner. Only later on
+I<br />
+figured out that you can actually skip <code>os.environ</code> stuff and directly
+set<br />
+settings as you wish. The above example can be re-written as:-</p>
+<div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">django.conf</span> <span class="kn">import</span> <span class="n">settings</span>
+<span class="n">settings</span><span class="o">.</span><span class="n">configure</span><span class="p">(</span><span class="n">DEBUG</span><span class="o">=</span><span class="bp">True</span><span class="p">)</span>
+<span class="k">if</span> <span class="n">__name__</span> <span class="o">==</span> <span class="s1">&#39;__main__&#39;</span><span class="p">:</span>
+<span class="kn">from</span> <span class="nn">django.core.management</span> <span class="kn">import</span> <span class="n">execute_from_command_line</span>
+<span class="n">execute_from_command_line</span><span class="p">()</span>
+</pre></div>
+
+
+<p>Now it look more like the other 2 frameworks. This however not much an
+issue,<br />
+because once your application grow, you'll definitely want to put your
+settings<br />
+in one central place and could be the reason why Django has made that
+decision<br />
+for you early on. The real issue is where should we put the central
+settings ?</p>
+<p>Django settings, being a pure python module mean it has to be somewhere
+on your<br />
+<code>sys.path</code> so Django can import it to initialize the application.
+Logically I<br />
+want the settings for <code>myapp</code> to appear as <code>myapp.settings</code>. This
+however would<br />
+make the settings now part of the application. But settings suppose to
+have<br />
+some piece of information that will be used to create and initialized
+the<br />
+application (ROOT_URLCONF come to mind) but now the settings itself
+already<br />
+part of the application. I've repeated the word application too much in
+last<br />
+sentence.</p>
+<p>One situation when this chicken-and-egg manifest. I want to deploy my
+app using<br />
+<code>setup.py</code> which mean <code>myapp</code> will be installed in <code>site-packages</code>. That
+also<br />
+mean <code>settings.py</code> will also reside in <code>site-packages</code>. But for web
+application<br />
+there are more than just python code. There should be a directory to
+store<br />
+uploaded files or csv files for some external data. I want to keep all
+this in<br />
+a self contained project directory but since now <code>myapp.settings</code> reside
+in<br />
+<code>site-packages</code> I'm losing the ability to calculate the path to my
+project dir<br />
+at run time. While I can compensate this by having a standardized
+location on<br />
+production machine, I'd still want to keep this in one single project
+dir for<br />
+development so each developers work doesn't step into each other and
+also for<br />
+portabilty of development environment.</p>
+<p>The only way now is to not installing <code>myapp</code> into <code>site-packages</code> but
+altering<br />
+sys.path to add path to the directory containing <code>myapp</code> package. Some
+of open<br />
+source django project I found put <code>settings.py</code> outside the app
+packages,<br />
+usually at the same level of <code>manage.py</code> or <code>.wsgi</code> script used to
+launch the<br />
+app. They then specify the settings as
+<code>os.environ['DJANGO_SETTINGS_MODULE'] = 'settings'</code>. This make settings
+external to the application but at the same time<br />
+exposed <code>settings</code> into the global namespace. While I haven't yet found
+any<br />
+packages at PyPI using the name <code>settings</code>, it still doesn't feel right.</p>
+<p>I take a look at how settings are handled in Pylons/Pyramid project. Few
+things<br />
+observed:-</p>
+<ul>
+<li>They use INI files instead of pure python.</li>
+<li>The INI files are placed at the top level of project directory.</li>
+<li>Application get installed into <code>site-packages</code> using setup.py</li>
+<li>Since settings stayed in project dir, you still get referenced to
+    the project<br />
+   dir even your app get installed into <code>site-packages</code>.</li>
+</ul>
+<p>While it look quite similar to placing <code>settings.py</code> at your project
+root, the<br />
+INI files is not python module so there's no problem of exposing the
+settings<br />
+into global namespace. The settings now also look truely external to
+the<br />
+application. This has getting quite long but still the question
+remained<br />
+unanswered, where should we put the settings file ?</p>
+                        </div>
+                        <div class="article-tag">
+                            <a href="http://blog.xoxzo.com/ms/tag/django.html">
+                                <span class="btn btn-tag btn-sm">django</span>
+                            </a>
+                            <a href="http://blog.xoxzo.com/ms/tag/python.html">
+                                <span class="btn btn-tag btn-sm">Python</span>
+                            </a>
+                        </div>
+                    </article>
+                </div>
+            </section>
+
+<section class="sidebar col-md-4 col-lg-3">
+    <div class="container">
+        <div class="sidebar-menu">
+            <h3>CATEGORIES</h3>
+            <ul>
+                <li><a href="http://blog.xoxzo.com/ms/category/engineering.html">Engineering</a></li>
+                <li><a href="http://blog.xoxzo.com/ms/category/engineering-python.html">Engineering, Python</a></li>
+                <li><a href="http://blog.xoxzo.com/ms/category/events.html">Events</a></li>
+                <li><a href="http://blog.xoxzo.com/ms/category/fullcourt.html">FullCourt</a></li>
+                <li><a href="http://blog.xoxzo.com/ms/category/new-release-xoxzo.html">New Release, Xoxzo</a></li>
+                <li><a href="http://blog.xoxzo.com/ms/category/pr.html">PR</a></li>
+                <li><a href="http://blog.xoxzo.com/ms/category/the-way-we-work.html">The Way We Work</a></li>
+                <li><a href="http://blog.xoxzo.com/ms/category/use-cases.html">Use Cases</a></li>
+            </ul>
+        </div>
+        <div class="sidebar-menu">
+            <h3>TAGS</h3>
+            <ul>
+                <li><a href="http://blog.xoxzo.com/ms/tag/adit.html">adit</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/api.html">API</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/audio.html">audio</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/aws.html">aws</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/browsers.html">browsers</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/class-based-views.html">class based views</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/connexionnexus.html">connexion@nexus</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/costs.html">costs</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/developer.html">developer</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/distribute.html">distribute</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/django.html">django</a> (7)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/django-views.html">django views</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/djangogirls.html">djangogirls</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/dns.html">dns</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/dong-jing.html">東京</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/easy_install.html">easy_install</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/ecsaito.html">ECサイト</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/email.html">email</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/event.html">event</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/exhibition.html">exhibition</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/ezsms.html">ezsms</a> (6)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/fullcourt.html">fullcourt</a> (2)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/ge-ren-qing-bao.html">個人情報</a> (2)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/generic-views.html">generic views</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/git.html">git</a> (2)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/github.html">github</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/hatten-hotel.html">hatten hotel</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/he-jie.html">和解</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/html5.html">html5</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/ivr.html">ivr</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/jomlaunch.html">jomlaunch</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/kof.html">kof</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/kuala-lumpur.html">kuala lumpur</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/ma.html">m&a</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/malacca.html">malacca</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/malaysia.html">malaysia</a> (3)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/marimore.html">marimore</a> (3)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/medeianetsutowakusabisu.html">メディアネットワークサービス</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/my.html">my</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/nomad.html">nomad</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/open-source.html">open source</a> (3)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/osaka.html">osaka</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/oss.html">oss</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/php.html">php</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/pip.html">pip</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/pmaku.html">pマーク</a> (2)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/pr.html">pr</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/puraibashimaku.html">プライバシーマーク</a> (2)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/puresuririsu.html">プレスリリース</a> (3)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/pycon.html">pycon</a> (3)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/pycon-au.html">pycon au</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/pycon-au-2015.html">pycon au 2015</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/pypi.html">pypi</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/python.html">python</a> (12)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/remote.html">remote</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/ren-ding.html">認定</a> (2)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/ren-zheng.html">認証</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/ruby.html">ruby</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/sabisuzhong-liao.html">サービス終了</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/scm.html">scm</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/seminar.html">seminar</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/setuptools.html">setuptools</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/shiyotometsusezi.html">ショートメッセージ</a> (4)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/sms.html">sms</a> (2)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/smsnoapipei-xin.html">smsのapi配信</a> (2)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/spf.html">spf</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/su-song.html">訴訟</a> (2)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/subversion.html">subversion</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/svn.html">svn</a> (2)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/talk.html">talk</a> (2)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/te-xu.html">特許</a> (2)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/team-camp.html">team camp</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/tech.html">tech</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/telephony.html">telephony</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/tips.html">tips</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/tokyo.html">tokyo</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/tong-zhi-bu-zhu-shou-duan.html">通知補助手段</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/transaction.html">transaction</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/use-cases.html">use cases</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/vacancy.html">vacancy</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/version-control.html">version control</a> (3)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/voice-and-sms-api.html">voice and sms api</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/wing-sms.html">wing-sms</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/workshop.html">workshop</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/xi-dai-dian-hua.html">携帯電話</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/xoxzo.html">xoxzo</a> (3)</li>
+                <li><a href="http://blog.xoxzo.com/ms/tag/zenlokzhu-shi-hui-she.html">zenlok株式会社</a> (2)</li>
+            </ul>
+        </div>
+        <div class="sidebar-menu">
+            <h3>SEARCH</h3>
+            <input type="text" class="form-control" placeholder="Search">
+        </div>
+    </div>
+</section>
+        </div>
+    </main>
+</div>
+
+    <footer>
+        <div class="container text-center">
+            <p>© 2016 Xoxzo Inc. All rights reserved.</p>
+            <p>Powered by <a href="http://getpelican.com/">Pelican</a></p>
+        </div>
+    </footer>
+    <script src="http://blog.xoxzo.com/ms/theme/js/jquery.min.js"></script>
+    <script src="http://blog.xoxzo.com/ms/theme/js/tether.min.js"></script>
+    <script src="http://blog.xoxzo.com/ms/theme/js/bootstrap.min.js"></script>
+    <script src="http://blog.xoxzo.com/ms/theme/js/jquery.matchHeight.js"></script>
+
+    <script type="text/javascript">
+        $(function() {
+            $('.with-sidebar section').matchHeight();
+        });
+    </script>
+</body>
+</html>

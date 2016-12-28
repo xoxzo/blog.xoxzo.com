@@ -1,5 +1,201 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title></title><link href="http://devblog.xoxzo.com/ms/" rel="alternate"></link><link href="http://devblog.xoxzo.com/feeds/engineering.atom.xml" rel="self"></link><id>http://devblog.xoxzo.com/ms/</id><updated>2016-02-15T09:18:00+09:00</updated><entry><title>A python basic class in Tokyo Feb 6, 2016</title><link href="http://devblog.xoxzo.com/ms/a-python-basic-class-in-tokyo-feb-6-2016.html" rel="alternate"></link><published>2016-02-15T09:18:00+09:00</published><updated>2016-02-15T09:18:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:devblog.xoxzo.com,2016-02-15:ms/a-python-basic-class-in-tokyo-feb-6-2016.html</id><summary type="html">&lt;p&gt;&lt;a href="https://djangogirls.org/"&gt;&lt;img alt="logo" src="https://xoxzoblog.files.wordpress.com/2016/02/logo.png?w=150" /&gt;&lt;/a&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title></title><link href="http://blog.xoxzo.com/ms/" rel="alternate"></link><link href="http://blog.xoxzo.com/feeds/engineering.atom.xml" rel="self"></link><id>http://blog.xoxzo.com/ms/</id><updated>2016-11-07T17:04:00+09:00</updated><entry><title>Startup and Developer 4th Meetup</title><link href="http://blog.xoxzo.com/ms/startup-and-developer-4th-meetup-en.html" rel="alternate"></link><published>2016-11-07T17:04:00+09:00</published><updated>2016-11-07T17:04:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2016-11-07:ms/startup-and-developer-4th-meetup-en.html</id><summary type="html">&lt;p&gt;This weekend I managed to join a developer meetup in KL. The group,
+which started in Telegram now has growing to 1K members and this 4th
+meetup managed to draw 100+ attendees. It quite a success for such a
+small group in the beginning and the meetup itself was planned on ad-hoc
+manner, as a mere discussion in the Telegram group.&lt;/p&gt;
+&lt;p&gt;The topics range from big data to devops, docker, saas, introduction to
+new programming language (elixir), security and how to get funding for
+your startup. To be honest I think the number of topics are too much for
+just one day event, forcing all the speakers to cramp up their
+presentation and touch the topic only at surface level with very little
+time for question and answer session.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="startup-developer-4th-meetup" src="http://blog.xoxzo.com/ms/images/startup-developer-4th-meetup/img_20161105_101628.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;Among the interesting talk was from Nawawi Jamili, sharing his
+experience in building up Urusniaga.my, a Software as a Service (SaaS)
+solution for small business to manage their operation such as recording
+sales transaction, generating invoice etc. Their main challenge is to
+handle provisioning new site when new customer subscribe to the service.
+It has to be handled seamlessly so that once the payment process
+complete, the customer has their site ready to login and use. Here,
+while the main system being developed in PHP, they have a background
+process developed in C running to pick up new entry in database that not
+being provisioned yet. It remind me to our approach of implementing
+queue system, before we move to django-q.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="startup-developer-4th-meetup" src="http://blog.xoxzo.com/ms/images/startup-developer-4th-meetup/img_20161105_135742.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="startup-developer-4th-meetup" src="http://blog.xoxzo.com/ms/images/startup-developer-4th-meetup/whatsapp-image-2016-11-06-at-2-30-45-pm.jpeg" /&gt;&lt;/p&gt;
+&lt;p&gt;As with all meetup event, the "hallway" session is always the best of
+all as it allow us to catch up with old and new friends, listening what
+they're up to now and exchanging contact for future.&lt;/p&gt;</summary><category term="event"></category><category term="seminar"></category><category term="workshop"></category><category term="tech"></category><category term="malaysia"></category></entry><entry><title>Tokyu Ruby Kaigi</title><link href="http://blog.xoxzo.com/ms/2016/06/09/tokyu-ruby-kaigi/" rel="alternate"></link><published>2016-06-09T10:00:00+09:00</published><updated>2016-06-09T10:00:00+09:00</updated><author><name>Akira Nonaka</name></author><id>tag:blog.xoxzo.com,2016-06-09:ms/2016/06/09/tokyu-ruby-kaigi/</id><summary type="html">&lt;p&gt;On May 29, I attended the 10th annual &lt;a href="http://regional.rubykaigi.org/tokyu10/"&gt;Tokyu Ruby
+Kaigi&lt;/a&gt; held at Shibuya,Tokyo. I
+made a lightning talk about a &lt;a href="https://rubygems.org/gems/xoxzo-cloudruby"&gt;Xoxzo telephony
+gem&lt;/a&gt; (gem is the ruby
+packaging system). This gem is the first public gem I wrote in my
+life. I also enjoyed a lot of exciting talks, laughs and of course
+fantastic food and excellent beer.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="tokyu-ruby-kaigi" src="http://blog.xoxzo.com/ms/images/tokyu-ruby-kaigi-2016/img_3908.jpg" /&gt;
+&lt;img alt="tokyu-ruby-kaigi" src="http://blog.xoxzo.com/ms/images/tokyu-ruby-kaigi-2016/img_3913.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;This is the second time I joined this conference and hopefully want to
+come back next year!&lt;/p&gt;</summary><category term="ruby"></category><category term="open source"></category></entry><entry><title>Malaysia Open Source Conference (MOSCMY) and JomLaunch</title><link href="http://blog.xoxzo.com/ms/2016/06/03/malaysia-open-source-conference-moscmy-and-jomlaunch/" rel="alternate"></link><published>2016-06-03T10:02:00+09:00</published><updated>2016-06-03T10:02:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2016-06-03:ms/2016/06/03/malaysia-open-source-conference-moscmy-and-jomlaunch/</id><summary type="html">&lt;p&gt;Last week I've attended one of the biggest open source event in Malaysia
+and another co-located event that is JomLaunch by prominent local
+developer community called JomWeb.&lt;/p&gt;
+&lt;p&gt;The first slot I managed to join (I skipped the first day) is
+called &lt;a href="http://lanyrd.com/2016/moscmy2016/sdzpgb/"&gt;Pentaksiran Pengaturcaraan Komputer Berdasarkan Domain-domain
+Pembelajaran (Programming Assesment based on Learning
+Domains)&lt;/a&gt;by Ms. Noraini
+Talib, IT Executive at UKM. How to teach programming is always my topic
+of interest and it good to see it from an academic perspective.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="noraini" src="http://blog.xoxzo.com/ms/images/moscmy-jomlaunch-2016/noraini.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;The next talk about usage of &lt;a href="https://obsproject.com/"&gt;Open Broadcaster Software
+(OBS)&lt;/a&gt;  for classroom teaching also
+interesting. I'd never heard the software before and I can forsee some
+good use of it.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="open-broadcaster" src="http://blog.xoxzo.com/ms/images/moscmy-jomlaunch-2016/open-broadcaster.jpg" /&gt;{.alignnone
+.size-full .wp-image-1350 width="960" height="1280"}&lt;/p&gt;
+&lt;p&gt;I have my own slot too, which aim to encourage and kickstart people to
+become OSS project contributor on Github. It supposed to be a workshop
+so my initial plan is to have everyone do a hands on practice but it
+turned out nobody brought a laptop so I have to make good use of the 2
+hours slot by talking about contributing to open source project. I'd
+failed to fully utilize the 2 hours but we have a good discussion with
+the participants. A lecturer came up to me at the end of the session
+saying she plan to start introducing git/github into her students
+project going forward.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="kamal" src="http://blog.xoxzo.com/ms/images/moscmy-jomlaunch-2016/kamal.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;Another slot by Abyres (one of the sponsor) also an eye opening. I
+learned about &lt;a href="http://www.mampu.gov.my/DRSA"&gt;Data Raya Sektor Awam
+(DRSA)&lt;/a&gt; which is a big data initiative by
+government to provide executive framework on how big data project can be
+implemented in the government agency. It surprise me that they are
+doing Patriotisme Analysis as part of the sentiment analysis project
+under Kementerian Komunikasi dan Multimedia Malaysia. They also revealed
+their open source project called
+&lt;a href="http://pysiphae.readthedocs.io/en/latest/"&gt;PySiphae&lt;/a&gt; which
+interestingly being developed in Python. They use postgresql a lot and
+to the question whether postgres still relevant in post-hadoop world,
+their answer is YES, though they advice to target it for reporting, data
+warehouse, data mart vs operational db that is currently on proprietary,
+which in their own word provide better risk vs reward.&lt;/p&gt;
+&lt;p&gt;The real kicker in this conference to me is the slot by &lt;a href="https://www.linkedin.com/in/adzmely"&gt;Adzmely
+Mansor&lt;/a&gt; from
+&lt;a href="https://blog.nexoprima.com/"&gt;Nexoprima&lt;/a&gt;. All this while, I've only
+known him through online channel so it's good to see him in person. Very
+soft spoken but fully energetic guy, especially when talking about
+highly technical topics. His slot was on &lt;a href="https://www.scribd.com/doc/313886524/Vertical-Performance-Tuning-MOSC2016"&gt;Vertical Performance
+Tuning&lt;/a&gt;
+of a linux system. It's a topic rarely covered compared to horizontal
+scaling. The slot deep dived into the linux system, starting from the
+basic stuff of understanding what is system load and OS thread to kernel
+hacking on TCP TIME_WAIT to improve network performance. The core theme
+of the talk is that little attention is giving to vertical tuning that
+usually lead to underused of system resources. This definitely require a
+dedicated blog post to cover all the details ;)&lt;/p&gt;
+&lt;p&gt;&lt;img alt="adzmely" src="http://blog.xoxzo.com/ms/images/moscmy-jomlaunch-2016/adzmely.jpg" /&gt;{.alignnone
+.size-full .wp-image-1388 width="960" height="1280"}&lt;/p&gt;
+&lt;p&gt;Jenkins is nothing new to us (and it's a long overdue task for us to
+incorporate Jenkins or some other CI tools into our workflow) but what
+make &lt;a href="http://lanyrd.com/2016/moscmy2016/sdzxqz/"&gt;the talk&lt;/a&gt; interesting
+was that it come from a group of student from UiTM Shah Alam. We may
+commonly heard how student are lacking off adequate knowledge about what
+industry need for real job but these students definitely different,
+thanks to their charismatic lecturer who personally set up the group to
+provide a platform for the students to explore relevant tech stuff
+outside of their academic studies. I have a short chat with the lecturer
+and it gave me some ideas how we can set up similar group here.&lt;/p&gt;
+&lt;p&gt;Following up after the closing of MOSCMY is JomLaunch on the next day,
+an event by different organizer but sharing the same venue. It's a
+platform for startup, individual or team to showcase their latest
+project or product. Everyone got 10 minutes stage time and 16
+projects/products have been showcased these time.&lt;/p&gt;
+&lt;p&gt;Stampede's blog has &lt;a href="http://www.stampede-design.com/blog/2016/06/being-all-inspired-at-jomlaunch/"&gt;already covered the event in
+detail&lt;/a&gt;
+so I don't plan to repeat it here. Head over to their cool blog !&lt;/p&gt;
+&lt;p&gt;&lt;img alt="sumbermanusia" src="http://blog.xoxzo.com/ms/images/moscmy-jomlaunch-2016/sumbermanusia.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Night mamak session with &lt;a href="http://sumbermanusia.my/"&gt;SumberManusia.my&lt;/a&gt;
+team (they also present on JomLaunch). Photo credit to &lt;a href="http://blog.nasrulhazim.com/"&gt;Nasrul
+Hazim&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Overall, the whole event was very exciting as I managed to meet old and
+new friends, some of which all these while we met only in the online
+world. Btw, if you missed this event, kindly note that we have another
+&lt;a href="https://pycon.my/"&gt;PyconMy&lt;/a&gt; conference coming up in August. Make sure
+to grab the ticket while it still available. See you there !&lt;/p&gt;</summary><category term="open source"></category><category term="malaysia"></category><category term="jomlaunch"></category></entry><entry><title>Tokyo Team Camp</title><link href="http://blog.xoxzo.com/ms/tokyo-team-camp-en.html" rel="alternate"></link><published>2016-03-07T15:21:00+09:00</published><updated>2016-03-07T15:21:00+09:00</updated><author><name>Zaki Akhmad</name></author><id>tag:blog.xoxzo.com,2016-03-07:ms/tokyo-team-camp-en.html</id><summary type="html">&lt;blockquote&gt;
+&lt;p&gt;There's always people on the other side of the screen.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img alt="Xoxzo team and family
+members." src="http://blog.xoxzo.com/ms/images/tokyo-team-camp-2016/imag0603_burst002.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;It's 2016 and we just had our first ever team camp attended by all of
+the team members (and also some family members!). Previously, most of
+our team camps were attended only from the engineering team.&lt;/p&gt;
+&lt;p&gt;The team camp lasted for one week full, or we could say in 5 days.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Agile/Scrum presentation on Tokyo Team Camp
+2016" src="http://blog.xoxzo.com/ms/images/tokyo-team-camp-2016/2016-02-15_14-05-00_720-e1457311264540.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;On day one, Kamal presented about the use of user story and pseudo code
+to capture and identify business requirements. It's interesting for me
+to see the higher level perspective instead of directly do the code
+part. Being into deep: coding everyday, sometimes made me loosing the
+bigger picture. Then after lunch, Kamal shared about agile/scrum method
+in software development. I've heard about this agile/scrum thing before
+but never get into detail of it. And I also saw how they use post it
+with different colors to differentiate between main topic and supporting
+topic. The interesting part is how we gonna "implement" this post it
+approach since we are 100 % working remotely so we don't have the luxury
+of looking at the same board.&lt;/p&gt;
+&lt;p&gt;On day two, Kamal explained the evolution of where to put the business
+logic. Starting from the views, models, and service layers. Then in the
+afternoon I presented about monitoring log and how to do it
+automatically because you don't want to spend your whole afternoon
+watching the logs manually right?&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Working at Roppongi Hills during Tokyo team
+camp." src="http://blog.xoxzo.com/ms/images/tokyo-team-camp-2016/20160217172316-e1457312885255.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;On day three we went to Roppongi Hills as part of our Japanese
+experience. Roppongi Hills is an area in Tokyo which famous for business
+district and contemporary architecture. Oh, Google Tokyo office is
+located at Roppongi Hills.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Tokyo Subway Route
+Map" src="http://blog.xoxzo.com/ms/images/tokyo-team-camp-2016/screenshot-from-2016-03-07-114920.png" /&gt;&lt;/p&gt;
+&lt;p&gt;We took the Tokyo subway train - Oedo line to go there. Have you ever
+seen Tokyo train map? You better see it. At first I imagined this map
+just like a spaghetti. Compare to Melboure Metro train network, Tokyo
+train network far more complicated. And the subway, is like very deep
+underground. I didn't remember how many elevators we should take to
+reach the surface from Roppongi Subway Station. It's like we're deep 10
+metres under the ground.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Visiting Tokyo Metro Underground Discharge
+Channel" src="http://blog.xoxzo.com/ms/images/tokyo-team-camp-2016/imag0594-e1457311376693.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;On day four, Aiko joined us. We went to &lt;a href="http://www.ktr.mlit.go.jp/edogawa/gaikaku/english/"&gt;Greater Tokyo Metro Underground
+Discharge Channel&lt;/a&gt;.
+We saw how the Japanese built giant tunnel to prevent an area from
+flood. It's amazing how to see how Japanese built this mega structures
+to prevent flood and saving lives.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Visiting Tokyo Mint where Japanese Yen coins are
+made." src="http://blog.xoxzo.com/ms/images/tokyo-team-camp-2016/imag0601_burst002.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;After lunch, we went to &lt;a href="http://www.mint.go.jp/category/eng"&gt;Japan
+Mint&lt;/a&gt;. Japan Mint is a Government
+Agency which one of the main tasks is producing JPY coins. Here we saw
+how the Japanese coins were made. They also displayed the history of
+Japanese coins and special coins for special events such as Olympic
+Games, special coins for each of 47 Japanese prefectures and so on.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Earthquake simulation at Ikebukuro Life Safety
+Learning Center" src="http://blog.xoxzo.com/ms/images/tokyo-team-camp-2016/great_east_japan_earthq_1024-e1457311301799.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;On day five, we went to Ikebukuro local fire department office. This
+fire department office has learning center for visitor. At first, we
+learned how to properly use fire suppression. For most of us fire
+extinguisher is a common thing but it was my first time pull the pin and
+blast the fire extinguisher. After that, we practised how to safely
+escape from smoke and use the staircase. Still in the visitor center, we
+were having earthquake simulation. Japan is located in an area where
+earthquakes are very often happened. Before we ended our visit, we
+watched 10-minutes animation video which tells the history of
+earthquakes in Japan and how we should face the earthquakes: helping
+each others.&lt;/p&gt;
+&lt;p&gt;During the period of the camp, we also went through presentations on
+internal processes, new services we plan to release and also refresher
+presentations on how we're building our current services.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Team dinner at Japanese restaurant" src="http://blog.xoxzo.com/ms/images/tokyo-team-camp-2016/imag0612.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;Last but not least, to close our team camp, we had our team dinner at
+Japanese restaurant. But unfortunately we missed the karaoke part. After
+all, it was an amazing week: working and spending time with your
+colleagues and their families.&lt;/p&gt;</summary><category term="team camp"></category><category term="tokyo"></category></entry><entry><title>A python basic class in Tokyo Feb 6, 2016</title><link href="http://blog.xoxzo.com/ms/2016/02/15/a-python-basic-class-in-tokyo-feb-6-2016/" rel="alternate"></link><published>2016-02-15T09:18:00+09:00</published><updated>2016-02-15T09:18:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2016-02-15:ms/2016/02/15/a-python-basic-class-in-tokyo-feb-6-2016/</id><summary type="html">&lt;p&gt;&lt;a href="https://djangogirls.org/"&gt;&lt;img alt="logo" src="https://xoxzoblog.files.wordpress.com/2016/02/logo.png?w=150" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I have attended an event of Django Girls Japan and Python ladies, a
 Python basic.&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://djangogirls-org.connpass.com/event/25660/"&gt;http://djangogirls-org.connpass.com/event/25660/&lt;/a&gt;&lt;/p&gt;
@@ -78,7 +274,7 @@ print ("あなたはパー、CPUはチョキ、あなたの負けです！")&lt;
 else:&lt;br /&gt;
 print ("あなたはパー、CPUもパー、「あいこ」です！")&lt;br /&gt;
 But, anyways, this is the start of learning. I am glad that I have made
-a first step.&lt;/p&gt;</summary><category term="Python"></category></entry><entry><title>Github: Managing fork and making pull request</title><link href="http://devblog.xoxzo.com/ms/github-managing-fork-and-making-pull-request.html" rel="alternate"></link><published>2015-09-10T09:08:00+09:00</published><updated>2015-09-10T09:08:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2015-09-10:ms/github-managing-fork-and-making-pull-request.html</id><summary type="html">&lt;p&gt;It's common when you're using a third party library, there's come a
+a first step.&lt;/p&gt;</summary><category term="python"></category></entry><entry><title>Github: Managing fork and making pull request</title><link href="http://blog.xoxzo.com/ms/2015/09/10/github-managing-fork-and-making-pull-request/" rel="alternate"></link><published>2015-09-10T09:08:00+09:00</published><updated>2015-09-10T09:08:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2015-09-10:ms/2015/09/10/github-managing-fork-and-making-pull-request/</id><summary type="html">&lt;p&gt;It's common when you're using a third party library, there's come a
 point when you need to make some changes to accomodate your project
 requirements. On Github, it easy to fork the repository into your own
 repo and start making all the changes you need.&lt;/p&gt;
@@ -109,11 +305,8 @@ remotes/origin/update-email-verify
 &lt;p&gt;Any changes that specific to your project need and never intended to be
 merged with upstream repo should be in &lt;code&gt;develop&lt;/code&gt; branch. Never make any
 changes to the &lt;code&gt;master&lt;/code&gt; branch. That branch should only be the place
-where you pull changes from upstream.&lt;/p&gt;</summary><category term="git"></category><category term="github"></category><category term="version control"></category></entry><entry><title>PyCon AU 2015 Write Up</title><link href="http://devblog.xoxzo.com/ms/pycon-au-2015-write-up.html" rel="alternate"></link><published>2015-08-29T10:33:00+09:00</published><updated>2015-08-29T10:33:00+09:00</updated><author><name>Zaki Akhmad</name></author><id>tag:devblog.xoxzo.com,2015-08-29:ms/pycon-au-2015-write-up.html</id><summary type="html">&lt;p&gt;[caption id="attachment_666" align="aligncenter" width="630"]&lt;img alt="PyCon
-AU 2015 with 440
-attendees." src="https://xoxzoblog.files.wordpress.com/2015/08/img_6546.jpg?w=630" /&gt;{.size-large
-.wp-image-666 width="630" height="176"} PyCon AU 2015 with 440
-attendees.[/caption]&lt;/p&gt;
+where you pull changes from upstream.&lt;/p&gt;</summary><category term="git"></category><category term="github"></category><category term="version control"></category></entry><entry><title>PyCon AU 2015 Write Up</title><link href="http://blog.xoxzo.com/ms/pycon-au-2015-write-up-en.html" rel="alternate"></link><published>2015-08-29T10:33:00+09:00</published><updated>2015-08-29T10:33:00+09:00</updated><author><name>Zaki Akhmad</name></author><id>tag:blog.xoxzo.com,2015-08-29:ms/pycon-au-2015-write-up-en.html</id><summary type="html">&lt;p&gt;&lt;img alt="PyCon AU 2015 with 440
+attendees." src="http://blog.xoxzo.com/ms/images/pycon-au-2015/img_6546.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;It's 2015, and it's another time for PyCon Australia. Last year, PyCon
 Australia 2014 was held also in Brisbane, Queensland. The same city as
 PyCon 2015. Every two years, the same city will host PyCon Australia. In
@@ -128,11 +321,8 @@ Herston Bus Station, the closest bus station from where I stayed. One
 disadvantage of having a conference at this venue is that basically they
 don't have a &lt;em&gt;real&lt;/em&gt; conference room, instead they have multiple rooms
 with partition on each side.&lt;/p&gt;
-&lt;p&gt;[caption id="attachment_658" align="aligncenter"
-width="630"]&lt;img alt="Pullman Brisbane - King George Square, the PyCon AU 2015
-venue." src="https://xoxzoblog.files.wordpress.com/2015/08/img_6641.jpg?w=630" /&gt;{.size-large
-.wp-image-658 width="630" height="473"} Pullman Brisbane - King George
-Square, the PyCon AU 2015 venue.[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Pullman Brisbane - King George Square, the PyCon AU 2015
+venue." src="http://blog.xoxzo.com/ms/images/pycon-au-2015/img_6641.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;The &lt;a href="http://2015.pycon-au.org/programme/about"&gt;conference&lt;/a&gt; took 5 days.
 One day for miniconf, two days for the conference, and another two days
 for sprints (and also one day for
@@ -183,18 +373,9 @@ basically this talk gave practical implementation in real life, how we
 can predict a sports game result. This talk realizes me that it will be
 better for me if I have a good foundation on machine learning.&lt;/p&gt;
 &lt;p&gt;Other than that, there were job board and lightning talks.&lt;/p&gt;
-&lt;p&gt;[caption id="attachment_663" align="aligncenter" width="630"]&lt;a href="https://xoxzoblog.files.wordpress.com/2015/08/img_6567.jpg"&gt;&lt;img alt="PyCon
-AU 2015 Job
-Board" src="https://xoxzoblog.files.wordpress.com/2015/08/img_6567.jpg?w=630" /&gt;{.size-large
-.wp-image-663 width="630"
-height="473"}&lt;/a&gt;
-PyCon AU 2015 Job Board[/caption]&lt;/p&gt;
-&lt;p&gt;[caption id="attachment_662" align="aligncenter"
-width="630"]&lt;a href="https://xoxzoblog.files.wordpress.com/2015/08/img_6573.jpg"&gt;&lt;img alt="Interested giving lightning talk? Write it on the
-card!" src="https://xoxzoblog.files.wordpress.com/2015/08/img_6573.jpg?w=630" /&gt;{.size-large
-.wp-image-662 width="630"
-height="473"}&lt;/a&gt;
-Interested giving lightning talk? Write it on the card![/caption]&lt;/p&gt;
+&lt;p&gt;&lt;img alt="PyCon AU 2015 Job Board" src="http://blog.xoxzo.com/ms/images/pycon-au-2015/img_6567.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Interested giving lightning talk? Write it on the
+card!" src="http://blog.xoxzo.com/ms/images/pycon-au-2015/img_6573.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;And for the workshop, I attended electronics workshop instead of Django
 Girls workshop. I played with Arduino. I code using Python and made the
 blinking LEDs. This electronic workshop was very interesting for me
@@ -202,26 +383,19 @@ since we could program Arduino with Python. Back on the days when I was
 at university, I should code using assembler to program a
 microcontroller. With Python as high level programming language, of
 course it will be easier.&lt;/p&gt;
-&lt;p&gt;[caption id="attachment_657" align="aligncenter"
-width="630"]&lt;a href="https://xoxzoblog.files.wordpress.com/2015/08/img_6684.jpg"&gt;&lt;img alt="Electronics workshop at PyCon AU
-2015" src="https://xoxzoblog.files.wordpress.com/2015/08/img_6684.jpg?w=630" /&gt;{.size-large
-.wp-image-657 width="630"
-height="473"}&lt;/a&gt;
-Electronics workshop at PyCon AU 2015[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Electronics workshop at PyCon AU
+2015" src="http://blog.xoxzo.com/ms/images/pycon-au-2015/img_6684.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;It was my first time PyCon AU experience. And it was very nice to meet
 people who shares the same interest and enthusiast with you. And in the
 end, the main point of attending a conference is to meet its people.&lt;/p&gt;
-&lt;p&gt;See you at the next (nearest) PyCon!&lt;/p&gt;</summary><category term="django"></category><category term="PyCon"></category><category term="PyCon AU"></category><category term="PyCon AU 2015"></category><category term="Python"></category></entry><entry><title>PyconMY 2015 Talk - Mastering Python Ecosystem</title><link href="http://devblog.xoxzo.com/ms/pyconmy-2015-talk-mastering-python-ecosystem.html" rel="alternate"></link><published>2015-08-28T17:04:00+09:00</published><updated>2015-08-28T17:04:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2015-08-28:ms/pyconmy-2015-talk-mastering-python-ecosystem.html</id><summary type="html">&lt;p&gt;Pycon Malaysia (PyconMY) 2015 just wrapped up last week. This is the
-first ever Python conference in Malaysia after a &lt;a href="http://Kamal%20Mustafa.github.io/posts/mini-pycon-my-2014.html"&gt;mini
+&lt;p&gt;See you at the next (nearest) PyCon!&lt;/p&gt;</summary><category term="django"></category><category term="pycon"></category><category term="pycon au"></category><category term="pycon au 2015"></category><category term="python"></category></entry><entry><title>PyconMY 2015 Talk - Mastering Python Ecosystem</title><link href="http://blog.xoxzo.com/ms/pyconmy-2015-talk-mastering-python-ecosystem-en.html" rel="alternate"></link><published>2015-08-28T17:04:00+09:00</published><updated>2015-08-28T17:04:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2015-08-28:ms/pyconmy-2015-talk-mastering-python-ecosystem-en.html</id><summary type="html">&lt;p&gt;Pycon Malaysia (PyconMY) 2015 just wrapped up last week. This is the
+first ever Python conference in Malaysia after a &lt;a href="http://k4ml.github.io/posts/mini-pycon-my-2014.html"&gt;mini
 Pycon&lt;/a&gt;
 held last year. It was held in Universiti Malaya (UM), Kuala Lumpur.
 Unfortunately, due to some emergency with my family, I have to leave
 early after delivering my talk and basically missed the whole event.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://xoxzoblog.files.wordpress.com/2015/08/pycon1.jpg"&gt;&lt;img alt="pycon1" src="https://xoxzoblog.files.wordpress.com/2015/08/pycon1.jpg?w=300" /&gt;{.alignnone
-.size-medium .wp-image-739 width="300"
-height="169"}&lt;/a&gt;&lt;a href="https://xoxzoblog.files.wordpress.com/2015/08/pycon2.jpg"&gt;&lt;img alt="pycon2" src="https://xoxzoblog.files.wordpress.com/2015/08/pycon2.jpg?w=300" /&gt;{.alignnone
-.size-medium .wp-image-740 width="300"
-height="169"}&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="pycon1" src="http://blog.xoxzo.com/ms/images/pycon1.jpg" /&gt;
+&lt;img alt="pycon2" src="http://blog.xoxzo.com/ms/images/pycon2.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;Throughout the talk, I try to give broad general overview of what they
 can expect if they were some day decide to adopt Python into their work
 environment.&lt;/p&gt;
@@ -239,7 +413,86 @@ just need to dig deeper how exactly does people built it. The is how I
 managed to see how Python features such as list comprehension,
 decorator, metaclass and others being used to solve real problems.&lt;/p&gt;
 &lt;p&gt;You can view the slides
-&lt;a href="https://docs.google.com/presentation/d/1Mt6laaDXGWLN7rm1pvYcqeEzCi9FoJ6VLEMryBEMw_c/edit#slide=id.p"&gt;here&lt;/a&gt;.&lt;/p&gt;</summary><category term="PyCon"></category><category term="Python"></category><category term="talk"></category></entry><entry><title>Talk at UTHM</title><link href="http://devblog.xoxzo.com/ms/talk-at-uthm.html" rel="alternate"></link><published>2015-05-29T09:19:00+09:00</published><updated>2015-05-29T09:19:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2015-05-29:ms/talk-at-uthm.html</id><summary type="html">&lt;p&gt;&lt;img alt="Header image" src="http://devblog.xoxzo.com/ms/images/imBJVxY.png" /&gt;&lt;/p&gt;
+&lt;a href="https://docs.google.com/presentation/d/1Mt6laaDXGWLN7rm1pvYcqeEzCi9FoJ6VLEMryBEMw_c/edit#slide=id.p"&gt;here&lt;/a&gt;.&lt;/p&gt;</summary><category term="pycon"></category><category term="python"></category><category term="talk"></category></entry><entry><title>Django Girls One Day Workshop in Tokyo</title><link href="http://blog.xoxzo.com/ms/django-girls-one-day-workshop-in-tokyo-en.html" rel="alternate"></link><published>2015-08-06T14:17:00+09:00</published><updated>2015-08-06T14:17:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2015-08-06:ms/django-girls-one-day-workshop-in-tokyo-en.html</id><summary type="html">&lt;p&gt;&lt;a href="https://djangogirls.org/tokyo/"&gt;&lt;img alt="logo_django" src="http://blog.xoxzo.com/ms/images/logo_django.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;https://djangogirls.org/tokyo/&lt;/p&gt;
+&lt;p&gt;One day work shop at TECH LAB PAAK in Tokyo, July 26, 2015&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Django Girls in Tokyo&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="djangogirls" src="http://blog.xoxzo.com/ms/images/django-girls-workshop/20278115621_c87c785323_z.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;This is a Django workshop for female who wants to start Django. The
+participants were not asked any background knowledge in programming.&lt;/p&gt;
+&lt;p&gt;There were about 30 girls in various age joined with their own laptops.
+1 – 2 tutors and mentors are to look after 2 – 3 girls.&lt;/p&gt;
+&lt;p&gt;10 am, After a quick introduction, all just showed their great
+concentration to work on the &lt;a href="https://www.gitbook.com/book/djangogirlsjapan/workshop_tutorialjp/details"&gt;tutorials provided&lt;/a&gt;
+till the end of the day at 5.30 pm. There was some social meet up after
+the workshop, sadly I couldn’t attend that for the distance of my
+residence.&lt;/p&gt;
+&lt;p&gt;The team of tutor and we pupils, have gone very well together. Basically
+we all read the tutorial and proceeded on the little tasks in it by our
+own, but every time when I look up high at the ceiling with my hand
+rubbing my chin, the tutor flew to me to look my screen over my shoulder
+from behind me. He gave me a pin-point advice how to proceed. I felt
+easy to ask questions for his friendly atmosphere too.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Contents of the tutorial&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Django Girls Workshop" src="http://blog.xoxzo.com/ms/images/django-girls-workshop/19649557504_a990e81024_z.jpg" /&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Started off with the command line. As I’m getting aged and my first
+    experience with computer was before the Windows has come out, so I
+    didn’t have any allergy to using the command line but felt like
+    meeting the old friend.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;!-- --&gt;
+
+&lt;ol&gt;
+&lt;li&gt;We installed Python, then Code editor, I was recommended to use
+    ATOM.　I liked using ATOM with its nice user-cared features although
+    I just started using it. We had a little play using python on the
+    command line before starting Django.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;!-- --&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Created the own directory to work on this project, then installed
+    Django==1.8&lt;/li&gt;
+&lt;li&gt;We started blog app, then started to modify the blog.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;What we have achieved&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="djangogirls" src="http://blog.xoxzo.com/ms/images/django-girls-workshop/19651250533_d6a200f1a2_z.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;Using the Blog app, we all work to reach our aim of the day, ‘to create
+the first web application.’&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand the web surface and database connection/setting up&lt;/li&gt;
+&lt;li&gt;Use Django well to create the log-in form&lt;/li&gt;
+&lt;li&gt;Create a super-user&lt;/li&gt;
+&lt;li&gt;Try posting the blog contents&lt;/li&gt;
+&lt;li&gt;List them up then sort them&lt;/li&gt;
+&lt;li&gt;Use HTML and CSS to add nice finishing touch for the cooler-looking
+    display&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We tried to see how our web looks like, by using the prompt command of
+python manage.py runserver but didn’t get to ‘deploy’ though it is in
+the tutorial, I myself want to try that in the near future by reviewing
+what I have learnt there in a kind of hurry.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="djangogirls" src="http://blog.xoxzo.com/ms/images/django-girls-workshop/20263896922_76dc83048c_z.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Looking at the future&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I think I have got to stand at the start of something new.&lt;/p&gt;
+&lt;p&gt;I liked doing this kind of thing, I loved to use MS access to create
+some small useful application when I was much younger and love touching
+HTML/CSS a little bit, but just have been away from doing it as I had no
+chance to be involved.&lt;/p&gt;
+&lt;p&gt;If someone gave me this tutorial book, I wouldn’t get this much of
+feeling by just reading it, the hands on workshop is a big hooray.&lt;/p&gt;
+&lt;p&gt;Now my next task is to review the tutorial myself, and hope to get
+deploy before I come back to show off everyone what I really achieved. I
+know that that is still just a start of my Django footpath even I get to
+it…&lt;/p&gt;
+&lt;p&gt;Never never started, never never go forward. I have at least started.&lt;/p&gt;
+&lt;p&gt;Thanks to all the Django Girls, the coaches/mentors of the workshop and
+the sponsors!!!&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Django Girls Workshop" src="http://blog.xoxzo.com/ms/images/django-girls-workshop/20263894682_61d9ee050e_z.jpg" /&gt;
+&lt;img alt="Django Girls Workshop" src="http://blog.xoxzo.com/ms/images/django-girls-workshop/20084176790_f05a18a29e_z.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;Lastly, the lunch and tea time sweets provided on the day was beautiful
+too! I enjoyed that part of the workshop as well.&lt;/p&gt;</summary><category term="djangogirls"></category><category term="東京"></category></entry><entry><title>Talk at UTHM</title><link href="http://blog.xoxzo.com/ms/2015/05/29/talk-at-uthm/" rel="alternate"></link><published>2015-05-29T09:19:00+09:00</published><updated>2015-05-29T09:19:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2015-05-29:ms/2015/05/29/talk-at-uthm/</id><summary type="html">&lt;p&gt;&lt;img alt="Header image" src="http://blog.xoxzo.com/ms/images/imBJVxY.png" /&gt;&lt;/p&gt;
 &lt;p&gt;Two days ago, I was invited by Universiti Tun Hussein Onn (UTHM) student
 to give a talk on their 1 day seminar for the students in the Computer
 Science and Information Technology (FSKTM) faculty. Thinking that this
@@ -269,10 +522,10 @@ everyone in surprise.&lt;/p&gt;
 deciding to back into university to further his study. He said that he
 feel's trapped into his job and passion in programming, not having a
 quality life anymore. This is something to ponder I think. Unfortunately
-I didn't (other panels as well) has clear answer for him.&lt;/p&gt;</summary><category term="open source"></category><category term="oss"></category><category term="talk"></category></entry><entry><title>AWS Summit KL 2015</title><link href="http://devblog.xoxzo.com/ms/aws-summit-kl-2015.html" rel="alternate"></link><published>2015-05-28T23:07:00+09:00</published><updated>2015-05-28T23:07:00+09:00</updated><author><name>Abdul Rahman</name></author><id>tag:devblog.xoxzo.com,2015-05-28:ms/aws-summit-kl-2015.html</id><summary type="html">&lt;p&gt;On the 21st of May, the first AWS Summit was held at Connexion@Nexus,
+I didn't (other panels as well) has clear answer for him.&lt;/p&gt;</summary><category term="open source"></category><category term="oss"></category><category term="talk"></category></entry><entry><title>AWS Summit KL 2015</title><link href="http://blog.xoxzo.com/ms/aws-summit-kl-2015-ja.html" rel="alternate"></link><published>2015-05-28T23:07:00+09:00</published><updated>2015-05-28T23:07:00+09:00</updated><author><name>Abdul Rahman</name></author><id>tag:blog.xoxzo.com,2015-05-28:ms/aws-summit-kl-2015-ja.html</id><summary type="html">&lt;p&gt;On the 21st of May, the first AWS Summit was held at Connexion@Nexus,
 located in Kuala Lumpur. A total of 1075 participants turned up that day
 which lasted from 7.30am till 6pm.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="IMAG0509" src="http://devblog.xoxzo.com/ms/images/5c468-6a0153916e707f970b01b8d11b4dc4970c-pi.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="IMAG0509" src="http://blog.xoxzo.com/ms/images/5c468-6a0153916e707f970b01b8d11b4dc4970c-pi.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;The summit was split into two tracks. The first track is Introduction to
 AWS while the second track is AWS Architecture. There were also
 exhibition booths ran by sponsors of the event. A good part of the
@@ -285,7 +538,7 @@ keynotes in the advanced track mostly feature big data analytics while
 the introduction track introduces the audience to the various services
 that AWS has. There is also a dedicated talk about container computing,
 mostly referencing to Docker.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="IMAG0517" src="http://devblog.xoxzo.com/ms/images/12fb2-6a0153916e707f970b01bb0835babb970d-pi.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="IMAG0517" src="http://blog.xoxzo.com/ms/images/12fb2-6a0153916e707f970b01bb0835babb970d-pi.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;AWS Lambda features a serverless and stateless web app. All you need are
 functions and make use of S3 and DynamoDB without the need to set up
 your own infrastructure. Charges will occur every 100ms the process is
@@ -306,114 +559,57 @@ cloud. This year's summit seems to be the first step for many Malaysian
 companies. But by next year's summit we're definitely going to see even
 more creative use out of AWS as more and more people will be exposed and
 using it.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="IMAG0522" src="http://devblog.xoxzo.com/ms/images/6ebd8-6a0153916e707f970b01b8d11b4f16970c-pi.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="IMAG0522" src="http://blog.xoxzo.com/ms/images/6ebd8-6a0153916e707f970b01b8d11b4f16970c-pi.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;P/S: This little selfie booth in the outside foyer really grabbed
-everyone's attention.&lt;/p&gt;</summary></entry><entry><title>MARIMORE Engineering Team Camp in Malacca</title><link href="http://devblog.xoxzo.com/ms/marimore-engineering-team-camp-in-malacca.html" rel="alternate"></link><published>2014-09-13T14:32:00+09:00</published><updated>2014-09-13T14:32:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:devblog.xoxzo.com,2014-09-13:ms/marimore-engineering-team-camp-in-malacca.html</id><summary type="html">&lt;p&gt;&lt;span
-style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;Early
-September 2014 we had a 2-day team camp for our engineering team in
-Malacca.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span
-style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;Because
-all of us work remotely all the time and we usually only communicate via
+everyone's attention.&lt;/p&gt;</summary><category term="python"></category><category term="aws"></category><category term="kuala lumpur"></category><category term="connexion@nexus"></category></entry><entry><title>MARIMORE Engineering Team Camp in Malacca</title><link href="http://blog.xoxzo.com/ms/marimore-engineering-team-camp-in-malacca-en.html" rel="alternate"></link><published>2014-09-13T14:32:00+09:00</published><updated>2014-09-13T14:32:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2014-09-13:ms/marimore-engineering-team-camp-in-malacca-en.html</id><summary type="html">&lt;p&gt;Early September 2014 we had a 2-day team camp for our engineering team in
+Malacca.&lt;/p&gt;
+&lt;p&gt;Because all of us work remotely all the time and we usually only communicate via
 voice, video and/or text, it is great to meetup and discuss targets,
-issues and ideas face-to-face. &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span
-style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;Meetups
-are a great way to communicate issues or ideas which are complicated to
+issues and ideas face-to-face.&lt;/p&gt;
+&lt;p&gt;Meetups are a great way to communicate issues or ideas which are complicated to
 be put to paper. I find that discussing ideas are much more effective
 face-to-face; Perhaps due to the many tools (like pen and paper)
 expressions (nuances in the facial expression, hand movements and voice)
-that we can utilize and the real-time nature of the discussion.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span
-style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;At the
-same time the beauty of working remotely all the time is that it trains
+that we can utilize and the real-time nature of the discussion.&lt;/p&gt;
+&lt;p&gt;At the same time the beauty of working remotely all the time is that it trains
 you to be precise and concise as much as possible but without leaving
 too much information out to get your point across. Usually we only have
 one shot to communicate (i.e sending an email or a text message) which
 if we miss to get the point across, will require the reader to get our
 subsequent explaination in her next iteration, and this will require us
-to wait.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span
-style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;The
-camp this time was done at &lt;a href="http://www.hattenhotel-melaka.com/"&gt;Hatten Hotel
-Malacca&lt;/a&gt;, in the UNESCO heritage
-city of &lt;a class="zem_slink" href="http://maps.google.com/maps?ll=2.20569166667,102.256136111&amp;amp;spn=0.1,0.1&amp;amp;q=2.20569166667,102.256136111%20(Malacca%20City)&amp;amp;t=h" title="Malacca City"&gt;Malacca
-City&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;
-&lt;a class="asset-img-link" href="https://xoxzoblog.files.wordpress.com/2014/09/afd30-6a0153916e707f970b01b7c6df2ddd970b-pi.jpg"&gt;&lt;img alt="2014-09-04
-07.42.40" src="https://xoxzoblog.files.wordpress.com/2014/09/afd30-6a0153916e707f970b01b7c6df2ddd970b-pi.jpg?w=300" title="2014-09-04 07.42.40" /&gt;{.asset
-.asset-image .at-xid-6a0153916e707f970b01b7c6df2ddd970b
-.img-responsive}&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span
-style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;^The\ view\ from\ my\ room^ &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span
-style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;Team
-camp started at 10AM on the first day, and since everyone was driving to
-the hotel, we met up at the 12th floor executive check-in lounge.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span
-style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;It was
-our first time having our team camp at Hatten Hotel, but we were very
+to wait.&lt;/p&gt;
+&lt;p&gt;Team camp started at 10AM on the first day, and since everyone was driving to
+the hotel, we met up at the 12th floor executive check-in lounge.&lt;/p&gt;
+&lt;p&gt;It was our first time having our team camp at Hatten Hotel, but we were very
 happy with the service. Since we had the executive rooms, we were able
 to take advantage of the executive lounge with it's free flow of coffee
 and juice, with some light snacks around 4PM in the afternoon.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span
-style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;The
-hotel WiFi was also available and pretty fast, although it was a bit
+&lt;p&gt;The hotel WiFi was also available and pretty fast, although it was a bit
 flaky at times. Each of us has a &lt;a href="http://www.yes.my/v3/personal/devices/huddle.do"&gt;YES 4G
 Huddle&lt;/a&gt;, so we managed
 to get connected (coverage wasn't an issue since Hatten is in the middle
-of the town) when the hotel WiFi was difficult to connect.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span
-style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;Food
-wasn't an issue: There were many small eateries across the street in the
+of the town) when the hotel WiFi was difficult to connect.&lt;/p&gt;
+&lt;p&gt;Food wasn't an issue: There were many small eateries across the street in the
 Dataran Pahlawan mall, and for breakfast Hatten had a breakfast plan
-included with our reservation and the spread was impressive. &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span
-style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;The
-team camp this time focused more on FullCourt, the Cloud Communications
-platform &lt;a href="http://press.marimore.co.jp/2014/07/marimore-acquiring-fullcourt.html" title="MARIMORE acquiring FullCourt"&gt;we acquired last
-July&lt;/a&gt;.
+included with our reservation and the spread was impressive.&lt;/p&gt;
+&lt;p&gt;The team camp this time focused more on FullCourt, the Cloud Communications
+platform we acquired last July.
 Discussion focused on the current status of development,
 functionalities, issues faced and also an overview of the roadmap that
-we have planned for all of our cloud services.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span
-style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;This
-meetup was also to congratulate and welcome &lt;a href="http://www.marimore.co.jp/en/ourstaff/"&gt;Aman, the new addition to
+we have planned for all of our cloud services.&lt;/p&gt;
+&lt;p&gt;This meetup was also to congratulate and welcome &lt;a href="http://www.marimore.co.jp/en/ourstaff/"&gt;Aman, the new addition to
 our team&lt;/a&gt;. Aman in mainly
 responsible for the technology transfer of FullCourt from the current
-FullCourt team.&lt;br /&gt;
-&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span
-style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;&lt;a class="asset-img-link" href="https://xoxzoblog.files.wordpress.com/2014/09/24e92-6a0153916e707f970b01b8d0692672970c-pi.jpg"&gt;&lt;img alt="2014-09-04
-12.12.07" src="https://xoxzoblog.files.wordpress.com/2014/09/24e92-6a0153916e707f970b01b8d0692672970c-pi.jpg?w=300" title="2014-09-04 12.12.07" /&gt;{.asset
-.asset-image .at-xid-6a0153916e707f970b01b8d0692672970c
-.img-responsive}&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span
-style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;^The\ engineering\ team^&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span
-style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;We
-continued our discussion in the morning of the 2nd day, and we ended the
+FullCourt team.  &lt;/p&gt;
+&lt;p&gt;&lt;img alt="2014-09-04
+12.12.07" src="http://blog.xoxzo.com/ms/images/24e92-6a0153916e707f970b01b8d0692672970c-pi.jpg" title="2014-09-04 12.12.07" /&gt;&lt;/p&gt;
+&lt;p&gt;The engineering team&lt;/p&gt;
+&lt;p&gt;We continued our discussion in the morning of the 2nd day, and we ended the
 team camp by lunch time since we wanted everyone to be home by
-dinner.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span
-style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;MARIMORE
-tries to do team camps a few times a year, and this time it was the
+dinner.&lt;/p&gt;
+&lt;p&gt;MARIMORE tries to do team camps a few times a year, and this time it was the
 first time we had it in Malacca. I was pretty happy with the experience,
-and will put Malacca high on top of our list.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Related articles&lt;/p&gt;
-&lt;div class="zemanta-article-ul zemanta-article-ul-image"
-style="margin:0;padding:0;overflow:hidden;"&gt;
-
-&lt;div class="zemanta-article-ul-li-image zemanta-article-ul-li"
-style="padding:0;background:none;list-style:none;display:block;float:left;vertical-align:top;text-align:left;width:84px;font-size:11px;margin:2px 10px 10px 2px;"&gt;
-
-[![](http://i.zemanta.com/282082733_80_80.jpg)](http://press.marimore.co.jp/2014/07/marimore-acquiring-fullcourt.html)[MARIMORE
-acquiring
-FullCourt](http://press.marimore.co.jp/2014/07/marimore-acquiring-fullcourt.html)
-
-&lt;/div&gt;
-
-&lt;/div&gt;</summary><category term="hatten hotel"></category><category term="malacca"></category><category term="MARIMORE"></category></entry><entry><title>Django transaction.commit_manually wrapper</title><link href="http://devblog.xoxzo.com/ms/django-transactioncommit_manually-wrapper.html" rel="alternate"></link><published>2012-08-27T09:02:00+09:00</published><updated>2012-08-27T09:02:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2012-08-27:ms/django-transactioncommit_manually-wrapper.html</id><summary type="html">&lt;p&gt;I first &lt;a href="http://metaKamal%20Mustafa.blogspot.com/2011/05/django-transactioncommitmanually-mask.html"&gt;encountered this
+and will put Malacca high on top of our list.&lt;/p&gt;</summary><category term="hatten hotel"></category><category term="malacca"></category><category term="marimore"></category></entry><entry><title>Django transaction.commit_manually wrapper</title><link href="http://blog.xoxzo.com/ms/2012/08/27/django-transactioncommit_manually-wrapper/" rel="alternate"></link><published>2012-08-27T09:02:00+09:00</published><updated>2012-08-27T09:02:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2012-08-27:ms/2012/08/27/django-transactioncommit_manually-wrapper/</id><summary type="html">&lt;p&gt;I first &lt;a href="http://metaKamal%20Mustafa.blogspot.com/2011/05/django-transactioncommitmanually-mask.html"&gt;encountered this
 problem&lt;/a&gt;
 1 year ago and it look's like the issue still not being fixed till now.
 The &lt;a href="https://code.djangoproject.com/ticket/6623"&gt;corresponding ticket&lt;/a&gt;
@@ -441,14 +637,13 @@ of the original decorator.&lt;/p&gt;
 &lt;p&gt;I have also update the patch in the
 &lt;a href="https://code.djangoproject.com/ticket/6623"&gt;ticket&lt;/a&gt; to apply cleanly to
 current django trunk but so far no feedback yet from django core
-developers.&lt;/p&gt;</summary><category term="django"></category></entry><entry><title>Database Transaction in Django</title><link href="http://devblog.xoxzo.com/ms/database-transaction-in-django.html" rel="alternate"></link><published>2012-06-21T07:54:00+09:00</published><updated>2012-06-21T07:54:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2012-06-21:ms/database-transaction-in-django.html</id><summary type="html">&lt;p&gt;Keep forgetting about this so this is to wrap my heads around it. First
+developers.&lt;/p&gt;</summary><category term="django"></category></entry><entry><title>Database Transaction in Django</title><link href="http://blog.xoxzo.com/ms/2012/06/21/database-transaction-in-django/" rel="alternate"></link><published>2012-06-21T07:54:00+09:00</published><updated>2012-06-21T07:54:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2012-06-21:ms/2012/06/21/database-transaction-in-django/</id><summary type="html">&lt;p&gt;Keep forgetting about this so this is to wrap my heads around it. First
 I have&lt;br /&gt;
 the impression that Django by default execute database operations within
 a&lt;br /&gt;
 transaction block, which is the source of my confusion. It's true only
 to&lt;br /&gt;
-certain extent. The &lt;a href="https://docs.djangoproject.com/en/1.3/topics/db/transactions/"&gt;first section in django
-documentation&lt;/a&gt;
+certain extent. The &lt;a href="https://docs.djangoproject.com/en/1.3/topics/db/transactions/"&gt;first section in django documentation&lt;/a&gt;
 already explained&lt;br /&gt;
 this (emphasized is mine):-&lt;/p&gt;
 &lt;blockquote&gt;
@@ -496,7 +691,41 @@ transaction.rollback()
 def main():
 step1()
 main()
-&lt;/pre&gt;&lt;/div&gt;</summary><category term="django"></category><category term="Python"></category><category term="transaction"></category></entry><entry><title>Django: Where does settings belong ?</title><link href="http://devblog.xoxzo.com/ms/django-where-does-settings-belong.html" rel="alternate"></link><published>2012-05-23T20:07:00+09:00</published><updated>2012-05-23T20:07:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2012-05-23:ms/django-where-does-settings-belong.html</id><summary type="html">&lt;p&gt;Settings is very central to all Django applications. Django even barf if
+&lt;/pre&gt;&lt;/div&gt;</summary><category term="django"></category><category term="python"></category><category term="transaction"></category></entry><entry><title>PyCon APAC 2012</title><link href="http://blog.xoxzo.com/ms/pycon-apac-2012-en.html" rel="alternate"></link><published>2012-06-12T20:12:00+09:00</published><updated>2012-06-12T20:12:00+09:00</updated><author><name>Muhammad Juwaini</name></author><id>tag:blog.xoxzo.com,2012-06-12:ms/pycon-apac-2012-en.html</id><summary type="html">&lt;p&gt;PyCon APAC 2012 that was held on June 7th - 9th is over. Attended by all
+kinds of people from many parts of the world. It was a lovely and an eye
+opening experience.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="IMG00356" src="http://blog.xoxzo.com/ms/images/pycon-apac-2012/ff4e8-6a0153916e707f970b0167676601ea970b-pi.jpg" title="IMG00356" /&gt;
+Marimore team attended the conference and gave a few talk (lightning
+talk included) on various topics. Kamal gave a talk titled Python/Django
+for PHP Developers which cause quite a stir among the attendees as two
+language should never be discussed in the same room.&lt;/p&gt;
+&lt;p&gt;I gave a brief talk on HTML5 Polyfills. It is my first talk to a public
+audience accompanied by some difficulties with LibreOffice Impress
+(which does not seem to want to maximize to full screen). Nevertheless
+its quite an experience and there will always be a room for
+improvement. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="IMG00358" src="http://blog.xoxzo.com/ms/images/pycon-apac-2012/01c8b-6a0153916e707f970b0176155b84da970c-pi.jpg" title="IMG00358" /&gt;
+of the talks are great, but a few that really interest me is Diversity
+as a Dependency (Anna Ravenscroft), Relational Database Access with
+Python 'sans' ORM (Mark Rees). I've attended Mr Rees's talk on several
+occasions, &lt;a href="http://blog.mosc.my/2009/06/testing-web-apps-with-scripting.html"&gt;MOSC
+2009&lt;/a&gt;
+ and other MyOSS Meetup at Technology Park Malaysia, he's an excellent
+speaker and the topic he presents is kind of refreshing in a world where
+framework is abundant, going back to its roots, Python DB API. Diversity
+as a Dependency touched on a lot of psychological phenomenon on what
+makes a group of people outstanding. The barriers that we face in
+working as a group such as groupthink, conformity, anchoring and many
+more are mentioned and explained in detail by the speaker, Anna
+Ravenscroft.&lt;/p&gt;
+&lt;p&gt;Overall the talks are great especially the keynotes, the food is nice
+and to top it off, the programming tournament is something that I have
+never experienced, as I have never been good at a very time constrained
+programming challenge, it was tough, me and several others only managed
+to solve 1 question in 10 minutes (1st place answers all 10 questions in
+that amount of time). &lt;/p&gt;
+&lt;p&gt;Hopefully on the next PyCon, it could be better with more interesting
+topics and speakers, and more food delicious food of course.&lt;/p&gt;</summary><category term="django"></category><category term="pycon"></category><category term="python"></category></entry><entry><title>Django: Where does settings belong ?</title><link href="http://blog.xoxzo.com/ms/2012/05/23/django-where-does-settings-belong/" rel="alternate"></link><published>2012-05-23T20:07:00+09:00</published><updated>2012-05-23T20:07:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2012-05-23:ms/2012/05/23/django-where-does-settings-belong/</id><summary type="html">&lt;p&gt;Settings is very central to all Django applications. Django even barf if
 you&lt;br /&gt;
 don't supply one and import any django modules or functions (most of
 it). The&lt;br /&gt;
@@ -635,7 +864,7 @@ into global namespace. The settings now also look truely external to
 the&lt;br /&gt;
 application. This has getting quite long but still the question
 remained&lt;br /&gt;
-unanswered, where should we put the settings file ?&lt;/p&gt;</summary><category term="django"></category><category term="Python"></category></entry><entry><title>PHP execution model vs Python web</title><link href="http://devblog.xoxzo.com/ms/php-execution-model-vs-python-web.html" rel="alternate"></link><published>2012-05-02T16:48:00+09:00</published><updated>2012-05-02T16:48:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2012-05-02:ms/php-execution-model-vs-python-web.html</id><summary type="html">&lt;p&gt;We're still looking for a better way to explain the difference between
+unanswered, where should we put the settings file ?&lt;/p&gt;</summary><category term="django"></category><category term="Python"></category></entry><entry><title>PHP execution model vs Python web</title><link href="http://blog.xoxzo.com/ms/php-execution-model-vs-python-web-en.html" rel="alternate"></link><published>2012-05-02T16:48:00+09:00</published><updated>2012-05-02T16:48:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2012-05-02:ms/php-execution-model-vs-python-web-en.html</id><summary type="html">&lt;p&gt;We're still looking for a better way to explain the difference between
 PHP execution model vs Python for web application to new developers
 joining us. This is to help them understand the key differences when
 developing web application in Python. One source of confusion among them
@@ -643,14 +872,7 @@ was when they realized the state-full nature of Python web application
 compared to state-less nature of PHP. The following diagram is my
 attempt to show them these key difference.&lt;/p&gt;
 &lt;h2&gt;PHP&lt;/h2&gt;
-&lt;div align="center"&gt;
-
-[![Php](https://xoxzoblog.files.wordpress.com/2012/05/5e422-6a0153916e707f970b0168eaaad5df970c-pi.png?w=271 "Php"){.asset
-.asset-image
-.at-xid-6a0153916e707f970b0168eaaad5df970c}](https://xoxzoblog.files.wordpress.com/2012/05/5e422-6a0153916e707f970b0168eaaad5df970c-pi.png){.asset-img-link}
-
-&lt;/div&gt;
-
+&lt;p&gt;&lt;img alt="Php" src="http://blog.xoxzo.com/ms/images/5e422-6a0153916e707f970b0168eaaad5df970c-pi.png" /&gt;&lt;/p&gt;
 &lt;p&gt;PHP execution model is quite simple actually and follow a cgi-like
 model. It simply take the php file as it's input, parse and interpret it
 and then return what ever output the script produced, pass it back to
@@ -662,14 +884,7 @@ need to invoke PHP interpreter for each requests.&lt;/p&gt;
 interpreter and it does not know anything about our application. This
 make PHP a state-less environment.&lt;/p&gt;
 &lt;h2&gt;Python&lt;/h2&gt;
-&lt;div align="center"&gt;
-
-[![Python](https://xoxzoblog.files.wordpress.com/2012/05/7c5e7-6a0153916e707f970b016765b4178f970b-pi.png?w=216 "Python"){.asset
-.asset-image
-.at-xid-6a0153916e707f970b016765b4178f970b}](https://xoxzoblog.files.wordpress.com/2012/05/7c5e7-6a0153916e707f970b016765b4178f970b-pi.png){.asset-img-link}
-
-&lt;/div&gt;
-
+&lt;p&gt;&lt;img alt="Python" src="http://blog.xoxzo.com/ms/images/7c5e7-6a0153916e707f970b016765b4178f970b-pi.png" /&gt;&lt;/p&gt;
 &lt;p&gt;In Python/Django execution model, our app always running as part of the
 server process (although probably as separate user) and only the views
 function/callable that will be executed on each request. This mean some
@@ -720,88 +935,34 @@ developers to keep up fast in Python web development. Related reading
 that help me a lot in understanding the difference between PHP and
 Python web execution model is a blog post by Ian Bicking few years ago -
 &lt;a href="http://blog.ianbicking.org/2008/01/12/what-php-deployment-gets-right/"&gt;What PHP Deployment Gets
-Right&lt;/a&gt;.&lt;/p&gt;</summary><category term="php"></category><category term="Python"></category></entry><entry><title>Supporting HTML5 features in browsers using polyfill</title><link href="http://devblog.xoxzo.com/ms/polyfilling-the-future.html" rel="alternate"></link><published>2012-04-23T11:23:00+09:00</published><updated>2012-04-23T11:23:00+09:00</updated><author><name>xoxzoblog</name></author><id>tag:devblog.xoxzo.com,2012-04-23:ms/polyfilling-the-future.html</id><summary type="html">&lt;div&gt;
-
-**What is polyfill?**
-
-&lt;/div&gt;
-
-&lt;div&gt;
-
-A polyfill or polyfiller is code designed to provide technology that is
+Right&lt;/a&gt;.&lt;/p&gt;</summary><category term="php"></category><category term="python"></category></entry><entry><title>Supporting HTML5 features in browsers using polyfill</title><link href="http://blog.xoxzo.com/ms/2012/04/23/polyfilling-the-future/" rel="alternate"></link><published>2012-04-23T11:23:00+09:00</published><updated>2012-04-23T11:23:00+09:00</updated><author><name>Muhammad Juwaini</name></author><id>tag:blog.xoxzo.com,2012-04-23:ms/2012/04/23/polyfilling-the-future/</id><summary type="html">&lt;p&gt;What is polyfill?&lt;/p&gt;
+&lt;h6&gt;&lt;/h6&gt;
+&lt;p&gt;A polyfill or polyfiller is code designed to provide technology that is
 not native to a web browser. For example, earlier versions of Internet
 Explorer do not support all the features of HTML5 which may necessitate
 the use of polyfills to display features of HTML5 which are not
-supported by the web browser.
-
-&lt;/div&gt;
-
-&lt;div&gt;
-
-&lt;div&gt;
-
-**What does it mean?**
-
-&lt;/div&gt;
-
-&lt;div&gt;
-
-If you use &amp;lt;audio&amp;gt; tag for certain filetypes (for example, an mp3
-file), there are some browser that do not supports it.[^\[1\]^](anchor1)
+supported by the web browser.&lt;/p&gt;
+&lt;p&gt;What does it mean?&lt;/p&gt;
+&lt;h6&gt;&lt;/h6&gt;
+&lt;p&gt;If you use &amp;lt;audio&amp;gt; tag for certain filetypes (for example, an mp3
+file), there are some browser that do not supports it.&lt;a href="anchor1"&gt;^[1]^&lt;/a&gt;
 What does it needs to be done if we want to play an mp3 file on Firefox
 3.6? Well, we can use a flash audio player for instance or we could
 provide other compatible files. The latter is not preferable for it
 requires a lot of space and processing power. We'd have to convert every
 single file that are not supported by browsers to a format it supports.
 Polyfills provide a fallback for this type of
-situations.[^\[2\]^](anchor2)
-
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;div&gt;
-
-&lt;div&gt;
-
-**How Do We Check A Feature Is In A Browser?**
-
-&lt;/div&gt;
-
-&lt;div&gt;
-
-Check out &lt;http://html5readiness.com/&gt; to view the readiness of a
-browser to a specific HTML5 feature. 
-
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;&lt;a class="asset-img-link" href="https://xoxzoblog.files.wordpress.com/2012/04/860d2-6a0153916e707f970b0168ea921382970c-pi.jpg"&gt;&lt;img alt="Capture4-23-2012-6.41.10
-AM" src="https://xoxzoblog.files.wordpress.com/2012/04/860d2-6a0153916e707f970b0168ea921382970c-pi.jpg" title="Capture4-23-2012-6.41.10 AM" /&gt;{.asset
-.asset-image .at-xid-6a0153916e707f970b0168ea921382970c
-.image-full}&lt;/a&gt;&lt;/p&gt;
-&lt;div&gt;
-
-&lt;div&gt;
-
-**But How Do We Check It In Code?**
-
-&lt;/div&gt;
-
-&lt;div&gt;
-
-To check it in code, we could use Modernizr to detect if a specific
-feature is in the browser. &lt;http://modernizr.com/docs/#features-css&gt;
-
-&lt;/div&gt;
-
-&lt;div&gt;
-
-For example,
-
-&lt;/div&gt;
-
+situations.&lt;a href="anchor2"&gt;^[2]^&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;How Do We Check A Feature Is In A Browser?&lt;/p&gt;
+&lt;h6&gt;&lt;/h6&gt;
+&lt;p&gt;Check out &lt;a href="http://html5readiness.com/"&gt;http://html5readiness.com/&lt;/a&gt; to view the readiness of a
+browser to a specific HTML5 feature. &lt;/p&gt;
+&lt;p&gt;[&lt;img alt="Capture4-23-2012-6.41.10
+AM" src="http://blog.xoxzo.com/ms/images/860d2-6a0153916e707f970b0168ea921382970c-pi.jpg" title="Capture4-23-2012-6.41.10 AM" /&gt;&lt;/p&gt;
+&lt;h2&gt;But How Do We Check It In Code?&lt;/h2&gt;
+&lt;p&gt;To check it in code, we could use Modernizr to detect if a specific
+feature is in the browser. &lt;a href="http://modernizr.com/docs/#features-css"&gt;http://modernizr.com/docs/#features-css&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For example,&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;if (Modernizr.audio.mp3 == &amp;#39;&amp;#39; and &amp;#39;&amp;#39; == false)
 {
 // Use the flash audio player
@@ -809,55 +970,18 @@ For example,
 &lt;/pre&gt;&lt;/div&gt;
 
 
-&lt;div&gt;
-
-**Where Do We Get These Polyfills?**
-
-&lt;/div&gt;
-
-&lt;div&gt;
-
-Most of them are listed at &lt;http://html5please.com&gt;
-
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;div&gt;
-
-**That's it. **
-
-&lt;/div&gt;
-
-&lt;div&gt;
-
-The "polyfill" or "regressive enhancement" technique just means that you
+&lt;p&gt;Where Do We Get These Polyfills?&lt;/p&gt;
+&lt;h6&gt;&lt;/h6&gt;
+&lt;p&gt;Most of them are listed at &lt;a href="http://html5please.com"&gt;http://html5please.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;That's it.&lt;/p&gt;
+&lt;h6&gt;&lt;/h6&gt;
+&lt;p&gt;The "polyfill" or "regressive enhancement" technique just means that you
 go ahead and use HTML5 features then use other libraries to emulate
 native behavior in older browsers. So instead of worrying about support
 in some browsers, use these polyfills to enhance the browsers to provide
-the user with proper experience to your web sites and applications.
-
-&lt;/div&gt;
-
-&lt;div&gt;
-
-&lt;div&gt;
-
-&lt;div&gt;
-
-[1.]( "anchor1") &lt;http://html5doctor.com/native-audio-in-the-browser/&gt;
-
-&lt;/div&gt;
-
-&lt;div&gt;
-
-[2.]( "anchor2") &lt;http://html5please.com/#audio&gt;
-
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;/div&gt;</summary></entry><entry><title>Releasing dev version of your package to PyPI</title><link href="http://devblog.xoxzo.com/ms/releasing-dev-version-of-your-package-to-pypi.html" rel="alternate"></link><published>2012-03-20T08:50:00+09:00</published><updated>2012-03-20T08:50:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2012-03-20:ms/releasing-dev-version-of-your-package-to-pypi.html</id><summary type="html">&lt;p&gt;&lt;a href="http://pypi.python.org/pypi"&gt;PyPI&lt;/a&gt; (Python Package Index) has become a
+the user with proper experience to your web sites and applications.&lt;/p&gt;
+&lt;p&gt;&lt;a href="" title="anchor1"&gt;1.&lt;/a&gt; &lt;a href="http://html5doctor.com/native-audio-in-the-browser/"&gt;http://html5doctor.com/native-audio-in-the-browser/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="" title="anchor2"&gt;2.&lt;/a&gt; &lt;a href="http://html5please.com/#audio"&gt;http://html5please.com/#audio&lt;/a&gt;&lt;/p&gt;</summary><category term="html5"></category><category term="browsers"></category><category term="audio"></category></entry><entry><title>Releasing dev version of your package to PyPI</title><link href="http://blog.xoxzo.com/ms/2012/03/20/releasing-dev-version-of-your-package-to-pypi/" rel="alternate"></link><published>2012-03-20T08:50:00+09:00</published><updated>2012-03-20T08:50:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2012-03-20:ms/2012/03/20/releasing-dev-version-of-your-package-to-pypi/</id><summary type="html">&lt;p&gt;&lt;a href="http://pypi.python.org/pypi"&gt;PyPI&lt;/a&gt; (Python Package Index) has become a
 central place for python developers these days to look for third party
 libraries. Common tools such as easy_install, pip or buildout by
 default will look into &lt;a href="http://pypi.python.org/pypi"&gt;PyPI&lt;/a&gt; when asked to
@@ -909,7 +1033,7 @@ the version number or delete the package from PyPI first. Then I went to
 the package edit page and specified the download url pointing to github
 generated tarball from latest commit.&lt;/p&gt;
 &lt;p&gt;Now it's possible to install our latest commit simply by using
-&lt;code&gt;easy_install -U mamopublic==dev&lt;/code&gt;.&lt;/p&gt;</summary><category term="distribute"></category><category term="easy_install"></category><category term="pip"></category><category term="pypi"></category><category term="Python"></category><category term="setuptools"></category></entry><entry><title>Svn stash</title><link href="http://devblog.xoxzo.com/ms/svn-stash.html" rel="alternate"></link><published>2012-03-09T19:32:00+09:00</published><updated>2012-03-09T19:32:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2012-03-09:ms/svn-stash.html</id><summary type="html">&lt;p&gt;Update 2012-05-02 - Add new use-case when merging from trunk.&lt;/p&gt;
+&lt;code&gt;easy_install -U mamopublic==dev&lt;/code&gt;.&lt;/p&gt;</summary><category term="distribute"></category><category term="easy_install"></category><category term="pip"></category><category term="pypi"></category><category term="python"></category><category term="setuptools"></category></entry><entry><title>Svn stash</title><link href="http://blog.xoxzo.com/ms/2012/03/09/svn-stash/" rel="alternate"></link><published>2012-03-09T19:32:00+09:00</published><updated>2012-03-09T19:32:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2012-03-09:ms/2012/03/09/svn-stash/</id><summary type="html">&lt;p&gt;Update 2012-05-02 - Add new use-case when merging from trunk.&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;One thing I like in git is the &lt;code&gt;stash&lt;/code&gt; command. Basically what it's
 doing is&lt;br /&gt;
@@ -1029,7 +1153,7 @@ code through&lt;br /&gt;
 static code checker before commiting. We're using Unfuddle so no chance
 for us to use&lt;br /&gt;
 the native svn pre-commit hook. Lastly, thanks to
-&lt;a href="http://www.blisted.org/"&gt;scott&lt;/a&gt; for such useful script.&lt;/p&gt;</summary><category term="git"></category><category term="svn"></category><category term="version control"></category></entry><entry><title>Understanding Python Import</title><link href="http://devblog.xoxzo.com/ms/understanding-python-import.html" rel="alternate"></link><published>2011-11-22T16:32:00+09:00</published><updated>2011-11-22T16:32:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2011-11-22:ms/understanding-python-import.html</id><summary type="html">&lt;p&gt;There's a lot have been written on understanding Python import so I'm
+&lt;a href="http://www.blisted.org/"&gt;scott&lt;/a&gt; for such useful script.&lt;/p&gt;</summary><category term="git"></category><category term="svn"></category><category term="version control"></category></entry><entry><title>Understanding Python Import</title><link href="http://blog.xoxzo.com/ms/2011/11/22/understanding-python-import/" rel="alternate"></link><published>2011-11-22T16:32:00+09:00</published><updated>2011-11-22T16:32:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2011-11-22:ms/2011/11/22/understanding-python-import/</id><summary type="html">&lt;p&gt;There's a lot have been written on understanding Python import so I'm
 not sure whether this one would help to clear the confusion or just add
 more. I hope for the former. Having a new hire who is new to Python
 bring up this issue again for us.&lt;/p&gt;
@@ -1138,7 +1262,7 @@ environment variable named PYTHONPATH.&lt;/p&gt;
 &lt;p&gt;From now on, any &lt;code&gt;*.py&lt;/code&gt; file under &lt;code&gt;/home/kamal/my-python-lib&lt;/code&gt; can be
 imported if you execute python from that environment. Another way is to
 modify &lt;code&gt;sys.path&lt;/code&gt; directly and more convenient since you can do this in
-the initial bootstrap code of your application.&lt;/p&gt;</summary><category term="Python"></category></entry><entry><title>Subversion merging changes between branches</title><link href="http://devblog.xoxzo.com/ms/subversion-merging-changes-between-branches.html" rel="alternate"></link><published>2011-09-24T08:04:00+09:00</published><updated>2011-09-24T08:04:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2011-09-24:ms/subversion-merging-changes-between-branches.html</id><summary type="html">&lt;p&gt;For svn branching strategy, we used the &lt;a href="http://stackoverflow.com/questions/597707/best-branching-strategy-when-doing-continuous-integration"&gt;feature
+the initial bootstrap code of your application.&lt;/p&gt;</summary><category term="python"></category></entry><entry><title>Subversion merging changes between branches</title><link href="http://blog.xoxzo.com/ms/subversion-merging-changes-between-branches-en.html" rel="alternate"></link><published>2011-09-24T08:04:00+09:00</published><updated>2011-09-24T08:04:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2011-09-24:ms/subversion-merging-changes-between-branches-en.html</id><summary type="html">&lt;p&gt;For svn branching strategy, we used the &lt;a href="http://stackoverflow.com/questions/597707/best-branching-strategy-when-doing-continuous-integration"&gt;feature
 branch&lt;/a&gt;
 approach. This mean we keep trunk stable at all time and for any new
 features to work on, we start a new branch. While working on the branch,
@@ -1204,7 +1328,7 @@ incoming changes. This is fine if you know exactly the changes that you
 need contained in different files than the conflicted one. Otherwise you
 have to manually inspect the file and fix the conflicting line. I'm not
 sure yet whether this can be merged cleanly back to the trunk. Will
-update this post later.&lt;/p&gt;</summary><category term="scm"></category><category term="subversion"></category><category term="svn"></category><category term="version control"></category></entry><entry><title>Vacancy: Full-time Junior Python/Django Web Developer</title><link href="http://devblog.xoxzo.com/ms/vacancy-junior-pythondjango-web-developer.html" rel="alternate"></link><published>2011-09-19T08:09:00+09:00</published><updated>2011-09-19T08:09:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2011-09-19:ms/vacancy-junior-pythondjango-web-developer.html</id><summary type="html">&lt;p&gt;MARIMORE ENGINEERING SDN. BHD. develops and maintains Django/Python
+update this post later.&lt;/p&gt;</summary><category term="scm"></category><category term="subversion"></category><category term="svn"></category><category term="version control"></category></entry><entry><title>Vacancy: Full-time Junior Python/Django Web Developer</title><link href="http://blog.xoxzo.com/ms/2011/09/19/vacancy-junior-pythondjango-web-developer/" rel="alternate"></link><published>2011-09-19T08:09:00+09:00</published><updated>2011-09-19T08:09:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2011-09-19:ms/2011/09/19/vacancy-junior-pythondjango-web-developer/</id><summary type="html">&lt;p&gt;MARIMORE ENGINEERING SDN. BHD. develops and maintains Django/Python
 based web applications for our clients. We rely heavily on open source
 and at the same time try to contribute back to the community via open
 source code, documentation, monetary contribution or participation in
@@ -1259,15 +1383,11 @@ tracker.&lt;/p&gt;
 &lt;p&gt;If you are interested, we are happy to talk to you. Please contact
 hr@marimore.co.jp with a copy of your CV and a short introduction about
 yourself.&lt;/p&gt;
-&lt;div style="text-align:center;"&gt;
-
-**----- UPDATE 2011-10-07 -----**
-
-&lt;/div&gt;
-
+&lt;p&gt;----- UPDATE 2011-10-07 -----&lt;/p&gt;
+&lt;h6&gt;&lt;/h6&gt;
 &lt;p&gt;We are happy to announce that we've found some great candidates and that
 &lt;strong&gt;this vacancy is now closed.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Thank you for your interest in MARIMORE ENGINEERING.&lt;/p&gt;</summary><category term="developer"></category><category term="django"></category><category term="Python"></category><category term="vacancy"></category></entry><entry><title>Porting function based generic views to class based views</title><link href="http://devblog.xoxzo.com/ms/porting-function-based-generic-views-to-class-based-views.html" rel="alternate"></link><published>2011-09-16T12:12:00+09:00</published><updated>2011-09-16T12:12:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2011-09-16:ms/porting-function-based-generic-views-to-class-based-views.html</id><summary type="html">&lt;p&gt;It not really obvious in the
+&lt;p&gt;Thank you for your interest in MARIMORE ENGINEERING.&lt;/p&gt;</summary><category term="developer"></category><category term="django"></category><category term="python"></category><category term="vacancy"></category></entry><entry><title>Porting function based generic views to class based views</title><link href="http://blog.xoxzo.com/ms/porting-function-based-generic-views-to-class-based-views-en.html" rel="alternate"></link><published>2011-09-16T12:12:00+09:00</published><updated>2011-09-16T12:12:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2011-09-16:ms/porting-function-based-generic-views-to-class-based-views-en.html</id><summary type="html">&lt;p&gt;It not really obvious in the
 &lt;a href="https://docs.djangoproject.com/en/1.3/ref/class-based-views/"&gt;documentation&lt;/a&gt;
 how we should proceed. I try to make as little changes as possible to
 code. The following is a sample function that we need to port to class
@@ -1349,4 +1469,4 @@ so if you moving to Django-1.3 this a good time to start porting your
 generic views usage to class based views. It also not obvious to me that
 we have to call the superclass method when overriding &lt;code&gt;get_context_data&lt;/code&gt;
 method otherwise you would not have the complete context data. It only
-after I found this blog &lt;a href="http://blog.oscarcp.com/?p=182"&gt;post&lt;/a&gt;.&lt;/p&gt;</summary><category term="class based views"></category><category term="django"></category><category term="django views"></category><category term="generic views"></category><category term="Python"></category></entry></feed>
+after I found this blog &lt;a href="http://blog.oscarcp.com/?p=182"&gt;post&lt;/a&gt;.&lt;/p&gt;</summary><category term="class based views"></category><category term="django"></category><category term="django views"></category><category term="generic views"></category><category term="python"></category></entry></feed>

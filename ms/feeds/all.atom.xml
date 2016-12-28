@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title></title><link href="http://devblog.xoxzo.com/ms/" rel="alternate"></link><link href="http://devblog.xoxzo.com/feeds/all.atom.xml" rel="self"></link><id>http://devblog.xoxzo.com/ms/</id><updated>2016-11-07T17:04:00+09:00</updated><entry><title>Participating KOF-Kansai Open Source Forum</title><link href="http://devblog.xoxzo.com/ms/kof-2016-report-en.html" rel="alternate"></link><published>2012-11-14T11:00:00+09:00</published><updated>2012-11-14T11:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:devblog.xoxzo.com,2016-11-14:ms/kof-2016-report-en.html</id><summary type="html">&lt;p&gt;We are happy to announce that our KOF (Kansai Open Forum held on Nov 11 &amp;amp; 12 in
+<feed xmlns="http://www.w3.org/2005/Atom"><title></title><link href="http://blog.xoxzo.com/ms/" rel="alternate"></link><link href="http://blog.xoxzo.com/feeds/all.atom.xml" rel="self"></link><id>http://blog.xoxzo.com/ms/</id><updated>2016-11-07T17:04:00+09:00</updated><entry><title>Participating KOF-Kansai Open Source Forum</title><link href="http://blog.xoxzo.com/ms/kof-2016-report-en.html" rel="alternate"></link><published>2012-11-14T11:00:00+09:00</published><updated>2012-11-14T11:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2016-11-14:ms/kof-2016-report-en.html</id><summary type="html">&lt;p&gt;We are happy to announce that our KOF (Kansai Open Forum held on Nov 11 &amp;amp; 12 in
 Osaka, Japan) display ended successful.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="KOF関西バナー" src="http://devblog.xoxzo.com/ms/images/kof-2016/kof.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="KOF関西バナー" src="http://blog.xoxzo.com/ms/images/kof-2016/kof.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;We had many visitor to our booth and were shown demonstration of ‘Sending
 SMS/Calls from the Internet’. Some immediately went thinking how to integrate
 the API into their own applications, while others tried to work out how this
 could work or just simply enjoy what our API does.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="KOF関西にてXoxzoのブース" src="http://devblog.xoxzo.com/ms/images/kof-2016/kof-booth.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="KOF関西にてXoxzoの野中がLTを行う" src="http://devblog.xoxzo.com/ms/images/kof-2016/kof-akira-lt.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="KOF関西にてXoxzoのブース" src="http://blog.xoxzo.com/ms/images/kof-2016/kof-booth.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="KOF関西にてXoxzoの野中がLTを行う" src="http://blog.xoxzo.com/ms/images/kof-2016/kof-akira-lt.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;It was a great experience for us meeting our potential users, not only spreading
 our technology but also to know what further solutions they are seeking for,
 which would raise us to the next step, for further developments.&lt;/p&gt;
 &lt;p&gt;We are for sure to come back to the next exhibition to meet more people, with
-our aim to empower the world.&lt;/p&gt;</summary><category term="kof"></category><category term="osaka"></category><category term="exhibition"></category></entry><entry><title>KOF-関西オープンフォーラムを終えて</title><link href="http://devblog.xoxzo.com/ms/../ja/kof-2016-report.html" rel="alternate"></link><published>2012-11-14T11:00:00+09:00</published><updated>2012-11-14T11:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:devblog.xoxzo.com,2016-11-14:ms/../ja/kof-2016-report.html</id><summary type="html">&lt;p&gt;&lt;img alt="KOF関西バナー" src="http://devblog.xoxzo.com/ms/images/kof-2016/kof.jpg" /&gt;&lt;/p&gt;
+our aim to empower the world.&lt;/p&gt;</summary><category term="kof"></category><category term="osaka"></category><category term="exhibition"></category></entry><entry><title>KOF-関西オープンフォーラムを終えて</title><link href="http://blog.xoxzo.com/ms/../ja/2016/11/14/kof-2016-report/" rel="alternate"></link><published>2012-11-14T11:00:00+09:00</published><updated>2012-11-14T11:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2016-11-14:ms/../ja/2016/11/14/kof-2016-report/</id><summary type="html">&lt;p&gt;&lt;img alt="KOF関西バナー" src="http://blog.xoxzo.com/ms/images/kof-2016/kof.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;2016年11月11日と12日の両日、KOFー関西オープンフォーラムに出展しました。
 訪問者もほとんど切れることなく会場を賑わし、Xoxzoのサービスに興味を持った様々な方とお話をすることができて、とても充実した2日間となりました。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="KOF関西にてXoxzoのブース" src="http://devblog.xoxzo.com/ms/images/kof-2016/kof-booth.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="KOF関西にてXoxzoの野中がLTを行う" src="http://devblog.xoxzo.com/ms/images/kof-2016/kof-akira-lt.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="KOF関西にてXoxzoのブース" src="http://blog.xoxzo.com/ms/images/kof-2016/kof-booth.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="KOF関西にてXoxzoの野中がLTを行う" src="http://blog.xoxzo.com/ms/images/kof-2016/kof-akira-lt.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;頂いたご質問やご要望は、今後の我々の進む道にも活かされて行くことと思います。
-ご多忙の中、ご来場いただき、弊社ブースをご訪問いただいた方々、また、特設ステージでの講演にご参加いただいた皆様、誠にありがとうございました。今後ともどうぞよろしくお願いします。&lt;/p&gt;</summary><category term="kof"></category><category term="大阪"></category><category term="出展"></category></entry><entry><title>Startup and Developer 4th Meetup</title><link href="http://devblog.xoxzo.com/ms/startup-and-developer-4th-meetup.html" rel="alternate"></link><published>2016-11-07T17:04:00+09:00</published><updated>2016-11-07T17:04:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2016-11-07:ms/startup-and-developer-4th-meetup.html</id><summary type="html">&lt;p&gt;This weekend I managed to join a developer meetup in KL. The group,
+ご多忙の中、ご来場いただき、弊社ブースをご訪問いただいた方々、また、特設ステージでの講演にご参加いただいた皆様、誠にありがとうございました。今後ともどうぞよろしくお願いします。&lt;/p&gt;</summary><category term="kof"></category><category term="大阪"></category><category term="出展"></category></entry><entry><title>Startup and Developer 4th Meetup</title><link href="http://blog.xoxzo.com/ms/startup-and-developer-4th-meetup-en.html" rel="alternate"></link><published>2016-11-07T17:04:00+09:00</published><updated>2016-11-07T17:04:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2016-11-07:ms/startup-and-developer-4th-meetup-en.html</id><summary type="html">&lt;p&gt;This weekend I managed to join a developer meetup in KL. The group,
 which started in Telegram now has growing to 1K members and this 4th
 meetup managed to draw 100+ attendees. It quite a success for such a
 small group in the beginning and the meetup itself was planned on ad-hoc
@@ -29,8 +29,7 @@ your startup. To be honest I think the number of topics are too much for
 just one day event, forcing all the speakers to cramp up their
 presentation and touch the topic only at surface level with very little
 time for question and answer session.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="img_20161105_101628" src="https://xoxzoblog.files.wordpress.com/2016/11/img_20161105_101628.jpg" /&gt;{.alignnone
-.size-full .wp-image-1764 width="2560" height="1920"}&lt;/p&gt;
+&lt;p&gt;&lt;img alt="startup-developer-4th-meetup" src="http://blog.xoxzo.com/ms/images/startup-developer-4th-meetup/img_20161105_101628.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;Among the interesting talk was from Nawawi Jamili, sharing his
 experience in building up Urusniaga.my, a Software as a Service (SaaS)
 solution for small business to manage their operation such as recording
@@ -42,26 +41,49 @@ while the main system being developed in PHP, they have a background
 process developed in C running to pick up new entry in database that not
 being provisioned yet. It remind me to our approach of implementing
 queue system, before we move to django-q.&lt;/p&gt;
-&lt;p&gt;[caption id="attachment_1778" align="alignnone"
-width="1920"]&lt;img alt="img_20161105_135742" src="https://xoxzoblog.files.wordpress.com/2016/11/img_20161105_135742.jpg" /&gt;{.alignnone
-.size-full .wp-image-1778 width="1920" height="2560"} Nawawi Jamili
-sharing experience building up Urusniaga.my as SaaS.[/caption]&lt;/p&gt;
-&lt;p&gt;[caption id="attachment_1770" align="alignnone"
-width="1280"]&lt;img alt="whatsapp-image-2016-11-06-at-2-30-45-pm" src="https://xoxzoblog.files.wordpress.com/2016/11/whatsapp-image-2016-11-06-at-2-30-45-pm.jpeg" /&gt;{.alignnone
-.size-full .wp-image-1770 width="1280" height="960"} A friend of friend,
-showing demo of bitcoin payment system he has developed.[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;img alt="startup-developer-4th-meetup" src="http://blog.xoxzo.com/ms/images/startup-developer-4th-meetup/img_20161105_135742.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="startup-developer-4th-meetup" src="http://blog.xoxzo.com/ms/images/startup-developer-4th-meetup/whatsapp-image-2016-11-06-at-2-30-45-pm.jpeg" /&gt;&lt;/p&gt;
 &lt;p&gt;As with all meetup event, the "hallway" session is always the best of
 all as it allow us to catch up with old and new friends, listening what
-they're up to now and exchanging contact for future.&lt;/p&gt;</summary></entry><entry><title>Tokyu Ruby Kaigi</title><link href="http://devblog.xoxzo.com/ms/tokyu-ruby-kaigi.html" rel="alternate"></link><published>2016-06-09T10:00:00+09:00</published><updated>2016-06-09T10:00:00+09:00</updated><author><name>anonaka</name></author><id>tag:devblog.xoxzo.com,2016-06-09:ms/tokyu-ruby-kaigi.html</id><summary type="html">&lt;p&gt;On May 29, I attended the 10th annual &lt;a href="http://regional.rubykaigi.org/tokyu10/"&gt;Tokyu Ruby
+they're up to now and exchanging contact for future.&lt;/p&gt;</summary><category term="event"></category><category term="seminar"></category><category term="workshop"></category><category term="tech"></category><category term="malaysia"></category></entry><entry><title>ADIT株式会社がユーザーへのリアルタイム・重要通知にEZSMSを導入</title><link href="http://blog.xoxzo.com/ms/adit-ezsms-usecase-ja.html" rel="alternate"></link><published>2016-09-23T10:59:00+09:00</published><updated>2016-09-23T10:59:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2016-09-23:ms/adit-ezsms-usecase-ja.html</id><summary type="html">&lt;p&gt;&lt;img alt="ezsms logo" src="http://blog.xoxzo.com/ms/images/ezsms_logo1.png" /&gt;&lt;/p&gt;
+&lt;p&gt;対応する手段としてXOXZO様のEZSMSサービスを導入するに至りました。
+ユーザーのニーズに合わせて登録いただけますし、リアルタイム性が必要な通知や、
+重要な通知などを今まで以上にユーザーに伝達することが出来るようになり、
+大変満足しております。&lt;/p&gt;
+&lt;p&gt;【ADIT株式会社について】&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://adit.co.jp/"&gt;&lt;img alt="ADIT株式会社" src="http://blog.xoxzo.com/ms/images/client-logos/adit.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;所在地：東京都渋谷区東3-14-19
+創業：2011年9月
+URL：http://adit.co.jp/&lt;/p&gt;
+&lt;p&gt;【株式会社Xoxzoについて】&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://info.xoxzo.com/ja/"&gt;&lt;img alt="Xoxzo Cloud Telephony" src="http://blog.xoxzo.com/ms/images/xoxzo-logo-02.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Xoxzoは、2007年2月にMARIMOREとして設立以来SMS技術を中心に自社サービスを開発、運営をしています。「&lt;strong&gt;継続改善&lt;/strong&gt;」をキーワードにしてお客様のニーズを満たすサービスを目指しています。&lt;/p&gt;
+&lt;p&gt;住所： 〒110-0016 東京都台東区台東 1-9-4 松浦ビル 5F&lt;br /&gt;
+代表： 代表取締役　イクバル・アバドゥラ&lt;br /&gt;
+設立： 2007年2月&lt;br /&gt;
+URL ： https://info.xoxzo.com/ja/&lt;/p&gt;</summary><category term="adit"></category><category term="ezsms"></category><category term="use cases"></category><category term="pr"></category></entry><entry><title>[Xoxzo] API now supports Malaysia (MY)</title><link href="http://blog.xoxzo.com/ms/2016/08/26/xoxzo-support-for-malaysia-my/" rel="alternate"></link><published>2016-08-26T17:05:00+09:00</published><updated>2016-08-26T17:05:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2016-08-26:ms/2016/08/26/xoxzo-support-for-malaysia-my/</id><summary type="html">&lt;p&gt;&lt;img alt="Xoxzo Inc." src="http://blog.xoxzo.com/ms/images/xoxzo-logo-02.png" /&gt;&lt;/p&gt;
+&lt;p&gt;After ten months of it's release in Japan, we are proud to announce
+that &lt;a href="https://www.xoxzo.com/en/"&gt;Xoxzo&lt;/a&gt; now supports Malaysia (MY).&lt;/p&gt;
+&lt;p&gt;Just like developers and businesses in Japan are able to enjoy telephony
+functionality for their application or web services, &lt;a href="https://www.xoxzo.com/en/"&gt;Xoxzo - Cloud
+Telephony Platform&lt;/a&gt; now also provide the same
+beautiful APIs for &lt;a href="https://www.xoxzo.com/en/about/sms-api/"&gt;SMS
+Sending&lt;/a&gt;, &lt;a href="https://www.xoxzo.com/en/about/voice-api/"&gt;Voice&lt;/a&gt;
+and &lt;a href="https://www.xoxzo.com/en/about/dial-in-api/"&gt;Dial In Numbers&lt;/a&gt; to
+developers and businesses in Malaysia&lt;/p&gt;
+&lt;p&gt;The details of each feature can be found in the linked pages, or you may
+simply register for free to and instantly try out our APIs
+here: &lt;a href="https://www.xoxzo.com/en/"&gt;https://www.xoxzo.com/en/&lt;/a&gt;&lt;/p&gt;</summary><category term="malaysia"></category><category term="my"></category><category term="telephony"></category><category term="xoxzo"></category></entry><entry><title>Tokyu Ruby Kaigi</title><link href="http://blog.xoxzo.com/ms/2016/06/09/tokyu-ruby-kaigi/" rel="alternate"></link><published>2016-06-09T10:00:00+09:00</published><updated>2016-06-09T10:00:00+09:00</updated><author><name>Akira Nonaka</name></author><id>tag:blog.xoxzo.com,2016-06-09:ms/2016/06/09/tokyu-ruby-kaigi/</id><summary type="html">&lt;p&gt;On May 29, I attended the 10th annual &lt;a href="http://regional.rubykaigi.org/tokyu10/"&gt;Tokyu Ruby
 Kaigi&lt;/a&gt; held at Shibuya,Tokyo. I
 made a lightning talk about a &lt;a href="https://rubygems.org/gems/xoxzo-cloudruby"&gt;Xoxzo telephony
 gem&lt;/a&gt; (gem is the ruby
 packaging system). This gem is the first public gem I wrote in my
 life. I also enjoyed a lot of exciting talks, laughs and of course
 fantastic food and excellent beer.&lt;/p&gt;
-&lt;p&gt;[gallery ids="1451,1452" type="rectangular"]&lt;/p&gt;
+&lt;p&gt;&lt;img alt="tokyu-ruby-kaigi" src="http://blog.xoxzo.com/ms/images/tokyu-ruby-kaigi-2016/img_3908.jpg" /&gt;
+&lt;img alt="tokyu-ruby-kaigi" src="http://blog.xoxzo.com/ms/images/tokyu-ruby-kaigi-2016/img_3913.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;This is the second time I joined this conference and hopefully want to
-come back next year!&lt;/p&gt;</summary><category term="ruby"></category></entry><entry><title>Malaysia Open Source Conference (MOSCMY) and JomLaunch</title><link href="http://devblog.xoxzo.com/ms/malaysia-open-source-conference-moscmy-and-jomlaunch.html" rel="alternate"></link><published>2016-06-03T10:02:00+09:00</published><updated>2016-06-03T10:02:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2016-06-03:ms/malaysia-open-source-conference-moscmy-and-jomlaunch.html</id><summary type="html">&lt;p&gt;Last week I've attended one of the biggest open source event in Malaysia
+come back next year!&lt;/p&gt;</summary><category term="ruby"></category><category term="open source"></category></entry><entry><title>Malaysia Open Source Conference (MOSCMY) and JomLaunch</title><link href="http://blog.xoxzo.com/ms/2016/06/03/malaysia-open-source-conference-moscmy-and-jomlaunch/" rel="alternate"></link><published>2016-06-03T10:02:00+09:00</published><updated>2016-06-03T10:02:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2016-06-03:ms/2016/06/03/malaysia-open-source-conference-moscmy-and-jomlaunch/</id><summary type="html">&lt;p&gt;Last week I've attended one of the biggest open source event in Malaysia
 and another co-located event that is JomLaunch by prominent local
 developer community called JomWeb.&lt;/p&gt;
 &lt;p&gt;The first slot I managed to join (I skipped the first day) is
@@ -70,13 +92,12 @@ Pembelajaran (Programming Assesment based on Learning
 Domains)&lt;/a&gt;by Ms. Noraini
 Talib, IT Executive at UKM. How to teach programming is always my topic
 of interest and it good to see it from an academic perspective.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="noraini" src="https://xoxzoblog.files.wordpress.com/2016/06/noraini.jpg" /&gt;{.alignnone
-.size-full .wp-image-1399 width="960" height="1280"}&lt;/p&gt;
+&lt;p&gt;&lt;img alt="noraini" src="http://blog.xoxzo.com/ms/images/moscmy-jomlaunch-2016/noraini.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;The next talk about usage of &lt;a href="https://obsproject.com/"&gt;Open Broadcaster Software
 (OBS)&lt;/a&gt;  for classroom teaching also
 interesting. I'd never heard the software before and I can forsee some
 good use of it.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="open-broadcaster" src="https://xoxzoblog.files.wordpress.com/2016/06/open-broadcaster.jpg" /&gt;{.alignnone
+&lt;p&gt;&lt;img alt="open-broadcaster" src="http://blog.xoxzo.com/ms/images/moscmy-jomlaunch-2016/open-broadcaster.jpg" /&gt;{.alignnone
 .size-full .wp-image-1350 width="960" height="1280"}&lt;/p&gt;
 &lt;p&gt;I have my own slot too, which aim to encourage and kickstart people to
 become OSS project contributor on Github. It supposed to be a workshop
@@ -87,8 +108,7 @@ failed to fully utilize the 2 hours but we have a good discussion with
 the participants. A lecturer came up to me at the end of the session
 saying she plan to start introducing git/github into her students
 project going forward.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="kamal" src="https://xoxzoblog.files.wordpress.com/2016/06/kamal.jpg" /&gt;{.alignnone
-.size-full .wp-image-1438 width="960" height="1280"}&lt;/p&gt;
+&lt;p&gt;&lt;img alt="kamal" src="http://blog.xoxzo.com/ms/images/moscmy-jomlaunch-2016/kamal.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;Another slot by Abyres (one of the sponsor) also an eye opening. I
 learned about &lt;a href="http://www.mampu.gov.my/DRSA"&gt;Data Raya Sektor Awam
 (DRSA)&lt;/a&gt; which is a big data initiative by
@@ -117,7 +137,7 @@ hacking on TCP TIME_WAIT to improve network performance. The core theme
 of the talk is that little attention is giving to vertical tuning that
 usually lead to underused of system resources. This definitely require a
 dedicated blog post to cover all the details ;)&lt;/p&gt;
-&lt;p&gt;&lt;img alt="adzmely" src="https://xoxzoblog.files.wordpress.com/2016/06/adzmely.jpg" /&gt;{.alignnone
+&lt;p&gt;&lt;img alt="adzmely" src="http://blog.xoxzo.com/ms/images/moscmy-jomlaunch-2016/adzmely.jpg" /&gt;{.alignnone
 .size-full .wp-image-1388 width="960" height="1280"}&lt;/p&gt;
 &lt;p&gt;Jenkins is nothing new to us (and it's a long overdue task for us to
 incorporate Jenkins or some other CI tools into our workflow) but what
@@ -137,8 +157,7 @@ projects/products have been showcased these time.&lt;/p&gt;
 &lt;p&gt;Stampede's blog has &lt;a href="http://www.stampede-design.com/blog/2016/06/being-all-inspired-at-jomlaunch/"&gt;already covered the event in
 detail&lt;/a&gt;
 so I don't plan to repeat it here. Head over to their cool blog !&lt;/p&gt;
-&lt;p&gt;&lt;img alt="sumbermanusia" src="https://xoxzoblog.files.wordpress.com/2016/06/sumbermanusia.jpg" /&gt;{.alignnone
-.size-full .wp-image-1381 width="1280" height="718"}&lt;/p&gt;
+&lt;p&gt;&lt;img alt="sumbermanusia" src="http://blog.xoxzo.com/ms/images/moscmy-jomlaunch-2016/sumbermanusia.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Night mamak session with &lt;a href="http://sumbermanusia.my/"&gt;SumberManusia.my&lt;/a&gt;
 team (they also present on JomLaunch). Photo credit to &lt;a href="http://blog.nasrulhazim.com/"&gt;Nasrul
 Hazim&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
@@ -146,7 +165,7 @@ Hazim&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 new friends, some of which all these while we met only in the online
 world. Btw, if you missed this event, kindly note that we have another
 &lt;a href="https://pycon.my/"&gt;PyconMy&lt;/a&gt; conference coming up in August. Make sure
-to grab the ticket while it still available. See you there !&lt;/p&gt;</summary><category term="open source"></category></entry><entry><title>The communication costs of remote work</title><link href="http://devblog.xoxzo.com/ms/the-communication-costs-of-remote-work.html" rel="alternate"></link><published>2016-04-22T23:25:00+09:00</published><updated>2016-04-22T23:25:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:devblog.xoxzo.com,2016-04-22:ms/the-communication-costs-of-remote-work.html</id><summary type="html">&lt;p&gt;We have a distributed team and everyone remotely works from wherever
+to grab the ticket while it still available. See you there !&lt;/p&gt;</summary><category term="open source"></category><category term="malaysia"></category><category term="jomlaunch"></category></entry><entry><title>The communication costs of remote work</title><link href="http://blog.xoxzo.com/ms/2016/04/22/the-communication-costs-of-remote-work/" rel="alternate"></link><published>2016-04-22T23:25:00+09:00</published><updated>2016-04-22T23:25:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2016-04-22:ms/2016/04/22/the-communication-costs-of-remote-work/</id><summary type="html">&lt;p&gt;We have a distributed team and everyone remotely works from wherever
 they are (6 cities across 3 countries). Remote work is nothing new
 (we've practiced it since 2007), at least for us and generally: But it
 requires a different approach and similar to re-thinking about &lt;em&gt;work&lt;/em&gt; as
@@ -174,9 +193,9 @@ you write the summary or the title of the tickets so that it include all
 the necessary keywords that includes what the ticket is all about, as
 nearly all the time that is all that is shown to you in lists&lt;/p&gt;
 &lt;p&gt;A bad example that just says "write code". &lt;em&gt;Duuh&lt;/em&gt;. &lt;/p&gt;
-&lt;p&gt;&lt;img alt="bad-example-jira" src="http://devblog.xoxzo.com/ms/images/bad-example-jira.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="bad-example-jira" src="http://blog.xoxzo.com/ms/images/bad-example-jira.png" /&gt;&lt;/p&gt;
 &lt;p&gt;On the other hand, you don't need to overdo the summary. Something like this will suffice&lt;/p&gt;
-&lt;p&gt;&lt;img alt="jira-good-example" src="http://devblog.xoxzo.com/ms/images/jira-good-example.png" /&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img alt="jira-good-example" src="http://blog.xoxzo.com/ms/images/jira-good-example.png" /&gt; &lt;/p&gt;
 &lt;p&gt;A concise and precise summary statements will remove the need for anyone
 who is going through your tasks to click on each link to read it's
 details, in order to decide if it's something they need to look into. A
@@ -195,7 +214,7 @@ ambiguous, communication costs kicks in because you'll need to spend
 time following it up and read the other person's mind&lt;/p&gt;
 &lt;p&gt;The great thing about Slack is that it allows you to add &lt;a href="http://www.theverge.com/2015/7/9/8916347/slack-emoji-reactions"&gt;reactions to a
 post&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="ack" src="http://devblog.xoxzo.com/ms/images/ack.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ack" src="http://blog.xoxzo.com/ms/images/ack.png" /&gt;&lt;/p&gt;
 &lt;p&gt;This gives you the ability to acknowledge something, without having to
 write things out. A second of clicking on a button will remove that
 ambiguity as we can see who clicked.&lt;/p&gt;
@@ -224,7 +243,7 @@ We are after all social animals with complex understanding of one
 another. This is the one big disadvantage of remote working, so we try
 lessen the impact of this by having periodical Team Camps, where we
 actually get together and spend time doing something together.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="2015-08-19 21.31.17" src="http://devblog.xoxzo.com/ms/images/2015-08-19-21-31-17.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="2015-08-19 21.31.17" src="http://blog.xoxzo.com/ms/images/2015-08-19-21-31-17.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;Don't assume or guess. Give it a call&lt;/h2&gt;
 &lt;p&gt;The final tip is sort of an anti-pattern, and I practice it as a last
 resort. If things start to go out of hand via text (email or chat), I'll
@@ -243,23 +262,17 @@ it is time to make a call.&lt;/p&gt;
 &lt;p&gt;These are some of the tips and strategies that we take to reduce
 communication costs within our diverse and remote team. All teams are
 obviously different, and some might work or may not work for yours.&lt;/p&gt;
-&lt;p&gt;As for us, we'll keep on looking and trying too.&lt;/p&gt;</summary><category term="costs"></category><category term="nomad"></category><category term="remote"></category><category term="tips"></category></entry><entry><title>Tokyo Team Camp</title><link href="http://devblog.xoxzo.com/ms/tokyo-team-camp.html" rel="alternate"></link><published>2016-03-07T15:21:00+09:00</published><updated>2016-03-07T15:21:00+09:00</updated><author><name>Zaki Akhmad</name></author><id>tag:devblog.xoxzo.com,2016-03-07:ms/tokyo-team-camp.html</id><summary type="html">&lt;blockquote&gt;
+&lt;p&gt;As for us, we'll keep on looking and trying too.&lt;/p&gt;</summary><category term="costs"></category><category term="nomad"></category><category term="remote"></category><category term="tips"></category></entry><entry><title>Tokyo Team Camp</title><link href="http://blog.xoxzo.com/ms/tokyo-team-camp-en.html" rel="alternate"></link><published>2016-03-07T15:21:00+09:00</published><updated>2016-03-07T15:21:00+09:00</updated><author><name>Zaki Akhmad</name></author><id>tag:blog.xoxzo.com,2016-03-07:ms/tokyo-team-camp-en.html</id><summary type="html">&lt;blockquote&gt;
 &lt;p&gt;There's always people on the other side of the screen.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;[caption id="attachment_1152" align="aligncenter" width="730"]&lt;img alt="Xoxzo
-team and family
-members." src="https://xoxzoblog.files.wordpress.com/2016/03/imag0603_burst002.jpg?w=730" /&gt;{.size-large
-.wp-image-1152 width="730" height="413"} Xoxzo team and family
-members.[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Xoxzo team and family
+members." src="http://blog.xoxzo.com/ms/images/tokyo-team-camp-2016/imag0603_burst002.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;It's 2016 and we just had our first ever team camp attended by all of
 the team members (and also some family members!). Previously, most of
 our team camps were attended only from the engineering team.&lt;/p&gt;
 &lt;p&gt;The team camp lasted for one week full, or we could say in 5 days.&lt;/p&gt;
-&lt;p&gt;[caption id="attachment_1148" align="aligncenter"
-width="619"]&lt;img alt="Agile/Scrum presentation on Tokyo Team Camp
-2016" src="https://xoxzoblog.files.wordpress.com/2016/03/2016-02-15_14-05-00_720-e1457311264540.jpg" /&gt;{.size-full
-.wp-image-1148 width="619" height="284"} Agile/Scrum presentation on
-Tokyo Team Camp 2016[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Agile/Scrum presentation on Tokyo Team Camp
+2016" src="http://blog.xoxzo.com/ms/images/tokyo-team-camp-2016/2016-02-15_14-05-00_720-e1457311264540.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;On day one, Kamal presented about the use of user story and pseudo code
 to capture and identify business requirements. It's interesting for me
 to see the higher level perspective instead of directly do the code
@@ -276,20 +289,14 @@ logic. Starting from the views, models, and service layers. Then in the
 afternoon I presented about monitoring log and how to do it
 automatically because you don't want to spend your whole afternoon
 watching the logs manually right?&lt;/p&gt;
-&lt;p&gt;[caption id="attachment_1133" align="aligncenter"
-width="730"]&lt;img alt="Working at Roppongi Hills during Tokyo team
-camp." src="https://xoxzoblog.files.wordpress.com/2016/02/20160217172316-e1457312885255.jpg?w=730" /&gt;{.size-large
-.wp-image-1133 width="730" height="402"} Working at Roppongi Hills
-during Tokyo team camp.[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Working at Roppongi Hills during Tokyo team
+camp." src="http://blog.xoxzo.com/ms/images/tokyo-team-camp-2016/20160217172316-e1457312885255.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;On day three we went to Roppongi Hills as part of our Japanese
 experience. Roppongi Hills is an area in Tokyo which famous for business
 district and contemporary architecture. Oh, Google Tokyo office is
 located at Roppongi Hills.&lt;/p&gt;
-&lt;p&gt;[caption id="attachment_1155" align="aligncenter" width="730"]&lt;img alt="Tokyo
-Subway Route
-Map" src="https://xoxzoblog.files.wordpress.com/2016/03/screenshot-from-2016-03-07-114920.png?w=730" /&gt;{.size-large
-.wp-image-1155 width="730" height="512"} Tokyo Subway Route
-Map[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Tokyo Subway Route
+Map" src="http://blog.xoxzo.com/ms/images/tokyo-team-camp-2016/screenshot-from-2016-03-07-114920.png" /&gt;&lt;/p&gt;
 &lt;p&gt;We took the Tokyo subway train - Oedo line to go there. Have you ever
 seen Tokyo train map? You better see it. At first I imagined this map
 just like a spaghetti. Compare to Melboure Metro train network, Tokyo
@@ -297,32 +304,23 @@ train network far more complicated. And the subway, is like very deep
 underground. I didn't remember how many elevators we should take to
 reach the surface from Roppongi Subway Station. It's like we're deep 10
 metres under the ground.&lt;/p&gt;
-&lt;p&gt;[caption id="attachment_1135" align="aligncenter"
-width="670"]&lt;img alt="Visiting Tokyo Metro Underground Discharge
-Channel" src="https://xoxzoblog.files.wordpress.com/2016/02/imag0594-e1457311376693.jpg?w=670" /&gt;{.size-large
-.wp-image-1135 width="670" height="1024"} Visiting Tokyo Metro
-Underground Discharge Channel[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Visiting Tokyo Metro Underground Discharge
+Channel" src="http://blog.xoxzo.com/ms/images/tokyo-team-camp-2016/imag0594-e1457311376693.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;On day four, Aiko joined us. We went to &lt;a href="http://www.ktr.mlit.go.jp/edogawa/gaikaku/english/"&gt;Greater Tokyo Metro Underground
 Discharge Channel&lt;/a&gt;.
 We saw how the Japanese built giant tunnel to prevent an area from
 flood. It's amazing how to see how Japanese built this mega structures
 to prevent flood and saving lives.&lt;/p&gt;
-&lt;p&gt;[caption id="attachment_1137" align="aligncenter"
-width="730"]&lt;img alt="Visiting Tokyo Mint where Japanese Yen coins are
-made." src="https://xoxzoblog.files.wordpress.com/2016/02/imag0601_burst002.jpg?w=730" /&gt;{.size-large
-.wp-image-1137 width="730" height="413"} Visiting Tokyo Mint where
-Japanese Yen coins are made.[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Visiting Tokyo Mint where Japanese Yen coins are
+made." src="http://blog.xoxzo.com/ms/images/tokyo-team-camp-2016/imag0601_burst002.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;After lunch, we went to &lt;a href="http://www.mint.go.jp/category/eng"&gt;Japan
 Mint&lt;/a&gt;. Japan Mint is a Government
 Agency which one of the main tasks is producing JPY coins. Here we saw
 how the Japanese coins were made. They also displayed the history of
 Japanese coins and special coins for special events such as Olympic
 Games, special coins for each of 47 Japanese prefectures and so on.&lt;/p&gt;
-&lt;p&gt;[caption id="attachment_1151" align="aligncenter"
-width="730"]&lt;img alt="Earthquake simulation at Ikebukuro Life Safety Learning
-Center" src="https://xoxzoblog.files.wordpress.com/2016/03/great_east_japan_earthq_1024-e1457311301799.jpg?w=730" /&gt;{.size-large
-.wp-image-1151 width="730" height="358"} Earthquake simulation at
-Ikebukuro Life Safety Learning Center[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Earthquake simulation at Ikebukuro Life Safety
+Learning Center" src="http://blog.xoxzo.com/ms/images/tokyo-team-camp-2016/great_east_japan_earthq_1024-e1457311301799.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;On day five, we went to Ikebukuro local fire department office. This
 fire department office has learning center for visitor. At first, we
 learned how to properly use fire suppression. For most of us fire
@@ -337,15 +335,11 @@ each others.&lt;/p&gt;
 &lt;p&gt;During the period of the camp, we also went through presentations on
 internal processes, new services we plan to release and also refresher
 presentations on how we're building our current services.&lt;/p&gt;
-&lt;p&gt;[caption id="attachment_1158" align="aligncenter" width="730"]&lt;img alt="Team
-dinner at Japanese
-restaurant" src="https://xoxzoblog.files.wordpress.com/2016/03/imag0612.jpg?w=730" /&gt;{.size-large
-.wp-image-1158 width="730" height="413"} Team dinner at Japanese
-restaurant[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Team dinner at Japanese restaurant" src="http://blog.xoxzo.com/ms/images/tokyo-team-camp-2016/imag0612.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;Last but not least, to close our team camp, we had our team dinner at
 Japanese restaurant. But unfortunately we missed the karaoke part. After
 all, it was an amazing week: working and spending time with your
-colleagues and their families.&lt;/p&gt;</summary><category term="team camp"></category><category term="tokyo"></category></entry><entry><title>A python basic class in Tokyo Feb 6, 2016</title><link href="http://devblog.xoxzo.com/ms/a-python-basic-class-in-tokyo-feb-6-2016.html" rel="alternate"></link><published>2016-02-15T09:18:00+09:00</published><updated>2016-02-15T09:18:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:devblog.xoxzo.com,2016-02-15:ms/a-python-basic-class-in-tokyo-feb-6-2016.html</id><summary type="html">&lt;p&gt;&lt;a href="https://djangogirls.org/"&gt;&lt;img alt="logo" src="https://xoxzoblog.files.wordpress.com/2016/02/logo.png?w=150" /&gt;&lt;/a&gt;&lt;/p&gt;
+colleagues and their families.&lt;/p&gt;</summary><category term="team camp"></category><category term="tokyo"></category></entry><entry><title>A python basic class in Tokyo Feb 6, 2016</title><link href="http://blog.xoxzo.com/ms/2016/02/15/a-python-basic-class-in-tokyo-feb-6-2016/" rel="alternate"></link><published>2016-02-15T09:18:00+09:00</published><updated>2016-02-15T09:18:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2016-02-15:ms/2016/02/15/a-python-basic-class-in-tokyo-feb-6-2016/</id><summary type="html">&lt;p&gt;&lt;a href="https://djangogirls.org/"&gt;&lt;img alt="logo" src="https://xoxzoblog.files.wordpress.com/2016/02/logo.png?w=150" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I have attended an event of Django Girls Japan and Python ladies, a
 Python basic.&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://djangogirls-org.connpass.com/event/25660/"&gt;http://djangogirls-org.connpass.com/event/25660/&lt;/a&gt;&lt;/p&gt;
@@ -424,7 +418,89 @@ print ("あなたはパー、CPUはチョキ、あなたの負けです！")&lt;
 else:&lt;br /&gt;
 print ("あなたはパー、CPUもパー、「あいこ」です！")&lt;br /&gt;
 But, anyways, this is the start of learning. I am glad that I have made
-a first step.&lt;/p&gt;</summary><category term="Python"></category></entry><entry><title>Github: Managing fork and making pull request</title><link href="http://devblog.xoxzo.com/ms/github-managing-fork-and-making-pull-request.html" rel="alternate"></link><published>2015-09-10T09:08:00+09:00</published><updated>2015-09-10T09:08:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2015-09-10:ms/github-managing-fork-and-making-pull-request.html</id><summary type="html">&lt;p&gt;It's common when you're using a third party library, there's come a
+a first step.&lt;/p&gt;</summary><category term="python"></category></entry><entry><title>[FullCourt] End of Service Announcement</title><link href="http://blog.xoxzo.com/ms/../en/2015/12/03/fullcourt-end-of-service-announcement/" rel="alternate"></link><published>2015-12-03T11:01:00+09:00</published><updated>2015-12-03T11:01:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2015-12-03:ms/../en/2015/12/03/fullcourt-end-of-service-announcement/</id><summary type="html">&lt;p&gt;&lt;img alt="logo_1" src="http://blog.xoxzo.com/ms/images/fullcourt-logo.png" /&gt;&lt;/p&gt;
+&lt;p&gt;In 2011, a wonderful idea was hatched to allow connectivity to millions
+of phones in the world in under 10 minutes. That idea was named
+&lt;em&gt;&lt;a href="https://www.fullcourt.co/en/"&gt;FullCourt.&lt;/a&gt; &lt;/em&gt;With the help of many
+people, from our families, to our customers and our friends, we have
+managed to make that idea into a reality, and FullCourt was born.&lt;/p&gt;
+&lt;p&gt;4 years down the road from that fateful day, through many ups and downs,
+we are sad to announce that &lt;strong&gt;FullCourt will turn off the lights and end
+its service on Monday 29 February 2016&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;What will this mean to you?&lt;/p&gt;
+&lt;h2&gt;Registrations&lt;/h2&gt;
+&lt;p&gt;FullCourt will stop to accept new registrations on Thu Dec 3 2015.&lt;/p&gt;
+&lt;h2&gt;Credits and new credits purchase&lt;/h2&gt;
+&lt;p&gt;FullCourt will stop to accept new credit purchases on 1st Jan 2016. If
+you would like to get refunds on your remaining credits, we will accept
+refund requests based on our Terms Of Service. Please contact
+&lt;a href="&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#116;&amp;#111;&amp;#58;&amp;#115;&amp;#117;&amp;#112;&amp;#112;&amp;#111;&amp;#114;&amp;#116;&amp;#64;&amp;#102;&amp;#117;&amp;#108;&amp;#108;&amp;#99;&amp;#111;&amp;#117;&amp;#114;&amp;#116;&amp;#46;&amp;#99;&amp;#111;"&gt;&amp;#115;&amp;#117;&amp;#112;&amp;#112;&amp;#111;&amp;#114;&amp;#116;&amp;#64;&amp;#102;&amp;#117;&amp;#108;&amp;#108;&amp;#99;&amp;#111;&amp;#117;&amp;#114;&amp;#116;&amp;#46;&amp;#99;&amp;#111;&lt;/a&gt; for details.&lt;/p&gt;
+&lt;h2&gt;API usage&lt;/h2&gt;
+&lt;p&gt;You can still use the API until Monday 29 February 2016, but any
+incoming phone numbers will be lost after that date. Please refer to the
+section on "Incoming phone numbers, including Motion numbers" below for
+details. We also have a replacement API service which you might want to
+try. See the section "What's next?" below.&lt;/p&gt;
+&lt;h2&gt;Motion&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.fullcourt.co/en/motion/"&gt;Motion&lt;/a&gt; will still be available
+until the end of service on Monday 29 February 2016 but all your Motion
+numbers will be lost after that date. Please refer to the section on
+"Incoming phone numbers, including Motion numbers" below for details.&lt;/p&gt;
+&lt;h2&gt;Incoming phone numbers, including Motion numbers&lt;/h2&gt;
+&lt;p&gt;As per our Terms Of Service, we unfortunately cannot port or transfer
+your incoming phone numbers or Motion numbers to a different provider
+for you. After Monday 29 February 2016, these numbers will be lost
+forever.&lt;/p&gt;
+&lt;h2&gt;What's next?&lt;/h2&gt;
+&lt;p&gt;We have released the &lt;a href="https://www.xoxzo.com/en/"&gt;Xoxzo Cloud Telephony
+Platform&lt;/a&gt; as a replacement API service for
+SMS messaging and voice. Registration is free, with a much simpler API.&lt;/p&gt;
+&lt;p&gt;We would like to thank you for all the support, advice and encouragement
+we have received for the past 4 years. It has been a tough but fun
+journey. See you again at &lt;a href="https://www.xoxzo.com/en/"&gt;Xoxzo!&lt;/a&gt;&lt;/p&gt;</summary><category term="endofservice"></category><category term="fullcourt"></category><category term="xoxzo"></category></entry><entry><title>【FullCourt】サービス終了のお知らせ</title><link href="http://blog.xoxzo.com/ms/fullcourt-end-of-service-announcement-ja.html" rel="alternate"></link><published>2015-12-03T11:00:00+09:00</published><updated>2015-12-03T11:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2015-12-03:ms/fullcourt-end-of-service-announcement-ja.html</id><summary type="html">&lt;p&gt;&lt;img alt="logo_1" src="http://blog.xoxzo.com/ms/images/fullcourt-logo.png" /&gt;&lt;/p&gt;
+&lt;p&gt;【FullCourt】サービス終了のお知らせ&lt;/p&gt;
+&lt;p&gt;去る2011年、「思い立ったら10分で、りて、世にその名を馳せることとなりました。&lt;br /&gt;
+その運命の日から4年。多くの出来事を乗り越え、残念ながら、2016年2月29日をもって、FullCourtはサービスを終了する運びとなったことを、お知らせします。&lt;/p&gt;
+&lt;p&gt;ご利用の皆様にとって、これは何を意味するのでしょうか？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ご登録について&lt;/strong&gt;&lt;br /&gt;
+Fullcourtは2015年12月3日木曜日以降、新規のご登録の受付を中止いたします。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;現存のクレジットと、新規ご購入クレジットについて&lt;/strong&gt;&lt;br /&gt;
+FullCourtは、2016年1月1日以降、新規ご購入クレジットの受付を中止いたします。現存のクレジットの払い戻しをご希望の場合は、ご利用規約に基づいて、返金の手続きをさせていただきますので、&lt;a href="&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#116;&amp;#111;&amp;#58;&amp;#115;&amp;#117;&amp;#112;&amp;#112;&amp;#111;&amp;#114;&amp;#116;&amp;#64;&amp;#102;&amp;#117;&amp;#108;&amp;#108;&amp;#99;&amp;#111;&amp;#117;&amp;#114;&amp;#116;&amp;#46;&amp;#99;&amp;#111;"&gt;&amp;#115;&amp;#117;&amp;#112;&amp;#112;&amp;#111;&amp;#114;&amp;#116;&amp;#64;&amp;#102;&amp;#117;&amp;#108;&amp;#108;&amp;#99;&amp;#111;&amp;#117;&amp;#114;&amp;#116;&amp;#46;&amp;#99;&amp;#111;&lt;/a&gt;
+までご連絡ください。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;APIのご利用について&lt;/strong&gt;&lt;br /&gt;
+2016年2月29日までの間、APIのご利用は可能です。しかし、受信にご利用の電話番号のほうは、当日をもちまして、その後の継続利用はできません。詳しくは、下記の「Motion番号を含めた、受信電話番号について」の記述をご参照ください。合わせまして、FullCourtに代わるAPIサービスをご用意しておりますので、「次のステップ」の記述にてご確認ください。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Motion&lt;/strong&gt;&lt;br /&gt;
+Motionのサービスは、2016年2月29日までの間、引き続きご利用いただけます。しかし、その後の継続利用はできません。詳しくは、下記の「Motion番号を含めた、受信電話番号について」の記述をご参照ください。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Motion番号を含めた、受信電話番号について&lt;/strong&gt;&lt;br /&gt;
+ご利用規約に基づき、受信用電話番号、Motion番号は、残念ながら別のプロバイダーへ引き継ぐことができません。2016年2月29日以降、ご利用の番号は、永久に使用不可となります。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;次のステップ&lt;/strong&gt;&lt;br /&gt;
+このたび、&lt;a href="https://www.xoxzo.com/ja/"&gt;Xoxzoクラウド・テレフォニー・プラットフォーム&lt;/a&gt;をリリースいたしました。&lt;br /&gt;
+ご登録は無料です。より簡潔なAPIを装備した電話音声機能とSMSメッセージ送信をご提供しております。&lt;br /&gt;
+これまで4年間にわたる、皆様の叱咤激励、ご指導ご鞭撻に深く感謝いたします。多々ありましたが、楽しい旅路でした。次は、&lt;a href="https://www.xoxzo.com/ja/"&gt;Xoxzo&lt;/a&gt;にて、お会いしましょう！&lt;/p&gt;</summary><category term="サービス終了"></category><category term="fullcourt"></category><category term="xoxzo"></category></entry><entry><title>商号変更に関するお知らせ</title><link href="http://blog.xoxzo.com/ms/change-of-corporate-identity-ja.html" rel="alternate"></link><published>2015-10-14T10:01:00+09:00</published><updated>2015-10-14T10:01:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2015-10-14:ms/change-of-corporate-identity-ja.html</id><summary type="html">&lt;h3&gt;2015年9月30日「株式会社MARIMORE」は「株式会社Xoxzo」に生まれ変わります。&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="Xoxzo Inc." src="http://blog.xoxzo.com/ms/images/xoxzo-logo-02.png" /&gt;&lt;/p&gt;
+&lt;p&gt;当社はこれまでSMS配信システムとテレフォニーシステムの提供と開発を行ってきました。常にお客様の求めていることが何なのかを考え、それを応えるために自らの手で生み出してきたそのポリシーは、より一層使い得やすさと便利なものを生み出すことの結論に導かれました。&lt;/p&gt;
+&lt;p&gt;これからも、日本のみにならず、世界に必要とされるWebと電話の繋ぐ当たり前のクラウド・テレフォニーサービスを開発してまいります。そのためにまだ世の中にない新しい発想・技術・試みを探して挑戦します。そして、それを実現できるソリューションを提供し続けることで社会・コミュニティに貢献できる企業でありたいと考えます。&lt;/p&gt;
+&lt;p&gt;今後とも、よろしくお願いいたします。&lt;/p&gt;
+&lt;p&gt;株式会社Xoxzo （ゾクゾー）
+代表取締役 イクバル・アバドゥラ
+&lt;a href="https://info.xoxzo.com/"&gt;https://info.xoxzo.com/&lt;/a&gt;&lt;/p&gt;</summary><category term="marimore"></category><category term="xoxzo"></category></entry><entry><title>Change of Trading Name</title><link href="http://blog.xoxzo.com/ms/../en/2015/10/14/change-of-corporate-identity/" rel="alternate"></link><published>2015-10-14T10:00:00+09:00</published><updated>2015-10-14T10:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2015-10-14:ms/../en/2015/10/14/change-of-corporate-identity/</id><summary type="html">&lt;p&gt;&lt;strong&gt;MARIMORE Inc. changed it's trading name to Xoxzo Inc. on September 30,
+2015&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Xoxzo Inc." src="http://blog.xoxzo.com/ms/images/xoxzo-logo-02.png" /&gt;&lt;/p&gt;
+&lt;p&gt;We, formerly known as MARIMORE Inc, has been on the development of both
+SMS sending systems and Telephony systems.&lt;/p&gt;
+&lt;p&gt;Our continuous consideration and care to the customers' demand built up
+our own policy as well as leading us towards creating products that are
+easier and more convenient.&lt;/p&gt;
+&lt;p&gt;Going forward, we will keep on creating and developing Cloud Telephony
+solutions connecting the phone and the web, not only for the Japanese
+market but the world. To achieve this, we will continue our challenge in
+search of new inspiration, technology and initiatives. We will also
+continue striving to stay engaged and contributing to the society and
+community we're involved in.&lt;/p&gt;
+&lt;p&gt;Thank you for your kind support, and watch this space!&lt;/p&gt;
+&lt;p&gt;Iqbal Abdullah, CEO
+Xoxzo Inc.
+&lt;a href="https://info.xoxzo.com/"&gt;https://info.xoxzo.com/&lt;/a&gt;&lt;/p&gt;</summary><category term="marimore"></category><category term="xoxzo"></category></entry><entry><title>Github: Managing fork and making pull request</title><link href="http://blog.xoxzo.com/ms/2015/09/10/github-managing-fork-and-making-pull-request/" rel="alternate"></link><published>2015-09-10T09:08:00+09:00</published><updated>2015-09-10T09:08:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2015-09-10:ms/2015/09/10/github-managing-fork-and-making-pull-request/</id><summary type="html">&lt;p&gt;It's common when you're using a third party library, there's come a
 point when you need to make some changes to accomodate your project
 requirements. On Github, it easy to fork the repository into your own
 repo and start making all the changes you need.&lt;/p&gt;
@@ -455,11 +531,21 @@ remotes/origin/update-email-verify
 &lt;p&gt;Any changes that specific to your project need and never intended to be
 merged with upstream repo should be in &lt;code&gt;develop&lt;/code&gt; branch. Never make any
 changes to the &lt;code&gt;master&lt;/code&gt; branch. That branch should only be the place
-where you pull changes from upstream.&lt;/p&gt;</summary><category term="git"></category><category term="github"></category><category term="version control"></category></entry><entry><title>PyCon AU 2015 Write Up</title><link href="http://devblog.xoxzo.com/ms/pycon-au-2015-write-up.html" rel="alternate"></link><published>2015-08-29T10:33:00+09:00</published><updated>2015-08-29T10:33:00+09:00</updated><author><name>Zaki Akhmad</name></author><id>tag:devblog.xoxzo.com,2015-08-29:ms/pycon-au-2015-write-up.html</id><summary type="html">&lt;p&gt;[caption id="attachment_666" align="aligncenter" width="630"]&lt;img alt="PyCon
-AU 2015 with 440
-attendees." src="https://xoxzoblog.files.wordpress.com/2015/08/img_6546.jpg?w=630" /&gt;{.size-large
-.wp-image-666 width="630" height="176"} PyCon AU 2015 with 440
-attendees.[/caption]&lt;/p&gt;
+where you pull changes from upstream.&lt;/p&gt;</summary><category term="git"></category><category term="github"></category><category term="version control"></category></entry><entry><title>プラバシーマーク更新のお知らせ</title><link href="http://blog.xoxzo.com/ms/privacymark-marimore-2015-ja.html" rel="alternate"></link><published>2015-09-05T21:50:00+09:00</published><updated>2015-09-05T21:50:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2015-09-05:ms/privacymark-marimore-2015-ja.html</id><summary type="html">&lt;p&gt;当社は、一般財団法人日本情報経済社会推進協会（ＪＩＰＤＥＣ）が認定する「プライバシーマーク」
+（Ｐマーク）を更新いたしました。&lt;/p&gt;
+&lt;p&gt;「プライバシーマーク」は、JIPDECがJIS Q 15001:2006「個人情報保護マネジメントシステム－要求事項」 
+に適合して、個人情報について適切な保護措置を講ずる体制を整備している事業者を認定して、その旨を示すＰマークを付与し、Ｐマークをホームページ・印刷物などに使用することを許諾する制度です。&lt;/p&gt;
+&lt;p&gt;当社は、プライバシーマーク認定事業者として、今後も引き続き、個人情報保護のための更なる安全対策と情報管理の強化に努めてまいります。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Privacy Mark MARIMORE" src="http://blog.xoxzo.com/ms/images/privacy-mark/p-mark-cert-2015.jpg" /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;取得年月日&lt;br /&gt;
+&lt;a href="http://blog.xoxzo.com/ms/privacymark-marimore-2013-ja.html"&gt;平成２５年５月２３日&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;登録番号&lt;br /&gt;
+   第１０８２４０８９（０２）号&lt;/li&gt;
+&lt;li&gt;有効期間&lt;br /&gt;
+   平成２７年６月１３日～平成２９年６月１２日&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="プライバシーマーク"></category><category term="認定"></category><category term="pマーク"></category><category term="個人情報"></category></entry><entry><title>PyCon AU 2015 Write Up</title><link href="http://blog.xoxzo.com/ms/pycon-au-2015-write-up-en.html" rel="alternate"></link><published>2015-08-29T10:33:00+09:00</published><updated>2015-08-29T10:33:00+09:00</updated><author><name>Zaki Akhmad</name></author><id>tag:blog.xoxzo.com,2015-08-29:ms/pycon-au-2015-write-up-en.html</id><summary type="html">&lt;p&gt;&lt;img alt="PyCon AU 2015 with 440
+attendees." src="http://blog.xoxzo.com/ms/images/pycon-au-2015/img_6546.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;It's 2015, and it's another time for PyCon Australia. Last year, PyCon
 Australia 2014 was held also in Brisbane, Queensland. The same city as
 PyCon 2015. Every two years, the same city will host PyCon Australia. In
@@ -474,11 +560,8 @@ Herston Bus Station, the closest bus station from where I stayed. One
 disadvantage of having a conference at this venue is that basically they
 don't have a &lt;em&gt;real&lt;/em&gt; conference room, instead they have multiple rooms
 with partition on each side.&lt;/p&gt;
-&lt;p&gt;[caption id="attachment_658" align="aligncenter"
-width="630"]&lt;img alt="Pullman Brisbane - King George Square, the PyCon AU 2015
-venue." src="https://xoxzoblog.files.wordpress.com/2015/08/img_6641.jpg?w=630" /&gt;{.size-large
-.wp-image-658 width="630" height="473"} Pullman Brisbane - King George
-Square, the PyCon AU 2015 venue.[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Pullman Brisbane - King George Square, the PyCon AU 2015
+venue." src="http://blog.xoxzo.com/ms/images/pycon-au-2015/img_6641.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;The &lt;a href="http://2015.pycon-au.org/programme/about"&gt;conference&lt;/a&gt; took 5 days.
 One day for miniconf, two days for the conference, and another two days
 for sprints (and also one day for
@@ -529,18 +612,9 @@ basically this talk gave practical implementation in real life, how we
 can predict a sports game result. This talk realizes me that it will be
 better for me if I have a good foundation on machine learning.&lt;/p&gt;
 &lt;p&gt;Other than that, there were job board and lightning talks.&lt;/p&gt;
-&lt;p&gt;[caption id="attachment_663" align="aligncenter" width="630"]&lt;a href="https://xoxzoblog.files.wordpress.com/2015/08/img_6567.jpg"&gt;&lt;img alt="PyCon
-AU 2015 Job
-Board" src="https://xoxzoblog.files.wordpress.com/2015/08/img_6567.jpg?w=630" /&gt;{.size-large
-.wp-image-663 width="630"
-height="473"}&lt;/a&gt;
-PyCon AU 2015 Job Board[/caption]&lt;/p&gt;
-&lt;p&gt;[caption id="attachment_662" align="aligncenter"
-width="630"]&lt;a href="https://xoxzoblog.files.wordpress.com/2015/08/img_6573.jpg"&gt;&lt;img alt="Interested giving lightning talk? Write it on the
-card!" src="https://xoxzoblog.files.wordpress.com/2015/08/img_6573.jpg?w=630" /&gt;{.size-large
-.wp-image-662 width="630"
-height="473"}&lt;/a&gt;
-Interested giving lightning talk? Write it on the card![/caption]&lt;/p&gt;
+&lt;p&gt;&lt;img alt="PyCon AU 2015 Job Board" src="http://blog.xoxzo.com/ms/images/pycon-au-2015/img_6567.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Interested giving lightning talk? Write it on the
+card!" src="http://blog.xoxzo.com/ms/images/pycon-au-2015/img_6573.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;And for the workshop, I attended electronics workshop instead of Django
 Girls workshop. I played with Arduino. I code using Python and made the
 blinking LEDs. This electronic workshop was very interesting for me
@@ -548,26 +622,19 @@ since we could program Arduino with Python. Back on the days when I was
 at university, I should code using assembler to program a
 microcontroller. With Python as high level programming language, of
 course it will be easier.&lt;/p&gt;
-&lt;p&gt;[caption id="attachment_657" align="aligncenter"
-width="630"]&lt;a href="https://xoxzoblog.files.wordpress.com/2015/08/img_6684.jpg"&gt;&lt;img alt="Electronics workshop at PyCon AU
-2015" src="https://xoxzoblog.files.wordpress.com/2015/08/img_6684.jpg?w=630" /&gt;{.size-large
-.wp-image-657 width="630"
-height="473"}&lt;/a&gt;
-Electronics workshop at PyCon AU 2015[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Electronics workshop at PyCon AU
+2015" src="http://blog.xoxzo.com/ms/images/pycon-au-2015/img_6684.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;It was my first time PyCon AU experience. And it was very nice to meet
 people who shares the same interest and enthusiast with you. And in the
 end, the main point of attending a conference is to meet its people.&lt;/p&gt;
-&lt;p&gt;See you at the next (nearest) PyCon!&lt;/p&gt;</summary><category term="django"></category><category term="PyCon"></category><category term="PyCon AU"></category><category term="PyCon AU 2015"></category><category term="Python"></category></entry><entry><title>PyconMY 2015 Talk - Mastering Python Ecosystem</title><link href="http://devblog.xoxzo.com/ms/pyconmy-2015-talk-mastering-python-ecosystem.html" rel="alternate"></link><published>2015-08-28T17:04:00+09:00</published><updated>2015-08-28T17:04:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2015-08-28:ms/pyconmy-2015-talk-mastering-python-ecosystem.html</id><summary type="html">&lt;p&gt;Pycon Malaysia (PyconMY) 2015 just wrapped up last week. This is the
-first ever Python conference in Malaysia after a &lt;a href="http://Kamal%20Mustafa.github.io/posts/mini-pycon-my-2014.html"&gt;mini
+&lt;p&gt;See you at the next (nearest) PyCon!&lt;/p&gt;</summary><category term="django"></category><category term="pycon"></category><category term="pycon au"></category><category term="pycon au 2015"></category><category term="python"></category></entry><entry><title>PyconMY 2015 Talk - Mastering Python Ecosystem</title><link href="http://blog.xoxzo.com/ms/pyconmy-2015-talk-mastering-python-ecosystem-en.html" rel="alternate"></link><published>2015-08-28T17:04:00+09:00</published><updated>2015-08-28T17:04:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2015-08-28:ms/pyconmy-2015-talk-mastering-python-ecosystem-en.html</id><summary type="html">&lt;p&gt;Pycon Malaysia (PyconMY) 2015 just wrapped up last week. This is the
+first ever Python conference in Malaysia after a &lt;a href="http://k4ml.github.io/posts/mini-pycon-my-2014.html"&gt;mini
 Pycon&lt;/a&gt;
 held last year. It was held in Universiti Malaya (UM), Kuala Lumpur.
 Unfortunately, due to some emergency with my family, I have to leave
 early after delivering my talk and basically missed the whole event.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://xoxzoblog.files.wordpress.com/2015/08/pycon1.jpg"&gt;&lt;img alt="pycon1" src="https://xoxzoblog.files.wordpress.com/2015/08/pycon1.jpg?w=300" /&gt;{.alignnone
-.size-medium .wp-image-739 width="300"
-height="169"}&lt;/a&gt;&lt;a href="https://xoxzoblog.files.wordpress.com/2015/08/pycon2.jpg"&gt;&lt;img alt="pycon2" src="https://xoxzoblog.files.wordpress.com/2015/08/pycon2.jpg?w=300" /&gt;{.alignnone
-.size-medium .wp-image-740 width="300"
-height="169"}&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="pycon1" src="http://blog.xoxzo.com/ms/images/pycon1.jpg" /&gt;
+&lt;img alt="pycon2" src="http://blog.xoxzo.com/ms/images/pycon2.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;Throughout the talk, I try to give broad general overview of what they
 can expect if they were some day decide to adopt Python into their work
 environment.&lt;/p&gt;
@@ -585,22 +652,17 @@ just need to dig deeper how exactly does people built it. The is how I
 managed to see how Python features such as list comprehension,
 decorator, metaclass and others being used to solve real problems.&lt;/p&gt;
 &lt;p&gt;You can view the slides
-&lt;a href="https://docs.google.com/presentation/d/1Mt6laaDXGWLN7rm1pvYcqeEzCi9FoJ6VLEMryBEMw_c/edit#slide=id.p"&gt;here&lt;/a&gt;.&lt;/p&gt;</summary><category term="PyCon"></category><category term="Python"></category><category term="talk"></category></entry><entry><title>Django Girls One Day Workshop in Tokyo</title><link href="http://devblog.xoxzo.com/ms/django-girls-one-day-workshop-in-tokyo.html" rel="alternate"></link><published>2015-08-06T14:17:00+09:00</published><updated>2015-08-06T14:17:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:devblog.xoxzo.com,2015-08-06:ms/django-girls-one-day-workshop-in-tokyo.html</id><summary type="html">&lt;p&gt;&lt;a href="https://djangogirls.org/tokyo/"&gt;&lt;img alt="logo_django" src="https://xoxzoblog.files.wordpress.com/2015/08/logo_django.png?w=300" /&gt;{.aligncenter
-.size-medium .wp-image-503 width="300"
-height="102"}&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://docs.google.com/presentation/d/1Mt6laaDXGWLN7rm1pvYcqeEzCi9FoJ6VLEMryBEMw_c/edit#slide=id.p"&gt;here&lt;/a&gt;.&lt;/p&gt;</summary><category term="pycon"></category><category term="python"></category><category term="talk"></category></entry><entry><title>Django Girls One Day Workshop in Tokyo</title><link href="http://blog.xoxzo.com/ms/django-girls-one-day-workshop-in-tokyo-en.html" rel="alternate"></link><published>2015-08-06T14:17:00+09:00</published><updated>2015-08-06T14:17:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2015-08-06:ms/django-girls-one-day-workshop-in-tokyo-en.html</id><summary type="html">&lt;p&gt;&lt;a href="https://djangogirls.org/tokyo/"&gt;&lt;img alt="logo_django" src="http://blog.xoxzo.com/ms/images/logo_django.png" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;https://djangogirls.org/tokyo/&lt;/p&gt;
 &lt;p&gt;One day work shop at TECH LAB PAAK in Tokyo, July 26, 2015&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Django Girls in Tokyo&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://xoxzoblog.files.wordpress.com/2015/08/20278115621_c87c785323_z.jpg"&gt;&lt;img alt="20278115621_c87c785323_z" src="https://xoxzoblog.files.wordpress.com/2015/08/20278115621_c87c785323_z.jpg?w=300" /&gt;{.aligncenter
-.size-medium .wp-image-505 width="300"
-height="225"}&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="djangogirls" src="http://blog.xoxzo.com/ms/images/django-girls-workshop/20278115621_c87c785323_z.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;This is a Django workshop for female who wants to start Django. The
 participants were not asked any background knowledge in programming.&lt;/p&gt;
 &lt;p&gt;There were about 30 girls in various age joined with their own laptops.
 1 – 2 tutors and mentors are to look after 2 – 3 girls.&lt;/p&gt;
 &lt;p&gt;10 am, After a quick introduction, all just showed their great
-concentration to work on the &lt;a href="https://www.gitbook.com/book/djangogirlsjapan/workshop_tutorialjp/details"&gt;tutorials
-provided&lt;/a&gt;
+concentration to work on the &lt;a href="https://www.gitbook.com/book/djangogirlsjapan/workshop_tutorialjp/details"&gt;tutorials provided&lt;/a&gt;
 till the end of the day at 5.30 pm. There was some social meet up after
 the workshop, sadly I couldn’t attend that for the distance of my
 residence.&lt;/p&gt;
@@ -611,9 +673,7 @@ rubbing my chin, the tutor flew to me to look my screen over my shoulder
 from behind me. He gave me a pin-point advice how to proceed. I felt
 easy to ask questions for his friendly atmosphere too.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Contents of the tutorial&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://xoxzoblog.files.wordpress.com/2015/08/19649557504_a990e81024_z.jpg"&gt;&lt;img alt="19649557504_a990e81024_z" src="https://xoxzoblog.files.wordpress.com/2015/08/19649557504_a990e81024_z.jpg?w=300" /&gt;{.alignright
-.size-medium .wp-image-512 width="300"
-height="169"}&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Django Girls Workshop" src="http://blog.xoxzo.com/ms/images/django-girls-workshop/19649557504_a990e81024_z.jpg" /&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Started off with the command line. As I’m getting aged and my first
     experience with computer was before the Windows has come out, so I
@@ -636,9 +696,7 @@ height="169"}&lt;/a&gt;&lt;/p&gt;
 &lt;li&gt;We started blog app, then started to modify the blog.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;What we have achieved&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://xoxzoblog.files.wordpress.com/2015/08/19651250533_d6a200f1a2_z.jpg"&gt;&lt;img alt="19651250533_d6a200f1a2_z" src="https://xoxzoblog.files.wordpress.com/2015/08/19651250533_d6a200f1a2_z.jpg?w=300" /&gt;{.alignleft
-.wp-image-511 .size-medium width="300"
-height="169"}&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="djangogirls" src="http://blog.xoxzo.com/ms/images/django-girls-workshop/19651250533_d6a200f1a2_z.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;Using the Blog app, we all work to reach our aim of the day, ‘to create
 the first web application.’&lt;/p&gt;
 &lt;ul&gt;
@@ -654,9 +712,7 @@ the first web application.’&lt;/p&gt;
 python manage.py runserver but didn’t get to ‘deploy’ though it is in
 the tutorial, I myself want to try that in the near future by reviewing
 what I have learnt there in a kind of hurry.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://xoxzoblog.files.wordpress.com/2015/08/20263896922_76dc83048c_z.jpg"&gt;&lt;img alt="20263896922_76dc83048c_z" src="https://xoxzoblog.files.wordpress.com/2015/08/20263896922_76dc83048c_z.jpg?w=630" /&gt;{.aligncenter
-.size-large .wp-image-506 width="630"
-height="354"}&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="djangogirls" src="http://blog.xoxzo.com/ms/images/django-girls-workshop/20263896922_76dc83048c_z.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Looking at the future&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;I think I have got to stand at the start of something new.&lt;/p&gt;
 &lt;p&gt;I liked doing this kind of thing, I loved to use MS access to create
@@ -672,14 +728,10 @@ it…&lt;/p&gt;
 &lt;p&gt;Never never started, never never go forward. I have at least started.&lt;/p&gt;
 &lt;p&gt;Thanks to all the Django Girls, the coaches/mentors of the workshop and
 the sponsors!!!&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://xoxzoblog.files.wordpress.com/2015/08/20263894682_61d9ee050e_z.jpg"&gt;&lt;img alt="20263894682_61d9ee050e_z" src="https://xoxzoblog.files.wordpress.com/2015/08/20263894682_61d9ee050e_z.jpg?w=300" /&gt;{.alignleft
-.size-medium .wp-image-507 width="300"
-height="169"}&lt;/a&gt;
-&lt;a href="https://xoxzoblog.files.wordpress.com/2015/08/20084176790_f05a18a29e_z.jpg"&gt;&lt;img alt="20084176790_f05a18a29e_z" src="https://xoxzoblog.files.wordpress.com/2015/08/20084176790_f05a18a29e_z.jpg?w=300" /&gt;{.aligncenter
-.size-medium .wp-image-508 width="300"
-height="215"}&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Django Girls Workshop" src="http://blog.xoxzo.com/ms/images/django-girls-workshop/20263894682_61d9ee050e_z.jpg" /&gt;
+&lt;img alt="Django Girls Workshop" src="http://blog.xoxzo.com/ms/images/django-girls-workshop/20084176790_f05a18a29e_z.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;Lastly, the lunch and tea time sweets provided on the day was beautiful
-too! I enjoyed that part of the workshop as well.&lt;/p&gt;</summary><category term="djangogirls"></category><category term="東京"></category></entry><entry><title>Talk at UTHM</title><link href="http://devblog.xoxzo.com/ms/talk-at-uthm.html" rel="alternate"></link><published>2015-05-29T09:19:00+09:00</published><updated>2015-05-29T09:19:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2015-05-29:ms/talk-at-uthm.html</id><summary type="html">&lt;p&gt;&lt;img alt="Header image" src="http://devblog.xoxzo.com/ms/images/imBJVxY.png" /&gt;&lt;/p&gt;
+too! I enjoyed that part of the workshop as well.&lt;/p&gt;</summary><category term="djangogirls"></category><category term="東京"></category></entry><entry><title>Talk at UTHM</title><link href="http://blog.xoxzo.com/ms/2015/05/29/talk-at-uthm/" rel="alternate"></link><published>2015-05-29T09:19:00+09:00</published><updated>2015-05-29T09:19:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2015-05-29:ms/2015/05/29/talk-at-uthm/</id><summary type="html">&lt;p&gt;&lt;img alt="Header image" src="http://blog.xoxzo.com/ms/images/imBJVxY.png" /&gt;&lt;/p&gt;
 &lt;p&gt;Two days ago, I was invited by Universiti Tun Hussein Onn (UTHM) student
 to give a talk on their 1 day seminar for the students in the Computer
 Science and Information Technology (FSKTM) faculty. Thinking that this
@@ -709,10 +761,10 @@ everyone in surprise.&lt;/p&gt;
 deciding to back into university to further his study. He said that he
 feel's trapped into his job and passion in programming, not having a
 quality life anymore. This is something to ponder I think. Unfortunately
-I didn't (other panels as well) has clear answer for him.&lt;/p&gt;</summary><category term="open source"></category><category term="oss"></category><category term="talk"></category></entry><entry><title>AWS Summit KL 2015</title><link href="http://devblog.xoxzo.com/ms/aws-summit-kl-2015.html" rel="alternate"></link><published>2015-05-28T23:07:00+09:00</published><updated>2015-05-28T23:07:00+09:00</updated><author><name>Abdul Rahman</name></author><id>tag:devblog.xoxzo.com,2015-05-28:ms/aws-summit-kl-2015.html</id><summary type="html">&lt;p&gt;On the 21st of May, the first AWS Summit was held at Connexion@Nexus,
+I didn't (other panels as well) has clear answer for him.&lt;/p&gt;</summary><category term="open source"></category><category term="oss"></category><category term="talk"></category></entry><entry><title>AWS Summit KL 2015</title><link href="http://blog.xoxzo.com/ms/aws-summit-kl-2015-ja.html" rel="alternate"></link><published>2015-05-28T23:07:00+09:00</published><updated>2015-05-28T23:07:00+09:00</updated><author><name>Abdul Rahman</name></author><id>tag:blog.xoxzo.com,2015-05-28:ms/aws-summit-kl-2015-ja.html</id><summary type="html">&lt;p&gt;On the 21st of May, the first AWS Summit was held at Connexion@Nexus,
 located in Kuala Lumpur. A total of 1075 participants turned up that day
 which lasted from 7.30am till 6pm.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="IMAG0509" src="http://devblog.xoxzo.com/ms/images/5c468-6a0153916e707f970b01b8d11b4dc4970c-pi.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="IMAG0509" src="http://blog.xoxzo.com/ms/images/5c468-6a0153916e707f970b01b8d11b4dc4970c-pi.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;The summit was split into two tracks. The first track is Introduction to
 AWS while the second track is AWS Architecture. There were also
 exhibition booths ran by sponsors of the event. A good part of the
@@ -725,7 +777,7 @@ keynotes in the advanced track mostly feature big data analytics while
 the introduction track introduces the audience to the various services
 that AWS has. There is also a dedicated talk about container computing,
 mostly referencing to Docker.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="IMAG0517" src="http://devblog.xoxzo.com/ms/images/12fb2-6a0153916e707f970b01bb0835babb970d-pi.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="IMAG0517" src="http://blog.xoxzo.com/ms/images/12fb2-6a0153916e707f970b01bb0835babb970d-pi.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;AWS Lambda features a serverless and stateless web app. All you need are
 functions and make use of S3 and DynamoDB without the need to set up
 your own infrastructure. Charges will occur every 100ms the process is
@@ -746,147 +798,234 @@ cloud. This year's summit seems to be the first step for many Malaysian
 companies. But by next year's summit we're definitely going to see even
 more creative use out of AWS as more and more people will be exposed and
 using it.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="IMAG0522" src="http://devblog.xoxzo.com/ms/images/6ebd8-6a0153916e707f970b01b8d11b4f16970c-pi.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="IMAG0522" src="http://blog.xoxzo.com/ms/images/6ebd8-6a0153916e707f970b01b8d11b4f16970c-pi.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;P/S: This little selfie booth in the outside foyer really grabbed
-everyone's attention.&lt;/p&gt;</summary></entry><entry><title>MARIMORE Engineering Team Camp in Malacca</title><link href="http://devblog.xoxzo.com/ms/marimore-engineering-team-camp-in-malacca.html" rel="alternate"></link><published>2014-09-13T14:32:00+09:00</published><updated>2014-09-13T14:32:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:devblog.xoxzo.com,2014-09-13:ms/marimore-engineering-team-camp-in-malacca.html</id><summary type="html">&lt;p&gt;&lt;span
-style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;Early
-September 2014 we had a 2-day team camp for our engineering team in
-Malacca.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span
-style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;Because
-all of us work remotely all the time and we usually only communicate via
+everyone's attention.&lt;/p&gt;</summary><category term="python"></category><category term="aws"></category><category term="kuala lumpur"></category><category term="connexion@nexus"></category></entry><entry><title>株式会社あおば堂が、利用者への通知補助手段としてEZSMSを導入</title><link href="http://blog.xoxzo.com/ms/aoba-ezsms-usecase-ja.html" rel="alternate"></link><published>2015-04-27T11:00:00+09:00</published><updated>2015-04-27T11:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2015-04-27:ms/aoba-ezsms-usecase-ja.html</id><summary type="html">&lt;p&gt;&lt;img alt="EZSMSロゴ" src="http://blog.xoxzo.com/ms/images/ezsms_logo1.png" /&gt;&lt;/p&gt;
+&lt;p&gt;株式会社あおば堂（本社：神奈川県相模原市、ホームページ：&lt;a href="http://www.aobado.net/"&gt;http://www.aobado.net&lt;/a&gt;）は、&lt;a href="http://info.xoxzo.com/ja/" title="株式会社Xoxzo"&gt;株式会社Xoxzo&lt;/a&gt;（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）の運営する&lt;a href="https://www.ezsms.biz/ja/" title="SMS配信サービス「EZSMS」"&gt;SMS（ショートメッセージ）配信サービス「EZSMS」&lt;/a&gt;の買取を行っております。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;創業以来、1点1点の査定額を理由を添えてご案内しておりまして、お蔭様にて多くのお客様よりご好評を頂いております。
+更に、事前にネットから5秒で買取価格目安が分かるお試し査定サービスもご用意しております。
+お客様へ査定結果を主にメールにてご案内差し上げておりますが、昨今、規制強化のためか、メールがプロバイダ側にて 消去されるという事案が多数発生しております。
+そのため、メールが受信できないお客様への連絡補助手段としてMARIMORE様のEZSMSサービスを導入するに到りました。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;【株式会社あおば堂について】&lt;/p&gt;
+&lt;p&gt;&lt;img alt="あおば堂ロゴ" src="http://blog.xoxzo.com/ms/images/client-logos/aobado-logo.gif" title="あおば堂ロゴ" /&gt;&lt;/p&gt;
+&lt;p&gt;所在地：神奈川県相模原市南区東林間2-22-14-1F
+創業：平成18年1月
+URL：&lt;a href="http://www.aobado.net/"&gt;http://www.aobado.net/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【株式会社Xoxzoについて】&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Xoxzoロゴ" src="http://blog.xoxzo.com/ms/images/xoxzo-logo-02.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Xoxzoは、2007年2月に設立以来SMS技術を中心に自社サービスを開発、運営をしています。「&lt;strong&gt;継続改善&lt;/strong&gt;」をキーワードにしてお客様のニーズを満たすサービスを目指しています。&lt;/p&gt;
+&lt;p&gt;住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F&lt;br /&gt;
+代表： 代表取締役　イクバル・アバドゥラ&lt;br /&gt;
+設立： 2007年2月&lt;br /&gt;
+URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/a&gt;&lt;/p&gt;</summary><category term="ezsms"></category><category term="zenlok株式会社"></category><category term="ショートメッセージ"></category><category term="通知補助手段"></category></entry><entry><title>MARIMORE Engineering Team Camp in Malacca</title><link href="http://blog.xoxzo.com/ms/marimore-engineering-team-camp-in-malacca-en.html" rel="alternate"></link><published>2014-09-13T14:32:00+09:00</published><updated>2014-09-13T14:32:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2014-09-13:ms/marimore-engineering-team-camp-in-malacca-en.html</id><summary type="html">&lt;p&gt;Early September 2014 we had a 2-day team camp for our engineering team in
+Malacca.&lt;/p&gt;
+&lt;p&gt;Because all of us work remotely all the time and we usually only communicate via
 voice, video and/or text, it is great to meetup and discuss targets,
-issues and ideas face-to-face. &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span
-style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;Meetups
-are a great way to communicate issues or ideas which are complicated to
+issues and ideas face-to-face.&lt;/p&gt;
+&lt;p&gt;Meetups are a great way to communicate issues or ideas which are complicated to
 be put to paper. I find that discussing ideas are much more effective
 face-to-face; Perhaps due to the many tools (like pen and paper)
 expressions (nuances in the facial expression, hand movements and voice)
-that we can utilize and the real-time nature of the discussion.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span
-style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;At the
-same time the beauty of working remotely all the time is that it trains
+that we can utilize and the real-time nature of the discussion.&lt;/p&gt;
+&lt;p&gt;At the same time the beauty of working remotely all the time is that it trains
 you to be precise and concise as much as possible but without leaving
 too much information out to get your point across. Usually we only have
 one shot to communicate (i.e sending an email or a text message) which
 if we miss to get the point across, will require the reader to get our
 subsequent explaination in her next iteration, and this will require us
-to wait.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span
-style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;The
-camp this time was done at &lt;a href="http://www.hattenhotel-melaka.com/"&gt;Hatten Hotel
-Malacca&lt;/a&gt;, in the UNESCO heritage
-city of &lt;a class="zem_slink" href="http://maps.google.com/maps?ll=2.20569166667,102.256136111&amp;amp;spn=0.1,0.1&amp;amp;q=2.20569166667,102.256136111%20(Malacca%20City)&amp;amp;t=h" title="Malacca City"&gt;Malacca
-City&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;
-&lt;a class="asset-img-link" href="https://xoxzoblog.files.wordpress.com/2014/09/afd30-6a0153916e707f970b01b7c6df2ddd970b-pi.jpg"&gt;&lt;img alt="2014-09-04
-07.42.40" src="https://xoxzoblog.files.wordpress.com/2014/09/afd30-6a0153916e707f970b01b7c6df2ddd970b-pi.jpg?w=300" title="2014-09-04 07.42.40" /&gt;{.asset
-.asset-image .at-xid-6a0153916e707f970b01b7c6df2ddd970b
-.img-responsive}&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span
-style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;^The\ view\ from\ my\ room^ &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span
-style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;Team
-camp started at 10AM on the first day, and since everyone was driving to
-the hotel, we met up at the 12th floor executive check-in lounge.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span
-style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;It was
-our first time having our team camp at Hatten Hotel, but we were very
+to wait.&lt;/p&gt;
+&lt;p&gt;Team camp started at 10AM on the first day, and since everyone was driving to
+the hotel, we met up at the 12th floor executive check-in lounge.&lt;/p&gt;
+&lt;p&gt;It was our first time having our team camp at Hatten Hotel, but we were very
 happy with the service. Since we had the executive rooms, we were able
 to take advantage of the executive lounge with it's free flow of coffee
 and juice, with some light snacks around 4PM in the afternoon.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span
-style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;The
-hotel WiFi was also available and pretty fast, although it was a bit
+&lt;p&gt;The hotel WiFi was also available and pretty fast, although it was a bit
 flaky at times. Each of us has a &lt;a href="http://www.yes.my/v3/personal/devices/huddle.do"&gt;YES 4G
 Huddle&lt;/a&gt;, so we managed
 to get connected (coverage wasn't an issue since Hatten is in the middle
-of the town) when the hotel WiFi was difficult to connect.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span
-style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;Food
-wasn't an issue: There were many small eateries across the street in the
+of the town) when the hotel WiFi was difficult to connect.&lt;/p&gt;
+&lt;p&gt;Food wasn't an issue: There were many small eateries across the street in the
 Dataran Pahlawan mall, and for breakfast Hatten had a breakfast plan
-included with our reservation and the spread was impressive. &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span
-style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;The
-team camp this time focused more on FullCourt, the Cloud Communications
-platform &lt;a href="http://press.marimore.co.jp/2014/07/marimore-acquiring-fullcourt.html" title="MARIMORE acquiring FullCourt"&gt;we acquired last
-July&lt;/a&gt;.
+included with our reservation and the spread was impressive.&lt;/p&gt;
+&lt;p&gt;The team camp this time focused more on FullCourt, the Cloud Communications
+platform we acquired last July.
 Discussion focused on the current status of development,
 functionalities, issues faced and also an overview of the roadmap that
-we have planned for all of our cloud services.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span
-style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;This
-meetup was also to congratulate and welcome &lt;a href="http://www.marimore.co.jp/en/ourstaff/"&gt;Aman, the new addition to
+we have planned for all of our cloud services.&lt;/p&gt;
+&lt;p&gt;This meetup was also to congratulate and welcome &lt;a href="http://www.marimore.co.jp/en/ourstaff/"&gt;Aman, the new addition to
 our team&lt;/a&gt;. Aman in mainly
 responsible for the technology transfer of FullCourt from the current
-FullCourt team.&lt;br /&gt;
-&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span
-style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;&lt;a class="asset-img-link" href="https://xoxzoblog.files.wordpress.com/2014/09/24e92-6a0153916e707f970b01b8d0692672970c-pi.jpg"&gt;&lt;img alt="2014-09-04
-12.12.07" src="https://xoxzoblog.files.wordpress.com/2014/09/24e92-6a0153916e707f970b01b8d0692672970c-pi.jpg?w=300" title="2014-09-04 12.12.07" /&gt;{.asset
-.asset-image .at-xid-6a0153916e707f970b01b8d0692672970c
-.img-responsive}&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span
-style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;^The\ engineering\ team^&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span
-style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;We
-continued our discussion in the morning of the 2nd day, and we ended the
+FullCourt team.  &lt;/p&gt;
+&lt;p&gt;&lt;img alt="2014-09-04
+12.12.07" src="http://blog.xoxzo.com/ms/images/24e92-6a0153916e707f970b01b8d0692672970c-pi.jpg" title="2014-09-04 12.12.07" /&gt;&lt;/p&gt;
+&lt;p&gt;The engineering team&lt;/p&gt;
+&lt;p&gt;We continued our discussion in the morning of the 2nd day, and we ended the
 team camp by lunch time since we wanted everyone to be home by
-dinner.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span
-style="font-family:arial, helvetica, sans-serif;font-size:10pt;"&gt;MARIMORE
-tries to do team camps a few times a year, and this time it was the
+dinner.&lt;/p&gt;
+&lt;p&gt;MARIMORE tries to do team camps a few times a year, and this time it was the
 first time we had it in Malacca. I was pretty happy with the experience,
-and will put Malacca high on top of our list.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Related articles&lt;/p&gt;
-&lt;div class="zemanta-article-ul zemanta-article-ul-image"
-style="margin:0;padding:0;overflow:hidden;"&gt;
+and will put Malacca high on top of our list.&lt;/p&gt;</summary><category term="hatten hotel"></category><category term="malacca"></category><category term="marimore"></category></entry><entry><title>株式会社MARIMOREによるFullCourt社買収について</title><link href="http://blog.xoxzo.com/ms/../ja/2014/07/01/marimore-acquiring-fullcourt/" rel="alternate"></link><published>2014-07-01T10:20:00+09:00</published><updated>2014-07-01T10:20:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2014-07-01:ms/../ja/2014/07/01/marimore-acquiring-fullcourt/</id><summary type="html">&lt;p&gt;&lt;img alt="Marimoreロゴ" src="http://blog.xoxzo.com/ms/images/marimore-logo.gif" /&gt;&lt;/p&gt;
+&lt;p&gt;株式会社MARIMOREは、FullCourt社の株式を総額非公開にて100％取得し、
+実質的にMARIMORE社がFullCourt社を傘下におくこととなったと発表した。&lt;/p&gt;
+&lt;p&gt;株式会社MARIMOREの創設者・代表取締役CEO イクバルアバドゥラからのコメント:&lt;/p&gt;
+&lt;p&gt;「メッセージサービスにとって素晴らしい相乗効果となり、ダイヤルsmsやコードコールに効果的に利用することになるであろう。
+FullCourtにある技術を持ってすれば、将来的には、我々は、現行のメッセージ送信のみならず、にわたり、
+FullCourtのサービスになくてはならないものだった。MARIMOREチームに加わることによって、FullCourtはより専門性を飛躍させて、
+さらに多くのサービスを打ち出していけることになるだろう。」&lt;/p&gt;
+&lt;p&gt;2014年7月1日より、当面の間、FullCourt社は引き続き、開発を行いながらサービスの運営・運用をMARIMORE社へ徐々に移して行き、
+堀江氏と開発チームは、時機を見て移行を行う方針だ。&lt;/p&gt;
+&lt;h3&gt;FullCourt社について：&lt;/h3&gt;
+&lt;p&gt;FullCourtは柔軟かつ強力な音声とSMS機能を開発者と企業向けに提供しています。ハードウェア設定やキャリア接続をFullCourtで行い、それら機能を柔軟なAPIからアクセス出来ます。
+FullCourtは2011年に古住崇と堀江大輔により創立されました。2012年11月に古住崇が他界した後、チャールズ・アボットをパートナーとして迎えて活動を続けています。&lt;/p&gt;
+&lt;p&gt;今回の買収の前に主に技術提携を行って来ましたシンガポール法人のFullCourt Pte.
+Ltd.はすべての保有技術・ナレッジ・資産を日本法人のFullCourt社に引き継いだ後に解散となる予定。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Fcmamo-shake" src="http://blog.xoxzo.com/ms/images/fcmamo-shake.png" title="Fcmamo-shake" /&gt;&lt;/p&gt;
+&lt;p&gt;DiceとIqbalの買収契約締結後の写真&lt;/p&gt;
+&lt;p&gt;【株式会社MARIMOREについて】&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Marimoreロゴ" src="http://blog.xoxzo.com/ms/images/marimore-logo.gif" /&gt;&lt;/p&gt;
+&lt;p&gt;MARIMOREは、2007年2月に設立以来SMS技術を中心に自社サービスを開発、運営をしています。「&lt;strong&gt;継続改善&lt;/strong&gt;」をキーワードにしてお客様のニーズを満たすサービスを目指しています。&lt;/p&gt;
+&lt;p&gt;住所：
+〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F
+代表： 代表取締役　イクバル・アバドゥラ
+設立： 2007年2月&lt;/p&gt;</summary><category term="m&amp;a"></category><category term="音声API"></category><category term="買収"></category><category term="fullcourt"></category><category term="ivr"></category><category term="marimore"></category><category term="sms"></category></entry><entry><title>MARIMORE acquiring FullCourt</title><link href="http://blog.xoxzo.com/ms/marimore-acquiring-fullcourt-en.html" rel="alternate"></link><published>2014-07-01T10:15:00+09:00</published><updated>2014-07-01T10:15:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2014-07-01:ms/marimore-acquiring-fullcourt-en.html</id><summary type="html">&lt;p&gt;&lt;img alt="Marimoreロゴ" src="http://blog.xoxzo.com/ms/images/marimore-logo.gif" /&gt;&lt;/p&gt;
+&lt;p&gt;MARIMORE Inc announced that is has acquired 100% stocks of FullCourt Inc
+for an undisclosed sum, effectively putting Fullcourt Inc as a
+subsidiary of MARIMORE.&lt;/p&gt;
+&lt;p&gt;Comment from Iqbal Abdullah, Founder and CEO of MARIMORE:&lt;/p&gt;
+&lt;p&gt;"FullCourt's innovative service on telephony API is a great synergy for our messaging
+services, where we will effectively use them for our DialSMS and
+CodeCall services. Going forward, with the technology that FullCourt
+has, we will not only offer messaging but also telephony and will make
+it more reachable and usable to a larger audience."&lt;/p&gt;
+&lt;p&gt;Comment from Daisuke Don Horie, Co-founder and CEO of Fullcourt:&lt;/p&gt;
+&lt;p&gt;"MARIMORE has been an integral part to FullCourt's service offerings for close to
+two years now. By joining the Marimore team, FullCourt will be able to
+leverage their expertise, and release even more services."&lt;/p&gt;
+&lt;p&gt;Starting from 1st of July 2014, FullCourt will begin to transition it's
+operations to MARIMORE. Fullcourt's headquarters will be moved
+to Taito-ku but FullCourt will maintain and continue to develop
+it's innovative services. Dice and his team is planned to
+gradually transition out after a period of time determined at a later
+date.&lt;/p&gt;
+&lt;h3&gt;About Fullcourt:&lt;/h3&gt;
+&lt;p&gt;FullCourt brings powerful Voice and SMS solutions to developers and business
+owners without the complexity. FullCourt has already set up a hardware
+and telecommunications connections and have wrapped them with a flexible
+API for developers.&lt;/p&gt;
+&lt;p&gt;FullCourt was founded by Takashi Kosumi and Daisuke Horie in 2011 to bring
+powerful and flexible telecommunications solutions to East and Southeast
+Asia. After Takashi passed away in November of 2011, the torch was
+passed on and FullCourt continues now under the partnership of Charles
+and Daisuke.&lt;/p&gt;
+&lt;p&gt;FullCourt comprised of FullCourt Pte. Ltd, a Singapore entity as the original
+owners of the FullCourt technology and FullCourt Inc, the marketing and
+sales arm within Japan.&lt;/p&gt;
+&lt;p&gt;Prior to the acquisition, all rights to ownership of technology and all assets
+was passed to FullCourt Inc. in Japan, with FullCourt Pte.Ltd to be
+dissolved.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Fcmamo-shake" src="http://blog.xoxzo.com/ms/images/fcmamo-shake.png" title="Fcmamo-shake" /&gt;&lt;/p&gt;
+&lt;p&gt;Dice and Iqbal after the purchase agreement.&lt;/p&gt;
+&lt;p&gt;About MARIMORE Inc:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Marimoreロゴ" src="http://blog.xoxzo.com/ms/images/marimore-logo.gif" /&gt;&lt;/p&gt;
+&lt;p&gt;MARIMORE was founded in Feb 2007 and has developed and maintained it's own
+services. With the keyword of "continous improvement" it aims to fulfill
+the needs of it's customers.&lt;/p&gt;
+&lt;p&gt;Address: Matsuura Bldg 5F, 1-9-4 Taito, Taito-ku, Tokyo, JAPAN&lt;br /&gt;
+CEO: Iqbal Abdullah&lt;br /&gt;
+Founded: Feb 2007&lt;br /&gt;
+URL: &lt;a href="http://www.marimore.co.jp/en/"&gt;http://www.marimore.co.jp/en/&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</summary><category term="fullcourt"></category><category term="ivr"></category><category term="m&amp;a"></category><category term="marimore"></category><category term="voice and sms api"></category></entry><entry><title>アドパートナーが提供するECサイトの会員に対するSMS配信はEZSMS利用</title><link href="http://blog.xoxzo.com/ms/adpartner-ezsms-usecase-ja.html" rel="alternate"></link><published>2014-01-22T14:44:00+09:00</published><updated>2014-01-22T14:44:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2014-01-22:ms/adpartner-ezsms-usecase-ja.html</id><summary type="html">&lt;p&gt;電話登録している会員様の携帯電話にショートメッセージ配信は&lt;a href="https://info.xoxzo.com/ja/" title="株式会社Xoxzo"&gt;株式会社Xoxzo&lt;/a&gt;（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）が運営する&lt;a href="https://www.ezsms.biz/ja/" title="SMS配信サービス「EZSMS」"&gt;SMS（ショートメッセージ）配信サービス「EZSMS」&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;以下は担当者からのコメントです。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;APIの利用で簡単に利用でき、他のサービスより低価格で利用できるところ&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;【株式会社アドパートナーについて 】&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.add-partner.com/company.html"&gt;&lt;img alt="AdPartner" src="http://blog.xoxzo.com/ms/images/client-logos/adpartner.jpg" title="AdPartner" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;住所： 〒581-0037　大阪府八尾市太田5-119　2F
+代表： 代表取締役　佐野 元
+設立： 平成18年10月2日
+URL ： http://www.add-partner.com/company.html&lt;/p&gt;
+&lt;p&gt;【株式会社Xoxzoについて】&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Xoxzoロゴ" src="http://blog.xoxzo.com/ms/images/xoxzo-logo-02.png" /&gt;&lt;/p&gt;
+&lt;p&gt;XoxzoはSMS技術を中心に自社サービスを開発、運営をしています。「&lt;strong&gt;継続改善&lt;/strong&gt;」をキーワードにしてお客様のニーズを満たすサービスを目指しています。&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F
+代表： 代表取締役　イクバル・アバドゥラ
+設立： 2007年2月
+URL ： &lt;a href="https://info.xoxzo.com/"&gt;https://info.xoxzo.com/&lt;/a&gt;&lt;/p&gt;</summary><category term="ショートメッセージ"></category><category term="ECサイト"></category><category term="ezsms"></category><category term="sms"></category><category term="携帯電話"></category></entry><entry><title>株式会社モエゲームが、EZSMSを利用した電話番号認証 システムを導入</title><link href="http://blog.xoxzo.com/ms/moegame-ezsms-usecase-ja.html" rel="alternate"></link><published>2013-07-03T16:27:00+09:00</published><updated>2013-07-03T16:27:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2013-07-03:ms/moegame-ezsms-usecase-ja.html</id><summary type="html">&lt;p&gt;&lt;a href="http://moegame.co.jp/"&gt;株式会社モエゲーム&lt;/a&gt;、(本社:大阪府中央区、代表取締役
+岡本光平)は、この度&lt;a href="https://info.xoxzo.com/ja/"&gt;株式会社Xoxzo&lt;/a&gt;（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）運営するSMS（ショートメッセージ）&lt;a href="http://www.ezsms.biz/ja"&gt;配信APIサービス「EZSMS」&lt;/a&gt;を導入しました。&lt;/p&gt;
+&lt;p&gt;以下は株式会社モエゲーム担当者からのコメントです。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;弊社は『モエゲーム』というSNSを運営しております。この度、ユーザー様に安
+心して遊んでいただける様にEZSMSを利用した電話番号認証 システムを導入いた
+しました。EZSMSは他サービスに比べて低価格で利用でき、導入もスムーズに行
+えた為、大変満足しております&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;【株式会社モエゲームについて】&lt;/p&gt;
+&lt;p&gt;&lt;img alt="モエゲームロゴ" src="http://blog.xoxzo.com/ms/images/client-logos/moegame.gif" title="モエゲームロゴ" /&gt;&lt;/p&gt;
+&lt;p&gt;住所：大阪府中央区安土町2-3-13大阪国際ビルディング 31階
+代表： 代表取締役 岡本光平
+設立： 2012年1月10日
+URL ：&lt;a href="http://moegame.co.jp/"&gt;http://moegame.co.jp/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【株式会社Xoxzoについて】&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Xoxzoロゴ" src="http://blog.xoxzo.com/ms/images/xoxzo-logo-02.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Xoxzoは、2007年2月に設立以来SMS技術を中心に自社サービスを開発、運営をしています。「&lt;strong&gt;継続改善&lt;/strong&gt;」をキーワードにしてお客様のニーズを満たすサービスを目指しています。&lt;/p&gt;
+&lt;p&gt;住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F&lt;br /&gt;
+代表： 代表取締役　イクバル・アバドゥラ&lt;br /&gt;
+設立： 2007年2月&lt;br /&gt;
+URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/a&gt;&lt;/p&gt;</summary><category term="プレスリリース"></category><category term="ezsms"></category><category term="smsのapi配信"></category><category term="認証"></category></entry><entry><title>プライバシーマーク取得のお知らせ</title><link href="http://blog.xoxzo.com/ms/privacymark-marimore-2013-ja.html" rel="alternate"></link><published>2013-06-13T11:00:00+09:00</published><updated>2013-06-13T11:00:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2013-06-13:ms/privacymark-marimore-2013-ja.html</id><summary type="html">&lt;p&gt;会社MARIMORE（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）は、2013年5月23日付けで、一般財団法人日本情報経済社会推進協会（JIPDEC）から、「&lt;a href="http://privacymark.jp/privacy_mark/about/outline_and_purpose.html" title="プライバシーマークとは"&gt;プライバシーマーク&lt;/a&gt;」認定を取得いたしましたので、お知らせ致します。&lt;br /&gt;
+&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="2013-06-12 12.33.52" src="http://blog.xoxzo.com/ms/images/privacy-mark/p-mark-cert-2013.jpg" title="2013-06-12 12.33.52" /&gt;&lt;/p&gt;
+&lt;p&gt;スタートアップ、中小企業だけではなく、個人情報特大切に取り扱っている上場企業も弊社サービスをご利用いらだいてる中で弊社は今後とも、プライバシーマーク認定事業者として、個人情報の重要性を認識し、その適切な管理・運営を徹底してまいります。&lt;/p&gt;
+&lt;p&gt;弊社の個人情報保護方針は&lt;a href="http://info.xoxzo.com/ja/privacy-policy/" title="Xoxzoの個人情報保護方針"&gt;こちら&lt;/a&gt;です。  &lt;/p&gt;
+&lt;p&gt;【株式会社MARIMOREについて】&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Marimoreロゴ" src="http://blog.xoxzo.com/ms/images/marimore-logo.gif" /&gt;&lt;/p&gt;
+&lt;p&gt;MARIMOREは、2007年2月に設立以来SMS技術を中心に自社サービスを開発、運営をしています。「&lt;strong&gt;継続改善&lt;/strong&gt;」をキーワードにしてお客様のニーズを満たすサービスを目指しています。&lt;/p&gt;
+&lt;p&gt;住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F
+代表： 代表取締役　イクバル・アバドゥラ
+設立： 2007年2月
+URL ： &lt;a href="https://info.xoxzo.com/"&gt;https://info.xoxzo.com/&lt;/a&gt;&lt;/p&gt;</summary><category term="プライバシーマーク"></category><category term="認定"></category><category term="pマーク"></category><category term="個人情報"></category></entry><entry><title>和解による訴訟の取下げに関するお知らせ</title><link href="http://blog.xoxzo.com/ms/patent-lawsuit-action-resolved-ja.html" rel="alternate"></link><published>2013-03-07T10:00:00+09:00</published><updated>2013-03-07T10:00:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2013-03-07:ms/patent-lawsuit-action-resolved-ja.html</id><summary type="html">&lt;p&gt;当社は2012-12-28日付「&lt;a href="http://blog.xoxzo.com/ms/patent-lawsuit-action-ja.html"&gt;特許侵害訴訟の提起について（特許第4889813号
+）&lt;/a&gt;」にてお知らせしましたとおり、
+株式会社メディアネットワークサービス（以下MNS社）に対し、SMS配信API技術の使用行為の中止とともに、
+損害賠償を求める訴訟（以下「本件訴訟」といいます。）を東京地方裁判所に提起しましたが、当社とMNS社の間で協議を行い訴訟外で和解が成立したため、2013-03-6日付けで本件訴訟を取り下げました。&lt;/p&gt;
+&lt;p&gt;この度お知らせいたします。&lt;/p&gt;</summary><category term="API"></category><category term="ショートメッセージ"></category><category term="プレスリリース"></category><category term="特許"></category><category term="訴訟"></category><category term="SMS"></category><category term="和解"></category></entry><entry><title>特許侵害訴訟の提起について（特許第4889813号 ）</title><link href="http://blog.xoxzo.com/ms/patent-lawsuit-action-ja.html" rel="alternate"></link><published>2012-12-28T20:00:00+09:00</published><updated>2012-12-28T20:00:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2012-12-28:ms/patent-lawsuit-action-ja.html</id><summary type="html">&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;株式会社MARIMORE（代表：イクバル・アバドゥラ、東京都台東区）は、2012年12月28日、
+株式会社メディアネットワークサービス（東京都渋谷区、以下MNS社）に対して、東京地方裁判所に
+特許侵害訴訟を提起いたしました（特許第4889813号）。
 
-&lt;div class="zemanta-article-ul-li-image zemanta-article-ul-li"
-style="padding:0;background:none;list-style:none;display:block;float:left;vertical-align:top;text-align:left;width:84px;font-size:11px;margin:2px 10px 10px 2px;"&gt;
+当社はこの訴訟で、SMS配信API技術に関する侵害行為の停止とともに、損害賠償を求めています。
 
-[![](http://i.zemanta.com/282082733_80_80.jpg)](http://press.marimore.co.jp/2014/07/marimore-acquiring-fullcourt.html)[MARIMORE
-acquiring
-FullCourt](http://press.marimore.co.jp/2014/07/marimore-acquiring-fullcourt.html)
+当社は、2007年からショートメッセージ配信（SMS）サービスを開始し、様々なユースケースに
+対応可能なAPIの研究開発に尽力して参りました。得られた知的財産権は当社の重要な
+経営資産であり、それらを活用することによってお客様のご要望にお応えするサービスの継続的な提供が
+可能となっております。
 
-&lt;/div&gt;
+当社といたしましては交渉による解決を図るべくこれまでMNS社と協議を行ってまいりましたが、
+残念ながら解決するに至らず、やむを得ず提訴することとなったものです。
 
-&lt;/div&gt;</summary><category term="hatten hotel"></category><category term="malacca"></category><category term="MARIMORE"></category></entry><entry><title>Verify SPF using PySPF module</title><link href="http://devblog.xoxzo.com/ms/verify-spf-using-pyspf-module.html" rel="alternate"></link><published>2012-12-03T06:34:00+09:00</published><updated>2012-12-03T06:34:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2012-12-03:ms/verify-spf-using-pyspf-module.html</id><summary type="html">&lt;p&gt;We deals with email a lot and one thing with handling email is to verify
-where&lt;br /&gt;
-it come from. We must make sure when we receive email from
-someone@gmail.com,&lt;br /&gt;
-it really was sent from gmail.com server, not from someone else email
-server. &lt;a href="https://en.wikipedia.org/wiki/Sender_Policy_Framework"&gt;SPF or Sender Policy
-Framework&lt;/a&gt; is
-what being used for that. For all our&lt;br /&gt;
-apps, we used &lt;code&gt;libspf&lt;/code&gt; which we wrapped into a convenience python
-extension&lt;br /&gt;
-that can be used across projects. As time goes by, we want to start&lt;br /&gt;
-depreciating all our C code and move everything (hopefully) to Python.&lt;/p&gt;
+なお、この訴訟提起による弊社のサービスへの影響はございません。
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;アップデート&lt;/p&gt;
+&lt;p&gt;本件訴訟は和解により2013-03-06日付で取り下げしましたので、
+&lt;a href="http://blog.xoxzo.com/ms/patent-lawsuit-action-resolved-ja.html"&gt;こちら&lt;/a&gt;でお知らせいたします。&lt;/p&gt;</summary><category term="ショートメッセージ"></category><category term="メディアネットワークサービス"></category><category term="特許"></category><category term="EZSMS"></category><category term="訴訟"></category><category term="wing-sms"></category></entry><entry><title>Verify SPF using PySPF module</title><link href="http://blog.xoxzo.com/ms/verify-spf-using-pyspf-module-en.html" rel="alternate"></link><published>2012-12-03T06:34:00+09:00</published><updated>2012-12-03T06:34:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2012-12-03:ms/verify-spf-using-pyspf-module-en.html</id><summary type="html">&lt;p&gt;We deals with email a lot and one thing with handling email is to verify
+where it come from. We must make sure when we receive email from
+someone@gmail.com, it really was sent from gmail.com server, not from someone
+else email server. &lt;a href="https://en.wikipedia.org/wiki/Sender_Policy_Framework"&gt;SPF or Sender Policy Framework&lt;/a&gt; is
+what being used for that. For all our apps, we used &lt;code&gt;libspf&lt;/code&gt; which we
+wrapped into a convenience python extension that can be used across projects.
+As time goes by, we want to start depreciating all our C code and move
+everything (hopefully) to Python.&lt;/p&gt;
 &lt;p&gt;There's a Python module called &lt;code&gt;pyspf&lt;/code&gt;. It look like what we're looking
-for&lt;br /&gt;
-although the documentation seem to suggest that it part of bigger module
-called&lt;br /&gt;
-&lt;code&gt;pymilter&lt;/code&gt;. I can't find any documentation showing how to use only the
-SPF&lt;br /&gt;
-checking utility (if it has one) and after digging through the &lt;a href="http://pymilter.cvs.sourceforge.net/viewvc/pymilter/pyspf/spf.py?view=markup"&gt;source
+for although the documentation seem to suggest that it part of bigger module
+called &lt;code&gt;pymilter&lt;/code&gt;. I can't find any documentation showing how to use only the
+SPF checking utility (if it has one) and after digging through the &lt;a href="http://pymilter.cvs.sourceforge.net/viewvc/pymilter/pyspf/spf.py?view=markup"&gt;source
 code&lt;/a&gt;,
-I&lt;br /&gt;
-found out the function that we need. It exists as &lt;code&gt;spf.check2()&lt;/code&gt;
-function.&lt;/p&gt;
+I found out the function that we need. It exists as &lt;code&gt;spf.check2()&lt;/code&gt; function.&lt;/p&gt;
 &lt;p&gt;In order to use &lt;code&gt;pyspf&lt;/code&gt; we also need it dependency which called &lt;code&gt;pydns&lt;/code&gt;.
-The&lt;br /&gt;
-following command should cover us well:-&lt;/p&gt;
+The following command should cover us well:-&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;easy_install pyspf
 easy_install pydns
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;p&gt;The module then available for import under the name &lt;code&gt;spf&lt;/code&gt;. You can
-import it&lt;br /&gt;
-like below:-&lt;/p&gt;
+import it like below:-&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;spf&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
@@ -897,8 +1036,7 @@ like below:-&lt;/p&gt;
 
 
 &lt;p&gt;where &lt;code&gt;i&lt;/code&gt; for ip address, &lt;code&gt;s&lt;/code&gt; for the sender email address, and &lt;code&gt;h&lt;/code&gt; for
-the&lt;br /&gt;
-email address domain part. So we can do our check for example as:-&lt;/p&gt;
+the email address domain part. So we can do our check for example as:-&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&amp;gt;&amp;gt;&amp;gt; spf.check2(&amp;#39;180.73.166.174&amp;#39;, &amp;#39;someone@gmail.com&amp;#39;, &amp;#39;gmail.com&amp;#39;)
 (&amp;#39;neutral&amp;#39;, &amp;#39;access neither permitted nor denied&amp;#39;)
 &lt;/pre&gt;&lt;/div&gt;
@@ -907,10 +1045,8 @@ email address domain part. So we can do our check for example as:-&lt;/p&gt;
 &lt;p&gt;The return value would be in form &lt;code&gt;result, explanation&lt;/code&gt; which is a
 tuple. &lt;code&gt;result&lt;/code&gt; can either be 'pass', 'fail', 'permerror', 'temperror',
 'softfail', 'none' or 'neutral'. We run side by side test with our
-existing spf function&lt;br /&gt;
-and the result seem to match so we're quite confident this function is
-what&lt;br /&gt;
-we're looking for. Now it less one C code that we have to maintain.&lt;/p&gt;</summary><category term="dns"></category><category term="email"></category><category term="spf"></category></entry><entry><title>Django transaction.commit_manually wrapper</title><link href="http://devblog.xoxzo.com/ms/django-transactioncommit_manually-wrapper.html" rel="alternate"></link><published>2012-08-27T09:02:00+09:00</published><updated>2012-08-27T09:02:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2012-08-27:ms/django-transactioncommit_manually-wrapper.html</id><summary type="html">&lt;p&gt;I first &lt;a href="http://metaKamal%20Mustafa.blogspot.com/2011/05/django-transactioncommitmanually-mask.html"&gt;encountered this
+existing spf function and the result seem to match so we're quite confident
+this function is what we're looking for. Now it less one C code that we have to maintain.&lt;/p&gt;</summary><category term="dns"></category><category term="email"></category><category term="spf"></category></entry><entry><title>Django transaction.commit_manually wrapper</title><link href="http://blog.xoxzo.com/ms/2012/08/27/django-transactioncommit_manually-wrapper/" rel="alternate"></link><published>2012-08-27T09:02:00+09:00</published><updated>2012-08-27T09:02:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2012-08-27:ms/2012/08/27/django-transactioncommit_manually-wrapper/</id><summary type="html">&lt;p&gt;I first &lt;a href="http://metaKamal%20Mustafa.blogspot.com/2011/05/django-transactioncommitmanually-mask.html"&gt;encountered this
 problem&lt;/a&gt;
 1 year ago and it look's like the issue still not being fixed till now.
 The &lt;a href="https://code.djangoproject.com/ticket/6623"&gt;corresponding ticket&lt;/a&gt;
@@ -938,14 +1074,13 @@ of the original decorator.&lt;/p&gt;
 &lt;p&gt;I have also update the patch in the
 &lt;a href="https://code.djangoproject.com/ticket/6623"&gt;ticket&lt;/a&gt; to apply cleanly to
 current django trunk but so far no feedback yet from django core
-developers.&lt;/p&gt;</summary><category term="django"></category></entry><entry><title>Database Transaction in Django</title><link href="http://devblog.xoxzo.com/ms/database-transaction-in-django.html" rel="alternate"></link><published>2012-06-21T07:54:00+09:00</published><updated>2012-06-21T07:54:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2012-06-21:ms/database-transaction-in-django.html</id><summary type="html">&lt;p&gt;Keep forgetting about this so this is to wrap my heads around it. First
+developers.&lt;/p&gt;</summary><category term="django"></category></entry><entry><title>Database Transaction in Django</title><link href="http://blog.xoxzo.com/ms/2012/06/21/database-transaction-in-django/" rel="alternate"></link><published>2012-06-21T07:54:00+09:00</published><updated>2012-06-21T07:54:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2012-06-21:ms/2012/06/21/database-transaction-in-django/</id><summary type="html">&lt;p&gt;Keep forgetting about this so this is to wrap my heads around it. First
 I have&lt;br /&gt;
 the impression that Django by default execute database operations within
 a&lt;br /&gt;
 transaction block, which is the source of my confusion. It's true only
 to&lt;br /&gt;
-certain extent. The &lt;a href="https://docs.djangoproject.com/en/1.3/topics/db/transactions/"&gt;first section in django
-documentation&lt;/a&gt;
+certain extent. The &lt;a href="https://docs.djangoproject.com/en/1.3/topics/db/transactions/"&gt;first section in django documentation&lt;/a&gt;
 already explained&lt;br /&gt;
 this (emphasized is mine):-&lt;/p&gt;
 &lt;blockquote&gt;
@@ -993,12 +1128,10 @@ transaction.rollback()
 def main():
 step1()
 main()
-&lt;/pre&gt;&lt;/div&gt;</summary><category term="django"></category><category term="Python"></category><category term="transaction"></category></entry><entry><title>PyCon APAC 2012</title><link href="http://devblog.xoxzo.com/ms/pycon-apac-2012.html" rel="alternate"></link><published>2012-06-12T20:12:00+09:00</published><updated>2012-06-12T20:12:00+09:00</updated><author><name>xoxzoblog</name></author><id>tag:devblog.xoxzo.com,2012-06-12:ms/pycon-apac-2012.html</id><summary type="html">&lt;p&gt;PyCon APAC 2012 that was held on June 7th - 9th is over. Attended by all
+&lt;/pre&gt;&lt;/div&gt;</summary><category term="django"></category><category term="python"></category><category term="transaction"></category></entry><entry><title>PyCon APAC 2012</title><link href="http://blog.xoxzo.com/ms/pycon-apac-2012-en.html" rel="alternate"></link><published>2012-06-12T20:12:00+09:00</published><updated>2012-06-12T20:12:00+09:00</updated><author><name>Muhammad Juwaini</name></author><id>tag:blog.xoxzo.com,2012-06-12:ms/pycon-apac-2012-en.html</id><summary type="html">&lt;p&gt;PyCon APAC 2012 that was held on June 7th - 9th is over. Attended by all
 kinds of people from many parts of the world. It was a lovely and an eye
 opening experience.&lt;/p&gt;
-&lt;p&gt;&lt;a class="asset-img-link" href="https://xoxzoblog.files.wordpress.com/2012/06/ff4e8-6a0153916e707f970b0167676601ea970b-pi.jpg"&gt;&lt;img alt="IMG00356" src="https://xoxzoblog.files.wordpress.com/2012/06/ff4e8-6a0153916e707f970b0167676601ea970b-pi.jpg" title="IMG00356" /&gt;{.asset
-.asset-image .at-xid-6a0153916e707f970b0167676601ea970b
-.image-full}&lt;/a&gt;The
+&lt;p&gt;&lt;img alt="IMG00356" src="http://blog.xoxzo.com/ms/images/pycon-apac-2012/ff4e8-6a0153916e707f970b0167676601ea970b-pi.jpg" title="IMG00356" /&gt;
 Marimore team attended the conference and gave a few talk (lightning
 talk included) on various topics. Kamal gave a talk titled Python/Django
 for PHP Developers which cause quite a stir among the attendees as two
@@ -1008,9 +1141,7 @@ audience accompanied by some difficulties with LibreOffice Impress
 (which does not seem to want to maximize to full screen). Nevertheless
 its quite an experience and there will always be a room for
 improvement. &lt;/p&gt;
-&lt;p&gt;&lt;a class="asset-img-link" href="https://xoxzoblog.files.wordpress.com/2012/06/01c8b-6a0153916e707f970b0176155b84da970c-pi.jpg"&gt;&lt;img alt="IMG00358" src="https://xoxzoblog.files.wordpress.com/2012/06/01c8b-6a0153916e707f970b0176155b84da970c-pi.jpg" title="IMG00358" /&gt;{.asset
-.asset-image .at-xid-6a0153916e707f970b0176155b84da970c
-.image-full}&lt;/a&gt;Most
+&lt;p&gt;&lt;img alt="IMG00358" src="http://blog.xoxzo.com/ms/images/pycon-apac-2012/01c8b-6a0153916e707f970b0176155b84da970c-pi.jpg" title="IMG00358" /&gt;
 of the talks are great, but a few that really interest me is Diversity
 as a Dependency (Anna Ravenscroft), Relational Database Access with
 Python 'sans' ORM (Mark Rees). I've attended Mr Rees's talk on several
@@ -1031,7 +1162,7 @@ programming challenge, it was tough, me and several others only managed
 to solve 1 question in 10 minutes (1st place answers all 10 questions in
 that amount of time). &lt;/p&gt;
 &lt;p&gt;Hopefully on the next PyCon, it could be better with more interesting
-topics and speakers, and more food delicious food of course.&lt;/p&gt;</summary></entry><entry><title>Django: Where does settings belong ?</title><link href="http://devblog.xoxzo.com/ms/django-where-does-settings-belong.html" rel="alternate"></link><published>2012-05-23T20:07:00+09:00</published><updated>2012-05-23T20:07:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2012-05-23:ms/django-where-does-settings-belong.html</id><summary type="html">&lt;p&gt;Settings is very central to all Django applications. Django even barf if
+topics and speakers, and more food delicious food of course.&lt;/p&gt;</summary><category term="django"></category><category term="pycon"></category><category term="python"></category></entry><entry><title>Django: Where does settings belong ?</title><link href="http://blog.xoxzo.com/ms/2012/05/23/django-where-does-settings-belong/" rel="alternate"></link><published>2012-05-23T20:07:00+09:00</published><updated>2012-05-23T20:07:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2012-05-23:ms/2012/05/23/django-where-does-settings-belong/</id><summary type="html">&lt;p&gt;Settings is very central to all Django applications. Django even barf if
 you&lt;br /&gt;
 don't supply one and import any django modules or functions (most of
 it). The&lt;br /&gt;
@@ -1170,7 +1301,7 @@ into global namespace. The settings now also look truely external to
 the&lt;br /&gt;
 application. This has getting quite long but still the question
 remained&lt;br /&gt;
-unanswered, where should we put the settings file ?&lt;/p&gt;</summary><category term="django"></category><category term="Python"></category></entry><entry><title>PHP execution model vs Python web</title><link href="http://devblog.xoxzo.com/ms/php-execution-model-vs-python-web.html" rel="alternate"></link><published>2012-05-02T16:48:00+09:00</published><updated>2012-05-02T16:48:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2012-05-02:ms/php-execution-model-vs-python-web.html</id><summary type="html">&lt;p&gt;We're still looking for a better way to explain the difference between
+unanswered, where should we put the settings file ?&lt;/p&gt;</summary><category term="django"></category><category term="Python"></category></entry><entry><title>PHP execution model vs Python web</title><link href="http://blog.xoxzo.com/ms/php-execution-model-vs-python-web-en.html" rel="alternate"></link><published>2012-05-02T16:48:00+09:00</published><updated>2012-05-02T16:48:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2012-05-02:ms/php-execution-model-vs-python-web-en.html</id><summary type="html">&lt;p&gt;We're still looking for a better way to explain the difference between
 PHP execution model vs Python for web application to new developers
 joining us. This is to help them understand the key differences when
 developing web application in Python. One source of confusion among them
@@ -1178,14 +1309,7 @@ was when they realized the state-full nature of Python web application
 compared to state-less nature of PHP. The following diagram is my
 attempt to show them these key difference.&lt;/p&gt;
 &lt;h2&gt;PHP&lt;/h2&gt;
-&lt;div align="center"&gt;
-
-[![Php](https://xoxzoblog.files.wordpress.com/2012/05/5e422-6a0153916e707f970b0168eaaad5df970c-pi.png?w=271 "Php"){.asset
-.asset-image
-.at-xid-6a0153916e707f970b0168eaaad5df970c}](https://xoxzoblog.files.wordpress.com/2012/05/5e422-6a0153916e707f970b0168eaaad5df970c-pi.png){.asset-img-link}
-
-&lt;/div&gt;
-
+&lt;p&gt;&lt;img alt="Php" src="http://blog.xoxzo.com/ms/images/5e422-6a0153916e707f970b0168eaaad5df970c-pi.png" /&gt;&lt;/p&gt;
 &lt;p&gt;PHP execution model is quite simple actually and follow a cgi-like
 model. It simply take the php file as it's input, parse and interpret it
 and then return what ever output the script produced, pass it back to
@@ -1197,14 +1321,7 @@ need to invoke PHP interpreter for each requests.&lt;/p&gt;
 interpreter and it does not know anything about our application. This
 make PHP a state-less environment.&lt;/p&gt;
 &lt;h2&gt;Python&lt;/h2&gt;
-&lt;div align="center"&gt;
-
-[![Python](https://xoxzoblog.files.wordpress.com/2012/05/7c5e7-6a0153916e707f970b016765b4178f970b-pi.png?w=216 "Python"){.asset
-.asset-image
-.at-xid-6a0153916e707f970b016765b4178f970b}](https://xoxzoblog.files.wordpress.com/2012/05/7c5e7-6a0153916e707f970b016765b4178f970b-pi.png){.asset-img-link}
-
-&lt;/div&gt;
-
+&lt;p&gt;&lt;img alt="Python" src="http://blog.xoxzo.com/ms/images/7c5e7-6a0153916e707f970b016765b4178f970b-pi.png" /&gt;&lt;/p&gt;
 &lt;p&gt;In Python/Django execution model, our app always running as part of the
 server process (although probably as separate user) and only the views
 function/callable that will be executed on each request. This mean some
@@ -1255,88 +1372,34 @@ developers to keep up fast in Python web development. Related reading
 that help me a lot in understanding the difference between PHP and
 Python web execution model is a blog post by Ian Bicking few years ago -
 &lt;a href="http://blog.ianbicking.org/2008/01/12/what-php-deployment-gets-right/"&gt;What PHP Deployment Gets
-Right&lt;/a&gt;.&lt;/p&gt;</summary><category term="php"></category><category term="Python"></category></entry><entry><title>Supporting HTML5 features in browsers using polyfill</title><link href="http://devblog.xoxzo.com/ms/polyfilling-the-future.html" rel="alternate"></link><published>2012-04-23T11:23:00+09:00</published><updated>2012-04-23T11:23:00+09:00</updated><author><name>xoxzoblog</name></author><id>tag:devblog.xoxzo.com,2012-04-23:ms/polyfilling-the-future.html</id><summary type="html">&lt;div&gt;
-
-**What is polyfill?**
-
-&lt;/div&gt;
-
-&lt;div&gt;
-
-A polyfill or polyfiller is code designed to provide technology that is
+Right&lt;/a&gt;.&lt;/p&gt;</summary><category term="php"></category><category term="python"></category></entry><entry><title>Supporting HTML5 features in browsers using polyfill</title><link href="http://blog.xoxzo.com/ms/2012/04/23/polyfilling-the-future/" rel="alternate"></link><published>2012-04-23T11:23:00+09:00</published><updated>2012-04-23T11:23:00+09:00</updated><author><name>Muhammad Juwaini</name></author><id>tag:blog.xoxzo.com,2012-04-23:ms/2012/04/23/polyfilling-the-future/</id><summary type="html">&lt;p&gt;What is polyfill?&lt;/p&gt;
+&lt;h6&gt;&lt;/h6&gt;
+&lt;p&gt;A polyfill or polyfiller is code designed to provide technology that is
 not native to a web browser. For example, earlier versions of Internet
 Explorer do not support all the features of HTML5 which may necessitate
 the use of polyfills to display features of HTML5 which are not
-supported by the web browser.
-
-&lt;/div&gt;
-
-&lt;div&gt;
-
-&lt;div&gt;
-
-**What does it mean?**
-
-&lt;/div&gt;
-
-&lt;div&gt;
-
-If you use &amp;lt;audio&amp;gt; tag for certain filetypes (for example, an mp3
-file), there are some browser that do not supports it.[^\[1\]^](anchor1)
+supported by the web browser.&lt;/p&gt;
+&lt;p&gt;What does it mean?&lt;/p&gt;
+&lt;h6&gt;&lt;/h6&gt;
+&lt;p&gt;If you use &amp;lt;audio&amp;gt; tag for certain filetypes (for example, an mp3
+file), there are some browser that do not supports it.&lt;a href="anchor1"&gt;^[1]^&lt;/a&gt;
 What does it needs to be done if we want to play an mp3 file on Firefox
 3.6? Well, we can use a flash audio player for instance or we could
 provide other compatible files. The latter is not preferable for it
 requires a lot of space and processing power. We'd have to convert every
 single file that are not supported by browsers to a format it supports.
 Polyfills provide a fallback for this type of
-situations.[^\[2\]^](anchor2)
-
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;div&gt;
-
-&lt;div&gt;
-
-**How Do We Check A Feature Is In A Browser?**
-
-&lt;/div&gt;
-
-&lt;div&gt;
-
-Check out &lt;http://html5readiness.com/&gt; to view the readiness of a
-browser to a specific HTML5 feature. 
-
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;&lt;a class="asset-img-link" href="https://xoxzoblog.files.wordpress.com/2012/04/860d2-6a0153916e707f970b0168ea921382970c-pi.jpg"&gt;&lt;img alt="Capture4-23-2012-6.41.10
-AM" src="https://xoxzoblog.files.wordpress.com/2012/04/860d2-6a0153916e707f970b0168ea921382970c-pi.jpg" title="Capture4-23-2012-6.41.10 AM" /&gt;{.asset
-.asset-image .at-xid-6a0153916e707f970b0168ea921382970c
-.image-full}&lt;/a&gt;&lt;/p&gt;
-&lt;div&gt;
-
-&lt;div&gt;
-
-**But How Do We Check It In Code?**
-
-&lt;/div&gt;
-
-&lt;div&gt;
-
-To check it in code, we could use Modernizr to detect if a specific
-feature is in the browser. &lt;http://modernizr.com/docs/#features-css&gt;
-
-&lt;/div&gt;
-
-&lt;div&gt;
-
-For example,
-
-&lt;/div&gt;
-
+situations.&lt;a href="anchor2"&gt;^[2]^&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;How Do We Check A Feature Is In A Browser?&lt;/p&gt;
+&lt;h6&gt;&lt;/h6&gt;
+&lt;p&gt;Check out &lt;a href="http://html5readiness.com/"&gt;http://html5readiness.com/&lt;/a&gt; to view the readiness of a
+browser to a specific HTML5 feature. &lt;/p&gt;
+&lt;p&gt;[&lt;img alt="Capture4-23-2012-6.41.10
+AM" src="http://blog.xoxzo.com/ms/images/860d2-6a0153916e707f970b0168ea921382970c-pi.jpg" title="Capture4-23-2012-6.41.10 AM" /&gt;&lt;/p&gt;
+&lt;h2&gt;But How Do We Check It In Code?&lt;/h2&gt;
+&lt;p&gt;To check it in code, we could use Modernizr to detect if a specific
+feature is in the browser. &lt;a href="http://modernizr.com/docs/#features-css"&gt;http://modernizr.com/docs/#features-css&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For example,&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;if (Modernizr.audio.mp3 == &amp;#39;&amp;#39; and &amp;#39;&amp;#39; == false)
 {
 // Use the flash audio player
@@ -1344,55 +1407,18 @@ For example,
 &lt;/pre&gt;&lt;/div&gt;
 
 
-&lt;div&gt;
-
-**Where Do We Get These Polyfills?**
-
-&lt;/div&gt;
-
-&lt;div&gt;
-
-Most of them are listed at &lt;http://html5please.com&gt;
-
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;div&gt;
-
-**That's it. **
-
-&lt;/div&gt;
-
-&lt;div&gt;
-
-The "polyfill" or "regressive enhancement" technique just means that you
+&lt;p&gt;Where Do We Get These Polyfills?&lt;/p&gt;
+&lt;h6&gt;&lt;/h6&gt;
+&lt;p&gt;Most of them are listed at &lt;a href="http://html5please.com"&gt;http://html5please.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;That's it.&lt;/p&gt;
+&lt;h6&gt;&lt;/h6&gt;
+&lt;p&gt;The "polyfill" or "regressive enhancement" technique just means that you
 go ahead and use HTML5 features then use other libraries to emulate
 native behavior in older browsers. So instead of worrying about support
 in some browsers, use these polyfills to enhance the browsers to provide
-the user with proper experience to your web sites and applications.
-
-&lt;/div&gt;
-
-&lt;div&gt;
-
-&lt;div&gt;
-
-&lt;div&gt;
-
-[1.]( "anchor1") &lt;http://html5doctor.com/native-audio-in-the-browser/&gt;
-
-&lt;/div&gt;
-
-&lt;div&gt;
-
-[2.]( "anchor2") &lt;http://html5please.com/#audio&gt;
-
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;/div&gt;</summary></entry><entry><title>Releasing dev version of your package to PyPI</title><link href="http://devblog.xoxzo.com/ms/releasing-dev-version-of-your-package-to-pypi.html" rel="alternate"></link><published>2012-03-20T08:50:00+09:00</published><updated>2012-03-20T08:50:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2012-03-20:ms/releasing-dev-version-of-your-package-to-pypi.html</id><summary type="html">&lt;p&gt;&lt;a href="http://pypi.python.org/pypi"&gt;PyPI&lt;/a&gt; (Python Package Index) has become a
+the user with proper experience to your web sites and applications.&lt;/p&gt;
+&lt;p&gt;&lt;a href="" title="anchor1"&gt;1.&lt;/a&gt; &lt;a href="http://html5doctor.com/native-audio-in-the-browser/"&gt;http://html5doctor.com/native-audio-in-the-browser/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="" title="anchor2"&gt;2.&lt;/a&gt; &lt;a href="http://html5please.com/#audio"&gt;http://html5please.com/#audio&lt;/a&gt;&lt;/p&gt;</summary><category term="html5"></category><category term="browsers"></category><category term="audio"></category></entry><entry><title>Releasing dev version of your package to PyPI</title><link href="http://blog.xoxzo.com/ms/2012/03/20/releasing-dev-version-of-your-package-to-pypi/" rel="alternate"></link><published>2012-03-20T08:50:00+09:00</published><updated>2012-03-20T08:50:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2012-03-20:ms/2012/03/20/releasing-dev-version-of-your-package-to-pypi/</id><summary type="html">&lt;p&gt;&lt;a href="http://pypi.python.org/pypi"&gt;PyPI&lt;/a&gt; (Python Package Index) has become a
 central place for python developers these days to look for third party
 libraries. Common tools such as easy_install, pip or buildout by
 default will look into &lt;a href="http://pypi.python.org/pypi"&gt;PyPI&lt;/a&gt; when asked to
@@ -1444,7 +1470,7 @@ the version number or delete the package from PyPI first. Then I went to
 the package edit page and specified the download url pointing to github
 generated tarball from latest commit.&lt;/p&gt;
 &lt;p&gt;Now it's possible to install our latest commit simply by using
-&lt;code&gt;easy_install -U mamopublic==dev&lt;/code&gt;.&lt;/p&gt;</summary><category term="distribute"></category><category term="easy_install"></category><category term="pip"></category><category term="pypi"></category><category term="Python"></category><category term="setuptools"></category></entry><entry><title>Svn stash</title><link href="http://devblog.xoxzo.com/ms/svn-stash.html" rel="alternate"></link><published>2012-03-09T19:32:00+09:00</published><updated>2012-03-09T19:32:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2012-03-09:ms/svn-stash.html</id><summary type="html">&lt;p&gt;Update 2012-05-02 - Add new use-case when merging from trunk.&lt;/p&gt;
+&lt;code&gt;easy_install -U mamopublic==dev&lt;/code&gt;.&lt;/p&gt;</summary><category term="distribute"></category><category term="easy_install"></category><category term="pip"></category><category term="pypi"></category><category term="python"></category><category term="setuptools"></category></entry><entry><title>Svn stash</title><link href="http://blog.xoxzo.com/ms/2012/03/09/svn-stash/" rel="alternate"></link><published>2012-03-09T19:32:00+09:00</published><updated>2012-03-09T19:32:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2012-03-09:ms/2012/03/09/svn-stash/</id><summary type="html">&lt;p&gt;Update 2012-05-02 - Add new use-case when merging from trunk.&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;One thing I like in git is the &lt;code&gt;stash&lt;/code&gt; command. Basically what it's
 doing is&lt;br /&gt;
@@ -1564,7 +1590,7 @@ code through&lt;br /&gt;
 static code checker before commiting. We're using Unfuddle so no chance
 for us to use&lt;br /&gt;
 the native svn pre-commit hook. Lastly, thanks to
-&lt;a href="http://www.blisted.org/"&gt;scott&lt;/a&gt; for such useful script.&lt;/p&gt;</summary><category term="git"></category><category term="svn"></category><category term="version control"></category></entry><entry><title>Understanding Python Import</title><link href="http://devblog.xoxzo.com/ms/understanding-python-import.html" rel="alternate"></link><published>2011-11-22T16:32:00+09:00</published><updated>2011-11-22T16:32:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2011-11-22:ms/understanding-python-import.html</id><summary type="html">&lt;p&gt;There's a lot have been written on understanding Python import so I'm
+&lt;a href="http://www.blisted.org/"&gt;scott&lt;/a&gt; for such useful script.&lt;/p&gt;</summary><category term="git"></category><category term="svn"></category><category term="version control"></category></entry><entry><title>Understanding Python Import</title><link href="http://blog.xoxzo.com/ms/2011/11/22/understanding-python-import/" rel="alternate"></link><published>2011-11-22T16:32:00+09:00</published><updated>2011-11-22T16:32:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2011-11-22:ms/2011/11/22/understanding-python-import/</id><summary type="html">&lt;p&gt;There's a lot have been written on understanding Python import so I'm
 not sure whether this one would help to clear the confusion or just add
 more. I hope for the former. Having a new hire who is new to Python
 bring up this issue again for us.&lt;/p&gt;
@@ -1673,7 +1699,29 @@ environment variable named PYTHONPATH.&lt;/p&gt;
 &lt;p&gt;From now on, any &lt;code&gt;*.py&lt;/code&gt; file under &lt;code&gt;/home/kamal/my-python-lib&lt;/code&gt; can be
 imported if you execute python from that environment. Another way is to
 modify &lt;code&gt;sys.path&lt;/code&gt; directly and more convenient since you can do this in
-the initial bootstrap code of your application.&lt;/p&gt;</summary><category term="Python"></category></entry><entry><title>Subversion merging changes between branches</title><link href="http://devblog.xoxzo.com/ms/subversion-merging-changes-between-branches.html" rel="alternate"></link><published>2011-09-24T08:04:00+09:00</published><updated>2011-09-24T08:04:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2011-09-24:ms/subversion-merging-changes-between-branches.html</id><summary type="html">&lt;p&gt;For svn branching strategy, we used the &lt;a href="http://stackoverflow.com/questions/597707/best-branching-strategy-when-doing-continuous-integration"&gt;feature
+the initial bootstrap code of your application.&lt;/p&gt;</summary><category term="python"></category></entry><entry><title>Zenlok株式会社、EZSMSと連携し多段階認証システムの一部として利用</title><link href="http://blog.xoxzo.com/ms/zenlok-ezsms-usecase-ja.html" rel="alternate"></link><published>2011-11-01T17:00:00+09:00</published><updated>2011-11-01T17:00:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2011-11-01:ms/zenlok-ezsms-usecase-ja.html</id><summary type="html">&lt;p&gt;&lt;img alt="EZSMSロゴ" src="http://blog.xoxzo.com/ms/images/ezsms_logo1.png" /&gt;&lt;/p&gt;
+&lt;p&gt;クラウドセキュリティサービスを展開する&lt;a href="http://www.zenlok.com/"&gt;Zenlok株式会社&lt;/a&gt;（本社:東京都渋谷区、代表取締役:アミール・アヤロン）は、この度株式会社Xoxzo（本社：東京都台東区、代表取締役：イクバル・アバドゥラ、以下Xoxzo）運営する&lt;a href="http://www.ezsms.biz/ja/"&gt;SMS配信APIサービス「EZSMS」&lt;/a&gt;と連携し多段階認証システムの一部として利用することになりました。&lt;/p&gt;
+&lt;p&gt;以下はZenlok株式会社の担当者からのコメント&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Zenlok株式会社は、私たちのお客様のユーザー認証をより便利かつ安全に行うために、
+携帯電話のSMS機能を使った方法を検討しそのソリューションを探していました。
+EZSMSは、弊社のシステムとの連携も容易でかつ最新のAPIを使用しているため、
+簡単に日本のすべての携帯電話キャリアに対しSMSの接続が可能となり、大変満
+足しています。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;【Zenlok株式会社について】&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Zeonlokロゴ" src="http://blog.xoxzo.com/ms/images/client-logos/zenlok-logo.gif" title="Site-id" /&gt;&lt;/p&gt;
+&lt;p&gt;Zenlokは、大切な人との大切なコミュニケーションを安心に行うための新しいマナーです。&lt;/p&gt;
+&lt;p&gt;住所： 〒151-0053
+東京都渋谷区代々木4丁目32番1号トーシンミレニアムビル5階&lt;br /&gt;
+代表： 代表取締役　アミール・アヤロン&lt;br /&gt;
+設立： 2007年4月&lt;br /&gt;
+URL ： &lt;a href="http://www.zenlok.com/"&gt;http://www.zenlok.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【株式会社Xoxzoについて】&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Xoxzoロゴ" src="http://blog.xoxzo.com/ms/images/xoxzo-logo-02.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Xoxzoは、2007年2月に設立以来SMS技術を中心に自社サービスを開発、運営をしています。「&lt;strong&gt;継続改善&lt;/strong&gt;」をキーワードにしてお客様のニーズを満たすサービスを目指しています。&lt;/p&gt;
+&lt;p&gt;住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F&lt;br /&gt;
+代表： 代表取締役　イクバル・アバドゥラ&lt;br /&gt;
+設立： 2007年2月&lt;br /&gt;
+URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/a&gt;&lt;/p&gt;</summary><category term="プレスリリース"></category><category term="ezsms"></category><category term="smsのapi配信"></category><category term="zenlok株式会社"></category></entry><entry><title>Subversion merging changes between branches</title><link href="http://blog.xoxzo.com/ms/subversion-merging-changes-between-branches-en.html" rel="alternate"></link><published>2011-09-24T08:04:00+09:00</published><updated>2011-09-24T08:04:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2011-09-24:ms/subversion-merging-changes-between-branches-en.html</id><summary type="html">&lt;p&gt;For svn branching strategy, we used the &lt;a href="http://stackoverflow.com/questions/597707/best-branching-strategy-when-doing-continuous-integration"&gt;feature
 branch&lt;/a&gt;
 approach. This mean we keep trunk stable at all time and for any new
 features to work on, we start a new branch. While working on the branch,
@@ -1739,7 +1787,7 @@ incoming changes. This is fine if you know exactly the changes that you
 need contained in different files than the conflicted one. Otherwise you
 have to manually inspect the file and fix the conflicting line. I'm not
 sure yet whether this can be merged cleanly back to the trunk. Will
-update this post later.&lt;/p&gt;</summary><category term="scm"></category><category term="subversion"></category><category term="svn"></category><category term="version control"></category></entry><entry><title>Vacancy: Full-time Junior Python/Django Web Developer</title><link href="http://devblog.xoxzo.com/ms/vacancy-junior-pythondjango-web-developer.html" rel="alternate"></link><published>2011-09-19T08:09:00+09:00</published><updated>2011-09-19T08:09:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2011-09-19:ms/vacancy-junior-pythondjango-web-developer.html</id><summary type="html">&lt;p&gt;MARIMORE ENGINEERING SDN. BHD. develops and maintains Django/Python
+update this post later.&lt;/p&gt;</summary><category term="scm"></category><category term="subversion"></category><category term="svn"></category><category term="version control"></category></entry><entry><title>Vacancy: Full-time Junior Python/Django Web Developer</title><link href="http://blog.xoxzo.com/ms/2011/09/19/vacancy-junior-pythondjango-web-developer/" rel="alternate"></link><published>2011-09-19T08:09:00+09:00</published><updated>2011-09-19T08:09:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2011-09-19:ms/2011/09/19/vacancy-junior-pythondjango-web-developer/</id><summary type="html">&lt;p&gt;MARIMORE ENGINEERING SDN. BHD. develops and maintains Django/Python
 based web applications for our clients. We rely heavily on open source
 and at the same time try to contribute back to the community via open
 source code, documentation, monetary contribution or participation in
@@ -1794,15 +1842,11 @@ tracker.&lt;/p&gt;
 &lt;p&gt;If you are interested, we are happy to talk to you. Please contact
 hr@marimore.co.jp with a copy of your CV and a short introduction about
 yourself.&lt;/p&gt;
-&lt;div style="text-align:center;"&gt;
-
-**----- UPDATE 2011-10-07 -----**
-
-&lt;/div&gt;
-
+&lt;p&gt;----- UPDATE 2011-10-07 -----&lt;/p&gt;
+&lt;h6&gt;&lt;/h6&gt;
 &lt;p&gt;We are happy to announce that we've found some great candidates and that
 &lt;strong&gt;this vacancy is now closed.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Thank you for your interest in MARIMORE ENGINEERING.&lt;/p&gt;</summary><category term="developer"></category><category term="django"></category><category term="Python"></category><category term="vacancy"></category></entry><entry><title>Porting function based generic views to class based views</title><link href="http://devblog.xoxzo.com/ms/porting-function-based-generic-views-to-class-based-views.html" rel="alternate"></link><published>2011-09-16T12:12:00+09:00</published><updated>2011-09-16T12:12:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:devblog.xoxzo.com,2011-09-16:ms/porting-function-based-generic-views-to-class-based-views.html</id><summary type="html">&lt;p&gt;It not really obvious in the
+&lt;p&gt;Thank you for your interest in MARIMORE ENGINEERING.&lt;/p&gt;</summary><category term="developer"></category><category term="django"></category><category term="python"></category><category term="vacancy"></category></entry><entry><title>Porting function based generic views to class based views</title><link href="http://blog.xoxzo.com/ms/porting-function-based-generic-views-to-class-based-views-en.html" rel="alternate"></link><published>2011-09-16T12:12:00+09:00</published><updated>2011-09-16T12:12:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2011-09-16:ms/porting-function-based-generic-views-to-class-based-views-en.html</id><summary type="html">&lt;p&gt;It not really obvious in the
 &lt;a href="https://docs.djangoproject.com/en/1.3/ref/class-based-views/"&gt;documentation&lt;/a&gt;
 how we should proceed. I try to make as little changes as possible to
 code. The following is a sample function that we need to port to class
@@ -1884,4 +1928,4 @@ so if you moving to Django-1.3 this a good time to start porting your
 generic views usage to class based views. It also not obvious to me that
 we have to call the superclass method when overriding &lt;code&gt;get_context_data&lt;/code&gt;
 method otherwise you would not have the complete context data. It only
-after I found this blog &lt;a href="http://blog.oscarcp.com/?p=182"&gt;post&lt;/a&gt;.&lt;/p&gt;</summary><category term="class based views"></category><category term="django"></category><category term="django views"></category><category term="generic views"></category><category term="Python"></category></entry></feed>
+after I found this blog &lt;a href="http://blog.oscarcp.com/?p=182"&gt;post&lt;/a&gt;.&lt;/p&gt;</summary><category term="class based views"></category><category term="django"></category><category term="django views"></category><category term="generic views"></category><category term="python"></category></entry></feed>

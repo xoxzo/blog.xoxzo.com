@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Xoxzo Official Blog: Empowerment</title><link href="http://blog.xoxzo.com/en/" rel="alternate"></link><link href="http://blog.xoxzo.com/feeds/fullcourt.atom.xml" rel="self"></link><id>http://blog.xoxzo.com/en/</id><updated>2015-12-03T11:01:00+09:00</updated><entry><title>[FullCourt] End of Service Announcement</title><link href="http://blog.xoxzo.com/en/2015/12/03/fullcourt-end-of-service-announcement/" rel="alternate"></link><published>2015-12-03T11:01:00+09:00</published><updated>2015-12-03T11:01:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2015-12-03:en/2015/12/03/fullcourt-end-of-service-announcement/</id><summary type="html">&lt;p&gt;&lt;img alt="logo_1" src="http://blog.xoxzo.com/en/images/fullcourt-logo.png" /&gt;&lt;/p&gt;
+&lt;p&gt;In 2011, a wonderful idea was hatched to allow connectivity to millions
+of phones in the world in under 10 minutes. That idea was named
+&lt;em&gt;&lt;a href="https://www.fullcourt.co/en/"&gt;FullCourt.&lt;/a&gt; &lt;/em&gt;With the help of many
+people, from our families, to our customers and our friends, we have
+managed to make that idea into a reality, and FullCourt was born.&lt;/p&gt;
+&lt;p&gt;4 years down the road from that fateful day, through many ups and downs,
+we are sad to announce that &lt;strong&gt;FullCourt will turn off the lights and end
+its service on Monday 29 February 2016&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;What will this mean to you?&lt;/p&gt;
+&lt;h2&gt;Registrations&lt;/h2&gt;
+&lt;p&gt;FullCourt will stop to accept new registrations on Thu Dec 3 2015.&lt;/p&gt;
+&lt;h2&gt;Credits and new credits purchase&lt;/h2&gt;
+&lt;p&gt;FullCourt will stop to accept new credit purchases on 1st Jan 2016. If
+you would like to get refunds on your remaining credits, we will accept
+refund requests based on our Terms Of Service. Please contact
+&lt;a href="&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#116;&amp;#111;&amp;#58;&amp;#115;&amp;#117;&amp;#112;&amp;#112;&amp;#111;&amp;#114;&amp;#116;&amp;#64;&amp;#102;&amp;#117;&amp;#108;&amp;#108;&amp;#99;&amp;#111;&amp;#117;&amp;#114;&amp;#116;&amp;#46;&amp;#99;&amp;#111;"&gt;&amp;#115;&amp;#117;&amp;#112;&amp;#112;&amp;#111;&amp;#114;&amp;#116;&amp;#64;&amp;#102;&amp;#117;&amp;#108;&amp;#108;&amp;#99;&amp;#111;&amp;#117;&amp;#114;&amp;#116;&amp;#46;&amp;#99;&amp;#111;&lt;/a&gt; for details.&lt;/p&gt;
+&lt;h2&gt;API usage&lt;/h2&gt;
+&lt;p&gt;You can still use the API until Monday 29 February 2016, but any
+incoming phone numbers will be lost after that date. Please refer to the
+section on "Incoming phone numbers, including Motion numbers" below for
+details. We also have a replacement API service which you might want to
+try. See the section "What's next?" below.&lt;/p&gt;
+&lt;h2&gt;Motion&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.fullcourt.co/en/motion/"&gt;Motion&lt;/a&gt; will still be available
+until the end of service on Monday 29 February 2016 but all your Motion
+numbers will be lost after that date. Please refer to the section on
+"Incoming phone numbers, including Motion numbers" below for details.&lt;/p&gt;
+&lt;h2&gt;Incoming phone numbers, including Motion numbers&lt;/h2&gt;
+&lt;p&gt;As per our Terms Of Service, we unfortunately cannot port or transfer
+your incoming phone numbers or Motion numbers to a different provider
+for you. After Monday 29 February 2016, these numbers will be lost
+forever.&lt;/p&gt;
+&lt;h2&gt;What's next?&lt;/h2&gt;
+&lt;p&gt;We have released the &lt;a href="https://www.xoxzo.com/en/"&gt;Xoxzo Cloud Telephony
+Platform&lt;/a&gt; as a replacement API service for
+SMS messaging and voice. Registration is free, with a much simpler API.&lt;/p&gt;
+&lt;p&gt;We would like to thank you for all the support, advice and encouragement
+we have received for the past 4 years. It has been a tough but fun
+journey. See you again at &lt;a href="https://www.xoxzo.com/en/"&gt;Xoxzo!&lt;/a&gt;&lt;/p&gt;</summary><category term="endofservice"></category><category term="fullcourt"></category><category term="xoxzo"></category></entry><entry><title>MARIMORE acquiring FullCourt</title><link href="http://blog.xoxzo.com/en/2014/07/01/marimore-acquiring-fullcourt/" rel="alternate"></link><published>2014-07-01T10:15:00+09:00</published><updated>2014-07-01T10:15:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2014-07-01:en/2014/07/01/marimore-acquiring-fullcourt/</id><summary type="html">&lt;p&gt;&lt;img alt="Marimoreロゴ" src="http://blog.xoxzo.com/en/images/marimore-logo.gif" /&gt;&lt;/p&gt;
+&lt;p&gt;MARIMORE Inc announced that is has acquired 100% stocks of FullCourt Inc
+for an undisclosed sum, effectively putting Fullcourt Inc as a
+subsidiary of MARIMORE.&lt;/p&gt;
+&lt;p&gt;Comment from Iqbal Abdullah, Founder and CEO of MARIMORE:&lt;/p&gt;
+&lt;p&gt;"FullCourt's innovative service on telephony API is a great synergy for our messaging
+services, where we will effectively use them for our DialSMS and
+CodeCall services. Going forward, with the technology that FullCourt
+has, we will not only offer messaging but also telephony and will make
+it more reachable and usable to a larger audience."&lt;/p&gt;
+&lt;p&gt;Comment from Daisuke Don Horie, Co-founder and CEO of Fullcourt:&lt;/p&gt;
+&lt;p&gt;"MARIMORE has been an integral part to FullCourt's service offerings for close to
+two years now. By joining the Marimore team, FullCourt will be able to
+leverage their expertise, and release even more services."&lt;/p&gt;
+&lt;p&gt;Starting from 1st of July 2014, FullCourt will begin to transition it's
+operations to MARIMORE. Fullcourt's headquarters will be moved
+to Taito-ku but FullCourt will maintain and continue to develop
+it's innovative services. Dice and his team is planned to
+gradually transition out after a period of time determined at a later
+date.&lt;/p&gt;
+&lt;h3&gt;About Fullcourt:&lt;/h3&gt;
+&lt;p&gt;FullCourt brings powerful Voice and SMS solutions to developers and business
+owners without the complexity. FullCourt has already set up a hardware
+and telecommunications connections and have wrapped them with a flexible
+API for developers.&lt;/p&gt;
+&lt;p&gt;FullCourt was founded by Takashi Kosumi and Daisuke Horie in 2011 to bring
+powerful and flexible telecommunications solutions to East and Southeast
+Asia. After Takashi passed away in November of 2011, the torch was
+passed on and FullCourt continues now under the partnership of Charles
+and Daisuke.&lt;/p&gt;
+&lt;p&gt;FullCourt comprised of FullCourt Pte. Ltd, a Singapore entity as the original
+owners of the FullCourt technology and FullCourt Inc, the marketing and
+sales arm within Japan.&lt;/p&gt;
+&lt;p&gt;Prior to the acquisition, all rights to ownership of technology and all assets
+was passed to FullCourt Inc. in Japan, with FullCourt Pte.Ltd to be
+dissolved.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Fcmamo-shake" src="http://blog.xoxzo.com/en/images/fcmamo-shake.png" title="Fcmamo-shake" /&gt;&lt;/p&gt;
+&lt;p&gt;Dice and Iqbal after the purchase agreement.&lt;/p&gt;
+&lt;p&gt;About MARIMORE Inc:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Marimoreロゴ" src="http://blog.xoxzo.com/en/images/marimore-logo.gif" /&gt;&lt;/p&gt;
+&lt;p&gt;MARIMORE was founded in Feb 2007 and has developed and maintained it's own
+services. With the keyword of "continous improvement" it aims to fulfill
+the needs of it's customers.&lt;/p&gt;
+&lt;p&gt;Address: Matsuura Bldg 5F, 1-9-4 Taito, Taito-ku, Tokyo, JAPAN&lt;br /&gt;
+CEO: Iqbal Abdullah&lt;br /&gt;
+Founded: Feb 2007&lt;br /&gt;
+URL: &lt;a href="http://www.marimore.co.jp/en/"&gt;http://www.marimore.co.jp/en/&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</summary><category term="fullcourt"></category><category term="ivr"></category><category term="m&amp;a"></category><category term="marimore"></category><category term="voice and sms api"></category></entry></feed>
