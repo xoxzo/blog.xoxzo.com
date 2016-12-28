@@ -2,8 +2,7 @@ Title: キャリアマートがEZSMSのWebインターフェースを使ったSM
 Date: 2016-07-08 10:00
 Author: Aiko Yokoyama
 Lang: en
-Category: EZSMS, Press Releases, Use Cases, Xoxzo
-Tags: ショートメッセージ, EZSMS, SMS
+Tags: careermart, ezsms, use cases, pr, ショートメッセージ
 Slug: careermart-ezsms-usecase
 
 は株式会社キャリアマート様のコメントです。
