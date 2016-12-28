@@ -1,7 +1,7 @@
 Title: 2016 &amp; 2017 Seasons Greetings and New Year Holidays
 Date: 2016-12-28 15:49
 Slug: EOY-Holiday-Notice
-Lang: ja
+Lang: En
 Modified: 2016-12-28 15:49
 Tags: EOY-notice;
 Author: Aiko Yokoyama
