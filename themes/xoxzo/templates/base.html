@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html lang="{{ DEFAULT_LANG }}">
 <head>
-    {% block head %}
-    {% endblock %}
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    {% block head %}
+    {% endblock %}
+
     <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
     <link rel="icon" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/xoxzo_16x16_favicon.png">
 
