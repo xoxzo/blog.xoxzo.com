@@ -1,12 +1,11 @@
 Title: 2016 &amp; 2017 Seasons Greetings and New Year Holidays
 Date: 2016-12-28 15:49
 Slug: EOY-Holiday-Notice
-Lang: En
+Lang: en
 Modified: 2016-12-28 15:49
 Tags: EOY-notice;
 Author: Aiko Yokoyama
-Summary:
-Thank you very much for your continuous support for 'Xoxzo Cloud Telephony Platform' and 'SMS Delivery API Service EZSMS' .
+Summary: Thank you very much for your continuous support for 'Xoxzo Cloud Telephony Platform' and 'SMS Delivery API Service EZSMS' .
 
 Please note that our office will be closed during the following time period for New Year Season.
 
