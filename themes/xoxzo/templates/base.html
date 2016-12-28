@@ -1,11 +1,15 @@
 <!DOCTYPE html>
 <html lang="{{ DEFAULT_LANG }}">
 <head>
-    {% block head %}
-    {% endblock %}
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    {% block head %}
+    {% endblock %}
+
     <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
+    <link rel="icon" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/xoxzo_16x16_favicon.png">
+
     <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/bootstrap.min.css">
     <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/main.css">
     <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/pygment.css">
@@ -35,7 +39,7 @@
             <div class="collapse navbar-toggleable-xs" id="collapsingNav">
                 <ul class="nav navbar-nav float-xs-left float-sm-right">
                 <!--
-                    <li class="nav-item"><a class="nav-link {% if page %}active{% endif %}" 
+                    <li class="nav-item"><a class="nav-link {% if page %}active{% endif %}"
                     href="{{ SITEURL }}/pages/we-are-xoxzo/">Who We Are</a></li>
                 -->
                     <li class="nav-item">
