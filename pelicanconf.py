@@ -43,8 +43,8 @@ DEFAULT_DATE_FORMAT = "%Y-%m-%d"
 STATIC_PATHS = ['images', 'pdfs', 'extra/CNAME']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 
-THEME           = 'themes/simple'
-#THEME           = 'themes/pelican-blue'
+#THEME           = 'themes/simple'
+THEME           = 'themes/xoxzo'
 PLUGIN_PATHS    = [os.path.join(PROJECT_ROOT, 'plugins'),]
 PLUGINS         = ["i18n_subsites", ]
 
@@ -68,4 +68,13 @@ I18N_SUBSITES   = {
         'THEME': THEME,
     },
 }
+
+DATE_FORMATS = {
+    'en': DEFAULT_DATE_FORMAT,
+    'jp': DEFAULT_DATE_FORMAT,
+    'ms': DEFAULT_DATE_FORMAT,
+}
+
+ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'
+ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
 
