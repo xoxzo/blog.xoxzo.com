@@ -2,7 +2,7 @@ Title: Zenlok株式会社、EZSMSと連携し多段階認証システムの一�
 Date: 2011-11-01 17:00
 Author: Iqbal Abdullah
 Lang: ja
-Tags: プレスリリース, ezsms, smsのapi配信, zenlok株式会社
+Tags: ezsms, smsのapi配信, zenlok株式会社
 Slug: zenlok-ezsms-usecase
 
 ![EZSMSロゴ]({filename}/images/ezsms_logo1.png)
