@@ -23,11 +23,12 @@ URL：http://adit.co.jp/
 
 【株式会社Xoxzoについて】
 
-[![Xoxzo Cloud Telephony]({filename}/images/xoxzo-logo-02.png)](https://info.xoxzo.com/ja/)
+![Xoxzoロゴ]({filename}/images/xoxzo-logo-02.png)
 
-Xoxzoは、2007年2月にMARIMOREとして設立以来SMS技術を中心に自社サービスを開発、運営をしています。「**継続改善**」をキーワードにしてお客様のニーズを満たすサービスを目指しています。
+Xoxzoは、2007年2月に設立以来SMS技術を中心に自社サービスを開発、運営をしています。「**継続改善**」をキーワードにしてお客様のニーズを満たすサービスを目指しています。
 
-住所： 〒110-0016 東京都台東区台東 1-9-4 松浦ビル 5F  
+住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F  
 代表： 代表取締役　イクバル・アバドゥラ  
 設立： 2007年2月  
-URL ： https://info.xoxzo.com/ja/
+URL ： [http://info.xoxzo.com/ja/](http://info.xoxzo.com/ja/)
+
