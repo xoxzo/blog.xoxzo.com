@@ -4,6 +4,7 @@ Author: Iqbal Abdullah
 Lang: ja
 Tags: ezsms, smsのapi配信, zenlok株式会社
 Slug: zenlok-ezsms-usecase
+Summary: Zenlok株式会社がEZSMSを導入することでユーザー認証を可能とする
 
 ![EZSMSロゴ]({filename}/images/ezsms_logo1.png)
 
