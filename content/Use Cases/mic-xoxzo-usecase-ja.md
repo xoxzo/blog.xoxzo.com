@@ -21,7 +21,9 @@ Slug: mic-xoxzo-usecase
 創業：1997年7月  
 URL：[http://www.micgp.co.jp/](http://www.micgp.co.jp/)
 
-![Xoxzoロゴ]({filename}/images/xoxzo-logo-02.png)
+【株式会社Xoxzoについて】
+
+[![Xoxzoロゴ]({filename}/images/xoxzo-logo-02.png)](http://info.xoxzo.com/ja/)
 
 Xoxzoは、2007年2月に設立以来SMS技術を中心に自社サービスを開発、運営をしています。「**継続改善**」をキーワードにしてお客様のニーズを満たすサービスを目指しています。
 
