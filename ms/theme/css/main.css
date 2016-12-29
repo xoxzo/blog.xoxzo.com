@@ -40,6 +40,14 @@ a:hover {
     text-decoration: none;
 }
 
+.non-sticky-footer {
+    margin-bottom: 0;
+}
+
+.non-sticky-footer footer {
+    position: initial;
+}
+
 .navbar-brand img {
     width: 100px;
     margin: 2px 0;

@@ -69,12 +69,12 @@ they're up to now and exchanging contact for future.&lt;/p&gt;</summary><categor
 創業：2011年9月
 URL：http://adit.co.jp/&lt;/p&gt;
 &lt;p&gt;【株式会社Xoxzoについて】&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://info.xoxzo.com/ja/"&gt;&lt;img alt="Xoxzo Cloud Telephony" src="http://blog.xoxzo.com/images/xoxzo-logo-02.png" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Xoxzoは、2007年2月にMARIMOREとして設立以来SMS技術を中心に自社サービスを開発、運営をしています。「&lt;strong&gt;継続改善&lt;/strong&gt;」をキーワードにしてお客様のニーズを満たすサービスを目指しています。&lt;/p&gt;
-&lt;p&gt;住所： 〒110-0016 東京都台東区台東 1-9-4 松浦ビル 5F&lt;br /&gt;
+&lt;p&gt;&lt;img alt="Xoxzoロゴ" src="http://blog.xoxzo.com/images/xoxzo-logo-02.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Xoxzoは、2007年2月に設立以来SMS技術を中心に自社サービスを開発、運営をしています。「&lt;strong&gt;継続改善&lt;/strong&gt;」をキーワードにしてお客様のニーズを満たすサービスを目指しています。&lt;/p&gt;
+&lt;p&gt;住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F&lt;br /&gt;
 代表： 代表取締役　イクバル・アバドゥラ&lt;br /&gt;
 設立： 2007年2月&lt;br /&gt;
-URL ： https://info.xoxzo.com/ja/&lt;/p&gt;</summary><category term="adit"></category><category term="ezsms"></category><category term="use cases"></category><category term="pr"></category></entry><entry><title>[Xoxzo] API now supports Malaysia (MY)</title><link href="http://blog.xoxzo.com/2016/08/26/xoxzo-support-for-malaysia-my/" rel="alternate"></link><published>2016-08-26T17:05:00+09:00</published><updated>2016-08-26T17:05:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2016-08-26:2016/08/26/xoxzo-support-for-malaysia-my/</id><summary type="html">&lt;p&gt;&lt;img alt="Xoxzo Inc." src="http://blog.xoxzo.com/images/xoxzo-logo-02.png" /&gt;&lt;/p&gt;
+URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/a&gt;&lt;/p&gt;</summary><category term="adit"></category><category term="ezsms"></category><category term="use cases"></category><category term="pr"></category></entry><entry><title>[Xoxzo] API now supports Malaysia (MY)</title><link href="http://blog.xoxzo.com/2016/08/26/xoxzo-support-for-malaysia-my/" rel="alternate"></link><published>2016-08-26T17:05:00+09:00</published><updated>2016-08-26T17:05:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2016-08-26:2016/08/26/xoxzo-support-for-malaysia-my/</id><summary type="html">&lt;p&gt;&lt;img alt="Xoxzo Inc." src="http://blog.xoxzo.com/images/xoxzo-logo-02.png" /&gt;&lt;/p&gt;
 &lt;p&gt;After ten months of it's release in Japan, we are proud to announce
 that &lt;a href="https://www.xoxzo.com/en/"&gt;Xoxzo&lt;/a&gt; now supports Malaysia (MY).&lt;/p&gt;
 &lt;p&gt;Just like developers and businesses in Japan are able to enjoy telephony
@@ -86,7 +86,23 @@ and &lt;a href="https://www.xoxzo.com/en/about/dial-in-api/"&gt;Dial In Numbers&
 developers and businesses in Malaysia&lt;/p&gt;
 &lt;p&gt;The details of each feature can be found in the linked pages, or you may
 simply register for free to and instantly try out our APIs
-here: &lt;a href="https://www.xoxzo.com/en/"&gt;https://www.xoxzo.com/en/&lt;/a&gt;&lt;/p&gt;</summary><category term="malaysia"></category><category term="my"></category><category term="telephony"></category><category term="xoxzo"></category></entry><entry><title>Tokyu Ruby Kaigi</title><link href="http://blog.xoxzo.com/2016/06/09/tokyu-ruby-kaigi/" rel="alternate"></link><published>2016-06-09T10:00:00+09:00</published><updated>2016-06-09T10:00:00+09:00</updated><author><name>Akira Nonaka</name></author><id>tag:blog.xoxzo.com,2016-06-09:2016/06/09/tokyu-ruby-kaigi/</id><summary type="html">&lt;p&gt;On May 29, I attended the 10th annual &lt;a href="http://regional.rubykaigi.org/tokyu10/"&gt;Tokyu Ruby
+here: &lt;a href="https://www.xoxzo.com/en/"&gt;https://www.xoxzo.com/en/&lt;/a&gt;&lt;/p&gt;</summary><category term="malaysia"></category><category term="my"></category><category term="telephony"></category><category term="xoxzo"></category></entry><entry><title>キャリアマートがEZSMSのWebインターフェースを使ったSMS送信機能を利用</title><link href="http://blog.xoxzo.com/2016/07/08/careermart-ezsms-usecase/" rel="alternate"></link><published>2016-07-08T10:00:00+09:00</published><updated>2016-07-08T10:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2016-07-08:2016/07/08/careermart-ezsms-usecase/</id><summary type="html">&lt;p&gt;は株式会社キャリアマート様のコメントです。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;顧客様へのサービスの一環として、EZSMSのWebインターフェースを使ったSMS送信機能を利用しています。将来的に、別サービスとなっている&lt;a href="https://www.xoxzo.com/ja/about/dial-in-api/"&gt;XoxzoのDIN着信機能&lt;/a&gt;を使ったサービスを追加して行きたいです。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;【株式会社キャリアマートについて】&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.careermart.co.jp/"&gt;&lt;img alt="Career Mart" src="http://blog.xoxzo.com/images/client-logos/career-mart-logo.jpg" /&gt;&lt;/a&gt;
+ 
+所在地：〒160-0023 東京都新宿区西新宿7-3-4 アソルティ西新宿ビル4F&lt;br /&gt;
+創業：平成14年11月1日&lt;br /&gt;
+URL：&lt;a href="http://www.careermart.co.jp/"&gt;http://www.careermart.co.jp/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【株式会社Xoxzoについて】&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Xoxzoロゴ" src="http://blog.xoxzo.com/images/xoxzo-logo-02.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Xoxzoは、2007年2月に設立以来SMS技術を中心に自社サービスを開発、運営をしています。「&lt;strong&gt;継続改善&lt;/strong&gt;」をキーワードにしてお客様のニーズを満たすサービスを目指しています。&lt;/p&gt;
+&lt;p&gt;住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F&lt;br /&gt;
+代表： 代表取締役　イクバル・アバドゥラ&lt;br /&gt;
+設立： 2007年2月&lt;br /&gt;
+URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/a&gt;&lt;/p&gt;</summary><category term="careermart"></category><category term="ezsms"></category><category term="use cases"></category><category term="pr"></category><category term="ショートメッセージ"></category></entry><entry><title>Tokyu Ruby Kaigi</title><link href="http://blog.xoxzo.com/2016/06/09/tokyu-ruby-kaigi/" rel="alternate"></link><published>2016-06-09T10:00:00+09:00</published><updated>2016-06-09T10:00:00+09:00</updated><author><name>Akira Nonaka</name></author><id>tag:blog.xoxzo.com,2016-06-09:2016/06/09/tokyu-ruby-kaigi/</id><summary type="html">&lt;p&gt;On May 29, I attended the 10th annual &lt;a href="http://regional.rubykaigi.org/tokyu10/"&gt;Tokyu Ruby
 Kaigi&lt;/a&gt; held at Shibuya,Tokyo. I
 made a lightning talk about a &lt;a href="https://rubygems.org/gems/xoxzo-cloudruby"&gt;Xoxzo telephony
 gem&lt;/a&gt; (gem is the ruby
@@ -178,7 +194,25 @@ Hazim&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 new friends, some of which all these while we met only in the online
 world. Btw, if you missed this event, kindly note that we have another
 &lt;a href="https://pycon.my/"&gt;PyconMy&lt;/a&gt; conference coming up in August. Make sure
-to grab the ticket while it still available. See you there !&lt;/p&gt;</summary><category term="open source"></category><category term="malaysia"></category><category term="jomlaunch"></category></entry><entry><title>The communication costs of remote work</title><link href="http://blog.xoxzo.com/2016/04/22/the-communication-costs-of-remote-work/" rel="alternate"></link><published>2016-04-22T23:25:00+09:00</published><updated>2016-04-22T23:25:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2016-04-22:2016/04/22/the-communication-costs-of-remote-work/</id><summary type="html">&lt;p&gt;We have a distributed team and everyone remotely works from wherever
+to grab the ticket while it still available. See you there !&lt;/p&gt;</summary><category term="open source"></category><category term="malaysia"></category><category term="jomlaunch"></category></entry><entry><title>⼾⽥建設株式会社が XOXZO を⽤いて、社内ウェブに連絡⽤ SMS 送信機能を実装</title><link href="http://blog.xoxzo.com/toda-corporation-xoxzo-usecase-ja.html" rel="alternate"></link><published>2016-05-26T09:49:00+09:00</published><updated>2016-05-26T09:49:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2016-05-26:toda-corporation-xoxzo-usecase-ja.html</id><summary type="html">&lt;p&gt;&lt;a href="http://www.toda.co.jp/"&gt;戸田建設株式会社&lt;/a&gt;（本社：東京都中央区）は、社員への連絡用SMS送信機能の社内ウェブへの実装に、株式会社Xoxzo（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）の運営する&lt;a href="https://www.xoxzo/com/ja/"&gt;Xoxzo（ゾクゾー）クラウド・テレフォニー・プラットフォーム&lt;/a&gt;を導入しました。 &lt;/p&gt;
+&lt;p&gt;以下は戸田建設株式会社様のコメントです。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;まずは、社員のメールパスワード初期化の際に、会社貸与の携帯電話へ PINコードを SMS
+にて送付する仕組みを、社内 Webサイトに構築し、これまで電話にて⾏っていた業務を、
+⾃動化します。 今後、このサービスを他の用途に対しても展開していく予定です。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;【株式会社戸田建設について】&lt;/p&gt;
+&lt;p&gt;&lt;img alt="戸田建設のロゴ" src="http://blog.xoxzo.com/images/client-logos/toda-kensetsu.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;所在地：〒104-8388 東京都中央区京橋1-7-1 TODA BUILDING&lt;br /&gt;
+創業：1881年1月&lt;br /&gt;
+URL：&lt;a href="http://www.toda.co.jp/"&gt;http://www.toda.co.jp/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【株式会社Xoxzoについて】&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://info.xoxzo.com/ja/"&gt;&lt;img alt="Xoxzoロゴ" src="http://blog.xoxzo.com/images/xoxzo-logo-02.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Xoxzoは、2007年2月に設立以来SMS技術を中心に自社サービスを開発、運営をしています。「&lt;strong&gt;継続改善&lt;/strong&gt;」をキーワードにしてお客様のニーズを満たすサービスを目指しています。&lt;/p&gt;
+&lt;p&gt;住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F&lt;br /&gt;
+代表： 代表取締役　イクバル・アバドゥラ&lt;br /&gt;
+設立： 2007年2月&lt;br /&gt;
+URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/a&gt;&lt;/p&gt;</summary><category term="xoxzo"></category><category term="smsのapi配信"></category><category term="⼾⽥建設株式会社"></category></entry><entry><title>The communication costs of remote work</title><link href="http://blog.xoxzo.com/2016/04/22/the-communication-costs-of-remote-work/" rel="alternate"></link><published>2016-04-22T23:25:00+09:00</published><updated>2016-04-22T23:25:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2016-04-22:2016/04/22/the-communication-costs-of-remote-work/</id><summary type="html">&lt;p&gt;We have a distributed team and everyone remotely works from wherever
 they are (6 cities across 3 countries). Remote work is nothing new
 (we've practiced it since 2007), at least for us and generally: But it
 requires a different approach and similar to re-thinking about &lt;em&gt;work&lt;/em&gt; as
@@ -275,7 +309,25 @@ it is time to make a call.&lt;/p&gt;
 &lt;p&gt;These are some of the tips and strategies that we take to reduce
 communication costs within our diverse and remote team. All teams are
 obviously different, and some might work or may not work for yours.&lt;/p&gt;
-&lt;p&gt;As for us, we'll keep on looking and trying too.&lt;/p&gt;</summary><category term="costs"></category><category term="nomad"></category><category term="remote"></category><category term="tips"></category></entry><entry><title>Tokyo Team Camp</title><link href="http://blog.xoxzo.com/2016/03/07/tokyo-team-camp/" rel="alternate"></link><published>2016-03-07T15:21:00+09:00</published><updated>2016-03-07T15:21:00+09:00</updated><author><name>Zaki Akhmad</name></author><id>tag:blog.xoxzo.com,2016-03-07:2016/03/07/tokyo-team-camp/</id><summary type="html">&lt;blockquote&gt;
+&lt;p&gt;As for us, we'll keep on looking and trying too.&lt;/p&gt;</summary><category term="costs"></category><category term="nomad"></category><category term="remote"></category><category term="tips"></category></entry><entry><title>有限会社エムアイシー総合企画がXoxzoクラウド・テレフォニー・プラットフォームを導入</title><link href="http://blog.xoxzo.com/mic-xoxzo-usecase-ja.html" rel="alternate"></link><published>2016-03-18T11:00:00+09:00</published><updated>2016-03-18T11:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2016-03-18:mic-xoxzo-usecase-ja.html</id><summary type="html">&lt;p&gt;&lt;a href="http://www.micgp.co.jp"&gt;有限会社エムアイシー総合企画&lt;/a&gt;（本社：福岡県福岡市）は、運営中のウェブサービスの個人認証システムに、株式会社Xoxzo（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）の運営する&lt;a href="https://www.xoxzo.com/ja/"&gt;Xoxzo
+（ゾクゾー）クラウド・テレフォニー・プラットフォーム&lt;/a&gt;を導入しました。 &lt;/p&gt;
+&lt;p&gt;以下は有限会社エムアイシー総合企画様のコメントです。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;エムアイシー総合企画は“出会い”をキーワードに事業を展開しています。
+パーソナルコミュニケーションが求められる時代において、さまざまな出会いのプロフェッショナル集団として、お客様の社会とのつながりや個々人のコミュニケーションをサポートし、幸せな未来を叶えることを目指しています。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;【有限会社エムアイシー総合企画について】&lt;/p&gt;
+&lt;p&gt;&lt;img alt="MICロゴ" src="http://blog.xoxzo.com/images/client-logos/mic-logo.png" /&gt;&lt;/p&gt;
+&lt;p&gt;所在地：福岡市中央区警固2-18-5　アバンダント91ビル5F&lt;br /&gt;
+創業：1997年7月&lt;br /&gt;
+URL：&lt;a href="http://www.micgp.co.jp/"&gt;http://www.micgp.co.jp/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【株式会社Xoxzoについて】&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://info.xoxzo.com/ja/"&gt;&lt;img alt="Xoxzoロゴ" src="http://blog.xoxzo.com/images/xoxzo-logo-02.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Xoxzoは、2007年2月に設立以来SMS技術を中心に自社サービスを開発、運営をしています。「&lt;strong&gt;継続改善&lt;/strong&gt;」をキーワードにしてお客様のニーズを満たすサービスを目指しています。&lt;/p&gt;
+&lt;p&gt;住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F&lt;br /&gt;
+代表： 代表取締役　イクバル・アバドゥラ&lt;br /&gt;
+設立： 2007年2月&lt;br /&gt;
+URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/a&gt;&lt;/p&gt;</summary><category term="xoxzo"></category><category term="smsのapi配信"></category><category term="有限会社エムアイシー"></category></entry><entry><title>Tokyo Team Camp</title><link href="http://blog.xoxzo.com/2016/03/07/tokyo-team-camp/" rel="alternate"></link><published>2016-03-07T15:21:00+09:00</published><updated>2016-03-07T15:21:00+09:00</updated><author><name>Zaki Akhmad</name></author><id>tag:blog.xoxzo.com,2016-03-07:2016/03/07/tokyo-team-camp/</id><summary type="html">&lt;blockquote&gt;
 &lt;p&gt;There's always people on the other side of the screen.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;img alt="Xoxzo team and family
@@ -830,7 +882,40 @@ URL：&lt;a href="http://www.aobado.net/"&gt;http://www.aobado.net/&lt;/a&gt;&lt
 &lt;p&gt;住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F&lt;br /&gt;
 代表： 代表取締役　イクバル・アバドゥラ&lt;br /&gt;
 設立： 2007年2月&lt;br /&gt;
-URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/a&gt;&lt;/p&gt;</summary><category term="ezsms"></category><category term="zenlok株式会社"></category><category term="ショートメッセージ"></category><category term="通知補助手段"></category></entry><entry><title>MARIMORE Engineering Team Camp in Malacca</title><link href="http://blog.xoxzo.com/2014/09/13/marimore-engineering-team-camp-in-malacca/" rel="alternate"></link><published>2014-09-13T14:32:00+09:00</published><updated>2014-09-13T14:32:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2014-09-13:2014/09/13/marimore-engineering-team-camp-in-malacca/</id><summary type="html">&lt;p&gt;Early September 2014 we had a 2-day team camp for our engineering team in
+URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/a&gt;&lt;/p&gt;</summary><category term="ezsms"></category><category term="株式会社あおば堂"></category><category term="ショートメッセージ"></category><category term="通知補助手段"></category></entry><entry><title>有限会社メディコム が、利用者への情報提供や利用料金の通知にEZSMSを導入</title><link href="http://blog.xoxzo.com/medicom-ezsms-usecase-ja.html" rel="alternate"></link><published>2015-04-20T11:00:00+09:00</published><updated>2015-04-20T11:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2015-04-20:medicom-ezsms-usecase-ja.html</id><summary type="html">&lt;p&gt;&lt;a href="http://medicom.jp"&gt;有限会社メディコム&lt;/a&gt;（本社：東京都新宿区）は、株式会社Xoxzo（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）の運営する&lt;a href="http://www.ezsms.biz/ja"&gt;SMS（ショートメッセージ）配信サービス「EZSMS」&lt;/a&gt;を導入しました。 &lt;/p&gt;
+&lt;p&gt;以下は有限会社メディコム様の導入事例とコメントです。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;弊社サービス利用者への情報提供及び利用料金の通知に使用しております。数あるSMS配信システムの中で安価かつ到達率の高さに大変魅力を感じております。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;【有限会社メディコムについて】&lt;/p&gt;
+&lt;p&gt;&lt;img alt="メディコムロゴ" src="http://blog.xoxzo.com/images/client-logos/medicom-logo.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;所在地  ：東京都新宿区百人町1-12-1 ノーブルビル1F &lt;br /&gt;
+設立    ：1995年7月&lt;br /&gt;
+URL     ：&lt;a href="http://medicom.jp"&gt;http://medicom.jp&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;【株式会社Xoxzoについて】&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Xoxzoロゴ" src="http://blog.xoxzo.com/images/xoxzo-logo-02.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Xoxzoは、2007年2月に設立以来SMS技術を中心に自社サービスを開発、運営をしています。「&lt;strong&gt;継続改善&lt;/strong&gt;」をキーワードにしてお客様のニーズを満たすサービスを目指しています。&lt;/p&gt;
+&lt;p&gt;住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F&lt;br /&gt;
+代表： 代表取締役　イクバル・アバドゥラ&lt;br /&gt;
+設立： 2007年2月&lt;br /&gt;
+URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/a&gt;&lt;/p&gt;</summary><category term="ezsms"></category><category term="smsのapi配信"></category><category term="有限会社メディコム"></category><category term="到達率"></category></entry><entry><title>株式会社ペダルが、利用者への情報や認証コード提供にEZSMSを導入</title><link href="http://blog.xoxzo.com/pedal-ezsms-usecase-ja.html" rel="alternate"></link><published>2014-12-26T11:00:00+09:00</published><updated>2014-12-26T11:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2014-12-26:pedal-ezsms-usecase-ja.html</id><summary type="html">&lt;p&gt;&lt;a href="http://www.pedal.co.jp/"&gt;株式会社ペダル&lt;/a&gt;（本社：神奈川県川崎市）は、株式会社Xoxzo（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）の運営する&lt;a href="http://www.ezsms.biz/ja"&gt;SMS（ショートメッセージ）配信サービス「EZSMS」&lt;/a&gt;を導入しました。 &lt;/p&gt;
+&lt;p&gt;以下は株式会社ペダル様の導入事例です。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;・利用者への利用料金の通知または情報提供。&lt;br /&gt;
+・手続きに利用する認証コードのお知らせ。  &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;【株式会社ペダルについて】&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ペダルロゴ" src="http://blog.xoxzo.com/images/client-logos/pedal-logo.png" /&gt;&lt;/p&gt;
+&lt;p&gt;住所：神奈川県川崎市川崎区南渡田町1番1号 京浜ビル&lt;br /&gt;
+設立：2009年1月&lt;br /&gt;
+URL：&lt;a href="http://www.pedal.co.jp/"&gt;http://www.pedal.co.jp/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【株式会社Xoxzoについて】&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Xoxzoロゴ" src="http://blog.xoxzo.com/images/xoxzo-logo-02.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Xoxzoは、2007年2月に設立以来SMS技術を中心に自社サービスを開発、運営をしています。「&lt;strong&gt;継続改善&lt;/strong&gt;」をキーワードにしてお客様のニーズを満たすサービスを目指しています。&lt;/p&gt;
+&lt;p&gt;住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F&lt;br /&gt;
+代表： 代表取締役　イクバル・アバドゥラ&lt;br /&gt;
+設立： 2007年2月&lt;br /&gt;
+URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/a&gt;&lt;/p&gt;</summary><category term="ezsms"></category><category term="smsのapi配信"></category><category term="認証"></category><category term="株式会社ペダル"></category></entry><entry><title>MARIMORE Engineering Team Camp in Malacca</title><link href="http://blog.xoxzo.com/2014/09/13/marimore-engineering-team-camp-in-malacca/" rel="alternate"></link><published>2014-09-13T14:32:00+09:00</published><updated>2014-09-13T14:32:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2014-09-13:2014/09/13/marimore-engineering-team-camp-in-malacca/</id><summary type="html">&lt;p&gt;Early September 2014 we had a 2-day team camp for our engineering team in
 Malacca.&lt;/p&gt;
 &lt;p&gt;Because all of us work remotely all the time and we usually only communicate via
 voice, video and/or text, it is great to meetup and discuss targets,
@@ -878,7 +963,43 @@ team camp by lunch time since we wanted everyone to be home by
 dinner.&lt;/p&gt;
 &lt;p&gt;MARIMORE tries to do team camps a few times a year, and this time it was the
 first time we had it in Malacca. I was pretty happy with the experience,
-and will put Malacca high on top of our list.&lt;/p&gt;</summary><category term="hatten hotel"></category><category term="malacca"></category><category term="marimore"></category></entry><entry><title>株式会社MARIMOREによるFullCourt社買収について</title><link href="http://blog.xoxzo.com/../ja/2014/07/01/marimore-acquiring-fullcourt/" rel="alternate"></link><published>2014-07-01T10:20:00+09:00</published><updated>2014-07-01T10:20:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2014-07-01:../ja/2014/07/01/marimore-acquiring-fullcourt/</id><summary type="html">&lt;p&gt;&lt;img alt="Marimoreロゴ" src="http://blog.xoxzo.com/images/marimore-logo.gif" /&gt;&lt;/p&gt;
+and will put Malacca high on top of our list.&lt;/p&gt;</summary><category term="hatten hotel"></category><category term="malacca"></category><category term="marimore"></category></entry><entry><title>株式会社キュラーズが、EZSMSを利用したSMS配信を導入</title><link href="http://blog.xoxzo.com/quraz-ezsms-usecase-ja.html" rel="alternate"></link><published>2014-08-20T11:10:00+09:00</published><updated>2014-08-20T11:10:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2014-08-20:quraz-ezsms-usecase-ja.html</id><summary type="html">&lt;p&gt;&lt;a href="http://www.quraz.com/"&gt;株式会社キュラーズ&lt;/a&gt;(本社:東京都品川区、代表取締役社長　スティーブ・スポーン)は、株式会社Xoxzo（本社：東京都台東区、代表取締役：イクバル・アバドラ）の運営する&lt;a href="http://www.ezsms.biz/ja"&gt;SMS（ショートメッセージ）配信サービス「EZSMS」&lt;/a&gt;を導入しました。 &lt;/p&gt;
+&lt;p&gt;以下は株式会社キュラーズ担当者からのコメントです。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;弊社は”きれい・安心・便利”なトランクルーム　キュラーズを全国10都市で運営しております。SMSを利用することによりユーザー様に迅速かつ効率的にお知らせ等を通知できるようになりました。EZSMSは配達状況(Successfully sent, failed or in-progress)をトラッキングできるので効率的にSMSを利用することができます。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;【株式会社キュラーズについて】&lt;/p&gt;
+&lt;p&gt;&lt;img alt="キュラーズロゴ" src="http://blog.xoxzo.com/images/client-logos/quraz.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;住所：東京都品川区大崎3-5-2 エステージ大崎3F&lt;br /&gt;
+代表：代表取締役社長　スティーブ・スポーン&lt;br /&gt;
+設立：2001年8月2日&lt;br /&gt;
+URL：&lt;a href="http://www.quraz.com/"&gt;http://www.quraz.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【株式会社Xoxzoについて】&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Xoxzoロゴ" src="http://blog.xoxzo.com/images/xoxzo-logo-02.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Xoxzoは、2007年2月に設立以来SMS技術を中心に自社サービスを開発、運営をしています。「&lt;strong&gt;継続改善&lt;/strong&gt;」をキーワードにしてお客様のニーズを満たすサービスを目指しています。&lt;/p&gt;
+&lt;p&gt;住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F&lt;br /&gt;
+代表： 代表取締役　イクバル・アバドゥラ&lt;br /&gt;
+設立： 2007年2月&lt;br /&gt;
+URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/a&gt;&lt;/p&gt;</summary><category term="ezsms"></category><category term="smsのapi配信"></category><category term="株式会社キュラーズ"></category><category term="ショートメール"></category></entry><entry><title>株式会社EXが、EZSMSを利用した電話番号認証システムを導入</title><link href="http://blog.xoxzo.com/ex-ezsms-usecase-ja.html" rel="alternate"></link><published>2014-08-05T10:10:00+09:00</published><updated>2014-08-05T10:10:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2014-08-05:ex-ezsms-usecase-ja.html</id><summary type="html">&lt;p&gt;株式会社EX、(本社:東京都渋谷区、代表取締役
+小野順季、&lt;a href="http://ex-corp.co.jp/"&gt;http://ex-corp.co.jp/&lt;/a&gt;)は、この度株式会社Xoxzo（本社：東京都台東区、代表取締役：イクバル・アバドラ）の運営するSMS（ショートメッセージ）&lt;a href="http://www.ezsms.biz/ja"&gt;配信APIサービス「EZSMS」&lt;/a&gt;を導入しました。&lt;/p&gt;
+&lt;p&gt;以下は株式会社EX担当者からのコメントです。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;弊社の電話占いサイト、及び電話占いアプリ「まほろば」のサービス開始にあたり、EZSMSを利用した電話番号認証システム、ダイヤルSMS、SMS配信を導入致しました。APIを利用してスムーズな導入が可能な為、大変満足しております。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;【株式会社EXについて】&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://ex-corp.co.jp/"&gt;&lt;img alt="EX logo" src="http://blog.xoxzo.com/images/client-logos/ex-logo.png" title="株式会社EX" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;住所：東京都渋谷区東3-25-3-312&lt;br /&gt;
+電話：03-5774-6687&lt;br /&gt;
+代表：代表取締役　小野順季&lt;br /&gt;
+設立：２００８年７月&lt;br /&gt;
+URL：&lt;a href="http://ex-corp.co.jp/"&gt;http://ex-corp.co.jp/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【株式会社Xoxzoについて】&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Xoxzoロゴ" src="http://blog.xoxzo.com/images/xoxzo-logo-02.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Xoxzoは、2007年2月に設立以来SMS技術を中心に自社サービスを開発、運営をしています。「&lt;strong&gt;継続改善&lt;/strong&gt;」をキーワードにしてお客様のニーズを満たすサービスを目指しています。&lt;/p&gt;
+&lt;p&gt;住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F&lt;br /&gt;
+代表： 代表取締役　イクバル・アバドゥラ&lt;br /&gt;
+設立： 2007年2月&lt;br /&gt;
+URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/a&gt;&lt;/p&gt;</summary><category term="ex"></category><category term="ezsms"></category><category term="use cases"></category><category term="pr"></category><category term="ショートメッセージ"></category></entry><entry><title>株式会社MARIMOREによるFullCourt社買収について</title><link href="http://blog.xoxzo.com/../ja/2014/07/01/marimore-acquiring-fullcourt/" rel="alternate"></link><published>2014-07-01T10:20:00+09:00</published><updated>2014-07-01T10:20:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2014-07-01:../ja/2014/07/01/marimore-acquiring-fullcourt/</id><summary type="html">&lt;p&gt;&lt;img alt="Marimoreロゴ" src="http://blog.xoxzo.com/images/marimore-logo.gif" /&gt;&lt;/p&gt;
 &lt;p&gt;株式会社MARIMOREは、FullCourt社の株式を総額非公開にて100％取得し、
 実質的にMARIMORE社がFullCourt社を傘下におくこととなったと発表した。&lt;/p&gt;
 &lt;p&gt;株式会社MARIMOREの創設者・代表取締役CEO イクバルアバドゥラからのコメント:&lt;/p&gt;
@@ -947,7 +1068,26 @@ the needs of it's customers.&lt;/p&gt;
 &lt;p&gt;Address: Matsuura Bldg 5F, 1-9-4 Taito, Taito-ku, Tokyo, JAPAN&lt;br /&gt;
 CEO: Iqbal Abdullah&lt;br /&gt;
 Founded: Feb 2007&lt;br /&gt;
-URL: &lt;a href="http://www.marimore.co.jp/en/"&gt;http://www.marimore.co.jp/en/&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</summary><category term="fullcourt"></category><category term="ivr"></category><category term="m&amp;a"></category><category term="marimore"></category><category term="voice and sms api"></category></entry><entry><title>アドパートナーが提供するECサイトの会員に対するSMS配信はEZSMS利用</title><link href="http://blog.xoxzo.com/adpartner-ezsms-usecase-ja.html" rel="alternate"></link><published>2014-01-22T14:44:00+09:00</published><updated>2014-01-22T14:44:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2014-01-22:adpartner-ezsms-usecase-ja.html</id><summary type="html">&lt;p&gt;電話登録している会員様の携帯電話にショートメッセージ配信は&lt;a href="https://info.xoxzo.com/ja/" title="株式会社Xoxzo"&gt;株式会社Xoxzo&lt;/a&gt;（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）が運営する&lt;a href="https://www.ezsms.biz/ja/" title="SMS配信サービス「EZSMS」"&gt;SMS（ショートメッセージ）配信サービス「EZSMS」&lt;/a&gt;&lt;/p&gt;
+URL: &lt;a href="http://www.marimore.co.jp/en/"&gt;http://www.marimore.co.jp/en/&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</summary><category term="fullcourt"></category><category term="ivr"></category><category term="m&amp;a"></category><category term="marimore"></category><category term="voice and sms api"></category></entry><entry><title>セレクトが自社サービスにダイヤルSMSとSMS配信にEZSMSを利用する</title><link href="http://blog.xoxzo.com/2014/04/14/select-ezsms-usecase/" rel="alternate"></link><published>2014-04-14T12:43:00+09:00</published><updated>2014-04-14T12:43:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2014-04-14:2014/04/14/select-ezsms-usecase/</id><summary type="html">&lt;p&gt;株式会社セレクト（本社：東京都中野区、代表者：木内
+稔）はショートメッセージ機能ご利用できるようになるため自社サービスは株式会社Xoxzo（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）が運営する&lt;a href="http://www.ezsms.biz/ja"&gt;SMS（ショートメッセージ）配信サービス「EZSMS」&lt;/a&gt;と連携し利用しています。&lt;/p&gt;
+&lt;p&gt;ユーザーがダイヤルSMSを利用することで容易に自社サービスにアクセスできるようにすることや、ダイヤルSMS経由にて弊社サービスに登録したユーザーに対してEZSMSのAPIを利用して、お知らせ等の通知を行います。&lt;/p&gt;
+&lt;p&gt;以下は担当者からのコメントです。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;弊社提供サービスにて、携帯端末及びスマートフォンの操作に慣れていない高齢ユーザーでも気軽にアプリやWEBサイトにアクセスできる仕組みが必要でした。EZSMSのダイヤルSMSやAPIであれば導入も容易で、スムーズに実現することができ、大変満足しております。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;【株式会社セレクトについて】&lt;/p&gt;
+&lt;p&gt;&lt;img alt="セレクトロゴ" src="http://blog.xoxzo.com/images/client-logos/select.png" /&gt;&lt;/p&gt;
+&lt;p&gt;住所：〒164-0013　東京都中野区弥生町6-2-1-1013&lt;br /&gt;
+TEL：03-6869-7789&lt;br /&gt;
+設立：2012年1月&lt;br /&gt;
+URL：&lt;a href="http://se1ect.co.jp/"&gt;http://se1ect.co.jp/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【株式会社Xoxzoについて】&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Xoxzoロゴ" src="http://blog.xoxzo.com/images/xoxzo-logo-02.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Xoxzoは、2007年2月に設立以来SMS技術を中心に自社サービスを開発、運営をしています。「&lt;strong&gt;継続改善&lt;/strong&gt;」をキーワードにしてお客様のニーズを満たすサービスを目指しています。&lt;/p&gt;
+&lt;p&gt;住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F&lt;br /&gt;
+代表： 代表取締役　イクバル・アバドゥラ&lt;br /&gt;
+設立： 2007年2月&lt;br /&gt;
+URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/a&gt;&lt;/p&gt;</summary><category term="ezsms"></category><category term="smsのapi配信"></category><category term="ダイヤルSMS"></category><category term="ショートメッセージ"></category><category term="高齢ユーザ"></category></entry><entry><title>アドパートナーが提供するECサイトの会員に対するSMS配信はEZSMS利用</title><link href="http://blog.xoxzo.com/adpartner-ezsms-usecase-ja.html" rel="alternate"></link><published>2014-01-22T14:44:00+09:00</published><updated>2014-01-22T14:44:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2014-01-22:adpartner-ezsms-usecase-ja.html</id><summary type="html">&lt;p&gt;電話登録している会員様の携帯電話にショートメッセージ配信は&lt;a href="https://info.xoxzo.com/ja/" title="株式会社Xoxzo"&gt;株式会社Xoxzo&lt;/a&gt;（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）が運営する&lt;a href="https://www.ezsms.biz/ja/" title="SMS配信サービス「EZSMS」"&gt;SMS（ショートメッセージ）配信サービス「EZSMS」&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;以下は担当者からのコメントです。&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;APIの利用で簡単に利用でき、他のサービスより低価格で利用できるところ&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;【株式会社アドパートナーについて 】&lt;/p&gt;
@@ -962,7 +1102,43 @@ URL ： http://www.add-partner.com/company.html&lt;/p&gt;
 &lt;p&gt;住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F
 代表： 代表取締役　イクバル・アバドゥラ
 設立： 2007年2月
-URL ： &lt;a href="https://info.xoxzo.com/"&gt;https://info.xoxzo.com/&lt;/a&gt;&lt;/p&gt;</summary><category term="ショートメッセージ"></category><category term="ECサイト"></category><category term="ezsms"></category><category term="sms"></category><category term="携帯電話"></category></entry><entry><title>株式会社モエゲームが、EZSMSを利用した電話番号認証 システムを導入</title><link href="http://blog.xoxzo.com/moegame-ezsms-usecase-ja.html" rel="alternate"></link><published>2013-07-03T16:27:00+09:00</published><updated>2013-07-03T16:27:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2013-07-03:moegame-ezsms-usecase-ja.html</id><summary type="html">&lt;p&gt;&lt;a href="http://moegame.co.jp/"&gt;株式会社モエゲーム&lt;/a&gt;、(本社:大阪府中央区、代表取締役
+URL ： &lt;a href="https://info.xoxzo.com/"&gt;https://info.xoxzo.com/&lt;/a&gt;&lt;/p&gt;</summary><category term="ショートメッセージ"></category><category term="ECサイト"></category><category term="ezsms"></category><category term="sms"></category><category term="携帯電話"></category></entry><entry><title>インターネットショッピングモール「Qoo10」が、本人確認のためEZSMSを導入</title><link href="http://blog.xoxzo.com/2014/01/15/goo10-ezsms-usecase/" rel="alternate"></link><published>2014-01-15T15:14:00+09:00</published><updated>2014-01-15T15:14:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2014-01-15:2014/01/15/goo10-ezsms-usecase/</id><summary type="html">&lt;p&gt;社：東京都港区、代表者：金孝種（キム・ヒョウジョン）、以下ジオシス】は、&lt;a href="https://info.xoxzo.com/ja/"&gt;株式会社Xoxzo&lt;/a&gt;（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）が運営する&lt;a href="https://www.ezsms.biz/ja/" title="SMS配信サービス「EZSMS」"&gt;SMS（ショートメッセージ）配信サービス「EZSMS」&lt;/a&gt;を利用し、「Qoo10」の本人確認を行っています。&lt;/p&gt;
+&lt;p&gt;以下は担当者からのコメントです。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;インターネットショッピングモール「Qoo10」では、ユーザーが安全かつ簡単に利用できるユーザー認証システムが必要でした。キャリアを問わず利用できAPIを使用しているEZSMSは、スムーズな導入が可能で、安全・安心して利用できるため満足しております。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;【ジオシス合同会社について 】&lt;br /&gt;
+&lt;img alt="Qoo10" src="http://blog.xoxzo.com/images/client-logos/qoo10-logo.png" title="Qoo10" /&gt;&lt;/p&gt;
+&lt;p&gt;ジオシス合同会社は、日本において&lt;a href="http://www.qoo10.jp/" title="インターネットショッピングモール「Qoo10」"&gt;インターネットショッピングモール「Qoo10」&lt;/a&gt;（キューテン）の運営と、インターネットサービスの提供をしております。
+ジオシスグループ（本社：シンガポール）は、アジア地域においてインターネット通信販売オープンマーケットを設立するため、
+世界最大級のインターネット通販/オークションサイトであるアメリカeBayとのジョイントベンチャーとして設立しました。
+ジオシス合同会社はジオシスグループの日本法人になります。&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.qoo10.jp/" title="インターネットショッピングモール「Qoo10」"&gt;インターネットショッピングモール「Qoo10」&lt;/a&gt;は、日本をはじめ、シンガポールなどアジア５か国７つのサイトでeオープンマーケットを運営しております。「Qoo10」は各国のサイトが互いに連携できる革新的なグローバルプラットフォームで構築されており、会員の方は法人、個人に限らず、また国内、国外を問わず、eオープンマーケットで安全・安心に商品を売買することができます。&lt;/p&gt;
+&lt;p&gt;ジオシス合同会社は「Qoo10」のグローバルプラットフォームで、より良い商品を特別価格で提供し、お客様にご愛顧いただけるサイトを目指して参ります。&lt;/p&gt;
+&lt;p&gt;【株式会社Xoxzoについて】&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Xoxzoロゴ" src="http://blog.xoxzo.com/images/xoxzo-logo-02.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Xoxzoは、2007年2月に設立以来SMS技術を中心に自社サービスを開発、運営をしています。「&lt;strong&gt;継続改善&lt;/strong&gt;」をキーワードにしてお客様のニーズを満たすサービスを目指しています。&lt;/p&gt;
+&lt;p&gt;住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F&lt;br /&gt;
+代表： 代表取締役　イクバル・アバドゥラ&lt;br /&gt;
+設立： 2007年2月&lt;br /&gt;
+URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/a&gt;&lt;/p&gt;</summary><category term="ezsms"></category><category term="smsのapi配信"></category><category term="qoo10"></category><category term="本人認証"></category></entry><entry><title>株式会社スーパーウェブが、EZSMSを利用した認証 システム導入</title><link href="http://blog.xoxzo.com/superweb-ezsms-usecase-ja.html" rel="alternate"></link><published>2013-11-07T10:00:00+09:00</published><updated>2013-11-07T10:00:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2013-11-07:superweb-ezsms-usecase-ja.html</id><summary type="html">&lt;p&gt;&lt;a href="http://www.superweb.co.jp/"&gt;株式会社スーパーウェブ&lt;/a&gt;(本社:兵庫県神戸市中央区、代表取締役 豊永 貴士)は、この度株式会社Xoxzo（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）運営する&lt;a href="http://www.ezsms.biz/ja"&gt;SMS（ショートメッセージ）配信APIサービス「EZSMS」&lt;/a&gt;を導入しました。&lt;/p&gt;
+&lt;p&gt;以下は株式会社スーパーウェブ担当者からのコメントです。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;弊社の提供する、オートバイ、自転車乗りのための位置情報＆コミュニケーションアプリ「ツーリンログ」に、安全かつ安心して使用できる認証サービスが必要でした。EZSMSはキャリアを問わず、スムーズに導入可能で、満足しています。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;【株式会社スーパーウェブについて】&lt;/p&gt;
+&lt;p&gt;&lt;img alt="スーパーウェブのロゴ" src="http://blog.xoxzo.com/images/client-logos/superweb.gif" /&gt;&lt;/p&gt;
+&lt;p&gt;住所：兵庫県神戸市中央区京町79　日本ビルヂング7F&lt;br /&gt;
+代表： 代表取締役 豊永　貴士&lt;br /&gt;
+設立： 1998年6月&lt;br /&gt;
+URL ：&lt;a href="http://www.superweb.co.jp/"&gt;http://www.superweb.co.jp/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【株式会社Xoxzoについて】&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://info.xoxzo.com/ja/"&gt;&lt;img alt="Xoxzoロゴ" src="http://blog.xoxzo.com/images/xoxzo-logo-02.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Xoxzoは、2007年2月に設立以来SMS技術を中心に自社サービスを開発、運営をしています。「&lt;strong&gt;継続改善&lt;/strong&gt;」をキーワードにしてお客様のニーズを満たすサービスを目指しています。&lt;/p&gt;
+&lt;p&gt;住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F&lt;br /&gt;
+代表： 代表取締役　イクバル・アバドゥラ&lt;br /&gt;
+設立： 2007年2月&lt;br /&gt;
+URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/a&gt;&lt;/p&gt;</summary><category term="ezsms"></category><category term="smsのapi配信"></category><category term="株式会社スーパーウェブ"></category><category term="実例"></category><category term="認証"></category></entry><entry><title>株式会社モエゲームが、EZSMSを利用した電話番号認証 システムを導入</title><link href="http://blog.xoxzo.com/moegame-ezsms-usecase-ja.html" rel="alternate"></link><published>2013-07-03T16:27:00+09:00</published><updated>2013-07-03T16:27:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2013-07-03:moegame-ezsms-usecase-ja.html</id><summary type="html">&lt;p&gt;&lt;a href="http://moegame.co.jp/"&gt;株式会社モエゲーム&lt;/a&gt;、(本社:大阪府中央区、代表取締役
 岡本光平)は、この度&lt;a href="https://info.xoxzo.com/ja/"&gt;株式会社Xoxzo&lt;/a&gt;（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）運営するSMS（ショートメッセージ）&lt;a href="http://www.ezsms.biz/ja"&gt;配信APIサービス「EZSMS」&lt;/a&gt;を導入しました。&lt;/p&gt;
 &lt;p&gt;以下は株式会社モエゲーム担当者からのコメントです。&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;弊社は『モエゲーム』というSNSを運営しております。この度、ユーザー様に安
@@ -992,7 +1168,62 @@ URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/
 &lt;p&gt;住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F
 代表： 代表取締役　イクバル・アバドゥラ
 設立： 2007年2月
-URL ： &lt;a href="https://info.xoxzo.com/"&gt;https://info.xoxzo.com/&lt;/a&gt;&lt;/p&gt;</summary><category term="プライバシーマーク"></category><category term="認定"></category><category term="pマーク"></category><category term="個人情報"></category></entry><entry><title>和解による訴訟の取下げに関するお知らせ</title><link href="http://blog.xoxzo.com/patent-lawsuit-action-resolved-ja.html" rel="alternate"></link><published>2013-03-07T10:00:00+09:00</published><updated>2013-03-07T10:00:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2013-03-07:patent-lawsuit-action-resolved-ja.html</id><summary type="html">&lt;p&gt;当社は2012-12-28日付「&lt;a href="http://blog.xoxzo.com/patent-lawsuit-action-ja.html"&gt;特許侵害訴訟の提起について（特許第4889813号
+URL ： &lt;a href="https://info.xoxzo.com/"&gt;https://info.xoxzo.com/&lt;/a&gt;&lt;/p&gt;</summary><category term="プライバシーマーク"></category><category term="認定"></category><category term="pマーク"></category><category term="個人情報"></category></entry><entry><title>株式会社ヴィーナスブロードキャストが、ユーザ認証のためにEZSMSとの連携を開始</title><link href="http://blog.xoxzo.com/venusbroadcast-ezsms-usecase-ja.html" rel="alternate"></link><published>2013-06-06T14:57:00+09:00</published><updated>2013-06-06T14:57:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2013-06-06:venusbroadcast-ezsms-usecase-ja.html</id><summary type="html">&lt;p&gt;&lt;a href="http://venusbroadcast.com/"&gt;株式会社ヴィーナスブロードキャスト&lt;/a&gt;、(本社:東京都港区、代表取締役
+西田 圭悟)は、この度株式会社Xoxzo（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）運営する&lt;a href="http://www.ezsms.biz/ja"&gt;SMS（ショートメッセージ）配信APIサービス「EZSMS」&lt;/a&gt;を利用し、運営する婚活支援アプリ「&lt;a href="http://konnavi.info/"&gt;婚ナビ&lt;/a&gt;」のユーザ認証を安全に行うための連携を開始しました。&lt;/p&gt;
+&lt;p&gt;以下は株式会社ヴィーナスブロードキャスト担当者からのコメントです。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;弊社提供の婚活支援サービス内にて、ユーザが安全かつ簡単に使用開始できるようなユーザ認証システムが必要でした。キャリアを問わず利用でき、APIを使用しているEZSMSは、スムーズな導入が可能であったため本当に満足しております。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;【株式会社ヴィーナスブロードキャストについて】&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ヴィーナスブロードキャストロゴ" src="http://blog.xoxzo.com/images/client-logos/venusbroadcast.gif" /&gt;&lt;/p&gt;
+&lt;p&gt;住所： 〒106-0032　東京都港区六本木6-15-1　けやき坂テラス403&lt;br /&gt;
+代表取締役：西田 圭悟&lt;br /&gt;
+設立： 2009年12月&lt;br /&gt;
+URL ： &lt;a href="http://venusbroadcast.com/"&gt;http://venusbroadcast.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【株式会社Xoxzoについて】&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://info.xoxzo.com/ja/"&gt;&lt;img alt="Xoxzoロゴ" src="http://blog.xoxzo.com/images/xoxzo-logo-02.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Xoxzoは、2007年2月に設立以来SMS技術を中心に自社サービスを開発、運営をしています。「&lt;strong&gt;継続改善&lt;/strong&gt;」をキーワードにしてお客様のニーズを満たすサービスを目指しています。&lt;/p&gt;
+&lt;p&gt;住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F&lt;br /&gt;
+代表： 代表取締役　イクバル・アバドゥラ&lt;br /&gt;
+設立： 2007年2月&lt;br /&gt;
+URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/a&gt;&lt;/p&gt;</summary><category term="ezsms"></category><category term="smsのapi配信"></category><category term="ヴィーナスブロードキャスト"></category><category term="婚ナビ"></category><category term="本人確認"></category></entry><entry><title>株式会社フルイヤー、EZSMSを導入し運営するサービスのユーザ認証を行っています</title><link href="http://blog.xoxzo.com/fullyear-ezsms-usecase-ja.html" rel="alternate"></link><published>2013-04-04T17:43:00+09:00</published><updated>2013-04-04T17:43:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2013-04-04:fullyear-ezsms-usecase-ja.html</id><summary type="html">&lt;p&gt;株式会社フルイヤー、(本社:東京都港区、代表取締役上原嗣則、&lt;a href="http://www.fullyear.co.jp/"&gt;http://www.fullyear.co.jp/&lt;/a&gt;)は、
+この度株式会社Xoxzo（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）運営する&lt;a href="http://www.ezsms.biz/ja"&gt;SMS（ショートメッセージ）配信APIサービス「EZSMS」&lt;/a&gt;を導入し運営するサービスのユーザ認証を行っています。&lt;/p&gt;
+&lt;p&gt;以下は株式会社フルイヤー担当者からのコメントです。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;弊社提供サービス内にて、第三者の“なりすまし“などの不正利用を防ぐため、ユーザー認証を行えるサービスを検討しておりました。EZSMSは、APIを使用しているので、容易に導入することができ、大変満足しております。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;【株式会社フルイヤーについて】&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.fullyear.co.jp/"&gt;&lt;img alt="Fullyear logo" src="http://blog.xoxzo.com/images/client-logos/fullyear-logo.gif" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;住所： 〒107-0062　東京都港区南青山2-23-8 外苑ビル8F
+代表： 代表取締役 上原嗣則
+設立： 2007年9月
+URL ： &lt;a href="http://www.fullyear.co.jp/"&gt;http://www.fullyear.co.jp/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【株式会社Xoxzoについて】&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Xoxzoロゴ" src="http://blog.xoxzo.com/images/xoxzo-logo-02.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Xoxzoは、2007年2月に設立以来SMS技術を中心に自社サービスを開発、運営をしています。「&lt;strong&gt;継続改善&lt;/strong&gt;」をキーワードにしてお客様のニーズを満たすサービスを目指しています。&lt;/p&gt;
+&lt;p&gt;住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F&lt;br /&gt;
+代表： 代表取締役　イクバル・アバドゥラ&lt;br /&gt;
+設立： 2007年2月&lt;br /&gt;
+URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/a&gt;&lt;/p&gt;</summary><category term="ezsms"></category><category term="smsのapi配信"></category><category term="株式会社フルイヤー"></category><category term="ユーザ認証"></category></entry><entry><title>GMOメディア株式会社、EZSMSと連携しメッセージアプリ「freemlトーク」にて安全に認証を行う</title><link href="http://blog.xoxzo.com/gmomedia-ezsms-usecase-ja.html" rel="alternate"></link><published>2013-03-20T09:54:00+09:00</published><updated>2013-03-20T09:54:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2013-03-20:gmomedia-ezsms-usecase-ja.html</id><summary type="html">&lt;p&gt;&lt;a href="http://www.gmo-media.jp/"&gt;GMOメディア株式会社&lt;/a&gt;、(本社:東京都渋谷区、代表取締役社長
+森輝幸)は、この度株式会社Xoxzo（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）運営する&lt;a href="http://www.ezsms.biz/ja"&gt;SMS（ショートメッセージ）配信APIサービス「EZSMS」&lt;/a&gt;と連携しメッセージアプリ「freemlトーク」の認証を行うことになりました。&lt;/p&gt;
+&lt;p&gt;以下はGMOメディア株式会社担当者からのコメント&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;スタンプ／絵文字／写真を送り合えるかんたんメッセージアプリ「freemlトーク」にて安全に認証を行うためにEZSMSを採用いたしました。
+キャリアを問わずSMS送信が単一のAPIで行えるため、システム開発の効率化にも繋がりました。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;【GMOメディア株式会社について】&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.gmo-media.jp/"&gt;&lt;img alt="Gmomediaロゴ" src="http://blog.xoxzo.com/images/client-logos/gmomedia-logo.gif" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;住所： 〒150-8512　東京都渋谷区桜丘町26番1号 セルリアンタワー
+代表： 代表取締役社長 森 輝幸
+設立： 2000年10月
+URL ： &lt;a href="http://www.gmo-media.jp/"&gt;http://www.gmo-media.jp/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【株式会社Xoxzoについて】&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Xoxzoロゴ" src="http://blog.xoxzo.com/images/xoxzo-logo-02.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Xoxzoは、2007年2月に設立以来SMS技術を中心に自社サービスを開発、運営をしています。「&lt;strong&gt;継続改善&lt;/strong&gt;」をキーワードにしてお客様のニーズを満たすサービスを目指しています。&lt;/p&gt;
+&lt;p&gt;住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F&lt;br /&gt;
+代表： 代表取締役　イクバル・アバドゥラ&lt;br /&gt;
+設立： 2007年2月&lt;br /&gt;
+URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/a&gt;&lt;/p&gt;</summary><category term="ezsms"></category><category term="smsのapi配信"></category><category term="gmoメディア株式会社"></category><category term="freemlトーク"></category><category term="アプリ"></category></entry><entry><title>和解による訴訟の取下げに関するお知らせ</title><link href="http://blog.xoxzo.com/patent-lawsuit-action-resolved-ja.html" rel="alternate"></link><published>2013-03-07T10:00:00+09:00</published><updated>2013-03-07T10:00:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2013-03-07:patent-lawsuit-action-resolved-ja.html</id><summary type="html">&lt;p&gt;当社は2012-12-28日付「&lt;a href="http://blog.xoxzo.com/patent-lawsuit-action-ja.html"&gt;特許侵害訴訟の提起について（特許第4889813号
 ）&lt;/a&gt;」にてお知らせしましたとおり、
 株式会社メディアネットワークサービス（以下MNS社）に対し、SMS配信API技術の使用行為の中止とともに、
 損害賠償を求める訴訟（以下「本件訴訟」といいます。）を東京地方裁判所に提起しましたが、当社とMNS社の間で協議を行い訴訟外で和解が成立したため、2013-03-6日付けで本件訴訟を取り下げました。&lt;/p&gt;
@@ -1431,7 +1662,20 @@ native behavior in older browsers. So instead of worrying about support
 in some browsers, use these polyfills to enhance the browsers to provide
 the user with proper experience to your web sites and applications.&lt;/p&gt;
 &lt;p&gt;&lt;a href="" title="anchor1"&gt;1.&lt;/a&gt; &lt;a href="http://html5doctor.com/native-audio-in-the-browser/"&gt;http://html5doctor.com/native-audio-in-the-browser/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="" title="anchor2"&gt;2.&lt;/a&gt; &lt;a href="http://html5please.com/#audio"&gt;http://html5please.com/#audio&lt;/a&gt;&lt;/p&gt;</summary><category term="html5"></category><category term="browsers"></category><category term="audio"></category></entry><entry><title>Releasing dev version of your package to PyPI</title><link href="http://blog.xoxzo.com/2012/03/20/releasing-dev-version-of-your-package-to-pypi/" rel="alternate"></link><published>2012-03-20T08:50:00+09:00</published><updated>2012-03-20T08:50:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2012-03-20:2012/03/20/releasing-dev-version-of-your-package-to-pypi/</id><summary type="html">&lt;p&gt;&lt;a href="http://pypi.python.org/pypi"&gt;PyPI&lt;/a&gt; (Python Package Index) has become a
+&lt;p&gt;&lt;a href="" title="anchor2"&gt;2.&lt;/a&gt; &lt;a href="http://html5please.com/#audio"&gt;http://html5please.com/#audio&lt;/a&gt;&lt;/p&gt;</summary><category term="html5"></category><category term="browsers"></category><category term="audio"></category></entry><entry><title>株式会社オレンジスピリッツがEZSMSを情報通知サービスに利用</title><link href="http://blog.xoxzo.com/orangespirits-ezsms-usecase-ja.html" rel="alternate"></link><published>2012-04-13T10:00:00+09:00</published><updated>2012-04-13T10:00:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2012-04-13:orangespirits-ezsms-usecase-ja.html</id><summary type="html">&lt;p&gt;システム事業を展開する&lt;a href="http://www.orange-spirits.com/"&gt;株式会社オレンジスピリッツ&lt;/a&gt;（本社：東京都文京区、代表取締役：野口洋一）は、この度株式会社Xoxzo（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）が運営する&lt;a href="http://www.ezsms.biz/ja"&gt;「SMS配信APIサービスEZSMS」&lt;/a&gt;を、情報通知サービスに利用する事となりました。&lt;/p&gt;
+&lt;p&gt;【株式会社オレンジスピリッツについて】&lt;/p&gt;
+&lt;p&gt;&lt;img alt="オレンジスピリッツロゴ" src="http://blog.xoxzo.com/images/client-logos/orangespirits-logo.gif" /&gt;&lt;/p&gt;
+&lt;p&gt;住所: 〒113-0033 東京都文京区本郷2-4-7 大成堂ビル4F&lt;br /&gt;
+代表: 野口 洋一&lt;br /&gt;
+設立: 2007年6月&lt;br /&gt;
+URL: &lt;a href="http://www.orange-spirits.com/"&gt;http://www.orange-spirits.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【株式会社Xoxzoについて】&lt;br /&gt;
+&lt;img alt="Xoxzoロゴ" src="http://blog.xoxzo.com/images/xoxzo-logo-02.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Xoxzoは、2007年2月に設立以来SMS技術を中心に自社サービスを開発、運営をしています。「&lt;strong&gt;継続改善&lt;/strong&gt;」をキーワードにしてお客様のニーズを満たすサービスを目指しています。&lt;/p&gt;
+&lt;p&gt;住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F&lt;br /&gt;
+代表： 代表取締役　イクバル・アバドゥラ&lt;br /&gt;
+設立： 2007年2月&lt;br /&gt;
+URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/a&gt;&lt;/p&gt;</summary><category term="ezsms"></category><category term="smsのapi配信"></category><category term="株式会社オレンジスピリッツ"></category></entry><entry><title>Releasing dev version of your package to PyPI</title><link href="http://blog.xoxzo.com/2012/03/20/releasing-dev-version-of-your-package-to-pypi/" rel="alternate"></link><published>2012-03-20T08:50:00+09:00</published><updated>2012-03-20T08:50:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2012-03-20:2012/03/20/releasing-dev-version-of-your-package-to-pypi/</id><summary type="html">&lt;p&gt;&lt;a href="http://pypi.python.org/pypi"&gt;PyPI&lt;/a&gt; (Python Package Index) has become a
 central place for python developers these days to look for third party
 libraries. Common tools such as easy_install, pip or buildout by
 default will look into &lt;a href="http://pypi.python.org/pypi"&gt;PyPI&lt;/a&gt; when asked to
@@ -1715,11 +1959,13 @@ modify &lt;code&gt;sys.path&lt;/code&gt; directly and more convenient since you 
 the initial bootstrap code of your application.&lt;/p&gt;</summary><category term="python"></category></entry><entry><title>Zenlok株式会社、EZSMSと連携し多段階認証システムの一部として利用</title><link href="http://blog.xoxzo.com/zenlok-ezsms-usecase-ja.html" rel="alternate"></link><published>2011-11-01T17:00:00+09:00</published><updated>2011-11-01T17:00:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2011-11-01:zenlok-ezsms-usecase-ja.html</id><summary type="html">&lt;p&gt;&lt;img alt="EZSMSロゴ" src="http://blog.xoxzo.com/images/ezsms_logo1.png" /&gt;&lt;/p&gt;
 &lt;p&gt;クラウドセキュリティサービスを展開する&lt;a href="http://www.zenlok.com/"&gt;Zenlok株式会社&lt;/a&gt;（本社:東京都渋谷区、代表取締役:アミール・アヤロン）は、この度株式会社Xoxzo（本社：東京都台東区、代表取締役：イクバル・アバドゥラ、以下Xoxzo）運営する&lt;a href="http://www.ezsms.biz/ja/"&gt;SMS配信APIサービス「EZSMS」&lt;/a&gt;と連携し多段階認証システムの一部として利用することになりました。&lt;/p&gt;
 &lt;p&gt;以下はZenlok株式会社の担当者からのコメント&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Zenlok株式会社は、私たちのお客様のユーザー認証をより便利かつ安全に行うために、
+&lt;blockquote&gt;
+&lt;p&gt;Zenlok株式会社は、私たちのお客様のユーザー認証をより便利かつ安全に行うために、
 携帯電話のSMS機能を使った方法を検討しそのソリューションを探していました。
 EZSMSは、弊社のシステムとの連携も容易でかつ最新のAPIを使用しているため、
 簡単に日本のすべての携帯電話キャリアに対しSMSの接続が可能となり、大変満
-足しています。&lt;/em&gt;&lt;/p&gt;
+足しています。&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;【Zenlok株式会社について】&lt;/p&gt;
 &lt;p&gt;&lt;img alt="Zeonlokロゴ" src="http://blog.xoxzo.com/images/client-logos/zenlok-logo.gif" title="Site-id" /&gt;&lt;/p&gt;
 &lt;p&gt;Zenlokは、大切な人との大切なコミュニケーションを安心に行うための新しいマナーです。&lt;/p&gt;
@@ -1729,12 +1975,12 @@ EZSMSは、弊社のシステムとの連携も容易でかつ最新のAPIを使
 設立： 2007年4月&lt;br /&gt;
 URL ： &lt;a href="http://www.zenlok.com/"&gt;http://www.zenlok.com/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;【株式会社Xoxzoについて】&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Xoxzoロゴ" src="http://blog.xoxzo.com/images/xoxzo-logo-02.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://info.xoxzo.com/ja/"&gt;&lt;img alt="Xoxzoロゴ" src="http://blog.xoxzo.com/images/xoxzo-logo-02.png" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Xoxzoは、2007年2月に設立以来SMS技術を中心に自社サービスを開発、運営をしています。「&lt;strong&gt;継続改善&lt;/strong&gt;」をキーワードにしてお客様のニーズを満たすサービスを目指しています。&lt;/p&gt;
 &lt;p&gt;住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F&lt;br /&gt;
 代表： 代表取締役　イクバル・アバドゥラ&lt;br /&gt;
 設立： 2007年2月&lt;br /&gt;
-URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/a&gt;&lt;/p&gt;</summary><category term="プレスリリース"></category><category term="ezsms"></category><category term="smsのapi配信"></category><category term="zenlok株式会社"></category></entry><entry><title>Subversion merging changes between branches</title><link href="http://blog.xoxzo.com/2011/09/24/subversion-merging-changes-between-branches/" rel="alternate"></link><published>2011-09-24T08:04:00+09:00</published><updated>2011-09-24T08:04:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2011-09-24:2011/09/24/subversion-merging-changes-between-branches/</id><summary type="html">&lt;p&gt;For svn branching strategy, we used the &lt;a href="http://stackoverflow.com/questions/597707/best-branching-strategy-when-doing-continuous-integration"&gt;feature
+URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/a&gt;&lt;/p&gt;</summary><category term="ezsms"></category><category term="smsのapi配信"></category><category term="zenlok株式会社"></category></entry><entry><title>Subversion merging changes between branches</title><link href="http://blog.xoxzo.com/2011/09/24/subversion-merging-changes-between-branches/" rel="alternate"></link><published>2011-09-24T08:04:00+09:00</published><updated>2011-09-24T08:04:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2011-09-24:2011/09/24/subversion-merging-changes-between-branches/</id><summary type="html">&lt;p&gt;For svn branching strategy, we used the &lt;a href="http://stackoverflow.com/questions/597707/best-branching-strategy-when-doing-continuous-integration"&gt;feature
 branch&lt;/a&gt;
 approach. This mean we keep trunk stable at all time and for any new
 features to work on, we start a new branch. While working on the branch,
