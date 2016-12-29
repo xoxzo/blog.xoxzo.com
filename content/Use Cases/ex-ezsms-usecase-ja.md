@@ -16,7 +16,7 @@ Slug: ex-ezsms-usecase
 
 【株式会社EXについて】
 
-[![EX logo]({filename}/images/ex-logo.png "株式会社EX")](http://ex-corp.co.jp/)
+[![EX logo]({filename}/images/client-logos/ex-logo.png "株式会社EX")](http://ex-corp.co.jp/)
 
 住所：東京都渋谷区東3-25-3-312  
 電話：03-5774-6687  
