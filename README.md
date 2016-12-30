@@ -36,13 +36,11 @@ and access *localhost:8000* via your browser to make sure everything looks ok.
 Please follow the format of the filenames that you see, i.e append the language
 at the end of the file name after the filename itself:
 
-`
-合計 16
-drwxr-xr-x  2 iqbal iqbal 4096 12月 19 09:23 .
-drwxrwxr-x 12 iqbal iqbal 4096 12月 28 20:43 ..
--rw-rw-r--  1 iqbal iqbal 1221 12月 17 21:17 end-of-kof-en.md
--rw-rw-r--  1 iqbal iqbal 1166 12月 17 21:17 end-of-kof-ja.md
-`
+    合計 16
+    drwxr-xr-x  2 iqbal iqbal 4096 12月 19 09:23 .
+    drwxrwxr-x 12 iqbal iqbal 4096 12月 28 20:43 ..
+    -rw-rw-r--  1 iqbal iqbal 1221 12月 17 21:17 end-of-kof-en.md
+    -rw-rw-r--  1 iqbal iqbal 1166 12月 17 21:17 end-of-kof-ja.md
 
 ### Category
 
@@ -58,20 +56,17 @@ instead.
 
 These metadata is required for all articles
 
-`
     Title: 
     Date: 
     Author: 
     Tags: 
     Slug: 
-`
 
 #### Translations
 
 If your article has translations, you *MUST* also include the **Lang:** metadata,
 like this:
 
-`
     Title: Participating KOF-Kansai Open Source Forum
     Date: 2016-11-14 11:00 
     Slug: kof-2016-report
@@ -80,7 +75,6 @@ like this:
     Tags: kof; osaka; exhibition;
     Author: Aiko Yokoyama
     Summary: We participated in the KOF 2016 and this is what we think
-`
 
 If your article has no translations, **do not** include the Lang: metadata as
 that will mess up the URL links format.
