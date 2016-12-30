@@ -1,7 +1,6 @@
 Title: GMOメディア株式会社、EZSMSと連携しメッセージアプリ「freemlトーク」にて安全に認証を行う
 Date: 2013-03-20 09:54
 Author: Iqbal Abdullah
-Lang: ja
 Tags: ezsms, smsのapi配信, gmoメディア株式会社, freemlトーク, アプリ
 Slug: gmomedia-ezsms-usecase
 Summary: 「freemlトーク」がEZSMSを導入する

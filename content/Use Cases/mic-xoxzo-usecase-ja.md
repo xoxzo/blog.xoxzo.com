@@ -1,7 +1,6 @@
 Title: 有限会社エムアイシー総合企画がXoxzoクラウド・テレフォニー・プラットフォームを導入
 Date: 2016-03-18 11:00
 Author: Aiko Yokoyama
-Lang: ja
 Tags: xoxzo, smsのapi配信, 有限会社エムアイシー
 Slug: mic-xoxzo-usecase
 

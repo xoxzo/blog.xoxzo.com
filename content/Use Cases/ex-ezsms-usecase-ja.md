@@ -1,7 +1,6 @@
 Title: 株式会社EXが、EZSMSを利用した電話番号認証システムを導入
 Date: 2014-08-05 10:10
 Author: Aiko Yokoyama
-Lang: ja
 Tags: ex, ezsms, use cases, pr, ショートメッセージ
 Slug: ex-ezsms-usecase
 

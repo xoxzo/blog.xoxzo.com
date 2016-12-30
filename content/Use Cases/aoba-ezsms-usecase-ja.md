@@ -1,7 +1,6 @@
 Title: 株式会社あおば堂が、利用者への通知補助手段としてEZSMSを導入
 Date: 2015-04-27 11:00
 Author: Aiko Yokoyama
-Lang: ja
 Tags: ezsms, 株式会社あおば堂, ショートメッセージ, 通知補助手段
 Slug: aoba-ezsms-usecase
 

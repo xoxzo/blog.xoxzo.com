@@ -1,7 +1,6 @@
 Title: ⼾⽥建設株式会社が XOXZO を⽤いて、社内ウェブに連絡⽤ SMS 送信機能を実装
 Date: 2016-05-26 09:49
 Author: Aiko Yokoyama
-Lang: ja
 Tags: xoxzo, smsのapi配信, ⼾⽥建設株式会社
 Slug: toda-corporation-xoxzo-usecase
 

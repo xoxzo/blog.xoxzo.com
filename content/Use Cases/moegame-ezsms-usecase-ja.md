@@ -1,7 +1,6 @@
 Title: 株式会社モエゲームが、EZSMSを利用した電話番号認証 システムを導入
 Date: 2013-07-03 16:27
 Author: Iqbal Abdullah
-Lang: ja
 Tags: プレスリリース, ezsms, smsのapi配信, 認証
 Slug: moegame-ezsms-usecase
 

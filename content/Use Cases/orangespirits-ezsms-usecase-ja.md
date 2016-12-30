@@ -1,7 +1,6 @@
 Title: 株式会社オレンジスピリッツがEZSMSを情報通知サービスに利用
 Date: 2012-04-13 10:00
 Author: Iqbal Abdullah
-Lang: ja
 Tags: ezsms, smsのapi配信, 株式会社オレンジスピリッツ
 Slug: orangespirits-ezsms-usecase
 

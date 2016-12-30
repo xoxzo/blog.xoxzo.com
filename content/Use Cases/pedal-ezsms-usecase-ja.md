@@ -1,7 +1,6 @@
 Title: 株式会社ペダルが、利用者への情報や認証コード提供にEZSMSを導入
 Date: 2014-12-26 11:00
 Author: Aiko Yokoyama
-Lang: ja
 Tags: ezsms, smsのapi配信, 認証, 株式会社ペダル
 Slug: pedal-ezsms-usecase
 

@@ -1,7 +1,6 @@
 Title: アドパートナーが提供するECサイトの会員に対するSMS配信はEZSMS利用
 Date: 2014-01-22 14:44
 Author: Iqbal Abdullah
-Lang: ja
 Tags: ショートメッセージ, ECサイト, ezsms, sms, 携帯電話
 Slug: adpartner-ezsms-usecase
 

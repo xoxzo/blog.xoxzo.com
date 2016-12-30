@@ -1,7 +1,6 @@
 Title: ADIT株式会社がユーザーへのリアルタイム・重要通知にEZSMSを導入
 Date: 2016-09-23 10:59
 Author: Aiko Yokoyama
-Lang: ja
 Tags: adit, ezsms, use cases, pr
 Slug: adit-ezsms-usecase
 Summary: ADIT株式会社Xoxzoを利用する

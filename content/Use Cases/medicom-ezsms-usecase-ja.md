@@ -1,7 +1,6 @@
 Title: 有限会社メディコム が、利用者への情報提供や利用料金の通知にEZSMSを導入
 Date: 2015-04-20 11:00
 Author: Aiko Yokoyama
-Lang: ja
 Tags: ezsms, smsのapi配信, 有限会社メディコム, 到達率
 Slug: medicom-ezsms-usecase
 

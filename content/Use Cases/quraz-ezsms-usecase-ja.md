@@ -1,7 +1,6 @@
 Title: 株式会社キュラーズが、EZSMSを利用したSMS配信を導入
 Date: 2014-08-20 11:10
 Author: Aiko Yokoyama
-Lang: ja
 Tags: ezsms, smsのapi配信, 株式会社キュラーズ, ショートメール
 Slug: quraz-ezsms-usecase
 

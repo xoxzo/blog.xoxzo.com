@@ -1,7 +1,6 @@
 Title: キャリアマートがEZSMSのWebインターフェースを使ったSMS送信機能を利用
 Date: 2016-07-08 10:00
 Author: Aiko Yokoyama
-Lang: en
 Tags: careermart, ezsms, use cases, pr, ショートメッセージ
 Slug: careermart-ezsms-usecase
 

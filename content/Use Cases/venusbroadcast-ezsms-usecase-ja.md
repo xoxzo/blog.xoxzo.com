@@ -1,7 +1,6 @@
 Title: 株式会社ヴィーナスブロードキャストが、ユーザ認証のためにEZSMSとの連携を開始
 Date: 2013-06-06 14:57
 Author: Iqbal Abdullah
-Lang: ja
 Tags: ezsms, smsのapi配信, ヴィーナスブロードキャスト, 婚ナビ, 本人確認
 Slug: venusbroadcast-ezsms-usecase
 

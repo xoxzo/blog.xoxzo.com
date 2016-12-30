@@ -1,7 +1,6 @@
 Title: 株式会社フルイヤー、EZSMSを導入し運営するサービスのユーザ認証を行っています
 Date: 2013-04-04 17:43
 Author: Iqbal Abdullah
-Lang: ja
 Tags: ezsms, smsのapi配信, 株式会社フルイヤー, ユーザ認証
 Slug: fullyear-ezsms-usecase
 Summary: EZSMSでサービス認証を行う株式会社フルイヤー

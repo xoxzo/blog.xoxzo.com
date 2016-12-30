@@ -1,7 +1,6 @@
 Title: 株式会社スーパーウェブが、EZSMSを利用した認証 システム導入
 Date: 2013-11-07 10:00
 Author: Iqbal Abdullah
-Lang: ja
 Tags: ezsms, smsのapi配信, 株式会社スーパーウェブ, 実例, 認証
 Slug: superweb-ezsms-usecase
 
