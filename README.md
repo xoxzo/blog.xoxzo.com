@@ -16,7 +16,12 @@ blog using Markdown and Pelican.
 ### Creating the html
 
 After preparing your environment, you can create contents by creating .md files
-in the content directory. Once you've written your articles,
+in the content directory. Before you start working, pull the latest from GitHub
+first:
+
+    git pull origin master
+
+Once you've written your articles,
 
     make html
     make serve
@@ -27,6 +32,11 @@ and access *localhost:8000* via your browser to make sure everything looks ok.
 
 ### Pushing to GitHub
 
+If everything looks good, commit and push it to GitHub:
+
+    git add <file>
+    git commit
+    git push origin master
     make github
 
 ## Writing contents
