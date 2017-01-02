@@ -1,3 +1,2 @@
 pelican
-fabric
 markdown
