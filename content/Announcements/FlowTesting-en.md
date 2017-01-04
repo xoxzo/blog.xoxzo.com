@@ -7,4 +7,4 @@ Tags: trial;
 Author: Aiko Yokoyama
 Summary: I am making a content of the blog to test the flow.
 
-_I am adding the second line to see if the contents can be shown._
+_This is the body of content_
