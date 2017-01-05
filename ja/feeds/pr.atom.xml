@@ -54,4 +54,16 @@ URL ： &lt;a href="https://info.xoxzo.com/"&gt;https://info.xoxzo.com/&lt;/a&g
 
 &lt;p&gt;アップデート&lt;/p&gt;
 &lt;p&gt;本件訴訟は和解により2013-03-06日付で取り下げしましたので、
-&lt;a href="http://blog.xoxzo.com/ja/2013/03/07/patent-lawsuit-action-resolved/"&gt;こちら&lt;/a&gt;でお知らせいたします。&lt;/p&gt;</summary><category term="ショートメッセージ"></category><category term="メディアネットワークサービス"></category><category term="特許"></category><category term="EZSMS"></category><category term="訴訟"></category><category term="wing-sms"></category></entry></feed>
+&lt;a href="http://blog.xoxzo.com/ja/2013/03/07/patent-lawsuit-action-resolved/"&gt;こちら&lt;/a&gt;でお知らせいたします。&lt;/p&gt;</summary><category term="ショートメッセージ"></category><category term="メディアネットワークサービス"></category><category term="特許"></category><category term="EZSMS"></category><category term="訴訟"></category><category term="wing-sms"></category></entry><entry><title>【EZSMS】OTA（One Time Address）認証サービスをリリースしました</title><link href="http://blog.xoxzo.com/ja/2012/02/03/ezsms-ota-release/" rel="alternate"></link><published>2012-02-03T00:00:00+09:00</published><updated>2012-02-03T00:00:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2012-02-03:ja/2012/02/03/ezsms-ota-release/</id><summary type="html">&lt;p&gt;弊社運営&lt;a href="https://www.ezsms.biz/ja/"&gt;「SMS配信APIサービスEZSMS」&lt;/a&gt;は2012年2月2日よりOTA認証サービスをリリースしました。&lt;/p&gt;
+&lt;p&gt;携帯電話番号とメールアドレスを連携させる事で、携帯電話に対し認証・承認アクションを行う事ができます。
+サービス詳細については、&lt;a href="https://docs.google.com/open?id=0B-EFLEP7IEAVNmYwM2UwMTQtNzY5OS00Yjg5LWI5YTAtZmNlODljYmE3NTNl"&gt;OTA認証サービス紹介資料&lt;/a&gt;を参照ください。&lt;/p&gt;
+&lt;p&gt;■「EZSMS」へのアクセス方法&lt;br /&gt;
+・「EZSMS」サイトトップページ： &lt;a href="http://www.ezsms.biz/ja/"&gt;http://www.ezsms.biz/ja/&lt;/a&gt;
+ 
+【株式会社Xoxzoについて】&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://info.xoxzo.com/ja/"&gt;&lt;img alt="Xoxzoロゴ" src="http://blog.xoxzo.com/ja/images/xoxzo-logo-02.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Xoxzoは、2007年2月に設立以来SMS技術を中心に自社サービスを開発、運営をしています。「&lt;strong&gt;継続改善&lt;/strong&gt;」をキーワードにしてお客様のニーズを満たすサービスを目指しています。&lt;/p&gt;
+&lt;p&gt;住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F&lt;br /&gt;
+代表： 代表取締役　イクバル・アバドゥラ&lt;br /&gt;
+設立： 2007年2月&lt;br /&gt;
+URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/a&gt;&lt;/p&gt;</summary><category term="プレスリリース"></category><category term="メールアドレス"></category><category term="認証・承認"></category><category term="OTA"></category><category term="SMS"></category><category term="携帯電話"></category></entry></feed>

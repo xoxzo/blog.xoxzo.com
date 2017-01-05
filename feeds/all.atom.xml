@@ -86,7 +86,38 @@ and &lt;a href="https://www.xoxzo.com/en/about/dial-in-api/"&gt;Dial In Numbers&
 developers and businesses in Malaysia&lt;/p&gt;
 &lt;p&gt;The details of each feature can be found in the linked pages, or you may
 simply register for free to and instantly try out our APIs
-here: &lt;a href="https://www.xoxzo.com/en/"&gt;https://www.xoxzo.com/en/&lt;/a&gt;&lt;/p&gt;</summary><category term="malaysia"></category><category term="my"></category><category term="telephony"></category><category term="xoxzo"></category></entry><entry><title>キャリアマートがEZSMSのWebインターフェースを使ったSMS送信機能を利用</title><link href="http://blog.xoxzo.com/2016/07/08/careermart-ezsms-usecase/" rel="alternate"></link><published>2016-07-08T10:00:00+09:00</published><updated>2016-07-08T10:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2016-07-08:2016/07/08/careermart-ezsms-usecase/</id><summary type="html">&lt;p&gt;は株式会社キャリアマート様のコメントです。&lt;/p&gt;
+here: &lt;a href="https://www.xoxzo.com/en/"&gt;https://www.xoxzo.com/en/&lt;/a&gt;&lt;/p&gt;</summary><category term="malaysia"></category><category term="my"></category><category term="telephony"></category><category term="xoxzo"></category></entry><entry><title>[Xoxzo] フリーダイヤル価格上昇に伴う、料金改定のお知らせ</title><link href="http://blog.xoxzo.com/../ja/2016/07/28/xoxzoprice-revision-for-dial-in-numbers/" rel="alternate"></link><published>2016-07-28T10:03:00+09:00</published><updated>2016-07-28T10:03:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2016-07-28:../ja/2016/07/28/xoxzoprice-revision-for-dial-in-numbers/</id><summary type="html">&lt;p&gt;&lt;a href="https://www.xoxzo.com/ja/"&gt;&lt;img alt="Xoxzoロゴ" src="http://blog.xoxzo.com/images/xoxzo-logo-02.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;平素は&lt;a href="https://www.xoxzo.com/ja/"&gt;Xoxzo　クラウド・テレフォニー・プラットフォーム&lt;/a&gt;をご利用いただきましてありがとうございます。&lt;/p&gt;
+&lt;p&gt;2016年8月4日より、フリーダイヤルサービスの価格上昇に伴い、電話着信APIサービスの着信料金が改定されますので、お知らせ申し上げます。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;----------------    -----------------------------------------------------------------------
+プレフィックス      改定後の一分ごとの着信料金・JPYクレジット数表示（カッコ内は現行料金）
+120                 JPY 55 (JPY 40)　+15クレジット/分
+800                 JPY 55 (JPY 40)　+15クレジット/分
+3                   JPY 10 (JPY 40)　-30クレジット/分
+----------------    -----------------------------------------------------------------------
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;ご不明な点がございましたら、ヘルプデスク（help@xoxzo.com）までご連絡ください。&lt;/p&gt;
+&lt;p&gt;今後共、弊社のサービスをどうぞよろしくお願いします。&lt;/p&gt;
+&lt;p&gt;株式会社Xoxzo一同&lt;/p&gt;</summary><category term="dial in numbers"></category><category term="料金改定"></category><category term="フリーダイヤル"></category></entry><entry><title>[Xoxzo] Price revision for Dial In Numbers</title><link href="http://blog.xoxzo.com/2016/07/28/xoxzoprice-revision-for-dial-in-numbers/" rel="alternate"></link><published>2016-07-28T10:00:00+09:00</published><updated>2016-07-28T10:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2016-07-28:2016/07/28/xoxzoprice-revision-for-dial-in-numbers/</id><summary type="html">&lt;p&gt;&lt;a href="https://www.xoxzo.com/en/"&gt;&lt;img alt="Xoxzoロゴ" src="http://blog.xoxzo.com/images/xoxzo-logo-02.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Thank you for using our service, &lt;a href="https://www.xoxzo.com/en/"&gt;Xoxzo - Cloud Telephony
+Platform.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Please let us announce that the price on Incoming Call API will be
+revised due to the increased tariff of Toll Free numbers.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;-----------------   ---------------------------------------------------------
+Prefixes            Incoming Call price (shown in JPY credits, per minutes)
+120 (Toll Free)     from JPY 40 to JPY 55 (+ 15 Credits per min.)
+800 (Toll Free)     from JPY 40 to JPY 55 (+ 15 Credits per min.)
+3                   from JPY 40 to JPY 10 ( -30  Credits per min.)
+----------------- ---------------------------------------------------------
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;The new price will be effective on 2016-08-04 (Thu).&lt;/p&gt;
+&lt;p&gt;For any queries may arise, please contact support &lt;a href="&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#116;&amp;#111;&amp;#58;&amp;#104;&amp;#101;&amp;#108;&amp;#112;&amp;#64;&amp;#120;&amp;#111;&amp;#120;&amp;#122;&amp;#111;&amp;#46;&amp;#99;&amp;#111;&amp;#109;"&gt;&amp;#104;&amp;#101;&amp;#108;&amp;#112;&amp;#64;&amp;#120;&amp;#111;&amp;#120;&amp;#122;&amp;#111;&amp;#46;&amp;#99;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Thank you for your continuous support on Xoxzo,&lt;/p&gt;
+&lt;p&gt;Xoxzo Inc.&lt;/p&gt;</summary><category term="dial in numbers"></category><category term="price"></category><category term="xoxzo"></category></entry><entry><title>キャリアマートがEZSMSのWebインターフェースを使ったSMS送信機能を利用</title><link href="http://blog.xoxzo.com/2016/07/08/careermart-ezsms-usecase/" rel="alternate"></link><published>2016-07-08T10:00:00+09:00</published><updated>2016-07-08T10:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2016-07-08:2016/07/08/careermart-ezsms-usecase/</id><summary type="html">&lt;p&gt;は株式会社キャリアマート様のコメントです。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;顧客様へのサービスの一環として、EZSMSのWebインターフェースを使ったSMS送信機能を利用しています。将来的に、別サービスとなっている&lt;a href="https://www.xoxzo.com/ja/about/dial-in-api/"&gt;XoxzoのDIN着信機能&lt;/a&gt;を使ったサービスを追加して行きたいです。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1847,7 +1878,19 @@ code through&lt;br /&gt;
 static code checker before commiting. We're using Unfuddle so no chance
 for us to use&lt;br /&gt;
 the native svn pre-commit hook. Lastly, thanks to
-&lt;a href="http://www.blisted.org/"&gt;scott&lt;/a&gt; for such useful script.&lt;/p&gt;</summary><category term="git"></category><category term="svn"></category><category term="version control"></category></entry><entry><title>Understanding Python Import</title><link href="http://blog.xoxzo.com/2011/11/22/understanding-python-import/" rel="alternate"></link><published>2011-11-22T16:32:00+09:00</published><updated>2011-11-22T16:32:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2011-11-22:2011/11/22/understanding-python-import/</id><summary type="html">&lt;p&gt;There's a lot have been written on understanding Python import so I'm
+&lt;a href="http://www.blisted.org/"&gt;scott&lt;/a&gt; for such useful script.&lt;/p&gt;</summary><category term="git"></category><category term="svn"></category><category term="version control"></category></entry><entry><title>【EZSMS】OTA（One Time Address）認証サービスをリリースしました</title><link href="http://blog.xoxzo.com/2012/02/03/ezsms-ota-release/" rel="alternate"></link><published>2012-02-03T00:00:00+09:00</published><updated>2012-02-03T00:00:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2012-02-03:2012/02/03/ezsms-ota-release/</id><summary type="html">&lt;p&gt;弊社運営&lt;a href="https://www.ezsms.biz/ja/"&gt;「SMS配信APIサービスEZSMS」&lt;/a&gt;は2012年2月2日よりOTA認証サービスをリリースしました。&lt;/p&gt;
+&lt;p&gt;携帯電話番号とメールアドレスを連携させる事で、携帯電話に対し認証・承認アクションを行う事ができます。
+サービス詳細については、&lt;a href="https://docs.google.com/open?id=0B-EFLEP7IEAVNmYwM2UwMTQtNzY5OS00Yjg5LWI5YTAtZmNlODljYmE3NTNl"&gt;OTA認証サービス紹介資料&lt;/a&gt;を参照ください。&lt;/p&gt;
+&lt;p&gt;■「EZSMS」へのアクセス方法&lt;br /&gt;
+・「EZSMS」サイトトップページ： &lt;a href="http://www.ezsms.biz/ja/"&gt;http://www.ezsms.biz/ja/&lt;/a&gt;
+ 
+【株式会社Xoxzoについて】&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://info.xoxzo.com/ja/"&gt;&lt;img alt="Xoxzoロゴ" src="http://blog.xoxzo.com/images/xoxzo-logo-02.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Xoxzoは、2007年2月に設立以来SMS技術を中心に自社サービスを開発、運営をしています。「&lt;strong&gt;継続改善&lt;/strong&gt;」をキーワードにしてお客様のニーズを満たすサービスを目指しています。&lt;/p&gt;
+&lt;p&gt;住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F&lt;br /&gt;
+代表： 代表取締役　イクバル・アバドゥラ&lt;br /&gt;
+設立： 2007年2月&lt;br /&gt;
+URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/a&gt;&lt;/p&gt;</summary><category term="プレスリリース"></category><category term="メールアドレス"></category><category term="認証・承認"></category><category term="OTA"></category><category term="SMS"></category><category term="携帯電話"></category></entry><entry><title>Understanding Python Import</title><link href="http://blog.xoxzo.com/2011/11/22/understanding-python-import/" rel="alternate"></link><published>2011-11-22T16:32:00+09:00</published><updated>2011-11-22T16:32:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2011-11-22:2011/11/22/understanding-python-import/</id><summary type="html">&lt;p&gt;There's a lot have been written on understanding Python import so I'm
 not sure whether this one would help to clear the confusion or just add
 more. I hope for the former. Having a new hire who is new to Python
 bring up this issue again for us.&lt;/p&gt;

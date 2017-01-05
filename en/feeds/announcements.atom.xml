@@ -3,4 +3,21 @@
 &lt;p&gt;Holiday period: from Thursday December 29, 2016 to Tuesday January 3, 2017&lt;/p&gt;
 &lt;p&gt;All non-urgent inquiries made during the holidays will be responded on January 4, 2017 or after. 
 We apologize for any inconvenience this may cause, and thank you for your consideration in this matter.&lt;/p&gt;
-&lt;p&gt;Team Xoxzo wishes you and your families all the best and having a great holiday welcoming the New Year.&lt;/p&gt;</summary><category term="EOY-notice"></category></entry></feed>
+&lt;p&gt;Team Xoxzo wishes you and your families all the best and having a great holiday welcoming the New Year.&lt;/p&gt;</summary><category term="EOY-notice"></category></entry><entry><title>[Xoxzo] Price revision for Dial In Numbers</title><link href="http://blog.xoxzo.com/en/2016/07/28/xoxzoprice-revision-for-dial-in-numbers/" rel="alternate"></link><published>2016-07-28T10:00:00+09:00</published><updated>2016-07-28T10:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2016-07-28:en/2016/07/28/xoxzoprice-revision-for-dial-in-numbers/</id><summary type="html">&lt;p&gt;&lt;a href="https://www.xoxzo.com/en/"&gt;&lt;img alt="Xoxzoロゴ" src="http://blog.xoxzo.com/en/images/xoxzo-logo-02.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Thank you for using our service, &lt;a href="https://www.xoxzo.com/en/"&gt;Xoxzo - Cloud Telephony
+Platform.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Please let us announce that the price on Incoming Call API will be
+revised due to the increased tariff of Toll Free numbers.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;-----------------   ---------------------------------------------------------
+Prefixes            Incoming Call price (shown in JPY credits, per minutes)
+120 (Toll Free)     from JPY 40 to JPY 55 (+ 15 Credits per min.)
+800 (Toll Free)     from JPY 40 to JPY 55 (+ 15 Credits per min.)
+3                   from JPY 40 to JPY 10 ( -30  Credits per min.)
+----------------- ---------------------------------------------------------
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;The new price will be effective on 2016-08-04 (Thu).&lt;/p&gt;
+&lt;p&gt;For any queries may arise, please contact support &lt;a href="&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#116;&amp;#111;&amp;#58;&amp;#104;&amp;#101;&amp;#108;&amp;#112;&amp;#64;&amp;#120;&amp;#111;&amp;#120;&amp;#122;&amp;#111;&amp;#46;&amp;#99;&amp;#111;&amp;#109;"&gt;&amp;#104;&amp;#101;&amp;#108;&amp;#112;&amp;#64;&amp;#120;&amp;#111;&amp;#120;&amp;#122;&amp;#111;&amp;#46;&amp;#99;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Thank you for your continuous support on Xoxzo,&lt;/p&gt;
+&lt;p&gt;Xoxzo Inc.&lt;/p&gt;</summary><category term="dial in numbers"></category><category term="price"></category><category term="xoxzo"></category></entry></feed>
