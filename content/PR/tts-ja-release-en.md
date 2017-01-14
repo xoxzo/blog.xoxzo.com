@@ -2,7 +2,6 @@ Title: [Xoxzo] TTS for Japanese released
 Date: 2017-01-12 12:00
 Slug: tts-ja-release
 Lang: en
-Modified: 2017-01-12 12:00
 Tags: pr; tts; text-to-speech; new release 
 Author: Aiko Yokoyama
 Summary: Simply type any text messages and you can collaborate the voice created into your any of Xoxzo voice API.
