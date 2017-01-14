@@ -3,24 +3,25 @@ Date: 2017-01-12 12:00
 Slug: tts-ja-release
 Lang: ja
 Modified: 2017-01-12 12:00
-Tags: PR;  
+Tags: pr; tts; テキスト読み上げ機能; 新規リリース
 Author: Aiko Yokoyama
-Summary:Xoxzo-クラウドテレフォニープラットフォームでは、2017年1月12日よりテキスト読み上げ機能が追加されましたので、ご案内させていただきます。
+Summary: Xoxzoクラウドテレフォニープラットフォームでは、テキスト読み上げ機能が追加されました。
+
 ![tts]({filename}/images/tts.png)
 
-平素は、[Xoxzo−クラウドテレフォニープラットフォーム](https://www.xoxzo.com/ja/)　および　[EZSMSー国際SMS配信]()のご利用ありがとうございます。
+平素は、[Xoxzo−クラウドテレフォニープラットフォーム](https://www.xoxzo.com/ja/) および
+[EZSMS国際SMS配信](https://www.ezsms.biz/ja/)のご利用ありがとうございます。
 
-[Xoxzo-クラウドテレフォニープラットフォーム](https://www.xoxzo.com/ja/)では、2017年1月12日より_テキスト読み上げ機能_が追加されましたので、ご案内させていただきます。
+[Xoxzo-クラウドテレフォニープラットフォーム](https://www.xoxzo.com/ja/)では、
+2017年1月12日より **テキスト読み上げ機能(TTS)** が追加されましたので、
+ご案内させていただきます。なお、今回のリリースでは日本語のみの対応とさせていただいております、
+順次言語を追加していく予定です。
 
-下記、すべてのXoxzoのVOICE（音声）APIにて、入力されたテキストを音声に読み上げて再生することが可能となり、オリジナルのプレイバックが、簡単に作成、修正可能となりました。
-詳しくは、[こちら](URL)へどうぞ。
+今回のTTS機能では標準の音声APIに対してオプション機能として提供させていただいています。
+TTSの機能の詳細について[ドキュメンテーション](http://docs.xoxzo.com/ja/utilsapi.html#text-to-speech)
+と[ウェブサイト](https://www.xoxzo.com/ja/about/utilities-api/)をご確認ください。
 
-[ 音声再生API ](http://docs.xoxzo.com/ja/voice)：APIを呼び出すことで電話発信、音声ファイルの再生を行う<br>
-[ DIN API ](http://docs.xoxzo.com/ja/din.html)：取得した着信用番号での着信電話に、転送などの指定の処理を行う
-
-現在のところ、日本語のみの対応とさせていただいております。
-
-ご利用料金は、[料金ページ](https://www.xoxzo.com/ja/about/pricing/)よりご参照ください。
+ご利用料金は、[料金ページ](https://www.xoxzo.com/ja/about/utilities-pricing/)よりご参照ください。
 
 今後もXoxzoをどうぞよろしくお願いします。
 
