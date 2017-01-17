@@ -1,5 +1,5 @@
 Title:【Xoxzo】テキスト読み上げ機能のリリースについて 
-Date: 2017-01-12 12:00
+Date: 2017-01-17 12:00
 Slug: tts-ja-release
 Lang: ja
 Tags: pr; tts; テキスト読み上げ機能; 新規リリース

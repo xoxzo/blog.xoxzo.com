@@ -1,5 +1,5 @@
 Title: [Xoxzo] TTS for Japanese released
-Date: 2017-01-12 12:00
+Date: 2017-01-17 12:00
 Slug: tts-ja-release
 Lang: en
 Tags: pr; tts; text-to-speech; new release 
@@ -20,7 +20,7 @@ For more details on using TTS with out voice API, please refer to the
 [documentation](http://docs.xoxzo.com/en/utilsapi.html#text-to-speech) and the
 [website](https://www.xoxzo.com/en/about/utilities-api/).
 
-Please find the prices on our [price page](https://www.xoxzo.com/en/about/pricing/)
+Please find the prices on our [price page](https://www.xoxzo.com/en/about/utilities-pricing/)
 
 Thank you for your continuous support from the team Xoxzo.
 
