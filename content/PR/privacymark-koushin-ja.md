@@ -1,8 +1,7 @@
 Title: プラバシーマーク更新のお知らせ
 Date: 2015-09-05 21:50
 Author: Iqbal Abdullah
-Lang: ja
-Tags: プライバシーマーク, 認定, pマーク, 個人情報
+Tags: プライバシーマーク; 認定; pマーク; 個人情報
 Slug: privacymark-marimore-2015
 Summary: プラバシーマーク更新をいたしました。
 
@@ -23,3 +22,14 @@ Summary: プラバシーマーク更新をいたしました。
 -   有効期間  
    平成２７年６月１３日～平成２９年６月１２日
 
+
+【株式会社Xoxzoについて】
+
+[![Xoxzoロゴ]({filename}/images/xoxzo-logo-02.png)](http://info.xoxzo.com/ja/)
+
+Xoxzoは、2007年2月に設立以来SMS技術を中心に自社サービスを開発、運営をしています。「**継続改善**」をキーワードにしてお客様のニーズを満たすサービスを目指しています。
+
+住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F  
+代表： 代表取締役　イクバル・アバドゥラ  
+設立： 2007年2月  
+URL ： [http://info.xoxzo.com/ja/](http://info.xoxzo.com/ja/)
