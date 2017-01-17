@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Xoxzoの公式ブログ：「開花、発展、向上させる」</title><link href="http://blog.xoxzo.com/ja/" rel="alternate"></link><link href="http://blog.xoxzo.com/feeds/pr.atom.xml" rel="self"></link><id>http://blog.xoxzo.com/ja/</id><updated>2015-10-14T10:01:00+09:00</updated><entry><title>商号変更に関するお知らせ</title><link href="http://blog.xoxzo.com/ja/2015/10/14/change-of-corporate-identity/" rel="alternate"></link><published>2015-10-14T10:01:00+09:00</published><updated>2015-10-14T10:01:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2015-10-14:ja/2015/10/14/change-of-corporate-identity/</id><summary type="html">&lt;h3&gt;2015年9月30日「株式会社MARIMORE」は「株式会社Xoxzo」に生まれ変わります。&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Xoxzoの公式ブログ：「開花、発展、向上させる」</title><link href="http://blog.xoxzo.com/ja/" rel="alternate"></link><link href="http://blog.xoxzo.com/feeds/pr.atom.xml" rel="self"></link><id>http://blog.xoxzo.com/ja/</id><updated>2017-01-17T12:00:00+09:00</updated><entry><title>【Xoxzo】テキスト読み上げ機能のリリースについて</title><link href="http://blog.xoxzo.com/ja/2017/01/17/tts-ja-release/" rel="alternate"></link><published>2017-01-17T12:00:00+09:00</published><updated>2017-01-17T12:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2017-01-17:ja/2017/01/17/tts-ja-release/</id><summary type="html">&lt;p&gt;&lt;img alt="tts" src="http://blog.xoxzo.com/ja/images/tts.png" /&gt;&lt;/p&gt;
+&lt;p&gt;平素は、&lt;a href="https://www.xoxzo.com/ja/"&gt;Xoxzo−クラウドテレフォニープラットフォーム&lt;/a&gt; および
+&lt;a href="https://www.ezsms.biz/ja/"&gt;EZSMS国際SMS配信&lt;/a&gt;のご利用ありがとうございます。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.xoxzo.com/ja/"&gt;Xoxzo-クラウドテレフォニープラットフォーム&lt;/a&gt;では、
+2017年1月12日より &lt;strong&gt;テキスト読み上げ機能(TTS)&lt;/strong&gt; が追加されましたので、
+ご案内させていただきます。なお、今回のリリースでは日本語のみの対応とさせていただいております、
+順次言語を追加していく予定です。&lt;/p&gt;
+&lt;p&gt;今回のTTS機能では標準の音声APIに対してオプション機能として提供させていただいています。
+TTSの機能の詳細について&lt;a href="http://docs.xoxzo.com/ja/utilsapi.html#text-to-speech"&gt;ドキュメンテーション&lt;/a&gt;
+と&lt;a href="https://www.xoxzo.com/ja/about/utilities-api/"&gt;ウェブサイト&lt;/a&gt;をご確認ください。&lt;/p&gt;
+&lt;p&gt;ご利用料金は、&lt;a href="https://www.xoxzo.com/ja/about/utilities-pricing/"&gt;料金ページ&lt;/a&gt;よりご参照ください。&lt;/p&gt;
+&lt;p&gt;今後もXoxzoをどうぞよろしくお願いします。&lt;/p&gt;</summary><category term="pr"></category><category term="tts"></category><category term="テキスト読み上げ機能"></category><category term="新規リリース"></category></entry><entry><title>商号変更に関するお知らせ</title><link href="http://blog.xoxzo.com/ja/2015/10/14/change-of-corporate-identity/" rel="alternate"></link><published>2015-10-14T10:01:00+09:00</published><updated>2015-10-14T10:01:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2015-10-14:ja/2015/10/14/change-of-corporate-identity/</id><summary type="html">&lt;h3&gt;2015年9月30日「株式会社MARIMORE」は「株式会社Xoxzo」に生まれ変わります。&lt;/h3&gt;
 &lt;p&gt;&lt;img alt="Xoxzo Inc." src="http://blog.xoxzo.com/ja/images/xoxzo-logo-02.png" /&gt;&lt;/p&gt;
 &lt;p&gt;当社はこれまでSMS配信システムとテレフォニーシステムの提供と開発を行ってきました。常にお客様の求めていることが何なのかを考え、それを応えるために自らの手で生み出してきたそのポリシーは、より一層使い得やすさと便利なものを生み出すことの結論に導かれました。&lt;/p&gt;
 &lt;p&gt;これからも、日本のみにならず、世界に必要とされるWebと電話の繋ぐ当たり前のクラウド・テレフォニーサービスを開発してまいります。そのためにまだ世の中にない新しい発想・技術・試みを探して挑戦します。そして、それを実現できるソリューションを提供し続けることで社会・コミュニティに貢献できる企業でありたいと考えます。&lt;/p&gt;
