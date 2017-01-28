@@ -63,6 +63,7 @@ help:
 	@echo '                                                                          '
 
 build:
+	rm -rf $(PLUGINDIR)
 	git clone https://github.com/getpelican/pelican-plugins.git $(PLUGINDIR)
 
 html:
