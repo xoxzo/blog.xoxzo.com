@@ -3,7 +3,7 @@ Date: 2017-02-01 10:30
 Slug: pycon-kumamoto-2017
 Lang: ja
 Modified: 2017-02-01 10:30
-Tags: pycon; sponsor;
+Tags: pycon; スポンサー; 熊本; コミュニティー; 2017
 Author: Aiko Yokoyama
 Summary: Xoxzoは、PyCon in 熊本のスポンサーとなりました。
 
