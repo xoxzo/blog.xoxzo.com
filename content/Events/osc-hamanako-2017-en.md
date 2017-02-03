@@ -7,7 +7,7 @@ Tags: 2017; osc;
 Author: Aiko Yokoyama
 Summary: Xoxzo is going to exhibit at OSC Hamanako on February 12.
 
-[![OSC_logo]({filename}/images/OSC_logo_stecker.gif)](https://www.ospn.jp/osc2017-hamanako/)
+[![OSC_logo]({filename}/images/OSC_logo_sticker.gif)](https://www.ospn.jp/osc2017-hamanako/)
 
 [Xoxzo](https://info.xoxzo.com/en/) is going to exhibit at [Open Source Conference 2017 Hamanako](https://www.ospn.jp/osc2017-hamanako/) at [Hamamatsu City Kyodoh Center](http://www.machien-hamamatsu.jp/) on Sunday, February 12 2017.
 

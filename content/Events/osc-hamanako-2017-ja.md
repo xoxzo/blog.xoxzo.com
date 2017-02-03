@@ -7,7 +7,7 @@ Tags: 2017; osc;
 Author: Aiko Yokoyama
 Summary: Xoxzoは、来たる2月12日日曜日、浜松市市民協働センターにて、OSC（オープンソースカンファレンス）2017 Hamanakoへ出展します。
 
-[![OSC_logo]({filename}/images/OSC_logo_stecker.gif)](https://www.ospn.jp/osc2017-hamanako/)
+[![OSC_logo]({filename}/images/OSC_logo_sticker.gif)](https://www.ospn.jp/osc2017-hamanako/)
 
 [Xoxzo](https://info.xoxzo.com/ja/)は、2017年2月12日に[浜松市市民協働センター](http://www.machien-hamamatsu.jp/)にて開催されます[OSC（オープンソースカンファレンス）2017 Hamanako](https://www.ospn.jp/osc2017-hamanako/)へ出展します。
 
