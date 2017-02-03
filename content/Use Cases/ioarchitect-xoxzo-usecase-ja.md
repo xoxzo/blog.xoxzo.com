@@ -12,7 +12,7 @@ Slug: io-architect-xoxzo-usecase
 > その中でSMS通知サービスは通知チャネルの1つとして有効な手段となります。
 > Xoxzoを組み合わせることで比較的簡単・高信頼かつ低コストでSMS通知を利用することが可能です。
 
-【[株式会社アイオーアーキテクト[(http://www.io-architect.com/wp/)]について】
+【株式会社アイオーアーキテクトについて】
 
 [![アイオーアーキテクトのロゴ]({filename}/images/client-logos/ioarchitect.gif)](http://www.io-architect.com/wp/)
 
