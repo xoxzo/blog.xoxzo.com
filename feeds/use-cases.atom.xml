@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Xoxzo Official Blog: Empowerment</title><link href="http://blog.xoxzo.com/" rel="alternate"></link><link href="http://blog.xoxzo.com/feeds/use-cases.atom.xml" rel="self"></link><id>http://blog.xoxzo.com/</id><updated>2016-09-23T10:59:00+09:00</updated><entry><title>ADIT株式会社がユーザーへのリアルタイム・重要通知にEZSMSを導入</title><link href="http://blog.xoxzo.com/2016/09/23/adit-ezsms-usecase/" rel="alternate"></link><published>2016-09-23T10:59:00+09:00</published><updated>2016-09-23T10:59:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2016-09-23:2016/09/23/adit-ezsms-usecase/</id><summary type="html">&lt;p&gt;&lt;img alt="ezsms logo" src="http://blog.xoxzo.com/images/ezsms_logo1.png" /&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Xoxzo Official Blog: Empowerment</title><link href="http://blog.xoxzo.com/" rel="alternate"></link><link href="http://blog.xoxzo.com/feeds/use-cases.atom.xml" rel="self"></link><id>http://blog.xoxzo.com/</id><updated>2017-02-03T19:00:00+09:00</updated><entry><title>株式会社アイオーアーキテクトが XOXZO を⽤いて、担当者への迅速な通知に SMS 送信機能を実装</title><link href="http://blog.xoxzo.com/2017/02/03/io-architect-xoxzo-usecase/" rel="alternate"></link><published>2017-02-03T19:00:00+09:00</published><updated>2017-02-03T19:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2017-02-03:2017/02/03/io-architect-xoxzo-usecase/</id><summary type="html">&lt;p&gt;&lt;a href="http://www.io-architect.com/wp/"&gt;株式会社アイオーアーキテクト&lt;/a&gt;（本社：千葉県浦安市）は、運用窓口等での担当者への迅速な通知機能の実装に、株式会社Xoxzo（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）の運営する&lt;a href="https://www.xoxzo.com/ja/"&gt;Xoxzo（ゾクゾー）クラウド・テレフォニー・プラットフォーム&lt;/a&gt;を導入しました。 &lt;/p&gt;
+&lt;p&gt;以下は株式会社アイオーアーキテクト様のコメントです。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;運用窓口やサポート窓口ではSLA要求レベルの高い内容については担当者への迅速な通知が必要不可欠です。
+その中でSMS通知サービスは通知チャネルの1つとして有効な手段となります。
+Xoxzoを組み合わせることで比較的簡単・高信頼かつ低コストでSMS通知を利用することが可能です。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;【株式会社アイオーアーキテクトについて】&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.io-architect.com/wp/"&gt;&lt;img alt="アイオーアーキテクトのロゴ" src="http://blog.xoxzo.com/images/client-logos/ioarchitect.gif" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;弊社はITIL準拠のチケット管理オープンソースであるOTRSを始め、
+運用管理関連のオープンソースを中心とした導入、開発、運用、保守を行なっております。&lt;/p&gt;
+&lt;p&gt;所在地：〒279-0004 千葉県浦安市猫実1-20-43 
+創業：2012年12月&lt;br /&gt;
+URL：&lt;a href="http://www.io-architect.com/wp/"&gt;http://www.io-architect.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【株式会社Xoxzoについて】&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://info.xoxzo.com/ja/"&gt;&lt;img alt="Xoxzoロゴ" src="http://blog.xoxzo.com/images/xoxzo-logo-02.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Xoxzoは、2007年2月に設立以来SMS技術を中心に自社サービスを開発、運営をしています。「&lt;strong&gt;継続改善&lt;/strong&gt;」をキーワードにしてお客様のニーズを満たすサービスを目指しています。&lt;/p&gt;
+&lt;p&gt;住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F&lt;br /&gt;
+代表： 代表取締役　イクバル・アバドゥラ&lt;br /&gt;
+設立： 2007年2月&lt;br /&gt;
+URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/a&gt;&lt;/p&gt;</summary><category term="xoxzo"></category><category term="smsのapi配信"></category><category term="株式会社アイオーアーキテクト"></category></entry><entry><title>ADIT株式会社がユーザーへのリアルタイム・重要通知にEZSMSを導入</title><link href="http://blog.xoxzo.com/2016/09/23/adit-ezsms-usecase/" rel="alternate"></link><published>2016-09-23T10:59:00+09:00</published><updated>2016-09-23T10:59:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2016-09-23:2016/09/23/adit-ezsms-usecase/</id><summary type="html">&lt;p&gt;&lt;img alt="ezsms logo" src="http://blog.xoxzo.com/images/ezsms_logo1.png" /&gt;&lt;/p&gt;
 &lt;p&gt;対応する手段としてXOXZO様のEZSMSサービスを導入するに至りました。
 ユーザーのニーズに合わせて登録いただけますし、リアルタイム性が必要な通知や、
 重要な通知などを今まで以上にユーザーに伝達することが出来るようになり、
