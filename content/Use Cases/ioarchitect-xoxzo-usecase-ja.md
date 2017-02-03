@@ -13,7 +13,9 @@ Slug: io-architect-xoxzo-usecase
 > Xoxzoを組み合わせることで比較的簡単・高信頼かつ低コストでSMS通知を利用することが可能です。
 
 【株式会社アイオーアーキテクトについて】
+
 ![アイオーアーキテクトのロゴ]({filename}/images/client-logos/ioarchitect.gif)
+
 弊社はITIL準拠のチケット管理オープンソースであるOTRSを始め、
 運用管理関連のオープンソースを中心とした導入、開発、運用、保守を行なっております。
 
