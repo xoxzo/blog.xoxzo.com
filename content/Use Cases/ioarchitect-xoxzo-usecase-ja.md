@@ -4,7 +4,7 @@ Author: Aiko Yokoyama
 Tags: xoxzo, smsのapi配信, 株式会社アイオーアーキテクト
 Slug: io-architect-xoxzo-usecase
 
-[株式会社アイオーアーキテクト](http://www.toda.co.jp/)（本社：千葉県浦安市）は、運用窓口等での担当者への迅速な通知機能の実装に、株式会社Xoxzo（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）の運営する[Xoxzo（ゾクゾー）クラウド・テレフォニー・プラットフォーム](https://www.xoxzo/com/ja/)を導入しました。 
+[株式会社アイオーアーキテクト](http://www.io-architect.com/wp/)（本社：千葉県浦安市）は、運用窓口等での担当者への迅速な通知機能の実装に、株式会社Xoxzo（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）の運営する[Xoxzo（ゾクゾー）クラウド・テレフォニー・プラットフォーム](https://www.xoxzo.com/ja/)を導入しました。 
 
 以下は株式会社アイオーアーキテクト様のコメントです。
 
@@ -12,9 +12,9 @@ Slug: io-architect-xoxzo-usecase
 > その中でSMS通知サービスは通知チャネルの1つとして有効な手段となります。
 > Xoxzoを組み合わせることで比較的簡単・高信頼かつ低コストでSMS通知を利用することが可能です。
 
-【株式会社アイオーアーキテクトについて】
+【[株式会社アイオーアーキテクト[(http://www.io-architect.com/wp/)]について】
 
-![アイオーアーキテクトのロゴ]({filename}/images/client-logos/ioarchitect.gif)
+[![アイオーアーキテクトのロゴ]({filename}/images/client-logos/ioarchitect.gif)](http://www.io-architect.com/wp/)
 
 弊社はITIL準拠のチケット管理オープンソースであるOTRSを始め、
 運用管理関連のオープンソースを中心とした導入、開発、運用、保守を行なっております。
