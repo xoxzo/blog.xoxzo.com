@@ -11,6 +11,7 @@ Slug: careermart-ezsms-usecase
 【株式会社キャリアマートについて】
 
 [![Career Mart]({filename}/images/client-logos/career-mart-logo.jpg)](http://www.careermart.co.jp/)
+
  
 所在地：〒160-0023 東京都新宿区西新宿7-3-4 アソルティ西新宿ビル4F  
 創業：平成14年11月1日  
