@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Xoxzo Official Blog: Empowerment</title><link href="http://blog.xoxzo.com/" rel="alternate"></link><link href="http://blog.xoxzo.com/feeds/pr.atom.xml" rel="self"></link><id>http://blog.xoxzo.com/</id><updated>2017-01-17T12:00:00+09:00</updated><entry><title>[Xoxzo] TTS for Japanese released</title><link href="http://blog.xoxzo.com/2017/01/17/tts-ja-release/" rel="alternate"></link><published>2017-01-17T12:00:00+09:00</published><updated>2017-01-17T12:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2017-01-17:2017/01/17/tts-ja-release/</id><summary type="html">&lt;p&gt;&lt;img alt="tts" src="http://blog.xoxzo.com/images/tts.png" /&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Xoxzo Official Blog: Empowerment</title><link href="http://blog.xoxzo.com/" rel="alternate"></link><link href="http://blog.xoxzo.com/feeds/pr.atom.xml" rel="self"></link><id>http://blog.xoxzo.com/</id><updated>2017-02-16T10:00:00+09:00</updated><entry><title>[Xoxzo] New rebate rates for 24 hours DIN subsciption</title><link href="http://blog.xoxzo.com/2017/02/16/din24hrs/" rel="alternate"></link><published>2017-02-16T10:00:00+09:00</published><updated>2017-02-16T10:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2017-02-16:2017/02/16/din24hrs/</id><summary type="html">&lt;p&gt;Thank you for your continuous support for &lt;a href="https://www.xoxzo.com/en/"&gt;Xoxzo Cloud Telephony Platform&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;On February 16, 2017, Xoxzo released a new rebate function for &lt;a href="https://www.xoxzo.com/en/about/dial-in-api/"&gt;DIN
+(Dial-in-Numbers)&lt;/a&gt; for subscribed
+numbers released within 24 hours of subscription.&lt;/p&gt;
+&lt;p&gt;The Dial In Number standard subscription plan has up until now only supported a
+fixed 30-day subscription rate, which is automatically renewed every 30 days.
+This new additional functionality will refund a certain amount of credits to
+your account &lt;em&gt;if the acquired number is released within 24 hours of
+subscription.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We are responding to customer requests to allow for a more flexible pricing for
+DINs during their development phase to integrate DINs to their system, or for
+specific use cases like authentication where the DINs are only used for a short
+period of time.&lt;/p&gt;
+&lt;p&gt;The details of the rebates and it's amount can be found &lt;a href="https://www.xoxzo.com/en/about/dial-in-pricing/"&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Detailed instructions on how to use DIN can be found in the &lt;a href="http://docs.xoxzo.com/en/din.html#"&gt;API documentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Thank you once again for using &lt;a href="https://www.xoxzo.com/en/"&gt;Xoxzo Cloud Telephony Platform&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Team Xoxzo&lt;/p&gt;</summary><category term="din"></category><category term="24 hours"></category><category term="credits"></category></entry><entry><title>[Xoxzo] TTS for Japanese released</title><link href="http://blog.xoxzo.com/2017/01/17/tts-ja-release/" rel="alternate"></link><published>2017-01-17T12:00:00+09:00</published><updated>2017-01-17T12:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2017-01-17:2017/01/17/tts-ja-release/</id><summary type="html">&lt;p&gt;&lt;img alt="tts" src="http://blog.xoxzo.com/images/tts.png" /&gt;&lt;/p&gt;
 &lt;p&gt;Thank you for using &lt;a href="https://www.xoxzo.com/en/"&gt;Xoxzo, Cloud Telephony Platform&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;We are excited to announce our new released functionality, &lt;strong&gt;Text-To-Speech
 (TTS)&lt;/strong&gt;.
