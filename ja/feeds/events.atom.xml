@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Xoxzoの公式ブログ：「開花、発展、向上させる」</title><link href="http://blog.xoxzo.com/ja/" rel="alternate"></link><link href="http://blog.xoxzo.com/feeds/events.atom.xml" rel="self"></link><id>http://blog.xoxzo.com/ja/</id><updated>2017-02-03T13:00:00+09:00</updated><entry><title>【Xoxzo】2月12日（日）OSC 浜名湖に出展します。</title><link href="http://blog.xoxzo.com/ja/2017/02/03/osc-hamanako-2017/" rel="alternate"></link><published>2017-02-03T13:00:00+09:00</published><updated>2017-02-03T13:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2017-02-03:ja/2017/02/03/osc-hamanako-2017/</id><summary type="html">&lt;p&gt;&lt;a href="https://www.ospn.jp/osc2017-hamanako/"&gt;&lt;img alt="OSC_logo" src="http://blog.xoxzo.com/ja/images/OSC_logo_sticker.gif" /&gt;&lt;/a&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Xoxzoの公式ブログ：「開花、発展、向上させる」</title><link href="http://blog.xoxzo.com/ja/" rel="alternate"></link><link href="http://blog.xoxzo.com/feeds/events.atom.xml" rel="self"></link><id>http://blog.xoxzo.com/ja/</id><updated>2017-02-17T10:00:00+09:00</updated><entry><title>【Xoxzo】OSC 浜名湖に出展してきました</title><link href="http://blog.xoxzo.com/ja/2017/02/17/osc-hamanako-2017-report/" rel="alternate"></link><published>2017-02-17T10:00:00+09:00</published><updated>2017-02-17T10:00:00+09:00</updated><author><name>Akira Nonaka</name></author><id>tag:blog.xoxzo.com,2017-02-17:ja/2017/02/17/osc-hamanako-2017-report/</id><summary type="html">&lt;p&gt;&lt;a href="https://www.ospn.jp/osc2017-hamanako/"&gt;&lt;img alt="OSC_logo" src="http://blog.xoxzo.com/ja/images/OSC_logo_sticker.gif" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;当日の早朝、横浜から浜松へ向かいます。新幹線の車窓から見える富士山は、
+雪化粧をしていて、とても綺麗でした。浜松駅に着くと「直虎」という文字が
+あちらこちらに、あふれています。今年の浜松はNHKの大河ドラマブームなの
+ですね。遠州名物「からっ風」（強烈に体感温度が下がる）に吹かれながら会
+場の浜松市市民協働センターに到着しました。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="XOXZOのブース" src="http://blog.xoxzo.com/ja/images/osc-2017-hamanako-booth.JPG" /&gt;&lt;/p&gt;
+&lt;p&gt;CMS(Content management system) や IOT (Internet of things) 関連の展示
+が目立ちます。当日の参加者は約１４０名。来場者や出展者の皆さんと、密度
+の高い交流ができました。相変わらず、地域コミュニティの活発な活動は目を
+引きますが、それらの中にあって、将来有望な高校生のみなさんの頑張りから
+エネルギーをもらいました。&lt;/p&gt;
+&lt;p&gt;終了後の懇親会では、美味しい浜松の地ビールを飲みながら、楽しい時間を過
+ごしました。今後も機会をみつけ参加したいと思う会議でした。&lt;/p&gt;
+&lt;p&gt;OSC2017 Hamanakoの詳細は、&lt;a href="https://www.ospn.jp/osc2017-hamanako/"&gt;こちら&lt;/a&gt;からどうぞ。&lt;/p&gt;</summary><category term="2017"></category><category term="osc"></category></entry><entry><title>【Xoxzo】2月12日（日）OSC 浜名湖に出展します。</title><link href="http://blog.xoxzo.com/ja/2017/02/03/osc-hamanako-2017/" rel="alternate"></link><published>2017-02-03T13:00:00+09:00</published><updated>2017-02-03T13:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2017-02-03:ja/2017/02/03/osc-hamanako-2017/</id><summary type="html">&lt;p&gt;&lt;a href="https://www.ospn.jp/osc2017-hamanako/"&gt;&lt;img alt="OSC_logo" src="http://blog.xoxzo.com/ja/images/OSC_logo_sticker.gif" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://info.xoxzo.com/ja/"&gt;Xoxzo&lt;/a&gt;は、2017年2月12日に&lt;a href="http://www.machien-hamamatsu.jp/"&gt;浜松市市民協働センター&lt;/a&gt;にて開催されます&lt;a href="https://www.ospn.jp/osc2017-hamanako/"&gt;OSC（オープンソースカンファレンス）2017 Hamanako&lt;/a&gt;へ出展します。&lt;/p&gt;
 &lt;p&gt;オープンソースの文化祭！とされる&lt;a href="https://www.ospn.jp/"&gt;OSC（オープンソースカンファレンス）&lt;/a&gt;は、関連のコミュニティや協賛企業、後援団体によるセミナーやプロダクト展示などを入場参加無料で御覧いただけるイベントで、北海道から沖縄まで、全国各地で開催されています。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://info.xoxzo.com/ja/"&gt;Xoxzo&lt;/a&gt;の展示ブースでは、多要素認証、電話番号確認、リマインダの送信などの分野に応用されている、WebAPIによるSMSの送信、公衆電話回線網への電話発信、着信のデモを行います.&lt;/p&gt;

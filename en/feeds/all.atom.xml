@@ -1,5 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Xoxzo Official Blog: Empowerment</title><link href="http://blog.xoxzo.com/en/" rel="alternate"></link><link href="http://blog.xoxzo.com/feeds/all.atom.xml" rel="self"></link><id>http://blog.xoxzo.com/en/</id><updated>2017-02-16T10:00:00+09:00</updated><entry><title>[Xoxzo] New rebate rates for 24 hours DIN subsciption</title><link href="http://blog.xoxzo.com/en/2017/02/16/din24hrs/" rel="alternate"></link><published>2017-02-16T10:00:00+09:00</published><updated>2017-02-16T10:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2017-02-16:en/2017/02/16/din24hrs/</id><summary type="html">&lt;p&gt;Thank you for your continuous support for &lt;a href="https://www.xoxzo.com/en/"&gt;Xoxzo Cloud Telephony Platform&lt;/a&gt;.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Xoxzo Official Blog: Empowerment</title><link href="http://blog.xoxzo.com/en/" rel="alternate"></link><link href="http://blog.xoxzo.com/feeds/all.atom.xml" rel="self"></link><id>http://blog.xoxzo.com/en/</id><updated>2017-02-23T14:00:00+09:00</updated><entry><title>【EZSMS】新規ご登録アカウントのAPIキーご提供停止について</title><link href="http://blog.xoxzo.com/en/2017/02/23/EZSMS-End-APIKey/" rel="alternate"></link><published>2017-02-23T14:00:00+09:00</published><updated>2017-02-23T14:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2017-02-23:en/2017/02/23/EZSMS-End-APIKey/</id><summary type="html">&lt;p&gt;平素は、&lt;a href="https://www.xoxzo.com/ja/"&gt;Xoxzo クラウド・テレフォニー・プラットフォーム&lt;/a&gt; ならびに&lt;a href="https://www.ezsms.biz/ja/"&gt;SMS配信サービスEZSMS&lt;/a&gt;をご利用いただき、誠にありがとうございます。&lt;/p&gt;
+&lt;p&gt;Xoxzo次世代APIサービスへの移行の一環としましては、2017年3月1日より、&lt;a href="https://www.ezsms.biz/ja/"&gt;EZSMS&lt;/a&gt;へ新規ご登録のアカウントにおきまして、APIキーへのアクセスまたは直接APIへのアクセスがご利用頂けませんので、お知らせ申し上げます。&lt;/p&gt;
+&lt;p&gt;3月1日以降も、
+「&lt;a href="http://bit.ly/2lN7oBU"&gt;Webから送信&lt;/a&gt;」（ウェブサイトからSMSを配信・CSVファイルでカスタマイズも可能）
+「&lt;a href="https://www.ezsms.biz/ja/faq/dialsms/"&gt;ダイヤルSMS&lt;/a&gt;」（専用着信番号に受けた電話宛に、設定したメッセージを送信）
+など、&lt;a href="https://www.ezsms.biz/ja/"&gt;EZSMSのサービスウェブサイト&lt;/a&gt;よりご利用いただけるサービスについては、引き続き変更なくご利用いただくことができますので、どうぞご利用ください。&lt;/p&gt;
+&lt;p&gt;また、システム連動できるAPIをご利用のお客様への代替手段としまして、SMS配信と音声電話のご利用いただける&lt;a href="https://www.xoxzo.com/ja/"&gt;Xoxzo　クラウド・テレフォニー・プラットフォーム&lt;/a&gt;にてAPIキーを取得いただきご利用頂けますので、是非こちらをご利用ください。&lt;/p&gt;
+&lt;p&gt;今後とも、&lt;a href="https://www.xoxzo.com/ja/"&gt;Xoxzo クラウド・テレフォニー・プラットフォーム&lt;/a&gt; ならびに　&lt;a href="https://www.ezsms.biz/ja/"&gt;SMS配信サービスEZSMS&lt;/a&gt;をよろしくお願いします。&lt;/p&gt;</summary><category term="EZSMS"></category><category term="APIKey"></category></entry><entry><title>【Xoxzo】OSC 浜名湖に出展してきました</title><link href="http://blog.xoxzo.com/en/2017/02/17/osc-hamanako-2017-report/" rel="alternate"></link><published>2017-02-17T10:00:00+09:00</published><updated>2017-02-17T10:00:00+09:00</updated><author><name>Akira Nonaka</name></author><id>tag:blog.xoxzo.com,2017-02-17:en/2017/02/17/osc-hamanako-2017-report/</id><summary type="html">&lt;p&gt;&lt;a href="https://www.ospn.jp/osc2017-hamanako/"&gt;&lt;img alt="OSC_logo" src="http://blog.xoxzo.com/en/images/OSC_logo_sticker.gif" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;当日の早朝、横浜から浜松へ向かいます。新幹線の車窓から見える富士山は、
+雪化粧をしていて、とても綺麗でした。浜松駅に着くと「直虎」という文字が
+あちらこちらに、あふれています。今年の浜松はNHKの大河ドラマブームなの
+ですね。遠州名物「からっ風」（強烈に体感温度が下がる）に吹かれながら会
+場の浜松市市民協働センターに到着しました。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="XOXZOのブース" src="http://blog.xoxzo.com/en/images/osc-2017-hamanako-booth.JPG" /&gt;&lt;/p&gt;
+&lt;p&gt;CMS(Content management system) や IOT (Internet of things) 関連の展示
+が目立ちます。当日の参加者は約１４０名。来場者や出展者の皆さんと、密度
+の高い交流ができました。相変わらず、地域コミュニティの活発な活動は目を
+引きますが、それらの中にあって、将来有望な高校生のみなさんの頑張りから
+エネルギーをもらいました。&lt;/p&gt;
+&lt;p&gt;終了後の懇親会では、美味しい浜松の地ビールを飲みながら、楽しい時間を過
+ごしました。今後も機会をみつけ参加したいと思う会議でした。&lt;/p&gt;
+&lt;p&gt;OSC2017 Hamanakoの詳細は、&lt;a href="https://www.ospn.jp/osc2017-hamanako/"&gt;こちら&lt;/a&gt;からどうぞ。&lt;/p&gt;</summary><category term="2017"></category><category term="osc"></category></entry><entry><title>Making Sense of Python App</title><link href="http://blog.xoxzo.com/en/2017/02/16/making-sense-python-app/" rel="alternate"></link><published>2017-02-16T18:23:00+09:00</published><updated>2017-02-16T18:23:00+09:00</updated><author><name>Kamal</name></author><id>tag:blog.xoxzo.com,2017-02-16:en/2017/02/16/making-sense-python-app/</id><summary type="html">&lt;p&gt;1. Those who new python, especially coming from PHP background, may look at Python as complex beast of stuff. Too many thing that look overly complex compared to what they used to in PHP.&lt;/p&gt;
+&lt;p&gt;2. Computer program basically fall into 2 types - program that can execute itself, and program that depend on another program to execute it. Python fall into the second type.&lt;/p&gt;
+&lt;p&gt;3. The typical way to run python application basically like this:-&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;python yourapp.py
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;4. We have learnt in no. 2 above that python program fall into program that need other program to execute it. So that's it. You can see above we 2 things:-&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;- python
+- yourapp.py
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;5. You might found python program that look like it can execute itself. Well, it just cheating, nothing magic about that. But let's talk about that in another topic.&lt;/p&gt;
+&lt;p&gt;6. Let's get back to example in no. 3 and 4 above. Let's repeat again - python program fall into program that need other program to execute it. So as you can see in no. 4, we have 2 program there. The first program is called &lt;code&gt;python&lt;/code&gt;. Depend on your Operating System (OS), there are a number of way to get it on your system - some people call it 'installation'. The second program - &lt;code&gt;yourapp.py&lt;/code&gt;, is well ... your app. It's your application that you wrote in Python programming language. The code written in Python programming language, need a program called &lt;code&gt;python&lt;/code&gt; to run it. That's the reason we have to run:-&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;python yourapp.py
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;7. Doesn't matter how big or small python program that you need to run, in whatever framework or using whatever libraries, the above concept remain the same. I repeat - remain the same. There's nothing magic going on. You might find the application that you want to run may hide the above fact in some funky command line wrapper, like they saying, just type this to run our magic funcky app:-&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;funkyapp
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;8. There's nothing magic. Ever.&lt;/p&gt;
+&lt;p&gt;9. One thing that I usually observe is that, since the &lt;code&gt;funkyapp&lt;/code&gt; above look like a magic, people just run it hoping for magic to happen and when something goes wrong, the app didn't want to start - they're lost. They don't know where to begin for troubleshooting.&lt;/p&gt;
+&lt;p&gt;10. Another worst scenario is that, not enough giving magic to the &lt;code&gt;funkyapp&lt;/code&gt;, the step to get to run &lt;code&gt;funkyapp&lt;/code&gt; also being obscured in another script usually called 'installation script' or 'deployment script'. It make it worst because user don't really know what happen. They don't even know &lt;code&gt;funkyapp&lt;/code&gt; exists because the script promise that when it finish, everything will run good and proper. The script lie.&lt;/p&gt;
+&lt;p&gt;11. So how to troubleshoot when &lt;code&gt;funkyapp&lt;/code&gt; don't want to start, or not running as expected ? Back to basic. You have to find those 2 program that we talked about in no. 3, 4 and 5 above. Find where's your PYTHON, and where is your APP ? It must be somewhere on the disk of your computer and when you found it, try to execute it directly:-&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;python funkyapp.py
+&lt;/pre&gt;&lt;/div&gt;</summary><category term="python"></category></entry><entry><title>[Xoxzo] New rebate rates for 24 hours DIN subsciption</title><link href="http://blog.xoxzo.com/en/2017/02/16/din24hrs/" rel="alternate"></link><published>2017-02-16T10:00:00+09:00</published><updated>2017-02-16T10:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2017-02-16:en/2017/02/16/din24hrs/</id><summary type="html">&lt;p&gt;Thank you for your continuous support for &lt;a href="https://www.xoxzo.com/en/"&gt;Xoxzo Cloud Telephony Platform&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;On February 16, 2017, Xoxzo released a new rebate function for &lt;a href="https://www.xoxzo.com/en/about/dial-in-api/"&gt;DIN
 (Dial-in-Numbers)&lt;/a&gt; for subscribed
 numbers released within 24 hours of subscription.&lt;/p&gt;
@@ -611,7 +661,76 @@ print ("あなたはパー、CPUはチョキ、あなたの負けです！")&lt;
 else:&lt;br /&gt;
 print ("あなたはパー、CPUもパー、「あいこ」です！")&lt;br /&gt;
 But, anyways, this is the start of learning. I am glad that I have made
-a first step.&lt;/p&gt;</summary><category term="python"></category></entry><entry><title>[FullCourt] End of Service Announcement</title><link href="http://blog.xoxzo.com/en/2015/12/03/fullcourt-end-of-service-announcement/" rel="alternate"></link><published>2015-12-03T11:01:00+09:00</published><updated>2015-12-03T11:01:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2015-12-03:en/2015/12/03/fullcourt-end-of-service-announcement/</id><summary type="html">&lt;p&gt;&lt;img alt="logo_1" src="http://blog.xoxzo.com/en/images/fullcourt-logo.png" /&gt;&lt;/p&gt;
+a first step.&lt;/p&gt;</summary><category term="python"></category></entry><entry><title>[MARITEX] End Of Service Announcement</title><link href="http://blog.xoxzo.com/en/2016/02/01/maritex-end-of-service-announcement/" rel="alternate"></link><published>2016-02-01T11:30:00+09:00</published><updated>2016-02-01T11:30:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2016-02-01:en/2016/02/01/maritex-end-of-service-announcement/</id><summary type="html">&lt;p&gt;In 2007, with the idea of making international SMS much more affordable and easy
+to use, &lt;a href="http://www.maritex.jp/"&gt;MARITEX International SMS Service&lt;/a&gt; was launched. 
+From that time until now, MARITEX at it's peak has sent thousands of messages monthly, 
+connecting family and friends in Japan and abroad.&lt;/p&gt;
+&lt;p&gt;When the iPhone was first released in Japan in 2008, that started the smartphone
+revolution. With the smartphone, came all types of over the top (OTT) services
+to send messages via applications, such as WhatsApp and Facebook Messenger.
+Person-to-person (P2P) communication via SMS has dwindled in the past few years
+as the popularity of these OTT increased. The usage of so-called carrier emails
+which is needed to register to MARITEX have also decreased in exchange for other
+types of web based emails, showing the changing times.&lt;/p&gt;
+&lt;p&gt;Within this trend, the usage of MARITEX has also decreased. Currently only 2% of
+the registered users of MARITEX are active users in some form or another.&lt;/p&gt;
+&lt;p&gt;Although perhaps less in the context of P2P, SMS as a whole is still very much
+used worldwide. We are seeing huge increases for demand within our &lt;a href="https://www.ezsms.biz/ja/"&gt;EZSMS
+Messaging Platform&lt;/a&gt; and &lt;a href="https://www.xoxzo.com/en/"&gt;Xoxzo Cloud Telephony
+Platform&lt;/a&gt; services, for businesses
+and developers who want to communicate with their end customers and integrate
+SMS and voice into their applications:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The total number of SMS sent globally tripled between 2007 and 2010, from an
+estimated 1.8 trillion to a staggering 6.1 trillion. In other words, close to
+200 000 text messages are sent every second. http://www.itu.int/ITU-D/ict/
+After nearly 9 years, we believe that MARITEX has run it's course and it is time
+for us to move on an focus on what matters: The next generation of
+communication.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;When will the service end?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;MARITEX will cease to operate on the 11th of March 2016.&lt;/strong&gt; With this announcement,
+we will not be accepting any new registrations for the service.&lt;/p&gt;
+&lt;h2&gt;What about my points and data?&lt;/h2&gt;
+&lt;p&gt;Points can still be purchased until the 10th of Feburary 2016. After that date,
+you will not be able to purchase anymore points. Any remaining points after the
+11th of March 2016 will be lost and unrecoverable. If you require a refund of
+your points, it will be done as per our Terms Of Service.&lt;/p&gt;
+&lt;p&gt;Your address book and message history data will be deleted and lost forever
+after the end of service. Unfortunately, we do not have a tool to allow you to
+download these data. If you need your address book data, please print it out
+before the end of service date.&lt;/p&gt;
+&lt;h2&gt;Your MARITEX assigned SMS Numbers.&lt;/h2&gt;
+&lt;p&gt;Your MARITEX assigned SMS Number can still be used to receive messages until the
+end of service. After that date, these numbers will be lost forever and you
+won't be able to use it anymore.&lt;/p&gt;
+&lt;h2&gt;What happens next?&lt;/h2&gt;
+&lt;p&gt;For SMS message sending via the web, we have the &lt;a href="https://www.ezsms.biz/ja/"&gt;EZSMS Messaging
+Platform&lt;/a&gt; which
+allows you to send many messages via a simple interface. If you also require
+voice or needs an API to send SMS and make phone calls, please try our &lt;a href="https://www.xoxzo.com/en/"&gt;Xoxzo
+Cloud Telephony Platform&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We would like to thank you, our customers, who have been with us and encouraged
+us for the past 9 years. See you again at EZSMS or Xoxzo!&lt;/p&gt;</summary><category term="maritex"></category><category term="eol"></category><category term="goodbye"></category></entry><entry><title>【MARITEX】サービス終了のお知らせ</title><link href="http://blog.xoxzo.com/en/../ja/2016/02/01/maritex-end-of-service-announcement/" rel="alternate"></link><published>2016-02-01T11:30:00+09:00</published><updated>2016-02-01T11:30:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2016-02-01:en/../ja/2016/02/01/maritex-end-of-service-announcement/</id><summary type="html">&lt;p&gt;2007年、「もっと手軽に簡単に利用できる国際SMSを作り出す」ことを念頭に、&lt;a href="http://www.maritex.jp/"&gt;MARITEX国際SMS配信サービス&lt;/a&gt;が始まりました。当時から現在に至るまで、MARITEXは、ピーク時には月間数千ものメッセージの配信という形で、日本と海外の家族や友人の懸け橋となって参りました。&lt;/p&gt;
+&lt;p&gt;同年日本にiPhoneが初上陸し、「スマホ」革命が幕を開けました。「スマホ」上では、通信事業者やインターネットサービスプロバイダではなくても、動画や音声等のサービスを提供する企業、OTTによる様々なタイプのサービスが、WhatsAppやフェイスブックメッセンジャーなどの「アプリ」として登場しました。こういったサービスの利用者が増えるに応じて、SMSを通じたP2Pコミュニケーションの需要はこの数年、減少していきました。利用登録の必要なMARITEXのような、キャリアメールの類の利用も、他のウェブメールにとって代わられることになり、時代の流れを映し出してきております。&lt;/p&gt;
+&lt;p&gt;この流れの中で、MARITEXの利用も減少しました。現在、MARITEX利用登録者のうち、実際にご利用のあるユーザーは、2%のみということとなっております。&lt;/p&gt;
+&lt;p&gt;P2Pという呼び名では、減少がみられるものの、SMSそのものはいまだ世界中で多く利用されております。我々の&lt;a href="https://www.ezsms.biz/ja/"&gt;EZSMSメッセージ配信サービス&lt;/a&gt;や、&lt;a href="https://www.xoxzo.com/ja/"&gt;Xoxzoクラウド・テレフォニー・プラットフォーム&lt;/a&gt;のサービス上での需要は大変な増加がみられ、顧客様とのコミュニケーションに利用されたり、SMSや通話のサービスを独自のアプリ内で利用したいと考える企業様や開発者の皆様に、ご好評をいただいております。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ITU（国際電気通信連合）の調査によりますと、2007年から2010年の間に世界中で送信されたSMSの数は、概算で1.8兆通とも、6.1兆通とも言われております。これは、およそ毎秒20万通のSMSメッセージが、世界を飛び交っているということなのです。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;9年という時を経て、MARITEXは、自然な経過をたどり、我々は今、次の目標である、「次世代コミュニケーション」を見据えるときが来たと考えております。&lt;/p&gt;
+&lt;h2&gt;サービスは、いつ終了しますか？&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;MARITEXは、2016年3月11日をもって、終了いたします。&lt;/strong&gt; 
+こちらのお知らせを持ちまして、今後の新規会員登録の受付を終了させていただきます。&lt;/p&gt;
+&lt;p&gt;保有ポイントとデータは、どうなりますか？&lt;/p&gt;
+&lt;p&gt;ポイントの購入は、2016年2月10日まで可能です。その後につきましては、追加のポイント購入は受付ができません。2016年3月11日以降、アカウントに残っておりますポイントにつきましては、消滅し、回収は不可能となりますので、ご了承ください。未使用ポイントのご返金をご希望のお客様につきましては、「ご利用規約」に基づき、手続きを行うこととなりますので、よろしくお願いします。&lt;/p&gt;
+&lt;p&gt;サービスの終了後、アドレス帳や、メッセージの履歴は消去され、永久に消滅することとなります。残念ながら、お客様にダウンロードしていただける機能はございませんので、ご自身で、サービス終了時までに印刷するなどして、保管いただけますよう、よろしくお願いします。&lt;/p&gt;
+&lt;h2&gt;ご利用中のMARITEX番号につきまして&lt;/h2&gt;
+&lt;p&gt;サービス終了時まで、現在ご利用中のMARITEX番号にてメッセージを受信することが可能ですが、サービス終了以降、この番号は再びお使いいただけることはありません。&lt;/p&gt;
+&lt;h2&gt;では、今後はどうすればいいのでしょうか？&lt;/h2&gt;
+&lt;p&gt;ウェブからのSMS送信には、&lt;a href="https://www.ezsms.biz/ja/"&gt;EZSMSメッセージ配信サービス&lt;/a&gt;がございます。とても簡単なインターフェースを使い、多くのメッセージを送信可能です。
+通話でのご利用や、APIを使ったSMSの大量送信、通話のご利用には、&lt;a href="https://www.xoxzo.com/ja/"&gt;Xoxzoクラウド・テレフォニー・サービス&lt;/a&gt;をご利用ください。
+最期に、この9年の間、我々のサービスを応援してくださったお客様へ、感謝の気持ちを表したいと思います。次回はぜひ、EZSMSやXoxzoにて、お会いしたいと思います。誠にありがとうございました。&lt;/p&gt;</summary><category term="maritex"></category><category term="eol"></category><category term="goodbye"></category></entry><entry><title>[FullCourt] End of Service Announcement</title><link href="http://blog.xoxzo.com/en/2015/12/03/fullcourt-end-of-service-announcement/" rel="alternate"></link><published>2015-12-03T11:01:00+09:00</published><updated>2015-12-03T11:01:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2015-12-03:en/2015/12/03/fullcourt-end-of-service-announcement/</id><summary type="html">&lt;p&gt;&lt;img alt="logo_1" src="http://blog.xoxzo.com/en/images/fullcourt-logo.png" /&gt;&lt;/p&gt;
 &lt;p&gt;In 2011, a wonderful idea was hatched to allow connectivity to millions
 of phones in the world in under 10 minutes. That idea was named
 &lt;em&gt;&lt;a href="https://www.fullcourt.co/en/"&gt;FullCourt.&lt;/a&gt; &lt;/em&gt;With the help of many

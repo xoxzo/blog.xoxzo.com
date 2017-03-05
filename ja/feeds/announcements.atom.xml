@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Xoxzoの公式ブログ：「開花、発展、向上させる」</title><link href="http://blog.xoxzo.com/ja/" rel="alternate"></link><link href="http://blog.xoxzo.com/feeds/announcements.atom.xml" rel="self"></link><id>http://blog.xoxzo.com/ja/</id><updated>2016-12-28T15:49:00+09:00</updated><entry><title>年末年始休業のお知らせ</title><link href="http://blog.xoxzo.com/ja/2016/12/28/EOY-Holiday-Notice/" rel="alternate"></link><published>2016-12-28T15:49:00+09:00</published><updated>2016-12-28T15:49:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2016-12-28:ja/2016/12/28/EOY-Holiday-Notice/</id><summary type="html">&lt;p&gt;さて、本年の年末年始につきましては、まことに勝手ではございますが下記のとおり休業させていただきますので、ご高配賜りますようお知らせ申し上げます。&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Xoxzoの公式ブログ：「開花、発展、向上させる」</title><link href="http://blog.xoxzo.com/ja/" rel="alternate"></link><link href="http://blog.xoxzo.com/feeds/announcements.atom.xml" rel="self"></link><id>http://blog.xoxzo.com/ja/</id><updated>2017-02-23T14:00:00+09:00</updated><entry><title>【EZSMS】新規ご登録アカウントのAPIキーご提供停止について</title><link href="http://blog.xoxzo.com/ja/2017/02/23/EZSMS-End-APIKey/" rel="alternate"></link><published>2017-02-23T14:00:00+09:00</published><updated>2017-02-23T14:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2017-02-23:ja/2017/02/23/EZSMS-End-APIKey/</id><summary type="html">&lt;p&gt;平素は、&lt;a href="https://www.xoxzo.com/ja/"&gt;Xoxzo クラウド・テレフォニー・プラットフォーム&lt;/a&gt; ならびに&lt;a href="https://www.ezsms.biz/ja/"&gt;SMS配信サービスEZSMS&lt;/a&gt;をご利用いただき、誠にありがとうございます。&lt;/p&gt;
+&lt;p&gt;Xoxzo次世代APIサービスへの移行の一環としましては、2017年3月1日より、&lt;a href="https://www.ezsms.biz/ja/"&gt;EZSMS&lt;/a&gt;へ新規ご登録のアカウントにおきまして、APIキーへのアクセスまたは直接APIへのアクセスがご利用頂けませんので、お知らせ申し上げます。&lt;/p&gt;
+&lt;p&gt;3月1日以降も、
+「&lt;a href="http://bit.ly/2lN7oBU"&gt;Webから送信&lt;/a&gt;」（ウェブサイトからSMSを配信・CSVファイルでカスタマイズも可能）
+「&lt;a href="https://www.ezsms.biz/ja/faq/dialsms/"&gt;ダイヤルSMS&lt;/a&gt;」（専用着信番号に受けた電話宛に、設定したメッセージを送信）
+など、&lt;a href="https://www.ezsms.biz/ja/"&gt;EZSMSのサービスウェブサイト&lt;/a&gt;よりご利用いただけるサービスについては、引き続き変更なくご利用いただくことができますので、どうぞご利用ください。&lt;/p&gt;
+&lt;p&gt;また、システム連動できるAPIをご利用のお客様への代替手段としまして、SMS配信と音声電話のご利用いただける&lt;a href="https://www.xoxzo.com/ja/"&gt;Xoxzo　クラウド・テレフォニー・プラットフォーム&lt;/a&gt;にてAPIキーを取得いただきご利用頂けますので、是非こちらをご利用ください。&lt;/p&gt;
+&lt;p&gt;今後とも、&lt;a href="https://www.xoxzo.com/ja/"&gt;Xoxzo クラウド・テレフォニー・プラットフォーム&lt;/a&gt; ならびに　&lt;a href="https://www.ezsms.biz/ja/"&gt;SMS配信サービスEZSMS&lt;/a&gt;をよろしくお願いします。&lt;/p&gt;</summary><category term="EZSMS"></category><category term="APIKey"></category></entry><entry><title>年末年始休業のお知らせ</title><link href="http://blog.xoxzo.com/ja/2016/12/28/EOY-Holiday-Notice/" rel="alternate"></link><published>2016-12-28T15:49:00+09:00</published><updated>2016-12-28T15:49:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2016-12-28:ja/2016/12/28/EOY-Holiday-Notice/</id><summary type="html">&lt;p&gt;さて、本年の年末年始につきましては、まことに勝手ではございますが下記のとおり休業させていただきますので、ご高配賜りますようお知らせ申し上げます。&lt;/p&gt;
 &lt;p&gt;記&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;年末年始休業日：2016年12月29日（木）～2017年1月3日（火）&lt;/li&gt;
@@ -22,4 +29,23 @@
 
 &lt;p&gt;ご不明な点がございましたら、ヘルプデスク（help@xoxzo.com）までご連絡ください。&lt;/p&gt;
 &lt;p&gt;今後共、弊社のサービスをどうぞよろしくお願いします。&lt;/p&gt;
-&lt;p&gt;株式会社Xoxzo一同&lt;/p&gt;</summary><category term="dial in numbers"></category><category term="料金改定"></category><category term="フリーダイヤル"></category></entry></feed>
+&lt;p&gt;株式会社Xoxzo一同&lt;/p&gt;</summary><category term="dial in numbers"></category><category term="料金改定"></category><category term="フリーダイヤル"></category></entry><entry><title>【MARITEX】サービス終了のお知らせ</title><link href="http://blog.xoxzo.com/ja/2016/02/01/maritex-end-of-service-announcement/" rel="alternate"></link><published>2016-02-01T11:30:00+09:00</published><updated>2016-02-01T11:30:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2016-02-01:ja/2016/02/01/maritex-end-of-service-announcement/</id><summary type="html">&lt;p&gt;2007年、「もっと手軽に簡単に利用できる国際SMSを作り出す」ことを念頭に、&lt;a href="http://www.maritex.jp/"&gt;MARITEX国際SMS配信サービス&lt;/a&gt;が始まりました。当時から現在に至るまで、MARITEXは、ピーク時には月間数千ものメッセージの配信という形で、日本と海外の家族や友人の懸け橋となって参りました。&lt;/p&gt;
+&lt;p&gt;同年日本にiPhoneが初上陸し、「スマホ」革命が幕を開けました。「スマホ」上では、通信事業者やインターネットサービスプロバイダではなくても、動画や音声等のサービスを提供する企業、OTTによる様々なタイプのサービスが、WhatsAppやフェイスブックメッセンジャーなどの「アプリ」として登場しました。こういったサービスの利用者が増えるに応じて、SMSを通じたP2Pコミュニケーションの需要はこの数年、減少していきました。利用登録の必要なMARITEXのような、キャリアメールの類の利用も、他のウェブメールにとって代わられることになり、時代の流れを映し出してきております。&lt;/p&gt;
+&lt;p&gt;この流れの中で、MARITEXの利用も減少しました。現在、MARITEX利用登録者のうち、実際にご利用のあるユーザーは、2%のみということとなっております。&lt;/p&gt;
+&lt;p&gt;P2Pという呼び名では、減少がみられるものの、SMSそのものはいまだ世界中で多く利用されております。我々の&lt;a href="https://www.ezsms.biz/ja/"&gt;EZSMSメッセージ配信サービス&lt;/a&gt;や、&lt;a href="https://www.xoxzo.com/ja/"&gt;Xoxzoクラウド・テレフォニー・プラットフォーム&lt;/a&gt;のサービス上での需要は大変な増加がみられ、顧客様とのコミュニケーションに利用されたり、SMSや通話のサービスを独自のアプリ内で利用したいと考える企業様や開発者の皆様に、ご好評をいただいております。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ITU（国際電気通信連合）の調査によりますと、2007年から2010年の間に世界中で送信されたSMSの数は、概算で1.8兆通とも、6.1兆通とも言われております。これは、およそ毎秒20万通のSMSメッセージが、世界を飛び交っているということなのです。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;9年という時を経て、MARITEXは、自然な経過をたどり、我々は今、次の目標である、「次世代コミュニケーション」を見据えるときが来たと考えております。&lt;/p&gt;
+&lt;h2&gt;サービスは、いつ終了しますか？&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;MARITEXは、2016年3月11日をもって、終了いたします。&lt;/strong&gt; 
+こちらのお知らせを持ちまして、今後の新規会員登録の受付を終了させていただきます。&lt;/p&gt;
+&lt;p&gt;保有ポイントとデータは、どうなりますか？&lt;/p&gt;
+&lt;p&gt;ポイントの購入は、2016年2月10日まで可能です。その後につきましては、追加のポイント購入は受付ができません。2016年3月11日以降、アカウントに残っておりますポイントにつきましては、消滅し、回収は不可能となりますので、ご了承ください。未使用ポイントのご返金をご希望のお客様につきましては、「ご利用規約」に基づき、手続きを行うこととなりますので、よろしくお願いします。&lt;/p&gt;
+&lt;p&gt;サービスの終了後、アドレス帳や、メッセージの履歴は消去され、永久に消滅することとなります。残念ながら、お客様にダウンロードしていただける機能はございませんので、ご自身で、サービス終了時までに印刷するなどして、保管いただけますよう、よろしくお願いします。&lt;/p&gt;
+&lt;h2&gt;ご利用中のMARITEX番号につきまして&lt;/h2&gt;
+&lt;p&gt;サービス終了時まで、現在ご利用中のMARITEX番号にてメッセージを受信することが可能ですが、サービス終了以降、この番号は再びお使いいただけることはありません。&lt;/p&gt;
+&lt;h2&gt;では、今後はどうすればいいのでしょうか？&lt;/h2&gt;
+&lt;p&gt;ウェブからのSMS送信には、&lt;a href="https://www.ezsms.biz/ja/"&gt;EZSMSメッセージ配信サービス&lt;/a&gt;がございます。とても簡単なインターフェースを使い、多くのメッセージを送信可能です。
+通話でのご利用や、APIを使ったSMSの大量送信、通話のご利用には、&lt;a href="https://www.xoxzo.com/ja/"&gt;Xoxzoクラウド・テレフォニー・サービス&lt;/a&gt;をご利用ください。
+最期に、この9年の間、我々のサービスを応援してくださったお客様へ、感謝の気持ちを表したいと思います。次回はぜひ、EZSMSやXoxzoにて、お会いしたいと思います。誠にありがとうございました。&lt;/p&gt;</summary><category term="maritex"></category><category term="eol"></category><category term="goodbye"></category></entry></feed>

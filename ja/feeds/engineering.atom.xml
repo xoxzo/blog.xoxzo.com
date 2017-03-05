@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Xoxzoの公式ブログ：「開花、発展、向上させる」</title><link href="http://blog.xoxzo.com/ja/" rel="alternate"></link><link href="http://blog.xoxzo.com/feeds/engineering.atom.xml" rel="self"></link><id>http://blog.xoxzo.com/ja/</id><updated>2016-11-07T17:04:00+09:00</updated><entry><title>Startup and Developer 4th Meetup</title><link href="http://blog.xoxzo.com/ja/startup-and-developer-4th-meetup-en.html" rel="alternate"></link><published>2016-11-07T17:04:00+09:00</published><updated>2016-11-07T17:04:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2016-11-07:ja/startup-and-developer-4th-meetup-en.html</id><summary type="html">&lt;p&gt;This weekend I managed to join a developer meetup in KL. The group,
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Xoxzoの公式ブログ：「開花、発展、向上させる」</title><link href="http://blog.xoxzo.com/ja/" rel="alternate"></link><link href="http://blog.xoxzo.com/feeds/engineering.atom.xml" rel="self"></link><id>http://blog.xoxzo.com/ja/</id><updated>2017-02-16T18:23:00+09:00</updated><entry><title>Making Sense of Python App</title><link href="http://blog.xoxzo.com/ja/making-sense-python-app-en.html" rel="alternate"></link><published>2017-02-16T18:23:00+09:00</published><updated>2017-02-16T18:23:00+09:00</updated><author><name>Kamal</name></author><id>tag:blog.xoxzo.com,2017-02-16:ja/making-sense-python-app-en.html</id><summary type="html">&lt;p&gt;1. Those who new python, especially coming from PHP background, may look at Python as complex beast of stuff. Too many thing that look overly complex compared to what they used to in PHP.&lt;/p&gt;
+&lt;p&gt;2. Computer program basically fall into 2 types - program that can execute itself, and program that depend on another program to execute it. Python fall into the second type.&lt;/p&gt;
+&lt;p&gt;3. The typical way to run python application basically like this:-&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;python yourapp.py
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;4. We have learnt in no. 2 above that python program fall into program that need other program to execute it. So that's it. You can see above we 2 things:-&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;- python
+- yourapp.py
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;5. You might found python program that look like it can execute itself. Well, it just cheating, nothing magic about that. But let's talk about that in another topic.&lt;/p&gt;
+&lt;p&gt;6. Let's get back to example in no. 3 and 4 above. Let's repeat again - python program fall into program that need other program to execute it. So as you can see in no. 4, we have 2 program there. The first program is called &lt;code&gt;python&lt;/code&gt;. Depend on your Operating System (OS), there are a number of way to get it on your system - some people call it 'installation'. The second program - &lt;code&gt;yourapp.py&lt;/code&gt;, is well ... your app. It's your application that you wrote in Python programming language. The code written in Python programming language, need a program called &lt;code&gt;python&lt;/code&gt; to run it. That's the reason we have to run:-&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;python yourapp.py
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;7. Doesn't matter how big or small python program that you need to run, in whatever framework or using whatever libraries, the above concept remain the same. I repeat - remain the same. There's nothing magic going on. You might find the application that you want to run may hide the above fact in some funky command line wrapper, like they saying, just type this to run our magic funcky app:-&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;funkyapp
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;8. There's nothing magic. Ever.&lt;/p&gt;
+&lt;p&gt;9. One thing that I usually observe is that, since the &lt;code&gt;funkyapp&lt;/code&gt; above look like a magic, people just run it hoping for magic to happen and when something goes wrong, the app didn't want to start - they're lost. They don't know where to begin for troubleshooting.&lt;/p&gt;
+&lt;p&gt;10. Another worst scenario is that, not enough giving magic to the &lt;code&gt;funkyapp&lt;/code&gt;, the step to get to run &lt;code&gt;funkyapp&lt;/code&gt; also being obscured in another script usually called 'installation script' or 'deployment script'. It make it worst because user don't really know what happen. They don't even know &lt;code&gt;funkyapp&lt;/code&gt; exists because the script promise that when it finish, everything will run good and proper. The script lie.&lt;/p&gt;
+&lt;p&gt;11. So how to troubleshoot when &lt;code&gt;funkyapp&lt;/code&gt; don't want to start, or not running as expected ? Back to basic. You have to find those 2 program that we talked about in no. 3, 4 and 5 above. Find where's your PYTHON, and where is your APP ? It must be somewhere on the disk of your computer and when you found it, try to execute it directly:-&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;python funkyapp.py
+&lt;/pre&gt;&lt;/div&gt;</summary><category term="python"></category></entry><entry><title>Startup and Developer 4th Meetup</title><link href="http://blog.xoxzo.com/ja/startup-and-developer-4th-meetup-en.html" rel="alternate"></link><published>2016-11-07T17:04:00+09:00</published><updated>2016-11-07T17:04:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2016-11-07:ja/startup-and-developer-4th-meetup-en.html</id><summary type="html">&lt;p&gt;This weekend I managed to join a developer meetup in KL. The group,
 which started in Telegram now has growing to 1K members and this 4th
 meetup managed to draw 100+ attendees. It quite a success for such a
 small group in the beginning and the meetup itself was planned on ad-hoc
