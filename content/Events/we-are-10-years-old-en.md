@@ -59,8 +59,22 @@ Meeting Stampede
 On our second day we met up with Shaza and Dov from [Stampede
 Design](http://www.stampede-design.com/work.php) which is
 based in Langkawi. Stampede Design is very similar to us in terms of team
-building and how they look at their work. It was a fruitful meeting, where we
-discussed and exchanged ideas.
+building and how they look at their work. We discussed issues that we face when
+working in a remote team, and how Stampede Design uses tools and pre-defined
+communication text prompts to replace the missing body language in communication 
+or physical company culture to install a feeling of comradery among team members.
+
+I was especially interested in two topics that we discussed: One was concerning
+[Simon Sinek's Golden
+Circle](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
+on how we define our position and why we're all here. 
+
+The other was about allowing each lead within their team to directly communicate with their
+customers as opposed to communicate through a project manager. This creates a
+sense of ownership, responsibility and positive effects on overall team morale.
+
+It was a fruitful meeting. Originally scheduled for an hour, it ended up taking two hours
+instead.
 
 In Summary
 -------------------------------------------------
