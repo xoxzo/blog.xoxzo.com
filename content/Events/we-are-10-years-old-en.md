@@ -15,7 +15,7 @@ Langkawi]({filename}/images/company-retreat-10th/beach.jpg)
 The Andaman
 -------------------------------------------------
 We spent 2 nights at the [The Andaman](http://www.theandaman.com/), a resort on the 
-northern part of Langkawi Island. It is a quite resort with it's own private beach. 
+northern part of Langkawi Island. It is a quiet resort with it's own private beach. 
 The resort has rules to preserve it's surrounding and no motor water sports can take 
 place at it's beach.
 
@@ -41,7 +41,7 @@ Seafood dinner on the second night.
 Morning walk
 -------------------------------------------------
 The Andaman has guided morning walks that brings you around the resort with a
-knowledgable guide that will talk you through the variety of flaura and fauna
+knowledgable guide that will talk you through the variety of flora and fauna
 they have around the resort and near the beach. 
 
 We requested one and our guide Elis showed us the resident tockay gecko nesting
