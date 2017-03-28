@@ -1,5 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Xoxzoの公式ブログ：「開花、発展、向上させる」</title><link href="http://blog.xoxzo.com/ja/" rel="alternate"></link><link href="http://blog.xoxzo.com/feeds/all.atom.xml" rel="self"></link><id>http://blog.xoxzo.com/ja/</id><updated>2017-03-18T22:30:00+09:00</updated><entry><title>【Xoxzo】システムのアップデートのためダウンタイムのお知らせ</title><link href="http://blog.xoxzo.com/ja/2017/03/18/service-maintenance-20170320/" rel="alternate"></link><published>2017-03-18T22:30:00+09:00</published><updated>2017-03-18T22:30:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2017-03-18:ja/2017/03/18/service-maintenance-20170320/</id><summary type="html">&lt;p&gt;2017年3月20日月曜日22時(JST)より、Xoxzoはシステムのアップデートを行います。このため、約10分間のダウンタイムを予定しておりますのでお知らせ申し上げます。ダウンタイムの間、SMS送信、Voice、DINを含む、Xoxzoの全てのサービスがご利用頂けませんので、ご了承ください。&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Xoxzoの公式ブログ：「開花、発展、向上させる」</title><link href="http://blog.xoxzo.com/ja/" rel="alternate"></link><link href="http://blog.xoxzo.com/feeds/all.atom.xml" rel="self"></link><id>http://blog.xoxzo.com/ja/</id><updated>2017-03-28T14:00:00+09:00</updated><entry><title>【Xoxzo】テキスト読み上げ機能（TTS)値下げのお知らせ</title><link href="http://blog.xoxzo.com/ja/2017/03/28/price-cut-tts/" rel="alternate"></link><published>2017-03-28T14:00:00+09:00</published><updated>2017-03-28T14:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2017-03-28:ja/2017/03/28/price-cut-tts/</id><summary type="html">&lt;p&gt;平素は、&lt;a href="https://www.xoxzo.com/ja/"&gt;Xoxzo−クラウドテレフォニープラットフォーム&lt;/a&gt; および 
+&lt;a href="https://www.ezsms.biz/ja/"&gt;EZSMS国際SMS配信&lt;/a&gt;のご利用ありがとうございます。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.xoxzo.com/ja/"&gt;Xoxzo−クラウドテレフォニープラットフォーム&lt;/a&gt; では、
+2017年3月28日よりテキスト読み上げ機能(TTS)の値下げが実施されましたので、ここにご案内させていただきます。&lt;/p&gt;
+&lt;p&gt;音声APIの付加機能としてご利用いただける、
+&lt;a href="http://docs.xoxzo.com/ja/utilsapi.html#text-to-speech-api-ref"&gt;Xoxzoのテキスト読み上げ機能（TTS）&lt;/a&gt;は、
+現在、日本語と英語の両方でご対応が可能です。TTSの機能の詳細については、
+&lt;a href="http://docs.xoxzo.com/ja/utilsapi.html#text-to-speech-api-ref"&gt;ドキュメンテーション&lt;/a&gt;
+と&lt;a href="https://www.xoxzo.com/ja/about/utilities-api/"&gt;ウェブサイト&lt;/a&gt; をご確認ください。&lt;/p&gt;
+&lt;p&gt;改定後のご利用料金は、&lt;a href="https://www.xoxzo.com/ja/about/pricing/"&gt;料金ページ&lt;/a&gt;よりご参照ください。&lt;/p&gt;
+&lt;p&gt;今後も&lt;a href="https://www.xoxzo.com/ja/"&gt;Xoxzo&lt;/a&gt;をどうぞよろしくお願いします。&lt;/p&gt;</summary><category term="価格改訂"></category><category term="TTS"></category><category term="テキスト読み上げ機能"></category></entry><entry><title>[Xoxzo] Price deduction on Text-to-Speech (TTS)</title><link href="http://blog.xoxzo.com/ja/../en/2017/03/28/price-cut-tts/" rel="alternate"></link><published>2017-03-28T14:00:00+09:00</published><updated>2017-03-28T14:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2017-03-28:ja/../en/2017/03/28/price-cut-tts/</id><summary type="html">&lt;p&gt;Thank you for using &lt;a href="https://www.xoxzo.com/en/"&gt;Xoxzo, Cloud Telephony Platform&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Please note that we have reduced the pricing for our add-on function, Text-To-Speech (TTS)
+from JPY35 to JPY5, as a result of our effort on the regular review and
+improvements on cost reduction. We hope with this lower pricing it will allow
+our customers to benefit from a more dynamic interaction via voice with their
+customers.&lt;/p&gt;
+&lt;p&gt;Please find the TTS function details on the &lt;a href="https://www.xoxzo.com/en/about/utilities-api/"&gt;website&lt;/a&gt;
+and on the &lt;a href="http://docs.xoxzo.com/en/utilsapi.html#text-to-speech-api-ref"&gt;documentation&lt;/a&gt;, as well
+as the revised cost on the &lt;a href="https://www.xoxzo.com/en/about/pricing/"&gt;price page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Thank you for your continuous support from the team Xoxzo.&lt;/p&gt;</summary><category term="Price Review"></category><category term="TTS"></category></entry><entry><title>【Xoxzo】テキスト読み上げ機能に英語サポートが追加されました。</title><link href="http://blog.xoxzo.com/ja/2017/03/22/tts-en-release/" rel="alternate"></link><published>2017-03-22T14:00:00+09:00</published><updated>2017-03-22T14:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2017-03-22:ja/2017/03/22/tts-en-release/</id><summary type="html">&lt;p&gt;平素は、&lt;a href="https://www.xoxzo.com/ja/"&gt;Xoxzo−クラウドテレフォニープラットフォーム&lt;/a&gt; 
+および &lt;a href="https://www.ezsms.biz/ja/"&gt;EZSMS国際SMS配信&lt;/a&gt;のご利用ありがとうございます。&lt;/p&gt;
+&lt;p&gt;Xoxzo−クラウドテレフォニープラットフォーム](https://www.xoxzo.com/ja/) では、 
+2017年3月22日より 1月の日本語版の導入開始に続き、&lt;a href="https://www.xoxzo.com/ja/about/utilities-api/"&gt;テキスト読み上げ機能(TTS)の英語版のサポート&lt;/a&gt; が追加されましたので、ご案内させていただきます。&lt;/p&gt;
+&lt;p&gt;今回のTTS機能では標準の音声APIに対してオプション機能として提供させていただいています。 
+TTSの機能の詳細については、&lt;a href="http://docs.xoxzo.com/ja/utilsapi.html#text-to-speech-api-ref"&gt;ドキュメンテーション&lt;/a&gt; と&lt;a href="https://www.xoxzo.com/ja/about/utilities-api/"&gt;ウェブサイト&lt;/a&gt; をご確認ください。&lt;/p&gt;
+&lt;p&gt;ご利用料金は、&lt;a href="https://www.xoxzo.com/ja/about/pricing/"&gt;料金ページ&lt;/a&gt;よりご参照ください。&lt;/p&gt;
+&lt;p&gt;今後もXoxzoをどうぞよろしくお願いします。&lt;/p&gt;</summary><category term="pr"></category><category term="テキスト読み上げ機能"></category><category term="新規リリース"></category><category term="tts"></category></entry><entry><title>[Xoxzo] English support for Text To Speech (TTS) released</title><link href="http://blog.xoxzo.com/ja/../en/2017/03/22/tts-en-release/" rel="alternate"></link><published>2017-03-22T14:00:00+09:00</published><updated>2017-03-22T14:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2017-03-22:ja/../en/2017/03/22/tts-en-release/</id><summary type="html">&lt;p&gt;Thank you for using &lt;a href="https://www.xoxzo.com/en/"&gt;Xoxzo, Cloud Telephony Platform&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Following the release of Japanese version in January, we are excited to announce
+&lt;a href="https://www.xoxzo.com/en/about/utilities-api/"&gt;English support for Text-To-Speech (TTS)&lt;/a&gt;. 
+This will be an add-on to our current voice API offerings. &lt;/p&gt;
+&lt;p&gt;For more details on using TTS with our voice API, please refer to
+&lt;a href="http://docs.xoxzo.com/en/utilsapi.html#text-to-speech-api-ref"&gt;the documentation&lt;/a&gt; and
+&lt;a href="https://www.xoxzo.com/en/about/utilities-api/"&gt;the website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Please find the prices on our &lt;a href="https://www.xoxzo.com/en/about/pricing/"&gt;price page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Thank you for your continuous support from the team Xoxzo.&lt;/p&gt;</summary><category term="pr"></category><category term="text-to-speech"></category><category term="new release"></category><category term="tts"></category></entry><entry><title>「みんなのPython勉強会 in 長野 #1」参加報告</title><link href="http://blog.xoxzo.com/ja/2017/03/22/startup-python-at-nagano/" rel="alternate"></link><published>2017-03-22T11:00:00+09:00</published><updated>2017-03-22T11:00:00+09:00</updated><author><name>Akira Nonaka</name></author><id>tag:blog.xoxzo.com,2017-03-22:ja/2017/03/22/startup-python-at-nagano/</id><summary type="html">&lt;p&gt;三連休の初日(3/18)に&lt;a href="https://startpython.connpass.com/event/48846/"&gt;「みんなのPython勉強会 in 長野 #1」&lt;/a&gt;に参加してきました。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="会場風景" src="http://blog.xoxzo.com/ja/images/IMG_7444.JPG" /&gt;&lt;/p&gt;
+&lt;p&gt;朝、東京駅の新幹線ホームに着くと、もの凄い混雑。
+午前中の指定席は売り切れ、自由席は通勤電車なみの混雑です。
+2本始発をやり過ごして、なんとか席に座ることができました。
+三連休の初日を甘く見すぎていました。&lt;/p&gt;
+&lt;p&gt;長野へ来たのは、２５年ぶりですが、長野駅は立派になっていました。
+午後の開始時間まで少し間があったので、お決まりの善光寺へ。お昼は当然信州そばです。
+鴨せいろを頂きましたが、焼いたネギの甘みがとてもよかった。
+徒歩で腹ごなしをしながら、長野県庁近くのギークラボ長野に到着。&lt;/p&gt;
+&lt;p&gt;こんな素敵な場所が無料で使えるとは、ノマドワーカーには有り難い。
+40名弱の参加者で会場は満席。自己紹介からスタートする家庭的な雰囲気です。
+地域に密着した活動の紹介が続き、どれも興味深いです。
+中学生の発表は、なんとDjangoで作った、Webアプリケーション。
+私のLTは、XOXZOのAPIで作った、Slackの電話ボットの紹介です。
+全世界で分散開発する体制も、紹介したのですが、興味をもってもらえたようです。
+とにかく、いろいろな人達と知り合いになることができ、楽しいイベントでした。&lt;/p&gt;
+&lt;p&gt;おみやげに野沢菜を買って帰りました。
+新幹線だと、長野からはあっという間に東京に着いてしまいます。
+通勤圏内と言ってもおかしくはないのでは思えるくらいですね。&lt;/p&gt;
+&lt;p&gt;長野は、人が多すぎもせず、かといって寂れてもおらず、快適な街でした。
+また機会をみて訪れてみたいと思います。&lt;/p&gt;</summary><category term="Python"></category><category term="長野"></category><category term="勉強会"></category></entry><entry><title>【Xoxzo】システムのアップデートのためダウンタイムのお知らせ</title><link href="http://blog.xoxzo.com/ja/2017/03/18/service-maintenance-20170320/" rel="alternate"></link><published>2017-03-18T22:30:00+09:00</published><updated>2017-03-18T22:30:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2017-03-18:ja/2017/03/18/service-maintenance-20170320/</id><summary type="html">&lt;p&gt;2017年3月20日月曜日22時(JST)より、Xoxzoはシステムのアップデートを行います。このため、約10分間のダウンタイムを予定しておりますのでお知らせ申し上げます。ダウンタイムの間、SMS送信、Voice、DINを含む、Xoxzoの全てのサービスがご利用頂けませんので、ご了承ください。&lt;/p&gt;
 &lt;p&gt;ご不明な点等ございましたら、いつでもお気軽にお問い合わせを頂けますようよろしくお願いします。&lt;/p&gt;</summary><category term="downtime"></category></entry><entry><title>[Xoxzo] Downtime Notice due to maintenance</title><link href="http://blog.xoxzo.com/ja/../en/2017/03/18/service-maintenance-20170320/" rel="alternate"></link><published>2017-03-18T22:30:00+09:00</published><updated>2017-03-18T22:30:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2017-03-18:ja/../en/2017/03/18/service-maintenance-20170320/</id><summary type="html">&lt;p&gt;The upcoming Monday, March 20, 2017 Xoxzo Cloud Telephony platform will be
 performing maintenance on it's database. The necessary downtime for this purpose
 will start 2200 (JST) for about 10 minutes. During this time users will not be able
@@ -110,7 +165,7 @@ After 10 years of surviving, we all at least deserved some days in the sun.&lt;/
 エネルギーをもらいました。&lt;/p&gt;
 &lt;p&gt;終了後の懇親会では、美味しい浜松の地ビールを飲みながら、楽しい時間を過
 ごしました。今後も機会をみつけ参加したいと思う会議でした。&lt;/p&gt;
-&lt;p&gt;OSC2017 Hamanakoの詳細は、&lt;a href="https://www.ospn.jp/osc2017-hamanako/"&gt;こちら&lt;/a&gt;からどうぞ。&lt;/p&gt;</summary><category term="2017"></category><category term="osc"></category></entry><entry><title>Making Sense of Python App</title><link href="http://blog.xoxzo.com/ja/making-sense-python-app-en.html" rel="alternate"></link><published>2017-02-16T18:23:00+09:00</published><updated>2017-02-16T18:23:00+09:00</updated><author><name>Kamal</name></author><id>tag:blog.xoxzo.com,2017-02-16:ja/making-sense-python-app-en.html</id><summary type="html">&lt;p&gt;1. Those who new python, especially coming from PHP background, may look at Python as complex beast of stuff. Too many thing that look overly complex compared to what they used to in PHP.&lt;/p&gt;
+&lt;p&gt;OSC2017 Hamanakoの詳細は、&lt;a href="https://www.ospn.jp/osc2017-hamanako/"&gt;こちら&lt;/a&gt;からどうぞ。&lt;/p&gt;</summary><category term="2017"></category><category term="osc"></category></entry><entry><title>Making Sense of Python App</title><link href="http://blog.xoxzo.com/ja/en/2017/02/16/making-sense-python-app/" rel="alternate"></link><published>2017-02-16T18:23:00+09:00</published><updated>2017-02-16T18:23:00+09:00</updated><author><name>Kamal</name></author><id>tag:blog.xoxzo.com,2017-02-16:ja/en/2017/02/16/making-sense-python-app/</id><summary type="html">&lt;p&gt;1. Those who new python, especially coming from PHP background, may look at Python as complex beast of stuff. Too many thing that look overly complex compared to what they used to in PHP.&lt;/p&gt;
 &lt;p&gt;2. Computer program basically fall into 2 types - program that can execute itself, and program that depend on another program to execute it. Python fall into the second type.&lt;/p&gt;
 &lt;p&gt;3. The typical way to run python application basically like this:-&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;python yourapp.py
@@ -269,7 +324,7 @@ could work or just simply enjoy what our API does.&lt;/p&gt;
 our technology but also to know what further solutions they are seeking for,
 which would raise us to the next step, for further developments.&lt;/p&gt;
 &lt;p&gt;We are for sure to come back to the next exhibition to meet more people, with
-our aim to empower the world.&lt;/p&gt;</summary><category term="kof"></category><category term="osaka"></category><category term="exhibition"></category></entry><entry><title>Startup and Developer 4th Meetup</title><link href="http://blog.xoxzo.com/ja/startup-and-developer-4th-meetup-en.html" rel="alternate"></link><published>2016-11-07T17:04:00+09:00</published><updated>2016-11-07T17:04:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2016-11-07:ja/startup-and-developer-4th-meetup-en.html</id><summary type="html">&lt;p&gt;This weekend I managed to join a developer meetup in KL. The group,
+our aim to empower the world.&lt;/p&gt;</summary><category term="kof"></category><category term="osaka"></category><category term="exhibition"></category></entry><entry><title>Startup and Developer 4th Meetup</title><link href="http://blog.xoxzo.com/ja/en/2016/11/07/startup-and-developer-4th-meetup/" rel="alternate"></link><published>2016-11-07T17:04:00+09:00</published><updated>2016-11-07T17:04:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2016-11-07:ja/en/2016/11/07/startup-and-developer-4th-meetup/</id><summary type="html">&lt;p&gt;This weekend I managed to join a developer meetup in KL. The group,
 which started in Telegram now has growing to 1K members and this 4th
 meetup managed to draw 100+ attendees. It quite a success for such a
 small group in the beginning and the meetup itself was planned on ad-hoc
@@ -595,7 +650,7 @@ URL：&lt;a href="http://www.micgp.co.jp/"&gt;http://www.micgp.co.jp/&lt;/a&gt;&
 &lt;p&gt;住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F&lt;br /&gt;
 代表： 代表取締役　イクバル・アバドゥラ&lt;br /&gt;
 設立： 2007年2月&lt;br /&gt;
-URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/a&gt;&lt;/p&gt;</summary><category term="xoxzo"></category><category term="smsのapi配信"></category><category term="有限会社エムアイシー"></category></entry><entry><title>Tokyo Team Camp</title><link href="http://blog.xoxzo.com/ja/tokyo-team-camp-en.html" rel="alternate"></link><published>2016-03-07T15:21:00+09:00</published><updated>2016-03-07T15:21:00+09:00</updated><author><name>Zaki Akhmad</name></author><id>tag:blog.xoxzo.com,2016-03-07:ja/tokyo-team-camp-en.html</id><summary type="html">&lt;blockquote&gt;
+URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/a&gt;&lt;/p&gt;</summary><category term="xoxzo"></category><category term="smsのapi配信"></category><category term="有限会社エムアイシー"></category></entry><entry><title>Tokyo Team Camp</title><link href="http://blog.xoxzo.com/ja/en/2016/03/07/tokyo-team-camp/" rel="alternate"></link><published>2016-03-07T15:21:00+09:00</published><updated>2016-03-07T15:21:00+09:00</updated><author><name>Zaki Akhmad</name></author><id>tag:blog.xoxzo.com,2016-03-07:ja/en/2016/03/07/tokyo-team-camp/</id><summary type="html">&lt;blockquote&gt;
 &lt;p&gt;There's always people on the other side of the screen.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;img alt="Xoxzo team and family
@@ -953,7 +1008,7 @@ where you pull changes from upstream.&lt;/p&gt;</summary><category term="git"></
 &lt;p&gt;住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F&lt;br /&gt;
 代表： 代表取締役　イクバル・アバドゥラ&lt;br /&gt;
 設立： 2007年2月&lt;br /&gt;
-URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/a&gt;&lt;/p&gt;</summary><category term="プライバシーマーク"></category><category term="認定"></category><category term="pマーク"></category><category term="個人情報"></category></entry><entry><title>PyCon AU 2015 Write Up</title><link href="http://blog.xoxzo.com/ja/pycon-au-2015-write-up-en.html" rel="alternate"></link><published>2015-08-29T10:33:00+09:00</published><updated>2015-08-29T10:33:00+09:00</updated><author><name>Zaki Akhmad</name></author><id>tag:blog.xoxzo.com,2015-08-29:ja/pycon-au-2015-write-up-en.html</id><summary type="html">&lt;p&gt;&lt;img alt="PyCon AU 2015 with 440
+URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/a&gt;&lt;/p&gt;</summary><category term="プライバシーマーク"></category><category term="認定"></category><category term="pマーク"></category><category term="個人情報"></category></entry><entry><title>PyCon AU 2015 Write Up</title><link href="http://blog.xoxzo.com/ja/en/2015/08/29/pycon-au-2015-write-up/" rel="alternate"></link><published>2015-08-29T10:33:00+09:00</published><updated>2015-08-29T10:33:00+09:00</updated><author><name>Zaki Akhmad</name></author><id>tag:blog.xoxzo.com,2015-08-29:ja/en/2015/08/29/pycon-au-2015-write-up/</id><summary type="html">&lt;p&gt;&lt;img alt="PyCon AU 2015 with 440
 attendees." src="http://blog.xoxzo.com/ja/images/pycon-au-2015/img_6546.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;It's 2015, and it's another time for PyCon Australia. Last year, PyCon
 Australia 2014 was held also in Brisbane, Queensland. The same city as
@@ -1036,7 +1091,7 @@ course it will be easier.&lt;/p&gt;
 &lt;p&gt;It was my first time PyCon AU experience. And it was very nice to meet
 people who shares the same interest and enthusiast with you. And in the
 end, the main point of attending a conference is to meet its people.&lt;/p&gt;
-&lt;p&gt;See you at the next (nearest) PyCon!&lt;/p&gt;</summary><category term="django"></category><category term="pycon"></category><category term="pycon au"></category><category term="pycon au 2015"></category><category term="python"></category></entry><entry><title>PyconMY 2015 Talk - Mastering Python Ecosystem</title><link href="http://blog.xoxzo.com/ja/pyconmy-2015-talk-mastering-python-ecosystem-en.html" rel="alternate"></link><published>2015-08-28T17:04:00+09:00</published><updated>2015-08-28T17:04:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2015-08-28:ja/pyconmy-2015-talk-mastering-python-ecosystem-en.html</id><summary type="html">&lt;p&gt;Pycon Malaysia (PyconMY) 2015 just wrapped up last week. This is the
+&lt;p&gt;See you at the next (nearest) PyCon!&lt;/p&gt;</summary><category term="django"></category><category term="pycon"></category><category term="pycon au"></category><category term="pycon au 2015"></category><category term="python"></category></entry><entry><title>PyconMY 2015 Talk - Mastering Python Ecosystem</title><link href="http://blog.xoxzo.com/ja/en/2015/08/28/pyconmy-2015-talk-mastering-python-ecosystem/" rel="alternate"></link><published>2015-08-28T17:04:00+09:00</published><updated>2015-08-28T17:04:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2015-08-28:ja/en/2015/08/28/pyconmy-2015-talk-mastering-python-ecosystem/</id><summary type="html">&lt;p&gt;Pycon Malaysia (PyconMY) 2015 just wrapped up last week. This is the
 first ever Python conference in Malaysia after a &lt;a href="http://k4ml.github.io/posts/mini-pycon-my-2014.html"&gt;mini
 Pycon&lt;/a&gt;
 held last year. It was held in Universiti Malaya (UM), Kuala Lumpur.
@@ -1061,7 +1116,7 @@ just need to dig deeper how exactly does people built it. The is how I
 managed to see how Python features such as list comprehension,
 decorator, metaclass and others being used to solve real problems.&lt;/p&gt;
 &lt;p&gt;You can view the slides
-&lt;a href="https://docs.google.com/presentation/d/1Mt6laaDXGWLN7rm1pvYcqeEzCi9FoJ6VLEMryBEMw_c/edit#slide=id.p"&gt;here&lt;/a&gt;.&lt;/p&gt;</summary><category term="pycon"></category><category term="python"></category><category term="talk"></category></entry><entry><title>Django Girls One Day Workshop in Tokyo</title><link href="http://blog.xoxzo.com/ja/django-girls-one-day-workshop-in-tokyo-en.html" rel="alternate"></link><published>2015-08-06T14:17:00+09:00</published><updated>2015-08-06T14:17:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2015-08-06:ja/django-girls-one-day-workshop-in-tokyo-en.html</id><summary type="html">&lt;p&gt;&lt;a href="https://djangogirls.org/tokyo/"&gt;&lt;img alt="logo_django" src="http://blog.xoxzo.com/ja/images/logo_django.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://docs.google.com/presentation/d/1Mt6laaDXGWLN7rm1pvYcqeEzCi9FoJ6VLEMryBEMw_c/edit#slide=id.p"&gt;here&lt;/a&gt;.&lt;/p&gt;</summary><category term="pycon"></category><category term="python"></category><category term="talk"></category></entry><entry><title>Django Girls One Day Workshop in Tokyo</title><link href="http://blog.xoxzo.com/ja/en/2015/08/06/django-girls-one-day-workshop-in-tokyo/" rel="alternate"></link><published>2015-08-06T14:17:00+09:00</published><updated>2015-08-06T14:17:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2015-08-06:ja/en/2015/08/06/django-girls-one-day-workshop-in-tokyo/</id><summary type="html">&lt;p&gt;&lt;a href="https://djangogirls.org/tokyo/"&gt;&lt;img alt="logo_django" src="http://blog.xoxzo.com/ja/images/logo_django.png" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;https://djangogirls.org/tokyo/&lt;/p&gt;
 &lt;p&gt;One day work shop at TECH LAB PAAK in Tokyo, July 26, 2015&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Django Girls in Tokyo&lt;/strong&gt;&lt;/p&gt;
@@ -1259,7 +1314,7 @@ URL：&lt;a href="http://www.pedal.co.jp/"&gt;http://www.pedal.co.jp/&lt;/a&gt;&
 &lt;p&gt;住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F&lt;br /&gt;
 代表： 代表取締役　イクバル・アバドゥラ&lt;br /&gt;
 設立： 2007年2月&lt;br /&gt;
-URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/a&gt;&lt;/p&gt;</summary><category term="ezsms"></category><category term="smsのapi配信"></category><category term="認証"></category><category term="株式会社ペダル"></category></entry><entry><title>MARIMORE Engineering Team Camp in Malacca</title><link href="http://blog.xoxzo.com/ja/marimore-engineering-team-camp-in-malacca-en.html" rel="alternate"></link><published>2014-09-13T14:32:00+09:00</published><updated>2014-09-13T14:32:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2014-09-13:ja/marimore-engineering-team-camp-in-malacca-en.html</id><summary type="html">&lt;p&gt;Early September 2014 we had a 2-day team camp for our engineering team in
+URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/a&gt;&lt;/p&gt;</summary><category term="ezsms"></category><category term="smsのapi配信"></category><category term="認証"></category><category term="株式会社ペダル"></category></entry><entry><title>MARIMORE Engineering Team Camp in Malacca</title><link href="http://blog.xoxzo.com/ja/en/2014/09/13/marimore-engineering-team-camp-in-malacca/" rel="alternate"></link><published>2014-09-13T14:32:00+09:00</published><updated>2014-09-13T14:32:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2014-09-13:ja/en/2014/09/13/marimore-engineering-team-camp-in-malacca/</id><summary type="html">&lt;p&gt;Early September 2014 we had a 2-day team camp for our engineering team in
 Malacca.&lt;/p&gt;
 &lt;p&gt;Because all of us work remotely all the time and we usually only communicate via
 voice, video and/or text, it is great to meetup and discuss targets,
@@ -1614,7 +1669,7 @@ URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/
 
 &lt;p&gt;アップデート&lt;/p&gt;
 &lt;p&gt;本件訴訟は和解により2013-03-06日付で取り下げしましたので、
-&lt;a href="http://blog.xoxzo.com/ja/2013/03/07/patent-lawsuit-action-resolved/"&gt;こちら&lt;/a&gt;でお知らせいたします。&lt;/p&gt;</summary><category term="ショートメッセージ"></category><category term="メディアネットワークサービス"></category><category term="特許"></category><category term="EZSMS"></category><category term="訴訟"></category><category term="wing-sms"></category></entry><entry><title>Verify SPF using PySPF module</title><link href="http://blog.xoxzo.com/ja/verify-spf-using-pyspf-module-en.html" rel="alternate"></link><published>2012-12-03T06:34:00+09:00</published><updated>2012-12-03T06:34:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2012-12-03:ja/verify-spf-using-pyspf-module-en.html</id><summary type="html">&lt;p&gt;We deals with email a lot and one thing with handling email is to verify
+&lt;a href="http://blog.xoxzo.com/ja/2013/03/07/patent-lawsuit-action-resolved/"&gt;こちら&lt;/a&gt;でお知らせいたします。&lt;/p&gt;</summary><category term="ショートメッセージ"></category><category term="メディアネットワークサービス"></category><category term="特許"></category><category term="EZSMS"></category><category term="訴訟"></category><category term="wing-sms"></category></entry><entry><title>Verify SPF using PySPF module</title><link href="http://blog.xoxzo.com/ja/en/2012/12/03/verify-spf-using-pyspf-module/" rel="alternate"></link><published>2012-12-03T06:34:00+09:00</published><updated>2012-12-03T06:34:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2012-12-03:ja/en/2012/12/03/verify-spf-using-pyspf-module/</id><summary type="html">&lt;p&gt;We deals with email a lot and one thing with handling email is to verify
 where it come from. We must make sure when we receive email from
 someone@gmail.com, it really was sent from gmail.com server, not from someone
 else email server. &lt;a href="https://en.wikipedia.org/wiki/Sender_Policy_Framework"&gt;SPF or Sender Policy Framework&lt;/a&gt; is
@@ -1739,7 +1794,7 @@ transaction.rollback()
 def main():
 step1()
 main()
-&lt;/pre&gt;&lt;/div&gt;</summary><category term="django"></category><category term="python"></category><category term="transaction"></category></entry><entry><title>PyCon APAC 2012</title><link href="http://blog.xoxzo.com/ja/pycon-apac-2012-en.html" rel="alternate"></link><published>2012-06-12T20:12:00+09:00</published><updated>2012-06-12T20:12:00+09:00</updated><author><name>Muhammad Juwaini</name></author><id>tag:blog.xoxzo.com,2012-06-12:ja/pycon-apac-2012-en.html</id><summary type="html">&lt;p&gt;PyCon APAC 2012 that was held on June 7th - 9th is over. Attended by all
+&lt;/pre&gt;&lt;/div&gt;</summary><category term="django"></category><category term="python"></category><category term="transaction"></category></entry><entry><title>PyCon APAC 2012</title><link href="http://blog.xoxzo.com/ja/en/2012/06/12/pycon-apac-2012/" rel="alternate"></link><published>2012-06-12T20:12:00+09:00</published><updated>2012-06-12T20:12:00+09:00</updated><author><name>Muhammad Juwaini</name></author><id>tag:blog.xoxzo.com,2012-06-12:ja/en/2012/06/12/pycon-apac-2012/</id><summary type="html">&lt;p&gt;PyCon APAC 2012 that was held on June 7th - 9th is over. Attended by all
 kinds of people from many parts of the world. It was a lovely and an eye
 opening experience.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="IMG00356" src="http://blog.xoxzo.com/ja/images/pycon-apac-2012/ff4e8-6a0153916e707f970b0167676601ea970b-pi.jpg" title="IMG00356" /&gt;
@@ -1912,7 +1967,7 @@ into global namespace. The settings now also look truely external to
 the&lt;br /&gt;
 application. This has getting quite long but still the question
 remained&lt;br /&gt;
-unanswered, where should we put the settings file ?&lt;/p&gt;</summary><category term="django"></category><category term="Python"></category></entry><entry><title>PHP execution model vs Python web</title><link href="http://blog.xoxzo.com/ja/php-execution-model-vs-python-web-en.html" rel="alternate"></link><published>2012-05-02T16:48:00+09:00</published><updated>2012-05-02T16:48:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2012-05-02:ja/php-execution-model-vs-python-web-en.html</id><summary type="html">&lt;p&gt;We're still looking for a better way to explain the difference between
+unanswered, where should we put the settings file ?&lt;/p&gt;</summary><category term="django"></category><category term="Python"></category></entry><entry><title>PHP execution model vs Python web</title><link href="http://blog.xoxzo.com/ja/en/2012/05/02/php-execution-model-vs-python-web/" rel="alternate"></link><published>2012-05-02T16:48:00+09:00</published><updated>2012-05-02T16:48:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2012-05-02:ja/en/2012/05/02/php-execution-model-vs-python-web/</id><summary type="html">&lt;p&gt;We're still looking for a better way to explain the difference between
 PHP execution model vs Python for web application to new developers
 joining us. This is to help them understand the key differences when
 developing web application in Python. One source of confusion among them
@@ -2359,7 +2414,7 @@ URL ： &lt;a href="http://www.zenlok.com/"&gt;http://www.zenlok.com/&lt;/a&gt;&
 &lt;p&gt;住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F&lt;br /&gt;
 代表： 代表取締役　イクバル・アバドゥラ&lt;br /&gt;
 設立： 2007年2月&lt;br /&gt;
-URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/a&gt;&lt;/p&gt;</summary><category term="ezsms"></category><category term="smsのapi配信"></category><category term="zenlok株式会社"></category></entry><entry><title>Subversion merging changes between branches</title><link href="http://blog.xoxzo.com/ja/subversion-merging-changes-between-branches-en.html" rel="alternate"></link><published>2011-09-24T08:04:00+09:00</published><updated>2011-09-24T08:04:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2011-09-24:ja/subversion-merging-changes-between-branches-en.html</id><summary type="html">&lt;p&gt;For svn branching strategy, we used the &lt;a href="http://stackoverflow.com/questions/597707/best-branching-strategy-when-doing-continuous-integration"&gt;feature
+URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/a&gt;&lt;/p&gt;</summary><category term="ezsms"></category><category term="smsのapi配信"></category><category term="zenlok株式会社"></category></entry><entry><title>Subversion merging changes between branches</title><link href="http://blog.xoxzo.com/ja/en/2011/09/24/subversion-merging-changes-between-branches/" rel="alternate"></link><published>2011-09-24T08:04:00+09:00</published><updated>2011-09-24T08:04:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2011-09-24:ja/en/2011/09/24/subversion-merging-changes-between-branches/</id><summary type="html">&lt;p&gt;For svn branching strategy, we used the &lt;a href="http://stackoverflow.com/questions/597707/best-branching-strategy-when-doing-continuous-integration"&gt;feature
 branch&lt;/a&gt;
 approach. This mean we keep trunk stable at all time and for any new
 features to work on, we start a new branch. While working on the branch,
@@ -2484,7 +2539,7 @@ yourself.&lt;/p&gt;
 &lt;h6&gt;&lt;/h6&gt;
 &lt;p&gt;We are happy to announce that we've found some great candidates and that
 &lt;strong&gt;this vacancy is now closed.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Thank you for your interest in MARIMORE ENGINEERING.&lt;/p&gt;</summary><category term="developer"></category><category term="django"></category><category term="python"></category><category term="vacancy"></category></entry><entry><title>Porting function based generic views to class based views</title><link href="http://blog.xoxzo.com/ja/porting-function-based-generic-views-to-class-based-views-en.html" rel="alternate"></link><published>2011-09-16T12:12:00+09:00</published><updated>2011-09-16T12:12:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2011-09-16:ja/porting-function-based-generic-views-to-class-based-views-en.html</id><summary type="html">&lt;p&gt;It not really obvious in the
+&lt;p&gt;Thank you for your interest in MARIMORE ENGINEERING.&lt;/p&gt;</summary><category term="developer"></category><category term="django"></category><category term="python"></category><category term="vacancy"></category></entry><entry><title>Porting function based generic views to class based views</title><link href="http://blog.xoxzo.com/ja/en/2011/09/16/porting-function-based-generic-views-to-class-based-views/" rel="alternate"></link><published>2011-09-16T12:12:00+09:00</published><updated>2011-09-16T12:12:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2011-09-16:ja/en/2011/09/16/porting-function-based-generic-views-to-class-based-views/</id><summary type="html">&lt;p&gt;It not really obvious in the
 &lt;a href="https://docs.djangoproject.com/en/1.3/ref/class-based-views/"&gt;documentation&lt;/a&gt;
 how we should proceed. I try to make as little changes as possible to
 code. The following is a sample function that we need to port to class

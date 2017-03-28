@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Xoxzoの公式ブログ：「開花、発展、向上させる」</title><link href="http://blog.xoxzo.com/ja/" rel="alternate"></link><link href="http://blog.xoxzo.com/feeds/events.atom.xml" rel="self"></link><id>http://blog.xoxzo.com/ja/</id><updated>2017-03-01T10:00:00+09:00</updated><entry><title>10周年おめでとう！</title><link href="http://blog.xoxzo.com/ja/2017/03/01/we-are-ten-years-old/" rel="alternate"></link><published>2017-03-01T10:00:00+09:00</published><updated>2017-03-01T10:00:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2017-03-01:ja/2017/03/01/we-are-ten-years-old/</id><summary type="html">&lt;p&gt;2017年２月、Xoxzoは創立10周年を迎えました。お祝いのため、ArthurとAikoを除くチーム全員が、マレーシアはランカウイ島へ集まり、3日間、太陽の下での時間を過ごしました。&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Xoxzoの公式ブログ：「開花、発展、向上させる」</title><link href="http://blog.xoxzo.com/ja/" rel="alternate"></link><link href="http://blog.xoxzo.com/feeds/events.atom.xml" rel="self"></link><id>http://blog.xoxzo.com/ja/</id><updated>2017-03-22T11:00:00+09:00</updated><entry><title>「みんなのPython勉強会 in 長野 #1」参加報告</title><link href="http://blog.xoxzo.com/ja/2017/03/22/startup-python-at-nagano/" rel="alternate"></link><published>2017-03-22T11:00:00+09:00</published><updated>2017-03-22T11:00:00+09:00</updated><author><name>Akira Nonaka</name></author><id>tag:blog.xoxzo.com,2017-03-22:ja/2017/03/22/startup-python-at-nagano/</id><summary type="html">&lt;p&gt;三連休の初日(3/18)に&lt;a href="https://startpython.connpass.com/event/48846/"&gt;「みんなのPython勉強会 in 長野 #1」&lt;/a&gt;に参加してきました。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="会場風景" src="http://blog.xoxzo.com/ja/images/IMG_7444.JPG" /&gt;&lt;/p&gt;
+&lt;p&gt;朝、東京駅の新幹線ホームに着くと、もの凄い混雑。
+午前中の指定席は売り切れ、自由席は通勤電車なみの混雑です。
+2本始発をやり過ごして、なんとか席に座ることができました。
+三連休の初日を甘く見すぎていました。&lt;/p&gt;
+&lt;p&gt;長野へ来たのは、２５年ぶりですが、長野駅は立派になっていました。
+午後の開始時間まで少し間があったので、お決まりの善光寺へ。お昼は当然信州そばです。
+鴨せいろを頂きましたが、焼いたネギの甘みがとてもよかった。
+徒歩で腹ごなしをしながら、長野県庁近くのギークラボ長野に到着。&lt;/p&gt;
+&lt;p&gt;こんな素敵な場所が無料で使えるとは、ノマドワーカーには有り難い。
+40名弱の参加者で会場は満席。自己紹介からスタートする家庭的な雰囲気です。
+地域に密着した活動の紹介が続き、どれも興味深いです。
+中学生の発表は、なんとDjangoで作った、Webアプリケーション。
+私のLTは、XOXZOのAPIで作った、Slackの電話ボットの紹介です。
+全世界で分散開発する体制も、紹介したのですが、興味をもってもらえたようです。
+とにかく、いろいろな人達と知り合いになることができ、楽しいイベントでした。&lt;/p&gt;
+&lt;p&gt;おみやげに野沢菜を買って帰りました。
+新幹線だと、長野からはあっという間に東京に着いてしまいます。
+通勤圏内と言ってもおかしくはないのでは思えるくらいですね。&lt;/p&gt;
+&lt;p&gt;長野は、人が多すぎもせず、かといって寂れてもおらず、快適な街でした。
+また機会をみて訪れてみたいと思います。&lt;/p&gt;</summary><category term="Python"></category><category term="長野"></category><category term="勉強会"></category></entry><entry><title>10周年おめでとう！</title><link href="http://blog.xoxzo.com/ja/2017/03/01/we-are-ten-years-old/" rel="alternate"></link><published>2017-03-01T10:00:00+09:00</published><updated>2017-03-01T10:00:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2017-03-01:ja/2017/03/01/we-are-ten-years-old/</id><summary type="html">&lt;p&gt;2017年２月、Xoxzoは創立10周年を迎えました。お祝いのため、ArthurとAikoを除くチーム全員が、マレーシアはランカウイ島へ集まり、3日間、太陽の下での時間を過ごしました。&lt;/p&gt;
 &lt;p&gt;&lt;img alt="How the beach looked like in
 Langkawi" src="http://blog.xoxzo.com/ja/images/company-retreat-10th/beach.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;アンダマン海&lt;/h2&gt;

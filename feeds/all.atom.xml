@@ -1,5 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Xoxzo Official Blog: Empowerment</title><link href="http://blog.xoxzo.com/" rel="alternate"></link><link href="http://blog.xoxzo.com/feeds/all.atom.xml" rel="self"></link><id>http://blog.xoxzo.com/</id><updated>2017-03-18T22:30:00+09:00</updated><entry><title>[Xoxzo] Downtime Notice due to maintenance</title><link href="http://blog.xoxzo.com/2017/03/18/service-maintenance-20170320/" rel="alternate"></link><published>2017-03-18T22:30:00+09:00</published><updated>2017-03-18T22:30:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2017-03-18:2017/03/18/service-maintenance-20170320/</id><summary type="html">&lt;p&gt;The upcoming Monday, March 20, 2017 Xoxzo Cloud Telephony platform will be
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Xoxzo Official Blog: Empowerment</title><link href="http://blog.xoxzo.com/" rel="alternate"></link><link href="http://blog.xoxzo.com/feeds/all.atom.xml" rel="self"></link><id>http://blog.xoxzo.com/</id><updated>2017-03-28T14:00:00+09:00</updated><entry><title>[Xoxzo] Price deduction on Text-to-Speech (TTS)</title><link href="http://blog.xoxzo.com/2017/03/28/price-cut-tts/" rel="alternate"></link><published>2017-03-28T14:00:00+09:00</published><updated>2017-03-28T14:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2017-03-28:2017/03/28/price-cut-tts/</id><summary type="html">&lt;p&gt;Thank you for using &lt;a href="https://www.xoxzo.com/en/"&gt;Xoxzo, Cloud Telephony Platform&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Please note that we have reduced the pricing for our add-on function, Text-To-Speech (TTS)
+from JPY35 to JPY5, as a result of our effort on the regular review and
+improvements on cost reduction. We hope with this lower pricing it will allow
+our customers to benefit from a more dynamic interaction via voice with their
+customers.&lt;/p&gt;
+&lt;p&gt;Please find the TTS function details on the &lt;a href="https://www.xoxzo.com/en/about/utilities-api/"&gt;website&lt;/a&gt;
+and on the &lt;a href="http://docs.xoxzo.com/en/utilsapi.html#text-to-speech-api-ref"&gt;documentation&lt;/a&gt;, as well
+as the revised cost on the &lt;a href="https://www.xoxzo.com/en/about/pricing/"&gt;price page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Thank you for your continuous support from the team Xoxzo.&lt;/p&gt;</summary><category term="Price Review"></category><category term="TTS"></category></entry><entry><title>【Xoxzo】テキスト読み上げ機能（TTS)値下げのお知らせ</title><link href="http://blog.xoxzo.com/../ja/2017/03/28/price-cut-tts/" rel="alternate"></link><published>2017-03-28T14:00:00+09:00</published><updated>2017-03-28T14:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2017-03-28:../ja/2017/03/28/price-cut-tts/</id><summary type="html">&lt;p&gt;平素は、&lt;a href="https://www.xoxzo.com/ja/"&gt;Xoxzo−クラウドテレフォニープラットフォーム&lt;/a&gt; および 
+&lt;a href="https://www.ezsms.biz/ja/"&gt;EZSMS国際SMS配信&lt;/a&gt;のご利用ありがとうございます。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.xoxzo.com/ja/"&gt;Xoxzo−クラウドテレフォニープラットフォーム&lt;/a&gt; では、
+2017年3月28日よりテキスト読み上げ機能(TTS)の値下げが実施されましたので、ここにご案内させていただきます。&lt;/p&gt;
+&lt;p&gt;音声APIの付加機能としてご利用いただける、
+&lt;a href="http://docs.xoxzo.com/ja/utilsapi.html#text-to-speech-api-ref"&gt;Xoxzoのテキスト読み上げ機能（TTS）&lt;/a&gt;は、
+現在、日本語と英語の両方でご対応が可能です。TTSの機能の詳細については、
+&lt;a href="http://docs.xoxzo.com/ja/utilsapi.html#text-to-speech-api-ref"&gt;ドキュメンテーション&lt;/a&gt;
+と&lt;a href="https://www.xoxzo.com/ja/about/utilities-api/"&gt;ウェブサイト&lt;/a&gt; をご確認ください。&lt;/p&gt;
+&lt;p&gt;改定後のご利用料金は、&lt;a href="https://www.xoxzo.com/ja/about/pricing/"&gt;料金ページ&lt;/a&gt;よりご参照ください。&lt;/p&gt;
+&lt;p&gt;今後も&lt;a href="https://www.xoxzo.com/ja/"&gt;Xoxzo&lt;/a&gt;をどうぞよろしくお願いします。&lt;/p&gt;</summary><category term="価格改訂"></category><category term="TTS"></category><category term="テキスト読み上げ機能"></category></entry><entry><title>[Xoxzo] English support for Text To Speech (TTS) released</title><link href="http://blog.xoxzo.com/2017/03/22/tts-en-release/" rel="alternate"></link><published>2017-03-22T14:00:00+09:00</published><updated>2017-03-22T14:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2017-03-22:2017/03/22/tts-en-release/</id><summary type="html">&lt;p&gt;Thank you for using &lt;a href="https://www.xoxzo.com/en/"&gt;Xoxzo, Cloud Telephony Platform&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Following the release of Japanese version in January, we are excited to announce
+&lt;a href="https://www.xoxzo.com/en/about/utilities-api/"&gt;English support for Text-To-Speech (TTS)&lt;/a&gt;. 
+This will be an add-on to our current voice API offerings. &lt;/p&gt;
+&lt;p&gt;For more details on using TTS with our voice API, please refer to
+&lt;a href="http://docs.xoxzo.com/en/utilsapi.html#text-to-speech-api-ref"&gt;the documentation&lt;/a&gt; and
+&lt;a href="https://www.xoxzo.com/en/about/utilities-api/"&gt;the website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Please find the prices on our &lt;a href="https://www.xoxzo.com/en/about/pricing/"&gt;price page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Thank you for your continuous support from the team Xoxzo.&lt;/p&gt;</summary><category term="pr"></category><category term="text-to-speech"></category><category term="new release"></category><category term="tts"></category></entry><entry><title>【Xoxzo】テキスト読み上げ機能に英語サポートが追加されました。</title><link href="http://blog.xoxzo.com/../ja/2017/03/22/tts-en-release/" rel="alternate"></link><published>2017-03-22T14:00:00+09:00</published><updated>2017-03-22T14:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2017-03-22:../ja/2017/03/22/tts-en-release/</id><summary type="html">&lt;p&gt;平素は、&lt;a href="https://www.xoxzo.com/ja/"&gt;Xoxzo−クラウドテレフォニープラットフォーム&lt;/a&gt; 
+および &lt;a href="https://www.ezsms.biz/ja/"&gt;EZSMS国際SMS配信&lt;/a&gt;のご利用ありがとうございます。&lt;/p&gt;
+&lt;p&gt;Xoxzo−クラウドテレフォニープラットフォーム](https://www.xoxzo.com/ja/) では、 
+2017年3月22日より 1月の日本語版の導入開始に続き、&lt;a href="https://www.xoxzo.com/ja/about/utilities-api/"&gt;テキスト読み上げ機能(TTS)の英語版のサポート&lt;/a&gt; が追加されましたので、ご案内させていただきます。&lt;/p&gt;
+&lt;p&gt;今回のTTS機能では標準の音声APIに対してオプション機能として提供させていただいています。 
+TTSの機能の詳細については、&lt;a href="http://docs.xoxzo.com/ja/utilsapi.html#text-to-speech-api-ref"&gt;ドキュメンテーション&lt;/a&gt; と&lt;a href="https://www.xoxzo.com/ja/about/utilities-api/"&gt;ウェブサイト&lt;/a&gt; をご確認ください。&lt;/p&gt;
+&lt;p&gt;ご利用料金は、&lt;a href="https://www.xoxzo.com/ja/about/pricing/"&gt;料金ページ&lt;/a&gt;よりご参照ください。&lt;/p&gt;
+&lt;p&gt;今後もXoxzoをどうぞよろしくお願いします。&lt;/p&gt;</summary><category term="pr"></category><category term="テキスト読み上げ機能"></category><category term="新規リリース"></category><category term="tts"></category></entry><entry><title>「みんなのPython勉強会 in 長野 #1」参加報告</title><link href="http://blog.xoxzo.com/ja/2017/03/22/startup-python-at-nagano/" rel="alternate"></link><published>2017-03-22T11:00:00+09:00</published><updated>2017-03-22T11:00:00+09:00</updated><author><name>Akira Nonaka</name></author><id>tag:blog.xoxzo.com,2017-03-22:ja/2017/03/22/startup-python-at-nagano/</id><summary type="html">&lt;p&gt;三連休の初日(3/18)に&lt;a href="https://startpython.connpass.com/event/48846/"&gt;「みんなのPython勉強会 in 長野 #1」&lt;/a&gt;に参加してきました。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="会場風景" src="http://blog.xoxzo.com/images/IMG_7444.JPG" /&gt;&lt;/p&gt;
+&lt;p&gt;朝、東京駅の新幹線ホームに着くと、もの凄い混雑。
+午前中の指定席は売り切れ、自由席は通勤電車なみの混雑です。
+2本始発をやり過ごして、なんとか席に座ることができました。
+三連休の初日を甘く見すぎていました。&lt;/p&gt;
+&lt;p&gt;長野へ来たのは、２５年ぶりですが、長野駅は立派になっていました。
+午後の開始時間まで少し間があったので、お決まりの善光寺へ。お昼は当然信州そばです。
+鴨せいろを頂きましたが、焼いたネギの甘みがとてもよかった。
+徒歩で腹ごなしをしながら、長野県庁近くのギークラボ長野に到着。&lt;/p&gt;
+&lt;p&gt;こんな素敵な場所が無料で使えるとは、ノマドワーカーには有り難い。
+40名弱の参加者で会場は満席。自己紹介からスタートする家庭的な雰囲気です。
+地域に密着した活動の紹介が続き、どれも興味深いです。
+中学生の発表は、なんとDjangoで作った、Webアプリケーション。
+私のLTは、XOXZOのAPIで作った、Slackの電話ボットの紹介です。
+全世界で分散開発する体制も、紹介したのですが、興味をもってもらえたようです。
+とにかく、いろいろな人達と知り合いになることができ、楽しいイベントでした。&lt;/p&gt;
+&lt;p&gt;おみやげに野沢菜を買って帰りました。
+新幹線だと、長野からはあっという間に東京に着いてしまいます。
+通勤圏内と言ってもおかしくはないのでは思えるくらいですね。&lt;/p&gt;
+&lt;p&gt;長野は、人が多すぎもせず、かといって寂れてもおらず、快適な街でした。
+また機会をみて訪れてみたいと思います。&lt;/p&gt;</summary><category term="Python"></category><category term="長野"></category><category term="勉強会"></category></entry><entry><title>[Xoxzo] Downtime Notice due to maintenance</title><link href="http://blog.xoxzo.com/2017/03/18/service-maintenance-20170320/" rel="alternate"></link><published>2017-03-18T22:30:00+09:00</published><updated>2017-03-18T22:30:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2017-03-18:2017/03/18/service-maintenance-20170320/</id><summary type="html">&lt;p&gt;The upcoming Monday, March 20, 2017 Xoxzo Cloud Telephony platform will be
 performing maintenance on it's database. The necessary downtime for this purpose
 will start 2200 (JST) for about 10 minutes. During this time users will not be able
 to use any part of our service of Xoxzo.&lt;/p&gt;
@@ -1170,7 +1225,7 @@ everyone in surprise.&lt;/p&gt;
 deciding to back into university to further his study. He said that he
 feel's trapped into his job and passion in programming, not having a
 quality life anymore. This is something to ponder I think. Unfortunately
-I didn't (other panels as well) has clear answer for him.&lt;/p&gt;</summary><category term="open source"></category><category term="oss"></category><category term="talk"></category></entry><entry><title>AWS Summit KL 2015</title><link href="http://blog.xoxzo.com/aws-summit-kl-2015-ja.html" rel="alternate"></link><published>2015-05-28T23:07:00+09:00</published><updated>2015-05-28T23:07:00+09:00</updated><author><name>Abdul Rahman</name></author><id>tag:blog.xoxzo.com,2015-05-28:aws-summit-kl-2015-ja.html</id><summary type="html">&lt;p&gt;On the 21st of May, the first AWS Summit was held at Connexion@Nexus,
+I didn't (other panels as well) has clear answer for him.&lt;/p&gt;</summary><category term="open source"></category><category term="oss"></category><category term="talk"></category></entry><entry><title>AWS Summit KL 2015</title><link href="http://blog.xoxzo.com/ja/2015/05/28/aws-summit-kl-2015/" rel="alternate"></link><published>2015-05-28T23:07:00+09:00</published><updated>2015-05-28T23:07:00+09:00</updated><author><name>Abdul Rahman</name></author><id>tag:blog.xoxzo.com,2015-05-28:ja/2015/05/28/aws-summit-kl-2015/</id><summary type="html">&lt;p&gt;On the 21st of May, the first AWS Summit was held at Connexion@Nexus,
 located in Kuala Lumpur. A total of 1075 participants turned up that day
 which lasted from 7.30am till 6pm.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="IMAG0509" src="http://blog.xoxzo.com/images/5c468-6a0153916e707f970b01b8d11b4dc4970c-pi.jpg" /&gt;&lt;/p&gt;
@@ -1590,11 +1645,11 @@ URL ： &lt;a href="http://www.gmo-media.jp/"&gt;http://www.gmo-media.jp/&lt;/a&
 &lt;p&gt;住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F&lt;br /&gt;
 代表： 代表取締役　イクバル・アバドゥラ&lt;br /&gt;
 設立： 2007年2月&lt;br /&gt;
-URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/a&gt;&lt;/p&gt;</summary><category term="ezsms"></category><category term="smsのapi配信"></category><category term="gmoメディア株式会社"></category><category term="freemlトーク"></category><category term="アプリ"></category></entry><entry><title>和解による訴訟の取下げに関するお知らせ</title><link href="http://blog.xoxzo.com/patent-lawsuit-action-resolved-ja.html" rel="alternate"></link><published>2013-03-07T10:00:00+09:00</published><updated>2013-03-07T10:00:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2013-03-07:patent-lawsuit-action-resolved-ja.html</id><summary type="html">&lt;p&gt;当社は2012-12-28日付「&lt;a href="http://blog.xoxzo.com/patent-lawsuit-action-ja.html"&gt;特許侵害訴訟の提起について（特許第4889813号
+URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/a&gt;&lt;/p&gt;</summary><category term="ezsms"></category><category term="smsのapi配信"></category><category term="gmoメディア株式会社"></category><category term="freemlトーク"></category><category term="アプリ"></category></entry><entry><title>和解による訴訟の取下げに関するお知らせ</title><link href="http://blog.xoxzo.com/ja/2013/03/07/patent-lawsuit-action-resolved/" rel="alternate"></link><published>2013-03-07T10:00:00+09:00</published><updated>2013-03-07T10:00:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2013-03-07:ja/2013/03/07/patent-lawsuit-action-resolved/</id><summary type="html">&lt;p&gt;当社は2012-12-28日付「&lt;a href="http://blog.xoxzo.com/ja/2012/12/28/patent-lawsuit-action/"&gt;特許侵害訴訟の提起について（特許第4889813号
 ）&lt;/a&gt;」にてお知らせしましたとおり、
 株式会社メディアネットワークサービス（以下MNS社）に対し、SMS配信API技術の使用行為の中止とともに、
 損害賠償を求める訴訟（以下「本件訴訟」といいます。）を東京地方裁判所に提起しましたが、当社とMNS社の間で協議を行い訴訟外で和解が成立したため、2013-03-6日付けで本件訴訟を取り下げました。&lt;/p&gt;
-&lt;p&gt;この度お知らせいたします。&lt;/p&gt;</summary><category term="API"></category><category term="ショートメッセージ"></category><category term="プレスリリース"></category><category term="特許"></category><category term="訴訟"></category><category term="SMS"></category><category term="和解"></category></entry><entry><title>特許侵害訴訟の提起について（特許第4889813号 ）</title><link href="http://blog.xoxzo.com/patent-lawsuit-action-ja.html" rel="alternate"></link><published>2012-12-28T20:00:00+09:00</published><updated>2012-12-28T20:00:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2012-12-28:patent-lawsuit-action-ja.html</id><summary type="html">&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;株式会社MARIMORE（代表：イクバル・アバドゥラ、東京都台東区）は、2012年12月28日、
+&lt;p&gt;この度お知らせいたします。&lt;/p&gt;</summary><category term="API"></category><category term="ショートメッセージ"></category><category term="プレスリリース"></category><category term="特許"></category><category term="訴訟"></category><category term="SMS"></category><category term="和解"></category></entry><entry><title>特許侵害訴訟の提起について（特許第4889813号 ）</title><link href="http://blog.xoxzo.com/ja/2012/12/28/patent-lawsuit-action/" rel="alternate"></link><published>2012-12-28T20:00:00+09:00</published><updated>2012-12-28T20:00:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2012-12-28:ja/2012/12/28/patent-lawsuit-action/</id><summary type="html">&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;株式会社MARIMORE（代表：イクバル・アバドゥラ、東京都台東区）は、2012年12月28日、
 株式会社メディアネットワークサービス（東京都渋谷区、以下MNS社）に対して、東京地方裁判所に
 特許侵害訴訟を提起いたしました（特許第4889813号）。
 
@@ -1614,7 +1669,7 @@ URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/
 
 &lt;p&gt;アップデート&lt;/p&gt;
 &lt;p&gt;本件訴訟は和解により2013-03-06日付で取り下げしましたので、
-&lt;a href="http://blog.xoxzo.com/patent-lawsuit-action-resolved-ja.html"&gt;こちら&lt;/a&gt;でお知らせいたします。&lt;/p&gt;</summary><category term="ショートメッセージ"></category><category term="メディアネットワークサービス"></category><category term="特許"></category><category term="EZSMS"></category><category term="訴訟"></category><category term="wing-sms"></category></entry><entry><title>Verify SPF using PySPF module</title><link href="http://blog.xoxzo.com/2012/12/03/verify-spf-using-pyspf-module/" rel="alternate"></link><published>2012-12-03T06:34:00+09:00</published><updated>2012-12-03T06:34:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2012-12-03:2012/12/03/verify-spf-using-pyspf-module/</id><summary type="html">&lt;p&gt;We deals with email a lot and one thing with handling email is to verify
+&lt;a href="http://blog.xoxzo.com/ja/2013/03/07/patent-lawsuit-action-resolved/"&gt;こちら&lt;/a&gt;でお知らせいたします。&lt;/p&gt;</summary><category term="ショートメッセージ"></category><category term="メディアネットワークサービス"></category><category term="特許"></category><category term="EZSMS"></category><category term="訴訟"></category><category term="wing-sms"></category></entry><entry><title>Verify SPF using PySPF module</title><link href="http://blog.xoxzo.com/2012/12/03/verify-spf-using-pyspf-module/" rel="alternate"></link><published>2012-12-03T06:34:00+09:00</published><updated>2012-12-03T06:34:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2012-12-03:2012/12/03/verify-spf-using-pyspf-module/</id><summary type="html">&lt;p&gt;We deals with email a lot and one thing with handling email is to verify
 where it come from. We must make sure when we receive email from
 someone@gmail.com, it really was sent from gmail.com server, not from someone
 else email server. &lt;a href="https://en.wikipedia.org/wiki/Sender_Policy_Framework"&gt;SPF or Sender Policy Framework&lt;/a&gt; is

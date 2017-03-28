@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title></title><link href="http://blog.xoxzo.com/ms/" rel="alternate"></link><link href="http://blog.xoxzo.com/feeds/events.atom.xml" rel="self"></link><id>http://blog.xoxzo.com/ms/</id><updated>2017-03-01T10:00:00+09:00</updated><entry><title>Happy Birthday! We are 10 years old.</title><link href="http://blog.xoxzo.com/ms/we-are-ten-years-old-en.html" rel="alternate"></link><published>2017-03-01T10:00:00+09:00</published><updated>2017-03-01T10:00:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2017-03-01:ms/we-are-ten-years-old-en.html</id><summary type="html">&lt;p&gt;In Feb 2017, Xoxzo celebrates it's 10th year. To celebrate, the whole team
+<feed xmlns="http://www.w3.org/2005/Atom"><title></title><link href="http://blog.xoxzo.com/ms/" rel="alternate"></link><link href="http://blog.xoxzo.com/feeds/events.atom.xml" rel="self"></link><id>http://blog.xoxzo.com/ms/</id><updated>2017-03-22T11:00:00+09:00</updated><entry><title>「みんなのPython勉強会 in 長野 #1」参加報告</title><link href="http://blog.xoxzo.com/ms/ja/2017/03/22/startup-python-at-nagano/" rel="alternate"></link><published>2017-03-22T11:00:00+09:00</published><updated>2017-03-22T11:00:00+09:00</updated><author><name>Akira Nonaka</name></author><id>tag:blog.xoxzo.com,2017-03-22:ms/ja/2017/03/22/startup-python-at-nagano/</id><summary type="html">&lt;p&gt;三連休の初日(3/18)に&lt;a href="https://startpython.connpass.com/event/48846/"&gt;「みんなのPython勉強会 in 長野 #1」&lt;/a&gt;に参加してきました。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="会場風景" src="http://blog.xoxzo.com/ms/images/IMG_7444.JPG" /&gt;&lt;/p&gt;
+&lt;p&gt;朝、東京駅の新幹線ホームに着くと、もの凄い混雑。
+午前中の指定席は売り切れ、自由席は通勤電車なみの混雑です。
+2本始発をやり過ごして、なんとか席に座ることができました。
+三連休の初日を甘く見すぎていました。&lt;/p&gt;
+&lt;p&gt;長野へ来たのは、２５年ぶりですが、長野駅は立派になっていました。
+午後の開始時間まで少し間があったので、お決まりの善光寺へ。お昼は当然信州そばです。
+鴨せいろを頂きましたが、焼いたネギの甘みがとてもよかった。
+徒歩で腹ごなしをしながら、長野県庁近くのギークラボ長野に到着。&lt;/p&gt;
+&lt;p&gt;こんな素敵な場所が無料で使えるとは、ノマドワーカーには有り難い。
+40名弱の参加者で会場は満席。自己紹介からスタートする家庭的な雰囲気です。
+地域に密着した活動の紹介が続き、どれも興味深いです。
+中学生の発表は、なんとDjangoで作った、Webアプリケーション。
+私のLTは、XOXZOのAPIで作った、Slackの電話ボットの紹介です。
+全世界で分散開発する体制も、紹介したのですが、興味をもってもらえたようです。
+とにかく、いろいろな人達と知り合いになることができ、楽しいイベントでした。&lt;/p&gt;
+&lt;p&gt;おみやげに野沢菜を買って帰りました。
+新幹線だと、長野からはあっという間に東京に着いてしまいます。
+通勤圏内と言ってもおかしくはないのでは思えるくらいですね。&lt;/p&gt;
+&lt;p&gt;長野は、人が多すぎもせず、かといって寂れてもおらず、快適な街でした。
+また機会をみて訪れてみたいと思います。&lt;/p&gt;</summary><category term="Python"></category><category term="長野"></category><category term="勉強会"></category></entry><entry><title>Happy Birthday! We are 10 years old.</title><link href="http://blog.xoxzo.com/ms/en/2017/03/01/we-are-ten-years-old/" rel="alternate"></link><published>2017-03-01T10:00:00+09:00</published><updated>2017-03-01T10:00:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2017-03-01:ms/en/2017/03/01/we-are-ten-years-old/</id><summary type="html">&lt;p&gt;In Feb 2017, Xoxzo celebrates it's 10th year. To celebrate, the whole team
 except for Aiko and Arthur came to Langkawi and spent 3 days in the sun.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="How the beach looked like in
 Langkawi" src="http://blog.xoxzo.com/ms/images/company-retreat-10th/beach.jpg" /&gt;&lt;/p&gt;
@@ -67,12 +88,12 @@ After 10 years of surviving, we all at least deserved some days in the sun.&lt;/
 エネルギーをもらいました。&lt;/p&gt;
 &lt;p&gt;終了後の懇親会では、美味しい浜松の地ビールを飲みながら、楽しい時間を過
 ごしました。今後も機会をみつけ参加したいと思う会議でした。&lt;/p&gt;
-&lt;p&gt;OSC2017 Hamanakoの詳細は、&lt;a href="https://www.ospn.jp/osc2017-hamanako/"&gt;こちら&lt;/a&gt;からどうぞ。&lt;/p&gt;</summary><category term="2017"></category><category term="osc"></category></entry><entry><title>[Xoxzo] Exhibits at OSC Hamanako on February 12</title><link href="http://blog.xoxzo.com/ms/osc-hamanako-2017-en.html" rel="alternate"></link><published>2017-02-03T13:00:00+09:00</published><updated>2017-02-03T13:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2017-02-03:ms/osc-hamanako-2017-en.html</id><summary type="html">&lt;p&gt;&lt;a href="https://www.ospn.jp/osc2017-hamanako/"&gt;&lt;img alt="OSC_logo" src="http://blog.xoxzo.com/ms/images/OSC_logo_sticker.gif" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OSC2017 Hamanakoの詳細は、&lt;a href="https://www.ospn.jp/osc2017-hamanako/"&gt;こちら&lt;/a&gt;からどうぞ。&lt;/p&gt;</summary><category term="2017"></category><category term="osc"></category></entry><entry><title>[Xoxzo] Exhibits at OSC Hamanako on February 12</title><link href="http://blog.xoxzo.com/ms/en/2017/02/03/osc-hamanako-2017/" rel="alternate"></link><published>2017-02-03T13:00:00+09:00</published><updated>2017-02-03T13:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2017-02-03:ms/en/2017/02/03/osc-hamanako-2017/</id><summary type="html">&lt;p&gt;&lt;a href="https://www.ospn.jp/osc2017-hamanako/"&gt;&lt;img alt="OSC_logo" src="http://blog.xoxzo.com/ms/images/OSC_logo_sticker.gif" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://info.xoxzo.com/en/"&gt;Xoxzo&lt;/a&gt; is going to exhibit at &lt;a href="https://www.ospn.jp/osc2017-hamanako/"&gt;Open Source Conference 2017 Hamanako&lt;/a&gt; at &lt;a href="http://www.machien-hamamatsu.jp/"&gt;Hamamatsu City Kyodoh Center&lt;/a&gt; on Sunday, February 12 2017.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.ospn.jp/"&gt;OSC（Open Source Conference)&lt;/a&gt; is held all over Japan and open for free to the visitors to see the exhibition of related community and sponsoring corporations and supporting organizations.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://info.xoxzo.com/ja/"&gt;Xoxzo&lt;/a&gt; will have a booth to show the demonstration of our WebAPIs, Sending SMS, Call to the landlines, multi factor authentication and number confirmation.&lt;/p&gt;
 &lt;p&gt;Our Evengelist &lt;a href="https://info.xoxzo.com/en/aboutus/"&gt;A.Nonaka&lt;/a&gt; will have a seminar 'Telephony for beginners' at 12 noon （ http://bit.ly/2jDSAjZ ）. Please spare your Sunday to visit us at OSC-Hamanako. We are looking forward to your coming.&lt;/p&gt;
-&lt;p&gt;More details about OSC 2017 Hamanako is &lt;a href="https://www.ospn.jp/osc2017-hamanako/"&gt;Here&lt;/a&gt; (Japanese Language only)&lt;/p&gt;</summary><category term="2017"></category><category term="osc"></category></entry><entry><title>[Xoxzo] Sponsoring PyCon in Kumamoto</title><link href="http://blog.xoxzo.com/ms/pycon-kumamoto-2017-en.html" rel="alternate"></link><published>2017-02-01T10:30:00+09:00</published><updated>2017-02-01T10:30:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2017-02-01:ms/pycon-kumamoto-2017-en.html</id><summary type="html">&lt;p&gt;&lt;a href="http://kumamoto.pycon.jp/"&gt;&lt;img alt="mini PyCon Kumamoto 2017" src="http://blog.xoxzo.com/ms/images/kumamoto.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;More details about OSC 2017 Hamanako is &lt;a href="https://www.ospn.jp/osc2017-hamanako/"&gt;Here&lt;/a&gt; (Japanese Language only)&lt;/p&gt;</summary><category term="2017"></category><category term="osc"></category></entry><entry><title>[Xoxzo] Sponsoring PyCon in Kumamoto</title><link href="http://blog.xoxzo.com/ms/en/2017/02/01/pycon-kumamoto-2017/" rel="alternate"></link><published>2017-02-01T10:30:00+09:00</published><updated>2017-02-01T10:30:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2017-02-01:ms/en/2017/02/01/pycon-kumamoto-2017/</id><summary type="html">&lt;p&gt;&lt;a href="http://kumamoto.pycon.jp/"&gt;&lt;img alt="mini PyCon Kumamoto 2017" src="http://blog.xoxzo.com/ms/images/kumamoto.png" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;We &lt;a href="https://www.xoxzo.com/en/"&gt;Xoxzo&lt;/a&gt; proudly announce that we are sponsoring
 &lt;a href="http://kumamoto.pycon.jp/"&gt;mini PyCon in Kumamoto 2017&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Based on the experience we have joined series of &lt;a href="http://www.pycon.org/"&gt;PyCons&lt;/a&gt; 
@@ -88,7 +109,7 @@ Ian Lewis, a Google Developer Advocator will making the Keynote. There will be
 two 15 minutes talk by the students on top of standard eight 30 minute talks.
 The organizers have also prepared stipends for attendees coming from out of town. &lt;/p&gt;
 &lt;p&gt;Please see more details by visiting &lt;a href="http://kumamoto.pycon.jp/"&gt;mini PyCon in Kumamoto 2017 website&lt;/a&gt;.
-We are looking forward to see you there in Kumamoto.&lt;/p&gt;</summary><category term="pycon"></category><category term="sponsor"></category><category term="kumamoto"></category><category term="community"></category><category term="2017"></category></entry><entry><title>Participating KOF-Kansai Open Source Forum</title><link href="http://blog.xoxzo.com/ms/kof-2016-report-en.html" rel="alternate"></link><published>2012-11-14T11:00:00+09:00</published><updated>2012-11-14T11:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2016-11-14:ms/kof-2016-report-en.html</id><summary type="html">&lt;p&gt;We are happy to announce that our KOF (Kansai Open Forum held on Nov 11 &amp;amp; 12 in
+We are looking forward to see you there in Kumamoto.&lt;/p&gt;</summary><category term="pycon"></category><category term="sponsor"></category><category term="kumamoto"></category><category term="community"></category><category term="2017"></category></entry><entry><title>Participating KOF-Kansai Open Source Forum</title><link href="http://blog.xoxzo.com/ms/en/2016/11/14/kof-2016-report/" rel="alternate"></link><published>2012-11-14T11:00:00+09:00</published><updated>2012-11-14T11:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2016-11-14:ms/en/2016/11/14/kof-2016-report/</id><summary type="html">&lt;p&gt;We are happy to announce that our KOF (Kansai Open Forum held on Nov 11 &amp;amp; 12 in
 Osaka, Japan) display ended successful.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="KOF関西バナー" src="http://blog.xoxzo.com/ms/images/kof-2016/kof.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;We had many visitor to our booth and were shown demonstration of ‘Sending
