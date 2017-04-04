@@ -6,7 +6,7 @@ Tags: tokyo-startup-pitch-night
 Author: Akira Nonaka
 Summary: Tokyo Startup Pitch Nightでライトニングトーク
 
-3/12の夜、渋谷の[TECH LAB PAAK](http://techlabpaak.com)で開催された 
+3/23の夜、渋谷の[TECH LAB PAAK](http://techlabpaak.com)で開催された 
 [Tokyo Startup Pitch Night](https://www.meetup.com/ja-JP/Tokyo-Startup-Engineering/events/238048528/)
 でライトニングトークをしてきました。
 
