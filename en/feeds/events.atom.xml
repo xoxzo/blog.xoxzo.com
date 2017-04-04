@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Xoxzo Official Blog: Empowerment</title><link href="http://blog.xoxzo.com/en/" rel="alternate"></link><link href="http://blog.xoxzo.com/feeds/events.atom.xml" rel="self"></link><id>http://blog.xoxzo.com/en/</id><updated>2017-03-22T11:00:00+09:00</updated><entry><title>「みんなのPython勉強会 in 長野 #1」参加報告</title><link href="http://blog.xoxzo.com/en/ja/2017/03/22/startup-python-at-nagano/" rel="alternate"></link><published>2017-03-22T11:00:00+09:00</published><updated>2017-03-22T11:00:00+09:00</updated><author><name>Akira Nonaka</name></author><id>tag:blog.xoxzo.com,2017-03-22:en/ja/2017/03/22/startup-python-at-nagano/</id><summary type="html">&lt;p&gt;三連休の初日(3/18)に&lt;a href="https://startpython.connpass.com/event/48846/"&gt;「みんなのPython勉強会 in 長野 #1」&lt;/a&gt;に参加してきました。&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Xoxzo Official Blog: Empowerment</title><link href="http://blog.xoxzo.com/en/" rel="alternate"></link><link href="http://blog.xoxzo.com/feeds/events.atom.xml" rel="self"></link><id>http://blog.xoxzo.com/en/</id><updated>2017-04-03T10:00:00+09:00</updated><entry><title>【Xoxzo】Tokyo Startup Pitch Nightでライトニングトーク</title><link href="http://blog.xoxzo.com/en/ja/2017/04/03/tokyo-startup-pitch-night-03-2017/" rel="alternate"></link><published>2017-04-03T10:00:00+09:00</published><updated>2017-04-03T10:00:00+09:00</updated><author><name>Akira Nonaka</name></author><id>tag:blog.xoxzo.com,2017-04-03:en/ja/2017/04/03/tokyo-startup-pitch-night-03-2017/</id><summary type="html">&lt;p&gt;3/23の夜、渋谷の&lt;a href="http://techlabpaak.com"&gt;TECH LAB PAAK&lt;/a&gt;で開催された 
+&lt;a href="https://www.meetup.com/ja-JP/Tokyo-Startup-Engineering/events/238048528/"&gt;Tokyo Startup Pitch Night&lt;/a&gt;
+でライトニングトークをしてきました。&lt;/p&gt;
+&lt;p&gt;デモは、XOXZOのAPIでつくった、電話をかけるSlackBot。
+最近は慣れてきたので、だいぶスムーズにできるようになりました。
+当日は４０名ほどの参加者でしたが、日本で起業しようとしている外国人の方々が多いのでおどろきます。
+しかも、みなさん日本語が上手い。質疑も活発です。
+いつもとは、ちょっと違った雰囲気でしたが、楽しい時間でした。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="会場風景1" src="http://blog.xoxzo.com/en/images/tokyo-startup-pitch-night/600_459381579.jpeg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="会場風景2" src="http://blog.xoxzo.com/en/images/tokyo-startup-pitch-night/600_459381584.jpeg" /&gt;&lt;/p&gt;</summary><category term="tokyo-startup-pitch-night"></category></entry><entry><title>「みんなのPython勉強会 in 長野 #1」参加報告</title><link href="http://blog.xoxzo.com/en/ja/2017/03/22/startup-python-at-nagano/" rel="alternate"></link><published>2017-03-22T11:00:00+09:00</published><updated>2017-03-22T11:00:00+09:00</updated><author><name>Akira Nonaka</name></author><id>tag:blog.xoxzo.com,2017-03-22:en/ja/2017/03/22/startup-python-at-nagano/</id><summary type="html">&lt;p&gt;三連休の初日(3/18)に&lt;a href="https://startpython.connpass.com/event/48846/"&gt;「みんなのPython勉強会 in 長野 #1」&lt;/a&gt;に参加してきました。&lt;/p&gt;
 &lt;p&gt;&lt;img alt="会場風景" src="http://blog.xoxzo.com/en/images/IMG_7444.JPG" /&gt;&lt;/p&gt;
 &lt;p&gt;朝、東京駅の新幹線ホームに着くと、もの凄い混雑。
 午前中の指定席は売り切れ、自由席は通勤電車なみの混雑です。

@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title></title><link href="http://blog.xoxzo.com/ms/" rel="alternate"></link><link href="http://blog.xoxzo.com/feeds/all.atom.xml" rel="self"></link><id>http://blog.xoxzo.com/ms/</id><updated>2017-03-28T14:00:00+09:00</updated><entry><title>[Xoxzo] Price deduction on Text-to-Speech (TTS)</title><link href="http://blog.xoxzo.com/ms/en/2017/03/28/price-cut-tts/" rel="alternate"></link><published>2017-03-28T14:00:00+09:00</published><updated>2017-03-28T14:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2017-03-28:ms/en/2017/03/28/price-cut-tts/</id><summary type="html">&lt;p&gt;Thank you for using &lt;a href="https://www.xoxzo.com/en/"&gt;Xoxzo, Cloud Telephony Platform&lt;/a&gt;.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title></title><link href="http://blog.xoxzo.com/ms/" rel="alternate"></link><link href="http://blog.xoxzo.com/feeds/all.atom.xml" rel="self"></link><id>http://blog.xoxzo.com/ms/</id><updated>2017-04-03T10:00:00+09:00</updated><entry><title>【Xoxzo】Tokyo Startup Pitch Nightでライトニングトーク</title><link href="http://blog.xoxzo.com/ms/ja/2017/04/03/tokyo-startup-pitch-night-03-2017/" rel="alternate"></link><published>2017-04-03T10:00:00+09:00</published><updated>2017-04-03T10:00:00+09:00</updated><author><name>Akira Nonaka</name></author><id>tag:blog.xoxzo.com,2017-04-03:ms/ja/2017/04/03/tokyo-startup-pitch-night-03-2017/</id><summary type="html">&lt;p&gt;3/23の夜、渋谷の&lt;a href="http://techlabpaak.com"&gt;TECH LAB PAAK&lt;/a&gt;で開催された 
+&lt;a href="https://www.meetup.com/ja-JP/Tokyo-Startup-Engineering/events/238048528/"&gt;Tokyo Startup Pitch Night&lt;/a&gt;
+でライトニングトークをしてきました。&lt;/p&gt;
+&lt;p&gt;デモは、XOXZOのAPIでつくった、電話をかけるSlackBot。
+最近は慣れてきたので、だいぶスムーズにできるようになりました。
+当日は４０名ほどの参加者でしたが、日本で起業しようとしている外国人の方々が多いのでおどろきます。
+しかも、みなさん日本語が上手い。質疑も活発です。
+いつもとは、ちょっと違った雰囲気でしたが、楽しい時間でした。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="会場風景1" src="http://blog.xoxzo.com/ms/images/tokyo-startup-pitch-night/600_459381579.jpeg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="会場風景2" src="http://blog.xoxzo.com/ms/images/tokyo-startup-pitch-night/600_459381584.jpeg" /&gt;&lt;/p&gt;</summary><category term="tokyo-startup-pitch-night"></category></entry><entry><title>[Xoxzo] Price deduction on Text-to-Speech (TTS)</title><link href="http://blog.xoxzo.com/ms/en/2017/03/28/price-cut-tts/" rel="alternate"></link><published>2017-03-28T14:00:00+09:00</published><updated>2017-03-28T14:00:00+09:00</updated><author><name>Aiko Yokoyama</name></author><id>tag:blog.xoxzo.com,2017-03-28:ms/en/2017/03/28/price-cut-tts/</id><summary type="html">&lt;p&gt;Thank you for using &lt;a href="https://www.xoxzo.com/en/"&gt;Xoxzo, Cloud Telephony Platform&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Please note that we have reduced the pricing for our add-on function, Text-To-Speech (TTS)
 from JPY35 to JPY5, as a result of our effort on the regular review and
 improvements on cost reduction. We hope with this lower pricing it will allow
