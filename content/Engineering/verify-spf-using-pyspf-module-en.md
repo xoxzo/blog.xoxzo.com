@@ -2,22 +2,22 @@ Title: Verify SPF using PySPF module
 Date: 2012-12-03 06:34
 Lang: en
 Author: Kamal Mustafa
-Category: Engineering, Python
-Tags: dns, email, spf
+Category: Engineering
+Tags: dns, email, spf, python, authentication
 Slug: verify-spf-using-pyspf-module
 Summary: Short introduction to using pyspf to verify SPF records
 
-We deals with email a lot and one thing with handling email is to verify
-where it come from. We must make sure when we receive email from
+We deal with email a lot and one thing with handling email is to verify
+where it came from. We must make sure when we receive email from
 someone@gmail.com, it really was sent from gmail.com server, not from someone
-else email server. [SPF or Sender Policy Framework](https://en.wikipedia.org/wiki/Sender_Policy_Framework) is
+else's email server. [SPF or Sender Policy Framework](https://en.wikipedia.org/wiki/Sender_Policy_Framework) is
 what being used for that. For all our apps, we used `libspf` which we
 wrapped into a convenience python extension that can be used across projects.
 As time goes by, we want to start depreciating all our C code and move
 everything (hopefully) to Python.
 
-There's a Python module called `pyspf`. It look like what we're looking
-for although the documentation seem to suggest that it part of bigger module
+There's a Python module called `pyspf`. It looks like what we're looking
+for although the documentation seems to suggest that it part of bigger module
 called `pymilter`. I can't find any documentation showing how to use only the
 SPF checking utility (if it has one) and after digging through the [source
 code](http://pymilter.cvs.sourceforge.net/viewvc/pymilter/pyspf/spf.py?view=markup),
