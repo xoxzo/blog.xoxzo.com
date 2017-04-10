@@ -40,8 +40,11 @@ DEFAULT_PAGINATION = 10
 RELATIVE_URLS = True
 
 DEFAULT_DATE_FORMAT = "%Y-%m-%d"
-STATIC_PATHS = ['images', 'pdfs', 'extra/CNAME']
-EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
+STATIC_PATHS = ['images', 'pdfs', 'extra/CNAME', '_redirects']
+EXTRA_PATH_METADATA = {
+        'extra/CNAME': {'path': 'CNAME'},
+        '_redirects': {'path': '_redirects'},
+    }
 
 #THEME           = 'themes/simple'
 THEME           = 'themes/xoxzo'
@@ -80,6 +83,10 @@ ARTICLE_LANG_URL = '{lang}/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 PAGE_URL = 'pages/{slug}/'
 PAGE_SAVE_AS = 'pages/{slug}/index.html'
+CATEGORY_URL = '{slug}/'
+CATEGORY_SAVE_AS = '{slug}/index.html'
+TAG_URL = 'tag/{slug}/'
+TAG_SAVE_AS = 'tag/{slug}/index.html'
 
 from datetime import date
 CURRENTYEAR = date.today().year
