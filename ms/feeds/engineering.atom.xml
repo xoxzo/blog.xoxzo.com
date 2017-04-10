@@ -638,7 +638,50 @@ team camp by lunch time since we wanted everyone to be home by
 dinner.&lt;/p&gt;
 &lt;p&gt;MARIMORE tries to do team camps a few times a year, and this time it was the
 first time we had it in Malacca. I was pretty happy with the experience,
-and will put Malacca high on top of our list.&lt;/p&gt;</summary><category term="hatten hotel"></category><category term="malacca"></category><category term="marimore"></category></entry><entry><title>Django transaction.commit_manually wrapper</title><link href="http://blog.xoxzo.com/ms/2012/08/27/django-transactioncommit_manually-wrapper/" rel="alternate"></link><published>2012-08-27T09:02:00+09:00</published><updated>2012-08-27T09:02:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2012-08-27:ms/2012/08/27/django-transactioncommit_manually-wrapper/</id><summary type="html">&lt;p&gt;I first &lt;a href="http://metaKamal%20Mustafa.blogspot.com/2011/05/django-transactioncommitmanually-mask.html"&gt;encountered this
+and will put Malacca high on top of our list.&lt;/p&gt;</summary><category term="hatten hotel"></category><category term="malacca"></category><category term="marimore"></category></entry><entry><title>Verify SPF using PySPF module</title><link href="http://blog.xoxzo.com/ms/en/2012/12/03/verify-spf-using-pyspf-module/" rel="alternate"></link><published>2012-12-03T06:34:00+09:00</published><updated>2012-12-03T06:34:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2012-12-03:ms/en/2012/12/03/verify-spf-using-pyspf-module/</id><summary type="html">&lt;p&gt;We deal with email a lot and one thing with handling email is to verify
+where it came from. We must make sure when we receive email from
+someone@gmail.com, it really was sent from gmail.com server, not from someone
+else's email server. &lt;a href="https://en.wikipedia.org/wiki/Sender_Policy_Framework"&gt;SPF or Sender Policy Framework&lt;/a&gt; is
+what being used for that. For all our apps, we used &lt;code&gt;libspf&lt;/code&gt; which we
+wrapped into a convenience python extension that can be used across projects.
+As time goes by, we want to start depreciating all our C code and move
+everything (hopefully) to Python.&lt;/p&gt;
+&lt;p&gt;There's a Python module called &lt;code&gt;pyspf&lt;/code&gt;. It looks like what we're looking
+for although the documentation seems to suggest that it part of bigger module
+called &lt;code&gt;pymilter&lt;/code&gt;. I can't find any documentation showing how to use only the
+SPF checking utility (if it has one) and after digging through the &lt;a href="http://pymilter.cvs.sourceforge.net/viewvc/pymilter/pyspf/spf.py?view=markup"&gt;source
+code&lt;/a&gt;,
+I found out the function that we need. It exists as &lt;code&gt;spf.check2()&lt;/code&gt; function.&lt;/p&gt;
+&lt;p&gt;In order to use &lt;code&gt;pyspf&lt;/code&gt; we also need it dependency which called &lt;code&gt;pydns&lt;/code&gt;.
+The following command should cover us well:-&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;easy_install pyspf
+easy_install pydns
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;The module then available for import under the name &lt;code&gt;spf&lt;/code&gt;. You can
+import it like below:-&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;spf&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;The function signature for &lt;code&gt;spf.check2&lt;/code&gt; function look like this:-&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;def check2(i, s, h, local=None, receiver=None):
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;where &lt;code&gt;i&lt;/code&gt; for ip address, &lt;code&gt;s&lt;/code&gt; for the sender email address, and &lt;code&gt;h&lt;/code&gt; for
+the email address domain part. So we can do our check for example as:-&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&amp;gt;&amp;gt;&amp;gt; spf.check2(&amp;#39;180.73.166.174&amp;#39;, &amp;#39;someone@gmail.com&amp;#39;, &amp;#39;gmail.com&amp;#39;)
+(&amp;#39;neutral&amp;#39;, &amp;#39;access neither permitted nor denied&amp;#39;)
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;The return value would be in form &lt;code&gt;result, explanation&lt;/code&gt; which is a
+tuple. &lt;code&gt;result&lt;/code&gt; can either be 'pass', 'fail', 'permerror', 'temperror',
+'softfail', 'none' or 'neutral'. We run side by side test with our
+existing spf function and the result seem to match so we're quite confident
+this function is what we're looking for. Now it less one C code that we have to maintain.&lt;/p&gt;</summary><category term="dns"></category><category term="email"></category><category term="spf"></category><category term="python"></category><category term="authentication"></category></entry><entry><title>Django transaction.commit_manually wrapper</title><link href="http://blog.xoxzo.com/ms/2012/08/27/django-transactioncommit_manually-wrapper/" rel="alternate"></link><published>2012-08-27T09:02:00+09:00</published><updated>2012-08-27T09:02:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2012-08-27:ms/2012/08/27/django-transactioncommit_manually-wrapper/</id><summary type="html">&lt;p&gt;I first &lt;a href="http://metaKamal%20Mustafa.blogspot.com/2011/05/django-transactioncommitmanually-mask.html"&gt;encountered this
 problem&lt;/a&gt;
 1 year ago and it look's like the issue still not being fixed till now.
 The &lt;a href="https://code.djangoproject.com/ticket/6623"&gt;corresponding ticket&lt;/a&gt;

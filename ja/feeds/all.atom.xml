@@ -1678,16 +1678,16 @@ URL ： &lt;a href="http://info.xoxzo.com/ja/"&gt;http://info.xoxzo.com/ja/&lt;/
 
 &lt;p&gt;アップデート&lt;/p&gt;
 &lt;p&gt;本件訴訟は和解により2013-03-06日付で取り下げしましたので、
-&lt;a href="http://blog.xoxzo.com/ja/2013/03/07/patent-lawsuit-action-resolved/"&gt;こちら&lt;/a&gt;でお知らせいたします。&lt;/p&gt;</summary><category term="ショートメッセージ"></category><category term="メディアネットワークサービス"></category><category term="特許"></category><category term="EZSMS"></category><category term="訴訟"></category><category term="wing-sms"></category></entry><entry><title>Verify SPF using PySPF module</title><link href="http://blog.xoxzo.com/ja/en/2012/12/03/verify-spf-using-pyspf-module/" rel="alternate"></link><published>2012-12-03T06:34:00+09:00</published><updated>2012-12-03T06:34:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2012-12-03:ja/en/2012/12/03/verify-spf-using-pyspf-module/</id><summary type="html">&lt;p&gt;We deals with email a lot and one thing with handling email is to verify
-where it come from. We must make sure when we receive email from
+&lt;a href="http://blog.xoxzo.com/ja/2013/03/07/patent-lawsuit-action-resolved/"&gt;こちら&lt;/a&gt;でお知らせいたします。&lt;/p&gt;</summary><category term="ショートメッセージ"></category><category term="メディアネットワークサービス"></category><category term="特許"></category><category term="EZSMS"></category><category term="訴訟"></category><category term="wing-sms"></category></entry><entry><title>Verify SPF using PySPF module</title><link href="http://blog.xoxzo.com/ja/en/2012/12/03/verify-spf-using-pyspf-module/" rel="alternate"></link><published>2012-12-03T06:34:00+09:00</published><updated>2012-12-03T06:34:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2012-12-03:ja/en/2012/12/03/verify-spf-using-pyspf-module/</id><summary type="html">&lt;p&gt;We deal with email a lot and one thing with handling email is to verify
+where it came from. We must make sure when we receive email from
 someone@gmail.com, it really was sent from gmail.com server, not from someone
-else email server. &lt;a href="https://en.wikipedia.org/wiki/Sender_Policy_Framework"&gt;SPF or Sender Policy Framework&lt;/a&gt; is
+else's email server. &lt;a href="https://en.wikipedia.org/wiki/Sender_Policy_Framework"&gt;SPF or Sender Policy Framework&lt;/a&gt; is
 what being used for that. For all our apps, we used &lt;code&gt;libspf&lt;/code&gt; which we
 wrapped into a convenience python extension that can be used across projects.
 As time goes by, we want to start depreciating all our C code and move
 everything (hopefully) to Python.&lt;/p&gt;
-&lt;p&gt;There's a Python module called &lt;code&gt;pyspf&lt;/code&gt;. It look like what we're looking
-for although the documentation seem to suggest that it part of bigger module
+&lt;p&gt;There's a Python module called &lt;code&gt;pyspf&lt;/code&gt;. It looks like what we're looking
+for although the documentation seems to suggest that it part of bigger module
 called &lt;code&gt;pymilter&lt;/code&gt;. I can't find any documentation showing how to use only the
 SPF checking utility (if it has one) and after digging through the &lt;a href="http://pymilter.cvs.sourceforge.net/viewvc/pymilter/pyspf/spf.py?view=markup"&gt;source
 code&lt;/a&gt;,
@@ -1721,7 +1721,7 @@ the email address domain part. So we can do our check for example as:-&lt;/p&gt;
 tuple. &lt;code&gt;result&lt;/code&gt; can either be 'pass', 'fail', 'permerror', 'temperror',
 'softfail', 'none' or 'neutral'. We run side by side test with our
 existing spf function and the result seem to match so we're quite confident
-this function is what we're looking for. Now it less one C code that we have to maintain.&lt;/p&gt;</summary><category term="dns"></category><category term="email"></category><category term="spf"></category></entry><entry><title>Django transaction.commit_manually wrapper</title><link href="http://blog.xoxzo.com/ja/2012/08/27/django-transactioncommit_manually-wrapper/" rel="alternate"></link><published>2012-08-27T09:02:00+09:00</published><updated>2012-08-27T09:02:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2012-08-27:ja/2012/08/27/django-transactioncommit_manually-wrapper/</id><summary type="html">&lt;p&gt;I first &lt;a href="http://metaKamal%20Mustafa.blogspot.com/2011/05/django-transactioncommitmanually-mask.html"&gt;encountered this
+this function is what we're looking for. Now it less one C code that we have to maintain.&lt;/p&gt;</summary><category term="dns"></category><category term="email"></category><category term="spf"></category><category term="python"></category><category term="authentication"></category></entry><entry><title>Django transaction.commit_manually wrapper</title><link href="http://blog.xoxzo.com/ja/2012/08/27/django-transactioncommit_manually-wrapper/" rel="alternate"></link><published>2012-08-27T09:02:00+09:00</published><updated>2012-08-27T09:02:00+09:00</updated><author><name>Kamal Mustafa</name></author><id>tag:blog.xoxzo.com,2012-08-27:ja/2012/08/27/django-transactioncommit_manually-wrapper/</id><summary type="html">&lt;p&gt;I first &lt;a href="http://metaKamal%20Mustafa.blogspot.com/2011/05/django-transactioncommitmanually-mask.html"&gt;encountered this
 problem&lt;/a&gt;
 1 year ago and it look's like the issue still not being fixed till now.
 The &lt;a href="https://code.djangoproject.com/ticket/6623"&gt;corresponding ticket&lt;/a&gt;
