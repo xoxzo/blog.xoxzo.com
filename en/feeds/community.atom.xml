@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Xoxzo Official Blog: Empowerment</title><link href="http://blog.xoxzo.com/en/" rel="alternate"></link><link href="http://blog.xoxzo.com/feeds/community.atom.xml" rel="self"></link><id>http://blog.xoxzo.com/en/</id><updated>2017-04-10T10:00:00+09:00</updated><entry><title>The Secret Weapon Of Python - PyCon MY 2016</title><link href="http://blog.xoxzo.com/en/2017/04/10/the-secret-weapon-of-python/" rel="alternate"></link><published>2017-04-10T10:00:00+09:00</published><updated>2017-04-10T10:00:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2017-04-10:en/2017/04/10/the-secret-weapon-of-python/</id><summary type="html">&lt;p&gt;Python is everywhere in what we do: From weekly reports to the frontend and
+backend. We have leveraged python in many ways to help us reach the goals that
+we've set for ourselves and the goals our customers have set for us.&lt;/p&gt;
+&lt;p&gt;As a way to give back, we actively take part in PyCons in the community that
+we're involved in. This is the talk that I gave for PyCon MY 2016 titled "The
+Secret Weapon Of Python"&lt;/p&gt;
+&lt;iframe src="//www.slideshare.net/slideshow/embed_code/key/aTy9dSEzoSlVCV"
+width="595" height="485" frameborder="0" marginwidth="0" marginheight="0"
+scrolling="no" style="border:1px solid #CCC; border-width:1px;
+margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt;
+
+&lt;p&gt;&lt;div
+style="margin-bottom:5px"&gt; &lt;strong&gt; &lt;a
+href="//www.slideshare.net/xoxzo/the-secret-weapon-of-python" title="The Secret
+Weapon Of Python" target="_blank"&gt;The Secret Weapon Of Python&lt;/a&gt; &lt;/strong&gt; from
+&lt;strong&gt;&lt;a target="_blank" href="//www.slideshare.net/xoxzo"&gt;Xoxzo
+Inc.&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;To summarize, what the talk was about is the idea of the driving force behind
+the python language is not the language or the functionalities that it has or
+even batteries included idea that it holds, but the diverse community it has,
+and the importance of cultivating this by encouraging diversity. &lt;/p&gt;
+&lt;p&gt;I also answered questions on community building, and how to keep motivated when
+it's essentially a selfless unpaid work.&lt;/p&gt;
+&lt;p&gt;You can also access the slides for &lt;a href="http://www.slideshare.net/xoxzo/the-secret-weapon-of-python"&gt;The Secret Weapon Of
+Python&lt;/a&gt; above on
+Slideshare.&lt;/p&gt;</summary><category term="python"></category><category term="community"></category><category term="pyconmy"></category><category term="2016"></category></entry></feed>
