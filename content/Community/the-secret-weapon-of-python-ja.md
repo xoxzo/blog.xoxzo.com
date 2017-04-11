@@ -1,26 +1,21 @@
-Title: The Secret Weapon Of Python - PyCon MY 2016
-Date: 2017-04-10 10:00
-Author: Iqbal Abdullah
-Tags: python, コミュニティー, pyconmy, 2016
-Lang: ja
-Slug: the-secret-weapon-of-python
-Summary: Iq's talk for his session on the secret sauce for python called community
 
-[![Xoxzoロゴ]({filename}/images/xoxzo-logo-02.png)](https://www.xoxzo.com/ja/)
+Title: Pythonの隠れた武器 - PyCon MY 2016 
+Date: 2017-04-10 10:00 
+Author: Iqbal Abdullah 
+Tags: python, community, pyconmy, 2016 
+Lang: ja Slug: the-secret-weapon-of-python 
+Summary: Xoxzo代表、イクバルのトーク内容とスライドーPyCon MY 2016
 
-平素は[Xoxzo　クラウド・テレフォニー・プラットフォーム](https://www.xoxzo.com/ja/)をご利用いただきましてありがとうございます。
+Pythonは、今や何をするのにも使われています。ちょっとしたレポートを書くのにも、システムの表裏、どちらでも活躍中です。自らが作り上げよう、と思ったもの、お客様に作って欲しい、と頼まれたもの等、様々な目的の達成に、Pythonを様々な形で、活用させてもらっているのです。 
 
-2016年8月4日より、フリーダイヤルサービスの価格上昇に伴い、電話着信APIサービスの着信料金が改定されますので、お知らせ申し上げます。
+そのお返しに、我々は、コミュニティのPyConにて活発に活動しています。下記は、私がPycon MY 2016 にてトークを行った内容です。
+テーマは、「Pythonの隠れた武器」です。
 
-    ----------------    -----------------------------------------------------------------------
-    プレフィックス      改定後の一分ごとの着信料金・JPYクレジット数表示（カッコ内は現行料金）
-    120                 JPY 55 (JPY 40)　+15クレジット/分
-    800                 JPY 55 (JPY 40)　+15クレジット/分
-    3                   JPY 10 (JPY 40)　-30クレジット/分
-    ----------------    -----------------------------------------------------------------------
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/aTy9dSEzoSlVCV" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+株式会社Xoxzoより、「Pythonの隠れた武器」
 
-ご不明な点がございましたら、ヘルプデスク（help@xoxzo.com）までご連絡ください。
+要するに、このトークで述べているのは、Pythonという言語を動かしているのは、実はこの言語や機能そのものであるとか、バッテリーなどというもののもつ観念から離れた、Pythonを支える多種多様なコミュニティであり、また、その多種多様性を活気づけることにより、さらに洗練されることが重要である、ということなのです。
 
-今後共、弊社のサービスをどうぞよろしくお願いします。
+このトークの他にも、コミュニティを作ることであるとか、本質的に没我的かつ無給のこの作業に対して、どのようにやる気を持続させていくか、等についての質問に答えました。
 
-株式会社Xoxzo一同
+上記のスライド「Pythonの隠れた武器」へは、Slideshareを使ってアクセスすることも出来ます。
