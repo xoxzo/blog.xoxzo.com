@@ -27,4 +27,4 @@ Inc.</a></strong> </div>
 
 このトークの他にも、コミュニティを作ることであるとか、本質的に没我的かつ無給のこの作業に対して、どのようにやる気を持続させていくか、等についての質問に答えました。
 
-上記のスライド「Pythonの隠れた武器」へは、Slideshareを使ってアクセスすることも出来ます。
+上記のスライド [「Pythonの隠れた武器」](http://www.slideshare.net/xoxzo/the-secret-weapon-of-python) へは、Slideshareを使ってアクセスすることも出来ます。
