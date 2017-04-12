@@ -11,15 +11,14 @@ Pythonは、今や何をするのにも使われています。ちょっとし�
 そのお返しに、我々は、コミュニティのPyConにて活発に活動しています。下記は、私がPycon MY 2016 にてトークを行った内容です。
 テーマは、「Pythonの隠れた武器」です。
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/aTy9dSEzoSlVCV"
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/d16auGzHNwhnVO"
 width="595" height="485" frameborder="0" marginwidth="0" marginheight="0"
 scrolling="no" style="border:1px solid #CCC; border-width:1px;
 margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div
 style="margin-bottom:5px"> <strong> <a
-href="//www.slideshare.net/xoxzo/the-secret-weapon-of-python" title="The Secret
-Weapon Of Python" target="_blank">The Secret Weapon Of Python</a> </strong> from
-<strong><a target="_blank" href="//www.slideshare.net/xoxzo">Xoxzo
-Inc.</a></strong> </div>
+href="//www.slideshare.net/xoxzo/python-74920796" title="Pythonの隠れた武器"
+target="_blank">Pythonの隠れた武器</a> </strong> from <strong><a target="_blank"
+href="//www.slideshare.net/xoxzo">Xoxzo Inc.</a></strong> </div>
 
 株式会社Xoxzoより、「Pythonの隠れた武器」
 
@@ -27,4 +26,4 @@ Inc.</a></strong> </div>
 
 このトークの他にも、コミュニティを作ることであるとか、本質的に没我的かつ無給のこの作業に対して、どのようにやる気を持続させていくか、等についての質問に答えました。
 
-上記のスライド [「Pythonの隠れた武器」](http://www.slideshare.net/xoxzo/the-secret-weapon-of-python) へは、Slideshareを使ってアクセスすることも出来ます。
+上記のスライド [「Pythonの隠れた武器」](http://www.slideshare.net/xoxzo/python-74920796) へは、Slideshareを使ってアクセスすることも出来ます。
