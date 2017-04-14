@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title></title><link href="http://blog.xoxzo.com/ms/" rel="alternate"></link><link href="http://blog.xoxzo.com/feeds/all.atom.xml" rel="self"></link><id>http://blog.xoxzo.com/ms/</id><updated>2017-04-10T10:00:00+09:00</updated><entry><title>The Secret Weapon Of Python - PyCon MY 2016</title><link href="http://blog.xoxzo.com/ms/en/2017/04/10/the-secret-weapon-of-python/" rel="alternate"></link><published>2017-04-10T10:00:00+09:00</published><updated>2017-04-10T10:00:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2017-04-10:ms/en/2017/04/10/the-secret-weapon-of-python/</id><summary type="html">&lt;p&gt;Python is everywhere in what we do: From weekly reports to the frontend and
+<feed xmlns="http://www.w3.org/2005/Atom"><title></title><link href="http://blog.xoxzo.com/ms/" rel="alternate"></link><link href="http://blog.xoxzo.com/feeds/all.atom.xml" rel="self"></link><id>http://blog.xoxzo.com/ms/</id><updated>2017-04-13T16:00:00+09:00</updated><entry><title>「みんなのPython勉強会 #23」参加報告</title><link href="http://blog.xoxzo.com/ms/ja/2017/04/13/startup-python-at-tokyo-23/" rel="alternate"></link><published>2017-04-13T16:00:00+09:00</published><updated>2017-04-13T16:00:00+09:00</updated><author><name>Akira Nonaka</name></author><id>tag:blog.xoxzo.com,2017-04-13:ms/ja/2017/04/13/startup-python-at-tokyo-23/</id><summary type="html">&lt;p&gt;4/12の夜&lt;a href="https://startpython.connpass.com/event/49884/"&gt;「みんなのPython勉強会 #23」&lt;/a&gt;に参加しました。
+前回、長野でのイベントに参加しましたが、東京は初めてです。１５０名超の参加者で部屋は満員。Pythonの人気は本物のようです。
+やはり、昨今のAI,ディープラーニングブームの影響なのでしょう、今回のトピックも機械学習やデータ分析の話が中心でした。
+特に、jupyter notebookによる&lt;a href="https://spark.apache.org/docs/0.9.0/index.html"&gt;pyspark&lt;/a&gt;
+を使った、インタラクティブなデータ分析には興味をひかれました。 &lt;/p&gt;
+&lt;p&gt;今回LTで発表させていただきました。&lt;/p&gt;
+&lt;iframe src="//www.slideshare.net/slideshow/embed_code/key/XaWcyeA8tvcbc"
+width="595" height="485" frameborder="0" marginwidth="0" marginheight="0"
+scrolling="no" style="border:1px solid #CCC; border-width:1px;
+margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt;
+
+&lt;p&gt;&lt;div
+style="margin-bottom:5px"&gt; &lt;strong&gt; &lt;a
+href="//www.slideshare.net/xoxzo/pycon-apac-2017-for-python" title="PyCon APAC
+2017 for みんなのPython勉強会" target="_blank"&gt;PyCon APAC 2017 for
+みんなのPython勉強会&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a target="_blank"
+href="https://www.slideshare.net/xoxzo"&gt;Xoxzo Inc.&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;なお、終了後の懇親会では私も「PyCon APAC 2017へ行こう！」という題で、ライトニングトークをさせてもらいました。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="会場風景" src="http://blog.xoxzo.com/ms/images/IMG_7820.JPG" /&gt;&lt;/p&gt;</summary><category term="python"></category><category term="東京"></category><category term="勉強会"></category><category term="みんなのPython勉強会"></category><category term="pycon apac 2017"></category></entry><entry><title>The Secret Weapon Of Python - PyCon MY 2016</title><link href="http://blog.xoxzo.com/ms/en/2017/04/10/the-secret-weapon-of-python/" rel="alternate"></link><published>2017-04-10T10:00:00+09:00</published><updated>2017-04-10T10:00:00+09:00</updated><author><name>Iqbal Abdullah</name></author><id>tag:blog.xoxzo.com,2017-04-10:ms/en/2017/04/10/the-secret-weapon-of-python/</id><summary type="html">&lt;p&gt;Python is everywhere in what we do: From weekly reports to the frontend and
 backend. We have leveraged python in many ways to help us reach the goals that
 we've set for ourselves and the goals our customers have set for us.&lt;/p&gt;
 &lt;p&gt;As a way to give back, we actively take part in PyCons in the community that
