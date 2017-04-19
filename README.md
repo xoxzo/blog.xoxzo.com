@@ -74,7 +74,7 @@ These metadata is required for all articles
 
 #### Translations
 
-If your article has translations, you *MUST* also include the **Lang:** metadata,
+It is mandatory to specify **Lang** metadata for each article,
 like this:
 
     Title: Participating KOF-Kansai Open Source Forum
@@ -85,7 +85,3 @@ like this:
     Tags: kof; osaka; exhibition;
     Author: Aiko Yokoyama
     Summary: We participated in the KOF 2016 and this is what we think
-
-If your article has no translations, **do not** include the Lang: metadata as
-that will mess up the URL links format.
-
