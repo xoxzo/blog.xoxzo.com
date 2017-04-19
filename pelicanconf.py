@@ -51,24 +51,18 @@ THEME           = 'themes/xoxzo'
 PLUGIN_PATHS    = [os.path.join(PROJECT_ROOT, 'plugins'),]
 PLUGINS         = ["i18n_subsites", ]
 
-I18N_UNTRANSLATED_ARTICLES  = "keep"
+I18N_UNTRANSLATED_ARTICLES  = "remove"
 I18N_UNTRANSLATED_PAGES     = "keep"
 
 I18N_SUBSITES   = {
+    'en': {
+        'STATIC_PATHS': STATIC_PATHS,
+    },
     'ja': {
         'SITENAME': 'Xoxzoの公式ブログ：「開花、発展、向上させる」',
         'STATIC_PATHS': STATIC_PATHS,
-        'THEME': THEME,
     },
     'ms': {
-        'SITENAME': '',
-        'STATIC_PATHS': STATIC_PATHS,
-        'THEME': THEME,
-    },
-    'en': {
-        'SITENAME': SITENAME,
-        'STATIC_PATHS': STATIC_PATHS,
-        'THEME': THEME,
     },
 }
 
