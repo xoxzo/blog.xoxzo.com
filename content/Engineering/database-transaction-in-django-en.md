@@ -3,6 +3,7 @@ Date: 2012-06-21 07:54
 Author: Kamal Mustafa
 Tags: django, python, transaction
 Slug: database-transaction-in-django
+Lang: en
 
 Keep forgetting about this so this is to wrap my heads around it. First
 I have  

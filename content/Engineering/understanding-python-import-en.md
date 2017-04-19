@@ -3,6 +3,7 @@ Date: 2011-11-22 16:32
 Author: Kamal Mustafa
 Tags: python
 Slug: understanding-python-import
+Lang: en
 
 There's a lot have been written on understanding Python import so I'm
 not sure whether this one would help to clear the confusion or just add

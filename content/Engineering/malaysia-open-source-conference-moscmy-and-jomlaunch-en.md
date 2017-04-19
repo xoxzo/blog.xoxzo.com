@@ -3,6 +3,7 @@ Date: 2016-06-03 10:02
 Author: Kamal Mustafa
 Tags: open source, malaysia, jomlaunch
 Slug: malaysia-open-source-conference-moscmy-and-jomlaunch
+Lang: en
 
 Last week I've attended one of the biggest open source event in Malaysia
 and another co-located event that is JomLaunch by prominent local

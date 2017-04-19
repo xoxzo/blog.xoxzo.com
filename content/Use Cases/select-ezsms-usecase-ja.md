@@ -3,6 +3,7 @@ Date: 2014-04-14 12:43
 Author: Iqbal Abdullah
 Tags: ezsms, smsのapi配信, ダイヤルSMS, ショートメッセージ, 高齢ユーザ
 Slug: select-ezsms-usecase
+Lang: ja
 
 株式会社セレクト（本社：東京都中野区、代表者：木内
 稔）はショートメッセージ機能ご利用できるようになるため自社サービスは株式会社Xoxzo（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）が運営する[SMS（ショートメッセージ）配信サービス「EZSMS」](http://www.ezsms.biz/ja)と連携し利用しています。

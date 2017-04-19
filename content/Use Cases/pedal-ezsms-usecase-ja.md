@@ -3,6 +3,7 @@ Date: 2014-12-26 11:00
 Author: Aiko Yokoyama
 Tags: ezsms, smsのapi配信, 認証, 株式会社ペダル
 Slug: pedal-ezsms-usecase
+Lang: ja
 
 [株式会社ペダル](http://www.pedal.co.jp/)（本社：神奈川県川崎市）は、株式会社Xoxzo（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）の運営する[SMS（ショートメッセージ）配信サービス「EZSMS」](http://www.ezsms.biz/ja)を導入しました。 
 

@@ -3,6 +3,7 @@ Date: 2014-08-20 11:10
 Author: Aiko Yokoyama
 Tags: ezsms, smsのapi配信, 株式会社キュラーズ, ショートメール
 Slug: quraz-ezsms-usecase
+Lang: ja
 
 [株式会社キュラーズ](http://www.quraz.com/)(本社:東京都品川区、代表取締役社長　スティーブ・スポーン)は、株式会社Xoxzo（本社：東京都台東区、代表取締役：イクバル・アバドラ）の運営する[SMS（ショートメッセージ）配信サービス「EZSMS」](http://www.ezsms.biz/ja)を導入しました。 
 

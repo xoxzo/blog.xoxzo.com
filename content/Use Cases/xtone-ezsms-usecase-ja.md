@@ -3,6 +3,7 @@ Date: 2013-05-07 23:06
 Author: Iqbal Abdullah
 Tags: xtone, ezsms, use cases, pr
 Slug: xtone-ezsms-usecase
+Lang: ja
 Summary: 株式会社エクストーンがEZSMSを利用する
 
 ![ezsms logo]({filename}/images/ezsms_logo1.png)

@@ -3,6 +3,7 @@ Date: 2012-04-23 11:23
 Author: Muhammad Juwaini
 Tags: html5, browsers, audio
 Slug: polyfilling-the-future
+Lang: en
 
 What is polyfill?
 #####################################################
