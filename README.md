@@ -89,3 +89,17 @@ like this:
 If your article has no translations, **do not** include the Lang: metadata as
 that will mess up the URL links format.
 
+#### Theme Translations
+To translate string in templates, make the string translatable:
+
+    {% trans %}Who we are ?{% endtrans %}
+
+Then run:
+
+    make pot_translation
+
+This will create translation file in `locales/ja/LC_MESSAGES/messages.po`. Translate
+the string and then run:
+    
+    make compile_translation
+    make html
