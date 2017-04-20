@@ -11,3 +11,4 @@ plugins/
 *.swp
 *.pid
 .DS_Store
+venv
