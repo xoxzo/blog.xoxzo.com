@@ -85,3 +85,18 @@ like this:
     Tags: kof; osaka; exhibition;
     Author: Aiko Yokoyama
     Summary: We participated in the KOF 2016 and this is what we think
+
+#### Theme Translations
+To translate string in templates, make the string translatable:
+
+    {% trans %}Who we are ?{% endtrans %}
+
+Then run:
+
+    make pot_translation
+
+This will create translation file in `locales/ja/LC_MESSAGES/messages.po`. Translate
+the string and then run:
+    
+    make compile_translation
+    make html

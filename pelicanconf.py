@@ -50,9 +50,11 @@ EXTRA_PATH_METADATA = {
 THEME           = 'themes/xoxzo'
 PLUGIN_PATHS    = [os.path.join(PROJECT_ROOT, 'plugins'),]
 PLUGINS         = ["i18n_subsites", ]
+JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n',]}
 
 I18N_UNTRANSLATED_ARTICLES  = "remove"
 I18N_UNTRANSLATED_PAGES     = "keep"
+I18N_GETTEXT_LOCALEDIR = 'locales'
 
 I18N_SUBSITES   = {
     'en': {
