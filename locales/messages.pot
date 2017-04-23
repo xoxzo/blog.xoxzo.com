@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-20 18:22+0900\n"
+"POT-Creation-Date: 2017-04-24 02:44+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,11 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
+#: themes/xoxzo/templates/archives.html:5
+msgid "Archives"
+msgstr ""
+
+#: themes/xoxzo/templates/article.html:35
+msgid "By"
+msgstr ""
+
+#: themes/xoxzo/templates/author.html:5
+msgid "Articles by"
+msgstr ""
+
+#: themes/xoxzo/templates/authors.html:3 themes/xoxzo/templates/authors.html:7
+msgid "Authors"
+msgstr ""
+
+#: themes/xoxzo/templates/base.html:37
+msgid "BLOG"
+msgstr ""
+
 #: themes/xoxzo/templates/base.html:47
 msgid "Who We Are"
 msgstr ""
 
+#: themes/xoxzo/templates/base.html:50
+msgid "Twitter"
+msgstr ""
+
+#: themes/xoxzo/templates/base.html:54
+msgid "Language"
+msgstr ""
+
+#: themes/xoxzo/templates/base.html:73
+msgid "Xoxzo Inc. All rights reserved."
+msgstr ""
+
+#: themes/xoxzo/templates/base.html:74
+msgid "Powered by <a href=\"http://getpelican.com/\">Pelican</a>"
+msgstr ""
+
+#: themes/xoxzo/templates/categories.html:3
+#: themes/xoxzo/templates/categories.html:7
+msgid "Categories"
+msgstr ""
+
+#: themes/xoxzo/templates/category.html:5
+#, python-format
+msgid "Articles in the <b>%(category)s</b> category"
+msgstr ""
+
+#: themes/xoxzo/templates/index.html:22
+msgid "Continue reading"
+msgstr ""
+
+#: themes/xoxzo/templates/period_archives.html:4
+msgid "Archives for"
+msgstr ""
+
 #: themes/xoxzo/templates/sidebar.html:4
 msgid "CATEGORIES"
+msgstr ""
+
+#: themes/xoxzo/templates/sidebar.html:12
+msgid "TAGS"
+msgstr ""
+
+#: themes/xoxzo/templates/tag.html:5
+#, python-format
+msgid "Articles by the <b>%(tag)s</b> tag"
+msgstr ""
+
+#: themes/xoxzo/templates/tags.html:3 themes/xoxzo/templates/tags.html:7
+msgid "Tags"
+msgstr ""
+
+#: themes/xoxzo/templates/translations.html:3
+msgid "Translate to"
 msgstr ""
 

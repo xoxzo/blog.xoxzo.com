@@ -1,10 +1,10 @@
 {% extends "base.html" %}
 
-{% block title %}{{ SITENAME }} - Authors{% endblock %}
+{% block title %}{{ SITENAME }} - {% trans %}Authors{% endtrans %}{% endblock %}
 
 {% block content %}
 <main class="container pg">
-    <h1>Authors</h1>
+    <h1>{% trans %}Authors{% endtrans %}</h1>
     <ul>
         {%- for author, articles in authors|sort %}
         <li><a href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a> ({{ articles|count }})</li>
