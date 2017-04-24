@@ -47,13 +47,9 @@ msgstr "ブログ提供者"
 msgid "Twitter"
 msgstr "ツイッター"
 
-#: themes/xoxzo/templates/base.html:54
-msgid "Language"
-msgstr "言語"
-
 #: themes/xoxzo/templates/base.html:73
 msgid "Xoxzo Inc. All rights reserved."
-msgstr "&copy; %(current_year)s Xoxzo Inc. All rights reserved."
+msgstr "Xoxzo Inc. All rights reserved."
 
 #: themes/xoxzo/templates/base.html:74
 msgid "Powered by <a href=\"http://getpelican.com/\">Pelican</a>"
