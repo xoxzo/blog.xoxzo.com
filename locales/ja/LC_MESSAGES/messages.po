@@ -8,65 +8,66 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-04-24 02:44+0900\n"
-"PO-Revision-Date: 2017-04-20 18:04+0900\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-04-24 13:22+0900\n"
 "Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 1.8.11\n"
 
 #: themes/xoxzo/templates/archives.html:5
 msgid "Archives"
-msgstr ""
+msgstr "アーカイブ"
 
 #: themes/xoxzo/templates/article.html:35
 msgid "By"
-msgstr ""
+msgstr "投稿者:"
 
 #: themes/xoxzo/templates/author.html:5
 msgid "Articles by"
-msgstr ""
+msgstr "記事投稿："
 
 #: themes/xoxzo/templates/authors.html:3 themes/xoxzo/templates/authors.html:7
 msgid "Authors"
-msgstr ""
+msgstr "投稿者："
 
 #: themes/xoxzo/templates/base.html:37
 msgid "BLOG"
-msgstr ""
+msgstr "ブログ"
 
 #: themes/xoxzo/templates/base.html:47
 msgid "Who We Are"
-msgstr "私たちは誰ですか"
+msgstr "ブログ提供者"
 
 #: themes/xoxzo/templates/base.html:50
 msgid "Twitter"
-msgstr ""
+msgstr "ツイッター"
 
 #: themes/xoxzo/templates/base.html:54
 msgid "Language"
-msgstr ""
+msgstr "言語"
 
 #: themes/xoxzo/templates/base.html:73
 msgid "Xoxzo Inc. All rights reserved."
-msgstr ""
+msgstr "&copy; %(current_year)s Xoxzo Inc. All rights reserved."
 
 #: themes/xoxzo/templates/base.html:74
 msgid "Powered by <a href=\"http://getpelican.com/\">Pelican</a>"
-msgstr ""
+msgstr "Powered by <a href=\"http://getpelican.com/\">Pelican</a>"
 
 #: themes/xoxzo/templates/categories.html:3
 #: themes/xoxzo/templates/categories.html:7
 msgid "Categories"
-msgstr ""
+msgstr "カテゴリー"
 
 #: themes/xoxzo/templates/category.html:5
 #, python-format
 msgid "Articles in the <b>%(category)s</b> category"
-msgstr ""
+msgstr "<b>%(category)s</b> 内の記事"
 
 #: themes/xoxzo/templates/index.html:22
 msgid "Continue reading"
@@ -74,26 +75,25 @@ msgstr "続きを読む"
 
 #: themes/xoxzo/templates/period_archives.html:4
 msgid "Archives for"
-msgstr ""
+msgstr "アーカイブ"
 
 #: themes/xoxzo/templates/sidebar.html:4
 msgid "CATEGORIES"
-msgstr "カテゴリ"
+msgstr "カテゴリー"
 
 #: themes/xoxzo/templates/sidebar.html:12
 msgid "TAGS"
-msgstr ""
+msgstr "タグ"
 
 #: themes/xoxzo/templates/tag.html:5
 #, python-format
 msgid "Articles by the <b>%(tag)s</b> tag"
-msgstr ""
+msgstr "<b>%(tag)s</b> のついた記事"
 
 #: themes/xoxzo/templates/tags.html:3 themes/xoxzo/templates/tags.html:7
 msgid "Tags"
-msgstr ""
+msgstr "タグ"
 
 #: themes/xoxzo/templates/translations.html:3
 msgid "Translate to"
-msgstr ""
-
+msgstr "他の言語へ"
