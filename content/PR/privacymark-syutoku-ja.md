@@ -3,6 +3,7 @@ Date: 2013-06-13 11:00
 Author: Iqbal Abdullah
 Tags: プライバシーマーク; 認定; pマーク; 個人情報
 Slug: privacymark-marimore-2013
+Lang: ja
 Summary: プラバシーマーク取得をいたしました。
 
 会社MARIMORE（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）は、2013年5月23日付けで、

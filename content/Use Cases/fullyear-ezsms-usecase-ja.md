@@ -3,6 +3,7 @@ Date: 2013-04-04 17:43
 Author: Iqbal Abdullah
 Tags: ezsms, smsのapi配信, 株式会社フルイヤー, ユーザ認証
 Slug: fullyear-ezsms-usecase
+Lang: ja
 Summary: EZSMSでサービス認証を行う株式会社フルイヤー
 
 株式会社フルイヤー、(本社:東京都港区、代表取締役上原嗣則、[http://www.fullyear.co.jp/](http://www.fullyear.co.jp/))は、

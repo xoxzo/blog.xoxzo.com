@@ -1,6 +1,7 @@
 Title: 【Xoxzo】OSC 浜名湖に出展してきました
 Date: 2017-02-17 10:00
 Slug: osc-hamanako-2017-report
+Lang: ja
 Modified: 2017-02-17 10:00
 Tags: 2017; osc; 
 Author: Akira Nonaka

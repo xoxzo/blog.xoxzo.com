@@ -1,6 +1,7 @@
 Title: 【EZSMS】新規ご登録アカウントのAPIキーご提供停止について 
 Date: 2017-02-23 14:00
 Slug: EZSMS-End-APIKey
+Lang: ja
 Modified: 2017-02-23 14:00
 Tags: EZSMS; APIKey;
 Author: Aiko Yokoyama

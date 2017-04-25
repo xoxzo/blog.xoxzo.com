@@ -3,6 +3,7 @@ Date: 2015-09-05 21:50
 Author: Iqbal Abdullah
 Tags: プライバシーマーク; 認定; pマーク; 個人情報
 Slug: privacymark-marimore-2015
+Lang: ja
 Summary: プラバシーマーク更新をいたしました。
 
 当社は、一般財団法人日本情報経済社会推進協会（ＪＩＰＤＥＣ）が認定する「プライバシーマーク」

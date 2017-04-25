@@ -5,6 +5,7 @@ Category: New Release, Xoxzo
 Tags: malaysia, my, telephony, xoxzo
 Slug: xoxzo-support-for-malaysia-my
 Summary: Xoxzo API now supports Malaysia (MY)
+Lang: en
 
 ![Xoxzo Inc.]({filename}/images/xoxzo-logo-02.png)
 

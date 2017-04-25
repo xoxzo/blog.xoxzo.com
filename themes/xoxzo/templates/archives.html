@@ -2,7 +2,7 @@
 
 {% block content %}
 <main class="container pg">
-    <h1>Archives</h1>
+    <h1>{% trans %}Archives{% endtrans %}</h1>
     <dl>
         {% for article in dates %}
         <dt>{{ article.locale_date }}</dt>

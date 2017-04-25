@@ -3,6 +3,7 @@ Date: 2012-05-23 20:07
 Author: Kamal Mustafa
 Tags: django, Python
 Slug: django-where-does-settings-belong
+Lang: en
 
 Settings is very central to all Django applications. Django even barf if
 you  
