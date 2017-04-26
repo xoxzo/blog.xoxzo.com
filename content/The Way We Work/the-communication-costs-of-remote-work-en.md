@@ -3,6 +3,7 @@ Date: 2016-04-22 23:25
 Author: Iqbal Abdullah
 Tags: costs, nomad, remote, tips
 Slug: the-communication-costs-of-remote-work
+Lang: en
 
 We have a distributed team and everyone remotely works from wherever
 they are (6 cities across 3 countries). Remote work is nothing new

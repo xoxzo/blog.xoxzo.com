@@ -3,6 +3,7 @@ Date: 2015-04-20 11:00
 Author: Aiko Yokoyama
 Tags: ezsms, smsのapi配信, 有限会社メディコム, 到達率
 Slug: medicom-ezsms-usecase
+Lang: ja
 
 [有限会社メディコム](http://medicom.jp)（本社：東京都新宿区）は、株式会社Xoxzo（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）の運営する[SMS（ショートメッセージ）配信サービス「EZSMS」](http://www.ezsms.biz/ja)を導入しました。 
 

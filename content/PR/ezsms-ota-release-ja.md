@@ -2,7 +2,8 @@ Title: 【EZSMS】OTA（One Time Address）認証サービスをリリースし�
 Date: 2012-02-03 00:00
 Author: Iqbal Abdullah
 Tags: プレスリリース, メールアドレス, 認証・承認, OTA, SMS, 携帯電話
-Slug: ezsms-ota-release 
+Slug: ezsms-ota-release
+Lang: ja
 
 弊社運営[「SMS配信APIサービスEZSMS」](https://www.ezsms.biz/ja/)は2012年2月2日よりOTA認証サービスをリリースしました。
 

@@ -1,7 +1,7 @@
 <section class="sidebar col-md-4 col-lg-3">
     <div class="container">
         <div class="sidebar-menu">
-            <h3>CATEGORIES</h3>
+            <h3>{% trans %}CATEGORIES{% endtrans %}</h3>
             <ul>
                 {% for category, articles in categories %}
                 <li><a href="{{ SITEURL }}/{{ category.url }}">{{ category }}</a></li>
@@ -9,7 +9,7 @@
             </ul>
         </div>
         <div class="sidebar-menu">
-            <h3>TAGS</h3>
+            <h3>{% trans %}TAGS{% endtrans %}</h3>
             <ul>
                 {% for tag, articles in tags|sort %}
                 <li><a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a> ({{ articles|count }})</li>
