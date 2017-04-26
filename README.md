@@ -10,7 +10,7 @@ blog using Markdown and Pelican.
 
     virtualenv -p python3.4 venv
     source venv/bin/activate
-    pip -r requirements.txt
+    pip install -r requirements.txt
     make build
 
 ### Creating the html
