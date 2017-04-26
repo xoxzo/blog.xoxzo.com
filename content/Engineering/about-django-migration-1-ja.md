@@ -5,8 +5,7 @@ Tags: django; python; migration
 Slug: aboud-django-migration-1
 Lang: ja
 
-PyCon Mini in Kumamotoで発表した「django の migrationはどう動いているか？」で話した内容の一部を紹介します
-
+[PyCon Mini in Kumamoto](http://kumamoto.pycon.jp)で発表した「django の migrationはどう動いているか？」で話した内容の一部を紹介します。
 djangoのmigrationはdjangoのModelの変更を データベースのスキーマに反映する仕組みです。
 Modelを修正した場合以下のコマンドを実行します。
 
@@ -17,7 +16,7 @@ $ python ./manage.py migrate
 
 makemigrationsコマンドを実行するとmigrationフォルダ内にmigrationというPythonのソース・ファイルができあがります。
 migrationファイルは、人間が読める形式になっていますので、このコマンドを実行したあとは、どのような内容になっているか
-必ず目で見て確認するようにしましょう。これは公式のマニュアルでも推奨されています。
+必ず目で見て確認するようにしましょう。[^1]
 
 例えば、Modelを作成した後に、最初に作成されるmigrationファイルはつぎのような内容です。
 ```
@@ -51,12 +50,11 @@ class Migration(migrations.Migration):
 makemigrationsコマンドは以下のように動作します。
 
 1. すでに出来上がっているmigrationを作成順にロードしメモリ上にモデルのグラフ構造(A)をつくる
-2. 現在のModelを読み込み、モデルのグラフ構造(B)をメモリ上につるく
+2. 現在のModelを読み込み、モデルのグラフ構造(B)をメモリ上につくる
 3. AとBを比較し、もし差分があれば、それは新たなmigrationとしてファイルに書き出す
 
-この段階ではDBには一切変更は加えられていません。単にmigration(というPythonのソーステキスト)がmigrationフォルダに出来上がるだけです。
+この段階ではデータベースには一切変更は加えられていません。単にmigration(というPythonのソーステキスト)がmigrationフォルダに出来上がるだけです。
+できあったmigrationを実際にデータベースに適用し、スキーマに反映するには migrate というコマンドを使います。これについては次回解説します。
 
-できあったmigrationを実際にデータベースに適用し、データベースのスキーマに反映するには migrate というコマンドを使います。これについては次回解説します。
-
-
+[^1]:これは公式のマニュアルでも推奨されています。
 
