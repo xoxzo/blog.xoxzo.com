@@ -4,6 +4,7 @@ Author: Akira Nonaka
 Tags: django; python; migration
 Slug: aboud-django-migration-1
 Lang: ja
+Summary: mini pycon熊本でdjangoのmigrationの話をしてきました。
 
 [PyCon Mini in Kumamoto](http://kumamoto.pycon.jp)で発表した「djangoのmigrationはどう動いているか？」で話した内容の一部を紹介します。
 djangoのmigrationはdjangoのModelの変更をデータベースのスキーマに反映する仕組みです。
