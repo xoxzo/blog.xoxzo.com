@@ -66,7 +66,7 @@ build:
 	rm -rf $(PLUGINDIR)
 	git clone https://github.com/getpelican/pelican-plugins.git $(PLUGINDIR)
 
-html:
+html: compile_translation
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 clean:

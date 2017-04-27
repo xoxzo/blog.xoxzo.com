@@ -58,6 +58,9 @@ makemigrationsコマンドは以下のように動作します。
 この段階ではデータベースには一切変更は加えられていません。単にmigration(というPythonのソーステキスト)がmigrationフォルダにでき上がるだけです。
 できあがったmigrationファイルを実際にデータベースに適用し、スキーマに反映するにはmigrateというコマンドを使います。これについては次回解説します。
 
+![mini PyCon 熊本の参加者と]({filename}/images/akira-mini-pycon-kumamoto.jpg)
+発表後、mini PyCon 熊本の参加者と雑談している模様。
+
 [^注1]:[当日発表資料](https://www.slideshare.net/xoxzo/djangomigration)
 [^注2]:これは公式の[マニュアル](https://docs.djangoproject.com/en/1.11/topics/migrations/)でも推奨されています。
 
