@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-24 02:44+0900\n"
+"POT-Creation-Date: 2017-04-26 10:07+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -33,27 +33,23 @@ msgstr ""
 msgid "Authors"
 msgstr ""
 
-#: themes/xoxzo/templates/base.html:37
+#: themes/xoxzo/templates/base.html:36
 msgid "BLOG"
 msgstr ""
 
-#: themes/xoxzo/templates/base.html:47
+#: themes/xoxzo/templates/base.html:46
 msgid "Who We Are"
 msgstr ""
 
-#: themes/xoxzo/templates/base.html:50
+#: themes/xoxzo/templates/base.html:49
 msgid "Twitter"
 msgstr ""
 
-#: themes/xoxzo/templates/base.html:54
-msgid "Language"
-msgstr ""
-
-#: themes/xoxzo/templates/base.html:73
+#: themes/xoxzo/templates/base.html:72
 msgid "Xoxzo Inc. All rights reserved."
 msgstr ""
 
-#: themes/xoxzo/templates/base.html:74
+#: themes/xoxzo/templates/base.html:73
 msgid "Powered by <a href=\"http://getpelican.com/\">Pelican</a>"
 msgstr ""
 
