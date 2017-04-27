@@ -15,11 +15,13 @@ XOXZOは、去る4/23に開催された[PyCon mini in KUMAMOTO](http://kumamoto.
 ![会場風景2]({filename}/images/pycon-mini-kumamoto-2017/IMG_8031.JPG)
 
 私は「DjangoのDB migrationがどういうしくみで動いているか」というタイトルでお話をしました。
-発表のスライドは[こちら。](https://www.slideshare.net/xoxzo/pycon-apac-2017-75035567)
 この内容は、別途このブログで紹介していきたいと考えています。
+[発表のスライドはこちら。](https://www.slideshare.net/xoxzo/djangomigration)
 
 最後のライトニングトークでは「PyCon APAC 2017へ行こう！」と題し、私とイクバルで、
 今年の８月にマレーシアで開催される、PyCon APACのへのミニガイドを発表してきました。
+[発表のスライドはこちら。](https://www.slideshare.net/xoxzo/pycon-apac-2017-75035567)
+
 ![ライトニングトーク]({filename}/images/pycon-mini-kumamoto-2017/DSC_5308.JPG)
 最後に参加者全員で記念撮影。
 ![記念撮影]({filename}/images/pycon-mini-kumamoto-2017/DSC_5281.jpg)
