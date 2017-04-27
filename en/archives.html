@@ -13,7 +13,9 @@
     <link rel="stylesheet" href="http://blog.xoxzo.com/en/theme/css/main.css">
     <link rel="stylesheet" href="http://blog.xoxzo.com/en/theme/css/pygment.css">
 
-    <link href="http://blog.xoxzo.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Xoxzo Official Blog: Empowerment Full Atom Feed" />
+    <link href="http://blog.xoxzo.com/feeds/all.rss.xml" type="application/rss+xml" rel="alternate" title="Xoxzo Official Blog: Empowerment Full RSS Feed">
+    <link href="http://blog.xoxzo.com/feeds/%s.rss.xml" type="application/rss+xml" rel="alternate" title="Xoxzo Official Blog: Empowerment Category RSS Feed">
+    <link href="http://blog.xoxzo.com/feeds/all-%s.rss.xml" type="application/rss+xml" rel="alternate" title="Xoxzo Official Blog: Empowerment Translation RSS Feed">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -37,46 +39,44 @@
                     href="http://blog.xoxzo.com/en/pages/we-are-xoxzo/">Who We Are</a></li>
                 -->
                     <li class="nav-item">
-                    <a class="nav-link" href="https://info.xoxzo.com/en/">Who We Are</a>
+                        <a class="nav-link" href="https://info.xoxzo.com/en/">Who We Are</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://twitter.com/xoxzotelephony">Twitter</a>
+                        <a class="nav-link" href="https://twitter.com/xoxzotelephony" target="_blank">Twitter</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Language&nbsp;
+                            <span class="caret"></span>
+                        </a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="/en/">English</a>
+                            <a class="dropdown-item" href="/ja/">日本語</a>
+                        </div>
                     </li>
                 </ul>
             </div>
         </div>
     </nav>
 
-
+    
 <main class="container pg">
     <h1>Archives</h1>
     <dl>
-        <dt>2017-04-13</dt>
-        <dd><a href="http://blog.xoxzo.com/en/ja/2017/04/13/startup-python-at-tokyo-23/">「みんなのPython勉強会 #23」参加報告</a></dd>
         <dt>2017-04-10</dt>
         <dd><a href="http://blog.xoxzo.com/en/2017/04/10/the-secret-weapon-of-python/">The Secret Weapon Of Python - PyCon MY 2016</a></dd>
-        <dt>2017-04-03</dt>
-        <dd><a href="http://blog.xoxzo.com/en/ja/2017/04/03/tokyo-startup-pitch-night-03-2017/">【Xoxzo】Tokyo Startup Pitch Nightでライトニングトーク</a></dd>
         <dt>2017-03-28</dt>
         <dd><a href="http://blog.xoxzo.com/en/2017/03/28/price-cut-tts/">[Xoxzo] Price deduction on Text-to-Speech (TTS)</a></dd>
         <dt>2017-03-22</dt>
         <dd><a href="http://blog.xoxzo.com/en/2017/03/22/tts-en-release/">[Xoxzo] English support for Text To Speech (TTS) released</a></dd>
-        <dt>2017-03-22</dt>
-        <dd><a href="http://blog.xoxzo.com/en/ja/2017/03/22/startup-python-at-nagano/">「みんなのPython勉強会 in 長野 #1」参加報告</a></dd>
         <dt>2017-03-18</dt>
         <dd><a href="http://blog.xoxzo.com/en/2017/03/18/service-maintenance-20170320/">[Xoxzo] Downtime Notice due to maintenance</a></dd>
         <dt>2017-03-01</dt>
         <dd><a href="http://blog.xoxzo.com/en/2017/03/01/we-are-ten-years-old/">Happy Birthday! We are 10 years old.</a></dd>
-        <dt>2017-02-23</dt>
-        <dd><a href="http://blog.xoxzo.com/en/2017/02/23/EZSMS-End-APIKey/">【EZSMS】新規ご登録アカウントのAPIキーご提供停止について</a></dd>
-        <dt>2017-02-17</dt>
-        <dd><a href="http://blog.xoxzo.com/en/2017/02/17/osc-hamanako-2017-report/">【Xoxzo】OSC 浜名湖に出展してきました</a></dd>
         <dt>2017-02-16</dt>
         <dd><a href="http://blog.xoxzo.com/en/2017/02/16/making-sense-python-app/">Making Sense of Python App</a></dd>
         <dt>2017-02-16</dt>
         <dd><a href="http://blog.xoxzo.com/en/2017/02/16/din24hrs/">[Xoxzo] New rebate rates for 24 hours DIN subsciption</a></dd>
-        <dt>2017-02-03</dt>
-        <dd><a href="http://blog.xoxzo.com/en/2017/02/03/io-architect-xoxzo-usecase/">株式会社アイオーアーキテクトが XOXZO を⽤いて、担当者への迅速な通知に SMS 送信機能を実装</a></dd>
         <dt>2017-02-03</dt>
         <dd><a href="http://blog.xoxzo.com/en/2017/02/03/osc-hamanako-2017/">[Xoxzo] Exhibits at OSC Hamanako on February 12</a></dd>
         <dt>2017-02-01</dt>
@@ -89,24 +89,16 @@
         <dd><a href="http://blog.xoxzo.com/en/2016/11/14/kof-2016-report/">Participating KOF-Kansai Open Source Forum</a></dd>
         <dt>2016-11-07</dt>
         <dd><a href="http://blog.xoxzo.com/en/2016/11/07/startup-and-developer-4th-meetup/">Startup and Developer 4th Meetup</a></dd>
-        <dt>2016-09-23</dt>
-        <dd><a href="http://blog.xoxzo.com/en/2016/09/23/adit-ezsms-usecase/">ADIT株式会社がユーザーへのリアルタイム・重要通知にEZSMSを導入</a></dd>
         <dt>2016-08-26</dt>
         <dd><a href="http://blog.xoxzo.com/en/2016/08/26/xoxzo-support-for-malaysia-my/">[Xoxzo] API now supports Malaysia (MY)</a></dd>
         <dt>2016-07-28</dt>
         <dd><a href="http://blog.xoxzo.com/en/2016/07/28/xoxzoprice-revision-for-dial-in-numbers/">[Xoxzo] Price revision for Dial In Numbers</a></dd>
-        <dt>2016-07-08</dt>
-        <dd><a href="http://blog.xoxzo.com/en/2016/07/08/careermart-ezsms-usecase/">キャリアマートがEZSMSのWebインターフェースを使ったSMS送信機能を利用</a></dd>
         <dt>2016-06-09</dt>
         <dd><a href="http://blog.xoxzo.com/en/2016/06/09/tokyu-ruby-kaigi/">Tokyu Ruby Kaigi</a></dd>
         <dt>2016-06-03</dt>
         <dd><a href="http://blog.xoxzo.com/en/2016/06/03/malaysia-open-source-conference-moscmy-and-jomlaunch/">Malaysia Open Source Conference (MOSCMY) and JomLaunch</a></dd>
-        <dt>2016-05-26</dt>
-        <dd><a href="http://blog.xoxzo.com/en/2016/05/26/toda-corporation-xoxzo-usecase/">⼾⽥建設株式会社が XOXZO を⽤いて、社内ウェブに連絡⽤ SMS 送信機能を実装</a></dd>
         <dt>2016-04-22</dt>
         <dd><a href="http://blog.xoxzo.com/en/2016/04/22/the-communication-costs-of-remote-work/">The communication costs of remote work</a></dd>
-        <dt>2016-03-18</dt>
-        <dd><a href="http://blog.xoxzo.com/en/2016/03/18/mic-xoxzo-usecase/">有限会社エムアイシー総合企画がXoxzoクラウド・テレフォニー・プラットフォームを導入</a></dd>
         <dt>2016-03-07</dt>
         <dd><a href="http://blog.xoxzo.com/en/2016/03/07/tokyo-team-camp/">Tokyo Team Camp</a></dd>
         <dt>2016-02-15</dt>
@@ -119,8 +111,6 @@
         <dd><a href="http://blog.xoxzo.com/en/2015/10/14/change-of-corporate-identity/">Change of Trading Name</a></dd>
         <dt>2015-09-10</dt>
         <dd><a href="http://blog.xoxzo.com/en/2015/09/10/github-managing-fork-and-making-pull-request/">Github: Managing fork and making pull request</a></dd>
-        <dt>2015-09-05</dt>
-        <dd><a href="http://blog.xoxzo.com/en/2015/09/05/privacymark-marimore-2015/">プラバシーマーク更新のお知らせ</a></dd>
         <dt>2015-08-29</dt>
         <dd><a href="http://blog.xoxzo.com/en/2015/08/29/pycon-au-2015-write-up/">PyCon AU 2015 Write Up</a></dd>
         <dt>2015-08-28</dt>
@@ -130,45 +120,11 @@
         <dt>2015-05-29</dt>
         <dd><a href="http://blog.xoxzo.com/en/2015/05/29/talk-at-uthm/">Talk at UTHM</a></dd>
         <dt>2015-05-28</dt>
-        <dd><a href="http://blog.xoxzo.com/en/ja/2015/05/28/aws-summit-kl-2015/">AWS Summit KL 2015</a></dd>
-        <dt>2015-04-27</dt>
-        <dd><a href="http://blog.xoxzo.com/en/2015/04/27/aoba-ezsms-usecase/">株式会社あおば堂が、利用者への通知補助手段としてEZSMSを導入</a></dd>
-        <dt>2015-04-20</dt>
-        <dd><a href="http://blog.xoxzo.com/en/2015/04/20/medicom-ezsms-usecase/">有限会社メディコム が、利用者への情報提供や利用料金の通知にEZSMSを導入</a></dd>
-        <dt>2014-12-26</dt>
-        <dd><a href="http://blog.xoxzo.com/en/2014/12/26/pedal-ezsms-usecase/">株式会社ペダルが、利用者への情報や認証コード提供にEZSMSを導入</a></dd>
+        <dd><a href="http://blog.xoxzo.com/en/2015/05/28/aws-summit-kl-2015/">AWS Summit KL 2015</a></dd>
         <dt>2014-09-13</dt>
         <dd><a href="http://blog.xoxzo.com/en/2014/09/13/marimore-engineering-team-camp-in-malacca/">MARIMORE Engineering Team Camp in Malacca</a></dd>
-        <dt>2014-08-20</dt>
-        <dd><a href="http://blog.xoxzo.com/en/2014/08/20/quraz-ezsms-usecase/">株式会社キュラーズが、EZSMSを利用したSMS配信を導入</a></dd>
-        <dt>2014-08-05</dt>
-        <dd><a href="http://blog.xoxzo.com/en/2014/08/05/ex-ezsms-usecase/">株式会社EXが、EZSMSを利用した電話番号認証システムを導入</a></dd>
         <dt>2014-07-01</dt>
         <dd><a href="http://blog.xoxzo.com/en/2014/07/01/marimore-acquiring-fullcourt/">MARIMORE acquiring FullCourt</a></dd>
-        <dt>2014-04-14</dt>
-        <dd><a href="http://blog.xoxzo.com/en/2014/04/14/select-ezsms-usecase/">セレクトが自社サービスにダイヤルSMSとSMS配信にEZSMSを利用する</a></dd>
-        <dt>2014-01-22</dt>
-        <dd><a href="http://blog.xoxzo.com/en/2014/01/22/adpartner-ezsms-usecase/">アドパートナーが提供するECサイトの会員に対するSMS配信はEZSMS利用</a></dd>
-        <dt>2014-01-15</dt>
-        <dd><a href="http://blog.xoxzo.com/en/2014/01/15/qoo10-ezsms-usecase/">インターネットショッピングモール「Qoo10」が、本人確認のためEZSMSを導入</a></dd>
-        <dt>2013-11-07</dt>
-        <dd><a href="http://blog.xoxzo.com/en/2013/11/07/superweb-ezsms-usecase/">株式会社スーパーウェブが、EZSMSを利用した認証 システム導入</a></dd>
-        <dt>2013-07-03</dt>
-        <dd><a href="http://blog.xoxzo.com/en/2013/07/03/moegame-ezsms-usecase/">株式会社モエゲームが、EZSMSを利用した電話番号認証 システムを導入</a></dd>
-        <dt>2013-06-13</dt>
-        <dd><a href="http://blog.xoxzo.com/en/2013/06/13/privacymark-marimore-2013/">プライバシーマーク取得のお知らせ</a></dd>
-        <dt>2013-06-06</dt>
-        <dd><a href="http://blog.xoxzo.com/en/2013/06/06/venusbroadcast-ezsms-usecase/">株式会社ヴィーナスブロードキャストが、ユーザ認証のためにEZSMSとの連携を開始</a></dd>
-        <dt>2013-05-07</dt>
-        <dd><a href="http://blog.xoxzo.com/en/2013/05/07/xtone-ezsms-usecase/">株式会社エクストーン、フリーマーケットサービスの本人確認のためEZSMSを導入</a></dd>
-        <dt>2013-04-04</dt>
-        <dd><a href="http://blog.xoxzo.com/en/2013/04/04/fullyear-ezsms-usecase/">株式会社フルイヤー、EZSMSを導入し運営するサービスのユーザ認証を行っています</a></dd>
-        <dt>2013-03-20</dt>
-        <dd><a href="http://blog.xoxzo.com/en/2013/03/20/gmomedia-ezsms-usecase/">GMOメディア株式会社、EZSMSと連携しメッセージアプリ「freemlトーク」にて安全に認証を行う</a></dd>
-        <dt>2013-03-07</dt>
-        <dd><a href="http://blog.xoxzo.com/en/ja/2013/03/07/patent-lawsuit-action-resolved/">和解による訴訟の取下げに関するお知らせ</a></dd>
-        <dt>2012-12-28</dt>
-        <dd><a href="http://blog.xoxzo.com/en/ja/2012/12/28/patent-lawsuit-action/">特許侵害訴訟の提起について（特許第4889813号 ）</a></dd>
         <dt>2012-12-03</dt>
         <dd><a href="http://blog.xoxzo.com/en/2012/12/03/verify-spf-using-pyspf-module/">Verify SPF using PySPF module</a></dd>
         <dt>2012-08-27</dt>
@@ -183,18 +139,12 @@
         <dd><a href="http://blog.xoxzo.com/en/2012/05/02/php-execution-model-vs-python-web/">PHP execution model vs Python web</a></dd>
         <dt>2012-04-23</dt>
         <dd><a href="http://blog.xoxzo.com/en/2012/04/23/polyfilling-the-future/">Supporting HTML5 features in browsers using polyfill</a></dd>
-        <dt>2012-04-13</dt>
-        <dd><a href="http://blog.xoxzo.com/en/2012/04/13/orangespirits-ezsms-usecase/">株式会社オレンジスピリッツがEZSMSを情報通知サービスに利用</a></dd>
         <dt>2012-03-20</dt>
         <dd><a href="http://blog.xoxzo.com/en/2012/03/20/releasing-dev-version-of-your-package-to-pypi/">Releasing dev version of your package to PyPI</a></dd>
         <dt>2012-03-09</dt>
         <dd><a href="http://blog.xoxzo.com/en/2012/03/09/svn-stash/">Svn stash</a></dd>
-        <dt>2012-02-03</dt>
-        <dd><a href="http://blog.xoxzo.com/en/2012/02/03/ezsms-ota-release/">【EZSMS】OTA（One Time Address）認証サービスをリリースしました</a></dd>
         <dt>2011-11-22</dt>
         <dd><a href="http://blog.xoxzo.com/en/2011/11/22/understanding-python-import/">Understanding Python Import</a></dd>
-        <dt>2011-11-01</dt>
-        <dd><a href="http://blog.xoxzo.com/en/2011/11/01/zenlok-ezsms-usecase/">Zenlok株式会社、EZSMSと連携し多段階認証システムの一部として利用</a></dd>
         <dt>2011-09-24</dt>
         <dd><a href="http://blog.xoxzo.com/en/2011/09/24/subversion-merging-changes-between-branches/">Subversion merging changes between branches</a></dd>
         <dt>2011-09-19</dt>

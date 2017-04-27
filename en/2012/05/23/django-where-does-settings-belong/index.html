@@ -11,14 +11,14 @@
   <meta name="tags" content="Python">
   <meta property="og:type" content="article">
   <meta property="og:title" content="Django: Where does settings belong ?">
-  <meta property="og:description" content="Settings is very central to all Django applications. Django even barf if you don't supply one and import any django modules or functions (most of it). The way to specify settings to Django app however a bit awkward. Rather calling some function and pass the settings to that function ...">
+  <meta property="og:description" content="Settings is very central to all Django applications. Django even barf if you don't supply one and import any django modules or functions (most of it). The way to specify settings to Django app however a bit awkward. Rather calling some function and pass the settings to that function, Django …">
   <meta property="og:url" content="http://blog.xoxzo.com/en/2012/05/23/django-where-does-settings-belong/">
   <meta property="og:site_name" content="Xoxzo Official Blog: Empowerment">
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="@xoxzotelephony">
   <meta name="twitter:title" content="Django: Where does settings belong ?">
-  <meta name="twitter:description" content="Settings is very central to all Django applications. Django even barf if you don't supply one and import any django modules or functions (most of it). The way to specify settings to Django app however a bit awkward. Rather calling some function and pass the settings to that function ...">
+  <meta name="twitter:description" content="Settings is very central to all Django applications. Django even barf if you don't supply one and import any django modules or functions (most of it). The way to specify settings to Django app however a bit awkward. Rather calling some function and pass the settings to that function, Django …">
 
     <title>Xoxzo Official Blog: Empowerment</title>
     <link rel="icon" href="http://blog.xoxzo.com/en/theme/images/xoxzo_16x16_favicon.png">
@@ -27,7 +27,9 @@
     <link rel="stylesheet" href="http://blog.xoxzo.com/en/theme/css/main.css">
     <link rel="stylesheet" href="http://blog.xoxzo.com/en/theme/css/pygment.css">
 
-    <link href="http://blog.xoxzo.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Xoxzo Official Blog: Empowerment Full Atom Feed" />
+    <link href="http://blog.xoxzo.com/feeds/all.rss.xml" type="application/rss+xml" rel="alternate" title="Xoxzo Official Blog: Empowerment Full RSS Feed">
+    <link href="http://blog.xoxzo.com/feeds/%s.rss.xml" type="application/rss+xml" rel="alternate" title="Xoxzo Official Blog: Empowerment Category RSS Feed">
+    <link href="http://blog.xoxzo.com/feeds/all-%s.rss.xml" type="application/rss+xml" rel="alternate" title="Xoxzo Official Blog: Empowerment Translation RSS Feed">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -51,17 +53,27 @@
                     href="http://blog.xoxzo.com/en/pages/we-are-xoxzo/">Who We Are</a></li>
                 -->
                     <li class="nav-item">
-                    <a class="nav-link" href="https://info.xoxzo.com/en/">Who We Are</a>
+                        <a class="nav-link" href="https://info.xoxzo.com/en/">Who We Are</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://twitter.com/xoxzotelephony">Twitter</a>
+                        <a class="nav-link" href="https://twitter.com/xoxzotelephony" target="_blank">Twitter</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Language&nbsp;
+                            <span class="caret"></span>
+                        </a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="/en/">English</a>
+                            <a class="dropdown-item" href="/ja/">日本語</a>
+                        </div>
                     </li>
                 </ul>
             </div>
         </div>
     </nav>
 
-
+    
 <div class="with-sidebar">
     <main class="container">
         <div class="row">
@@ -73,37 +85,36 @@
                             <a href="http://blog.xoxzo.com/en/engineering/">Engineering</a>
                         </h2>
                         <h1 class="article-title">Django: Where does settings belong ?</h1>
-                        <p class="article-author">By
-                            <a href="http://blog.xoxzo.com/en/author/kamal-mustafa.html">Kamal Mustafa</a>
+                        <p class="article-author">By                            <a href="http://blog.xoxzo.com/en/author/kamal-mustafa.html">Kamal Mustafa</a>
                             <br>
                             
                         </p>
                         <hr>
                         <div class="article-content">
                           <p>Settings is very central to all Django applications. Django even barf if
-you<br />
+you<br>
 don't supply one and import any django modules or functions (most of
-it). The<br />
+it). The<br>
 way to specify settings to Django app however a bit awkward. Rather
-calling<br />
+calling<br>
 some function and pass the settings to that function, Django require you
-to put<br />
+to put<br>
 the path to settings module in os.environ dict. Consider a Flask
 application:-</p>
 <div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">flask</span> <span class="kn">import</span> <span class="n">Flask</span>
-<span class="n">app</span> <span class="o">=</span> <span class="n">Flask</span><span class="p">(</span><span class="n">__name__</span><span class="p">)</span>
+<span class="n">app</span> <span class="o">=</span> <span class="n">Flask</span><span class="p">(</span><span class="vm">__name__</span><span class="p">)</span>
 <span class="nd">@app.route</span><span class="p">(</span><span class="s1">&#39;/&#39;</span><span class="p">)</span>
 <span class="k">def</span> <span class="nf">hello_world</span><span class="p">():</span>
 <span class="k">return</span> <span class="s1">&#39;Hello World!&#39;</span>
-<span class="k">if</span> <span class="n">__name__</span> <span class="o">==</span> <span class="s1">&#39;__main__&#39;</span><span class="p">:</span>
+<span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s1">&#39;__main__&#39;</span><span class="p">:</span>
 <span class="n">app</span><span class="o">.</span><span class="n">run</span><span class="p">(</span><span class="n">debug</span><span class="o">=</span><span class="bp">True</span><span class="p">)</span>
 </pre></div>
 
 
 <p>It feels natural. You instantiate an app, call it's run() method and
-pass<br />
+pass<br>
 <code>debug</code> as parameter to the function. It's easy to explain. Or if Flask
-not<br />
+not<br>
 your favourite, let's take a look at Bottle example:-</p>
 <div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">bottle</span> <span class="kn">import</span> <span class="n">route</span><span class="p">,</span> <span class="n">run</span>
 <span class="nd">@route</span><span class="p">(</span><span class="s1">&#39;/hello&#39;</span><span class="p">)</span>
@@ -114,111 +125,111 @@ your favourite, let's take a look at Bottle example:-</p>
 
 
 <p>It still maintain the same flow. But let's look at how we pass settings
-to<br />
-Django app. This is what you get in default <code>manage.py</code> generated by<br />
+to<br>
+Django app. This is what you get in default <code>manage.py</code> generated by<br>
 <code>django-admin.py startproject</code> command:-</p>
 <div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">os</span>
 <span class="n">os</span><span class="o">.</span><span class="n">environ</span><span class="o">.</span><span class="n">setdefault</span><span class="p">(</span><span class="s1">&#39;DJANGO_SETTINGS_MODULE&#39;</span><span class="p">,</span> <span class="s1">&#39;myapp.settings&#39;</span><span class="p">)</span>
-<span class="k">if</span> <span class="n">__name__</span> <span class="o">==</span> <span class="s1">&#39;__main__&#39;</span><span class="p">:</span>
+<span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s1">&#39;__main__&#39;</span><span class="p">:</span>
 <span class="kn">from</span> <span class="nn">django.core.management</span> <span class="kn">import</span> <span class="n">execute_from_command_line</span>
 <span class="n">execute_from_command_line</span><span class="p">()</span>
 </pre></div>
 
 
 <p>Compared to example for other 2 frameworks, the logic now seem to branch
-into 2<br />
-separate paths. First you have to figure out what is going on with<br />
-<code>os.environ.setdefault()</code> stuff, and then the stuff with<br />
+into 2<br>
+separate paths. First you have to figure out what is going on with<br>
+<code>os.environ.setdefault()</code> stuff, and then the stuff with<br>
 <code>execute_from_command_line()</code>. Enough to confuse beginner. Only later on
-I<br />
+I<br>
 figured out that you can actually skip <code>os.environ</code> stuff and directly
-set<br />
+set<br>
 settings as you wish. The above example can be re-written as:-</p>
 <div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">django.conf</span> <span class="kn">import</span> <span class="n">settings</span>
 <span class="n">settings</span><span class="o">.</span><span class="n">configure</span><span class="p">(</span><span class="n">DEBUG</span><span class="o">=</span><span class="bp">True</span><span class="p">)</span>
-<span class="k">if</span> <span class="n">__name__</span> <span class="o">==</span> <span class="s1">&#39;__main__&#39;</span><span class="p">:</span>
+<span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s1">&#39;__main__&#39;</span><span class="p">:</span>
 <span class="kn">from</span> <span class="nn">django.core.management</span> <span class="kn">import</span> <span class="n">execute_from_command_line</span>
 <span class="n">execute_from_command_line</span><span class="p">()</span>
 </pre></div>
 
 
 <p>Now it look more like the other 2 frameworks. This however not much an
-issue,<br />
+issue,<br>
 because once your application grow, you'll definitely want to put your
-settings<br />
+settings<br>
 in one central place and could be the reason why Django has made that
-decision<br />
+decision<br>
 for you early on. The real issue is where should we put the central
 settings ?</p>
 <p>Django settings, being a pure python module mean it has to be somewhere
-on your<br />
+on your<br>
 <code>sys.path</code> so Django can import it to initialize the application.
-Logically I<br />
+Logically I<br>
 want the settings for <code>myapp</code> to appear as <code>myapp.settings</code>. This
-however would<br />
+however would<br>
 make the settings now part of the application. But settings suppose to
-have<br />
+have<br>
 some piece of information that will be used to create and initialized
-the<br />
+the<br>
 application (ROOT_URLCONF come to mind) but now the settings itself
-already<br />
+already<br>
 part of the application. I've repeated the word application too much in
-last<br />
+last<br>
 sentence.</p>
 <p>One situation when this chicken-and-egg manifest. I want to deploy my
-app using<br />
+app using<br>
 <code>setup.py</code> which mean <code>myapp</code> will be installed in <code>site-packages</code>. That
-also<br />
+also<br>
 mean <code>settings.py</code> will also reside in <code>site-packages</code>. But for web
-application<br />
+application<br>
 there are more than just python code. There should be a directory to
-store<br />
+store<br>
 uploaded files or csv files for some external data. I want to keep all
-this in<br />
+this in<br>
 a self contained project directory but since now <code>myapp.settings</code> reside
-in<br />
+in<br>
 <code>site-packages</code> I'm losing the ability to calculate the path to my
-project dir<br />
+project dir<br>
 at run time. While I can compensate this by having a standardized
-location on<br />
+location on<br>
 production machine, I'd still want to keep this in one single project
-dir for<br />
+dir for<br>
 development so each developers work doesn't step into each other and
-also for<br />
+also for<br>
 portabilty of development environment.</p>
 <p>The only way now is to not installing <code>myapp</code> into <code>site-packages</code> but
-altering<br />
+altering<br>
 sys.path to add path to the directory containing <code>myapp</code> package. Some
-of open<br />
+of open<br>
 source django project I found put <code>settings.py</code> outside the app
-packages,<br />
+packages,<br>
 usually at the same level of <code>manage.py</code> or <code>.wsgi</code> script used to
-launch the<br />
+launch the<br>
 app. They then specify the settings as
 <code>os.environ['DJANGO_SETTINGS_MODULE'] = 'settings'</code>. This make settings
-external to the application but at the same time<br />
+external to the application but at the same time<br>
 exposed <code>settings</code> into the global namespace. While I haven't yet found
-any<br />
+any<br>
 packages at PyPI using the name <code>settings</code>, it still doesn't feel right.</p>
 <p>I take a look at how settings are handled in Pylons/Pyramid project. Few
-things<br />
+things<br>
 observed:-</p>
 <ul>
 <li>They use INI files instead of pure python.</li>
 <li>The INI files are placed at the top level of project directory.</li>
 <li>Application get installed into <code>site-packages</code> using setup.py</li>
 <li>Since settings stayed in project dir, you still get referenced to
-    the project<br />
+    the project<br>
    dir even your app get installed into <code>site-packages</code>.</li>
 </ul>
 <p>While it look quite similar to placing <code>settings.py</code> at your project
-root, the<br />
+root, the<br>
 INI files is not python module so there's no problem of exposing the
-settings<br />
+settings<br>
 into global namespace. The settings now also look truely external to
-the<br />
+the<br>
 application. This has getting quite long but still the question
-remained<br />
+remained<br>
 unanswered, where should we put the settings file ?</p>
                         </div>
                         <div class="article-tag">
@@ -246,7 +257,6 @@ unanswered, where should we put the settings file ?</p>
                 <li><a href="http://blog.xoxzo.com/en/new-release-xoxzo/">New Release, Xoxzo</a></li>
                 <li><a href="http://blog.xoxzo.com/en/pr/">PR</a></li>
                 <li><a href="http://blog.xoxzo.com/en/the-way-we-work/">The Way We Work</a></li>
-                <li><a href="http://blog.xoxzo.com/en/use-cases/">Use Cases</a></li>
             </ul>
         </div>
         <div class="sidebar-menu">
@@ -254,27 +264,17 @@ unanswered, where should we put the settings file ?</p>
             <ul>
                 <li><a href="http://blog.xoxzo.com/en/tag/10-years/">10 years</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/2016/">2016</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/2017/">2017</a> (3)</li>
+                <li><a href="http://blog.xoxzo.com/en/tag/2017/">2017</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/24-hours/">24 hours</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/adit/">adit</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/api/">API</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/apikey/">APIKey</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/apuri/">アプリ</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/audio/">audio</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/authentication/">authentication</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/aws/">aws</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/ben-ren-que-ren/">本人確認</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/ben-ren-ren-zheng/">本人認証</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/browsers/">browsers</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/careermart/">careermart</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/chang-ye/">長野</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/class-based-views/">class based views</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/community/">community</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/connexionnexus/">connexion@nexus</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/costs/">costs</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/credits/">credits</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/daiyarusms/">ダイヤルSMS</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/dao-da-lu/">到達率</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/developer/">developer</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/dial-in-numbers/">dial in numbers</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/din/">din</a> (1)</li>
@@ -283,34 +283,24 @@ unanswered, where should we put the settings file ?</p>
                 <li><a href="http://blog.xoxzo.com/en/tag/django-views/">django views</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/djangogirls/">djangogirls</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/dns/">dns</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/dong-jing/">東京</a> (2)</li>
+                <li><a href="http://blog.xoxzo.com/en/tag/dong-jing/">東京</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/downtime/">downtime</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/easy_install/">easy_install</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/ecsaito/">ECサイト</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/email/">email</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/endofservice/">endofservice</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/eol/">eol</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/eoy-notice/">EOY-notice</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/event/">event</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/ex/">ex</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/exhibition/">exhibition</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/ezsms/">EZSMS</a> (20)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/freemltoku/">freemlトーク</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/fullcourt/">fullcourt</a> (2)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/gao-ling-yuza/">高齢ユーザ</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/ge-ren-qing-bao/">個人情報</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/generic-views/">generic views</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/git/">git</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/github/">github</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/gmomedeiazhu-shi-hui-she/">gmoメディア株式会社</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/goodbye/">goodbye</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/happy-birthday/">happy birthday</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/hatten-hotel/">hatten hotel</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/he-jie/">和解</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/html5/">html5</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/hun-nabi/">婚ナビ</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/ivr/">ivr</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/jian-she-zhu-shi-hui-she/">⼾⽥建設株式会社</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/jomlaunch/">jomlaunch</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/kof/">kof</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/kuala-lumpur/">kuala lumpur</a> (1)</li>
@@ -320,85 +310,47 @@ unanswered, where should we put the settings file ?</p>
                 <li><a href="http://blog.xoxzo.com/en/tag/malaysia/">malaysia</a> (3)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/marimore/">marimore</a> (3)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/maritex/">maritex</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/medeianetsutowakusabisu/">メディアネットワークサービス</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/meruadoresu/">メールアドレス</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/mian-qiang-hui/">勉強会</a> (2)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/minnanopythonmian-qiang-hui/">みんなのPython勉強会</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/my/">my</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/new-release/">new release</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/nomad/">nomad</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/open-source/">open source</a> (3)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/osaka/">osaka</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/osc/">osc</a> (2)</li>
+                <li><a href="http://blog.xoxzo.com/en/tag/osc/">osc</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/oss/">oss</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/ota/">OTA</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/php/">php</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/pip/">pip</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/pmaku/">pマーク</a> (2)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/pr/">pr</a> (6)</li>
+                <li><a href="http://blog.xoxzo.com/en/tag/pr/">pr</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/price/">price</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/price-review/">Price Review</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/puraibashimaku/">プライバシーマーク</a> (2)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/puresuririsu/">プレスリリース</a> (3)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/pycon/">pycon</a> (4)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/pycon-apac-2017/">pycon apac 2017</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/pycon-au/">pycon au</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/pycon-au-2015/">pycon au 2015</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/pyconmy/">pyconmy</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/pypi/">pypi</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/python/">python</a> (17)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/qoo10/">qoo10</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/en/tag/python/">python</a> (15)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/remote/">remote</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/ren-ding/">認定</a> (2)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/ren-zheng/">認証</a> (3)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/ren-zheng-cheng-ren/">認証・承認</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/ruby/">ruby</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/scm/">scm</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/seminar/">seminar</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/setuptools/">setuptools</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/shi-li/">実例</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/shiyotomeru/">ショートメール</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/shiyotometsusezi/">ショートメッセージ</a> (7)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/sms/">sms</a> (3)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/smsnoapipei-xin/">smsのapi配信</a> (15)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/spf/">spf</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/sponsor/">sponsor</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/su-song/">訴訟</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/subversion/">subversion</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/svn/">svn</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/talk/">talk</a> (2)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/te-xu/">特許</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/team-camp/">team camp</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/tech/">tech</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/telephony/">telephony</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/text-to-speech/">text-to-speech</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/tips/">tips</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/tokyo/">tokyo</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/tokyo-startup-pitch-night/">tokyo-startup-pitch-night</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/tong-zhi-bu-zhu-shou-duan/">通知補助手段</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/transaction/">transaction</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/tts/">TTS</a> (3)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/use-cases/">use cases</a> (4)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/vacancy/">vacancy</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/version-control/">version control</a> (3)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/voice-and-sms-api/">voice and sms api</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/vuinasuburodokiyasuto/">ヴィーナスブロードキャスト</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/wing-sms/">wing-sms</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/workshop/">workshop</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/xi-dai-dian-hua/">携帯電話</a> (2)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/xoxzo/">xoxzo</a> (7)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/xtone/">xtone</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/you-xian-hui-she-emuaishi/">有限会社エムアイシー</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/you-xian-hui-she-medeikomu/">有限会社メディコム</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/yuzaren-zheng/">ユーザ認証</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/zenlokzhu-shi-hui-she/">zenlok株式会社</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/zhu-shi-hui-she-aioakitekuto/">株式会社アイオーアーキテクト</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/zhu-shi-hui-she-aobatang/">株式会社あおば堂</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/zhu-shi-hui-she-huruiya/">株式会社フルイヤー</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/zhu-shi-hui-she-kiyurazu/">株式会社キュラーズ</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/zhu-shi-hui-she-orenzisupiritsutsu/">株式会社オレンジスピリッツ</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/zhu-shi-hui-she-pedaru/">株式会社ペダル</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/zhu-shi-hui-she-supauebu/">株式会社スーパーウェブ</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/en/tag/xoxzo/">xoxzo</a> (4)</li>
             </ul>
         </div>
     </div>

@@ -13,7 +13,9 @@
     <link rel="stylesheet" href="http://blog.xoxzo.com/en/theme/css/main.css">
     <link rel="stylesheet" href="http://blog.xoxzo.com/en/theme/css/pygment.css">
 
-    <link href="http://blog.xoxzo.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Xoxzo Official Blog: Empowerment Full Atom Feed" />
+    <link href="http://blog.xoxzo.com/feeds/all.rss.xml" type="application/rss+xml" rel="alternate" title="Xoxzo Official Blog: Empowerment Full RSS Feed">
+    <link href="http://blog.xoxzo.com/feeds/%s.rss.xml" type="application/rss+xml" rel="alternate" title="Xoxzo Official Blog: Empowerment Category RSS Feed">
+    <link href="http://blog.xoxzo.com/feeds/all-%s.rss.xml" type="application/rss+xml" rel="alternate" title="Xoxzo Official Blog: Empowerment Translation RSS Feed">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -37,17 +39,27 @@
                     href="http://blog.xoxzo.com/en/pages/we-are-xoxzo/">Who We Are</a></li>
                 -->
                     <li class="nav-item">
-                    <a class="nav-link" href="https://info.xoxzo.com/en/">Who We Are</a>
+                        <a class="nav-link" href="https://info.xoxzo.com/en/">Who We Are</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://twitter.com/xoxzotelephony">Twitter</a>
+                        <a class="nav-link" href="https://twitter.com/xoxzotelephony" target="_blank">Twitter</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Language&nbsp;
+                            <span class="caret"></span>
+                        </a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="/en/">English</a>
+                            <a class="dropdown-item" href="/ja/">日本語</a>
+                        </div>
                     </li>
                 </ul>
             </div>
         </div>
     </nav>
 
-
+    
 <div class="with-sidebar">
     <main class="container">
         <div class="row">
@@ -57,35 +69,6 @@
     <h2>Articles by the <b>python</b> tag</h2>
 </div>
 
-                    <article>
-                        <h2 class="article-info">
-                            2012-06-12 /
-                            <a href="http://blog.xoxzo.com/en/engineering/">Engineering</a>
-                        </h2>
-                        <h1 class="article-title"><a href="http://blog.xoxzo.com/en/2012/06/12/pycon-apac-2012/" title="Permalink to PyCon APAC 2012">PyCon APAC 2012</a></h1>
-                        <p>PyCon APAC 2012 that was held on June 7th - 9th is over. Attended by all
-kinds of people from many parts of the world. It was a lovely and an eye
-opening experience.</p>
-<p><img alt="IMG00356" src="http://blog.xoxzo.com/en/images/pycon-apac-2012/ff4e8-6a0153916e707f970b0167676601ea970b-pi.jpg" title="IMG00356" />
-Marimore team attended the conference and gave a few talk (lightning
-talk included) on various topics. Kamal ...</p>
-                        <p><a href="http://blog.xoxzo.com/en/2012/06/12/pycon-apac-2012/" class="continue">Continue reading ></a></p>
-                    </article>
-                    <article>
-                        <h2 class="article-info">
-                            2012-05-23 /
-                            <a href="http://blog.xoxzo.com/en/engineering/">Engineering</a>
-                        </h2>
-                        <h1 class="article-title"><a href="http://blog.xoxzo.com/en/2012/05/23/django-where-does-settings-belong/" title="Permalink to Django: Where does settings belong ?">Django: Where does settings belong ?</a></h1>
-                        <p>Settings is very central to all Django applications. Django even barf if
-you<br />
-don't supply one and import any django modules or functions (most of
-it). The<br />
-way to specify settings to Django app however a bit awkward. Rather
-calling<br />
-some function and pass the settings to that function ...</p>
-                        <p><a href="http://blog.xoxzo.com/en/2012/05/23/django-where-does-settings-belong/" class="continue">Continue reading ></a></p>
-                    </article>
                     <article>
                         <h2 class="article-info">
                             2012-05-02 /
@@ -108,7 +91,7 @@ default will look into <a href="http://pypi.python.org/pypi">PyPI</a> when asked
 install certain packages. For example:-</p>
 <div class="highlight"><pre><span></span>easy_install Django
 easy_install Django==1.3.1
-pip ...</pre></div>
+pip …</pre></div>
                         <p><a href="http://blog.xoxzo.com/en/2012/03/20/releasing-dev-version-of-your-package-to-pypi/" class="continue">Continue reading ></a></p>
                     </article>
                     <article>
@@ -120,7 +103,8 @@ pip ...</pre></div>
                         <p>There's a lot have been written on understanding Python import so I'm
 not sure whether this one would help to clear the confusion or just add
 more. I hope for the former. Having a new hire who is new to Python
-bring up this issue again for us ...</p>
+bring up this issue again for us.</p>
+<p>Python has …</p>
                         <p><a href="http://blog.xoxzo.com/en/2011/11/22/understanding-python-import/" class="continue">Continue reading ></a></p>
                     </article>
                     <article>
@@ -134,7 +118,7 @@ based web applications for our clients. We rely heavily on open source
 and at the same time try to contribute back to the community via open
 source code, documentation, monetary contribution or participation in
 open source events.</p>
-<p>We believe in ROWE ...</p>
+<p>We believe in ROWE …</p>
                         <p><a href="http://blog.xoxzo.com/en/2011/09/19/vacancy-junior-pythondjango-web-developer/" class="continue">Continue reading ></a></p>
                     </article>
                     <article>
@@ -184,7 +168,6 @@ open source events.</p>
                 <li><a href="http://blog.xoxzo.com/en/new-release-xoxzo/">New Release, Xoxzo</a></li>
                 <li><a href="http://blog.xoxzo.com/en/pr/">PR</a></li>
                 <li><a href="http://blog.xoxzo.com/en/the-way-we-work/">The Way We Work</a></li>
-                <li><a href="http://blog.xoxzo.com/en/use-cases/">Use Cases</a></li>
             </ul>
         </div>
         <div class="sidebar-menu">
@@ -192,27 +175,17 @@ open source events.</p>
             <ul>
                 <li><a href="http://blog.xoxzo.com/en/tag/10-years/">10 years</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/2016/">2016</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/2017/">2017</a> (3)</li>
+                <li><a href="http://blog.xoxzo.com/en/tag/2017/">2017</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/24-hours/">24 hours</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/adit/">adit</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/api/">API</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/apikey/">APIKey</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/apuri/">アプリ</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/audio/">audio</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/authentication/">authentication</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/aws/">aws</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/ben-ren-que-ren/">本人確認</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/ben-ren-ren-zheng/">本人認証</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/browsers/">browsers</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/careermart/">careermart</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/chang-ye/">長野</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/class-based-views/">class based views</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/community/">community</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/connexionnexus/">connexion@nexus</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/costs/">costs</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/credits/">credits</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/daiyarusms/">ダイヤルSMS</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/dao-da-lu/">到達率</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/developer/">developer</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/dial-in-numbers/">dial in numbers</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/din/">din</a> (1)</li>
@@ -221,34 +194,24 @@ open source events.</p>
                 <li><a href="http://blog.xoxzo.com/en/tag/django-views/">django views</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/djangogirls/">djangogirls</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/dns/">dns</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/dong-jing/">東京</a> (2)</li>
+                <li><a href="http://blog.xoxzo.com/en/tag/dong-jing/">東京</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/downtime/">downtime</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/easy_install/">easy_install</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/ecsaito/">ECサイト</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/email/">email</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/endofservice/">endofservice</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/eol/">eol</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/eoy-notice/">EOY-notice</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/event/">event</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/ex/">ex</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/exhibition/">exhibition</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/ezsms/">EZSMS</a> (20)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/freemltoku/">freemlトーク</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/fullcourt/">fullcourt</a> (2)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/gao-ling-yuza/">高齢ユーザ</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/ge-ren-qing-bao/">個人情報</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/generic-views/">generic views</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/git/">git</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/github/">github</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/gmomedeiazhu-shi-hui-she/">gmoメディア株式会社</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/goodbye/">goodbye</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/happy-birthday/">happy birthday</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/hatten-hotel/">hatten hotel</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/he-jie/">和解</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/html5/">html5</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/hun-nabi/">婚ナビ</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/ivr/">ivr</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/jian-she-zhu-shi-hui-she/">⼾⽥建設株式会社</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/jomlaunch/">jomlaunch</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/kof/">kof</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/kuala-lumpur/">kuala lumpur</a> (1)</li>
@@ -258,85 +221,47 @@ open source events.</p>
                 <li><a href="http://blog.xoxzo.com/en/tag/malaysia/">malaysia</a> (3)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/marimore/">marimore</a> (3)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/maritex/">maritex</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/medeianetsutowakusabisu/">メディアネットワークサービス</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/meruadoresu/">メールアドレス</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/mian-qiang-hui/">勉強会</a> (2)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/minnanopythonmian-qiang-hui/">みんなのPython勉強会</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/my/">my</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/new-release/">new release</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/nomad/">nomad</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/open-source/">open source</a> (3)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/osaka/">osaka</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/osc/">osc</a> (2)</li>
+                <li><a href="http://blog.xoxzo.com/en/tag/osc/">osc</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/oss/">oss</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/ota/">OTA</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/php/">php</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/pip/">pip</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/pmaku/">pマーク</a> (2)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/pr/">pr</a> (6)</li>
+                <li><a href="http://blog.xoxzo.com/en/tag/pr/">pr</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/price/">price</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/price-review/">Price Review</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/puraibashimaku/">プライバシーマーク</a> (2)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/puresuririsu/">プレスリリース</a> (3)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/pycon/">pycon</a> (4)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/pycon-apac-2017/">pycon apac 2017</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/pycon-au/">pycon au</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/pycon-au-2015/">pycon au 2015</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/pyconmy/">pyconmy</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/pypi/">pypi</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/python/">python</a> (17)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/qoo10/">qoo10</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/en/tag/python/">python</a> (15)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/remote/">remote</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/ren-ding/">認定</a> (2)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/ren-zheng/">認証</a> (3)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/ren-zheng-cheng-ren/">認証・承認</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/ruby/">ruby</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/scm/">scm</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/seminar/">seminar</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/setuptools/">setuptools</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/shi-li/">実例</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/shiyotomeru/">ショートメール</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/shiyotometsusezi/">ショートメッセージ</a> (7)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/sms/">sms</a> (3)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/smsnoapipei-xin/">smsのapi配信</a> (15)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/spf/">spf</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/sponsor/">sponsor</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/su-song/">訴訟</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/subversion/">subversion</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/svn/">svn</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/talk/">talk</a> (2)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/te-xu/">特許</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/team-camp/">team camp</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/tech/">tech</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/telephony/">telephony</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/text-to-speech/">text-to-speech</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/tips/">tips</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/tokyo/">tokyo</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/tokyo-startup-pitch-night/">tokyo-startup-pitch-night</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/tong-zhi-bu-zhu-shou-duan/">通知補助手段</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/transaction/">transaction</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/tts/">TTS</a> (3)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/use-cases/">use cases</a> (4)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/vacancy/">vacancy</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/version-control/">version control</a> (3)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/voice-and-sms-api/">voice and sms api</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/vuinasuburodokiyasuto/">ヴィーナスブロードキャスト</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/wing-sms/">wing-sms</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/workshop/">workshop</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/xi-dai-dian-hua/">携帯電話</a> (2)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/xoxzo/">xoxzo</a> (7)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/xtone/">xtone</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/you-xian-hui-she-emuaishi/">有限会社エムアイシー</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/you-xian-hui-she-medeikomu/">有限会社メディコム</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/yuzaren-zheng/">ユーザ認証</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/zenlokzhu-shi-hui-she/">zenlok株式会社</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/zhu-shi-hui-she-aioakitekuto/">株式会社アイオーアーキテクト</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/zhu-shi-hui-she-aobatang/">株式会社あおば堂</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/zhu-shi-hui-she-huruiya/">株式会社フルイヤー</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/zhu-shi-hui-she-kiyurazu/">株式会社キュラーズ</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/zhu-shi-hui-she-orenzisupiritsutsu/">株式会社オレンジスピリッツ</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/zhu-shi-hui-she-pedaru/">株式会社ペダル</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/zhu-shi-hui-she-supauebu/">株式会社スーパーウェブ</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/en/tag/xoxzo/">xoxzo</a> (4)</li>
             </ul>
         </div>
     </div>

@@ -12,14 +12,14 @@
   <meta name="tags" content="version control">
   <meta property="og:type" content="article">
   <meta property="og:title" content="Svn stash">
-  <meta property="og:description" content="Update 2012-05-02 - Add new use-case when merging from trunk. One thing I like in git is the stash command. Basically what it's doing is to take out current changes that we have, store it in temporary place and then revert our repo to it's previous pristine state. This ...">
+  <meta property="og:description" content="Update 2012-05-02 - Add new use-case when merging from trunk. One thing I like in git is the stash command. Basically what it's doing is to take out current changes that we have, store it in temporary place and then revert our repo to it's previous pristine state. This has a …">
   <meta property="og:url" content="http://blog.xoxzo.com/en/2012/03/09/svn-stash/">
   <meta property="og:site_name" content="Xoxzo Official Blog: Empowerment">
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="@xoxzotelephony">
   <meta name="twitter:title" content="Svn stash">
-  <meta name="twitter:description" content="Update 2012-05-02 - Add new use-case when merging from trunk. One thing I like in git is the stash command. Basically what it's doing is to take out current changes that we have, store it in temporary place and then revert our repo to it's previous pristine state. This ...">
+  <meta name="twitter:description" content="Update 2012-05-02 - Add new use-case when merging from trunk. One thing I like in git is the stash command. Basically what it's doing is to take out current changes that we have, store it in temporary place and then revert our repo to it's previous pristine state. This has a …">
 
     <title>Xoxzo Official Blog: Empowerment</title>
     <link rel="icon" href="http://blog.xoxzo.com/en/theme/images/xoxzo_16x16_favicon.png">
@@ -28,7 +28,9 @@
     <link rel="stylesheet" href="http://blog.xoxzo.com/en/theme/css/main.css">
     <link rel="stylesheet" href="http://blog.xoxzo.com/en/theme/css/pygment.css">
 
-    <link href="http://blog.xoxzo.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Xoxzo Official Blog: Empowerment Full Atom Feed" />
+    <link href="http://blog.xoxzo.com/feeds/all.rss.xml" type="application/rss+xml" rel="alternate" title="Xoxzo Official Blog: Empowerment Full RSS Feed">
+    <link href="http://blog.xoxzo.com/feeds/%s.rss.xml" type="application/rss+xml" rel="alternate" title="Xoxzo Official Blog: Empowerment Category RSS Feed">
+    <link href="http://blog.xoxzo.com/feeds/all-%s.rss.xml" type="application/rss+xml" rel="alternate" title="Xoxzo Official Blog: Empowerment Translation RSS Feed">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -52,17 +54,27 @@
                     href="http://blog.xoxzo.com/en/pages/we-are-xoxzo/">Who We Are</a></li>
                 -->
                     <li class="nav-item">
-                    <a class="nav-link" href="https://info.xoxzo.com/en/">Who We Are</a>
+                        <a class="nav-link" href="https://info.xoxzo.com/en/">Who We Are</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://twitter.com/xoxzotelephony">Twitter</a>
+                        <a class="nav-link" href="https://twitter.com/xoxzotelephony" target="_blank">Twitter</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Language&nbsp;
+                            <span class="caret"></span>
+                        </a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="/en/">English</a>
+                            <a class="dropdown-item" href="/ja/">日本語</a>
+                        </div>
                     </li>
                 </ul>
             </div>
         </div>
     </nav>
 
-
+    
 <div class="with-sidebar">
     <main class="container">
         <div class="row">
@@ -74,40 +86,39 @@
                             <a href="http://blog.xoxzo.com/en/engineering/">Engineering</a>
                         </h2>
                         <h1 class="article-title">Svn stash</h1>
-                        <p class="article-author">By
-                            <a href="http://blog.xoxzo.com/en/author/kamal-mustafa.html">Kamal Mustafa</a>
+                        <p class="article-author">By                            <a href="http://blog.xoxzo.com/en/author/kamal-mustafa.html">Kamal Mustafa</a>
                             <br>
                             
                         </p>
                         <hr>
                         <div class="article-content">
                           <p>Update 2012-05-02 - Add new use-case when merging from trunk.</p>
-<hr />
+<hr>
 <p>One thing I like in git is the <code>stash</code> command. Basically what it's
-doing is<br />
+doing is<br>
 to take out current changes that we have, store it in temporary place
-and then<br />
+and then<br>
 revert our repo to it's previous pristine state. This has a number of
-use cases.<br />
+use cases.<br>
 Let say you're working on some features and then got some bug report
-that need<br />
+that need<br>
 to be fixed quickly. You may do new checkout in other location and do
-the bug<br />
+the bug<br>
 fixing work, commit it and then continue on your new features work. This
-may not<br />
+may not<br>
 really prevalent if you work in branch since the bug might need to be
-fixed in<br />
+fixed in<br>
 another branch. <code>git branch</code> does the job here since it allow you to
-quickly<br />
+quickly<br>
 switch branch.</p>
 <p>Now back to us who still stuck with svn. Nothing wrong with svn, it does
-the work<br />
+the work<br>
 and 99% of the time we're happy with it. There's another use case than I
-mentioned<br />
+mentioned<br>
 just now. Supposed while working on the new features, you found a bug.
-It may be<br />
+It may be<br>
 just 1 line fix and you don't want the fix end up with features you're
-working on<br />
+working on<br>
 currently. With svn, you have few options:-</p>
 <ul>
 <li>Do new checkout in another directory, fix the bug and commit.</li>
@@ -115,25 +126,25 @@ currently. With svn, you have few options:-</p>
     <code>patch -p0 &lt; tmp.diff</code></li>
 </ul>
 <p>Second option not really nice solution if you have lot of newly added
-files and<br />
+files and<br>
 you want to have clean environment in order to test the bug fixes. You
-have to<br />
+have to<br>
 manually copy all the files to some other place. So I search around for
-'svn stash'<br />
+'svn stash'<br>
 and luckily there's few others who'd also thinking about 'svn stash'.
-<a href="http://www.blisted.org/blog/bin/svn/stash">There's one<br />
+<a href="http://www.blisted.org/blog/bin/svn/stash">There's one<br>
 that look complete</a>, from a
-guy named scott (can't find any more details) so I<br />
+guy named scott (can't find any more details) so I<br>
 give it a try. The script work quite well, it named as <code>svn</code>, just put
-somewhere<br />
+somewhere<br>
 under your <code>$PATH</code>, make sure it come first before the usual path such
-as <code>/usr/bin</code><br />
+as <code>/usr/bin</code><br>
 or <code>/usr/local/bin</code>. The script basically a wrapper to actually svn
-executable,<br />
+executable,<br>
 it contains few additonal commands and if none match, it just forward
 that to the real svn.</p>
 <p>Scott's blog have enough explanation on how to use the script so I won't
-repeat it<br />
+repeat it<br>
 here. Basically the flow are:-</p>
 <ul>
 <li><code>svn stash</code></li>
@@ -191,15 +202,15 @@ M       bin/sendsmsd
 
 
 <p>It also have some other goodies but I haven't try any of them. The
-script also show<br />
+script also show<br>
 a creative way to provide 'plugins' to a command that do not natively
-support plugin.<br />
+support plugin.<br>
 I might apply the same technique to other command. I have in mind to
-override the<br />
+override the<br>
 svn commit command to provide some kind pre-commit hook that run the
-code through<br />
+code through<br>
 static code checker before commiting. We're using Unfuddle so no chance
-for us to use<br />
+for us to use<br>
 the native svn pre-commit hook. Lastly, thanks to
 <a href="http://www.blisted.org/">scott</a> for such useful script.</p>
                         </div>
@@ -231,7 +242,6 @@ the native svn pre-commit hook. Lastly, thanks to
                 <li><a href="http://blog.xoxzo.com/en/new-release-xoxzo/">New Release, Xoxzo</a></li>
                 <li><a href="http://blog.xoxzo.com/en/pr/">PR</a></li>
                 <li><a href="http://blog.xoxzo.com/en/the-way-we-work/">The Way We Work</a></li>
-                <li><a href="http://blog.xoxzo.com/en/use-cases/">Use Cases</a></li>
             </ul>
         </div>
         <div class="sidebar-menu">
@@ -239,27 +249,17 @@ the native svn pre-commit hook. Lastly, thanks to
             <ul>
                 <li><a href="http://blog.xoxzo.com/en/tag/10-years/">10 years</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/2016/">2016</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/2017/">2017</a> (3)</li>
+                <li><a href="http://blog.xoxzo.com/en/tag/2017/">2017</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/24-hours/">24 hours</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/adit/">adit</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/api/">API</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/apikey/">APIKey</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/apuri/">アプリ</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/audio/">audio</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/authentication/">authentication</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/aws/">aws</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/ben-ren-que-ren/">本人確認</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/ben-ren-ren-zheng/">本人認証</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/browsers/">browsers</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/careermart/">careermart</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/chang-ye/">長野</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/class-based-views/">class based views</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/community/">community</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/connexionnexus/">connexion@nexus</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/costs/">costs</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/credits/">credits</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/daiyarusms/">ダイヤルSMS</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/dao-da-lu/">到達率</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/developer/">developer</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/dial-in-numbers/">dial in numbers</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/din/">din</a> (1)</li>
@@ -268,34 +268,24 @@ the native svn pre-commit hook. Lastly, thanks to
                 <li><a href="http://blog.xoxzo.com/en/tag/django-views/">django views</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/djangogirls/">djangogirls</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/dns/">dns</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/dong-jing/">東京</a> (2)</li>
+                <li><a href="http://blog.xoxzo.com/en/tag/dong-jing/">東京</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/downtime/">downtime</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/easy_install/">easy_install</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/ecsaito/">ECサイト</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/email/">email</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/endofservice/">endofservice</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/eol/">eol</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/eoy-notice/">EOY-notice</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/event/">event</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/ex/">ex</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/exhibition/">exhibition</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/ezsms/">EZSMS</a> (20)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/freemltoku/">freemlトーク</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/fullcourt/">fullcourt</a> (2)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/gao-ling-yuza/">高齢ユーザ</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/ge-ren-qing-bao/">個人情報</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/generic-views/">generic views</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/git/">git</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/github/">github</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/gmomedeiazhu-shi-hui-she/">gmoメディア株式会社</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/goodbye/">goodbye</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/happy-birthday/">happy birthday</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/hatten-hotel/">hatten hotel</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/he-jie/">和解</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/html5/">html5</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/hun-nabi/">婚ナビ</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/ivr/">ivr</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/jian-she-zhu-shi-hui-she/">⼾⽥建設株式会社</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/jomlaunch/">jomlaunch</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/kof/">kof</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/kuala-lumpur/">kuala lumpur</a> (1)</li>
@@ -305,85 +295,47 @@ the native svn pre-commit hook. Lastly, thanks to
                 <li><a href="http://blog.xoxzo.com/en/tag/malaysia/">malaysia</a> (3)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/marimore/">marimore</a> (3)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/maritex/">maritex</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/medeianetsutowakusabisu/">メディアネットワークサービス</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/meruadoresu/">メールアドレス</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/mian-qiang-hui/">勉強会</a> (2)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/minnanopythonmian-qiang-hui/">みんなのPython勉強会</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/my/">my</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/new-release/">new release</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/nomad/">nomad</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/open-source/">open source</a> (3)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/osaka/">osaka</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/osc/">osc</a> (2)</li>
+                <li><a href="http://blog.xoxzo.com/en/tag/osc/">osc</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/oss/">oss</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/ota/">OTA</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/php/">php</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/pip/">pip</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/pmaku/">pマーク</a> (2)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/pr/">pr</a> (6)</li>
+                <li><a href="http://blog.xoxzo.com/en/tag/pr/">pr</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/price/">price</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/price-review/">Price Review</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/puraibashimaku/">プライバシーマーク</a> (2)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/puresuririsu/">プレスリリース</a> (3)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/pycon/">pycon</a> (4)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/pycon-apac-2017/">pycon apac 2017</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/pycon-au/">pycon au</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/pycon-au-2015/">pycon au 2015</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/pyconmy/">pyconmy</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/pypi/">pypi</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/python/">python</a> (17)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/qoo10/">qoo10</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/en/tag/python/">python</a> (15)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/remote/">remote</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/ren-ding/">認定</a> (2)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/ren-zheng/">認証</a> (3)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/ren-zheng-cheng-ren/">認証・承認</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/ruby/">ruby</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/scm/">scm</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/seminar/">seminar</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/setuptools/">setuptools</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/shi-li/">実例</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/shiyotomeru/">ショートメール</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/shiyotometsusezi/">ショートメッセージ</a> (7)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/sms/">sms</a> (3)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/smsnoapipei-xin/">smsのapi配信</a> (15)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/spf/">spf</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/sponsor/">sponsor</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/su-song/">訴訟</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/subversion/">subversion</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/svn/">svn</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/talk/">talk</a> (2)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/te-xu/">特許</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/team-camp/">team camp</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/tech/">tech</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/telephony/">telephony</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/text-to-speech/">text-to-speech</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/tips/">tips</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/tokyo/">tokyo</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/tokyo-startup-pitch-night/">tokyo-startup-pitch-night</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/tong-zhi-bu-zhu-shou-duan/">通知補助手段</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/transaction/">transaction</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/tts/">TTS</a> (3)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/use-cases/">use cases</a> (4)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/vacancy/">vacancy</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/version-control/">version control</a> (3)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/voice-and-sms-api/">voice and sms api</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/vuinasuburodokiyasuto/">ヴィーナスブロードキャスト</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/wing-sms/">wing-sms</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/en/tag/workshop/">workshop</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/xi-dai-dian-hua/">携帯電話</a> (2)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/xoxzo/">xoxzo</a> (7)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/xtone/">xtone</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/you-xian-hui-she-emuaishi/">有限会社エムアイシー</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/you-xian-hui-she-medeikomu/">有限会社メディコム</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/yuzaren-zheng/">ユーザ認証</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/zenlokzhu-shi-hui-she/">zenlok株式会社</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/zhu-shi-hui-she-aioakitekuto/">株式会社アイオーアーキテクト</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/zhu-shi-hui-she-aobatang/">株式会社あおば堂</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/zhu-shi-hui-she-huruiya/">株式会社フルイヤー</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/zhu-shi-hui-she-kiyurazu/">株式会社キュラーズ</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/zhu-shi-hui-she-orenzisupiritsutsu/">株式会社オレンジスピリッツ</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/zhu-shi-hui-she-pedaru/">株式会社ペダル</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/en/tag/zhu-shi-hui-she-supauebu/">株式会社スーパーウェブ</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/en/tag/xoxzo/">xoxzo</a> (4)</li>
             </ul>
         </div>
     </div>

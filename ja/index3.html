@@ -13,7 +13,9 @@
     <link rel="stylesheet" href="http://blog.xoxzo.com/ja/theme/css/main.css">
     <link rel="stylesheet" href="http://blog.xoxzo.com/ja/theme/css/pygment.css">
 
-    <link href="http://blog.xoxzo.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Xoxzoの公式ブログ：「開花、発展、向上させる」 Full Atom Feed" />
+    <link href="http://blog.xoxzo.com/feeds/all.rss.xml" type="application/rss+xml" rel="alternate" title="Xoxzoの公式ブログ：「開花、発展、向上させる」 Full RSS Feed">
+    <link href="http://blog.xoxzo.com/feeds/%s.rss.xml" type="application/rss+xml" rel="alternate" title="Xoxzoの公式ブログ：「開花、発展、向上させる」 Category RSS Feed">
+    <link href="http://blog.xoxzo.com/feeds/all-%s.rss.xml" type="application/rss+xml" rel="alternate" title="Xoxzoの公式ブログ：「開花、発展、向上させる」 Translation RSS Feed">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -27,7 +29,7 @@
         <div class="container">
             <a class="navbar-brand" href="http://blog.xoxzo.com/ja">
                 <img src="http://blog.xoxzo.com/ja/theme/images/xoxzo_navbar_logo_w_trans.png">
-                <span>BLOG</span>
+                <span>ブログ</span>
             </a>
             <button class="navbar-toggler hidden-sm-up float-xs-right" type="button" data-toggle="collapse" data-target="#collapsingNav" aria-controls="collapsingNav" aria-expanded="false" aria-label="Toggle navigation"></button>
             <div class="collapse navbar-toggleable-xs" id="collapsingNav">
@@ -37,17 +39,27 @@
                     href="http://blog.xoxzo.com/ja/pages/we-are-xoxzo/">Who We Are</a></li>
                 -->
                     <li class="nav-item">
-                    <a class="nav-link" href="https://info.xoxzo.com/en/">Who We Are</a>
+                        <a class="nav-link" href="https://info.xoxzo.com/en/">ブログ提供者</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://twitter.com/xoxzotelephony">Twitter</a>
+                        <a class="nav-link" href="https://twitter.com/xoxzotelephony" target="_blank">ツイッター</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Language&nbsp;
+                            <span class="caret"></span>
+                        </a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="/en/">English</a>
+                            <a class="dropdown-item" href="/ja/">日本語</a>
+                        </div>
                     </li>
                 </ul>
             </div>
         </div>
     </nav>
 
-
+    
 <div class="with-sidebar">
     <main class="container">
         <div class="row">
@@ -56,20 +68,11 @@
 
                     <article>
                         <h2 class="article-info">
-                            2016-08-26 /
-                            <a href="http://blog.xoxzo.com/ja/new-release-xoxzo/">New Release, Xoxzo</a>
-                        </h2>
-                        <h1 class="article-title"><a href="http://blog.xoxzo.com/ja/2016/08/26/xoxzo-support-for-malaysia-my/" title="Permalink to [Xoxzo] API now supports Malaysia (MY)">[Xoxzo] API now supports Malaysia (MY)</a></h1>
-                        <p>Xoxzo API now supports Malaysia (MY)</p>
-                        <p><a href="http://blog.xoxzo.com/ja/2016/08/26/xoxzo-support-for-malaysia-my/" class="continue">Continue reading ></a></p>
-                    </article>
-                    <article>
-                        <h2 class="article-info">
                             2016-07-28 /
                             <a href="http://blog.xoxzo.com/ja/announcements/">Announcements</a>
                         </h2>
                         <h1 class="article-title"><a href="http://blog.xoxzo.com/ja/2016/07/28/xoxzoprice-revision-for-dial-in-numbers/" title="Permalink to [Xoxzo] フリーダイヤル価格上昇に伴う、料金改定のお知らせ">[Xoxzo] フリーダイヤル価格上昇に伴う、料金改定のお知らせ</a></h1>
-                        <p><a href="https://www.xoxzo.com/ja/"><img alt="Xoxzoロゴ" src="http://blog.xoxzo.com/ja/images/xoxzo-logo-02.png" /></a></p>
+                        <p><a href="https://www.xoxzo.com/ja/"><img alt="Xoxzoロゴ" src="http://blog.xoxzo.com/ja/images/xoxzo-logo-02.png"></a></p>
 <p>平素は<a href="https://www.xoxzo.com/ja/">Xoxzo　クラウド・テレフォニー・プラットフォーム</a>をご利用いただきましてありがとうございます。</p>
 <p>2016年8月4日より、フリーダイヤルサービスの価格上昇に伴い、電話着信APIサービスの着信料金が改定されますので、お知らせ申し上げます。</p>
 <div class="highlight"><pre><span></span>----------------    -----------------------------------------------------------------------
@@ -84,7 +87,7 @@
 <p>ご不明な点がございましたら、ヘルプデスク（help@xoxzo.com）までご連絡ください。</p>
 <p>今後共、弊社のサービスをどうぞよろしくお願いします。</p>
 <p>株式会社Xoxzo一同</p>
-                        <p><a href="http://blog.xoxzo.com/ja/2016/07/28/xoxzoprice-revision-for-dial-in-numbers/" class="continue">Continue reading ></a></p>
+                        <p><a href="http://blog.xoxzo.com/ja/2016/07/28/xoxzoprice-revision-for-dial-in-numbers/" class="continue">続きを読む ></a></p>
                     </article>
                     <article>
                         <h2 class="article-info">
@@ -97,46 +100,18 @@
 <p>顧客様へのサービスの一環として、EZSMSのWebインターフェースを使ったSMS送信機能を利用しています。将来的に、別サービスとなっている<a href="https://www.xoxzo.com/ja/about/dial-in-api/">XoxzoのDIN着信機能</a>を使ったサービスを追加して行きたいです。</p>
 </blockquote>
 <p>【株式会社キャリアマートについて】</p>
-<p><a href="http://www.careermart.co.jp/"><img alt="Career Mart" src="http://blog.xoxzo.com/ja/images/client-logos/career-mart-logo.jpg" /></a></p>
-<p>所在地：〒160-0023 東京都新宿区西新宿7-3-4 アソルティ西新宿ビル4F<br />
-創業：平成14年11月1日<br />
+<p><a href="http://www.careermart.co.jp/"><img alt="Career Mart" src="http://blog.xoxzo.com/ja/images/client-logos/career-mart-logo.jpg"></a></p>
+<p>所在地：〒160-0023 東京都新宿区西新宿7-3-4 アソルティ西新宿ビル4F<br>
+創業：平成14年11月1日<br>
 URL：<a href="http://www.careermart.co.jp/">http://www.careermart.co.jp/</a></p>
 <p>【株式会社Xoxzoについて】</p>
-<p><img alt="Xoxzoロゴ" src="http://blog.xoxzo.com/ja/images/xoxzo-logo-02.png" /></p>
+<p><img alt="Xoxzoロゴ" src="http://blog.xoxzo.com/ja/images/xoxzo-logo-02.png"></p>
 <p>Xoxzoは、2007年2月に設立以来SMS技術を中心に自社サービスを開発、運営をしています。「<strong>継続改善</strong>」をキーワードにしてお客様のニーズを満たすサービスを目指しています。</p>
-<p>住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F<br />
-代表： 代表取締役　イクバル・アバドゥラ<br />
-設立： 2007年2月<br />
+<p>住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F<br>
+代表： 代表取締役　イクバル・アバドゥラ<br>
+設立： 2007年2月<br>
 URL ： <a href="http://info.xoxzo.com/ja/">http://info.xoxzo.com/ja/</a></p>
-                        <p><a href="http://blog.xoxzo.com/ja/2016/07/08/careermart-ezsms-usecase/" class="continue">Continue reading ></a></p>
-                    </article>
-                    <article>
-                        <h2 class="article-info">
-                            2016-06-09 /
-                            <a href="http://blog.xoxzo.com/ja/engineering/">Engineering</a>
-                        </h2>
-                        <h1 class="article-title"><a href="http://blog.xoxzo.com/ja/2016/06/09/tokyu-ruby-kaigi/" title="Permalink to Tokyu Ruby Kaigi">Tokyu Ruby Kaigi</a></h1>
-                        <p>On May 29, I attended the 10th annual <a href="http://regional.rubykaigi.org/tokyu10/">Tokyu Ruby
-Kaigi</a> held at Shibuya,Tokyo. I
-made a lightning talk about a <a href="https://rubygems.org/gems/xoxzo-cloudruby">Xoxzo telephony
-gem</a> (gem is the ruby
-packaging system). This gem is the first public gem I wrote in my
-life. I also enjoyed a lot of exciting ...</p>
-                        <p><a href="http://blog.xoxzo.com/ja/2016/06/09/tokyu-ruby-kaigi/" class="continue">Continue reading ></a></p>
-                    </article>
-                    <article>
-                        <h2 class="article-info">
-                            2016-06-03 /
-                            <a href="http://blog.xoxzo.com/ja/engineering/">Engineering</a>
-                        </h2>
-                        <h1 class="article-title"><a href="http://blog.xoxzo.com/ja/2016/06/03/malaysia-open-source-conference-moscmy-and-jomlaunch/" title="Permalink to Malaysia Open Source Conference (MOSCMY) and JomLaunch">Malaysia Open Source Conference (MOSCMY) and JomLaunch</a></h1>
-                        <p>Last week I've attended one of the biggest open source event in Malaysia
-and another co-located event that is JomLaunch by prominent local
-developer community called JomWeb.</p>
-<p>The first slot I managed to join (I skipped the first day) is
-called <a href="http://lanyrd.com/2016/moscmy2016/sdzpgb/">Pentaksiran Pengaturcaraan Komputer Berdasarkan Domain-domain
-Pembelajaran (Programming Assesment ...</a></p>
-                        <p><a href="http://blog.xoxzo.com/ja/2016/06/03/malaysia-open-source-conference-moscmy-and-jomlaunch/" class="continue">Continue reading ></a></p>
+                        <p><a href="http://blog.xoxzo.com/ja/2016/07/08/careermart-ezsms-usecase/" class="continue">続きを読む ></a></p>
                     </article>
                     <article>
                         <h2 class="article-info">
@@ -152,27 +127,14 @@ Pembelajaran (Programming Assesment ...</a></p>
 ⾃動化します。 今後、このサービスを他の用途に対しても展開していく予定です。</p>
 </blockquote>
 <p>【株式会社戸田建設について】</p>
-<p><img alt="戸田建設のロゴ" src="http://blog.xoxzo.com/ja/images/client-logos/toda-kensetsu.jpg" /></p>
-<p>所在地：〒104-8388 東京都中央区京橋1-7-1 TODA BUILDING<br />
-創業：1881年1月<br />
+<p><img alt="戸田建設のロゴ" src="http://blog.xoxzo.com/ja/images/client-logos/toda-kensetsu.jpg"></p>
+<p>所在地：〒104-8388 東京都中央区京橋1-7-1 TODA BUILDING<br>
+創業：1881年1月<br>
 URL：<a href="http://www.toda.co.jp/">http://www.toda.co.jp/</a></p>
 <p>【株式会社Xoxzoについて】</p>
-<p><a href="http://info.xoxzo.com/ja/"><img alt="Xoxzoロゴ" src="http://blog.xoxzo.com/ja/images/xoxzo-logo-02.png" /></a></p>
-<p>Xoxzoは、2007年2月に設立以来SMS技術を中心に自社サービスを開発、運営をしています ...</p>
-                        <p><a href="http://blog.xoxzo.com/ja/2016/05/26/toda-corporation-xoxzo-usecase/" class="continue">Continue reading ></a></p>
-                    </article>
-                    <article>
-                        <h2 class="article-info">
-                            2016-04-22 /
-                            <a href="http://blog.xoxzo.com/ja/the-way-we-work/">The Way We Work</a>
-                        </h2>
-                        <h1 class="article-title"><a href="http://blog.xoxzo.com/ja/2016/04/22/the-communication-costs-of-remote-work/" title="Permalink to The communication costs of remote work">The communication costs of remote work</a></h1>
-                        <p>We have a distributed team and everyone remotely works from wherever
-they are (6 cities across 3 countries). Remote work is nothing new
-(we've practiced it since 2007), at least for us and generally: But it
-requires a different approach and similar to re-thinking about <em>work</em> as
-we know ...</p>
-                        <p><a href="http://blog.xoxzo.com/ja/2016/04/22/the-communication-costs-of-remote-work/" class="continue">Continue reading ></a></p>
+<p><a href="http://info.xoxzo.com/ja/"><img alt="Xoxzoロゴ" src="http://blog.xoxzo.com/ja/images/xoxzo-logo-02.png"></a></p>
+<p>Xoxzoは、2007年2月に設立以来SMS技術を中心に自社サービスを開発、運営をしています …</p>
+                        <p><a href="http://blog.xoxzo.com/ja/2016/05/26/toda-corporation-xoxzo-usecase/" class="continue">続きを読む ></a></p>
                     </article>
                     <article>
                         <h2 class="article-info">
@@ -188,40 +150,112 @@ we know ...</p>
 パーソナルコミュニケーションが求められる時代において、さまざまな出会いのプロフェッショナル集団として、お客様の社会とのつながりや個々人のコミュニケーションをサポートし、幸せな未来を叶えることを目指しています。</p>
 </blockquote>
 <p>【有限会社エムアイシー総合企画について】</p>
-<p><img alt="MICロゴ" src="http://blog.xoxzo.com/ja/images/client-logos/mic-logo.png" /></p>
-<p>所在地：福岡市中央区警固2-18-5　アバンダント91ビル5F<br />
-創業：1997年7月<br />
+<p><img alt="MICロゴ" src="http://blog.xoxzo.com/ja/images/client-logos/mic-logo.png"></p>
+<p>所在地：福岡市中央区警固2-18-5　アバンダント91ビル5F<br>
+創業：1997年7月<br>
 URL：<a href="http://www.micgp.co.jp/">http://www.micgp.co.jp/</a></p>
 <p>【株式会社Xoxzoについて】</p>
-<p><a href="http://info.xoxzo.com/ja/"><img alt="Xoxzoロゴ" src="http://blog.xoxzo.com/ja/images/xoxzo-logo-02.png" /></a></p>
+<p><a href="http://info.xoxzo.com/ja/"><img alt="Xoxzoロゴ" src="http://blog.xoxzo.com/ja/images/xoxzo-logo-02.png"></a></p>
 <p>Xoxzoは、2007年2月に設立以来SMS技術を中心に自社サービスを開発、運営をしています。「<strong>継続改善</strong>」をキーワードにしてお客様のニーズを満たすサービスを目指しています。</p>
-<p>住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F ...</p>
-                        <p><a href="http://blog.xoxzo.com/ja/2016/03/18/mic-xoxzo-usecase/" class="continue">Continue reading ></a></p>
+<p>住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F …</p>
+                        <p><a href="http://blog.xoxzo.com/ja/2016/03/18/mic-xoxzo-usecase/" class="continue">続きを読む ></a></p>
                     </article>
                     <article>
                         <h2 class="article-info">
-                            2016-03-07 /
-                            <a href="http://blog.xoxzo.com/ja/engineering/">Engineering</a>
+                            2016-02-01 /
+                            <a href="http://blog.xoxzo.com/ja/announcements/">Announcements</a>
                         </h2>
-                        <h1 class="article-title"><a href="http://blog.xoxzo.com/ja/en/2016/03/07/tokyo-team-camp/" title="Permalink to Tokyo Team Camp">Tokyo Team Camp</a></h1>
-                        <p>Report on our Feb 2016 team camp in Tokyo</p>
-                        <p><a href="http://blog.xoxzo.com/ja/en/2016/03/07/tokyo-team-camp/" class="continue">Continue reading ></a></p>
+                        <h1 class="article-title"><a href="http://blog.xoxzo.com/ja/2016/02/01/maritex-end-of-service-announcement/" title="Permalink to 【MARITEX】サービス終了のお知らせ">【MARITEX】サービス終了のお知らせ</a></h1>
+                        <p>MARITEXからさようなら</p>
+                        <p><a href="http://blog.xoxzo.com/ja/2016/02/01/maritex-end-of-service-announcement/" class="continue">続きを読む ></a></p>
                     </article>
                     <article>
                         <h2 class="article-info">
-                            2016-02-15 /
-                            <a href="http://blog.xoxzo.com/ja/engineering/">Engineering</a>
+                            2015-12-03 /
+                            <a href="http://blog.xoxzo.com/ja/fullcourt/">FullCourt</a>
                         </h2>
-                        <h1 class="article-title"><a href="http://blog.xoxzo.com/ja/2016/02/15/a-python-basic-class-in-tokyo-feb-6-2016/" title="Permalink to A python basic class in Tokyo Feb 6, 2016">A python basic class in Tokyo Feb 6, 2016</a></h1>
-                        <p><a href="https://djangogirls.org/"><img alt="logo" src="https://xoxzoblog.files.wordpress.com/2016/02/logo.png?w=150" /></a></p>
-<p>I have attended an event of Django Girls Japan and Python ladies, a
-Python basic.</p>
-<p><a href="http://djangogirls-org.connpass.com/event/25660/">http://djangogirls-org.connpass.com/event/25660/</a></p>
-<p><strong>1. An introduction</strong><br />
-We had 8 girls attended with 1 instructor and 3 mentors.<br />
-6 students from within Tokyo and 1 from Nagoya and me from Kyoto.<br />
-<strong>2. Session ...</strong></p>
-                        <p><a href="http://blog.xoxzo.com/ja/2016/02/15/a-python-basic-class-in-tokyo-feb-6-2016/" class="continue">Continue reading ></a></p>
+                        <h1 class="article-title"><a href="http://blog.xoxzo.com/ja/2015/12/03/fullcourt-end-of-service-announcement/" title="Permalink to 【FullCourt】サービス終了のお知らせ">【FullCourt】サービス終了のお知らせ</a></h1>
+                        <p><img alt="logo_1" src="http://blog.xoxzo.com/ja/images/fullcourt-logo.png"></p>
+<p>【FullCourt】サービス終了のお知らせ</p>
+<p>去る2011年、「思い立ったら10分で、りて、世にその名を馳せることとなりました。<br>
+その運命の日から4年。多くの出来事を乗り越え、残念ながら、2016年2月29日をもって、FullCourtはサービスを終了する運びとなったことを、お知らせします。</p>
+<p>ご利用の皆様にとって、これは何を意味するのでしょうか？</p>
+<p><strong>ご登録について</strong><br>
+Fullcourtは2015年12月3日木曜日以降、新規のご登録の受付を中止いたします。</p>
+<p><strong>現存のクレジットと、新規ご購入クレジットについて</strong><br>
+FullCourtは、2016年1月1日以降、新規ご購入クレジットの受付を中止いたします。現存のクレジットの払い戻しをご希望の場合は、ご利用規約に基づいて、返金の手続きをさせていただきますので、<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#115;&#117;&#112;&#112;&#111;&#114;&#116;&#64;&#102;&#117;&#108;&#108;&#99;&#111;&#117;&#114;&#116;&#46;&#99;&#111;">&#115;&#117;&#112;&#112;&#111;&#114;&#116;&#64;&#102;&#117;&#108;&#108;&#99;&#111;&#117;&#114;&#116;&#46;&#99;&#111;</a>
+までご連絡ください。</p>
+<p><strong>APIのご利用について</strong><br>
+2016年2月29日までの間、APIのご利用は可能です。しかし、受信にご利用の電話番号のほうは、当日をもちまして、その後の継続利用はできません。詳しくは、下記の「Motion番号を含めた、受信電話番号について」の記述をご参照ください。合わせまして、FullCourtに代わるAPIサービスをご用意しておりますので、「次のステップ」の記述にてご確認ください。</p>
+<p><strong>Motion</strong><br>
+Motionのサービスは、2016年2月29日までの間、引き続きご利用いただけます。しかし …</p>
+                        <p><a href="http://blog.xoxzo.com/ja/2015/12/03/fullcourt-end-of-service-announcement/" class="continue">続きを読む ></a></p>
+                    </article>
+                    <article>
+                        <h2 class="article-info">
+                            2015-10-14 /
+                            <a href="http://blog.xoxzo.com/ja/pr/">PR</a>
+                        </h2>
+                        <h1 class="article-title"><a href="http://blog.xoxzo.com/ja/2015/10/14/change-of-corporate-identity/" title="Permalink to 商号変更に関するお知らせ">商号変更に関するお知らせ</a></h1>
+                        <p>「株式会社MARIMORE」は「株式会社Xoxzo」に生まれ変わります。</p>
+                        <p><a href="http://blog.xoxzo.com/ja/2015/10/14/change-of-corporate-identity/" class="continue">続きを読む ></a></p>
+                    </article>
+                    <article>
+                        <h2 class="article-info">
+                            2015-09-05 /
+                            <a href="http://blog.xoxzo.com/ja/pr/">PR</a>
+                        </h2>
+                        <h1 class="article-title"><a href="http://blog.xoxzo.com/ja/2015/09/05/privacymark-marimore-2015/" title="Permalink to プラバシーマーク更新のお知らせ">プラバシーマーク更新のお知らせ</a></h1>
+                        <p>プラバシーマーク更新をいたしました。</p>
+                        <p><a href="http://blog.xoxzo.com/ja/2015/09/05/privacymark-marimore-2015/" class="continue">続きを読む ></a></p>
+                    </article>
+                    <article>
+                        <h2 class="article-info">
+                            2015-04-27 /
+                            <a href="http://blog.xoxzo.com/ja/use-cases/">Use Cases</a>
+                        </h2>
+                        <h1 class="article-title"><a href="http://blog.xoxzo.com/ja/2015/04/27/aoba-ezsms-usecase/" title="Permalink to 株式会社あおば堂が、利用者への通知補助手段としてEZSMSを導入">株式会社あおば堂が、利用者への通知補助手段としてEZSMSを導入</a></h1>
+                        <p><img alt="EZSMSロゴ" src="http://blog.xoxzo.com/ja/images/ezsms_logo1.png"></p>
+<p>株式会社あおば堂（本社：神奈川県相模原市、ホームページ：<a href="http://www.aobado.net/">http://www.aobado.net</a>）は、<a href="http://info.xoxzo.com/ja/" title="株式会社Xoxzo">株式会社Xoxzo</a>（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）の運営する<a href="https://www.ezsms.biz/ja/" title="SMS配信サービス「EZSMS」">SMS（ショートメッセージ）配信サービス「EZSMS」</a>の買取を行っております。</p>
+<p><em>創業以来、1点1点の査定額を理由を添えてご案内しておりまして、お蔭様にて多くのお客様よりご好評を頂いております。
+更に、事前にネットから5秒で買取価格目安が分かるお試し査定サービスもご用意しております。
+お客様へ査定結果を主にメールにてご案内差し上げておりますが、昨今、規制強化のためか、メールがプロバイダ側にて 消去されるという事案が多数発生しております。
+そのため、メールが受信できないお客様への連絡補助手段としてMARIMORE様のEZSMSサービスを導入するに到りました。</em></p>
+<p>【株式会社あおば堂について】</p>
+<p><img alt="あおば堂ロゴ" src="http://blog.xoxzo.com/ja/images/client-logos/aobado-logo.gif" title="あおば堂ロゴ"></p>
+<p>所在地：神奈川県相模原市南区東林間2-22-14-1F
+創業：平成18年1月
+URL：<a href="http://www.aobado.net/">http://www.aobado.net/</a></p>
+<p>【株式会社Xoxzoについて】</p>
+<p><img alt="Xoxzoロゴ" src="http://blog.xoxzo.com/ja/images/xoxzo-logo-02.png"></p>
+<p>Xoxzoは、2007年2月に設立以来SMS技術を中心に自社サービスを開発、運営をしています。「<strong>継続改善</strong>」をキーワードにしてお客様のニーズを満たすサービスを目指しています。</p>
+<p>住所 …</p>
+                        <p><a href="http://blog.xoxzo.com/ja/2015/04/27/aoba-ezsms-usecase/" class="continue">続きを読む ></a></p>
+                    </article>
+                    <article>
+                        <h2 class="article-info">
+                            2015-04-20 /
+                            <a href="http://blog.xoxzo.com/ja/use-cases/">Use Cases</a>
+                        </h2>
+                        <h1 class="article-title"><a href="http://blog.xoxzo.com/ja/2015/04/20/medicom-ezsms-usecase/" title="Permalink to 有限会社メディコム が、利用者への情報提供や利用料金の通知にEZSMSを導入">有限会社メディコム が、利用者への情報提供や利用料金の通知にEZSMSを導入</a></h1>
+                        <p><a href="http://medicom.jp">有限会社メディコム</a>（本社：東京都新宿区）は、株式会社Xoxzo（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）の運営する<a href="http://www.ezsms.biz/ja">SMS（ショートメッセージ）配信サービス「EZSMS」</a>を導入しました。 </p>
+<p>以下は有限会社メディコム様の導入事例とコメントです。</p>
+<blockquote>
+<p>弊社サービス利用者への情報提供及び利用料金の通知に使用しております。数あるSMS配信システムの中で安価かつ到達率の高さに大変魅力を感じております。</p>
+</blockquote>
+<p>【有限会社メディコムについて】</p>
+<p><img alt="メディコムロゴ" src="http://blog.xoxzo.com/ja/images/client-logos/medicom-logo.jpg"></p>
+<p>所在地  ：東京都新宿区百人町1-12-1 ノーブルビル1F <br>
+設立    ：1995年7月<br>
+URL     ：<a href="http://medicom.jp">http://medicom.jp</a> </p>
+<p>【株式会社Xoxzoについて】</p>
+<p><img alt="Xoxzoロゴ" src="http://blog.xoxzo.com/ja/images/xoxzo-logo-02.png"></p>
+<p>Xoxzoは、2007年2月に設立以来SMS技術を中心に自社サービスを開発、運営をしています。「<strong>継続改善</strong>」をキーワードにしてお客様のニーズを満たすサービスを目指しています。</p>
+<p>住所： 〒110-0016  東京都台東区台東 1-9-4 松浦ビル 5F<br>
+代表： 代表取締役　イクバル・アバドゥラ<br>
+設立： 2007年2月<br>
+URL ： <a href="http://info.xoxzo.com/ja/">http://info …</a></p>
+                        <p><a href="http://blog.xoxzo.com/ja/2015/04/20/medicom-ezsms-usecase/" class="continue">続きを読む ></a></p>
                     </article>
 
 <div class="paginator text-center">
@@ -234,7 +268,7 @@ We had 8 girls attended with 1 instructor and 3 mentors.<br />
         </li>
 
         <li class="page-item current">
-            <a class="page-link page-num">3 / 8</a>
+            <a class="page-link page-num">3 / 5</a>
         </li>
 
         <li class="page-item">
@@ -251,159 +285,107 @@ We had 8 girls attended with 1 instructor and 3 mentors.<br />
 <section class="sidebar col-md-4 col-lg-3">
     <div class="container">
         <div class="sidebar-menu">
-            <h3>CATEGORIES</h3>
+            <h3>カテゴリー</h3>
             <ul>
                 <li><a href="http://blog.xoxzo.com/ja/announcements/">Announcements</a></li>
                 <li><a href="http://blog.xoxzo.com/ja/community/">Community</a></li>
                 <li><a href="http://blog.xoxzo.com/ja/engineering/">Engineering</a></li>
                 <li><a href="http://blog.xoxzo.com/ja/events/">Events</a></li>
                 <li><a href="http://blog.xoxzo.com/ja/fullcourt/">FullCourt</a></li>
-                <li><a href="http://blog.xoxzo.com/ja/new-release-xoxzo/">New Release, Xoxzo</a></li>
                 <li><a href="http://blog.xoxzo.com/ja/pr/">PR</a></li>
-                <li><a href="http://blog.xoxzo.com/ja/the-way-we-work/">The Way We Work</a></li>
                 <li><a href="http://blog.xoxzo.com/ja/use-cases/">Use Cases</a></li>
             </ul>
         </div>
         <div class="sidebar-menu">
-            <h3>TAGS</h3>
+            <h3>タグ</h3>
             <ul>
                 <li><a href="http://blog.xoxzo.com/ja/tag/10-years/">10 years</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/2016/">2016</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/2017/">2017</a> (3)</li>
+                <li><a href="http://blog.xoxzo.com/ja/tag/2017/">2017</a> (4)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/24-hours/">24 hours</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/adit/">adit</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/api/">API</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/apikey/">APIKey</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/apuri/">アプリ</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/audio/">audio</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/authentication/">authentication</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/aws/">aws</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/ben-ren-que-ren/">本人確認</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/ben-ren-ren-zheng/">本人認証</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/browsers/">browsers</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/careermart/">careermart</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/chang-ye/">長野</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/chu-zhan/">出展</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/class-based-views/">class based views</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/community/">community</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/connexionnexus/">connexion@nexus</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/costs/">costs</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/credits/">credits</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/da-ban/">大阪</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/daiyarusms/">ダイヤルSMS</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/dao-da-lu/">到達率</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/developer/">developer</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/dial-in-numbers/">dial in numbers</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/din/">din</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/distribute/">distribute</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/django/">django</a> (7)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/django-views/">django views</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/djangogirls/">djangogirls</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/dns/">dns</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/dong-jing/">東京</a> (2)</li>
+                <li><a href="http://blog.xoxzo.com/ja/tag/django/">django</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ja/tag/dong-jing/">東京</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/downtime/">downtime</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/easy_install/">easy_install</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/ecsaito/">ECサイト</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/email/">email</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/eol/">eol</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/eoy-notice/">EOY-notice</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/event/">event</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/ex/">ex</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/ezsms/">EZSMS</a> (20)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/freemltoku/">freemlトーク</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/fullcourt/">fullcourt</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/gao-ling-yuza/">高齢ユーザ</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/ge-ren-qing-bao/">個人情報</a> (2)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/generic-views/">generic views</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/git/">git</a> (2)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/github/">github</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/gmomedeiazhu-shi-hui-she/">gmoメディア株式会社</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/goodbye/">goodbye</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/happy-birthday/">happy birthday</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/hatten-hotel/">hatten hotel</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/he-jie/">和解</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/html5/">html5</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/hun-nabi/">婚ナビ</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/huridaiyaru/">フリーダイヤル</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/ivr/">ivr</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/jia-ge-gai-ding/">価格改訂</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/jian-she-zhu-shi-hui-she/">⼾⽥建設株式会社</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/jomlaunch/">jomlaunch</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/kof/">kof</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/komiyunitei/">コミュニティー</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/kuala-lumpur/">kuala lumpur</a> (1)</li>
+                <li><a href="http://blog.xoxzo.com/ja/tag/komiyunitei/">コミュニティー</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/liao-jin-gai-ding/">料金改定</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/ma/">m&a</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/mai-shou/">買収</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/malacca/">malacca</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/malaysia/">malaysia</a> (3)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/marimore/">marimore</a> (3)</li>
+                <li><a href="http://blog.xoxzo.com/ja/tag/marimore/">marimore</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/maritex/">maritex</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/medeianetsutowakusabisu/">メディアネットワークサービス</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/meruadoresu/">メールアドレス</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/mian-qiang-hui/">勉強会</a> (2)</li>
+                <li><a href="http://blog.xoxzo.com/ja/tag/migration/">migration</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/minnanopythonmian-qiang-hui/">みんなのPython勉強会</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/my/">my</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/nomad/">nomad</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/open-source/">open source</a> (3)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/osc/">osc</a> (2)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/oss/">oss</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/ota/">OTA</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/php/">php</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/pip/">pip</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/pmaku/">pマーク</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/pr/">pr</a> (6)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/puraibashimaku/">プライバシーマーク</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/puresuririsu/">プレスリリース</a> (3)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/pycon/">pycon</a> (4)</li>
+                <li><a href="http://blog.xoxzo.com/ja/tag/pycon/">pycon</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/pycon-apac-2017/">pycon apac 2017</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/pycon-au/">pycon au</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/pycon-au-2015/">pycon au 2015</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/pyconmy/">pyconmy</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/pypi/">pypi</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/python/">python</a> (17)</li>
+                <li><a href="http://blog.xoxzo.com/ja/tag/python/">python</a> (4)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/qoo10/">qoo10</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/remote/">remote</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/ren-ding/">認定</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/ren-zheng/">認証</a> (3)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/ren-zheng-cheng-ren/">認証・承認</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/ruby/">ruby</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/sabisuzhong-liao/">サービス終了</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/scm/">scm</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/seminar/">seminar</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/setuptools/">setuptools</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/shi-li/">実例</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/shiyotomeru/">ショートメール</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/shiyotometsusezi/">ショートメッセージ</a> (7)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/sms/">sms</a> (4)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/smsnoapipei-xin/">smsのapi配信</a> (15)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/spf/">spf</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/su-song/">訴訟</a> (2)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/subversion/">subversion</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/suponsa/">スポンサー</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/svn/">svn</a> (2)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/talk/">talk</a> (2)</li>
+                <li><a href="http://blog.xoxzo.com/ja/tag/suponsa/">スポンサー</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/te-xu/">特許</a> (2)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/team-camp/">team camp</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/tech/">tech</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/tekisutodu-mishang-geji-neng/">テキスト読み上げ機能</a> (3)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/telephony/">telephony</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/tips/">tips</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/tokyo/">tokyo</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/tokyo-startup-pitch-night/">tokyo-startup-pitch-night</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/tong-zhi-bu-zhu-shou-duan/">通知補助手段</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/transaction/">transaction</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/tts/">TTS</a> (3)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/use-cases/">use cases</a> (4)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/vacancy/">vacancy</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/version-control/">version control</a> (3)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/vuinasuburodokiyasuto/">ヴィーナスブロードキャスト</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/wing-sms/">wing-sms</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/workshop/">workshop</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/xi-dai-dian-hua/">携帯電話</a> (2)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/xin-gui-ririsu/">新規リリース</a> (2)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/xiong-ben/">熊本</a> (1)</li>
-                <li><a href="http://blog.xoxzo.com/ja/tag/xoxzo/">xoxzo</a> (6)</li>
+                <li><a href="http://blog.xoxzo.com/ja/tag/xiong-ben/">熊本</a> (2)</li>
+                <li><a href="http://blog.xoxzo.com/ja/tag/xoxzo/">xoxzo</a> (5)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/xtone/">xtone</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/yin-sheng-api/">音声API</a> (1)</li>
                 <li><a href="http://blog.xoxzo.com/ja/tag/you-xian-hui-she-emuaishi/">有限会社エムアイシー</a> (1)</li>
