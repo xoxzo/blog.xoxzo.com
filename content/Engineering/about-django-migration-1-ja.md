@@ -6,7 +6,9 @@ Slug: aboud-django-migration-1
 Lang: ja
 Summary: mini pycon熊本でdjangoのmigrationの話をしてきました。
 
-[PyCon Mini in Kumamoto](http://kumamoto.pycon.jp)で発表した「djangoのmigrationはどう動いているか？」で話した内容の一部を紹介します。
+[PyCon Mini in Kumamoto](http://kumamoto.pycon.jp)で発表した「djangoのmigrationはどう動いているか？」
+[^注1]
+で話した内容の一部を紹介します。
 djangoのmigrationはdjangoのModelの変更をデータベースのスキーマに反映する仕組みです。
 Modelを修正した場合以下のコマンドを実行します。
 
@@ -17,7 +19,7 @@ $ python ./manage.py migrate
 
 makemigrationsコマンドを実行するとmigrationフォルダ内にmigrationというPythonのソース・ファイルができあがります。
 migrationファイルは、人間が読める形式になっていますので、このコマンドを実行したあとは、どのような内容になっているか
-必ず目で見て確認するようにしましょう。[^1]
+必ず目で見て確認するようにしましょう。[^注2]
 
 例えば、Modelを作成した後に、最初に作成されるmigrationファイルはつぎのような内容です。
 ```
@@ -58,7 +60,8 @@ makemigrationsコマンドは以下のように動作します。
 できあがったmigrationファイルを実際にデータベースに適用し、スキーマに反映するにはmigrateというコマンドを使います。これについては次回解説します。
 
 ![mini PyCon 熊本の参加者と]({filename}/images/akira-mini-pycon-kumamoto.jpg)
-発表後、mini PyCon 熊本の参加者と雑談してるところの模様。
+発表後、mini PyCon 熊本の参加者と雑談している模様。
 
-[^1]:これは公式の[マニュアル](https://docs.djangoproject.com/en/1.11/topics/migrations/)でも推奨されています。
+[^注1]:[当日発表資料](https://www.slideshare.net/xoxzo/djangomigration)
+[^注2]:これは公式の[マニュアル](https://docs.djangoproject.com/en/1.11/topics/migrations/)でも推奨されています。
 
