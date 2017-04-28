@@ -7,17 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-24 02:44+0900\n"
+"POT-Creation-Date: 2017-04-28 16:25+0900\n"
 "PO-Revision-Date: 2017-04-24 13:22+0900\n"
+"Last-Translator: \n"
 "Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Plural-Forms: nplurals=1; plural=0\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
-"Last-Translator: \n"
-"X-Generator: Poedit 1.8.11\n"
 
 #: themes/xoxzo/templates/archives.html:5
 msgid "Archives"
@@ -35,23 +34,27 @@ msgstr "記事投稿："
 msgid "Authors"
 msgstr "投稿者："
 
-#: themes/xoxzo/templates/base.html:37
+#: themes/xoxzo/templates/base.html:42
 msgid "BLOG"
 msgstr "ブログ"
 
-#: themes/xoxzo/templates/base.html:47
+#: themes/xoxzo/templates/base.html:52
 msgid "Who We Are"
 msgstr "ブログ提供者"
 
-#: themes/xoxzo/templates/base.html:50
+#: themes/xoxzo/templates/base.html:55
 msgid "Twitter"
 msgstr "ツイッター"
 
-#: themes/xoxzo/templates/base.html:73
+#: themes/xoxzo/templates/base.html:58
+msgid "Feed"
+msgstr "フィード"
+
+#: themes/xoxzo/templates/base.html:81
 msgid "Xoxzo Inc. All rights reserved."
 msgstr "Xoxzo Inc. All rights reserved."
 
-#: themes/xoxzo/templates/base.html:74
+#: themes/xoxzo/templates/base.html:82
 msgid "Powered by <a href=\"http://getpelican.com/\">Pelican</a>"
 msgstr "Powered by <a href=\"http://getpelican.com/\">Pelican</a>"
 
@@ -93,3 +96,4 @@ msgstr "タグ"
 #: themes/xoxzo/templates/translations.html:3
 msgid "Translate to"
 msgstr "他の言語へ"
+
