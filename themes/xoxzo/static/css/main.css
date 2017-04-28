@@ -63,8 +63,12 @@ a:hover {
     margin-left: 2rem;
 }
 
-.navbar-toggleable-xs {
+.navbar-toggleable-sm {
   width: 100%;
+}
+
+.navbar-dark .navbar-nav .nav-link:focus {
+    color: rgba(255,255,255,.5);
 }
 
 .with-sidebar {
@@ -212,7 +216,8 @@ article p:last-child {
 }
 
 .continue:hover {
-    color: #666;
+    color: #777;
+    text-decoration: underline;
 }
 
 .pagination {
@@ -267,6 +272,14 @@ footer a:hover {
 
 @media (max-width: 767px){
 
+    ul.navbar-nav {
+        width: 100%;
+    }
+
+    .navbar-nav .nav-item+.nav-item {
+        margin-left: 0;
+    }
+
     .with-sidebar {
         background: #f3f3f3;
     }
@@ -290,14 +303,6 @@ footer a:hover {
 }
 
 @media (max-width: 575px){
-
-    ul.navbar-nav {
-        width: 100%;
-    }
-
-    .navbar-nav .nav-item+.nav-item {
-        margin-left: 0;
-    }
 
     .with-sidebar .content {
         margin-top: 0px;
