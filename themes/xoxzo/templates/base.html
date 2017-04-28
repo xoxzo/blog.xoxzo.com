@@ -54,9 +54,11 @@
                     <li class="nav-item">
                         <a class="nav-link" href="https://twitter.com/xoxzotelephony" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> {% trans %}Twitter{% endtrans %}</a>
                     </li>
+                    {% if FEED_ALL_RSS %}
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" target="_blank"><i class="fa fa-rss-square" aria-hidden="true"></i> {% trans %}Feed{% endtrans %}</a>
+                        <a class="nav-link" href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" target="_blank"><i class="fa fa-rss-square" aria-hidden="true"></i> {% trans %}Blog Feed{% endtrans %}</a>
                     </li>
+                    {% endif %}
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-globe" aria-hidden="true"></i>
                             Language&nbsp;

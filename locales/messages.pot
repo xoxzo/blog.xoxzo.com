@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-28 16:25+0900\n"
+"POT-Creation-Date: 2017-04-28 16:40+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -46,7 +46,7 @@ msgid "Twitter"
 msgstr ""
 
 #: themes/xoxzo/templates/base.html:58
-msgid "Feed"
+msgid "Blog Feed"
 msgstr ""
 
 #: themes/xoxzo/templates/base.html:81
