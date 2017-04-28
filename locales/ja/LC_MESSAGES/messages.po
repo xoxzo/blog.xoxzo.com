@@ -40,7 +40,7 @@ msgstr "ブログ"
 
 #: themes/xoxzo/templates/base.html:52
 msgid "Who We Are"
-msgstr "ブログ提供者"
+msgstr "Xoxzoについて"
 
 #: themes/xoxzo/templates/base.html:55
 msgid "Twitter"
