@@ -16,9 +16,14 @@
     <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/pygment.css">
 
     {% if FEED_ALL_RSS %}
-    <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Full RSS Feed">
-    <link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Category RSS Feed">
-    <link href="{{ FEED_DOMAIN }}/{{ TRANSLATION_FEED_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Translation RSS Feed">
+    <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} - Full RSS Feed">
+    {% endif %}
+    {% if TRANSLATION_FEED_RSS %}
+    <link href="{{ FEED_DOMAIN }}/feeds/all-en.rss.xml" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} - English Article RSS Feed">
+    <link href="{{ FEED_DOMAIN }}/feeds/all-ja.rss.xml" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} - Japanese Article RSS Feed">
+    {% endif %}
+    {% if CATEGORY_FEED_RSS and category %}
+    <link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_RSS|format(category.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} - {{ category }} Category RSS Feed">
     {% endif %}
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
