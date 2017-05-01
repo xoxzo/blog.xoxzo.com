@@ -37,7 +37,7 @@ focused service to their own users.
 
 With the prevalent of personal computing and the internet and with it the
 number of engineers that can harness this technology, it is now much more
-easier to share data or services via API which can be utilzed using standard web
+easier to share data or services via API which can be utilized using standard web
 protocols and development tools. 
 
 The Growth of APIs
@@ -52,7 +52,7 @@ In "Tracking The Growth of the API Economy"[^Ref2] Art Anthony shows us that
 public API grew from nearly an insignificant amount in 2006 to 15,000 in 2016.
 
 Today [ProgrammableWeb](https://www.programmableweb.com/) lists over 17k of
-avaialable APIs.
+available APIs.
 
 Not only are there server side web APIs, there are also client side APIs like
 native plug-in browser extensions.
@@ -81,7 +81,7 @@ specific data overlaid on the maps.
 Entertainment
 --------------------------------------
 Netflix serves over 20 billion requests a month over it's API.[^Ref3] Netflix's
-API serves all the devices that's hooked to it's platformi consuming it's
+API serves all the devices that's hooked to it's platform consuming it's
 contents. From the engineering point of view, Netflix is a good study case to
 learn how they scale to cope with the increasing load and demands on their API.
 
