@@ -152,7 +152,7 @@ While in Japan...
 ======================================
 
 In Japan, ITR states that the amount of revenue for the API market 
-YoY for 2015 was 80%, and it predicts the between the year 2015 to 2020, the
+for 2015 was 80% more than 2014, and it predicts the between the year 2015 to 2020, the
 average growth for the API economy is 41%, with revenue gained in 2020 a
 whopping 5.6 times compared to 2015.[^Ref6]
 
