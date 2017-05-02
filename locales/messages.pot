@@ -1,0 +1,98 @@
+# Translations template for PROJECT.
+# Copyright (C) 2017 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2017-04-28 16:40+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: themes/xoxzo/templates/archives.html:5
+msgid "Archives"
+msgstr ""
+
+#: themes/xoxzo/templates/article.html:35
+msgid "By"
+msgstr ""
+
+#: themes/xoxzo/templates/author.html:5
+msgid "Articles by"
+msgstr ""
+
+#: themes/xoxzo/templates/authors.html:3 themes/xoxzo/templates/authors.html:7
+msgid "Authors"
+msgstr ""
+
+#: themes/xoxzo/templates/base.html:42
+msgid "BLOG"
+msgstr ""
+
+#: themes/xoxzo/templates/base.html:52
+msgid "Who We Are"
+msgstr ""
+
+#: themes/xoxzo/templates/base.html:55
+msgid "Twitter"
+msgstr ""
+
+#: themes/xoxzo/templates/base.html:58
+msgid "Blog Feed"
+msgstr ""
+
+#: themes/xoxzo/templates/base.html:81
+msgid "Xoxzo Inc. All rights reserved."
+msgstr ""
+
+#: themes/xoxzo/templates/base.html:82
+msgid "Powered by <a href=\"http://getpelican.com/\">Pelican</a>"
+msgstr ""
+
+#: themes/xoxzo/templates/categories.html:3
+#: themes/xoxzo/templates/categories.html:7
+msgid "Categories"
+msgstr ""
+
+#: themes/xoxzo/templates/category.html:5
+#, python-format
+msgid "Articles in the <b>%(category)s</b> category"
+msgstr ""
+
+#: themes/xoxzo/templates/index.html:22
+msgid "Continue reading"
+msgstr ""
+
+#: themes/xoxzo/templates/period_archives.html:4
+msgid "Archives for"
+msgstr ""
+
+#: themes/xoxzo/templates/sidebar.html:4
+msgid "CATEGORIES"
+msgstr ""
+
+#: themes/xoxzo/templates/sidebar.html:12
+msgid "TAGS"
+msgstr ""
+
+#: themes/xoxzo/templates/tag.html:5
+#, python-format
+msgid "Articles by the <b>%(tag)s</b> tag"
+msgstr ""
+
+#: themes/xoxzo/templates/tags.html:3 themes/xoxzo/templates/tags.html:7
+msgid "Tags"
+msgstr ""
+
+#: themes/xoxzo/templates/translations.html:3
+msgid "Translate to"
+msgstr ""
+

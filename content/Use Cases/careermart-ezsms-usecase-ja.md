@@ -3,6 +3,7 @@ Date: 2016-07-08 10:00
 Author: Aiko Yokoyama
 Tags: careermart, ezsms, use cases, pr, ショートメッセージ
 Slug: careermart-ezsms-usecase
+Lang: ja
 
 は株式会社キャリアマート様のコメントです。
 

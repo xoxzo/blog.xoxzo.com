@@ -3,6 +3,7 @@ Date: 2016-02-15 09:18
 Author: Aiko Yokoyama
 Tags: python
 Slug: a-python-basic-class-in-tokyo-feb-6-2016
+Lang: en
 
 [![logo](https://xoxzoblog.files.wordpress.com/2016/02/logo.png?w=150)](https://djangogirls.org/)
 

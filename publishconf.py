@@ -10,11 +10,13 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://blog.xoxzo.com'
+SITEURL = 'https://blog.xoxzo.com'
 RELATIVE_URLS = False
 
-FEED_ALL_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+FEED_DOMAIN = SITEURL
+FEED_ALL_RSS = 'feeds/all.rss.xml'
+CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
+TRANSLATION_FEED_RSS = 'feeds/all-%s.rss.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
 

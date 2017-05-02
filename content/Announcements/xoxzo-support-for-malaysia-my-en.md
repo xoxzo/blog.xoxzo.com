@@ -1,10 +1,10 @@
 Title: [Xoxzo] API now supports Malaysia (MY)
 Date: 2016-08-26 17:05
 Author: Aiko Yokoyama
-Category: New Release, Xoxzo
 Tags: malaysia, my, telephony, xoxzo
 Slug: xoxzo-support-for-malaysia-my
 Summary: Xoxzo API now supports Malaysia (MY)
+Lang: en
 
 ![Xoxzo Inc.]({filename}/images/xoxzo-logo-02.png)
 

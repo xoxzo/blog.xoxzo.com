@@ -3,6 +3,7 @@ Date: 2012-08-27 09:02
 Author: Kamal Mustafa
 Tags: django
 Slug: django-transactioncommit_manually-wrapper
+Lang: en
 
 I first [encountered this
 problem](http://metaKamal%20Mustafa.blogspot.com/2011/05/django-transactioncommitmanually-mask.html)

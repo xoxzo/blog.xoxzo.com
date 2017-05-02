@@ -10,7 +10,7 @@ blog using Markdown and Pelican.
 
     virtualenv -p python3.4 venv
     source venv/bin/activate
-    pip install pelican fabric markdown
+    pip install -r requirements.txt
     make build
 
 ### Creating the html
@@ -74,7 +74,7 @@ These metadata is required for all articles
 
 #### Translations
 
-If your article has translations, you *MUST* also include the **Lang:** metadata,
+It is mandatory to specify **Lang** metadata for each article,
 like this:
 
     Title: Participating KOF-Kansai Open Source Forum
@@ -86,6 +86,17 @@ like this:
     Author: Aiko Yokoyama
     Summary: We participated in the KOF 2016 and this is what we think
 
-If your article has no translations, **do not** include the Lang: metadata as
-that will mess up the URL links format.
+#### Theme Translations
+To translate string in templates, make the string translatable:
 
+    {% trans %}Who we are ?{% endtrans %}
+
+Then run:
+
+    make pot_translation
+
+This will create translation file in `locales/ja/LC_MESSAGES/messages.po`. Translate
+the string and then run:
+    
+    make compile_translation
+    make html

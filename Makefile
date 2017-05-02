@@ -66,7 +66,7 @@ build:
 	rm -rf $(PLUGINDIR)
 	git clone https://github.com/getpelican/pelican-plugins.git $(PLUGINDIR)
 
-html:
+html: compile_translation
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 clean:
@@ -101,7 +101,7 @@ stopserver:
 	$(BASEDIR)/develop_server.sh stop
 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
 
-publish:
+publish: compile_translation
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
 ssh_upload: publish
@@ -125,5 +125,20 @@ cf_upload: publish
 github: publish
 	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	git push origin $(GITHUB_PAGES_BRANCH)
+
+pot_translation:
+	pybabel extract --mapping babel.cfg --output locales/messages.pot ./
+
+init_ja_translation:
+	pybabel init --input-file locales/messages.pot --output-dir locales/ --locale ja --domain messages
+
+update_translation:
+	pybabel update --input-file locales/messages.pot --output-dir locales/ --domain messages
+
+compile_translation:
+	pybabel compile --directory locales/ --domain messages
+
+make netlify: compile_translation
+	make build && make publish
 
 .PHONY: html help clean regenerate serve serve-global devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github build

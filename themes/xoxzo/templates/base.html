@@ -12,14 +12,19 @@
     <link rel="icon" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/xoxzo_16x16_favicon.png">
 
     <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/bootstrap.min.css">
+    <link href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/main.css">
     <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/pygment.css">
 
-    {% if FEED_ALL_ATOM %}
-    <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Full Atom Feed" />
-    {% endif %}
     {% if FEED_ALL_RSS %}
-    <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Full RSS Feed" />
+    <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} - Full RSS Feed">
+    {% endif %}
+    {% if TRANSLATION_FEED_RSS %}
+    <link href="{{ FEED_DOMAIN }}/feeds/all-en.rss.xml" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} - English Article RSS Feed">
+    <link href="{{ FEED_DOMAIN }}/feeds/all-ja.rss.xml" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} - Japanese Article RSS Feed">
+    {% endif %}
+    {% if CATEGORY_FEED_RSS and category %}
+    <link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_RSS|format(category.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} - {{ category }} Category RSS Feed">
     {% endif %}
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -34,34 +39,49 @@
         <div class="container">
             <a class="navbar-brand" href="{{ SITEURL }}">
                 <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/xoxzo_navbar_logo_w_trans.png">
-                <span>BLOG</span>
+                <span>{% trans %}BLOG{% endtrans %}</span>
             </a>
-            <button class="navbar-toggler hidden-sm-up float-xs-right" type="button" data-toggle="collapse" data-target="#collapsingNav" aria-controls="collapsingNav" aria-expanded="false" aria-label="Toggle navigation"></button>
-            <div class="collapse navbar-toggleable-xs" id="collapsingNav">
-                <ul class="nav navbar-nav float-xs-left float-sm-right">
+            <button class="navbar-toggler hidden-md-up float-xs-right" type="button" data-toggle="collapse" data-target="#collapsingNav" aria-controls="collapsingNav" aria-expanded="false" aria-label="Toggle navigation"></button>
+            <div class="collapse navbar-toggleable-sm" id="collapsingNav">
+                <ul class="nav navbar-nav float-xs-left float-md-right">
                 <!--
                     <li class="nav-item"><a class="nav-link {% if page %}active{% endif %}"
                     href="{{ SITEURL }}/pages/we-are-xoxzo/">Who We Are</a></li>
                 -->
                     <li class="nav-item">
-                    <a class="nav-link" href="https://info.xoxzo.com/en/">Who We Are</a>
+                        <a class="nav-link" href="https://info.xoxzo.com/en/" target="_blank"><i class="fa fa-home" aria-hidden="true"></i> {% trans %}Who We Are{% endtrans %}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://twitter.com/xoxzotelephony">Twitter</a>
+                        <a class="nav-link" href="https://twitter.com/xoxzotelephony" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> {% trans %}Twitter{% endtrans %}</a>
+                    </li>
+                    {% if FEED_ALL_RSS %}
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" target="_blank"><i class="fa fa-rss-square" aria-hidden="true"></i> {% trans %}Blog Feed{% endtrans %}</a>
+                    </li>
+                    {% endif %}
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-globe" aria-hidden="true"></i>
+                            Language&nbsp;
+                            <span class="caret"></span>
+                        </a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="/en/">English</a>
+                            <a class="dropdown-item" href="/ja/">日本語</a>
+                        </div>
                     </li>
                 </ul>
             </div>
         </div>
     </nav>
 
-
+    
     {% block content %}
     {% endblock %}
 
     <footer>
         <div class="container text-center">
-            <p>© {{ CURRENTYEAR }} Xoxzo Inc. All rights reserved.</p>
-            <p>Powered by <a href="http://getpelican.com/">Pelican</a></p>
+            <p>© {{ CURRENTYEAR }} {% trans %}Xoxzo Inc. All rights reserved.{% endtrans %}</p>
+            <p>{% trans %}Powered by <a href="http://getpelican.com/">Pelican</a>{% endtrans %}</p>
         </div>
     </footer>
     <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/jquery.min.js"></script>
