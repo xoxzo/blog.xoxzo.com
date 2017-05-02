@@ -40,15 +40,15 @@ the username contains single quote, dash, or any other special characters. Try
 to think out of the box. What if someone attempts to login 1000 times with
 wrong password? What should our application do?
 
-Of course, within 2 hours is impossible to explain all the detail. The objective
+Of course, within 2 hours is impossible to explain all the details. The objective
 of this lecture is to build security awareness for students that is important
-to write a secure code and have enough test while building application. We do
+to write a secure code and have enough test while building the application. We do
 not want to build an application which leaks our customer personal information
-right? And when we build an application which includes financial transaction,
+right? And when we build an application which includes financial transactions,
 security is a must.
 
 As usual, I gave small present to students who were asking questions. There is
-one good question which I do not the answer yet. I shared my experience while
+one good question which I do not have an answer yet. I shared my experience while
 doing network forensic to investigate a SQL injection attack. Then this student
 asked me, is it possible for us to know in real time that we have a SQL
 injection vulnerability or our database might already have injected? A WAF
