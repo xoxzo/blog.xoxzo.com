@@ -24,4 +24,4 @@ Slug: patent-lawsuit-action
 アップデート
 
 本件訴訟は和解により2013-03-06日付で取り下げしましたので、
-[こちら]({filename}/PR/patent-lawsuit-action-resolved-ja.md)でお知らせいたします。
+[こちら]({filename}/Press Release/patent-lawsuit-action-resolved-ja.md)でお知らせいたします。
