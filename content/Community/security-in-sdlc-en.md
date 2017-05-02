@@ -58,3 +58,5 @@ our application, but I do not know for sure yet.
 At the end of session, I quickly asked students what programming language they
 use for developing application. Surprisingly PHP still popular! While only few
 students use Python.
+
+![the students]({filename}/images/security-in-sdlc-2017.jpg)
