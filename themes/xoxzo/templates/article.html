@@ -18,6 +18,8 @@
   <meta name="twitter:description" content="{{ article.summary|striptags }}">
 {% endblock %}
 
+{% block title %}{{ article.title }} | {% trans %}Xoxzo Official Blog{% endtrans %}{% endblock title %}
+
 {% block footer_attr %}class="non-sticky-footer"{% endblock %}
 
 {% block content %}
