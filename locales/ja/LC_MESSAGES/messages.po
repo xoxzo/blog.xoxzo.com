@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-28 16:40+0900\n"
+"POT-Creation-Date: 2017-05-03 23:50+0900\n"
 "PO-Revision-Date: 2017-04-24 13:22+0900\n"
 "Last-Translator: \n"
 "Language: ja\n"
@@ -22,7 +22,11 @@ msgstr ""
 msgid "Archives"
 msgstr "アーカイブ"
 
-#: themes/xoxzo/templates/article.html:35
+#: themes/xoxzo/templates/article.html:21
+msgid "Xoxzo Official Blog"
+msgstr "Xoxzoの公式ブログ"
+
+#: themes/xoxzo/templates/article.html:37
 msgid "By"
 msgstr "投稿者:"
 
@@ -46,15 +50,15 @@ msgstr "Xoxzoについて"
 msgid "Twitter"
 msgstr "ツイッター"
 
-#: themes/xoxzo/templates/base.html:58
+#: themes/xoxzo/templates/base.html:59
 msgid "Blog Feed"
 msgstr "ブログフィード"
 
-#: themes/xoxzo/templates/base.html:81
+#: themes/xoxzo/templates/base.html:83
 msgid "Xoxzo Inc. All rights reserved."
 msgstr "Xoxzo Inc. All rights reserved."
 
-#: themes/xoxzo/templates/base.html:82
+#: themes/xoxzo/templates/base.html:84
 msgid "Powered by <a href=\"http://getpelican.com/\">Pelican</a>"
 msgstr "Powered by <a href=\"http://getpelican.com/\">Pelican</a>"
 
