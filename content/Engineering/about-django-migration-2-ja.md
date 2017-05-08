@@ -15,8 +15,8 @@ $ python manage migrate
 ```
 を実行します。このコマンドを実行すると次の２つの動作が行われます。
 
-1. mingrationに対応したsqlが、データベースに対して実行される。[^注1]
-2. mingrationを実行したという旨の記録が`django_migrations`というテーブルに記録される。
+1. migrationに対応したsqlが、データベースに対して実行される。[^注1]
+2. migrationを実行したという旨の記録が`django_migrations`というテーブルに記録される。
 
 実行履歴がテーブルに記録されていますので、何度`python manage migrate`を実行しても、
 一つのmigrationがデータベースに適用されるのは一回限りで、何回も実行されることはありません。
@@ -25,10 +25,10 @@ $ python manage migrate
 
 ![テーブルサンプル]({filename}/images/dinajgo_migrations.png)
 
-実際にmaigrationを作り、`migrate`の実行前後でこのテーブルの中にどのようにレコードが書き込まれるか、
+実際にmigrationを作り、`migrate`の実行前後でこのテーブルの中にどのようにレコードが書き込まれるか、
 観察してみると動作の理解が深まるでしょう。
 
-また未適用のmigrarionがある状態で`python manage.py runserver`を実行すると
+また未適用のmigrationがある状態で`python manage.py runserver`を実行すると
 ```
 $ python manage.py runserver
 Performing system checks...
