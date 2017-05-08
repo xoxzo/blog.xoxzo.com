@@ -3,13 +3,11 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700');
 
 /*
-
 Main font : #3a3a3a;
-Sub font : #6d6d6d;
+Sub font : #505050;
 Inverse font : #d2d2d2;
 Main blue : #3f7cfc;
 Background gray : #f3f3f3;
-
 */
 
 .text-center {
@@ -23,7 +21,7 @@ html {
 
 body {
     margin-bottom: 172px;
-    color: #6d6d6d;
+    color: #505050;
     font-family: 'Open Sans', 'Helvetica Neue, Helvetica, Arial', sans-serif;
     background-color: #f3f3f3;
 }
@@ -63,8 +61,12 @@ a:hover {
     margin-left: 2rem;
 }
 
-.navbar-toggleable-xs {
+.navbar-toggleable-sm {
   width: 100%;
+}
+
+.navbar-dark .navbar-nav .nav-link:focus {
+    color: rgba(255,255,255,.5);
 }
 
 .with-sidebar {
@@ -111,18 +113,18 @@ main section {
 }
 
 .sidebar ul li a {
-    color: #6d6d6d;
+    color: #505050;
 }
 
 .sidebar ul li a:hover {
-    color: #222;
+    color: #151515;
 }
 
 .sidebar h3 {
     color: #4e4e4e;
     font-size: 1rem;
     font-weight: bold;
-    border-bottom: 1px solid #6d6d6d;
+    border-bottom: 1px solid #505050;
     padding-bottom: 10px;
 }
 
@@ -212,7 +214,8 @@ article p:last-child {
 }
 
 .continue:hover {
-    color: #666;
+    color: #777;
+    text-decoration: underline;
 }
 
 .pagination {
@@ -267,6 +270,14 @@ footer a:hover {
 
 @media (max-width: 767px){
 
+    ul.navbar-nav {
+        width: 100%;
+    }
+
+    .navbar-nav .nav-item+.nav-item {
+        margin-left: 0;
+    }
+
     .with-sidebar {
         background: #f3f3f3;
     }
@@ -290,14 +301,6 @@ footer a:hover {
 }
 
 @media (max-width: 575px){
-
-    ul.navbar-nav {
-        width: 100%;
-    }
-
-    .navbar-nav .nav-item+.nav-item {
-        margin-left: 0;
-    }
 
     .with-sidebar .content {
         margin-top: 0px;
