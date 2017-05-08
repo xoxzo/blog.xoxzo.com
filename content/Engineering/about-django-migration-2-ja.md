@@ -2,7 +2,7 @@ Title: djangoのmigrationについて(2)
 Date: 2017/05/08 14:00
 Author: Akira Nonaka
 Tags: django; python; migration
-Slug: aboud-django-migration-2
+Slug: about-django-migration-2
 Lang: ja
 Summary: manage migrate を実行するとなにがおきるか
 

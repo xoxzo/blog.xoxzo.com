@@ -2,7 +2,7 @@ Title: djangoのmigrationについて
 Date: 2017/04/26 14:00
 Author: Akira Nonaka
 Tags: django; python; migration
-Slug: aboud-django-migration-1
+Slug: about-django-migration-1
 Lang: ja
 Summary: mini pycon熊本でdjangoのmigrationの話をしてきました。
 
