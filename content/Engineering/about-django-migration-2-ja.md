@@ -6,8 +6,7 @@ Slug: aboud-django-migration-2
 Lang: ja
 Summary: manage migrate を実行するとなにがおきるか
 
-`makemigrations`を実行しても、migrationファイルが作成されるだけで、データベース自体には
-なにも変化が発生しないことは、前回のBlogに書きました。
+`makemigrations`を実行しても、migrationファイルが作成されるだけで、データベース自体にはなにも変化が発生しないことは、前回のBlogに書きました。
 
 実際に変更をデータベースのスキーマに反映するには
 ```
@@ -19,8 +18,8 @@ $ python manage migrate
 1. mingrationに対応したsqlが、データベースに対して実行される。[^注1]
 2. mingrationを実行したという旨の記録が`django_migrations`というテーブルに記録される。
 
-実行履歴がテーブルに記録されていますので、何度`python manage migrate`を実行しても、一つのmigrationがデータベースに
-適用されるのは一回限りで、何回も実行されることはありません。
+実行履歴がテーブルに記録されていますので、何度`python manage migrate`を実行しても、
+一つのmigrationがデータベースに適用されるのは一回限りで、何回も実行されることはありません。
 
 テーブル`django_migrations`の内容はこのようになっており、アプリケーション名、migration名、適用日時などが記録されています。
 
@@ -41,6 +40,6 @@ Run 'python manage.py migrate' to apply them.
 といったように「まだ未適用のmigrationがあるので正しく動作しない可能性があります」といった警告が表示されます。
 
 Webアプリケーション開発中のデータベース改版履歴管理には、みなさん苦労されていることと思います。
-djnagoフレームワークの中で、migrationの機能は大変強力ですので、是非チェックすることをお勧めします。
+djangoフレームワークの中で、migrationの機能は大変強力ですので、是非チェックすることをお勧めします。
 
 [^注1]:実行されるsqlを確認したい時は`$ ./manage.py sqlmigrate`を使うことができます。
