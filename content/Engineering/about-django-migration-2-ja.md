@@ -11,18 +11,34 @@ make migrationsを実行しても、migrationファイルが作成されるだ�
 
 実際にデータベースのスキーマに変更を反映するには
 ```
-python manage migrate
+$ python manage migrate
 
 ```
 を実行します。このコマンドを実行すると次の２つの動作が実行されます。
 
 1. mingrationに対応したsqlが、データベースに対して実行される。
-2. mingrationを実行したという旨の記録がdjangoのテーブルに記録される。
+2. mingrationを実行したという旨の記録が`django_migrations`というテーブルに記録される。
 
-実行記録がテーブルに記録されていますので、何度`python manage migrate`を実行しても、一つのmigrationがデータベースに
+実行履歴がテーブルに記録されていますので、何度`python manage migrate`を実行しても、一つのmigrationがデータベースに
 適用されるのは一回限りで、何回も実行されることはありません。
 
+テーブル`django_migrations`の内容はこのようになっており、アプリケーション名、migration名、適用日時などが記録されています。
 
+![テーブルサンプル]({filename}/images/dinajgo_migrations.png)
 
+実際にmaigrationを作り、`migrate`の実行前後でこのテーブルの中にどのようにレコードが書き込まれるか、
+観察してみると動作の理解が深まるでしょう。
 
+また未適用のmigrarionがある状態で`python manage.py runserver`を実行すると
+```
+$ python manage.py runserver
+Performing system checks...
+System check identified no issues (0 silenced).
 
+You have unapplied migrations; your app may not work properly until they are applied.
+Run 'python manage.py migrate' to apply them.
+```
+といったように「まだ未適用のmigrationがあるので正しく動作しない可能性があります」といった警告が表示されます。
+
+Webアプリケーション開発中のデータベース改版履歴管理には、みなさん苦労されていることと思います。
+djnagoフレームワークの中で、migratioの機能は大変強力ですので、是非チェックすることをお勧めします。
