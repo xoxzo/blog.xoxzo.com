@@ -6,7 +6,8 @@ Slug: aboud-django-migration-2
 Lang: ja
 Summary: manage migrate を実行するとなにがおきるか
 
-`makemigrations`を実行しても、migrationファイルが作成されるだけで、データベース自体にはなにも変化が発生しないことは、前回のBlogに書きました。
+
+`makemigrations`を実行しても、migrationファイルが作成されるだけで、データベース自体にはなにも変化が発生しないことは、[前回のBlog]({filename}/Engineering/about-django-migration-1-ja.md)に書きました。
 
 実際に変更をデータベースのスキーマに反映するには
 ```
