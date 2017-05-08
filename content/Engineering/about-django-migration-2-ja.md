@@ -42,4 +42,4 @@ Run 'python manage.py migrate' to apply them.
 Webアプリケーション開発中のデータベース改版履歴管理には、みなさん苦労されていることと思います。
 djangoフレームワークの中で、migrationの機能は大変強力ですので、是非チェックすることをお勧めします。
 
-[^注1]:実行されるsqlを確認したい時は`$ ./manage.py sqlmigrate`を使うことができます。
+[^注1]:実行されるsqlを確認したい時は`$python manage.py sqlmigrate`を使うことができます。
