@@ -6,8 +6,8 @@ Tags: Python;勉強会
 Author: Akira Nonaka
 Summary: 「みんなのPython勉強会#24」の参加報告です
 
-5/11(水)のよる、半蔵門の株式会社クリーク・アンド・リバー社で開催された、
-[「みんなのPython勉強会#24」](https://startpython.connpass.com/event/54201/)で発表してきました。
+5/11(水)のよる、半蔵門にある株式会社クリーク・アンド・リバー社で開催された、
+[「みんなのPython勉強会#24」](https://startpython.connpass.com/event/54201/)で発表をしてきました。
 
 テーマは「初心者のためのPythonによるWebAPI活用方入門」です。WebAPIとは何なのか？何ができるのか？
 Pythonを使ってWebAPIを呼び出すにはどのようにすればいいのか？
@@ -17,7 +17,7 @@ Pythonを使ってWebAPIを呼び出すにはどのようにすればいいの�
 
 ![会場風景1]({filename}/images/stapy-20170510/stapy-20170510-1.jpg)
 
-終了後のライトニングトークで、実際にXOXZOのAPIを使ってみたデモが発表されたのには驚きました！
+終了後のライトニングトークで、実際にXOXZOのAPIを使ってみたデモが発表されたのには驚きました！感激です！
 
 発表資料
 
