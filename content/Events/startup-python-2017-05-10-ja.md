@@ -2,7 +2,7 @@ Title: 「みんなのPython勉強会#24」参加報告
 Date: 2017-05-11 14:00 
 Slug: startup-python-20170510
 Lang: ja
-Tags: Python;勉強会
+Tags: Python;勉強会;みんなのPython;東京
 Author: Akira Nonaka
 Summary: 「みんなのPython勉強会#24」の参加報告です
 

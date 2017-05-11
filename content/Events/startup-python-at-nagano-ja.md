@@ -3,7 +3,7 @@ Date: 2017-03-22 11:00
 Slug: startup-python-at-nagano
 Lang: ja
 Modified: 2017-03-22 11:00
-Tags: Python;長野;勉強会
+Tags: Python;長野;勉強会;みんなのPython
 Author: Akira Nonaka
 Summary: 「みんなのPython勉強会 in 長野 #1」参加報告
 
