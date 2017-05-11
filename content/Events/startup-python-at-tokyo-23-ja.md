@@ -2,7 +2,7 @@ Title: 「みんなのPython勉強会 #23」参加報告
 Date: 2017-04-13 16:00 
 Slug: startup-python-at-tokyo-23
 Lang: ja
-Tags: python;東京;勉強会;みんなのPython勉強会;pycon apac 2017
+Tags: python;東京;勉強会;みんなのPython;pycon apac 2017
 Author: Akira Nonaka
 Summary: 「みんなのPython勉強会 #23」参加報告
 
