@@ -6,7 +6,7 @@ Tags: Python;勉強会
 Author: Akira Nonaka
 Summary: 「みんなのPython勉強会#24」の参加報告です
 
-5/11(水)のよる、半蔵門にある株式会社クリーク・アンド・リバー社で開催された、
+5/10(水)のよる、半蔵門にある株式会社クリーク・アンド・リバー社で開催された、
 [「みんなのPython勉強会#24」](https://startpython.connpass.com/event/54201/)で発表をしてきました。
 
 テーマは「初心者のためのPythonによるWebAPI活用方入門」です。WebAPIとは何なのか？何ができるのか？
