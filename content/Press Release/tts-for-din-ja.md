@@ -1,9 +1,9 @@
 Title: 【Xoxzo】テキスト読み上げ機能（TTS）が ダイアルインナンバー（DIN）でもご利用頂けます 
 Date: 2017-05-24 12:00
-Slug: TTSforDIN
+Slug: text-to-speech-for-din
 Lang: ja
 Modified: 2017-05-24 12:00
-Tags: PR; 2017; TTS; API: dial in numbers; new release;
+Tags: PR; 2017; TTS; API; dial in numbers; new release; text-to-speech; テキスト読み上げ機能
 Author: Aiko Yokoyama
 Summary: テキスト読み上げ機能（TTS）が着信電話(DIN)にも加わりました。これにより、DINにて取得された電話番号への着信に対し、音声ファイルを準備することなく、音声通知したい内容をお好みに合わせて準備できるようになりました。
 
