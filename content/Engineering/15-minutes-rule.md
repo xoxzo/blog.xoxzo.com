@@ -1,4 +1,4 @@
-Title: リモートワークの生産性を上げる
+Title: リモートワークの生産性を上げよう！
 Date: 2017/06/06
 Author: Akira Nonaka
 Tags: リモートワーク,１５分ルール
