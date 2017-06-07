@@ -4,7 +4,7 @@ Slug: fifteen-minutes-rule
 Lang: en
 Tags: RemoteWork; 15 min rule 
 Author: Akira Nonaka
-Summary: Here is one of the golden rule we follow at Xoxzo to keep up a good productivity within a remotely working team
+Summary: Here is one of the golden rules we follow at Xoxzo to keep up good productivity within a team that works remotely
 
 Xoxzo has no physical office and every one of us has own residence here and there
 in Asian and Russian region working together remotely.
