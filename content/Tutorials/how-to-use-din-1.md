@@ -44,11 +44,25 @@ APIを使って構築することができます。
 
 ## 空き番号を検索する
 
+DINで利用可能な電話番号はXOXZOクラウドシステムがプールしていて、ユーザーはこの中から自分の好きな電話番号を
+選ぶことができます。利用可能な電話番号の一覧を得るには次のAPIを使います。
 
-
+[DIN検索API](http://docs.xoxzo.com/ja/din.html#finding-a-dial-in-number-via-api)
 
 ## 着信用電話番号を契約する
 
+使いたい電話番号が決まったら、その番号を契約します。
+契約にするには
+
+[DIN契約API](http://docs.xoxzo.com/ja/din.html#subscribing-to-a-dial-in-number-via-api)
+
+を使います。URLには検索APIで取得した `din_uid` を指定しましょう。
+
+契約が成功したら
+
+[DIN契約確認API](http://docs.xoxzo.com/ja/din.html#getting-the-list-of-subscribed-dial-in-numbers-via-api)
+
+を使って、正しく契約されているかを確認しましょう。
 
 ## アクションサーバーをつくる
 
