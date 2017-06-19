@@ -64,6 +64,11 @@ $ /usr/bin/python3
     '/usr/lib/python3/dist-packages', '/usr/lib/python3.4/dist-packages']
 ```
 
+sys.pathは変更可能です。たとえばいかのようにして、Pythonスクリプトの中から、
+任意のディレクトリを、importのサーチパスに追加することができます。
 
+```
+sys.path[0:0]=['/my/python/dir']
+```
 
 [参考URL](https://docs.python.org/3/library/sys.html?highlight=sys.path#sys.path)
