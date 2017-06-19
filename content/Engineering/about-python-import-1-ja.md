@@ -16,14 +16,17 @@ ModuleNotFoundError: No module named 'foo'
 ```
 この問題の解決の第一歩は、Pythonインタプリタが
 Pythonインタプリタがインポートするモジュールやパッケージを探す場所は `sys.path` という変数に
-リストとして格納されています。
+格納されているということを理解することです。
+形式はリストです。
 
 例えば、手元の `Ubuntu 14.04` では
 ```
 $ /usr/bin/python3
 >>> import sys
 >>> print(sys.path)
-['', '/usr/lib/python3.4', '/usr/lib/python3.4/plat-x86_64-linux-gnu', '/usr/lib/python3.4/lib-dynload', '/usr/local/lib/python3.4/dist-packages', '/usr/lib/python3/dist-packages', '/usr/lib/python3.4/dist-packages']
+['', '/usr/lib/python3.4', '/usr/lib/python3.4/plat-x86_64-linux-gnu', 
+    '/usr/lib/python3.4/lib-dynload', '/usr/local/lib/python3.4/dist-packages',
+     '/usr/lib/python3/dist-packages', '/usr/lib/python3.4/dist-packages']
 >>> print(len(sys.path))
 7
 ```
@@ -35,7 +38,8 @@ Pythonインタプリタ起動時に、`-S`というオプションを付ける�
 $ /usr/bin/python3 -S
 >>> import sys
 >>> print(sys.path)
-['', '/usr/lib/python3.4/', '/usr/lib/python3.4/plat-x86_64-linux-gnu', '/usr/lib/python3.4/lib-dynload']
+['', '/usr/lib/python3.4/', '/usr/lib/python3.4/plat-x86_64-linux-gnu', 
+    '/usr/lib/python3.4/lib-dynload']
 >>> print(len(sys.path))
 4
 >>> import site
@@ -43,3 +47,23 @@ $ /usr/bin/python3 -S
 7
 ```
 
+sys.path[0]、つまりこのリストの先頭にはPython インタプリタを起動するときき与えられたPythonスクリプト
+のディレクトリが入ります。
+Pythonインタプリタが対話的に起動された場合、sys.path[0]は空です。これはカレントディレクトリを意味します。
+
+環境変数 `PYTHONPATH` の値は、起動時に sys.path に挿入されます。
+ただし、挿入される場所は sys.path[0] の直後である点に注意しましょう。
+
+```
+$ export PYTHONPATH="/foo/bar/baz"
+$ /usr/bin/python3
+>> import sys
+>>> print(sys.path)
+['', '/foo/bar/baz', '/usr/lib/python3.4', '/usr/lib/python3.4/plat-x86_64-linux-gnu', 
+    '/usr/lib/python3.4/lib-dynload', '/usr/local/lib/python3.4/dist-packages', 
+    '/usr/lib/python3/dist-packages', '/usr/lib/python3.4/dist-packages']
+```
+
+
+
+[参考URL](https://docs.python.org/3/library/sys.html?highlight=sys.path#sys.path)
