@@ -69,6 +69,8 @@ sys.pathは変更可能です。たとえばいかのようにして、Pythonス
 
 ```
 sys.path[0:0]=['/my/python/dir']
+ print(sys.path)
+['/my/python/dir', '', '/foo/bar/baz', '/usr/lib/python3.4', ...
 ```
 
 [参考URL](https://docs.python.org/3/library/sys.html?highlight=sys.path#sys.path)
