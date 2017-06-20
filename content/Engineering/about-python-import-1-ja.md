@@ -1,7 +1,7 @@
 Title: Pythonのimportについて
 Date: 2017/06/19 14:00
 Author: Akira Nonaka
-Tags: python; import; sys.path
+Tags: python; import; sys.path;
 Slug: about-python-import
 Lang: ja
 Summary: Pythonのimportのサーチパスに関する話題
