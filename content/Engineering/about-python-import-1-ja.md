@@ -4,9 +4,9 @@ Author: Akira Nonaka
 Tags: python; import
 Slug: about-python-import
 Lang: ja
-Summary: Pythonでimportを行ったとき、ModuleNotFoundErrorに出会ったときの調べ方について
+Summary: Pythonのimportのサーチパスに関する話題
 
-Pythonプログラマがしばしば遭遇する問題に、import したときにモジュールやパッケージが見つからないというものがあります。
+Pythonプログラマがしばしば遭遇する問題に、`import` したいモジュールやパッケージが見つからないというものがあります。
 
 ```
 >>> import foo
@@ -17,9 +17,9 @@ ModuleNotFoundError: No module named 'foo'
 この問題の解決の第一歩は、Pythonインタプリタが
 Pythonインタプリタがインポートするモジュールやパッケージを探す場所は `sys.path` という変数に
 格納されているということを理解することです。
-形式はリストです。
+この変数の形式はリストです。
 
-例えば、手元の `Ubuntu 14.04` では
+例えば、私の手元にある `Ubuntu 14.04` では
 ```
 $ /usr/bin/python3
 >>> import sys
@@ -47,8 +47,8 @@ $ /usr/bin/python3 -S
 7
 ```
 
-sys.path[0]、つまりこのリストの先頭にはPython インタプリタを起動するときき与えられたPythonスクリプト
-のディレクトリが入ります。
+sys.path[0]、つまりこのリストの先頭にはPythonインタプリタを起動するときに与えられたPythonスクリプト
+のディレクトリが入ります。つまり起動したスクリプトのあるディレクトリは、`import`の検索対象になります。
 Pythonインタプリタが対話的に起動された場合、sys.path[0]は空です。これはカレントディレクトリを意味します。
 
 環境変数 `PYTHONPATH` の値は、起動時に sys.path に挿入されます。
@@ -64,7 +64,7 @@ $ /usr/bin/python3
     '/usr/lib/python3/dist-packages', '/usr/lib/python3.4/dist-packages']
 ```
 
-sys.pathは変更可能です。たとえばいかのようにして、Pythonスクリプトの中から、
+sys.pathは変更可能です。たとえば以下のようにして、Pythonスクリプトの中から、
 任意のディレクトリを、importのサーチパスに追加することができます。
 
 ```
