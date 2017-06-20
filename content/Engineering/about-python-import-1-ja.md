@@ -53,7 +53,7 @@ Pythonインタプリタが対話的に起動された場合、`sys.path[0]`は�
 ```
 $ export PYTHONPATH="/foo/bar/baz"
 $ /usr/bin/python3
->> import sys
+>>> import sys
 >>> print(sys.path)
 ['', '/foo/bar/baz', '/usr/lib/python3.4', '/usr/lib/python3.4/plat-x86_64-linux-gnu', 
     '/usr/lib/python3.4/lib-dynload', '/usr/local/lib/python3.4/dist-packages', 
