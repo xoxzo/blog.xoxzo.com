@@ -63,8 +63,8 @@ $ /usr/bin/python3
 `sys.path` は変更可能です。たとえば以下のようにして、Pythonスクリプトの中から、任意のディレクトリを、`import` のサーチパスに追加することができます。
 
 ```
-sys.path[0:0]=['/my/python/dir']
- print(sys.path)
+>>> sys.path[0:0]=['/my/python/dir']
+>>> print(sys.path)
 ['/my/python/dir', '', '/foo/bar/baz', '/usr/lib/python3.4', ...
 ```
 
