@@ -14,9 +14,7 @@ Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
 ModuleNotFoundError: No module named 'foo'
 ```
-この問題の解決の第一歩は、Pythonインタプリタが
-Pythonインタプリタがインポートするモジュールやパッケージを探す場所は `sys.path` という変数に
-格納されているということを理解することです。
+この問題の解決の第一歩は、Pythonインタプリタがインポートするモジュールやパッケージを探す場所は `sys.path` という変数に格納されているということを理解することです。
 この変数の形式はリストです。
 
 例えば、私の手元にある `Ubuntu 14.04` では
@@ -47,12 +45,10 @@ $ /usr/bin/python3 -S
 7
 ```
 
-sys.path[0]、つまりこのリストの先頭にはPythonインタプリタを起動するときに与えられたPythonスクリプト
-のディレクトリが入ります。つまり起動したスクリプトのあるディレクトリは、`import`の検索対象になります。
-Pythonインタプリタが対話的に起動された場合、sys.path[0]は空です。これはカレントディレクトリを意味します。
+`sys.path[0]`、つまりこのリストの先頭にはPythonインタプリタを起動するときに与えられたPythonスクリプトのディレクトリが入ります。したがって起動したスクリプトのあるディレクトリは、`import`の検索対象になります。
+Pythonインタプリタが対話的に起動された場合、`sys.path[0]`は空になります。これはカレントディレクトリを意味します。
 
-環境変数 `PYTHONPATH` の値は、起動時に sys.path に挿入されます。
-ただし、挿入される場所は sys.path[0] の直後である点に注意しましょう。
+環境変数 `PYTHONPATH` の値は、起動時に `sys.path` に挿入されます。ただし、挿入される場所は `sys.path[0]` の直後である点に注意しましょう。
 
 ```
 $ export PYTHONPATH="/foo/bar/baz"
@@ -64,8 +60,7 @@ $ /usr/bin/python3
     '/usr/lib/python3/dist-packages', '/usr/lib/python3.4/dist-packages']
 ```
 
-sys.pathは変更可能です。たとえば以下のようにして、Pythonスクリプトの中から、
-任意のディレクトリを、importのサーチパスに追加することができます。
+`sys.path` は変更可能です。たとえば以下のようにして、Pythonスクリプトの中から、任意のディレクトリを、`import` のサーチパスに追加することができます。
 
 ```
 sys.path[0:0]=['/my/python/dir']
