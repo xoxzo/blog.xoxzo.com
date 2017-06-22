@@ -91,9 +91,7 @@ DINを使うユーザは、XOXZOクラウドからのHTTPリクエストに応�
 アクションサーバーのURLをXOXZOクラウドに教えてあげる必要があります。
 このURLの設定には以下のAPIを使います。
 
-# TODO: この部分API Docの改善が必要
-[アクションURL設定API](http://docs.xoxzo.com/ja/din.html#subscribing-to-a-dial-in-number-via-api)
-
+[アクションURL設定API](http://docs.xoxzo.com/ja/din.html#attach-an-action-to-the-dial-in-number-via-api)
 ## 電話番号を解約する
 
 DINの解約をするには次のAPIを使います。
