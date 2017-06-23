@@ -80,6 +80,9 @@ DINで利用可能な電話番号はXOXZOクラウドシステムがプールし
 応答のアクションは１行のプレーンテキストで返します。
 アクションの詳細については[ここを参照してください](http://docs.xoxzo.com/ja/din.html#available-actions)
 
+[ここ](https://github.com/xoxzo/din-action-server-demo)には Djangoフレームワークを使って作成した
+アクションサーバーのサンプルが置いてありあます。
+
 ## アクションURLを設定する
 
 アクションサーバーの設置が完了したならばら、そのサーバーをXOXZOクラウドシステムが呼び出せるように、
