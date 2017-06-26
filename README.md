@@ -86,6 +86,14 @@ like this:
     Author: Aiko Yokoyama
     Summary: We participated in the KOF 2016 and this is what we think
 
+#### Thumbnail Image
+
+To show particular thumbnail image when the article is shared, fill **Thumbnail** metadata with the image url, like this:
+
+    Thumbnail: https://blog.xoxzo.com/theme/images/xoxzo_opengraph.jpg
+
+Otherwise, the default image will appear.
+
 #### Theme Translations
 To translate string in templates, make the string translatable:
 
