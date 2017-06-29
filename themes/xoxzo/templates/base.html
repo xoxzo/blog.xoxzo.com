@@ -116,9 +116,9 @@
       _dcs.account = '3014440';
 
       {% if DEFAULT_LANG == "en" %}
-      _dcq.push(["hideForm", { id: "96268574" }]);  // lang is en: hide ja form
+      _dcq.push(["hideForm", { id: "96268574", showTab: false }]);  // lang is en: hide ja form
       {% else %}
-      _dcq.push(["hideForm", { id: "77293033" }]);  // lang is ja: hide en form
+      _dcq.push(["hideForm", { id: "77293033", showTab: false }]);  // lang is ja: hide en form
       {% endif %}
 
     (function() {
