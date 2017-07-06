@@ -1,7 +1,7 @@
 Title: スライス記法を理解するために
 Date: 2017/07/03
 Author: Akira Nonaka
-Tags: python; slice; list;
+Tags: python; slice; list; learning python series;
 Slug: about-python-slice
 Lang: ja
 Summary:
