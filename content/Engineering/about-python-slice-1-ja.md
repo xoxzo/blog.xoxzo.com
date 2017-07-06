@@ -4,7 +4,7 @@ Author: Akira Nonaka
 Tags: python; slice; list; learning python series;
 Slug: about-python-slice
 Lang: ja
-Summary:
+Summary:　Pythonのスライス記法を理解するにはPythonチュートリアルが良い参考になります。
  
 Pythonのリストには、スライス記法という要素の指定方法があります。
 
