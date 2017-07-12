@@ -23,99 +23,100 @@ The rough flow until use is as follows.
 1. Create an action server
 1. Set the action server URL
 
-### アクションサーバーと電話着信時の動作
+### Behavior when receiving an incoming call from the action server
  
-契約した電話番号に着信があったとき、XOXZOクラウドシステムはAPIで指定されたWebサーバ（以降、アクションサーバと呼びます）のアクションURLに対して、HTTPリクエストを発行します。
-DINを使うユーザは、XOXZOクラウドからのHTTPリクエストに応答する、アクションサーバを設置しなければいけません。
+When an incoming call arrives at the contracted phone number, the XOXZO cloud system issues an HTTP request to the action URL of the web server (hereinafter referred to as action server) specified by the API.
+Users using DIN must install an action server to respond to HTTP requests from the XOXZO cloud.
 
-![着信時の動作の図]({filename}/images/Tutorial/din-get-call-ja.jpeg)
+! [Diagram of incoming call operation] ({filename} /images/Tutorial/din-get-call-ja.jpeg)
 
-アクションは、着信した電話をどのように処理するかをXOXZOクラウドシステムに対して指示するもので、次の３つの種類があります。
+The action instructs the XOXZO cloud system how to handle the incoming phone, and there are the following three types.
 
-<dl>
-    <dt>playback
-    <dd>指定されたMP3ファイルを再生
-    <dt>transfer
-    <dd>指定された電話番号へ転送する
-    <dt>say
-    <dd>指定されたテキストを読み上げる
-</dl>
+<Dl>
+     <Dt> playback
+     <Dd> Play specified MP3 file
+     <Dt> transfer
+     <Dd> Transfer to the specified phone number
+     <Dt> say
+     <Dd> Read out the specified text
+</ Dl>
 
-それでは、以下順を追って、DINシステムをどのように構築していくか、解説します。
+So let's explain how to build the DIN system in order.
 
-## 空き電話番号を検索する
+## Search for a free phone number
 
-DINで利用可能な電話番号はXOXZOクラウドシステムがプールしていて、ユーザーはこの中から自分の好きな電話番号を
-選ぶことができます。利用可能な電話番号の一覧を得るには次のAPIを使います。
 
-[DIN検索API](http://docs.xoxzo.com/ja/din.html#finding-a-dial-in-number-via-api)
+The phone number available at DIN is XOXZO cloud system pooled and users can select their favorite phone number from this
+You can choose. To obtain a list of available phone numbers, use the following API.
 
-このAPIでは、電話番号に１対１で対応する`din_uid`(DINに対応する、ユニークな識別子）が返されます。
-以下に列挙するAPIでは、この `din_uid` が重要なパラメータとして使われますので、しっかり覚えておきましょう。
+[DIN Search API] (http://docs.xoxzo.com/en/din.html#finding-a-dial-in-number-via-api)
 
-## 着信用電話番号を契約する
+In this API, `din_uid` (one unique identifier corresponding to DIN) corresponding to the telephone number one to one is returned.
+In the API listed below, this `din_uid` is used as an important parameter, so let's keep it in mind.
 
-使いたい電話番号が決まったら、その番号を契約します。
-契約にするには
+## Contract the incoming phone number
 
-[DIN契約API](http://docs.xoxzo.com/ja/din.html#subscribing-to-a-dial-in-number-via-api)
+When you decide the phone number you want to use, I will sign that number.
+To make a contract
 
-を使います。URLには検索APIで取得した `din_uid` を指定しましょう。
+[DIN Contract API] (http://docs.xoxzo.com/en/din.html#subscribing-to-a-dial-in-number-via-api)
 
-契約が成功したら
+Use. Let's specify `din_uid` obtained by search API in the URL.
 
-[DIN契約確認API](http://docs.xoxzo.com/ja/din.html#getting-the-list-of-subscribed-dial-in-numbers-via-api)
+If the contract is successful
 
-を使って、正しく契約されているかを確認しましょう。
+[DIN Contract Confirmation API] (http://docs.xoxzo.com/en/din.html#getting-the-list-of-subscribed-dial-in-numbers-via-api)
 
-## アクションサーバーをつくる
+Let's check if you are contracting properly.
 
-電話着信時にアクションサーバへ発行されるHTTPリクエストのメソッドは`GET`で２つのパラメータが付いています。
-これらのパラメータを使えば、誰から電話がかかってきたか？　何番へ電話がかかってきたか？　がわかります。
-これらの情報をつかうことによって、より細かいアクションの制御が可能となります。
+## Create an action server
 
-<dl>
-    <dt>caller
-    <dd>電話の発信者番号
-    <dt>recipient
-    <dd>着信したDINの電話番号
-</dl>
+The method of the HTTP request issued to the action server when receiving a call is `GET` and has two parameters.
+Who did you call by using these parameters? What number did you call me? I understand.
+By using these pieces of information, you can control finer actions.
 
-応答のアクションは１行のプレーンテキストで返します。
-アクションの詳細については[こちらを参照してください](http://docs.xoxzo.com/ja/din.html#available-actions)
+<Dl>
+    <Dt> caller
+    <Dd> Phone caller ID
+    <Dt> recipient
+    <Dd> Phone number of incoming DIN
+</ Dl>
 
-[こちら](https://github.com/xoxzo/din-action-server-demo)には Djangoフレームワークを使って作成した
-アクションサーバーのサンプルが置いてありあます。
+The response action is returned in one line of plain text.
+For details of the action, please see [here] (http://docs.xoxzo.com/en/din.html# available-actions)
 
-## アクションURLを設定する
+[Here] (https://github.com/xoxzo/din-action-server-demo) was created using the Django framework
+There is a sample of the action server.
 
-アクションサーバーの設置が完了したならば、そのサーバーをXOXZOクラウドシステムが呼び出せるように、
-アクションサーバーのURLをXOXZOクラウドに教えてあげる必要があります。
-このURLの設定には以下のAPIを使います。
+## Setting action URL
 
-[アクションURL設定API](http://docs.xoxzo.com/ja/din.html#attach-an-action-to-the-dial-in-number-via-api)
+Once the installation of the action server is completed, so that the XOXZO cloud system can call that server,
+It is necessary to tell the action server URL to the XOXZO cloud.
+We use the following API to set up this URL.
 
-## 電話番号を解約する
+[Action URL Setting API] (http://docs.xoxzo.com/en/din.html#attach-an-action-to-the-dial-in-number-via-api)
 
-DINの解約をするには次のAPIを使います。
+# Cancel phone number
 
-[DIN解約API](http://docs.xoxzo.com/ja/din.html#subscribing-to-a-dial-in-number-via-api)
+To cancel DIN, use the following API.
 
-## 各言語用ライブリラリ
+[DIN cancellation API] (http://docs.xoxzo.com/en/din.html#subscribing-to-a-dial-in-number-via-api)
 
-XOXZO APIを利用するために便利な Python, Ruby, PHP ライブラリが用意されています。これらはMITライセンスのオープンソースで、ユーザーは自由に利用することができます。
+## Libraries for each language
 
-- [Python](https://github.com/xoxzo/xoxzo.cloudpy)
-- [Ruby](https://github.com/xoxzo/xoxzo-cloudruby)
-- [PHP](https://github.com/xoxzo/xoxzo.cloudphp)
+Convenient Python, Ruby, PHP libraries are available for using the XOXZO API. These are open source of MIT license, users can use freely.
 
-## トラブルシュート
+- [Python] (https://github.com/xoxzo/xoxzo.cloudpy)
+- [Ruby] (https://github.com/xoxzo/xoxzo-cloudruby)
+- [PHP] (https://github.com/xoxzo/xoxzo.cloudphp)
 
-DINがうまく動かないときは次の点をチェックしてみましょう
+## troubleshoot
 
-- アクションURLは設定されているか？
-- アクションURLは正しく、アクションサーバを指しているか？
-- アクションサーバーは、アクセス可能な状態か？
-- 再生するサウンドのmp3ファイルは、アクセス可能な状態か？
-- アクションの応答テキストに間違いはないか? コマンドのスペル、引数の数、引数の内容は正しいか？
-- クレジットは十分にあるか?
+When DIN does not work, let's check the following points
+
+- Is the action URL set?
+- Is the action URL correctly pointing to the action server?
+- Is the action server accessible?
+- Is the mp3 file of sound to be played accessible?
+- Is there a mistake in the response text of the action? Is the spelling of the command, the number of arguments, and the contents of the argument correct?
+- Is there enough credit?
