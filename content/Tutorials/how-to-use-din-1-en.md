@@ -1,5 +1,5 @@
 Title: Let's use the dial-in number
-Date: 2017/07/01
+Date: 2017/07/13
 Author: Akira Nonaka
 Tags: din; did; tuborial;
 Slug: dialinnumbers-tutorial
@@ -28,7 +28,7 @@ When an incoming call arrives at the contracted phone number,
 the XOXZO cloud system issues an HTTP request to the action URL of the web server (hereinafter referred to as action server) specified by the API.
 Users using DIN must install an action server to respond to HTTP requests from the XOXZO cloud.
 
-! [Diagram of incoming call operation] ({filename} /images/Tutorial/din-get-call-en.jpeg)
+![Diagram of incoming call operation]({filename}/images/Tutorial/din-get-call-en.jpeg)
 
 The action instructs the XOXZO cloud system how to handle the incoming phone, and there are the following three types.
 
@@ -39,7 +39,7 @@ The action instructs the XOXZO cloud system how to handle the incoming phone, an
      <Dd> Transfer to the specified phone number
      <Dt> say
      <Dd> Read out the specified text
-</ Dl>
+</Dl>
 
 So let's explain how to build the DIN system in order.
 
@@ -48,7 +48,7 @@ So let's explain how to build the DIN system in order.
 The phone number available at DIN is XOXZO cloud system pooled and users can select their favorite phone number from this
 You can choose. To obtain a list of available phone numbers, use the following API.
 
-[DIN Search API] (http://docs.xoxzo.com/en/din.html#finding-a-dial-in-number-via-api)
+[DIN Search API](http://docs.xoxzo.com/en/din.html#finding-a-dial-in-number-via-api)
 
 In this API, `din_uid` (one unique identifier corresponding to DIN) corresponding to the telephone number one to one is returned.
 In the API listed below, this `din_uid` is used as an important parameter, so let's keep it in mind.
@@ -58,13 +58,13 @@ In the API listed below, this `din_uid` is used as an important parameter, so le
 When you decide the phone number you want to use, I will sign that number.
 To make a contract
 
-[DIN Contract API] (http://docs.xoxzo.com/en/din.html#subscribing-to-a-dial-in-number-via-api)
+[DIN Contract API](http://docs.xoxzo.com/en/din.html#subscribing-to-a-dial-in-number-via-api)
 
 Use. Let's specify `din_uid` obtained by search API in the URL.
 
 If the contract is successful
 
-[DIN Contract Confirmation API] (http://docs.xoxzo.com/en/din.html#getting-the-list-of-subscribed-dial-in-numbers-via-api)
+[DIN Contract Confirmation API](http://docs.xoxzo.com/en/din.html#getting-the-list-of-subscribed-dial-in-numbers-via-api)
 
 Let's check if you are contracting properly.
 
@@ -79,12 +79,12 @@ By using these pieces of information, you can control finer actions.
     <Dd> Phone caller ID
     <Dt> recipient
     <Dd> Phone number of incoming DIN
-</ Dl>
+</Dl>
 
 The response action is returned in one line of plain text.
-For details of the action, please see [here] (http://docs.xoxzo.com/en/din.html# available-actions)
+For details of the action, please see [here](http://docs.xoxzo.com/en/din.html# available-actions)
 
-[Here] (https://github.com/xoxzo/din-action-server-demo) was created using the Django framework
+[Here](https://github.com/xoxzo/din-action-server-demo) was created using the Django framework
 There is a sample of the action server.
 
 ## Setting action URL
@@ -93,13 +93,13 @@ Once the installation of the action server is completed, so that the XOXZO cloud
 It is necessary to tell the action server URL to the XOXZO cloud.
 We use the following API to set up this URL.
 
-[Action URL Setting API] (http://docs.xoxzo.com/en/din.html#attach-an-action-to-the-dial-in-number-via-api)
+[Action URL Setting API](http://docs.xoxzo.com/en/din.html#attach-an-action-to-the-dial-in-number-via-api)
 
 # Cancel phone number
 
 To cancel DIN, use the following API.
 
-[DIN cancellation API] (http://docs.xoxzo.com/en/din.html#subscribing-to-a-dial-in-number-via-api)
+[DIN cancellation API](http://docs.xoxzo.com/en/din.html#subscribing-to-a-dial-in-number-via-api)
 
 ## Libraries for each language
 
