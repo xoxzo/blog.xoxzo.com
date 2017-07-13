@@ -1,8 +1,8 @@
 Title: [Xoxzo] Downtime Notice due to maintenance
-Date: 2017-07-13 09.30
+Date: 2017-07-13 09:30
 Slug: service-maintenance-20170712
 Lang: en
-Modified: 2017-07-13 09.30
+Modified: 2017-07-13 09:30
 Tags: downtime; 
 Author: Aiko Yokoyama
 
