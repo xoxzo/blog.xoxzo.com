@@ -45,12 +45,12 @@ So let's explain how to build the DIN system in order.
 
 ## Search for a free phone number
 
-The phone number available at DIN is XOXZO cloud system pooled and users can select their favorite phone number from this
-You can choose. To obtain a list of available phone numbers, use the following API.
+The phone number available at DIN is XOXZO cloud system pooled and users can select their favorite phone number. 
+To obtain a list of available phone numbers, use the following API.
 
 [DIN Search API](http://docs.xoxzo.com/en/din.html#finding-a-dial-in-number-via-api)
 
-In this API, `din_uid` (one unique identifier corresponding to DIN) corresponding to the telephone number one to one is returned.
+The retured list include `din_uid` ,unique identifier of DIN.
 In the API listed below, this `din_uid` is used as an important parameter, so let's keep it in mind.
 
 ## Contract the incoming phone number
