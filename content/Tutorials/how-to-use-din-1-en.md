@@ -3,7 +3,7 @@ Date: 2017/07/01
 Author: Akira Nonaka
 Tags: din; did; tuborial;
 Slug: dialinnumbers-tutorial
-Lang: jne
+Lang: en
 Summary: I will outline the dial-in number API that controls incoming calls
 
 ## Overview
@@ -12,23 +12,23 @@ Summary: I will outline the dial-in number API that controls incoming calls
 
 The dial-in number (Dial in number, hereinafter referred to as DIN)
 It is a function to control incoming calls using XOXZO's Telephony API.
-The user contracts the telephone number,
-If there is an incoming call on the phone, transfer system or system to play the message
-You can build it using the API.
+The user subscribe the telephone number,
+if there is an incoming call on the phone, you can transfer the call or playback the message using the XOXZO DIN API.
 
 The rough flow until use is as follows.
 
-1. Search for a free phone number
+1. Search for a free unsubscribe number
 1. Choose the desired phone number from among them and sign up
 1. Create an action server
 1. Set the action server URL
 
-### Behavior when receiving an incoming call from the action server
+### Behavior of the action server when receiving an incoming call
  
-When an incoming call arrives at the contracted phone number, the XOXZO cloud system issues an HTTP request to the action URL of the web server (hereinafter referred to as action server) specified by the API.
+When an incoming call arrives at the contracted phone number, 
+the XOXZO cloud system issues an HTTP request to the action URL of the web server (hereinafter referred to as action server) specified by the API.
 Users using DIN must install an action server to respond to HTTP requests from the XOXZO cloud.
 
-! [Diagram of incoming call operation] ({filename} /images/Tutorial/din-get-call-ja.jpeg)
+! [Diagram of incoming call operation] ({filename} /images/Tutorial/din-get-call-en.jpeg)
 
 The action instructs the XOXZO cloud system how to handle the incoming phone, and there are the following three types.
 
@@ -44,7 +44,6 @@ The action instructs the XOXZO cloud system how to handle the incoming phone, an
 So let's explain how to build the DIN system in order.
 
 ## Search for a free phone number
-
 
 The phone number available at DIN is XOXZO cloud system pooled and users can select their favorite phone number from this
 You can choose. To obtain a list of available phone numbers, use the following API.
