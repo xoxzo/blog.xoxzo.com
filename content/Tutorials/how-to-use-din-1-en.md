@@ -105,9 +105,9 @@ To cancel DIN, use the following API.
 
 Convenient Python, Ruby, PHP libraries are available for using the XOXZO API. These are open source of MIT license, users can use freely.
 
-- [Python] (https://github.com/xoxzo/xoxzo.cloudpy)
-- [Ruby] (https://github.com/xoxzo/xoxzo-cloudruby)
-- [PHP] (https://github.com/xoxzo/xoxzo.cloudphp)
+- [Python](https://github.com/xoxzo/xoxzo.cloudpy)
+- [Ruby](https://github.com/xoxzo/xoxzo-cloudruby)
+- [PHP](https://github.com/xoxzo/xoxzo.cloudphp)
 
 ## troubleshoot
 
