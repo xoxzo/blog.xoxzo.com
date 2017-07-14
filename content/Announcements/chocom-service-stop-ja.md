@@ -1,7 +1,7 @@
 Title: 【EZSMS】決済サービス「ちょコム」ご利用停止のお知らせ
 Date: 2017-07-14 16:00
 Author: Aiko Yokoyama
-Tags: EZSMS, Payment, Chocom
+Tags: EZSMS; ちょコム; 決済;
 Slug: chocom-stop-service
 Lang: ja
 Summary: 決済サービス「ちょコム」ご利用停止のお知らせ
