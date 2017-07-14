@@ -1,7 +1,7 @@
 Title: Let's use the dial-in number
 Date: 2017/07/13
 Author: Akira Nonaka
-Tags: din; did; tuborial;
+Tags: din; did; tutorial;
 Slug: dialinnumbers-tutorial
 Lang: en
 Summary: I will outline the dial-in number API that controls incoming calls
