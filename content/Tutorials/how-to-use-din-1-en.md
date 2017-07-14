@@ -74,7 +74,7 @@ to check if your subscription is all right.
 
 When a DIN receives a call, XOXZO cloud will send a HTTP GET request to a callback URL you specify
 with two parameters. By using these parameters, you can know which DIN was called and what number
-called the DIN. You can then dynamically control your action action according to these parameters.
+called the DIN. You can then dynamically control your action according to these parameters.
 
 <Dl>
     <Dt> caller
