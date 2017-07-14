@@ -10,22 +10,21 @@ Summary: I will outline the dial-in number API that controls incoming calls
 
 ### What is dial in number?
 
-The dial-in number (Dial in number, hereinafter referred to as DIN)
-It is a function to control incoming calls using XOXZO's Telephony API.
+The Dial in number (hereinafter referred to as DIN) is a function to control incoming calls using XOXZO's Telephony API.
 The user subscribe the telephone number,
 if there is an incoming call on the phone, you can transfer the call or playback the message using the XOXZO DIN API.
 
 The rough flow until use is as follows.
 
-1. Search for a free unsubscribe number
-1. Choose the desired phone number from among them and sign up
-1. Create an action server
-1. Set the action server URL
+1. Search for a available DIN.
+1. Choose the phone number you like and subscribe it.
+1. Create an action server.
+1. Set the action server URL.
 
 ### Behavior of the action server when receiving an incoming call
  
-When an incoming call arrives at the contracted phone number, 
-the XOXZO cloud system issues an HTTP request to the action URL of the web server (hereinafter referred to as action server) specified by the API.
+When an incoming call arrives at the subscribed phone number, 
+XOXZO cloud system issues an HTTP request to the action URL of the web server (hereinafter referred to as action server) specified by the API.
 Users using DIN must install an action server to respond to HTTP requests from the XOXZO cloud.
 
 ![Diagram of incoming call operation]({filename}/images/Tutorial/din-get-call-en.jpeg)
