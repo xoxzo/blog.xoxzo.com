@@ -10,26 +10,29 @@ Summary: I will outline the dial-in number API that controls incoming calls
 
 ### What is dial in number?
 
-The Dial in number (hereinafter referred to as DIN) is a function to control incoming calls using XOXZO's Telephony API.
-The user subscribe the telephone number,
-if there is an incoming call on the phone, you can transfer the call or playback the message using the XOXZO DIN API.
+The Dial in number (hereinafter referred to as DIN) is a function to control
+incoming calls using XOXZO's Telephony API. The user subscribes a telephone number,
+and if there is an incoming call to that number, you can transfer the call or playback
+a message using the XOXZO DIN API.
 
-The rough flow until use is as follows.
+Roughly the flow are as follows.
 
-1. Search for a available DIN.
-1. Choose the phone number you like and subscribe it.
+1. Search for an available DIN.
+1. Choose the phone number you like and subscribe to it.
 1. Create an action server.
 1. Set the action server URL.
 
 ### Behavior of the action server when receiving an incoming call
  
 When an incoming call arrives at the subscribed phone number, 
-XOXZO cloud system issues an HTTP request to the action URL of the web server (hereinafter referred to as action server) specified by the API.
+XOXZO cloud system issues an HTTP request to the action URL of the web server
+(hereinafter referred to as action server) specified by the API.
 Users using DIN must install an action server to respond to HTTP requests from the XOXZO cloud.
 
 ![Diagram of incoming call operation]({filename}/images/Tutorial/din-get-call-en.jpeg)
 
-The action instructs the XOXZO cloud system how to handle the incoming phone, and there are the following three types.
+The action instructs the XOXZO cloud system how to handle the incoming phone, and there are
+three types of action you can specify:
 
 <Dl>
      <Dt> playback
@@ -37,10 +40,10 @@ The action instructs the XOXZO cloud system how to handle the incoming phone, an
      <Dt> transfer
      <Dd> Transfer to the specified phone number
      <Dt> say
-     <Dd> Read out the specified text
+     <Dd> Read out a specified text
 </Dl>
 
-So let's explain how to build the DIN system in order.
+So let me explain how to build the DIN system in order.
 
 ## Search for a free phone number
 
@@ -69,11 +72,11 @@ to check if your subscription is all right.
 
 ## Create an action server
 
-#TODO
+# TODO
 
-When DIN get a call, XOXZO cloud will send HTTP GET request with two parameters.
-By using these parameters, you can know which DIN get called and who called this DIN.
-Thus, you can control action according to these parameters.
+When a DIN receives a call, XOXZO cloud will send a HTTP GET request to a callback URL you specify
+with two parameters. By using these parameters, you can know which DIN was called and what number
+called the DIN. You can then dynamically control your action action according to these parameters.
 
 <Dl>
     <Dt> caller
@@ -85,20 +88,21 @@ Thus, you can control action according to these parameters.
 The action server should return action in one line plain text.
 For details of the action, please see [here](http://docs.xoxzo.com/en/din.html#available-actions)
 
-You can find a sample action server created with Django web framework [here.](https://github.com/xoxzo/din-action-server-demo)
-
+You can find a sample action server created with Django web framework
+[here.](https://github.com/xoxzo/din-action-server-demo)
 
 ## Setting action URL
 
-Once the installation of the action server is completed,
-it is necessary to tell the action server URL to the XOXZO cloud so that it can your action server.
-We use the following API to set up this URL.
+Once the installation of the action server is completed, it is necessary to tell the action
+server URL to XOXZO cloud so that it knows where to send the callback GET request above. 
+
+We use the following API to do this:
 
 [Action URL Setting API](http://docs.xoxzo.com/en/din.html#attach-an-action-to-the-dial-in-number-via-api)
 
 # Cancel phone number
 
-To cancel DIN, use the following API.
+Once you're finished with a particular DIN, you can cancel the subscribtion with the following API.
 
 [DIN cancellation API](http://docs.xoxzo.com/en/din.html#subscribing-to-a-dial-in-number-via-api)
 
@@ -113,11 +117,12 @@ These are open source of MIT license. You can use these freely.
 
 ## Troubleshoot
 
-When DIN does not work, let's check the following points
+When things don't work as expected, check the following points:
 
 - Is the action URL set?
 - Is the action URL correctly pointing to the action server?
 - Is the action server accessible from XOXZO cloud?
 - Is the mp3 sound file accessible from XOXZO cloud?
-- Is there no mistake in the response action text? Is the spelling of the command, the number of arguments, and the contents of the argument correct?
-- Is there enough credit?
+- Are there no mistakes in the response action text?
+  Is the spelling of the command, the number of arguments, and the contents of the argument correct?
+- Are there enough credit?

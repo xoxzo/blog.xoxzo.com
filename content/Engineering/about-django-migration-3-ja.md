@@ -1,7 +1,7 @@
 Title: djangoのmigrationについて(3)
 Date: 2017/05/25 14:00
 Author: Akira Nonaka
-Tags: django; python; migration
+Tags: django; python; migration; learning python series;
 Slug: about-django-migration-3
 Lang: ja
 Summary: migrationのクリーンアップ方法について
