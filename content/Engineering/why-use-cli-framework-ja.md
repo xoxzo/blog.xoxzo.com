@@ -26,9 +26,23 @@ Summary: コマンドラインアプリケーションをつくるための、�
 
     ./delete-dirs.sh --confirm dir2 dir2 dir3 ...
 
-So for each of the arguments, you need to check first if the argument was prefixed with a `--` character and treat it differently. At this point, you realize that you have start to write a command line parser !
+それぞれの引数について、まず前に `--` が付いているかチェックし、もしそうであれば処理を分ける必要があります。
+ここまで来ると、コマンドラインのパーサを書く必要性が理解できるでしょう。
 
-On most unix like environment, like Linux, there's a little command called `getopts`. There's also similar command which exists earlier called `getopt` (notice what is the difference ?), but you should just assume there's `getopts` and forget that `getopt` ever existed. While better than `getopt`, parsing cli arguments with `getopts` still not a fun exercise. Example of `getopts` is like below:-
+大部分のUnixライクな環境には `getopts` という小さなコマンドがあります。
+また、以前にはよく似たよコマンド　`getopt`　というものもありましたが、
+（２つの違いに気が付きましたか？）
+今となっては、`getopts` だけがあって、`getopt` がかつて存在していたことは忘れてしまっても良いでしょう。
+
+ `getopts`は `getopt`より良くなったとは言え、コマンドラインパーサを書くのは、あまり楽しい作業ではありません。
+ `getopts`　を使う例は次のようになります。
+ 
+So for each of the arguments, you need to check first if the argument was prefixed with a `--` character and treat it differently. 
+At this point, you realize that you have start to write a command line parser !
+
+On most unix like environment, like Linux, there's a little command called `getopts`. There's also similar command which exists earlier 
+called `getopt` (notice what is the difference ?), but you should just assume there's `getopts` and forget that `getopt` ever existed.
+ While better than `getopt`, parsing cli arguments with `getopts` still not a fun exercise. Example of `getopts` is like below:-
 
     while getopts "h?vf:" opt; do
         case "$opt" in
@@ -43,7 +57,7 @@ On most unix like environment, like Linux, there's a little command called `geto
         esac
     done
 
-More on [Stackoverflow][1].
+詳しくは [Stackoverflow][1] を参照してください。
 
 At this point, we know that parsing command line arguments using traditional tool like `getopts` is not fun at all. And as I don't write much shell script these days, I prefer to start looking into how parsing command line in Python look like. It turn out that Python also has a module named [getopt][2]. It look slightly easier than the unix tools, you can try it if you want.
 
