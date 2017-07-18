@@ -59,9 +59,19 @@ called `getopt` (notice what is the difference ?), but you should just assume th
 
 詳しくは [Stackoverflow][1] を参照してください。
 
-At this point, we know that parsing command line arguments using traditional tool like `getopts` is not fun at all. And as I don't write much shell script these days, I prefer to start looking into how parsing command line in Python look like. It turn out that Python also has a module named [getopt][2]. It look slightly easier than the unix tools, you can try it if you want.
+At this point, we know that parsing command line arguments using traditional tool like `getopts` is not fun at all. 
+And as I don't write much shell script these days, I prefer to start looking into how parsing command line in Python look like. 
+It turn out that Python also has a module named [getopt][2]. It look slightly easier than the unix tools, you can try it if you want.
 
-Other than `getopt` module, Python also has a module called `optparse`. Parsing command line arguments with `optparse` look like this (taken from the [docs][3]):-
+ここまでくると、伝統的な `getopts` のようなツールをつかって、コマンドライン引数を解析するのは、
+全くもって、面白い作業ではないことがわかります。
+最近は shell スクリプトを書く機会があまりないので、Python でコマンドラインを解析する方法に興味を持つようになりました。
+Pythonには [getopt][2] というモジュールがあることがわかりました。これは Unix のツールをよりは少しだけ使いやすいので、
+興味があれば試してみて下さい。
+
+`getopt`モジュール以外にも、Pythonには` optparse`というモジュールがあります。
+ `optparse`を使ってコマンドライン引数を解析すると、以下のようになります（[docs] [3]から引用）:-
+
 
 ```python
 from optparse import OptionParser
