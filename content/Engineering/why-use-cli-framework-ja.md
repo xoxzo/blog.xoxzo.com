@@ -59,10 +59,6 @@ called `getopt` (notice what is the difference ?), but you should just assume th
 
 詳しくは [Stackoverflow][1] を参照してください。
 
-At this point, we know that parsing command line arguments using traditional tool like `getopts` is not fun at all. 
-And as I don't write much shell script these days, I prefer to start looking into how parsing command line in Python look like. 
-It turn out that Python also has a module named [getopt][2]. It look slightly easier than the unix tools, you can try it if you want.
-
 ここまでくると、伝統的な `getopts` のようなツールをつかって、コマンドライン引数を解析するのは、
 全くもって、面白い作業ではないことがわかります。
 最近は shell スクリプトを書く機会があまりないので、Python でコマンドラインを解析する方法に興味を持つようになりました。
@@ -70,7 +66,7 @@ Pythonには [getopt][2] というモジュールがあることがわかりま�
 興味があれば試してみて下さい。
 
 `getopt`モジュール以外にも、Pythonには` optparse`というモジュールがあります。
- `optparse`を使ってコマンドライン引数を解析すると、以下のようになります（[docs] [3]から引用）:-
+ `optparse`を使ってコマンドライン引数を解析すると、以下のようになります（[docs] [3]から引用）
 
 
 ```python
@@ -85,10 +81,16 @@ parser.add_option("-q", "--quiet",
 
 (options, args) = parser.parse_args()
 ```
+オプションパラメータ `file` は `options.file` で、`-q` パラメータは `options.quiet` （デフォルトの値は `False` ）でアクセスすることが可能です。
+これでずっと良くなりましたが、`optparse`は　Python 3.2　から非推奨となりましたので、現在では有効な解決手段ではありません。
+Python 3 から新しいモジュール　`argparse`　が導入されています。
+ `optparse`と`argparse`のどちらがが良いかついては、議論があるのですが、ここではそこには立ち入りません。
 
-The file optional argument then can be accessed as `options.file`, and the `-q` parameter can be accessed as `options.quiet`, which would default to `False`. It way much better now. But `optparse` was deprecated since Python 3.2, so it's not a viable alternative anymore. In python 3, a new module was introduced called `argparse`. There's some debates on `optparse` vs `argparse` but I don't want to get into that.
-
-What more interesting here is that we might has come to realization, that to write a cli program in much saner way, we need more high level tools than just `getopt`, `optparse` or `argparse`. This is where cli framework came into picture. Imagine if we can have a python program like this:-
+ここまできて分かるのは、コマンドラインプログラムを、正しくつくるには
+ `getopt` や `optparse` や `argparse`　よりもずっと高レベルのツールが必要だということです。
+そこでコマンドラインフレームワークの登場です。
+次のような Python プログラムを考えてみてください。
+ 
 
 ```python
 def do_something(param1, param2, flag=False):
@@ -97,6 +99,9 @@ def do_something(param1, param2, flag=False):
 if __name__ == '__main__':
     make_command(do_something)
 ```
+
+そして、それが魔法のように動きます。
+
 And then automagically, we can have a cli like this:-
 
     ./myprogram param1 param2
@@ -108,7 +113,7 @@ And then automagically, we can have a cli like this:-
       -h, --help                show this help message and exit
       -f FLAG, --flag=Boolean   Default to False
 
-And if we have more than one functions in the script, like:-
+そしてもし、スクリプトが２つ以上の機能をもつときは
 
 ```python
 def do_something(param1, param2, flag=False):
@@ -121,12 +126,13 @@ if __name__ == '__main__':
     make_command(do_something, do_another_thing)
 ```
 
-And have a program like:-
+そして、そのプログラムは次のように使えまたら
 
     ./myprogram do_something param1 param2 --flag
     ./myprogram do_another_thing param1
 
-That would be great, right ?
+とても凄いと思いませんか？
+
 
 So the tools that I'm using most of the time is a package called [Baker][Baker], you can get it from PyPI. It might not be the best but at that time when I'm looking for this kind of tools (7 years ago), it seem the most suitable for what I need. If starting again at present day, I might choose [click][click].
 
