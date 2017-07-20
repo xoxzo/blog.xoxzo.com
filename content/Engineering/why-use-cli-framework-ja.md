@@ -37,13 +37,6 @@ Summary: コマンドラインアプリケーションをつくるための、�
  `getopts`は `getopt`より良くなったとは言え、コマンドラインパーサを書くのは、あまり楽しい作業ではありません。
  `getopts`　を使う例は次のようになります。
  
-So for each of the arguments, you need to check first if the argument was prefixed with a `--` character and treat it differently. 
-At this point, you realize that you have start to write a command line parser !
-
-On most unix like environment, like Linux, there's a little command called `getopts`. There's also similar command which exists earlier 
-called `getopt` (notice what is the difference ?), but you should just assume there's `getopts` and forget that `getopt` ever existed.
- While better than `getopt`, parsing cli arguments with `getopts` still not a fun exercise. Example of `getopts` is like below:-
-
     while getopts "h?vf:" opt; do
         case "$opt" in
         h|\?)
@@ -133,12 +126,15 @@ if __name__ == '__main__':
 
 とても凄いと思いませんか？
 
+そこで私は、ほとんどの場合、[Baker][Baker]というパッケージを使っています。これはPyPIから入手可能です。これは現在では最良の選択ではないかもしれませんが、
+私がこのようなツールを探していた時点（７年前）では、やりたい事にもっとも適したツールと思えました。
+もし、今日の時点で探すなら、[click][click]を選ぶかもしれません。
 
-So the tools that I'm using most of the time is a package called [Baker][Baker], you can get it from PyPI. It might not be the best but at that time when I'm looking for this kind of tools (7 years ago), it seem the most suitable for what I need. If starting again at present day, I might choose [click][click].
+Googleも似たようなツール[Fire][Fire]を持っています。これはしばらく使ってみましたが、Bakerより強力であり、Bakerが持っていた問題点が解決されていました。
+しかし、コマンドの戻り値が自動的に表示されてしまい、またその機能を無効化するオプションが無いなど、少しやり過ぎの面も感じました。
 
-Google also has similar tools called [Fire][Fire]. I used it for a while as it seem to be more powerful than Baker and also solve some issue I have with Baker. But then I realized it just doing too much. For example it automatically print out the return value from your command, and no option to disable it.
-
-There are more tools available in Python and I think you can find some more I didn't mention here by just googling "python cli tools". Hopefully now you understand the need of these tools when writing your python script.
+世の中には、もっと沢山の Python ツールがあります。"python cli tools"でググってみれば、ここでで触れなかったツールがもっと見つかるでしょう。
+Pythonスクリプトを書くときに、このようなツールの必要性がわかって頂ければ幸いです。
 
 [1]:https://stackoverflow.com/questions/192249/how-do-i-parse-command-line-arguments-in-bash
 [2]:https://docs.python.org/3.1/library/getopt.html
