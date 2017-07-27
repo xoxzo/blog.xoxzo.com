@@ -1,13 +1,13 @@
 Title: The Game of Deployment
 Date: 2017-07-26
-Slug: deployment-techniques
+Slug: the-game-of-deployment
 Lang: en
 Tags: Deployment; 
 Author: Shauryadeep Chaudhuri
 Summary: With the growing need of managing application deployment, these are some of the ways we found to setup an in-house deployment management system for web applications.
 
 Web Application Deployment is one of the important parts in application development. Once an application is developed, you are required to serve it to your users, and if it is not served right it would impact your customer base.  Over the years the procedures required in deployment have grown complex, and management cumbersome. 
-Due to these factors we have decided to setup a system in-house that would help us deploy more easily. As part of out research I looked into various approaches on how to setup an in-house application deployment management system, I have come across various deployment strategies and today would like to give my views on why this is necessary going forward and a couple of strategies I have found viable.
+Due to these factors, we have decided to setup a system in-house that would help us deploy more easily. As part of our research, I looked into various approaches on how to setup an in-house application deployment management system, I have come across various deployment strategies and today would like to give my views on why this is necessary going forward and a couple of strategies I have found viable.
 
 ###Growing need of Application Deployment Management
 -----
@@ -27,7 +27,7 @@ Today, there are more people on the internet which mean,  your website is availa
 
 3.   *Clustering* :  An application should be deployed to several instances so that when the traffic/load increases or an instance fails for some reason, the application does not face downtime. 
 
-4.   *Isolation* :  Small changes to an environment can cause "The Butterfly Effect", which means essentially that small changes can start a chain reaction which can possibly mess up your setup. The environment the application exists should not contain anything more than it needs.
+4.   *Isolation* :  Small changes to an environment can cause "The Butterfly Effect". The environment the application exists should not contain anything more than it needs.
 
 Many cloud services like AWS, Heroku, Azure do provide certain solutions to these issues, but you will face a number of issues if one day you decide to migrate from one cloud provider to another. For Example, if you decide to move from AWS to Heroku, the way they function are completely different. So it is better to have an in-house or a third party deployment strategy.
 
@@ -35,17 +35,17 @@ Many cloud services like AWS, Heroku, Azure do provide certain solutions to thes
 ###Convox
 -----
 Convox is a deployment management tool that takes care of deployment, management & maintenance of deployed applications.
-Convox tries to replicate the deployment process to that of Heroku. It uses docker images to understand application configuration, it auto-magically creates isolated environments which are called Racks.These contain applications which are in turn have isolated environments. One of the things I disliked about Convox is that it is only currently available for AWS.
+Convox tries to replicate the deployment process to that of Heroku. It uses docker images to understand application configuration, it automagically creates isolated environments which are called Racks.These contain applications which are in turn have isolated environments. One of the things I disliked about Convox is that it is only currently available for AWS.
 
 Analyzing it on the points previously mentioned.
 
 1.   *Scalability*:  Convox allows to scale applications through its CLI and provides an easy interface to perform resource management. It basically acts as a wrapper to AWS in this context.
 
-2.   *Rapid Deployment*:  It is fairly easy to deploy using convox. It would automatically create the necessary endpoints that for each process that are mentioned in the docker configuration file. One of the things I liked about Convox here is that it taes a snapshot of each deployement. So if you want to roll back to a previous state, you need not perform the complete deployment process with a previous version of the codebase. You can just select which deployment you want to make available and choose it from the list.
+2.   *Rapid Deployment*:  It is fairly easy to deploy using convox. It would automatically create the necessary endpoints that for each process that are mentioned in the docker configuration file. One of the things I liked about Convox here is that it takes a snapshot of each deployment. So if you want to roll back to a previous state, you need not perform the complete deployment process with a previous version of the codebase. You can just select which deployment you want to make available and choose it from the list.
 
 
 3.   *Isolation*:  The Convox infrastructure provides 2 level isolation.
-	*   *Network Isolation* : Applications in a particular Rack can only talk to another application in the same Rack. They call it as an virtual private cloud implementation as most of the communication is done through internally opened ports and very few ports are opened on the public domain.
+	*   *Network Isolation* : Applications in a particular Rack can only talk to another application in the same Rack. They term themselves as a virtual private cloud implementation as most of the communication is done through internally opened ports and very few ports are opened on the public domain. Under the wraps required AWS infrastructure is created including AWS VPC, Subnets etc.
 
 	*   *Environment Isolation* : Convox provides environment isolation to its applications using docker containers.
 
@@ -69,7 +69,7 @@ Analyzing it on the points previously mentioned.
 
 ###Flynn
 -----
-Flynn is an opensource project which allows you to deploy an in-house deployment management system, on your server. Flynn internally uses Docker Containers to setup its environment but the user need not worry about docker configuration file and uses Heroku's opensource build packs to build the application. The Deployment procedure is identical to that of Heroku.
+Flynn is an open source project which allows you to deploy an in-house deployment management system, on your server. Flynn internally uses Docker Containers to setup its environment but the user need not worry about docker configuration file and uses Heroku's open source build packs to build the application. The Deployment procedure is identical to that of Heroku.
 
 Analyzing it on the points previously mentioned.
 
@@ -79,7 +79,7 @@ Analyzing it on the points previously mentioned.
 
 3. *Isolation*: Flynn is setup on a node, it would setup docker containers internally to provide environment isolation. 
 
-4. *Clustering*:  Since Flynn acts as an inhouse deployment management system, it needs to be manually setup on each node of the cluster. The installation procedure is not very complex and can be done easily. The instances can be scaled from the selected clouds console easily. Once setup, an application can be scaled to any number of instances available.
+4. *Clustering*:  Since Flynn acts as an in-house deployment management system, it needs to be manually setup on each node of the cluster. The installation procedure is not very complex and can be done easily. The instances can be scaled from the selected clouds console easily. Once setup, an application can be scaled to any number of instances available.
 
 *Upsides*: 
 
@@ -97,6 +97,6 @@ Analyzing it on the points previously mentioned.
 
 * Only supports Github for a snapshot-like feature is needed.
 
-###How they Compare
+###How They Compare
 -----
 Depending on the needs I personally would go prefer using Flynn as it gives more freedom on managing the system, it is opensource and free to use if you can do it yourself. Although if you do not wish to handle setting up yourself and want another team to manage your deployments, then Convox would be the cheaper alternative.
