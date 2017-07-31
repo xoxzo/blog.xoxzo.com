@@ -9,8 +9,8 @@ Summary: [Kプレミアムサービス](https://help.xoxzo.com/ja/xoxzo-cloud-te
 平素は、[Xoxzo-クラウドテレフォニープラットフォーム](https://www.xoxzo.com/ja/)
 をご利用いただきまして、誠にありがとうございます。
 
-2017年8月14日、[Kプレミアムサービス](https://help.xoxzo.com/ja/xoxzo-cloud-telephony-platform/articles/the-k-premium-service/) 
-のパラメーターの記述に、アップデートが行われます。
+[Kプレミアムサービス](https://help.xoxzo.com/ja/xoxzo-cloud-telephony-platform/articles/the-k-premium-service/) 
+のパラメーターの記述に、アップデートされました。
 
 今回のアップデートは、あらゆるトラブルのもととなり得る「例外」をひとつでも減らし、
 システムでご利用の記述により一貫性を持たせるための、改善変更となります。
@@ -23,6 +23,7 @@ jp_kp
 jp_kddi_sender
 ```
 (アンダーバーを使用)
+
 これまでの記述:
 ```
 jp-kp
@@ -30,8 +31,10 @@ Jp-kddi-sender
 ```
 (ハイフンを使用)
 
-[APIドキュメンテーション](http://docs.xoxzo.com/ja/sms.html#jp-specific-optional-parameters) でもご確認いただけます。
-今後はアンダーバーをご利用いただくことができますが、__ハイフンをつかった記述は2017年8月14日まで__ご利用可能です。
+最新のパラメーター記述方法は[APIドキュメンテーション](http://docs.xoxzo.com/ja/sms.html#jp-specific-optional-parameters) 
+でもご確認いただけます。お手数ですが、お客様各位にアンダーバー仕様に変更のお願いを申しあげます。
+
+なお、__ハイフンをつかった記述は2017年8月14日まで__ ご利用可能です。
 
 ご意見、ご質問は、下記よりお問い合わせください。
 help@xoxzo.com
