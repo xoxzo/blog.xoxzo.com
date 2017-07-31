@@ -21,7 +21,7 @@ jp_kddi_sender
 Instead of:
 ```
 jp-kp
-Jp-kddi-sender
+jp-kddi-sender
 ```
 (Using dashes)
 

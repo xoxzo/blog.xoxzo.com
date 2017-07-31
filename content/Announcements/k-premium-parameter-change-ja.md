@@ -27,7 +27,7 @@ jp_kddi_sender
 これまでの記述:
 ```
 jp-kp
-Jp-kddi-sender
+jp-kddi-sender
 ```
 (ハイフンを使用)
 
