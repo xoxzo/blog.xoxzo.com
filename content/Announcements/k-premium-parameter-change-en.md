@@ -10,11 +10,13 @@ On August 14, 2017, the parameter name for our [K-Premium services](https://help
 
 The parameter name for our [K-Premium services](https://help.xoxzo.com/en/xoxzo-cloud-telephony-platform/articles/the-k-premium-service/) will be:
 ```jp_kp
-jp_kddi_sender```
+jp_kddi_sender
+```
 (Using underscores)
 Instead of:
 ```jp-kp
-Jp-kddi-sender```
+Jp-kddi-sender
+```
 (Using dashes)
 On or after August 14, 2017.
 
