@@ -8,7 +8,7 @@ Summary: 今年Xoxzoは、３度めのプライバシーマーク更新をいた
 
 ![pmark-03](/images/pmark-03.jpg)
 
-平素は、[Xoxzo-クラウドテレフォニープラットフォーム](https://www.xoxzo.com/ja/)　及び　[SMS配信サービス・EZSMS](https://www.ezsms.biz/ja/)　をご利用いただき、誠にありがとうございます。
+平素は、[Xoxzo-クラウドテレフォニープラットフォーム](https://www.xoxzo.com/ja/)及び[SMS配信サービス・EZSMS](https://www.ezsms.biz/ja/)　をご利用いただき、誠にありがとうございます。
 
 この度、Xoxzoは３度めのプライバシーマーク更新を行いましたので、お知らせ申し上げます。
 
