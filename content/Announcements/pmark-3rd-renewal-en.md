@@ -6,7 +6,7 @@ Tags: PrivacyMark; xoxzo;
 Author: Aiko Yokoyama
 Summary: Our Privacy mark has been renewed for the third time this year.
 
-![pmark-03]({pmark-03}/images/pmark-03.jpg)
+![pmark-03](/images/pmark-03.jpg)
 
 Thank you for using [Xoxzo, Cloud Telephony Platform](https://www.xoxzo.com/en/) and [SMS Delivery API Service EZSMS](https://www.ezsms.biz/ja/).
 

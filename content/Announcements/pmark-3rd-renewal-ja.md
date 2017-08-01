@@ -6,7 +6,7 @@ Tags: PrivacyMark; Xoxzo;
 Author: Aiko Yokoyama
 Summary: 今年Xoxzoは、３度めのプライバシーマーク更新をいたしました。
 
-![pmark-03]({pmark-03}/images/pmark-03.jpg)
+![pmark-03](/images/pmark-03.jpg)
 
 平素は、[Xoxzo-クラウドテレフォニープラットフォーム](https://www.xoxzo.com/ja/)　及び　[SMS配信サービス・EZSMS](https://www.ezsms.biz/ja/)　をご利用いただき、誠にありがとうございます。
 
