@@ -12,7 +12,7 @@ Summary: Tokyu Ruby Kaigi #11
 会議の最後には、一番美味しかった食べものを持ってきた人が「飯王」に選ばれ、その功績をみんなで讃えます。
 
 わたしのライトニングトークでは、Slack BotからXOXZOのAPIを呼び出して、電話をかけるアプリを紹介しました。
-実装はもちろんRubyです。　デモビデオはこちらです。
+実装はもちろんRubyです。　デモビデオはこちら。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2-RgFhYM7Zk" frameborder="0" allowfullscreen></iframe>
 
