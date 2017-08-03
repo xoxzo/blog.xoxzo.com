@@ -11,9 +11,8 @@ Summary: Tokyu Ruby Kaigi #11
 この会議は、みんなで食べ物を持ち寄り、ビールを飲みながら（スポンサーはサントリー様）LT大会をするという大変ユニークな会です。
 会議の最後には、一番美味しかった食べものを持ってきた人が「飯王」に選ばれ、その功績をみんなで讃えます。
 
-わたしのライトニングトークは「Rubyで電話する」でRubyで書いたSlack BotからXOXZOのAPIを呼び出して電話をかけるアプリを紹介しました。
-
-デモビデオはこちらです。
+わたしのライトニングトークでは、Slack BotからXOXZOのAPIを呼び出して、電話をかけるアプリを紹介しました。
+実装はもちろんRubyです。　デモビデオはこちらです。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2-RgFhYM7Zk" frameborder="0" allowfullscreen></iframe>
 
