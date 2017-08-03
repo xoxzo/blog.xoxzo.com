@@ -6,7 +6,7 @@ Tags: rokyu, ruby, kaigi, xoxzo
 Author: Akira Nonaka
 Summary: Tokyu Ruby Kaigi #11の参加報告です
 
-7/29に株式会社VOYAGE GROUP 様で開催され[TokyuRuby会議11](https://tokyurubykaigi.github.io/tokyu11/)
+7/29に株式会社VOYAGE GROUP様で開催された[TokyuRuby会議11](https://tokyurubykaigi.github.io/tokyu11/)
 に参加して、ライトニングトークをしてきました。
 この会議は、みんなで食べ物を持ち寄り、ビールを飲みながら（スポンサーはサントリー様）LT大会をするという大変ユニークな会です。
 会議の最後には、一番美味しかった食べものを持ってきた人が「飯王」に選ばれ、その功績をみんなで讃えます。
