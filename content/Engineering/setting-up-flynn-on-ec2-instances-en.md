@@ -2,7 +2,7 @@ Title: Setting up Flynn PaaS on EC2 Instances
 Date: 2017-08-07
 Slug: setting-up-flynn-on-ec2-instances
 Lang: en
-Tags: Deployment, Flynn; 
+Tags: Deployment; Flynn; 
 Author: Shauryadeep Chaudhuri
 Summary: A Guide to setup Flynn as an in-house PaaS in Amazon EC2 Instances.
 
