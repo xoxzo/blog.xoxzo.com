@@ -16,7 +16,7 @@ The workshop is the fourth part of a series of Python courses organized by Women
 !({filename}/images/wwc-2017/ws02.jpg)
 !({filename}/images/wwc-2017/ws03.jpg)
 
-The first half of the workshop was a talk about the concept of testing as well as setting up the environment for the hands-on after lunch. We have provided an exercise repo, but ran into a snag of getting it to run properly in the Windows environment, which was the majority of what the participants were using. But we did manage to run the exercise on the Django tutorial insteadi for the second half. Though it did not exactly run as planned, but the testing workshop was conducted with the objective intact.
+The first half of the workshop was a talk about the concept of testing as well as setting up the environment for the hands-on after lunch. We have provided an exercise repo, but ran into a snag of getting it to run properly in the Windows environment, which was the majority of what the participants were using. But we did manage to run the exercise on the Django tutorial instead for the second half. Though it did not exactly run as planned, but the testing workshop was conducted with the objective intact.
 
 !({filename}/images/wwc-2017/ws04.jpg)
 !({filename}/images/wwc-2017/ws05.jpg)
