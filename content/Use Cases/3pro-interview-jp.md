@@ -52,8 +52,8 @@ https://www.threepro.co.jp/index.html<br>
 
 
 スリープログループ：_24時間365日、日本全国125,000人のスタッフがお客さまのビジネスをサポートします。_<br>
-https://www.threepro.co.jp/ir/news/news170516.html<br>
-https://www.threepro.co.jp/ir/news/news170714.html<br>
-https://www.threepro.co.jp/ir/news/news170719.html<br>
+[インバウンド向けモバイル決済サービスの提供開始に関するお知らせ](https://www.threepro.co.jp/ir/news/news170516.html)<br>
+[SMSを活用した決済ソリューションの提供開始に関するお知らせ](https://www.threepro.co.jp/ir/news/news170714.html)<br>
+[通販事業者のLTV向上を支援する新サービス『通販LINKS』の提供開始に関するお知らせ](https://www.threepro.co.jp/ir/news/news170719.html)<br>
 
 
