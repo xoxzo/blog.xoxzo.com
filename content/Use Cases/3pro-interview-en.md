@@ -51,12 +51,12 @@ __ThreePro Agency Co.,Ltd__ <br>
 Established：January 15, 2004<br>
 Head Office: Shinjuku, Tokyo<br>
 CEO: Katsumi Inamura<br>
-https://www.threepro.co.jp/index.html (Japanese)
+https://www.threepro.co.jp/index.html - automatic! (Japanese)
 
 
 ThreePro Group：<br>
-https://www.threepro.co.jp/ir/news/news170516.html<br>
-https://www.threepro.co.jp/ir/news/news170714.html<br>
-https://www.threepro.co.jp/ir/news/news170719.html<br>
+https://www.threepro.co.jp/ir/news/news170516.html - automatic! <br>
+https://www.threepro.co.jp/ir/news/news170714.html - automatic! <br>
+https://www.threepro.co.jp/ir/news/news170719.html - automatic! <br>
 
 
