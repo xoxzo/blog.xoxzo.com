@@ -14,8 +14,7 @@ __XOXZOのSMS配信APIはどんな業務に活用しているのですか？__
 >私たちは、通販事業者に向けた新サービス「通販LINKS」を7月から始めました。これはコンタクトセンターで受け付ける新規注文やリピート促進コール業務に加え、SMSの代金収納サービス「Payment Mail」をパッケージ化したサービスです。この「Payment Mail」にXOXZOのプラットフォームが使われています。
 
 ![Ohmura-san_01](/images/3proMrOmura01.jpg)
-## <div style="text-align: center;">(上)スリープロエージェンシー株式会社
-新規事業準備室　室長　大村理一さん</div>
+<div style="text-align: center;">(上)スリープロエージェンシー株式会社 新規事業準備室　室長　大村理一さん</div>
 
 
 __「Payment Mail」は具体的にどんな時に使うのでしょう？__
