@@ -2,11 +2,11 @@ Title: [Client Interview] Deeply impressed by XOXZO’s most pleasant responses.
 Date: 2017-08-15 13:00
 Slug: 3pro-interview
 Lang: en
-Tags: client-interview; 3pro; 
+Tags: client interview; 3pro; fintech; sms api
 Author: Akira Nonaka
-Summary: Utilizing IT technology to provide a variety of financial services and developing its “Fintech” business, ThreePro Agency has begun providing a settlement solution through the use of SMS. We have asked the person in charge, Mr. Ohmura, how they are utilizing XOXZO’s SMS sending API.
+Summary: We sat down with ThreePro Agency's Mr. Ohmura on a fine August day and asked him how they are utilizing XOXZO’s SMS sending API for their Fintech business.
 
-
+Utilizing IT technology to provide a variety of financial services and developing its Fintech business, ThreePro Agency has begun providing a settlement solution through the use of SMS. We have asked the person in charge, Mr. Ohmura, how they are utilizing XOXZO’s SMS sending API.
 
 __Q: What kind of business are you using XOXZO’s SMS sending API for?__
 

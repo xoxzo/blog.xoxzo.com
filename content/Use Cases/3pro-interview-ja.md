@@ -1,10 +1,10 @@
-Title: XOXZOの気持ち良い対応に感銘を受けました
+Title: 【クライエント・インタビュー】XOXZOの気持ち良い対応に感銘を受けました
 Date: 2017-08-15 13:00
 Slug: 3pro-interview
 Lang: ja
-Tags: client-interview; 3pro; 
+Tags: client interview; 3pro; fintech; フィンテック; SMS配信API
 Author: Akira Nonaka
-Summary: IT技術を活用した様々な金融サービス「フィンテック」事業を展開しているスリープロエージェンシーは、SMSを使った決済ソリューションの提供をスタート。XOXZOのSMS配信APIをどう活用しているのか、担当の大村さんに伺いました。
+Summary: ある8月晴れた日に、「フィンテック」事業を展開するスリープロエージェンシー担当の大村さんに、XOXZOのSMS配信API活用について伺いました。
 
 IT技術を活用した様々な金融サービス「フィンテック」事業を展開しているスリープロエージェンシーは、SMSを使った決済ソリューションの提供をスタート。XOXZOのSMS配信APIをどう活用しているのか、担当の大村さんに伺いました。
 
