@@ -4,7 +4,7 @@ Slug: jp-local-caller-id
 Lang: ja
 Tags: new function; xoxzo; jp local caller id; PR; 2017; API; dial in numbers; new release; 発信者番号;
 Author: Aiko Yokoyama
-Summary: 簡潔なHTTPエンドポイントで電話につながる、Xoxzoの音声APIに、新たな機能が加わりました。取得したダイアルイン番号を通じて、デフォルトでは国内規制により表示することができない日本の電話番号を、表示可能です。
+Summary: 簡潔なHTTPエンドポイントで電話につながる、Xoxzoの音声APIに、新たな機能が加わりました。取得したダイアルイン番号を通じて、通常では国内規制により表示することができない日本の電話番号を、表示可能です。
 
 平素は、[Xoxzoークラウドテレフォニープラットフォーム](https://www.xoxzo.com/ja/)および[EZSMS国際SMS配信](https://www.ezsms.biz/ja/)をご利用いただき、誠に有難うございます。
 
@@ -15,7 +15,7 @@ Summary: 簡潔なHTTPエンドポイントで電話につながる、Xoxzoの�
 *発信元が別々であっても、受信者からの折り返しを、ひとつの電話番号にまとめられる
 などの利点があります。
 
-この機能のご利用には、まず[DIN：ダイアルイン番号](https://www.xoxzo.com/ja/about/dial-in-api/)より着信番号をひとつ、ご購読ください。その後、電話発信の歳、追加のパラメーターを設定すると、ご利用可能です。
+この機能のご利用には、まず[DIN：ダイアルイン番号](https://www.xoxzo.com/ja/about/dial-in-api/)より着信番号をひとつ、ご契約ください。その後、電話発信の歳、追加のパラメーターを設定すると、ご利用可能です。
 
 さらなる詳細は、[API ドキュメンテーション](http://docs.xoxzo.com/ja/voice.html)を、料金については、[料金ページ](https://www.xoxzo.com/ja/about/pricing/#voice)をご参照ください。
 
