@@ -8,6 +8,5 @@ Summary: LINE上で、ローカル情報を旅行者等に便利に配信する�
 
 チャットアプリ・[LINE（ライン）](https://line.me/en/)上で、コンテンツ配信を行っている [TravelBot（トラベルボット）](http://m-travelbot.weebly.com/)は、この度 XoxzoのAPIを導入し、ユーザーが、訪問先の周辺情報を得る際、インターネット接続のないときには、SMSにて情報の受信を可能とし、サービス内容の前進を図ります。
 
-[TravelBot（トラベルボット）](http://m-travelbot.weebly.com/) は、食事、宿泊、周辺のスーパーや銀行などの情報を、LINE（ライン）にて必要な時に受信できるサービスを運営しています。
-
+[TravelBot（トラベルボット）](http://m-travelbot.weebly.com/) は、現在地情報を[LINE（ライン）](https://line.me/en/)にて共有するだけで、周辺の食事、宿泊、周辺のスーパーや銀行などの情報を、必要な時に受信できるチャットボットです。現在、[LINE（ライン）](https://line.me/en/)上でのみ、ご利用いただけます。
 [![TravelBot Logo](/images/travelbot.png)](http://m-travelbot.weebly.com/)
