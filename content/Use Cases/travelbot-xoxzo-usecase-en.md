@@ -13,8 +13,6 @@ with [Xoxzo API](http://docs.xoxzo.com/en/) to send the information
 to their users who being in need but not in the area available to use
 internet connection.
 
-[TravelBot](http://m-travelbot.weebly.com/) is a service to provide local
-information such as food, accommodation, nearby supermarket and bank, to the
-area visitors upon their request through LINE.
+[TravelBot](http://m-travelbot.weebly.com/) is a chatbot that helps user to find the necessity around them, especially during travel time, such as food, accommodation and necessity around their vicinity. They can interact with TravelBot by sharing their location to TravelBot. Currently TravelBot is only available on LINE.
 
 ![TravelBot Logo](/images/travelbot.png)
