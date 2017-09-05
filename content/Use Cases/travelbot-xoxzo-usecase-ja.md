@@ -1,0 +1,13 @@
+Title: 【Xoxzo】TravelBot （トラベルボット）がサービス内容拡充のため、XoxzoのAPIを導入
+Date: 2017-09-05 15:00
+Slug: travelbot-xoxzo-usecase
+Lang: ja
+Tags: use-cases; travelbot; 
+Author: Aiko Yokoyama
+Summary: LINE上で、ローカル情報を旅行者等に便利に配信するサービス・TravelBot（トラベルボット）は、XoxzoのAPIを使い、インターネット接続のないときには、SMSを使って情報配信し、サービス拡張を図ります。
+
+チャットアプリ・[LINE（ライン）](https://line.me/en/)上で、コンテンツ配信を行っている [TravelBot（トラベルボット）](http://m-travelbot.weebly.com/)は、この度 XoxzoのAPIを導入し、ユーザーが、訪問先の周辺情報を得る際、インターネット接続のないときには、SMSにて情報の受信を可能とし、サービス内容の前進を図ります。
+
+[TravelBot（トラベルボット）](http://m-travelbot.weebly.com/) は、食事、宿泊、周辺のスーパーや銀行などの情報を、LINE（ライン）にて必要な時に受信できるサービスを運営しています。
+
+[![TravelBot Logo](/images/travelbot.png)](http://m-travelbot.weebly.com/)
