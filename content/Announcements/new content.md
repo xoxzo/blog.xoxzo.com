@@ -1,8 +1,9 @@
-Title: 
-Date: 
-Slug: (create the same slug contents in both ja and en version to show the translated articles)
+Title: New content
+Date: 2017-09-06
+Slug: new-content
 Lang: en
-Tags: 
-Author: 
-Summary:
-(blog body here)
+Tags: newcontent; xoxzo;
+Author: Geraldo
+Summary: this is a summary of the new contents
+
+Hi there, this is a new contents from Xoxzo.
