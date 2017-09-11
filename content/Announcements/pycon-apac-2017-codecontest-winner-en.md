@@ -6,8 +6,16 @@ Tags: pycon apac; code; contest;
 Author: Akira Nonaka
 Summary: Announcing PyCon APAC 2017 XOXZO code contest winner
 
-We are very happy to announce that the winner of the "PyCon APAC 2017 XOXZO code contest" is Zaki Haris!
-His project is "XOXZO Nagios Boilerplate".
-It is a boilerplate to write nagios plugin in python and available on github [here.](https://github.com/skycrew/xoxzo-nagios-boilerplate)
+![PyCon APAC 2017 XOXZO code contest](/images/code_contest_screenshot.jpg)
 
-Congratulations Zaki! Your award Amazon gift card is on the way.
+For PyCon APAC 2017, we ran a [code contest](https://xoxzo.github.io/codecontest/)
+for the conference participants as a way to showcase the usages of the Xoxzo Voice API.
+
+We received a total of 4 applicants interested in joining the contest, but at
+the end of the one week period, we only received one valid code submission.
+
+So here are the winners of our [PyCon APAC 2017 XOXZO code contest](https://xoxzo.github.io/codecontest/):
+
+1. [Zaki Haris](https://github.com/skycrew) for his [Nagios plugin](https://github.com/skycrew/xoxzo-nagios-boilerplate)
+
+Congratulations to all the winners! Your award Amazon gift card is on the way.
