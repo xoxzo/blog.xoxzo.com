@@ -22,9 +22,9 @@ PyCon APAC started on Saturday. I had been in the own stall for most of the time
 
 We provided memorial Polo-shirts and Caps to the new signup to our Xoxzo account at our stall. This was quite popular. We also organized a [Code Contest](https://xoxzo.github.io/codecontest/), which is a competition on development of the software using our [Xoxzo Telephony APIs](http://docs.xoxzo.com/en/voice.html).
 
-I enjoyed to communicate with many people from many countries mainly from South-East Asia, although my PyCon APAC 2017 was filled with the busy time at the stall and the presentations of my own and our members.
+I enjoyed to communicate with many people from many countries mainly from South-East Asia, while I kept myself busy at the stall and the presentations of my own and our members.
 
-I left Malaysia with a wish of return to PyCon APAC, although the locale for next year hasn’t been set yet.
+I left Malaysia with a wish of return to PyCon APAC, though the locale for next year hasn’t been set yet.
 
 ![PyCon APAC 2017 XOXZO Opening]({filename}/images/pycon-apac-2017/IMG_7148.jpg)
 ![PyCon APAC 2017 XOXZO Keynote]({filename}/images/pycon-apac-2017/IMG_7214.jpg)
