@@ -8,7 +8,7 @@ Summary: This is my memory of attending PyCon APAC 2017, held on August 26 & 27,
 
 This is my memory of attending PyCon APAC 2017, held on August 26 & 27, 2017 in Kuala Lumpur, Malaysia.
 
-My outward flight was a mid-night flight, D7 523 (Air Asia) departed Haneda at 23.45 then arrived in Kuala Lumpur at 5.50 AM. Inside the plane was unexpectedly freezing and I was chilled into the marrow because of my outfit of mid-summer. It was a oh so long flight to me…
+My outward flight was a mid-night flight, D7 523 (Air Asia) departed Haneda at 23.45 then arrived in Kuala Lumpur at 5.50 AM. Inside the plane was unexpectedly freezing and I was chilled into the marrow because of my outfit of mid-summer. It was oh so long flight to me…
 
 ![PyCon APAC 2017 XOXZO Main Theme]({filename}/images/pycon-apac-2017/IMG_7162.jpg)
 
