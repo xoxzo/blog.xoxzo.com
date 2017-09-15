@@ -6,7 +6,7 @@ Tags: 2017; pycon apac; MY;
 Author: Akira Nonaka 
 Summary: This is my memory of attending PyCon APAC 2017, held on August 26 & 27, 2017 in Kuala Lumpur, Malaysia.
 
-This is my memory of attending PyCon APAC 2017, held on August 26 & 27, 2017 in Kuala Lumpur, Malaysia.
+I attended PyCon APAC 2017, held on August 26 & 27, 2017 in Kuala Lumpur, Malaysia.
 
 My outward flight was a mid-night flight, D7 523 (Air Asia) departed Haneda at 23.45 then arrived in Kuala Lumpur at 5.50 AM. Inside the plane was unexpectedly freezing and I was chilled into the marrow because of my outfit of mid-summer. It was oh so long flight to me…
 
@@ -14,9 +14,9 @@ My outward flight was a mid-night flight, D7 523 (Air Asia) departed Haneda at 2
 
 ![PyCon APAC 2017 XOXZO People]({filename}/images/pycon-apac-2017/IMG_7215.jpg)
 
-Xoxzo has a quite unique working style, we work together remotely from all different countries of this planet. Meeting at PyCon APAC is one of few opportunities for us to meet at a place, so we had a team camp at the first half of the week. I felt so released to discuss with the members on a white board that rarely happens, that also build our friendship even deeper.
+Xoxzo has a quite unique working style, we work together remotely from all different countries of this planet. Meeting at PyCon APAC is one of few opportunities for us to meet at a place, so we had a team camp at the first half of the week. It was a stress-reliever to finally get to discuss with the members on a white board which rarely happens, which also helps build our friendship even deeper.
 
-PyCon APAC started on Saturday. I had been in the own stall for most of the time other than my presentation, as we are the platinum sponsor of PyCon this year. This kept me away from the keynote and the presentation of the other people, unfortunately.
+PyCon APAC started on Saturday. I had been in the own booth for most of the time other than my presentation, as we are the platinum sponsor of PyCon this year. This kept me away from the keynote and the presentation of the other people, unfortunately.
 
 ![PyCon APAC 2017 XOXZO Booth]({filename}/images/pycon-apac-2017/IMG_7116.jpg)
 
