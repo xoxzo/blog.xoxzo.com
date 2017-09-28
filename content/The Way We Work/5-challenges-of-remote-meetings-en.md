@@ -4,6 +4,7 @@ Author: Gerald Figueras
 Tags: work; remote; remotework; workfromhome; freelance; webcall; meeting
 Slug: 5-challenges-of-remote-meetings
 Lang: en
+Thumbnail: /images/working-remotely.jpg
 Summary: The biggest problems encountered while attending team meetings over the web.
 
  
@@ -43,6 +44,4 @@ Skipping necessary details
 The natural structure for meetings leans towards broader topics and general discussions around them. But the remote environment requires much richer detailed to be further discussed since there’s no possibility of a quick conversation at your coworker’s desk. This contributes to meetings that don’t clarity all the necessary points regarding the topics, and as a consequence could disengage a lot of the team members since they might not feel the need to jump in without being questioned.
 
 Next time, we’ll try to come up with solutions to each one of those 5 challenges.
-
-And what about you. What do you think are the biggest challenges in having a remote meeting? Share your thoughts in the comments.
 
