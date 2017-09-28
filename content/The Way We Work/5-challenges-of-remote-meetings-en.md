@@ -9,7 +9,7 @@ Summary: The biggest problems encountered while attending team meetings over the
  
 It’s true that there’s an idealistic vision of remote working nowadays that it’s hard to shake off. With more and more people making the jump for flexible, location-independent ways of doing quality work, the remote setting is still viewed as the ultimate dream-come-true for any professional.
 
-![remote]({filename}/images/working-remotely.jpg)
+![remote](/images/working-remotely.jpg)
 “Could you speak louder? Traffic noise in here is terrible”
 
 But it’s important to keep in check the nuances of this contemporary reality. One of the biggest communication challenges is to hold remote meetings with more than two speakers.
@@ -21,7 +21,7 @@ Unlike in a physical meeting, where people can conduct small parallel talking wi
 
 The result is a very unidirectional meeting, where it’s difficult to properly understand when is the time for you to jump into the talking without interrupting someone. This could tone down the quality of everyone’s inputs since it’s hard to introduce facts and opinions at the right time.
  
-![remote]({filename}/images/family-1-1024x566.png) 
+![remote](/images/family-1-1024x566.png) 
 Please raise your hand if you want to say something.
 
 Technical difficulties:
@@ -32,7 +32,7 @@ The Mute Button effect:
 
 Sometimes is necessary to use the mute button so your environment audio doesn’t disrupt the meeting. This could be traffic, a barking dog, a baby crying, music from a cafe, anything else. But this also creates a kind of escapism for the muted individual, since it’s possible to get all kinds of distractions while still listening to whoever’s talking on the meeting.
 
-![remote]({filename}/images/work_from_home_jedi_council.jpg)
+![remote](/images/work_from_home_jedi_council.jpg)
  
 Lack of small talk:
 
