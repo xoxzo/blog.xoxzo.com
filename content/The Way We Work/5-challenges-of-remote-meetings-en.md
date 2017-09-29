@@ -16,14 +16,14 @@ It’s true that there’s an idealistic vision of remote working nowadays that 
 But it’s important to keep in check the nuances of this contemporary reality. One of the biggest communication challenges is to hold remote meetings with more than two speakers.
 Let’s see the 5 biggest challenges to overcome:
  
-Lack of simultaneous talking:
+## Lack of simultaneous talking:
 
 Unlike in a physical meeting, where people can conduct small parallel talking with one or two people while another smaller group is also talking, it’s impossible to do this in the remote environment. Everyone has the same volume for speaking and listening, and simultaneous talking just generates an incomprehensible noise.
 
 The result is a very unidirectional meeting, where it’s difficult to properly understand when is the time for you to jump into the talking without interrupting someone. This could tone down the quality of everyone’s inputs since it’s hard to introduce facts and opinions at the right time.
  
 ![remote](/images/family-1-1024x566.png) 
-Please raise your hand if you want to say something.
+_Please raise your hand if you want to say something._
 
 Technical difficulties:
 
