@@ -4,7 +4,7 @@ Author: Gerald Figueras
 Tags: work; remote; remotework; workfromhome; freelance; webcall; meeting
 Slug: 5-challenges-of-remote-meetings
 Lang: en
-Thumbnail: /images/working-remotely.jpg
+Thumbnail: images/working-remotely.jpg
 Summary: The biggest problems encountered while attending team meetings over the web.
 
  

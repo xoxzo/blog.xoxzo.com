@@ -12,7 +12,7 @@
   <meta property="og:url" content="{{ SITEURL }}/{{ article.url }}">
   <meta property="og:site_name" content="{{ SITENAME }}">
   {% if article.thumbnail %}
-  <meta property="og:image" content="{{ article.thumbnail }}">
+  <meta property="og:image" content="{{ SITEURL }}/{{ article.thumbnail }}">
   {% else %}
   <meta property="og:image" content="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/xoxzo_opengraph.jpg">
   {% endif %}
@@ -21,6 +21,11 @@
   <meta name="twitter:site" content="@xoxzotelephony">
   <meta name="twitter:title" content="{{ article.title }}">
   <meta name="twitter:description" content="{{ article.summary|striptags }}">
+  {% if article.thumbnail %}
+  <meta name="twitter:image" content="{{ SITEURL }}/{{ article.thumbnail }}">
+  {% else %}
+  <meta name="twitter:image" content="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/xoxzo_twcard.png">
+  {% endif %}
 {% endblock %}
 
 {% block title %}{{ article.title }} | {% trans %}Xoxzo Official Blog{% endtrans %}{% endblock title %}
