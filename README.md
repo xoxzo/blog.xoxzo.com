@@ -90,7 +90,7 @@ like this:
 
 To show particular thumbnail image when the article is shared, fill **Thumbnail** metadata with the image url, like this:
 
-    Thumbnail: https://blog.xoxzo.com/theme/images/xoxzo_opengraph.jpg
+    Thumbnail: images/xoxzo_opengraph.jpg
 
 Otherwise, the default image will appear.
 
