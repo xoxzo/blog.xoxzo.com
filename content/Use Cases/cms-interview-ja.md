@@ -47,7 +47,7 @@ __決済事業のほか、SMS配信のAPIで展開したいことは？__
 __株式会社CMSコミュニケーションズ__ <br>
 
 設立：2005年6月<br>
-本社：東京都台東区<br>
+本社：千葉県柏市<br>
 代表取締役：寺田　学<br>
 [https://www.cmscom.jp/](https://www.cmscom.jp/)
 <br><br>
