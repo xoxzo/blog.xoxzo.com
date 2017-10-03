@@ -45,14 +45,17 @@ __決済事業のほか、SMS配信のAPIで展開したいことは？__
 
 
 __株式会社CMSコミュニケーションズ__ <br>
-![cms-logo](/images/cmscom_logo.gif)<br>
+
 設立：2005年6月<br>
 本社：東京都台東区<br>
 代表取締役：寺田　学<br>
-[https://www.cmscom.jp/](https://www.cmscom.jp/)<br><br>
-[寺田社長のブログ](https://www.cmscom.jp/blog)<br>
-[当社代表「寺田」が Plone Ambassador に任命](https://www.cmscom.jp/news/xsusls)<br>
-[セキュアで低コストなクラウド型動画配信システム 「PVMS」が提供開始！](https://www.cmscom.jp/news/pvms)<br>
+[https://www.cmscom.jp/](https://www.cmscom.jp/)
+<br><br>
+[寺田社長のブログ](https://www.cmscom.jp/blog)
+<br>
+[当社代表「寺田」が Plone Ambassador に任命](https://www.cmscom.jp/news/xsusls)
+<br>
+[セキュアで低コストなクラウド型動画配信システム 「PVMS」が提供開始！](https://www.cmscom.jp/news/pvms)
 
 
 
