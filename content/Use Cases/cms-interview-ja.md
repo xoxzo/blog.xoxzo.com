@@ -1,7 +1,7 @@
 Title: 【クライアント・インタビュー】XOXZOのAPIはすっきりしていて使いやすいです
 Date: 2017-10-03
 Slug: CMS-interview
-Lang: en
+Lang: ja
 Tags: Client interview; CMS; Plone; Python;
 Thumbnail: images/CMSMrTerada-thumb.jpg
 Author: Akira Nonaka
