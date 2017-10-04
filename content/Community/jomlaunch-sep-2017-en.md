@@ -34,6 +34,17 @@ these end up to.
 
 ![Iqbal presenting]({filename}/images/jomlaunch-sep-2017/iqbal-presentation.jpg)
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2aQCNO9N2oeNie"
+width="595" height="485" frameborder="0" marginwidth="0" marginheight="0"
+scrolling="no" style="border:1px solid #CCC; border-width:1px;
+margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div
+style="margin-bottom:5px"> <strong> <a
+href="//www.slideshare.net/xoxzo/jomlaunch-50-sep-2017-by-iqbal-abdullah"
+title="JomLaunch 5.0 Sep 2017 by Iqbal Abdullah" target="_blank">JomLaunch 5.0
+Sep 2017 by Iqbal Abdullah</a> </strong> from <strong><a
+href="https://www.slideshare.net/xoxzo" target="_blank">Xoxzo Inc.</a></strong>
+</div>
+
 It was a vibrant community event, and you can see the enthusiasm was shared by all the
 attendees, speakers, sponsors and organizers.
 
