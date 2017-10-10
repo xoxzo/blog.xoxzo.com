@@ -47,11 +47,11 @@ __Other than payment processing, are there other ways you would like to see an S
 __CMS Communications Co.,Ltd__ <br>
 ![CMS_Logo](/images/CMScomlogo.png)
 <br>Established：June, 2005<br>
-本社：Kashiwa-city, Chiba<br>
-代表取締役：Manabu Terada<br>
-[https://www.cmscom.jp/](https://www.cmscom.jp/)
-<br><br>
-[Director’s blog](https://www.cmscom.jp/blog)
+Head Office：Kashiwa-city, Chiba<br>
+CEO：Manabu Terada<br>
+[https://www.cmscom.jp/](https://www.cmscom.jp/) (Japanese)
+<br><br>(Linked pages below are in Japanese)<br>
+[Director’s blog](https://www.cmscom.jp/blog) 
 <br>
 [Mr.Terada is nominated as Plone Ambassador](https://www.cmscom.jp/news/xsusls)
 <br>
