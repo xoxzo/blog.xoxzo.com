@@ -16,6 +16,6 @@ XOXZOからは私が「Public API運用四方山話」というタイトルで�
 
 DEJIMAは伊藤忠テクノソリューションズさんが、新たに開設されたオープン・イノベーションスペースです。
 
-
+![会場の写真]({filename}/images/api-meetup-2017-10-06/api-meetup-tokyo-20171006.jpg)
 
 
