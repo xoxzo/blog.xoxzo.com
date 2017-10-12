@@ -35,6 +35,7 @@ On the other hand, this kind of precision regarding the topic leaves little spac
 Text might require more skillful wordplay to deliver a message with no room for misinterpretation. Both grammatical errors and the mentioned lack of tone could hurt the true meaning of the message, something that could be quickly and easily addressed with the use of voice.
 
 ![multitask](/images/multitaskingman.jpg)
+
 _"Of course I'm paying attention to everything you say"_
  
 ## Impaired discussions
