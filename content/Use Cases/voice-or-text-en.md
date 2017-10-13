@@ -13,10 +13,10 @@ It’s hard to think of a different reality with fewer choices for communication
 ![phone](/images/oldphone.jpg)
 _"Yes, we're always up to date regarding new technology, rest assured"_ 
 
-But it’s not because we’ve seen a huge influx of text-based communication in the later years that it means it’s the best way for communicating. Each one has its advantages and disadvantages, and it’s important to understand the context so we can choose the right tool for delivering our messages.
+But it’s not because we’ve seen a huge influx of [text-based](https://www.xoxzo.com/en/about/sms-api/) communication in the later years that it means it’s the best way for communicating. Each one has its advantages and disadvantages, and it’s important to understand the context so we can choose the right tool for delivering our messages.
 
 ## Personal convenience
-Everyone tends to show their preferences over voice or text, claiming a more skilled set of communication expressions over one or another. But personal conveniences shouldn’t be the decisive factor when opting for the right tool to deliver a message. Knowing which one will bring more positive results must always trump personal bias.
+Everyone tends to show their preferences over [voice](https://www.xoxzo.com/en/about/voice-api/) or [text](https://www.xoxzo.com/en/about/sms-api/), claiming a more skilled set of communication expressions over one or another. But personal conveniences shouldn’t be the decisive factor when opting for the right tool to deliver a message. Knowing which one will bring more positive results must always trump personal bias.
 
 ## On the record
  
@@ -28,7 +28,7 @@ The simple act of writing requires a preorganization of our ideas and thoughts b
  
 ## Tone and emotions
  
-On the other hand, this kind of precision regarding the topic leaves little space for emotion interpretation. Unlike voice, which carries tone and inflection that helps to better understand the context and real goals of the message, text is completely deprived of this. Especially under more serious environments, where it is completely unprofessional to express text with the aid of emoticons. Body language is a huge part of our communication skills, and text completely mines this.
+On the other hand, this kind of precision regarding the topic leaves little space for emotion interpretation. Unlike [voice](https://www.xoxzo.com/en/about/voice-api/), which carries tone and inflection that helps to better understand the context and real goals of the message, [text](https://www.xoxzo.com/en/about/sms-api/) is completely deprived of this. Especially under more serious environments, where it is completely unprofessional to express text with the aid of emoticons. Body language is a huge part of our communication skills, and text completely mines this.
  
 ## Misinterpretation
  
@@ -40,7 +40,7 @@ _"Of course I'm paying attention to everything you say"_
  
 ## Impaired discussions
  
-Text is a good way for delivering a series of responses cascading from each other, but it’s hardly ideal for achieving a high level of discussion with more than two parties. The rhythm of the conversation over voice incentivize more varied inputs than text, where even in the (dreaded by some) group chats it’s hard to achieve a productive discussion.
+Text is a good way for delivering a series of responses cascading from each other, but it’s hardly ideal for achieving a high level of discussion with more than two parties. The rhythm of the conversation over [voice](https://www.xoxzo.com/en/about/voice-api/) incentivize more varied inputs than [text](https://www.xoxzo.com/en/about/sms-api/), where even in the (dreaded by some) group chats it’s hard to achieve a productive discussion.
 
 ## So, who wins?
 
