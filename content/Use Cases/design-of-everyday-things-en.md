@@ -1,6 +1,6 @@
 Title: How can the design of everyday things help technology advancements?
 Date: 2017-10-05 12:00
-Author: Xoxzo
+Author: Gerald
 Tags: design; technology, api; voice api; voice appointments; 
 Slug: design-of-everyday-things
 Lang: en
