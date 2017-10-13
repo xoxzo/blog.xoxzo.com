@@ -1,6 +1,6 @@
 Title: The 5 challenges of remote meetings
 Date: 2017-09-28 12:00
-Author: Gerald Figueras
+Author: Gerald
 Tags: work; remote; remotework; workfromhome; freelance; webcall; meeting
 Slug: 5-challenges-of-remote-meetings
 Lang: en
