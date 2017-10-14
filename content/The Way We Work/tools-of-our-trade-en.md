@@ -98,6 +98,52 @@ the exception of Help Scout.
 We use the English UI of Help Scout, but receiving and replying Japanese email
 works just as well.
 
+## Drip
+
+Drip is a wonderful tool that aims to automate email marketing, but for us it is
+more relevant in the context on how we want to increase customer satisfaction and
+communication. 
+
+![Drip screenshot]({filename}/images/tools-of-our-trade/drip-screenshot.png)
+
+By setting a few rules and integrating with our system, we can
+make Drip send customized and well crafted email to help our customers move from
+different stages of their usage of our product, and sending resources
+information to them in a timely manner.
+
+Drip's UI is in English, but you can create Japanese emails as well. There are
+certain fixed data which can only be written in English, like the requirement
+for writing your business address at the bottom of each email: You only have one
+space to set that and it's used in _all_ of your outgoing emails regardless.
+
+There is also a slight learning curve as you need to understand the different
+functionalities like Workflows, Rules, Forms but once you go through the
+tutorial and help pages and get grips on those, it's pretty easy to use and powerful.
+
+I've personally met with Drip's Rob Walling during MicroConf 2017 in Las Vegas.
+He's a great guy!
+
+# Public relations
+
+Some of the tools that we use to cultivate relationships and images with the
+general public.
+
+## Twitter
+
+A staple now for nearly all organizations, our Twitter account
+[@xoxzotelephony](https://twitter.com/xoxzotelephony/) is used to send
+out short and quick information on our products, general market news, and what
+we believe are important to our customers and us. 
+
+![Twitter screenshot]({filename}/images/tools-of-our-trade/twitter-screenshot.png)
+
+## Instagram
+
+Because our product are APIs for the web developer, it is something not tangible.
+Instagram puts colours and visual impact on our overall company and product. It
+also allows our customers and the general public to see and know the people
+behind Xoxzo.
+
 # Development and developer tools
 
 I'll introduce you to some of the SaaS that we use within the engineering team.
@@ -135,10 +181,17 @@ to go back and forth from the ticket page to BitBucket.
 
 ## GitHub
 
-We use GitHub to host our public libraries for our Xoxzo Cloud Telephony
-product. We also use GitHub to host our blog and Help Center pages.
+We use GitHub to host our public libraries for different languages like
+[Python](https://github.com/xoxzo/xoxzo.cloudpy),
+[Ruby](https://github.com/xoxzo/xoxzo.cloudruby) or
+[PHP](https://github.com/xoxzo/xoxzo.cloudphp) for our [Xoxzo Cloud
+Telephony](https://www.xoxzo.com/en/) product. 
 
 ![GitHub screenshot]({filename}/images/tools-of-our-trade/github-screenshot.png)
+
+We also use GitHub to host our [blog](https://blog.xoxzo.com/en/)
+and [Help Center](http://help.xoxzo.com/en/) pages. These pages are created
+using markdown and generated with Pelican.
 
 # Conclusion
 
@@ -150,7 +203,4 @@ languages.
 Of course, this list is not set in stone. As new requirements come out and new
 SaaS becomes available, we'll continue to reiterate with different services to
 fit our current work flow of the day.
-
-
-
 
