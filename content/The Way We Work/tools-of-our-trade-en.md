@@ -102,15 +102,15 @@ works just as well.
 
 ## Drip
 
-Drip is a wonderful tool that aims to automate email marketing, but for us it is
-more relevant in the context on how we want to increase customer satisfaction and
+Drip is a wonderful tool that aims to automate email marketing, but for us, it is
+more relevant in the context of how we want to increase customer satisfaction and
 communication. 
 
 ![Drip screenshot]({filename}/images/tools-of-our-trade/drip-screenshot.png)
 
 By setting a few rules and integrating with our system, we can
-make Drip send customized and well crafted email to help our customers move from
-different stages of their usage of our product, and sending resources
+make Drip send customized and well-crafted email to help our customers move from
+different stages of their usage of our product, and send resources
 information to them in a timely manner.
 
 Drip's UI is in English, but you can create Japanese emails as well. There are
@@ -141,8 +141,8 @@ we believe are important to our customers and us.
 
 ## Instagram
 
-Because our product are APIs for the web developer, it is something not tangible.
-Instagram puts colours and visual impact on our overall company and product. It
+Because our product is APIs for the web developer, it is something not tangible.
+Instagram puts colors and visual impact on our overall company and product. It
 also allows our customers and the general public to see and know the people
 behind Xoxzo.
 
