@@ -37,31 +37,22 @@ Confluenceは、覚書やチーム内での知識共有にこの上ないツー�
 
 ![Confluence screenshot]({filename}/images/tools-of-our-trade/confluence-screenshot.png)
 
-Other than a place to share information, Confluence is also great for
-long-winded asynchronous discussion within a specific context. Confluence works
-well with JIRA in a way that it adds more context to specific tasks that we
-have.
+情報の共有のみならず、Confluenceは、ある事柄について、長い期間に渡り、徐々に話し合いを進めていくのにも、適しています。Confluence は、JIRAとも心地よく連動してくれるので、関連の具体的なタスクも加え、内容の充実した話し合いを進められます。
 
-You can have multiple so-called _workspaces_ that can hold different topics. For
-us, we have a separate workspace for each product, role and also ad-hoc items
-like team camps, where we discuss the agenda and output from the camp.
+個別のトピックには、 _workspaces_ と呼ばれるところに分けることができます。Xoxzoでは、この　_workspaces_ を、それぞれのサービス、役割やイベント的特別アイテムー例えばチームキャンプでは、キャンプでの議題やキャンプでの成果を話し合う、などというように、分けて使っています。 
 
-Personally, I use the English UI of Confluence, but it has multiple languages
-which can be set on a per user account. Japanese input is not an issue.
+個人的に、私は Confluence の英語のユーザーインターフェースを使っていますが、個別のアカウントごとに、複数言語に対応可能です。日本語の入力に、問題はありません。
 
-# Customer support and satisfaction
+# カスタマーサポートとサポート内容の評価
 
-Customer support and satisfaction tools are especially important as they are the
-communication lines of us and our customers.
+Xoxzoにとって、カスタマーサポートのツール選びは、顧客とXoxzoをつなぐ、コミュニケーションとなるため、極めて重要です。
 
 ## Help Scout
 
-Our customers mainly talk to us via email, and it's important for us to have
-these conversations in the right context, and sharable across the team.
+Xoxzoのユーザー様は、主にメールを使って、お問い合わせを頂きます。その会話内容がきっちり理解出来て、チーム内で共有可能であることが、最重要条件となります。
 
-Previously we have been using JIRA Service Desk, Desk.com by Salesforce, and
-before that Zendesk, but the conclusion is that these SaaS are too bloated for
-our own straightforward requirements. We wanted to control the UX and UI of our
+これまでXoxzoでは、JIRA サービスデスク, Desk.com (Salesforce社）そして、Zenデスクを利用していました。しかし、Xoxzoの求めている率直なものにしては少し膨大なアプリケーションである、という結論になりました。ヘルプセンターUX・UIを自社仕様にしたい、という要求に、他のヘルプセンターー
+これまでXoxzoでは、JIRA サービスデスク, Desk.com (Salesforce社）そして、Zenデスクを利用していました。しかし、Xoxzoの求めている率直なものにしては少し膨大なアプリケーションである、という結論になりました。ヘルプセンターUX・UIはお好みにbut the conclusion is that these SaaS are too bloated for
 help center, but it is difficult to control the look and feel of the online help
 center functionalities which came with these tools.
 
