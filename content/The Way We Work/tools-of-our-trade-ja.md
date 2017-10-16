@@ -24,7 +24,7 @@ Summary: 100%リモートワーク中の我々Xoxzoが、日本でビジネス�
 
 ## Bonusly
 
-実質的なオフィスがあって、仕事をしている場合、「ありがとう」の言葉を交わしたり、ちょっと手伝ってもらったお礼にコーヒーやベーグルをおごったりして、感謝の気持ちをメンバーに伝えることができるでしょう。Xoxzoでは、Bonuslyという、従業員表彰サービスを取り入れています。
+実質的なオフィスがあって、仕事をしている場合、「ありがとう」の言葉を交わしたり、ちょっと手伝ってもらったお礼にケーキやラーメンをおごったりして、感謝の気持ちをメンバーに伝えることができるでしょう。Xoxzoでは、Bonuslyという、従業員表彰サービスを取り入れています。
 
 ![Bonusly screenshot]({filename}/images/tools-of-our-trade/bonusly-screenshot.png)
 
@@ -33,9 +33,7 @@ Bonusly は日本語に対応していませんが、社内のみの利用とし
 
 ## Confluence by Atlassian
 
-Confluence is a great tool for you to keep and share knowledge amount your team
-members. It also has a comment functionality which you can use to point out and
-talk about a specific item on the page.
+Confluenceは、覚書やチーム内での知識共有にこの上ないツールです。各ページには、コメント付与機能があり、内容への指摘や話し合いも可能です。
 
 ![Confluence screenshot]({filename}/images/tools-of-our-trade/confluence-screenshot.png)
 
