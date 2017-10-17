@@ -31,6 +31,6 @@ curl -v -u $SID:$AUTH_TOKEN \
 ```
 
 
-You may refer more details from below:
-[Callbackurl for SMS delivery](http://docs.xoxzo.com/en/sms.html)
+You may refer more details from below:<br>
+[Callbackurl for SMS delivery](http://docs.xoxzo.com/en/sms.html)<br>
 [Callbackurl for Voice](http://docs.xoxzo.com/en/voice.html)
