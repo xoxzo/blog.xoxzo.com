@@ -51,55 +51,36 @@ Xoxzoにとって、カスタマーサポートのツール選びは、顧客と
 
 Xoxzoのユーザー様は、主にメールを使って、お問い合わせを頂きます。その会話内容がきっちり理解出来て、チーム内で共有可能であることが、最重要条件となります。
 
-これまでXoxzoでは、JIRA サービスデスク, Desk.com (Salesforce社）そして、Zenデスクを利用していました。しかし、Xoxzoの求めている率直なものにしては少し膨大なアプリケーションである、という結論になりました。ヘルプセンターUX・UIを自社仕様にしたい、という要求に、他のヘルプセンターー
-これまでXoxzoでは、JIRA サービスデスク, Desk.com (Salesforce社）そして、Zenデスクを利用していました。しかし、Xoxzoの求めている率直なものにしては少し膨大なアプリケーションである、という結論になりました。ヘルプセンターUX・UIはお好みにbut the conclusion is that these SaaS are too bloated for
-help center, but it is difficult to control the look and feel of the online help
-center functionalities which came with these tools.
+これまでXoxzoでは、JIRA サービスデスク, Desk.com (Salesforce社）そして、Zenデスクを利用していました。しかし、Xoxzoの求めている直球タイプのヘルプセンターにしては少し膨大なアプリケーションである、という結論になりました。また、ヘルプセンターUX・UIを自社仕様にしたい、というXoxzo要求に、他のヘルプセンター・ツールでは応えられなかった、というわけです。
 
-JIRA Service Desk was especially difficult to use, requiring end users to
-register to _their_ help desk software to access their tickets. Of course, you
-might be able to change all these via their settings, but understanding JIRA
-settings is a challenge in itself.
+JIRA のサービスデスクは、Xoxzoの顧客様に対し、_Jiraの_ヘルプデスク・ソフトへの登録を要求したりして、我々にとっては特に導入に手こずるものでした。もちろん、設定を触ることで変更は可能なのでしょうが、Jiraの設定を理解するだけでも一苦労になりそうでした。
 
-The email **From** was also difficult to set on all of the tools that we try, with
-the exception of Help Scout.
+Help Scoutを除いては、サポート・メールを送る際の **From** （差出人）部分を設定するのが、特に手間がかかりました。
 
 ![Help Scout screenshot]({filename}/images/tools-of-our-trade/helpscout-screenshot.png)
 
-We use the English UI of Help Scout, but receiving and replying Japanese email
-works just as well.
+Help Scoutでは、英語のUIを利用していますが、日本語のメールの受信・表示にも何も問題はありません。
 
 ## Drip
 
-Drip is a wonderful tool that aims to automate email marketing, but for us, it is
-more relevant in the context of how we want to increase customer satisfaction and
-communication. 
+メールでのマーケティング・ツールとして、Drip は素晴らしいものです。Xoxzoでは、しかし、ユーザー様がより納得し、コミュニケーションをより多くとれる、という使い方に、重点を置いています。
 
 ![Drip screenshot]({filename}/images/tools-of-our-trade/drip-screenshot.png)
 
-By setting a few rules and integrating with our system, we can
-make Drip send customized and well-crafted email to help our customers move from
-different stages of their usage of our product, and send resources
-information to them in a timely manner.
+ほんのいくつか、ルールを設定して、自社システムと連携すると、Xoxzoのサービスをお使いのそれぞれの場面に応じたサポート内容を、ちょうどよいタイミングにて、Xoxzo仕様の、精巧なメールとして送信することができるようになります。
 
-Drip's UI is in English, but you can create Japanese emails as well. There are
-certain fixed data which can only be written in English, like the requirement
-for writing your business address at the bottom of each email: You only have one
-space to set that and it's used in _all_ of your outgoing emails regardless.
+Drip の UI も英語ですが、日本語のメールも作成できます。例えば、企業の住所を入れる欄は、一種類しか入力する欄がなく、それを_全ての_メールの最後にXoxzoのアドレスとして入れるしかない、など、英語のみでしか対応できないところも、部分的にはありますが。
 
-There is also a slight learning curve as you need to understand the different
-functionalities like Workflows, Rules, Forms but once you go through the
-tutorial and help pages and get grips on those, it's pretty easy to use and powerful.
+ワークフロー、ルール、フォーム等の機能を理解するには、少し時間を要するかもしれませんが、添えられている説明書や、ヘルプページを良く読めばそんなに難しいものでもなく、利用効果は大きいです。
 
-I've personally met with Drip's Rob Walling during MicroConf 2017 in Las Vegas.
-He's a great guy!
+実は私は、個人的に、この Drip社の Rob Walling と、ラス・ベガスで行われた、MicroConf 2017にて、お会いしています。
+素晴らしい人です！
 
-# Public relations
+# 宣伝活動
 
-Some of the tools that we use to cultivate relationships and images with the
-general public.
+皆様との関係やイメージを洗練していくために使っているツールのうち、幾つかを例としてあげます。
 
-## Twitter
+## ツイッター
 
 A staple now for nearly all organizations, our Twitter account
 [@xoxzotelephony](https://twitter.com/xoxzotelephony/) is used to send
