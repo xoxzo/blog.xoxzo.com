@@ -2,14 +2,14 @@
 Title: 【Xoxzo】callbackurl パラメーターのリリース
 Date: 2017/10/17
 Author: Aiko Yokoyama
-Tags: din; did; tutorial;
+Tags: dlr; tutorial;
 Slug: dlr-parameter-tutorial
 Lang: ja
 Summary: 行ったアクションに対するステータス確認に使えるパラメーター「callbackurl」がリリースされました。こちらでは、サンプルコードと併せて、ご案内します。
 
-いつも、Xoxzoークラウドテレフォニープラットフォームをご利用いただき、誠に有難うございます。
+いつも、[Xoxzoークラウドテレフォニープラットフォーム](https://www.xoxzo.com/ja/)をご利用いただき、誠に有難うございます。
 
-この度Xoxzoでは、SMS配信と音声通話VOICEの両方で、アクションに対するステータス確認にお使いいただける、パラメーター「callbackurl」をリリースいたしました。
+この度Xoxzoでは、[SMS配信](http://docs.xoxzo.com/ja/sms.html)と[音声通話VOICE](http://docs.xoxzo.com/ja/voice.html)の両方で、アクションに対するステータス確認にお使いいただける、パラメーター「callbackurl」をリリースいたしました。
 
 このパラメータ（省略可能）をお使いいただくと、ご希望のURLにてhttpのPOSTメソッドを使い、コールバックを行い、
 * SMS配信時には、キャリアからのステータス
