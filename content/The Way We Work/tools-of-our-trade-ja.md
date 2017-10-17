@@ -99,63 +99,39 @@ Xoxzoのエンジニア・チームにて利用しているSaaSについても�
 
 ## JIRA
 
-以前は、GitHub と付属の issues tracker を、それ以前は、Unfuddle を利用していましたが、but both prove to have been lacking in tracking issues within different
-以前は、GitHub と付属の issues tracker を、それ以前は、Unfuddle を利用していましたがどbut both prove to have been lacking in tracking issues within different
-以前は、GitHub と付属の issues tracker を、それ以前は、Unfuddle を利用していましたがbut both prove to have been lacking in tracking issues within different
-projects and connecting them together.
+以前は、GitHub と付属の issues tracker を、それ以前は、Unfuddle を利用していましたが、どちらも残念ながら、別のプロジェクトの案件のトラッキングや、関連付け、という点が欠けていました。
+GitHub はレポジトリを中心としていますが、Xoxzoでは、一つのプロジェクト下に複数のレポジトリを置いて利用するので、案件のトラッキングが難しかったのです。
 
-GitHub revolves around repositories and for our use case, we'll have different
-repositories under a single project, which makes it difficult to track issues.
-
-A big requirement for an issue tracker is to have a bird's eye overview of the
-different open issues, who are responsible for them and any deadlines which have
-passed. JIRA allows us to do that with its powerful issue search functionality.
+案件トラッキングの重要な条件として、ひとつのプロジェクトのなかで、責任者が複数のアクティブ・レポジトリの完了予定日や遅延を一度に俯瞰視できる、というものがありました。JIRA なら、強力な案件検索能力を駆使し、これが可能なのです。
 
 ![JIRA screenshot]({filename}/images/tools-of-our-trade/jira-screenshot.png)
 
-One drawback of JIRA is that the settings are very complicated and not
-intuitive. There is a steep learning curve you'll need to overcome, but to their
-credit, JIRA's support people have been very responsive and helpful.
+JIRA 欠点がひとつ、設定がとても複雑で、ぱっと見で直感的にできるものではないことです。利用者は、かなりの紆余曲折を経ることになりそうですが、良いことには、JIRA のカスタマーサポートは、とても応対がよく、わかりやすいサポートをしてくれます。
 
 ## Bitbucket
 
-Bitbucket is part of the Atlassian suite, so after trying out GitHub while
-trying to make use of the issues functionality, we've decided to move to
-BitBucket which has good integration with JIRA.
+Bitbucket は、Atlassian の一連のパッケージの一つですが、GitHub の案件機能を利用しようといろいろ試していましたが、Jiraとの連携の良い、BitBucket を使うことに決めました。
 
-You can create a branch straight from the JIRA ticket page, and that branch will
-be tracked as part of the ticket. This allows you to see the status of the code
-from the JIRA page (i.e is it merged, or is there a pull request?), instead of
-having to go back and forth from the ticket page to BitBucket.
+JIRA の案件のページから、直接ブランチを造ることが可能で、そのブランチは、案件の一部としてトラッキングが可能です。Jiraのページを見れば、コードの現状を確認することができ、（マージされているか、PRがなされているか、等）BitBucketのページと行ったり来たりする必要がありません。
 
 ## GitHub
 
-We use GitHub to host our public libraries for different languages like
-[Python](https://github.com/xoxzo/xoxzo.cloudpy),
-[Ruby](https://github.com/xoxzo/xoxzo.cloudruby) or
-[PHP](https://github.com/xoxzo/xoxzo.cloudphp) for our [Xoxzo Cloud
-Telephony](https://www.xoxzo.com/en/) product. 
+Xoxzoでは、 [Xoxzo クラウド・テレフォニー](https://www.xoxzo.com/en/) のサービスに関する、下記のような様々な言語によるパブリック・ライブラリを、GitHub にて管理しています。
+[Python](https://github.com/xoxzo/xoxzo.cloudpy)<br>
+[Ruby](https://github.com/xoxzo/xoxzo.cloudruby) <br>
+[PHP](https://github.com/xoxzo/xoxzo.cloudphp) <br>
 
 ![GitHub screenshot]({filename}/images/tools-of-our-trade/github-screenshot.png)
 
-We also use GitHub to host our [blog](https://blog.xoxzo.com/en/)
-and [Help Center](http://help.xoxzo.com/en/) pages. These pages are created
-using markdown and generated with Pelican.
+また、Xoxzoの[ブログ](https://blog.xoxzo.com/ja/)や [Help Center](http://help.xoxzo.com/ja/) もGithubにてホストしています。マークダウンを使ったもので、ペリカンで生成しています。
 
-# Conclusion
+# まとめ
 
-There are many SaaS available for the common issues that your business will
-face. For us, we needed to have something simple that will fit with the workflow
-of our small team, but at the same time will be able to handle different
-languages.
+どの企業でも直面する、似通った問題には、多くのSaaSアプリケーションを用いることができます。Xoxzoでは、少人数のチームのワークフローに見合う、シンプルなもの、しかもマルチ言語に対応できるものを求めています。 
 
-Of course, this list is not set in stone. As new requirements come out and new
-SaaS becomes available, we'll continue to reiterate with different services to
-fit our current workflow of the day.
+もちろん、ここに挙げたリストが今後永久不滅なものではありません。Xoxzoの必要条件にも変更が有り得る上、SaaS側にも、新しいものが出てくる可能性がありますから、Xoxzoでも、日々のワークフローに合った様々なサービスを、繰り返し続けることになります。
 
-For nearly all SaaS out there, if your Japanese team can move beyond the English
-only UI, there will be many more choices powerful (and much cheaper) choices for
-you out there.
+現存の、ほぼ全てのSaaSにおいて、もし日本人チームが英語のみのUIを利用することが可能となれば、強力（しかも安価）なツール利用の、選択の幅も広がるはずです。
 
 
 
