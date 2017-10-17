@@ -17,6 +17,8 @@ Summary: 行ったアクションに対するステータス確認に使える�
 各アクションのステータスをお知らせします。
 
 ご利用には、下記のサンプルコードをお試しください。
+
+#SMS送信確認
 ```javascript
 #!/bin/sh
 # You should get SID and AUTH_TOKEN from XOXZO console
@@ -26,6 +28,18 @@ curl -u $SID:$AUTH_TOKEN \
      --data-urlencode 'message=おはよう' \
      --data-urlencode 'callbackurl=http://example.com/receive_dlr/' \
      https://api.xoxzo.com/sms/messages/
+```
+#VOICE通話結果確認
+```javascript
+#!/bin/sh
+# You should get SID and AUTH_TOKEN from XOXZO console
+curl -v -u $SID:$AUTH_TOKEN \
+     --data-urlencode 'caller=+818011112222' \
+     --data-urlencode 'recipient=+818033334444' \
+     --data-urlencode 'tts_message=おはよう' \
+     --data-urlencode 'tts_lang=ja' \
+     --data-urlencode 'callbackurl=http://example.com/receive_dlr/' \
+     https://api.xoxzo.com/voice/simple/playback/
 ```
 
 ご不明な点は、下記URLよりAPIドキュメンテーションをご参照ください。
