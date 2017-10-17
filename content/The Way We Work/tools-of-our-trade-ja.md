@@ -82,29 +82,26 @@ Drip の UI も英語ですが、日本語のメールも作成できます。�
 
 ## ツイッター
 
-A staple now for nearly all organizations, our Twitter account
-[@xoxzotelephony](https://twitter.com/xoxzotelephony/) is used to send
-out short and quick information on our products, general market news, and what
-we believe are important to our customers and us. 
+どのような組織においても、今は主流となっています。こちらが、Xoxzoのツイッターアカウントです。
+
+[@xoxzotelephony](https://twitter.com/xoxzotelephony/) Xoxzoのサービス関連の緊急通知や、普段のマーケティング関連のお知らせ、また、ユーザー様と我々Xoxzoにとって、大切であると考えている信念などについても、配信しています。
 
 ![Twitter screenshot]({filename}/images/tools-of-our-trade/twitter-screenshot.png)
 
-## Instagram
+## インスタ
 
-Because our product is APIs for the web developer, it is something not tangible.
-Instagram puts colors and visual impact on our overall company and product. It
-also allows our customers and the general public to see and know the people
-behind Xoxzo.
+Xoxzoのサービスは Web開発者向けAPI ですので、実質的な形はありません。インスタでは、Xoxzoの企業全体であるとか、製品についての視覚的なところを色づけることができるのです。それに、ユーザー様やその他の方々にも、Xoxzoの縁の下の力持ちのことを、知っていただき、見ていただく機会にもなっていると思います。
 
-# Development and developer tools
+# 開発・開発者用ツール
 
-I'll introduce you to some of the SaaS that we use within the engineering team.
-As these tools are used only internally, Japanese UI is not a priority.
+Xoxzoのエンジニア・チームにて利用しているSaaSについても、ご紹介したいと思います。
+開発用ツールも社内利用のみとなるので、UIに日本語対応の可否は、重要視していません。
 
 ## JIRA
 
-Previously we were using GitHub with its issues tracker, and before that
-Unfuddle but both prove to have been lacking in tracking issues within different
+以前は、GitHub と付属の issues tracker を、それ以前は、Unfuddle を利用していましたが、but both prove to have been lacking in tracking issues within different
+以前は、GitHub と付属の issues tracker を、それ以前は、Unfuddle を利用していましたがどbut both prove to have been lacking in tracking issues within different
+以前は、GitHub と付属の issues tracker を、それ以前は、Unfuddle を利用していましたがbut both prove to have been lacking in tracking issues within different
 projects and connecting them together.
 
 GitHub revolves around repositories and for our use case, we'll have different
