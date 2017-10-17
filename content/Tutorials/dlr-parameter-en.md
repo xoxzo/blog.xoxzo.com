@@ -1,3 +1,12 @@
+
+Title: 【Xoxzo】New Released callbackurl parameter
+Date: 2017/10/17
+Author: Aiko Yokoyama
+Tags: dlr; tutorial;
+Slug: dlr-parameter-tutorial
+Lang: en
+Summary: Xoxzo has just released a parameter, "callbackurl" on both SMS/VOICE to check the status of actions being made. Here you can check how the sample codes are.
+
 Thank you for using [Xoxzo - Cloud Telephony Platform](https://www.xoxzo.com/en/).
 
 We are glad to announce a new feature release, “callbackurl” parameter to be used in both [SMS API](http://docs.xoxzo.com/en/sms.html) and [Voice API](http://docs.xoxzo.com/en/voice.html).
