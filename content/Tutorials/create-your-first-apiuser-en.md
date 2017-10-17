@@ -3,6 +3,7 @@ Date: 2017-10-13 12:00
 Author: Miko-chan
 Tags: api user; api; tutorial;
 Slug: create-your-first-apiuser
+Thumbnail: images/xoxtan.png
 Lang: en
 Summary: We'll show you on how to create your first API user
 
