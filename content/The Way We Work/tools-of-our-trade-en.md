@@ -3,6 +3,7 @@ Date: 2017-10-12 15:00
 Author: Iqbal Abdullah
 Tags: people; humans; work; nomad; saas; tools;
 Slug: tools-of-our-trade
+Thumbnail: images/tools-of-our-trade/twitter-screenshot.png
 Lang: en
 Summary: SaaS that we use to manage our business in Japan and abroad as a 100% remote team
 
