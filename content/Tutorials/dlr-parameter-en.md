@@ -1,4 +1,3 @@
-
 Title: 【Xoxzo】New Released callbackurl parameter
 Date: 2017/10/17
 Author: Aiko Yokoyama
