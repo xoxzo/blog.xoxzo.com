@@ -25,7 +25,7 @@ APIユーザーを作るのは、とても簡単よ。まずは、ログイン�
 
 そして、プロフィールページで、*『APIユーザーの追加』*っていうボタンを探してみて。 <br>
 
-![apiuserpage](/images/apiuser_page.png) <br>
+![apiuserpage](/images/apiuser_page-ja.png) <br>
 
 見つかったらクリックして、あなたのAPIユーザーの名前を入力！
 
@@ -40,7 +40,7 @@ APIユーザーを作るのは、とても簡単よ。まずは、ログイン�
 それに、『許可IPアドレス』に、IPやCIDRレンジを入力して、利用制限をかけることもできちゃいまーす。 <br> <br>
 制限を解除したくなったらいつでも、このリストから削除してねっ。 <br> <br>
 
-![editpage](/images/edit_page.png)
+![editpage](/images/edit_page-ja.png)
 
 わたしたちXoxzoのAPIの使い方は、[こちら](https://docs.xoxzo.com/ja/) ！ <br>
 どうぞ、よろしくね！
