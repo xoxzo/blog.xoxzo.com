@@ -48,7 +48,7 @@ APIユーザーを作るのは、とても簡単よ。まずは、ログイン�
 
 制限を解除したくなったらいつでも、このリストから削除してねっ。
 
-![editpage](/images/edit_page.png)
+![editpage](/images/edit_page-ja.png)
 
 わたしたちXoxzoのAPIの使い方は、[こちら](https://docs.xoxzo.com/ja/) ！
 どうぞ、よろしくね！
