@@ -1,13 +1,14 @@
 Title: Create your first API user
 Date: 2017-10-13 12:00
 Author: Miko-chan
-Tags: api user; api; tutorial;
+Tags: api user; api; tutorial; mikochan;
 Slug: create-your-first-apiuser
 Thumbnail: images/xoxtan.png
 Lang: en
 Summary: We'll show you on how to create your first API user
 
 ![miko](/images/xoxtan.png)
+
 Welcome aboard to Xoxzo! Now you'll be able to send SMS, make phone calls and many more by using our API. But before you could do that, you would need an API key and token to get going. So where can you get those?
 
 ## What is an API user?
