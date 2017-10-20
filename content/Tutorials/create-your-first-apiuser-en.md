@@ -7,7 +7,7 @@ Thumbnail: images/xoxtan.png
 Lang: en
 Summary: We'll show you on how to create your first API user
 
-![miko](/images/xoxtan.png)
+![miko](/images/xoxtan.png)<br>
 Welcome aboard to Xoxzo! Now you'll be able to send SMS, make phone calls and many more by using our API. But before you could do that, you would need an API key and token to get going. So where can you get those?
 
 ## What is an API user?
