@@ -54,7 +54,7 @@ not really an issue for us.
 
 ## Confluence by Atlassian
 
-Confluence is a great tool for you to keep and share knowledge amount your team
+Confluence is a great tool for you to keep and share knowledge among your team
 members. It also has a comment functionality which you can use to point out and
 talk about a specific item on the page.
 
