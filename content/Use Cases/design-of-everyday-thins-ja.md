@@ -5,11 +5,11 @@ Tags: design; technology, api; voice api; voice appointments;
 Slug: design-of-everyday-things
 Lang: ja
 Thumbnail: images/day18-doors3.jpeg
-Summary: What should we learn from obvious but flawless design of simple things and apply it to technology progress.
+Summary: 技術進歩にも通じる、シンプルなものの、よくわかる、それでいて、完璧なデザインから学べることについて、お話します。
  
              
 
-形より、機能。これがデザインの基本概念で、技術の進歩を進めるときにもしっかり考慮しなくてはならないことです。              
+形より、機能。これはデザインの基本概念で、技術の進歩を進めるときにもしっかり考慮しなくてはならないことです。              
 
 珍しい商品や、遊びにかまけた新商品を作り出す情熱の上に、あぐらをかいているのは簡単です。しかしこれでは、問題を理解する前に、解決策を考えているようなものです。
 
@@ -22,13 +22,13 @@ _即わかる、なんてスバラシイ_
 
 技術史上でも同じことです。新しい扉を作るという意味ではなく、技術を本当に推し進めるような扉を、どのように表現していくか、ということです。基本的なところで解決法を作り出してください。
 
-We’re still threading the usage of voice technology, and sometimes if we keep forcing users to have experiences that are not as smooth as it should be might stagnate the development.
+音声技術の利用法については、まだ発展途上ですので、ユーザー様の思うとおりにいかないようなものを押し付けるのは、開発を停滞させてしまいます。
 
-For example, if you have to repeat several times an instruction to a voice-activated assistant such as Siri or Alexa – due to background noise, different accents, or anything else -, wouldn’t it be easier to keep using text before the technology works flawlessly?
+例えば、Siri（シリ）やAlexaのような、音声認識機能を使うのに、騒音のあるところだとか、アクセントが違うとか、そういった原因で、音声入力を繰り返さなくてはならないとすると…　完璧な技術となるまでは、テキスト入力を使い続けたほうが、便利ですよね？
 
-Instead, we should push the consumer to adopt interfaces that are already working seamlessly, such as [voice-based appointment reminders](https://www.xoxzo.com/en/about/voice-api/). This is already the ideal solution for handling appointments since there are no interface hiccups regarding the usage of voice technology. The API can easily handle scheduling to trigger the necessary message that a customer might need.
+替わりに、ご利用者にはすでにちゃんと動いているインターフェースを、使っていただくべきではないでしょうか。例えば、Xoxzoの[音声通話を使った、顧客へのリマインダーサービス](https://www.xoxzo.com/ja/about/voice-api/)　これは、音声技術という点で、すでにインターフェースにトラブルはないですから、予約の取扱に関して、すでに、この上ないソリューションなのです。このAPIを使うと、顧客様に必要な、ニーズに応じたメッセージを送る時間の設定も簡単にできるのです。
 
-But while voice output is a fine solution to a problem, voice input might not be there yet.
+しかし、音声出力が音声出力に良いソリューションとなっている一方、音声入力がまだそこまで追いついていないのですが。
 
 
 
