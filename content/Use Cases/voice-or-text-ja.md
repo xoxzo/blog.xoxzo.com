@@ -20,15 +20,15 @@ _"はい、新技術という点では、我々は常に最先端でございま
 
 ## 記録という点において
  
-If there’s a necessity for keeping a record of the content discussed during those message exchanges than text has an advantage over voice. Even though it’s possible to record talking over web calls or phone interactions, the way that text is delivered automatically makes a record of everything. Every involved party will have this record, making it easier for tracking specific points of a conversation without any kind of second-guessing.
+メッセージのやり取りの中で、話した内容を記録する必要がある場合には、文字でのやりとりが、音声通話より有利です。ウェブ電話や電話での通話を録音することも、もちろん可能ですが、文字でのやりとりは、そのやり取りそのものが記録となります。 関係者ひとりひとりが、この記録を所持することにもなり、あるポイントについての内容を探したいときにも、何秒単位を気にしなくてよい分、文字の記録の方が簡単です。
+
+## 正確性
  
-## Precision
+ただ単なる_書く_という作業は、実は自分の思いや考えを、前もって準備する手間がかかっています。というのも、何でも頭に浮かんだものをとりとめなく書くのは、大変なことだからです。このことが、話題からブレること無く、自然とメッセージを濃縮し、整頓し、単刀直入なものに作り上げるのです。 
  
-The simple act of writing requires a preorganization of our ideas and thoughts because it’s harder to keep pouring whatever comes to mind into written words. That naturally creates more condensed and organized messages, straight to the point, without any unnecessary distractions from the topic.
+## 口調や感情
  
-## Tone and emotions
- 
-On the other hand, this kind of precision regarding the topic leaves little space for emotion interpretation. Unlike [voice](https://www.xoxzo.com/en/about/voice-api/), which carries tone and inflection that helps to better understand the context and real goals of the message, [text](https://www.xoxzo.com/en/about/sms-api/) is completely deprived of this. Especially under more serious environments, where it is completely unprofessional to express text with the aid of emoticons. Body language is a huge part of our communication skills, and text completely mines this.
+一方、話題に対する正確性というのは、感情の入る隙間がほとんど作りません。口調や抑揚が、伝えたいメッセージの真髄を理解する助けとなる、[音声](https://www.xoxzo.com/ja/about/voice-api/)とは違って、[書かれた文章](https://www.xoxzo.com/en/about/sms-api/) は、特に、よりゆゆしき環境で、絵文字で感情を表現するにはプロ意識に欠けてしまう場合には、完全にこれを阻んでしまうのです。身振りも、コミュニケーション技術という点で、大きな割合を占めますが、書かれた文字では、これも埋まってしまいます。
  
 ## Misinterpretation
  
