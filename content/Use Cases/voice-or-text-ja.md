@@ -15,7 +15,7 @@ _"はい、新技術という点では、我々は常に最先端でございま
 
 しかし、これは、その後、[文字（テキスト）ベース](http://docs.xoxzo.com/ja/sms.html#send-sms-messages-api)のコミュニケーションの波が訪れたからではなく、それこそがコミュニケーションを取る上で、_最善の_手段だったからなのです。どちらも、メリット・デメリットがあり、 内容をしっかり理解することが重要で、そうすれば伝えたい内容を正しい手段を選んで、届けることが出来るのです。
 
-## 個人的な　便利さ
+## 個人的な便利さ
 [音声通話](https://www.xoxzo.com/ja/about/voice-api/)か、[文字チャット](https://www.xoxzo.com/ja/about/sms-api/)か、誰もが、それぞれの好みを、それぞれのコミュニケーションでできる表現の優れた点を上げて、語ることができるでしょう。しかし、個人的至便は、メッセージの伝達方法を考える時に、決定要素とすべきではありません。より前向きな結果を生むのはどちらか、と考えることが個人的な偏見よりも、勝るのです。
 
 ## 記録という点において
@@ -26,24 +26,24 @@ _"はい、新技術という点では、我々は常に最先端でございま
  
 ただ単なる_書く_という作業は、実は自分の思いや考えを、前もって準備する手間がかかっています。というのも、何でも頭に浮かんだものをとりとめなく書くのは、大変なことだからです。このことが、話題からブレること無く、自然とメッセージを濃縮し、整頓し、単刀直入なものに作り上げるのです。 
  
-## 口調や感情
+## 語調や感情
  
-一方、話題に対する正確性というのは、感情の入る隙間がほとんど作りません。口調や抑揚が、伝えたいメッセージの真髄を理解する助けとなる、[音声](https://www.xoxzo.com/ja/about/voice-api/)とは違って、[書かれた文章](https://www.xoxzo.com/en/about/sms-api/) は、特に、よりゆゆしき環境で、絵文字で感情を表現するにはプロ意識に欠けてしまう場合には、完全にこれを阻んでしまうのです。身振りも、コミュニケーション技術という点で、大きな割合を占めますが、書かれた文字では、これも埋まってしまいます。
+一方、話題に対する正確性というのは、感情の入る隙間がほとんど作りません。ことばの調子や抑揚が、伝えたいメッセージの真髄を理解する助けとなる、[音声](https://www.xoxzo.com/ja/about/voice-api/)とは違って、[書かれた文章](https://www.xoxzo.com/en/about/sms-api/) は、特に、よりゆゆしき環境で、絵文字で感情を表現するにはプロ意識に欠けてしまう場合には、完全にこれを阻んでしまうのです。身振りも、コミュニケーション技術という点で、大きな割合を占めますが、書かれた文字では、これも埋まってしまいます。
  
-## Misinterpretation
+## 誤解釈
  
-Text might require more skillful wordplay to deliver a message with no room for misinterpretation. Both grammatical errors and the mentioned lack of tone could hurt the true meaning of the message, something that could be quickly and easily addressed with the use of voice.
+文字でメッセージを伝えるには、誤解を生むようなきっかけを作らぬよう、かなり言葉選びに技術が必要となります。文法的な間違いや、 先述の語調の欠如などが、伝えたい内容の本当の意味を傷つけることになるやもしれません。そんなことがあっても、音声通話をしていれば、素早く簡単にわかるのですが。
 
 ![multitask](/images/multitaskingman.jpg)
 
-_"Of course I'm paying attention to everything you say"_
+_"無論、おっしゃること全てに、耳を傾けている次第でございます"_
  
-## Impaired discussions
+## 損なわれる会話
  
-Text is a good way for delivering a series of responses cascading from each other, but it’s hardly ideal for achieving a high level of discussion with more than two parties. The rhythm of the conversation over [voice](https://www.xoxzo.com/en/about/voice-api/) incentivize more varied inputs than [text](https://www.xoxzo.com/en/about/sms-api/), where even in the (dreaded by some) group chats it’s hard to achieve a productive discussion.
+つぎつぎに、滝のように流れる返答をもらえるのが、文字チャットのよいところですが、人数が2人を超え、レベルの高い話し合いをする際には、適切とはとても言えません。生産的な会話ができにくい、（怖がる人もいる）グループ通話でさえも、 [音声で話す](https://www.xoxzo.com/ja/about/voice-api/) ときの会話のリズムは、[文字テキスト](https://www.xoxzo.com/ja/about/sms-api/)よりも、様々な考えを刺激するものです。
 
-## So, who wins?
+## では、どちらがいいのか?
 
-As you can see, the best form of communication still depends on the goals of each message. Contrary to popular belief, which tends to “kill” the former technology as soon as another one emerges, all forms of communication are still relevant today.
+おわかりの通り、コミュニケーションの最良の方法は、それぞれのメッセージの目指すところによります。次が出てくると、途端に以前のテクノロジーを殺してしまう、人気のある信念とは裏腹に、コミュニケーションの手段というのは、全てがいまだに有効なのです。
  
-In the near future, we’ll do another posting listing specific situations and what is the best suitable communication format for them. 
+近い将来、今度はもっと特定の状況を想定した、最適のコミュニケーション手段について、投稿しますね。
