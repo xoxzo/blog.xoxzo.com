@@ -13,14 +13,12 @@ Summary: 音声とテキスト、どちらも重要なコミュニケーショ�
 ![phone](/images/oldphone.jpg)
 _"はい、新技術という点では、我々は常に最先端でございます。ご安心を"_ 
 
-しかし、But it’s not because we’ve seen a huge influx of [text-based](https://www.xoxzo.com/en/about/sms-api/) communication 
-in the later years that it means it’s the best way for communicating. Each one has its advantages and disadvantages, 
-and it’s important to understand the context so we can choose the right tool for delivering our messages.
+しかし、これは、その後、[文字（テキスト）ベース](http://docs.xoxzo.com/ja/sms.html#send-sms-messages-api)のコミュニケーションの波が訪れたからではなく、それこそがコミュニケーションを取る上で、_最善の_手段だったからなのです。どちらも、メリット・デメリットがあり、 内容をしっかり理解することが重要で、そうすれば伝えたい内容を正しい手段を選んで、届けることが出来るのです。
 
-## Personal convenience
-Everyone tends to show their preferences over [voice](https://www.xoxzo.com/en/about/voice-api/) or [text](https://www.xoxzo.com/en/about/sms-api/), claiming a more skilled set of communication expressions over one or another. But personal conveniences shouldn’t be the decisive factor when opting for the right tool to deliver a message. Knowing which one will bring more positive results must always trump personal bias.
+## 個人的な　便利さ
+[音声通話](https://www.xoxzo.com/ja/about/voice-api/)か、[文字チャット](https://www.xoxzo.com/ja/about/sms-api/)か、誰もが、それぞれの好みを、それぞれのコミュニケーションでできる表現の優れた点を上げて、語ることができるでしょう。しかし、個人的至便は、メッセージの伝達方法を考える時に、決定要素とすべきではありません。より前向きな結果を生むのはどちらか、と考えることが個人的な偏見よりも、勝るのです。
 
-## On the record
+## 記録という点において
  
 If there’s a necessity for keeping a record of the content discussed during those message exchanges than text has an advantage over voice. Even though it’s possible to record talking over web calls or phone interactions, the way that text is delivered automatically makes a record of everything. Every involved party will have this record, making it easier for tracking specific points of a conversation without any kind of second-guessing.
  
