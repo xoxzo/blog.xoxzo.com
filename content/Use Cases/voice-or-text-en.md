@@ -20,7 +20,7 @@ Everyone tends to show their preferences over [voice](https://www.xoxzo.com/en/a
 
 ## On the record
  
-If there’s a necessity for keeping a record of the content discussed during those message exchanges than text has an advantage over voice. Even though it’s possible to record talking over web calls or phone interactions, the way that text is delivered automatically makes a record of everything. Every involved party will have this record, making it easier for tracking specific points of a conversation without any kind of second-guessing.
+If there’s a necessity for keeping a record of the content discussed during those message exchanges then text has an advantage over voice. Even though it’s possible to record talking over web calls or phone interactions, the way that text is delivered automatically makes a record of everything. Every involved party will have this record, making it easier for tracking specific points of a conversation without any kind of second-guessing.
  
 ## Precision
  
