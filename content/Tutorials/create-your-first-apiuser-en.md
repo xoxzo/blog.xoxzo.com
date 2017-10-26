@@ -8,7 +8,7 @@ Lang: en
 Summary: We'll show you on how to create your first API user
 
 <div>
-  <img src="https://blog.xoxzo.com/images/xoxtan.png" class="float-lg-right lg-width200 md-width300" style="margin: 0;">
+  <img src="https://blog.xoxzo.com/images/xoxtan.png" class="float-lg-right lg-width200 md-width300">
 </div>
 <div class="lg-padding-top50 md-padding0">Welcome aboard to Xoxzo! Now you'll be able to send SMS, make phone calls and many more by using our API. But before you could do that, you would need an API key and token to get going. So where can you get those?</div>
 <div style="clear:both;"></div>
