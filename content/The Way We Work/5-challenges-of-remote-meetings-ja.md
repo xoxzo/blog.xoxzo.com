@@ -7,41 +7,39 @@ Lang: ja
 Thumbnail: images/working-remotely.jpg
 Summary: ウェブ上でのチームミーティングに参加中に起こる、問題について、完全リモートワークだからこそできる、Xoxzoがお話します。
  
-昨今では、リモートワークへの理想と夢が、見過ごせなくなってきています。質の高い仕事をする手段として、柔軟で、位置独立したい、と思う人がどんどん増えてきているのです。
+昨今では、リモートワークへの理想と夢が、見過ごせなくなってきています。質の高い仕事をする手段として、柔軟に、位置独立を希望する人が増えてきているのです。
 リモートで働くことで、職種を問わず、究極の夢をかなえることができる、という見方が、未だ根強くあるのです。
 
 ![remote](/images/working-remotely.jpg)
 _“もうちょっと、はっきり喋ってくれる？ ここ、車通りが多くて、聞こえにくいんだ”_
 
-But it’s important to keep in check the nuances of this contemporary reality. One of the biggest communication challenges is to hold remote meetings with more than two speakers.
-Let’s see the 5 biggest challenges to overcome:
+しかし、微妙な違いや、この時代の現実を抑制するのは、重要なことです。2人以上の人数で、リモート会議を開くのも、コミュニケーション上の大きなチャレンジといえるでしょう。そのチャレンジとは:
  
-## Lack of simultaneous talking:
+## 同時進行の会話ができない:
 
-Unlike in a physical meeting, where people can conduct small parallel talking with one or two people while another smaller group is also talking, it’s impossible to do this in the remote environment. Everyone has the same volume for speaking and listening, and simultaneous talking just generates an incomprehensible noise.
+ひとり二人の小さなグループでの話を、並行してそこここでできる実質的な会議と違い、オンラインミーティングは、これができません。会議の出席者全員が、同じだけの語りと聞きを共有し、同時進行で何か他の話をしようものなら、ただの騒音と化してしまうでしょう。
 
-The result is a very unidirectional meeting, where it’s difficult to properly understand when is the time for you to jump into the talking without interrupting someone. This could tone down the quality of everyone’s inputs since it’s hard to introduce facts and opinions at the right time.
+結果として、会議は、他の誰かの話を遮るタイミングを図ることは難しい、単一方向性のものとなります。いい頃合いに、事実や意見を言いがたいため、全員の考えを打ち入れるという意味では、調子の下がるものになりかねません。
  
 ![remote](/images/family-1-1024x566.png) 
-_Please raise your hand if you want to say something._
+_意見のある人は、手を上げて下さーい_
 
-## Technical difficulties:
+## 技術的試練:
 
-Keeping a nice rhythm in meetings is hard. Keeping this and having to deal with technical issues at the same time is even harder. Any kind of connection loss or lag might significantly break the rhythm and impact negatively the expected results in a meeting.
+会議進行のリズムを調子よくし続けるのは、難しいことです。なんとか調子を保っていても、技術的な問題が同時発生すると、より大問題となります。接続や、ズレなどが、このリズムを大きく損ない、会議の成果が悪い方向へと傾くかもしれません。
 
-## The Mute Button effect:
+## ミュート・ボタンの効果:
 
-Sometimes is necessary to use the mute button so your environment audio doesn’t disrupt the meeting. This could be traffic, a barking dog, a baby crying, music from a cafe, anything else. But this also creates a kind of escapism for the muted individual, since it’s possible to get all kinds of distractions while still listening to whoever’s talking on the meeting.
+自分側の音声が会議を台無しにしないよう、時にはミュートボタンを使うことも必要です。背後の交通騒音や、犬が吠える声、こどもの泣き声、カフェで流れる音楽なども、会議の邪魔になり得るのです。しかし、会議では誰かの話が進行中だというのに、他のことに気を取られる機会にもなるため、ミュートを使っている参加者の、現実逃避となってしまうこともあります。
 
 ![remote](/images/work_from_home_jedi_council.jpg)
  
-## Lack of small talk:
+## ちょっとしたおしゃべりの欠如:
 
-It’s absolutely natural to have a certain degree of small talk, especially in the beginning of every meeting where people can exchange pleasantries while getting acquainted. Influenced by what we discussed in number 1, it’s hard to have a natural small talk in the remote meeting, and people tend to jump straight to the topic. This could be seen as helping the effectiveness of meetings, but the lack of daily camaraderie hurts to overall interaction of the whole team, which could contribute to lack of participation due to people not feeling comfortable with each other.
+会議の際、特に開始前には、参加者がお近づきの印に、軽口をたたきあうのはとても自然なことです。先述の通り、この _ちょっとしたおしゃべり_ がリモート会議では難しく、会議は突如、議題に飛んで入ることになります。会議の成果として、有効にも見えますが、日々の友愛の欠如は、チーム全体のふれあいの場を削ぎ、お互いに思い合う感情がない分、参画の欠如にもつながるかもしれません。
 
-## Skipping necessary details
+## 細に入らぬ説明
 
-The natural structure for meetings leans towards broader topics and general discussions around them. But the remote environment requires much richer detailed to be further discussed since there’s no possibility of a quick conversation at your coworker’s desk. This contributes to meetings that don’t clarity all the necessary points regarding the topics, and as a consequence could disengage a lot of the team members since they might not feel the need to jump in without being questioned.
+自然な会議は、身の回りの一般的な事柄を交えた幅広い話題に広がりがちな、構成になります。しかしリモートの環境では、ちょっと同僚のデスクで簡単に話をして、という機会がないため、議題を進めるための、より内容の濃いものが必要となります。そうすると、議題に関して話し合いの必要な点をすべて網羅せず、チームは尋ねられない限りは飛び込む必要に迫られないため、バラバラになる、という結果を生むかもしれないのです。 
 
-Next time, we’ll try to come up with solutions to each one of those 5 challenges.
-
+次回は、ではどうやってこの試練を打開していくのかについて、お話したいと思います。
