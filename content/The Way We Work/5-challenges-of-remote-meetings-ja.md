@@ -1,7 +1,7 @@
 Title: リモート会議における５つの挑戦
 Date: 2017-09-28 12:00
 Author: Gerald
-Tags: work; remote; remotework; workfromhome; freelance; webcall; meeting
+Tags: 仕事; リモート; リモートワーク; 在宅ワーク; フリーランス; オンライン通話; 会議;
 Slug: 5-challenges-of-remote-meetings
 Lang: ja
 Thumbnail: images/working-remotely.jpg
