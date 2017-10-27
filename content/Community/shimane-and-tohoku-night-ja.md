@@ -1,9 +1,10 @@
 Title: ヤフーロッジにて島根と東北について語られた充実の夜
 Date: 2017-10-27 10:00
 Author: Iqbal Abdullah
+Slug: shimane-and-tohoku-night
 Tags: 生涯学習学; リモートワーキング; 島根; 松江市; 東北; 若宮正子; ヤフー; 
 Lang: ja
-Slug: shimane-and-tohoku-night
+Thumbnail: images/lodge-20171026/IMAG0475.jpg
 Summary: ヤフーロッジにて弊社でも強い興味を持ってるリモートワーキングや生涯学習について語られました
 
 よく利用させていただいてる紀尾井町のヤフーロッジの交流スペースですが、
