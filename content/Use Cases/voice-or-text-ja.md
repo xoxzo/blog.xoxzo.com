@@ -1,7 +1,7 @@
 Title: 音声 VS テキスト: どちらがより有効なコミュニケーション・スタイルか？
 Date: 2017-10-12 12:00
 Author: Gerald
-Tags: 音声; 文字; コミュニケーション; api; 音声api; sms; アラート; 通知; 会議; テキスト読み上げ;
+Tags: 音声; 文字; コミュニケーション; api; 音声api; sms; 通知; 会議; テキスト読み上げ; 音声合成; ボイステキスト; スピーチシンセサイザー;
 Slug: voice-or-text
 Lang: ja
 Thumbnail: images/oldphone.jpg
