@@ -1,0 +1,17 @@
+img.lg-width200 {
+    width: 200px;
+}
+
+div.lg-padding-top50 {
+    padding-top: 50px;
+}
+
+@media (max-width: 991px){
+    img.md-width300 {
+        width: 300px;
+    }
+
+    div.md-padding0 {
+        padding: 0;
+    }
+}

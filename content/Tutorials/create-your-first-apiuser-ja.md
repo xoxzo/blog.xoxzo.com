@@ -7,14 +7,13 @@ Thumbnail: images/xoxtan.png
 Lang: ja
 Summary: まずは、あなたの最初のAPIユーザーを作ってみてね！
 
-![miko](/images/xoxtan.png)
-
-Xoxzoへようこそ！
-
-わたしたちのAPIを使うと、SMSを送ったり、電話をかけたり、もっといろいろ、できちゃうんです。
-でも、その前に。APIキーとトークンを手に入れてね！
-
-え？どうやって、やるかって？
+<div>
+  <img src="https://blog.xoxzo.com/images/xoxtan.png" class="float-lg-right lg-width200 md-width300" style="margin: 0;">
+</div>
+<div class="lg-padding-top50 md-padding0">
+Xoxzoへようこそ！わたしたちのAPIを使うと、SMSを送ったり、電話をかけたり、もっといろいろ、できちゃうんです。でも、その前に。APIキーとトークンを手に入れてね！
+え？どうやって、やるかって？</div>
+<div style="clear:both;"></div>
 
 ## APIユーザーって?
 
