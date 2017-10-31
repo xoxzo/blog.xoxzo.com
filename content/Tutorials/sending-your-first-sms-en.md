@@ -17,9 +17,9 @@ Summary: Let's send your first SMS!
 
 What you really need is your computer's command prompt (cmd). In Linux environments and Mac, this is called the terminal or shell instead. For this tutorial, we'll be referring this as the shell.
 
-Next you'll need something to send a HTTP request to Xoxzo's API server for it to process your commands to send an SMS. It goes without saying that you need an active Internet access as well.
+Next, you'll need something to send an HTTP request to Xoxzo's API server for it to process your commands to send an SMS. It goes without saying that you need an active Internet access as well.
 
-Finally you'll need your API User's API SID and Auth Token.
+Finally, you'll need your API User's API SID and Auth Token.
 
 ## How do I find my API SID and Auth Token again?
 
@@ -47,9 +47,9 @@ https://api.xoxzo.com/sms/messages/
 
 You should be getting something like this message in return right after you type that: 
 [{"msgid":"tHi5i5y0urMsGIdt3xT"}]
-Which normally means that everyting went well. You can also type the command in a single line without typing the '\' as well if you wish.
+Which normally means that everything went well. You can also type the command in a single line without typing the '\' as well if you wish.
 
-You should be receiving the message in your phone shortly. Your local carrier might not allow something like 'XoxzoTest' to appear as the sender, so another private number might appear instead.
+You should be receiving the message on your phone shortly. Your local carrier might not allow something like 'XoxzoTest' to appear as the sender, so another private number might appear instead.
 
 And that's it! You've sent your first SMS! If you check your profile page, you'll also notice credits have been deducted after you send the SMS.
 
