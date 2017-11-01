@@ -43,21 +43,21 @@ _フリーダイヤル_ と言えば、特定の電話番号にかけると、�
 
 - 着信利用状況の確認⇒利用状況明細データ取得
 
-**着信した電話に対するアクションを、「自分仕様」にカスタマイズできたらいいな** という時には、_**[Xoxzo VOICE API](https://www.xoxzo.com/ja/about/voice-api/)_**をご利用ください。
+**着信した電話に対するアクションを、「自分仕様」にカスタマイズできたらいいな** という時には、_**[Xoxzo VOICE API](https://www.xoxzo.com/ja/about/voice-api/)**_をご利用ください。
 
--[x] **テキスト読み上げ（TTS）機能を活用し、着信した電話に返答する**
+- [x] **テキスト読み上げ（TTS）機能を活用し、着信した電話に返答する**
 
--[x]  **準備しておいたMP3ファイルを再生して、発信者のほしい情報を音声でご案内**
+- [x]  **準備しておいたMP3ファイルを再生して、発信者のほしい情報を音声でご案内**
 
--[x]  **別の電話番号へ転送**
+- [x]  **別の電話番号へ転送**
 
--[x]  **情報量が多いときには、クリック（タップ）すればアクセスできる、ご案内ウェブサイトへのURLを、電話をかけてきた相手にSMS送信する**
+- [x]  **情報量が多いときには、クリック（タップ）すればアクセスできる、ご案内ウェブサイトへのURLを、電話をかけてきた相手にSMS送信する**
 
--[x] _などなど、ユーザー様の想像力と創造力の限り、いろいろ_
+- [x] _などなど、ユーザー様の想像力と創造力の限り、いろいろ_
 
 なんてことも、できてしまいます。
 
-その他、**[XoxzoのAPI](https://www.xoxzo.com/ja/)**は、_**[SMS配信](https://www.xoxzo.com/ja/about/sms-api/)**_や_**[発信電話](https://www.xoxzo.com/ja/about/voice-api/)**_、_複数で**電話会議**ができる_ _**[カンファレンスコール](http://docs.xoxzo.com/ja/voice.html#simple-conference-api)**_の機能も充実しています。
+その他、**[XoxzoのAPI](https://www.xoxzo.com/ja/)**は _**[SMS配信](https://www.xoxzo.com/ja/about/sms-api/)**_ や_**[発信電話](https://www.xoxzo.com/ja/about/voice-api/)**_ _複数で**電話会議**ができる_ _**[カンファレンスコール](http://docs.xoxzo.com/ja/voice.html#simple-conference-api)**_ の機能も充実しています。
 
 _Xoxzo機能のデモのご希望にも、関東圏を中心に、お応えします。_
 
