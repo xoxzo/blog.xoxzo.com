@@ -27,11 +27,11 @@ Please visit [Xoxzo, Cloud Telephony Platform](https://www.xoxzo.com/en/) from t
 
 
 
-__How to find us: __ 
-Xoxzo, Cloud Telephony Platform： [https://www.xoxzo.com/en/](https://www.xoxzo.com/en/)
-Xoxzo API Documentation：[http://docs.xoxzo.com/en/](http://docs.xoxzo.com/en/)
+__How to find us: __ <br>
+Xoxzo, Cloud Telephony Platform： [https://www.xoxzo.com/en/](https://www.xoxzo.com/en/) <br>
+Xoxzo API Documentation：[http://docs.xoxzo.com/en/](http://docs.xoxzo.com/en/) <br>
 
-__Our past releases: __
-[New release of JP Local Caller ID](https://blog.xoxzo.com/2017/08/23/jp-local-caller-id/)
-[Release of TTS for DIN](https://blog.xoxzo.com/2017/05/24/text-to-speech-for-din/)
-[English support for Text To Speech (TTS) released](https://blog.xoxzo.com/2017/03/22/tts-en-release/)
+__Our past releases: __ <br>
+[New release of JP Local Caller ID](https://blog.xoxzo.com/2017/08/23/jp-local-caller-id/) <br>
+[Release of TTS for DIN](https://blog.xoxzo.com/2017/05/24/text-to-speech-for-din/) <br>
+[English support for Text To Speech (TTS) released](https://blog.xoxzo.com/2017/03/22/tts-en-release/) <br>
