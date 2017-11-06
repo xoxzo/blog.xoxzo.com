@@ -15,18 +15,18 @@ Xoxzoの電話会議APIを使えば、複数人数での通話が可能です。
 
 しかも、使い方は簡単。XoxzoはシンプルなウェブAPIで提供されていますので、１つのAPIを呼び出すだけで、ご利用いただけます。電話会議APIを開始するには、`POST`リクエストをこのエンドポイントに行ってください。
 
-https://api.xoxzo.com/voice/simple/conferences/
+`https://api.xoxzo.com/voice/simple/conferences/`
 
 電話の受信者に伝える「発信者番号」や「電話会議の参加者の電話番号」それに、受信者が電話会議にアクセスする際の音声ガイドの言語などが、併記するパラメーターにて設定できます。
 
 詳細は、[Xoxzo APIのドキュメンテーション](http://docs.xoxzo.com/ja/voice.html#simple-conference-api)をご参照ください。
 
 APIのご利用料金は、月額などの定額請求はございません。ご利用頂いた分のみの課金となります。
-電話会議APIのご利用には、通常の「音声発信」と同じ料金が発生します。
+電話会議APIのご利用には、通常の[「音声発信」](https://www.xoxzo.com/ja/about/voice-api/)と同じ料金が発生します。
 
-日本国内への発信の場合、携帯電話（090, 080, 070で始まる番号）への音声電話発信料金は、一分あたり16円、その他の電話番号への発信は一分あたり10円となります。(参考：[料金表](https://www.xoxzo.com/ja/about/pricing/#voice))
+日本国内への発信の場合、携帯電話（090, 080, 070で始まる番号）への音声電話発信料金は、一分あたり16円、その他の電話番号への発信は一分あたり10円となります。(参考：[料金ページ](https://www.xoxzo.com/ja/about/pricing/#voice))
 
-また、国内への発信の場合、専用のパラメーターを併記し、[発信者番号を特定の番号に表示できるオプション](https://help.xoxzo.com/ja/xoxzo-cloud-telephony-platform/articles/local-caller-id-for-dial-in-numbers/)がございます。（料金は、[料金表](https://www.xoxzo.com/ja/about/pricing/#voice)よりご確認ください。）
+また、国内への発信の場合、専用のパラメーターを併記し、[発信者番号を特定の番号に表示できるオプション](https://help.xoxzo.com/ja/xoxzo-cloud-telephony-platform/articles/local-caller-id-for-dial-in-numbers/)がございます。（料金は、[料金ページ](https://www.xoxzo.com/ja/about/pricing/#voice)よりご確認ください。）
 
 このオプションのご利用には、[ダイアルイン番号:音声電話着信APIサービス](https://www.xoxzo.com/ja/about/dial-in-api/)の購読が必要になります。ダイアルイン番号のわかりやすい使い方は、[こちらのチュートリアル](https://blog.xoxzo.com/ja/2017/07/01/dialinnumbers-tutorial/)にてご確認ください。
 
@@ -36,8 +36,15 @@ APIのご利用料金は、月額などの定額請求はございません。�
 
 ■「Xoxzo」へのアクセス方法  
 ・「Xoxzo」サイトトップページ： [https://www.xoxzo.com/ja/](https://www.xoxzo.com/ja/)
-　「Xoxzo」ドキュメンテーション：[http://docs.xoxzo.com/ja/](http://docs.xoxzo.com/ja/)
+・「Xoxzo」ドキュメンテーション：[http://docs.xoxzo.com/ja/](http://docs.xoxzo.com/ja/)
  
+ 
+■「Xoxzo」最近のリリース 
+* [【Xoxzo】国内の電話番号を、発信者として設定できる新機能リリース](https://blog.xoxzo.com/ja/2017/08/23/jp-local-caller-id/)
+* [【Xoxzo】テキスト読み上げ機能（TTS）が ダイアルインナンバー（DIN）でもご利用頂けます](https://blog.xoxzo.com/ja/2017/05/24/text-to-speech-for-din/)
+* [【Xoxzo】テキスト読み上げ機能に英語サポートが追加されました。](https://blog.xoxzo.com/ja/2017/03/22/tts-en-release/)
+
+
 【株式会社Xoxzoについて】
 
 [![Xoxzoロゴ]({filename}/images/xoxzo-logo-02.png)](http://info.xoxzo.com/ja/)
