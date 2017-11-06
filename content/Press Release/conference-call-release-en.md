@@ -23,15 +23,18 @@ For more details, please refer [Xoxzo API documentation](http://docs.xoxzo.com/e
 
 The usage cost occur only on what and how much you use on Xoxzo API. There is no monthly cost nor set up fees. For this Conference Call API, there will be the same cost as using [VOICE API](http://docs.xoxzo.com/en/voice.html).
 
-Please visit [Xoxzo, Cloud Telephony Platform](https://www.xoxzo.com/en/) from time to time for the future releases, you may do so as easy as just like us [here](https://twitter.com/xoxzotelephony).
+Please visit [Xoxzo, Cloud Telephony Platform](https://www.xoxzo.com/en/) from time to time for the future releases, you may do so as easy as just __like us [here](https://twitter.com/xoxzotelephony). __
 
 
 
-How to find us: 
+__How to find us: __
 Xoxzo, Cloud Telephony Platform： [https://www.xoxzo.com/en/](https://www.xoxzo.com/en/)
+
 Xoxzo API Documentation：[http://docs.xoxzo.com/en/](http://docs.xoxzo.com/en/)
 
-Our past releases:
-[[Xoxzo] New release of JP Local Caller ID](https://blog.xoxzo.com/2017/08/23/jp-local-caller-id/)
-[【Xoxzo】Release of TTS for DIN](https://blog.xoxzo.com/2017/05/24/text-to-speech-for-din/)
-[[Xoxzo] English support for Text To Speech (TTS) released](https://blog.xoxzo.com/2017/03/22/tts-en-release/)
+__Our past releases: __
+[New release of JP Local Caller ID](https://blog.xoxzo.com/2017/08/23/jp-local-caller-id/)
+
+[Release of TTS for DIN](https://blog.xoxzo.com/2017/05/24/text-to-speech-for-din/)
+
+[English support for Text To Speech (TTS) released](https://blog.xoxzo.com/2017/03/22/tts-en-release/)
