@@ -17,7 +17,7 @@ And this can be installed very simple, as all APIs in Xoxzo are offered in very 
 
 ```https://api.xoxzo.com/voice/simple/conferences/ ```
 
-Please specify your __Caller number__ and __Conference Call Attendees__ with the specified parameter, as well as the language of voice guide at the conference.
+Please specify your __Caller number__ and __Conference Call Attendees__ with the specified parameter, as well as the language of voice guide at the conference. The number of attendees are limited to two people.
 
 For more details, please refer [Xoxzo API documentation](http://docs.xoxzo.com/en/voice.html#simple-conference-api).
 
