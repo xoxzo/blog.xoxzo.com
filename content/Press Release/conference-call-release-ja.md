@@ -34,15 +34,17 @@ APIのご利用料金は、月額などの定額請求はございません。�
 
 
 
-■「Xoxzo」へのアクセス方法  
-・「Xoxzo」サイトトップページ： [https://www.xoxzo.com/ja/](https://www.xoxzo.com/ja/)
-・「Xoxzo」ドキュメンテーション：[http://docs.xoxzo.com/ja/](http://docs.xoxzo.com/ja/)
+__■「Xoxzo」へのアクセス方法 __
+
+「Xoxzo」サイトトップページ： [https://www.xoxzo.com/ja/](https://www.xoxzo.com/ja/)
+
+「Xoxzo」ドキュメンテーション：[http://docs.xoxzo.com/ja/](http://docs.xoxzo.com/ja/)
  
  
-■「Xoxzo」最近のリリース 
-* [【Xoxzo】国内の電話番号を、発信者として設定できる新機能リリース](https://blog.xoxzo.com/ja/2017/08/23/jp-local-caller-id/)
-* [【Xoxzo】テキスト読み上げ機能（TTS）が ダイアルインナンバー（DIN）でもご利用頂けます](https://blog.xoxzo.com/ja/2017/05/24/text-to-speech-for-din/)
-* [【Xoxzo】テキスト読み上げ機能に英語サポートが追加されました。](https://blog.xoxzo.com/ja/2017/03/22/tts-en-release/)
+__■「Xoxzo」最近のリリース __
+[【Xoxzo】国内の電話番号を、発信者として設定できる新機能リリース](https://blog.xoxzo.com/ja/2017/08/23/jp-local-caller-id/)
+[【Xoxzo】テキスト読み上げ機能（TTS）が ダイアルインナンバー（DIN）でもご利用頂けます](https://blog.xoxzo.com/ja/2017/05/24/text-to-speech-for-din/)
+[【Xoxzo】テキスト読み上げ機能に英語サポートが追加されました。](https://blog.xoxzo.com/ja/2017/03/22/tts-en-release/)
 
 
 【株式会社Xoxzoについて】
