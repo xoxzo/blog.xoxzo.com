@@ -17,7 +17,7 @@ Xoxzoの電話会議APIを使えば、複数人数での通話が可能です。
 
 ```https://api.xoxzo.com/voice/simple/conferences/```
 
-電話の受信者に伝える「発信者番号」や「電話会議の参加者の電話番号」それに、受信者が電話会議にアクセスする際の音声ガイドの言語などが、併記するパラメーターにて設定できます。
+電話の受信者に伝える「発信者番号」や「電話会議の参加者の電話番号」それに、受信者が電話会議にアクセスする際の音声ガイドの言語などが、併記するパラメーターにて設定できます。電話会議の参加人数は、2名までです。
 
 詳細は、[Xoxzo APIのドキュメンテーション](http://docs.xoxzo.com/ja/voice.html#simple-conference-api)をご参照ください。
 
@@ -29,24 +29,18 @@ APIのご利用料金は、月額などの定額請求はございません。�
 
 
 
-__■「Xoxzo」へのアクセス方法 __
-
-「Xoxzo」サイトトップページ： [https://www.xoxzo.com/ja/](https://www.xoxzo.com/ja/)
-
-「Xoxzo」ドキュメンテーション：[http://docs.xoxzo.com/ja/](http://docs.xoxzo.com/ja/)
+__■「Xoxzo」へのアクセス方法 __ <br>
+「Xoxzo」サイトトップページ： [https://www.xoxzo.com/ja/](https://www.xoxzo.com/ja/) <br>
+「Xoxzo」ドキュメンテーション：[http://docs.xoxzo.com/ja/](http://docs.xoxzo.com/ja/) <br>
  
  
 __■「Xoxzo」最近のリリース __
-
-[【Xoxzo】国内の電話番号を、発信者として設定できる新機能リリース](https://blog.xoxzo.com/ja/2017/08/23/jp-local-caller-id/)
-
-[【Xoxzo】テキスト読み上げ機能（TTS）が ダイアルインナンバー（DIN）でもご利用頂けます](https://blog.xoxzo.com/ja/2017/05/24/text-to-speech-for-din/)
-
+[【Xoxzo】国内の電話番号を、発信者として設定できる新機能リリース](https://blog.xoxzo.com/ja/2017/08/23/jp-local-caller-id/)<br>
+[【Xoxzo】テキスト読み上げ機能（TTS）が ダイアルインナンバー（DIN）でもご利用頂けます](https://blog.xoxzo.com/ja/2017/05/24/text-to-speech-for-din/)<br>
 [【Xoxzo】テキスト読み上げ機能に英語サポートが追加されました。](https://blog.xoxzo.com/ja/2017/03/22/tts-en-release/)
 
 
-【株式会社Xoxzoについて】
-
+【株式会社Xoxzoについて】<br>
 [![Xoxzoロゴ]({filename}/images/xoxzo-logo-02.png)](http://info.xoxzo.com/ja/)
 
 Xoxzoは、2007年2月に設立以来SMS技術を中心に自社サービスを開発、運営をしています。「**継続改善**」をキーワードにしてお客様のニーズを満たすサービスを目指しています。
