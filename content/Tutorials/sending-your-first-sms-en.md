@@ -17,6 +17,8 @@ Summary: Let's send your first SMS!
 
 What you really need is your computer's command prompt (cmd). In Linux environments and Mac, this is called the terminal or shell instead. For this tutorial, we'll be referring this as the shell.
 
+![shell](/images/Tutorial/send-sms/shell.png)
+
 Next, you'll need something to send an HTTP request to Xoxzo's API server for it to process your commands to send an SMS. It goes without saying that you need an active Internet access as well.
 
 Finally, you'll need your API User's API SID and Auth Token.
@@ -26,6 +28,8 @@ Finally, you'll need your API User's API SID and Auth Token.
 Log into your account, and you can see the API SID column for your first API User is already filled with jumbled text. Your entire API SID is not shown in full, so to get it, just double click on the text and copy it via Ctrl-C. Paste it in your notepad for easy reference.
 
 Click on the "Show Token" button and copy the text in the Auth Token column as well.
+
+![SID and token](/images/Tutorial/send-sms/sidtoken.png)
 
 Now that you have your API SID and Auth Token texts, put them together like this:
 
@@ -39,14 +43,16 @@ Let's try sending an SMS to your own phone first to see it in action. Note that 
 
 Type this in your shell prompt:
 
+```
 curl -u th3ApISiDt3xtTh4tyoUcoPied:Th3aUthT0k3nth4tY0uCopi3D \
 --data-urlencode 'sender=XoxzoTest' \
 --data-urlencode 'recipient=putyourphonenumberhere' \
 --data-urlencode 'message=Hallo hello!' \
 https://api.xoxzo.com/sms/messages/
+```
 
 You should be getting something like this message in return right after you type that: 
-[{"msgid":"tHi5i5y0urMsGIdt3xT"}]
+`[{"msgid":"tHi5i5y0urMsGIdt3xT"}]`
 Which normally means that everything went well. You can also type the command in a single line without typing the '\' as well if you wish.
 
 You should be receiving the message on your phone shortly. Your local carrier might not allow something like 'XoxzoTest' to appear as the sender, so another private number might appear instead.
