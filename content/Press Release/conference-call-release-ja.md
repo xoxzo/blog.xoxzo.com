@@ -22,7 +22,7 @@ Xoxzoの電話会議APIを使えば、複数人数での通話が可能です。
 詳細は、[Xoxzo APIのドキュメンテーション](http://docs.xoxzo.com/ja/voice.html#simple-conference-api)をご参照ください。
 
 APIのご利用料金は、月額などの定額請求はございません。ご利用頂いた分のみの課金となります。
-電話会議APIのご利用には、通常の[「音声発信」](https://www.xoxzo.com/ja/about/voice-api/)と同じ料金が発生します。
+電話会議APIのご利用には、通常の[「音声発信」](https://www.xoxzo.com/ja/about/voice-api/)と同じ料金が、電話会議の参加人数分（2名まで）発生します。
 (参考：[料金ページ](https://www.xoxzo.com/ja/about/pricing/#voice))
 
 今後共、[Xoxzo-クラウド・テレフォニー・プラットフォーム](https://www.xoxzo.com/ja/)の新機能リリースにご期待下さい。[ツイッターでフォロー](https://twitter.com/xoxzotelephony)いただけますと、このリリース情報がいち早くご確認いただけます。
