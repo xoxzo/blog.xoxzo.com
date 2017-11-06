@@ -23,12 +23,7 @@ Xoxzoの電話会議APIを使えば、複数人数での通話が可能です。
 
 APIのご利用料金は、月額などの定額請求はございません。ご利用頂いた分のみの課金となります。
 電話会議APIのご利用には、通常の[「音声発信」](https://www.xoxzo.com/ja/about/voice-api/)と同じ料金が発生します。
-
-日本国内への発信の場合、携帯電話（090, 080, 070で始まる番号）への音声電話発信料金は、一分あたり16円、その他の電話番号への発信は一分あたり10円となります。(参考：[料金ページ](https://www.xoxzo.com/ja/about/pricing/#voice))
-
-また、国内への発信の場合、専用のパラメーターを併記し、[発信者番号を特定の番号に表示できるオプション](https://help.xoxzo.com/ja/xoxzo-cloud-telephony-platform/articles/local-caller-id-for-dial-in-numbers/)がございます。（料金は、[料金ページ](https://www.xoxzo.com/ja/about/pricing/#voice)よりご確認ください。）
-
-このオプションのご利用には、[ダイアルイン番号:音声電話着信APIサービス](https://www.xoxzo.com/ja/about/dial-in-api/)の購読が必要になります。ダイアルイン番号のわかりやすい使い方は、[こちらのチュートリアル](https://blog.xoxzo.com/ja/2017/07/01/dialinnumbers-tutorial/)にてご確認ください。
+(参考：[料金ページ](https://www.xoxzo.com/ja/about/pricing/#voice))
 
 今後共、[Xoxzo-クラウド・テレフォニー・プラットフォーム](https://www.xoxzo.com/ja/)の新機能リリースにご期待下さい。
 
