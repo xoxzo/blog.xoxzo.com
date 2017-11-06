@@ -23,7 +23,7 @@ For more details, please refer [Xoxzo API documentation](http://docs.xoxzo.com/e
 
 The usage cost occur only on what and how much you use on Xoxzo API. There is no monthly cost nor set up fees. For this Conference Call API, there will be the same cost as using [VOICE API](http://docs.xoxzo.com/en/voice.html).
 
-Please visit [Xoxzo, Cloud Telephony Platform](https://www.xoxzo.com/en/) from time to time for the future releases, you may do so as easy as just __like us [here](https://twitter.com/xoxzotelephony). __
+Please visit [Xoxzo, Cloud Telephony Platform](https://www.xoxzo.com/en/) from time to time for the future releases, you may do so as easy as just __follow us [here](https://twitter.com/xoxzotelephony). __
 
 
 
