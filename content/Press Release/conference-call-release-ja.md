@@ -25,26 +25,26 @@ Xoxzoの電話会議APIを使えば、複数人数での通話が可能です。
 
 電話の受信者に伝える「発信者番号」や「電話会議の参加者の電話番号」それに、
 受信者が電話会議にアクセスする際の音声ガイドの言語などが、
-併記するパラメーターにて設定できます。電話会議の参加人数は、2名までです。
+併記するパラメーターにて設定できます。電話会議の参加人数は、少なくとも2名から最大3名までです。
 
 詳細は、
 [Xoxzo APIのドキュメンテーション](http://docs.xoxzo.com/ja/voice.html#simple-conference-api)をご参照ください。
 
 APIのご利用料金は、月額などの定額請求はございません。ご利用頂いた分のみの課金となります。
 電話会議APIのご利用には、通常の[「音声発信」](https://www.xoxzo.com/ja/about/voice-api/)と同じ料金が、
-電話会議の参加人数分（2名まで）発生します。
+電話会議の参加人数分発生します。
 (参考：[料金ページ](https://www.xoxzo.com/ja/about/pricing/#voice))
 
 今後共、[Xoxzo-クラウド・テレフォニー・プラットフォーム](https://www.xoxzo.com/ja/)
 の新機能リリースにご期待下さい。[ツイッターでフォロー](https://twitter.com/xoxzotelephony)いただけますと、
 このリリース情報がいち早くご確認いただけます。
 
-__■「Xoxzo」へのアクセス方法 __
+__ ■「Xoxzo」へのアクセス方法 __
 
 * 「Xoxzo」サイトトップページ： [https://www.xoxzo.com/ja/](https://www.xoxzo.com/ja/)
 * 「Xoxzo」ドキュメンテーション：[http://docs.xoxzo.com/ja/](http://docs.xoxzo.com/ja/)
  
-__■「Xoxzo」最近のリリース __
+__ ■「Xoxzo」最近のリリース __
 
 * [【Xoxzo】国内の電話番号を、発信者として設定できる新機能リリース](https://blog.xoxzo.com/ja/2017/08/23/jp-local-caller-id/)<br>
 * [【Xoxzo】テキスト読み上げ機能（TTS）が ダイアルインナンバー（DIN）でもご利用頂けます](https://blog.xoxzo.com/ja/2017/05/24/text-to-speech-for-din/)<br>
