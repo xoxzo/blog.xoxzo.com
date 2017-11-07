@@ -2,6 +2,7 @@ Title: 【Xoxzo】電話会議APIをリリースしました
 Date: 2017-11-07 00:00
 Author: Aiko Yokoyama
 Tags: プレスリリース, 電話会議, 効率化, 電話会議, VOICE, ローカル発信者番号, API
+Thumbnail: images/xoxzo-logo-02.png
 Slug: conference-call-release
 Lang: ja
 
