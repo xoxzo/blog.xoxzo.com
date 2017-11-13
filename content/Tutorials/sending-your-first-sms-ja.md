@@ -1,27 +1,28 @@
-Title: Sending your first SMS
+Title: 最初のSMSを送ってみよう！
 Date: 2017-10-31 12:00
 Author: Miko-chan
-Tags: sms; api user; api; tutorial; mikochan;
+Tags: sms; api ユーザー; api; チュートリアル; みこちゃん;
 Slug: sending-your-first-sms
 Thumbnail: images/xoxtan.png
-Lang: en
-Summary: Let's send your first SMS!
+Lang: ja
+Summary: さぁ、最初のSMSを送る準備はOK?
 
 <div>
   <img src="https://blog.xoxzo.com/images/xoxtan.png" class="float-lg-right lg-width200 md-width300" style="margin: 0;">
 </div>
-<div class="lg-padding-top50 md-padding0">Now that you've created your API User, we can go ahead and explore what the Xoxzo API can do. At its simplest function, you can use the Xoxzo API to do what a phone can do: which is SMS and voice call. We'll go ahead and send an SMS for you to try it out!</div>
+<div class="lg-padding-top50 md-padding0">前回のチュートリアルでは、最初のAPIユーザーを作ったわよね？じゃぁ、XoxzoのAPIを使って何ができるのかもっと探検してみましょ？　一番シンプルな機能として、XoxzoのAPIと電話でできること、つまり、SMS（ショートメッセージ）の送信と、音声通話なんだけど、まずはSMSをお試しで送るように、進めちゃうわね！</div>
 <div style="clear:both;"></div>
 
-## What do I need?
+## 何を準備したらいいの?
 
-What you really need is your computer's command prompt (cmd). In Linux environments and Mac, this is called the terminal or shell instead. For this tutorial, we'll be referring this as the shell.
+必要なのは、パソコンに入っている、コマンド・プロンプトっていうもの(cmd)。LinuxやMacだと、ターミナルとかシェルって呼ばれてまーす。このチュートリアルでは、統一して「シェル」って呼ぶことにするわねっ！
 
 ![shell](/images/Tutorial/send-sms/shell.png)
 
-Next, you'll need something to send an HTTP request to Xoxzo's API server for it to process your commands to send an SMS. It goes without saying that you need an active Internet access as well.
+次は、XoxzoのAPIサーバーに接続して、SMS送信のコマンドを処理させるためにHTTPリクエストを送るもの、それが必要ね。インターネット接続が必要なことは、もちろん言うまでもないけどね。
 
-Finally, you'll need your API User's API SID and Auth Token.
+
+そして仕上げにFinally, you'll need your API User's API SID and Auth Token.
 
 ## How do I find my API SID and Auth Token again?
 
