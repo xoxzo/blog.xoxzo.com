@@ -22,13 +22,13 @@ Summary: さぁ、最初のSMSを送る準備はOK?
 次は、XoxzoのAPIサーバーに接続して、SMS送信のコマンドを処理させるためにHTTPリクエストを送るもの、それが必要ね。インターネット接続が必要なことは、もちろん言うまでもないけどね。
 
 
-そして仕上げにFinally, you'll need your API User's API SID and Auth Token.
+そして仕上げに、この前のチュートリアルでつくった、APIユーザーのAPIキーとトークンが必要ですから、用意してね。
 
-## How do I find my API SID and Auth Token again?
+## え？APIユーザーキーとトークンって、どこで探すんだったっけ・・・って？
 
-Log into your account, and you can see the API SID column for your first API User is already filled with jumbled text. Your entire API SID is not shown in full, so to get it, just double click on the text and copy it via Ctrl-C. Paste it in your notepad for easy reference.
+アカウントにログインしたら、API SIDの欄と、Auth Token欄にある、ごちゃまぜテキストが、そのAPIユーザーのキーとトークン情報よ。見えてる部分はゼンブじゃないから、ダブルクリックしたりして、ゼンブをコピーしてね。ノートパッドなんかを使うと、見やすいわね！
 
-Click on the "Show Token" button and copy the text in the Auth Token column as well.
+トークンも、「トークン表示」ボタンをクリックして表示させてから、コピーしてね。
 
 ![SID and token](/images/Tutorial/send-sms/sidtoken.png)
 
