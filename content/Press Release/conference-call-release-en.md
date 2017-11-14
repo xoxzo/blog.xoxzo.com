@@ -5,6 +5,7 @@ Tags: Press Release, Conference-call, efficiency, API, VOICE, Local-caller-id
 Thumbnail: images/xoxzo-logo-02.png
 Slug: conference-call-release
 Lang: en
+Summary: Conference-call API is now available at Xoxzo!! On top of our already convenient features of Sending-SMS and VOICE, this is another beautifully wonderful API that is simple enough for easy collaboration with your own Application.
 
 Thank you for using [Xoxzo, Cloud Telephony Platform](https://www.xoxzo.com/en/).
 
