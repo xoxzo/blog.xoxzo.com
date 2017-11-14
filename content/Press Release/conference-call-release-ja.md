@@ -5,6 +5,7 @@ Tags: プレスリリース, 電話会議, 効率化, 電話会議, VOICE, ロ�
 Thumbnail: images/xoxzo-logo-02.png
 Slug: conference-call-release
 Lang: ja
+Summary: XoxzoのAPIに、「電話会議」が加わりました。一斉通知やマーケティングに便利な「SMS配信」や電話の転送や、コールセンター、音声案内電話にと多目的に活用いただける「音声通話VOICE」と共に、「シンプルで美しいAPI」の新機能を是非お試しください。
 
 いつも、[Xoxzo-クラウド・テレフォニー・プラットフォーム](https://www.xoxzo.com/ja/)をご利用いただき、
 有難うございます。
