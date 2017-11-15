@@ -11,15 +11,16 @@ Summary: How to check the status of your SMS.
   <img src="https://blog.xoxzo.com/images/xoxtan.png" class="float-lg-right lg-width200 md-width300" style="margin: 0;">
 </div>
 <div class="lg-padding-top50 md-padding0">
-Now that we managed to send an SMS in the previous article: [Sending your first SMS](https://blog.xoxzo.com/2017/10/31/sending-your-first-sms/), you'll notice that we get a msgid string in return after we run the CURL command, like so:
-`[{"msgid":"tHi5i5y0urMsGIdt3xT"}]`
-We know that we sent the SMS correctly, otherwise the return message will be different. But how do we know if the SMS is actually received?
+
+Now that we managed to send an SMS in the [previous article](https://blog.xoxzo.com/2017/10/31/sending-your-first-sms/), you'll notice that we get a msgid string in return after we run the CURL command, like this:
+`[{"msgid":"tHi5i5y0urMsGIdt3xT"}]`.
+We know that we sent the SMS correctly, otherwise the return message would've been different. But how do we know if the SMS was actually received?
 </div>
 <div style="clear:both;"></div>
 
 ## SMS checking command
 
-We'll still use CURL to check the SMS status, similar to how we sent an SMS. The difference will be in the parameters we provide and the url.
+We'll still use CURL to check the SMS status, similar to how we sent an SMS. The difference will be in the parameters we provide and the URL.
 
 To check on the status of your SMS, run this:
 
@@ -47,7 +48,7 @@ Content-Type: application/json
 
 Of course, the cost will depend on which number you are sending too. You can get the pricing details here: [SMS Pricing](https://www.xoxzo.com/en/about/pricing/#sms)
 
-The SMS statuses is in this list:
+The SMS statuses are in this list:
 |---|---|
 | QUEUED | Message put into queue and will be delivered shortly |
 | OK | Message successfully delivered |
@@ -74,7 +75,7 @@ curl -u th3ApISiDt3xtTh4tyoUcoPied:Th3aUthT0k3nth4tY0uCopi3D \
 https://api.xoxzo.com/sms/messages/?sent_date=2017-10-31
 ```
 
-If you didn't send an SMS during that date, it will still return a 200 OK response, but it'll be empty:
+If you didn't send an SMS during that period, it will still return a 200 OK response, but it'll be empty:
 
 ```
 HTTP/1.0 200 OK
@@ -98,7 +99,7 @@ Content-Type: application/json
 
 You'll also get a 400 Bad Request response if your parameters are incorrect.
 
-And that's it! There's more details in our [SMS documentation](http://docs.xoxzo.com/en/sms.html#check-sms-status-api) which you can check out as well!
+And that's it! There are more details in our [SMS documentation](http://docs.xoxzo.com/en/sms.html#check-sms-status-api) which you can check out as well!
 
 Check out our [docs](https://docs.xoxzo.com/en/) to see what cool things you can do with our API. 
 
