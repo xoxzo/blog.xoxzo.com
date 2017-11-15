@@ -47,28 +47,29 @@ If you’ve ever wanted to **customize to your own specifications** the actions 
     - “Thank you for your call.  This is Xoxzo Dental Clinic.  To cancel your appointment, please press 3…”
     - “This is the Xoxzo campaign office.  We will send a URL for a special discounted shopping site to your phone…” (Then sends an SMS message, per 4th bullet below, “when you have a large amount of information you want to send”)
 
+- _Play MP3 files you have prepared to provide callers with information they are looking for_
+    - “The next Xoxzo API informational seminar will be held at [time] on [day] of [month] at the Xoxzo Hall’s Conference Room Number 1…” 
+    -“Today’s game of SMS versus VOICE at Xoxzo stadium was a draw, 5 to 5.  The next game will be on [day] of [month]…”
 
-- __準備しておいたMP3ファイルを再生して、発信者のほしい情報を音声でご案内__
-    - 「次回のXoxzo API 説明会は、◯月◯日◯曜日　◯時より、Xoxzo会館第一会議室にて行います…」
-    - 「本日のXoxzo球場での試合、SMS対VOICE の結果は、５対５で引き分けました。次回は◯月◯日…」
-•	Play MP3 files you have prepared to provide callers with information they are looking for
-o	“The next Xoxzo API informational seminar will be held at ◯ time on ◯ day of ◯ month at the Xoxzo Hall’s Conference Room Number 1…” 
-o	“Today’s game between SMS and VOICE at Xoxzo stadium was a draw, 5 to 5.  The next game will be on ◯ day of ◯ month…”
+- _Forward to a different phone number_
+    - If you set up your office phone to forward calls to your cell phone, you won’t miss any important calls even on your days off
+    - Xoxzo’s API makes it easy to forward calls when you want to accept calls for multiple numbers on one phone
 
+- _When you have a large amount of information you want to communicate, send an SMS to the caller and have them “click (or tap) a URL to access a website with information”_
 
-- __別の電話番号へ転送__
-    - 休日にオフィスへかかる電話を、自分の携帯電話に転送設定すれば、大切な電話を逃すこともありません
-    - 複数の電話番号を、ひとつの電話で受信したい場合も、XoxzoのAPIを使えば、簡単転送
+- _And so on.  There are many different possibilities_
 
-- __伝えたい情報量が多いときには、_「クリック（タップ）すればアクセスできる、ご案内ウェブサイトへのURL」_を、電話をかけてきた相手にSMS送信する__
-
- _などなど、ユーザー様の想像力と創造力の限り、いろいろ_
-
-なんてことも、できてしまいます。
+_constrained only by our users’ imagination and creativity._
 
 その他、**[XoxzoのAPI](https://www.xoxzo.com/ja/)**は _**[SMS配信](https://www.xoxzo.com/ja/about/sms-api/)**_ や _**[発信電話](https://www.xoxzo.com/ja/about/voice-api/)**_ _複数で**電話会議**ができる_ _**[カンファレンスコール](http://docs.xoxzo.com/ja/voice.html#simple-conference-api)**_ の機能も充実しています。
 
 _Xoxzo機能のデモのご希望にも、関東圏を中心に、お応えします。_
 
 ご不明な点があれば、是非 help@xoxzo.com までご連絡ください。
+**[Xoxzo's API](https://www.xoxzo.com/en/)** is also effective for other services such as _**[SMS Delivery](https://www.xoxzo.com/en/about/sms-api/)**_ _**[VOICE CALL](https://www.xoxzo.com/en/about/voice-api/)**_ and _**[Conference Call](http://docs.xoxzo.com/en/voice.html#simple-conference-api)**_ possible with  multiple callers.
+
+We can also provide demos of Xoxzo’s capabilities, focused primarily on the Kanto(around Tokyo, Japan) region but not limited.
+
+Please contact help@xoxzo.com with any questions.
+
 
