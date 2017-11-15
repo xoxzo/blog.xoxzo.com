@@ -5,7 +5,7 @@ Tags: APIuser; api; tutorial; mikochan; free-call; freephone; tall-free;
 Slug: freecall-numbers-introduction
 Thumbnail: ![free-dial-logo](/images/free-dial.png)
 Lang: ja
-Summary: 着信課金のフリーダイヤルは、0120で始まるものだけではありません。0800も全く同じ仕様でご利用いただけます。着信した電話を至便な番号へ転送したり、テキスト読み上げ機能を使って返答させたり、XoxzoのAPIなら、カスタマイズ可能で、着信利用データも取りやすくなっています。
+Summary: The prefix for Toll-free numbers in Japan is *not 0120 only* You can use the prefix of *0800* for the same purpose. Collaborating with Xoxzo's API, you can transfer the received call to your convenient number, using Xoxzo's TTS (text-to-speech) function to answer the call with your favorite message, customise according to your needs and get the call-receipt data without hastle.
 
 
 ## About toll-free calling
@@ -61,15 +61,12 @@ If you’ve ever wanted to **customize to your own specifications** the actions 
 
 _constrained only by our users’ imagination and creativity._
 
-その他、**[XoxzoのAPI](https://www.xoxzo.com/ja/)**は _**[SMS配信](https://www.xoxzo.com/ja/about/sms-api/)**_ や _**[発信電話](https://www.xoxzo.com/ja/about/voice-api/)**_ _複数で**電話会議**ができる_ _**[カンファレンスコール](http://docs.xoxzo.com/ja/voice.html#simple-conference-api)**_ の機能も充実しています。
-
-_Xoxzo機能のデモのご希望にも、関東圏を中心に、お応えします。_
-
-ご不明な点があれば、是非 help@xoxzo.com までご連絡ください。
 **[Xoxzo's API](https://www.xoxzo.com/en/)** is also effective for other services such as _**[SMS Delivery](https://www.xoxzo.com/en/about/sms-api/)**_ _**[VOICE CALL](https://www.xoxzo.com/en/about/voice-api/)**_ and _**[Conference Call](http://docs.xoxzo.com/en/voice.html#simple-conference-api)**_ possible with  multiple callers.
+(more details for conference call, please [visit here](https://blog.xoxzo.com/en/2017/11/07/conference-call-release/))
 
 We can also provide demos of Xoxzo’s capabilities, focused primarily on the Kanto(around Tokyo, Japan) region but not limited.
 
 Please contact help@xoxzo.com with any questions.
+
 
 
