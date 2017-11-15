@@ -25,41 +25,36 @@ The reality is that **0120 numbers are currently facing a crisis.**  Numbers sta
 
 Despite the lack of recognition, 0800 numbers function exactly the same as 0120 numbers and have potential for the future.  It’s relatively easy to obtain 0800 numbers that are easy for customers to remember, such as a play on words or round numbers, and since they are 7 digits long, there are 10 million possible numbers that can be used.  There is practically no concern of experiencing **a shortage** like 0120 numbers are currently facing.
 
-現在、有名企業も含めて0800番号を採用している企業では、
-**0800番号の表記の際、「発信料無料」であることを明記して** あります。
-フリーダイヤルであるという認知度が低いため、番号と併記する必要があるのです。
-0800の利用者が増え続ければ、時間の経過とともに、 **「フリーダイヤル=0800」** という認識も、
-徐々に広まっていくこととおもわれます。
-Companies currently using 0800 numbers, including some of the more well-known ones, when displaying their 0800 number, make it clear that they incur **no costs to the caller.**  Since not many people know that these are toll-free numbers, it is necessary to state this together with the phone number.   As more people start using 0800 numbers, the awareness that “0800 = toll-free calling” will no doubt gradually become more widespread.
+Companies currently using 0800 numbers, including some of the more well-known ones, when displaying their 0800 number, make it clear that they incur **no costs to the caller.**  Since not many people know that these are toll-free numbers, it is necessary to state this together with the phone number.   As more people start using 0800 numbers, the awareness that **0800 = toll-free calling** will no doubt gradually become more widespread.
 
 
-## フリーダイヤル取得後の活用法
+## How to use a toll-free number once you have one
 
-お客様に対し「いつでもお気軽にお問い合わせください」というオープンな態度を表すことができる、
-フリーダイヤルですが、 **0120番号、0800番号を取得したら、** _どのように使いますか？_
+With a toll-free number it becomes possible to convey to your customers an attitude of openness, saying **"please feel free to contact us any time,”** but _how best to use a 0120 number or 0800 number_ once you have one?
 
-- カスタマーサポート窓口⇒コールセンターへ接続
-
-- イベントに関する問い合わせ⇒資料を送付
-
-- 電話アンケート⇒アンケートの回答を取得
-
-- 本人確認⇒発信者の情報取得
-
-- 着信利用状況の確認⇒利用状況明細データ取得
-
-**着信した電話に対するアクションを、「自分仕様」にカスタマイズできたらいいな** という時には
-_**[Xoxzo VOICE API](https://www.xoxzo.com/ja/about/voice-api/)**_ をご利用ください。
+•	Customer support line -> connect to your call center
+•	Questions about an event -> send resources
+•	Phone survey -> retrieve survey responses
+•	Identity verification -> obtain information about the caller
+•	See incoming call status -> obtain detailed usage data
 
 
-- __テキスト読み上げ（TTS）機能を活用し、着信した電話に返答する__
-    - 「はい。株式会社Xoxzoです。APIに関するお問い合わせは、１を…」（そして下記 _3.別の電話番号へ転送_で担当者の電話へとつなぐ）
-    - 「お電話ありがとうございます。Xoxzo歯科医院です。ご予約お取り消しには３を押してください…」
-    - 「Xoxzoキャンペーン事務局です。発信されたお電話へ、特別割引価格でお買い物をお楽しみいただけるウェブサイトのURLをお送りいたします…」（その後 _4.「伝えたい情報量が多いときには」で、SMSにて情報を送信）
+If you’ve ever wanted to **customize to your own specifications** the actions you take in response to an incoming call, _**[Xoxzo VOICE API](https://www.xoxzo.com/en/about/voice-api/)**_ is for you.
+
+
+- _Respond to incoming calls using text to speech (TTS)_
+    - “Hello, this is Xoxzo, Inc.  For questions about API, press 1…” (Then per 3rd bullet below, forward the call to a different number to connect to that department)
+    - “Thank you for your call.  This is Xoxzo Dental Clinic.  To cancel your appointment, please press 3…”
+    - “This is the Xoxzo campaign office.  We will send a URL for a special discounted shopping site to your phone…” (Then sends an SMS message, per 4th bullet below, “when you have a large amount of information you want to send”)
+
 
 - __準備しておいたMP3ファイルを再生して、発信者のほしい情報を音声でご案内__
     - 「次回のXoxzo API 説明会は、◯月◯日◯曜日　◯時より、Xoxzo会館第一会議室にて行います…」
     - 「本日のXoxzo球場での試合、SMS対VOICE の結果は、５対５で引き分けました。次回は◯月◯日…」
+•	Play MP3 files you have prepared to provide callers with information they are looking for
+o	“The next Xoxzo API informational seminar will be held at ◯ time on ◯ day of ◯ month at the Xoxzo Hall’s Conference Room Number 1…” 
+o	“Today’s game between SMS and VOICE at Xoxzo stadium was a draw, 5 to 5.  The next game will be on ◯ day of ◯ month…”
+
 
 - __別の電話番号へ転送__
     - 休日にオフィスへかかる電話を、自分の携帯電話に転送設定すれば、大切な電話を逃すこともありません
