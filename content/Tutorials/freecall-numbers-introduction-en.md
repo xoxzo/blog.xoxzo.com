@@ -4,7 +4,7 @@ Author: Aiko Yokoyama
 Tags: APIuser; api; tutorial; mikochan; free-call; freephone; tall-free;
 Slug: freecall-numbers-introduction
 Thumbnail: ![free-dial-logo](/images/free-dial.png)
-Lang: ja
+Lang: en
 Summary: The prefix for Toll-free numbers in Japan is *not 0120 only* You can use the prefix of *0800* for the same purpose. Collaborating with Xoxzo's API, you can transfer the received call to your convenient number, using Xoxzo's TTS (text-to-speech) function to answer the call with your favorite message, customise according to your needs and get the call-receipt data without hastle.
 
 
