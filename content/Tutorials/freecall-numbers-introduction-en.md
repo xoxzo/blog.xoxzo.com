@@ -32,11 +32,11 @@ Companies currently using 0800 numbers, including some of the more well-known on
 
 With a toll-free number it becomes possible to convey to your customers an attitude of openness, saying **"please feel free to contact us any time,”** but _how best to use a 0120 number or 0800 number_ once you have one?
 
-•	Customer support line -> connect to your call center
-•	Questions about an event -> send resources
-•	Phone survey -> retrieve survey responses
-•	Identity verification -> obtain information about the caller
-•	See incoming call status -> obtain detailed usage data
+- Customer support line -> connect to your call center
+- Questions about an event -> send resources
+- Phone survey -> retrieve survey responses
+- Identity verification -> obtain information about the caller
+- See incoming call status -> obtain detailed usage data
 
 
 If you’ve ever wanted to **customize to your own specifications** the actions you take in response to an incoming call, _**[Xoxzo VOICE API](https://www.xoxzo.com/en/about/voice-api/)**_ is for you.
