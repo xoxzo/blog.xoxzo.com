@@ -36,7 +36,7 @@ HTTP/1.1 200 OK
 Content-Type: application/json
 
 {
-    "status": "OK",
+    "status": "DELIVERED",
     "sent_time":"2015-08-27 09:22:32",
     "cost": 10,
     "sender": "your_number",
@@ -51,7 +51,7 @@ Of course, the cost will depend on which number you are sending too. You can get
 The SMS statuses are in this list:
 |---|---|
 | QUEUED | Message put into queue and will be delivered shortly |
-| OK | Message successfully delivered |
+| DELIVERED | Message successfully delivered |
 | DELIVERING | Sending message in progress |
 | FAIL | Failed to send message |
 
