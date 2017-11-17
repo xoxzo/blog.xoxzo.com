@@ -49,11 +49,24 @@ Content-Type: application/json
 Of course, the cost will depend on which number you are sending too. You can get the pricing details here: [SMS Pricing](https://www.xoxzo.com/en/about/pricing/#sms)
 
 The SMS statuses are in this list:
-|---|---|
-| QUEUED | Message put into queue and will be delivered shortly |
-| DELIVERED | Message successfully delivered |
-| DELIVERING | Sending message in progress |
-| FAIL | Failed to send message |
+<table>
+  <tr>
+    <td> QUEUED </td>
+    <td> Message put into queue and will be delivered shortly </td>
+  </tr>
+  <tr>
+    <td> DELIVERED </td>
+    <td> Message successfully delivered </td>
+  </tr>
+  <tr>
+    <td> DELIVERING </td>
+    <td> Sending message in progress </td>
+  </tr>
+  <tr>
+    <td> FAIL </td>
+    <td> Failed to send message </td>
+  </tr>
+</table>
 
 ## What if I didn't put in my msgid?
 
