@@ -61,8 +61,4 @@ https://api.xoxzo.com/sms/messages/
 
 SMSの送信は、これで完了！はじめてのSMS送信は、どうだった？送信後に、アカウントのプロフィールページをチェックしてね。送信に使った分、クレジットもちゃんと、減ってるはずよ。 
 
-XoxzoのAPIを使ってできる、カッコイイこと [ドキュメンテーション](https://docs.xoxzo.com/ja/) を読んで
-XoxzoのAPIを使ってできる、カッコイイこと [ドキュメンテーション](https://docs.xoxzo.com/ja/) を読んで、
-XoxzoのAPIを使ってできる、カッコイイこと [ドキュメンテーション](https://docs.xoxzo.com/ja/) を読んで
 XoxzoのAPIを使ってできる、カッコイイこと [ドキュメンテーション](https://docs.xoxzo.com/ja/) を読んで、チェックしてみてね
-curl -u あなたのAPI SID:あなたのAuth Token \
