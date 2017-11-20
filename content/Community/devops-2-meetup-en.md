@@ -10,7 +10,7 @@ On November 14th, DevOps Malaysia held its second meetup after a long hiatus. I 
 ![The burgers were great though!]({filename}/images/devops-2-meetup/burger.jpg)
 It was held at Nintex at CIMB Tower, KL Sentral and the crowd turned out to be quite big as the presentation room filled up pretty quick. The decor had a bit of a makeover since I [last came here](https://blog.xoxzo.com/2017/08/08/women-who-code-msia-workshop/).
 ![Mr. Bond]({filename}/images/devops-2-meetup/bond.jpg)
-The first talk was about the introduction and live demo of Kubernetes by Bond Lim, who did an excellent job at distilling what Kubernetes was in its most simplest structure. 
+The first talk was about the introduction and live demo of Kubernetes by Bond Lim, who did an excellent job at distilling what Kubernetes was in its simplest structure. 
 ![Mr. Englebert]({filename}/images/devops-2-meetup/englebert.jpg)
 While the second talk was about unlimited storage using CEPH and KVM from Englebert Lai, who showed how storage nodes can be added and replaced without downtime and file errors.
 
