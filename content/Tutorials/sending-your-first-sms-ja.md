@@ -66,6 +66,6 @@ SMSの送信は、これで完了！はじめてのSMS送信は、どうだっ�
 XoxzoのAPIを使ってできる、カッコイイこと [ドキュメンテーション](https://docs.xoxzo.com/ja/) を読んで、チェックしてみてね!
 
 __ミコちゃんのチュートリアル・シリーズ__
-- [最初のAPIユーザーを作ろう](https://blog.xoxzo.com/ja/2017/10/13/create-your-first-apiuser/)
-- [はじめてのSMSを送ってみよう](https://blog.xoxzo.com/ja/2017/10/31/sending-your-first-sms/)
+-[最初のAPIユーザーを作ろう](https://blog.xoxzo.com/ja/2017/10/13/create-your-first-apiuser/)
+-[はじめてのSMSを送ってみよう](https://blog.xoxzo.com/ja/2017/10/31/sending-your-first-sms/)
 
