@@ -1,4 +1,4 @@
-Title: 最初のSMSを送ってみよう！
+Title: はじめてのSMSを送ってみよう！
 Date: 2017-10-31 12:00
 Author: Miko-chan
 Tags: sms; api ユーザー; api; チュートリアル; みこちゃん;
@@ -61,4 +61,9 @@ https://api.xoxzo.com/sms/messages/
 
 SMSの送信は、これで完了！はじめてのSMS送信は、どうだった？送信後に、アカウントのプロフィールページをチェックしてね。送信に使った分、クレジットもちゃんと、減ってるはずよ。 
 
-XoxzoのAPIを使ってできる、カッコイイこと [ドキュメンテーション](https://docs.xoxzo.com/ja/) を読んで、チェックしてみてね
+XoxzoのAPIを使ってできる、カッコイイこと [ドキュメンテーション](https://docs.xoxzo.com/ja/) を読んで、チェックしてみてね!
+
+ミコちゃんのチュートリアル・シリーズ
+[最初のAPIユーザーを作ろう](https://blog.xoxzo.com/ja/2017/10/13/create-your-first-apiuser/)
+[はじめてのSMSを送ってみよう](https://blog.xoxzo.com/ja/2017/10/31/sending-your-first-sms/)
+
