@@ -26,38 +26,43 @@ Summary: さぁ、最初のSMSを送る準備はOK?
 
 ## え？APIユーザーキーとトークンって、どこで探すんだったっけ・・・って？
 
-アカウントにログインしたら、API SIDの欄と、Auth Token欄にある、ごちゃまぜテキストが、そのAPIユーザーのキーとトークン情報よ。見えてる部分はゼンブじゃないから、ダブルクリックしたりして、ゼンブをコピーしてね。ノートパッドなんかを使うと、見やすいわね！
+アカウントにログインしたら、API SIDの欄と、Auth Token欄にある、ごちゃまぜテキストが、そのAPIユーザーのキーとトークン情報よ。見えてる部分はゼンブじゃないから、ダブルクリックしたりして、全体をコピーしてね。ノートパッドなんかを使うと、見やすいわね！
 
 トークンも、「トークン表示」ボタンをクリックして表示させてから、コピーしてね。
 
 ![SID and token](/images/Tutorial/send-sms/sidtoken.png)
 
-Now that you have your API SID and Auth Token texts, put them together like this:
+できたら、あなたの API SID と Auth Token を、コロン(:)をはさんで、サンドしちゃってください！こんなふうにね！
 
 APiSiDtext:AUthT0k3ntext
 
-Remember to put the colon ':' between the API SID and Auth Token and that they're written in a single line.
+大事なポイントは、間のコロンを 忘れないこと、と、全体を１行に書いてね、ってことかな。
 
-## Now let's send an SMS!
+## では、おくっちゃいましょう！
 
-Let's try sending an SMS to your own phone first to see it in action. Note that you need to put down your phone number complete with the country code, with a '+' in front of it.
+まずは、あなたの携帯に、実際の送信を確かめるために、送ってみちゃおうね。 あなたの携帯電話番号を、国コード（日本は『81』でーす）の前に『＋』を付けて、書き出しておいてね。
 
-Type this in your shell prompt:
+そして、シェルプロンプトに、下の通り、書いてみてね。
 
 ```
-curl -u th3ApISiDt3xtTh4tyoUcoPied:Th3aUthT0k3nth4tY0uCopi3D \
---data-urlencode 'sender=XoxzoTest' \
---data-urlencode 'recipient=putyourphonenumberhere' \
---data-urlencode 'message=Hallo hello!' \
+curl -u あなたのAPI SID:あなたのAuth Token \
+--data-urlencode 'sender=XoxzoTest(送り主として表示されます)' \
+--data-urlencode 'recipient=『+81』を付けたあなたの携帯電話番号' \
+--data-urlencode 'message=Hallo hello!（ご希望のメッセージ）' \
 https://api.xoxzo.com/sms/messages/
 ```
 
-You should be getting something like this message in return right after you type that: 
+そうしたら、すぐに、答えが下のように返ってくるはず: 
 `[{"msgid":"tHi5i5y0urMsGIdt3xT"}]`
-Which normally means that everything went well. You can also type the command in a single line without typing the '\' as well if you wish.
+そして、それが、送信がうまく行ったという印よ。
+バックスラッシュ『\』を使わずに、上記のコマンドをゼンブ、１行に書いてしまっても、オッケー！
 
-You should be receiving the message on your phone shortly. Your local carrier might not allow something like 'XoxzoTest' to appear as the sender, so another private number might appear instead.
+ちょっと待っている間に、あなたの携帯に、メッセージが届くはず。キャリアによっては、送信主をあなたの設定通りには表示してくれないから、別の番号に置き換えられて届くことも、あるけどね。
 
-And that's it! You've sent your first SMS! If you check your profile page, you'll also notice credits have been deducted after you send the SMS.
+SMSの送信は、これで完了！はじめてのSMS送信は、どうだった？送信後に、アカウントのプロフィールページをチェックしてね。送信に使った分、クレジットもちゃんと、減ってるはずよ。 
 
-Check out our [docs](https://docs.xoxzo.com/en/) to see what cool things you can do with our API.
+XoxzoのAPIを使ってできる、カッコイイこと [ドキュメンテーション](https://docs.xoxzo.com/ja/) を読んで
+XoxzoのAPIを使ってできる、カッコイイこと [ドキュメンテーション](https://docs.xoxzo.com/ja/) を読んで、
+XoxzoのAPIを使ってできる、カッコイイこと [ドキュメンテーション](https://docs.xoxzo.com/ja/) を読んで
+XoxzoのAPIを使ってできる、カッコイイこと [ドキュメンテーション](https://docs.xoxzo.com/ja/) を読んで、チェックしてみてね
+curl -u あなたのAPI SID:あなたのAuth Token \
