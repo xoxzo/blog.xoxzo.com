@@ -1,4 +1,4 @@
-Title: 【Xoxzo】New callbackurl parameter released
+Title: [Xoxzo] New callbackurl parameter released
 Date: 2017/10/17
 Author: Aiko Yokoyama
 Tags: dlr; tutorial;

@@ -88,3 +88,4 @@ TAG_SAVE_AS = 'tag/{slug}/index.html'
 
 from datetime import date
 CURRENTYEAR = date.today().year
+
