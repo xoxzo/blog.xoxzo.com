@@ -9,7 +9,7 @@ Summary: In this post, Iq reflects on the state of the communications market as 
 
 初めて会う人から我々の事業について尋ねられるとき、最も頻繁に聞かれる質問の一つは「あなたの属している市場の規模はどのくらいですか」という質問です。
 
-Xoxzoは、CPaaS  (Communication Platform As A Service)  ですが、我々がどの市場に属しているのかを理解することは難しく、単純ではないのかもしれません。われわれは web 開発者によって使用されている、携帯電話 (通信市場) を接続する (IT 市場内の) インターネットのプラットフォームです。
+Xoxzoは、CPaaS  (Communication Platform As A Service：サービスとしてのコミュニケーション・プラットフォーム)  ですが、我々がどの市場に属しているのかを理解することは難しく、単純ではないのかもしれません。われわれは web 開発者によって使用されている、携帯電話 (通信市場) を接続する (IT 市場内の) インターネットのプラットフォームです。
 
 ![telecomm](/images/telecommunications.jpg)
 
@@ -24,35 +24,24 @@ Xoxzoは、CPaaS  (Communication Platform As A Service)  ですが、我々が�
 大手通信事業者は多国籍企業と直接消費者市場には注目していますが、販売プロセスの非効率性を懸念しており、通信サービスに対して高いコストをかけている中小企業との取引には、興味を示していません。
 
 
-## 2020年には、全人口の3/4は携帯電話の契約を結んでいるでしょう。
+## 2020年には、全人口の3/4は携帯電話の契約を結んでいると予測されます。
 
-For us, every single phone number is a potential to be a recipient of a call or
-SMS. This is how large our potential user base is, with half of those subscriptions in APAC
-with [India being the fastest growing
-market](http://www.thedrum.com/news/2017/07/24/mobile-users-surpass-55bn-2022-fueled-growth-india-and-china).
+我々にとって、すべての電話番号は通話や SMS の受信者になる見込みがあります。これは私たちの潜在的な利用者の基盤の大きさを示していて、そのうち半分はアジア太平洋地域にあり、[その中でもインドは成長が最も早い市場です](http://www.thedrum.com/news/2017/07/24/mobile-users-surpass-55bn-2022-fueled-growth-india-and-china)。
 
-An interesting fact is we only have around just over
-[2000 mobile operators](https://www.quora.com/How-many-mobile-operators-are-there-worldwide)
-of various stages (full GSM operators with a license, MVNOs, MNO sub-brands) that are servicing
-the communication demands of these 5.7 billion people worldwide.
+興味深いのが、私たちは[2000をわずかに上回る、様々な階層 (ライセンスを保有している完全なGSM事業者、MVNO、MNO のサブブランド) の携帯電話事業者](https://www.quora.com/How-many-mobile-operators-are-there-worldwide)だけでこれら57 億人の世界中の人々の通信の要求を処理しているという事実です。
 
-There is a huge opportunity to disrupt and create more choices for more people.
+より多くの人々が、より多くの選択肢を手に入れるために分け入る、非常に大きなチャンスとも言えます。
 
-## Twilio grew revenue by 66% YoY in 2016
+## 2016年、Twilioは前年比66%の収益増がありました。
 
-83% of Twilio's revenue is generated from within the United States alone,
-leaving a huge opportunity to the rest of the world untouched. 
+Twilioの利益の83%は米国内だけで得られた収益で、世界のその他の地域にある大きな手つかずのチャンスを残してします。
 
-Twilio considers that accounts with more than USD5 of spending within a defined period as _active_ accounts,
-and there was a 44% increase from 25,347 accounts in 2015 to 36,606 accounts in 2016.
-There are good traction and demand for CPaaS.
+Twilioは期間内の支出が5ドル 以上のアカウントをアクティブアカウントとみなしていて、2015年の36,606アカウントから2016年の25,347アカウントへ44%の増加がありました。CPaaSには優れた牽引力と需要があるのです。
 
-## In short, huge opportunities
+## 要するに、膨大なチャンスがあるということです。
 
-We believe there are huge opportunities and untapped demand for a simple and
-reliable CPaaS.
+我々は、シンプルで[信頼性の高いCPaaS](https://www.xoxzo.com/ja/)には未開発の需要があると信じています。
 
-* Because of the growing market overall
-* Outside of the United States
-* Especially in South Asia and South East Asia
-
+* 市場全体の成長
+* 米国外の需要の存在
+* とりわけ南アジアや東南アジアでの需要
