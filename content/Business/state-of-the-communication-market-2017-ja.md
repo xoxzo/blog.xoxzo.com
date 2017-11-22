@@ -7,37 +7,24 @@ Slug: state-of-the-communication-market-2017
 Thumbnail: images/telecommunications.jpg
 Summary: In this post, Iq reflects on the state of the communications market as the end of 2017 grows closer
 
-One of the most frequent questions I get when I meet new people asking about
-what we do is "How large is the market you're in?"
+初めて会う人から我々の事業について尋ねられるとき、最も頻繁に聞かれる質問の一つは「あなたの属している市場の規模はどのくらいですか」という質問です。
 
-Xoxzo is a CPaaS (Communication Platform As A Service) and it might be difficult
-and not so straightforward to figure out what kind of market we're in. We're an
-internet platform (in the IT market) that connects phones (telecommunication
-market) used by web developers. 
+Xoxzoは、CPaaS  (Communication Platform As A Service)  ですが、我々がどの市場に属しているのかを理解することは難しく、単純ではないのかもしれません。われわれは web 開発者によって使用されている、携帯電話 (通信市場) を接続する (IT 市場内の) インターネットのプラットフォームです。
 
 ![telecomm](/images/telecommunications.jpg)
 
+我々にとって、関心の中心は直接的な顧客 (ウェブ開発者) ではなく、我々のツールによってどの顧客が誰とつながることができるかということです。このつながりが大きく、多様であるほど、我々のツールはより有用になります。
 
-For us, the focus is not who our direct customers are (the web developers) but
-who they can connect to using our tool. The bigger and more diverse this pool
-is, the more useful our tool will be.
+## 2019 年までに、1.45兆ドル (世界のGDPの2%) が投入される予定です。
 
-## 1.45 trillion (2% of world GDP) is slated to be used by 2019
+[1.45兆ドル (世界のGDPの2%) が2019 年までに中小企業によって通信サービスに投入される予定です。](https://www.huffingtonpost.com/ed-wynn/2016-telecommunications-t_b_9078948.html) (SMBsより)
 
-[USD1.45 trillion (around 2% world's GDP) is slated to be used by 2019 for
-telecommunication
-services](https://www.huffingtonpost.com/ed-wynn/2016-telecommunications-t_b_9078948.html) by SMBs.
+情報技術 (IT) と携帯電話の通話や SMS などの従来形式の通信は、はるかに速いペースで、より寄り添った、シームレスな方式に収束しています。純粋なITや純粋な通信に対して支出することは減り、この総合市場に巨大な需要が見込めます。
 
-Information Technology (IT) and traditional communications such as phones calls and SMS
-are converging at a much faster pace and in much more closer and seamless fashion than ever before.
-The spending on purely IT or purely communications have blurred, and now we can
-see a huge demand for this combined market.
+大手通信事業者は多国籍企業と直接消費者市場には注目していますが、販売プロセスの非効率性を懸念しており、通信サービスに対して高いコストをかけている中小企業との取引には、興味を示していません。
 
-Regardless of the big spending by SMBs for telecommunication services, the major telecom players
-are more interested in focusing on multinationals and the large-scale direct consumer market but
-are skipping the SMBs due to the inefficiency of the sales process.
 
-## By the end of the decade, 3/4 of the population will have a mobile subscription
+## 2020年には、全人口の3/4は携帯電話の契約を結んでいるでしょう。
 
 For us, every single phone number is a potential to be a recipient of a call or
 SMS. This is how large our potential user base is, with half of those subscriptions in APAC
