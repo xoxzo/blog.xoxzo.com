@@ -1,11 +1,11 @@
-Title: The state of the communications market in 2017
+Title: 2017年の通信市場の現状
 Date: 2017-11-15 12:00
-Lang: en
+Lang: ja
 Author: Iqbal Abdullah
-Tags: api; developers; market; economy; twilio; aws; 2017; cpaas; south asia; south east asia;
+Tags: api; 開発者; 市場; 経済; twilio; aws; 2017; cpaas; 南アジア; 東南アジア;　デベロッパー
 Slug: state-of-the-communication-market-2017
 Thumbnail: images/telecommunications.jpg
-Summary: In this post, Iq reflects on the state of the communications market as the end of 2017 grows closer
+Summary: 2017年の終わりにさしかかり、Xoxzo代表イクバルが、通信市場の傾向について、振り返ります。
 
 初めて会う人から我々の事業について尋ねられるとき、最も頻繁に聞かれる質問の一つは「あなたの属している市場の規模はどのくらいですか」という質問です。
 
