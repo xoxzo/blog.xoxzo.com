@@ -12,7 +12,7 @@ Summary: How to check the status of your SMS.
 </div>
 <div class="lg-padding-top50 md-padding0">
 
-Now that we managed to send an SMS in the <a href="https://blog.xoxzo.com/2017/10/31/sending-your-first-sms/">previous article</a>, you'll notice that we get a msgid string in return after we run the CURL command, like this: <pre><code>[{"msgid":"tHi5i5y0urMsGIdt3xT"}]</code></pre>, we know that we sent the SMS correctly, otherwise the return message would've been different. But how do we know if the SMS was actually received?
+Now that we managed to send an SMS in the <a href="https://blog.xoxzo.com/2017/10/31/sending-your-first-sms/">previous article</a>, you'll notice that we get a msgid string in return after we run the CURL command, like this: <code>[{"msgid":"tHi5i5y0urMsGIdt3xT"}]</code>. If we get that, we sent the SMS correctly, otherwise the return message would've been different. But how do we know if the SMS was actually received?
 </div>
 <div style="clear:both;"></div>
 
