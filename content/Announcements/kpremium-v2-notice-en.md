@@ -1,34 +1,40 @@
-Title: [Xoxzo]Kpremium service version 2 will cover all Japanese Carriers
+Title: [Xoxzo] K-Premium service V2 will cover all Japanese operators
 Date: 2017-11-24
 Slug: kpremium-v2-notice
 Lang: en
 Tags: api; k-premium; docomo; kddi; au; softbank; 
 Thumbnail: images/xoxzo-logo-02.png
 Author: Aiko Yokoyama
-Summary: Our popular Kpremium service that supported the sendings to KDDI (au) phones will soon cover all Japanese carrier messages.
+Summary: Our popular K-Premium service that supported only KDDI (au) will now cover all Japanese carrier messages.
 
 Thank you for using [Xoxzo, Cloud Telephony Platform](https://www.xoxzo.com/en/).
 
-We are happily announcing that our Kpremium service will version up in the following month and below is the details of the change.
+We are excited to announce that our K-Premium service will be upgraded on **5th Dec 2017**. 
 
-Originally, current [Kpremium service](https://help.xoxzo.com/en/xoxzo-cloud-telephony-platform/articles/the-k-premium-service/) has
-started in 2013, as an optional feature on SMS API for our [SMS Delivery Service, EZSMS](https://www.ezsms.biz/ja/).
-Although it requires a registration and an approval before the use of this service, there are benefit such as that the senderID is fixed and 
-the messsages are sent directly to the destination carriers, Kpremium service is our popular service since the release.
+Originally, the current [K-Premium service](https://help.xoxzo.com/en/xoxzo-cloud-telephony-platform/articles/the-k-premium-service/) was released in 2013, as an optional feature for our sister
+SMS API service [SMS Delivery Service, EZSMS](https://www.ezsms.biz/ja/).
 
-The upgrade is going to be released for this [Kpremium service](https://help.xoxzo.com/en/xoxzo-cloud-telephony-platform/articles/the-k-premium-service/)
-and it will cover all Japanese Carriers, not limited to KDDI.
+Although requiring registration and an approval before use,
+K-Premium has been a popular optional service because it allows you to set the
+sender id and uses a direct route for KDDI recipients.
+
+The upgrade to be released for [K-Premium service](https://help.xoxzo.com/en/xoxzo-cloud-telephony-platform/articles/the-k-premium-service/) will allow direct connections to all Japanese operators,
+and not only limited to KDDI.
+
 The major points of this upgrade are:
-* Sendings to **ALL Japanese carriers** are to be direct-send, **not just to KDDI**
-* Sendings to Docomo/Softbank using Kpremium will set **a fixed SenderID** despite the set sender with `jp_kddi_sender`
-* **13 credits ** will be deducted for an each Kpremium SMS sent.
-* The text display of delivery report
+
+- Sendings to **ALL Japanese operators** are to be direct, **not just to KDDI**
+- Sendings to Docomo/Softbank using K-Premium will set **a fixed SenderID** despite the set sender with `jp_kddi_sender`
+- **13 credits** will be deducted for an each K-Premium SMS sent.
+- The text display of delivery report
 
 Please also note:
-* The parameter to use Kpremium will not be changed. Please set the Kpremium flag of `jp_kp` as before, 
-set your senderID with `jp_kddi_sender`
 
-An assured raise in delivery factor is expected on the Japanese domestic SMS sending with this upgrade.
+- The parameter to use K-Premium will not be changed. Please continues using the K-Premium flag 
+`jp_kp` and set your sender id with `jp_kddi_sender`. `jp_kddi_sender` will
+still be used when sending to KDDI.
 
-Please contact us to inquire any further information or assistance upon this change, as you may want to upgrade your system
-to get the maximum benefit from it.
+We expect increased delivery rates to Japanese numbers with this upgrade.
+
+Please feel free to contact us at (help@xoxzo.com) to inquire any further information or
+assistance concerning this upgrade.
