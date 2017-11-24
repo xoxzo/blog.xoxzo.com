@@ -3,7 +3,7 @@ Date: 2017-11-24
 Slug: kpremium-v2-notice
 Lang: ja
 Tags: api; k-premium; docomo; kddi; au; softbank; 
-Thumbnail: images/
+Thumbnail: images/xoxzo-logo-02.png
 Author: Aiko Yokoyama
 Summary: これまで KDDI(au)向けの送信をより確かな到達率でサポートしてきたKプレミアムサービス。この度、さらにパワーアップして、国内全てのキャリアをカバーすることとなりました。
 
