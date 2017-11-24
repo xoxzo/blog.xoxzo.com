@@ -3,7 +3,7 @@ Date: 2017-11-24
 Slug: kpremium-v2-notice
 Lang: en
 Tags: api; k-premium; docomo; kddi; au; softbank; 
-Thumbnail: images/
+Thumbnail: images/xoxzo-logo-02.png
 Author: Aiko Yokoyama
 Summary: Our popular Kpremium service that supported the sendings to KDDI (au) phones will soon cover all Japanese carrier messages.
 
