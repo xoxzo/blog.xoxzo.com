@@ -11,7 +11,7 @@ Summary: これまで KDDI(au)向けの送信をより確かな到達率でサ�
 
 この度は、**2017年12月5日** より開始いたします、Xoxzoの新サービス（SMS送信APIのオプション）である、Kプレミアムサービス・バージョン２について、ご案内いたします。
 
-![k-premium-logo](images/k-v2-s.png)
+![k-premium-logo](/images/k-v2-s.png)
 
 元を辿ると、2013年にSMS配信サービス・EZSMS上でリリースされ、ご好評を頂いております[Kプレミアムサービス](https://help.xoxzo.com/ja/xoxzo-cloud-telephony-platform/articles/the-k-premium-service/)は、
 日本のauのエンドユーザ様にショートメッセージを配信するために特化した、オプションのサービスです。
