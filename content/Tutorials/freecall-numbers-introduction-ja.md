@@ -3,7 +3,7 @@ Date: 2017-11-02 12:00
 Author: Aiko Yokoyama
 Tags: APIユーザー; api; チュートリアル; ミコちゃん; フリーコール; freephone; フリーダイヤル;
 Slug: freecall-numbers-introduction
-Thumbnail: ![free-dial-logo](/images/free-dial.png)
+Thumbnail: images/free-dial.png
 Lang: ja
 Summary: 着信課金のフリーダイヤルは、0120で始まるものだけではありません。0800も全く同じ仕様でご利用いただけます。着信した電話を至便な番号へ転送したり、テキスト読み上げ機能を使って返答させたり、XoxzoのAPIなら、カスタマイズ可能で、着信利用データも取りやすくなっています。
 
