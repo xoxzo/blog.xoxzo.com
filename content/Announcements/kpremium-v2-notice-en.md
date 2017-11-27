@@ -26,7 +26,6 @@ The major points of this upgrade are:
 - Sendings to **ALL Japanese operators** are to be direct, **not just to KDDI**
 - Sendings to Docomo/Softbank using K-Premium will set **a fixed SenderID** despite the set sender with `jp_kddi_sender`
 - **13 credits** will be deducted for an each K-Premium SMS sent.
-- The text display of delivery report
 
 Please also note:
 
