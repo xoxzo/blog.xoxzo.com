@@ -3,13 +3,15 @@ Date: 2017-11-24
 Slug: kpremium-v2-notice
 Lang: ja
 Tags: api; Kプレミアム; ドコモ; kddi; au; ソフトバンク; 
-Thumbnail: images/xoxzo-logo-02.png
+Thumbnail: images/k-v2-s.png
 Author: Aiko Yokoyama
 Summary: これまで KDDI(au)向けの送信をより確かな到達率でサポートしてきたKプレミアムサービス。この度、さらにパワーアップして、国内全てのキャリアをカバーすることとなりました。
 
 平素は、[Xoxzo-クラウドテレフォニープラットフォーム](https://www.xoxzo.com/ja/)をご利用いただき、誠に有難うございます。
 
 この度は、**2017年12月5日** より開始いたします、Xoxzoの新サービス（SMS送信APIのオプション）である、Kプレミアムサービス・バージョン２について、ご案内いたします。
+
+![k-premium-logo](images/k-v2-s.png)
 
 元を辿ると、2013年にSMS配信サービス・EZSMS上でリリースされ、ご好評を頂いております[Kプレミアムサービス](https://help.xoxzo.com/ja/xoxzo-cloud-telephony-platform/articles/the-k-premium-service/)は、
 日本のauのエンドユーザ様にショートメッセージを配信するために特化した、オプションのサービスです。
