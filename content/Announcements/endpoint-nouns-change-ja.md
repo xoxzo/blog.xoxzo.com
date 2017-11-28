@@ -3,7 +3,7 @@ Date: 2017-11-24
 Slug: endpoint-nouns-change
 Lang: ja
 Tags: endpoint, nouns
-Author: Aikra Nonaka
+Author: Akira Nonaka
 Summary: APIの呼び出しエンドポイント(URL)変更のお知らせ
 
 XOXZOでは、利便性向上のために、

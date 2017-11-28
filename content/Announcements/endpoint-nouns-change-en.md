@@ -1,9 +1,9 @@
-Title: 【Xoxzo】Changes for API endpoints
+Title: [Xoxzo]Changes for API endpoints
 Date: 2017-11-24 
 Slug: endpoint-nouns-change
 Lang: en
 Tags: endpoint, nouns
-Author: Aikra Nonaka
+Author: Akira Nonaka
 Summary: XOXZO has changed some endpoints in order to improve usability. 
 
 In order to improve usablility, XOXZO has changed the API endpoints for
