@@ -15,7 +15,7 @@ Now that we've <a href="https://blog.xoxzo.com/2017/10/31/sending-your-first-sms
 </div>
 <div style="clear:both;"></div>
 
-For this tutorial we're going to start off with a simple implementation of voice: recording playback, or what we call simple playback. We're going to make a call and when the recipient picks up the phone, they will hear an mp3 file being played on the other end. Let's try it out on your own number so you can experience it firsthand!
+For this tutorial, we're going to start off with a simple implementation of voice: recording playback, or what we call simple playback. We're going to make a call and when the recipient picks up the phone, they will hear an mp3 file being played on the other end. Let's try it out on your own number so you can experience it firsthand!
 
 ## What Do I Need? ##
 
@@ -26,7 +26,7 @@ You'll also need a valid caller and recipient phone number using the [E.164 numb
 
 ## Let's make that call! ##
 
-The url to make a simple playback call is `https://api.xoxzo.com/voice/simple/playbacks/`. So using CURL, the typical command to make a call would be:
+The URL to make a simple playback call is `https://api.xoxzo.com/voice/simple/playbacks/`. So using CURL, the typical command to make a call would be:
 
 ```
 curl -u th3ApISiDt3xtTh4tyoUcoPied:Th3aUthT0k3nth4tY0uCopi3D \
