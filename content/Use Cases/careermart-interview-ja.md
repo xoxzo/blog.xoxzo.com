@@ -2,7 +2,7 @@ Title: 【クライアント・インタビュー】SMS配信APIで高頻度の�
 Date: 2017-12-04 13:00
 Slug: careermart-interview
 Lang: ja
-thumbnail: images/careermart_01.jpg
+Thumbnail: images/careermart_01.jpg
 Tags: client interview; careermart; キャリアマート; クライアントインタビュー; SMS配信API
 Author: Akira Nonaka
 Summary: 新卒・中途採用のコンサルティング、アウトソーシングを行っている株式会社キャリアマート様では、XOXZOのSMS配信APIを活用いただいています。導入のきっかけや効果について、採用アウトソーシング事業部ゼネラルマネージャーの服部欽一さん、採用コンサルティング事業部テクニカルチーフの小倉和也さんに伺いました。
