@@ -55,3 +55,6 @@ __使い勝手はいかがですか？__
 創業：平成14年11月1日  
 URL：<http://www.careermart.co.jp/>
 
+キャリアマート社員による採用の豆知識 [キャリブロ](https://www.careermart.co.jp/blog/)
+新卒紹介をお考えの企業様へ[就活キャリア](http://www.shukatsu-career.co.jp/)
+
