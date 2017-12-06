@@ -7,23 +7,22 @@ Lang: en
 Thumbnail: images/xoxzo-logo-02.png
 Summary: We have plenty of acronyms such as B2B or E2B, consist with 2 x Alphabet letters that inserts numeric number 2, that is used as the word of 'to'. In our mobile industry, how P2P and A2P could mean?
 
-Recently, not only in business but also among family and friends we often use '3-letter-words' that consist of 2 alphabet letters sandwich a numeric number 2 (refers to 'to') 最近、ビジネス用語かと思えば、個人間でもよく使われている、アルファベットで__2（トゥー)__を挟む__◯2◯__という形呼び方が、あちこちで見られます。
+Recently, not only in business but also among family and friends '3-letter-acronyms' such as B2B or E2B, that consist of __2 x alphabet letters__ sandwich a numeric __number 2 (refers to 'to')__ are often used.
 
-モバイル関連で、P2P や A2Pといえば、何を差すのでしょうか？
+Then do you know what do __P2P__ and __A2P__ stand for in the mobile industry?
 
 _P2P = Person-to-person_
 _A2P = Application-to-person_
 
-つまり、個人（person）の携帯電話へSMSが送られてくるプロセスにある差異のことです。
-P2Pは言うまでもなく、個人から個人へ、所有している携帯電話から相手の携帯電話あてに送るSMSですが、A2Pというのは、企業SMSだとか、プロSMSとも呼ばれ、顧客とのコミュニケーションに使われたり、オンラインサービスのユーザー認証手段として送信されたり、差し迫った注意を喚起するメッセージの伝達の役割を負ったり、と、利用目的は様々です。どのように使われても、[A2PのSMS](https://www.xoxzo.com/ja/about/sms-api/)は（ビジネス）アプリケーションから発せられます。
+Yes, they show the difference in the method how SMS are sent to the P (person)'s mobile phones.
+__P2P__ of course means from a person to a person, using their mobile phone owned. On the other hand, __A2P__ are also called as Business SMS or Professional SMS, being utilised in various way, such as a communication method with customers, as an authentication method or user confirmation on online services as well as an emergency notification method. One thing we can say is,[the A2P-SMS](https://www.xoxzo.com/en/about/sms-api/)is originated from a (business) application.
 
-A2Pの典型的な使い方は、やはり__SMSを用いた2段階認証__でしょう。自動予約確認システムや、アップグレード確認、オンラインでの旅行予約などで、活躍しています。SMSを用いることによる利便性、効率性、そして、より確かなコミュニケーションに魅力を感じている企業は多数あります。
+Within those places where __A2P-SMS__ can show-off its skills, the typical use is __2-factor-authentication__. Auto-booking systems, Upgrade confirmation, Online Travel Booking are actively using __A2P-SMS__. Many business in many industry feel __A2P-SMS__ are attractive for the convenience, effectiveness and the better communication.
 
-金融機関のウェブサイトでの、A2P利用の歴史はすでに15年にも及びます。ログイン、サインイン時の本人認証や、不正防止、残高通知や、出金確認に使われている他、引き落としの事前通知サービスなどにも活用されています。
+The history of __A2P-SMS__ at financial websites can go down for 15 years. They use __A2P-SMS__ on Log-in, Authentication at Sign-up, Fraud prevention, as well as the balance notification and withdrawal confirmation plus the pre-notice of coming up direct debit.
 
-これらのA2P SMS送信技術には、[Xoxzo](https://www.xoxzo.com/ja/)を始めとする、[SMS API](https://www.xoxzo.com/ja/about/sms-api/)が役立っています。ウェブ上からアクセスしたり、企業のソリューションの一環として、システム開発技術者により自社システムに組み込まれたりします。
+Such as [Xoxzo](https://www.xoxzo.com/en/), [SMS API](https://www.xoxzo.com/en/about/sms-api/) are providing a good role at the technology side of these service. SMS APIs can be accessed via the webs or being installed in the business applications by developpers as a part of solution. 
 
-あなたは最近、どんな A2P SMSを受信しましたか？
-
+Now, what kind of __A2P-SMS__ have you received recently?
 
 
