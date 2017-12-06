@@ -1,14 +1,13 @@
-Title: P2P や A2P って、何のこと？
+Title: What do P2P and A2P stand for？
 Date: 2017-12-6 15:00
 Author: Aiko Yokoyama
-Tags: p2p; a2p; コミュニケーション; api; sms; 通知; 認証; システム開発; ショートメッセージ; 
+Tags: p2p; a2p; ; api; sms; notification; authentication; developper;  
 Slug: what-is-a2p
 Lang: en
 Thumbnail: images/xoxzo-logo-02.png
-Summary: 最近、ビジネス用語かと思えば、個人間でもよく使われている、◯2◯　という形で、アルファベットで2（トゥー)を挟む呼び方が、あちこちで見られます。モバイル関連で、P2P や A2Pといえば、何を差すのでしょうか？
+Summary: We have plenty of acronyms such as B2B or E2B, consist with 2 x Alphabet letters that inserts numeric number 2, that is used as the word of 'to'. In our mobile industry, how P2P and A2P could mean?
 
-
-最近、ビジネス用語かと思えば、個人間でもよく使われている、アルファベットで__2（トゥー)__を挟む__◯2◯__という形呼び方が、あちこちで見られます。
+Recently, not only in business but also among family and friends we often use '3-letter-words' that consist of 2 alphabet letters sandwich a numeric number 2 (refers to 'to') 最近、ビジネス用語かと思えば、個人間でもよく使われている、アルファベットで__2（トゥー)__を挟む__◯2◯__という形呼び方が、あちこちで見られます。
 
 モバイル関連で、P2P や A2Pといえば、何を差すのでしょうか？
 
