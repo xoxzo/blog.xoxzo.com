@@ -7,7 +7,7 @@ Thumbnail: images/aman.jpg
 Lang: en
 Summary: Sharing the experience of getting involved in one of the fastest moving programming communities in Malaysia.
 
-Starting from October of this year, I've been attending a local Laravel user group community which call themselves Laravens. It was an experience unlike any other.
+Starting from October of this year, I've been attending a local Laravel user group community which calls themselves Laravens. It was an experience unlike any other.
 
 ![Image courtesy of Laravens](/images/laravens-2017/lt-10.jpg)
 
@@ -21,4 +21,4 @@ Most impressive is the speed at how they organize the monthly meetups. Notices a
 
 ![Image courtesy of Laravens](/images/laravens-2017/lt-food.jpg)
 
-It's going to be an interesting year starting with them from January onwards. Learning a new framework is fascinating to say the least, with the group offering good support and camaredrie through their meetups.
+It's going to be an interesting year starting with them from January onwards. Learning a new framework is fascinating, to say the least, with the group offering good support and camaraderie through their meetups.
