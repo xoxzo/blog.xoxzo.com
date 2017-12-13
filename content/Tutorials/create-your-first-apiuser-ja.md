@@ -1,7 +1,7 @@
 Title: 最初のAPIユーザーを作ろう
 Date: 2017-10-13 12:00
 Author: Miko-chan
-Tags: api user; api; tutorial; mikochan;
+Tags: api user; api; tutorial; ミコちゃん;
 Slug: create-your-first-apiuser
 Thumbnail: images/xoxtan.png
 Lang: ja
