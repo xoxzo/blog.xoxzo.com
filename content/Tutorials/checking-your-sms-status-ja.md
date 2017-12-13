@@ -133,8 +133,8 @@ Content-Type: application/json
 
 お疲れさま、今回のチュートリアルは、ここまで！
 [XoxzoのSMS送信ドキュメンテーション](http://docs.xoxzo.com/en/sms.html#check-sms-status-api)で、もっと詳しいところを確認してね！
-And that's it! There are more details in our [SMS documentation](http://docs.xoxzo.com/en/sms.html#check-sms-status-api) which you can check out as well!
 
-Check out our [docs](https://docs.xoxzo.com/en/) to see what cool things you can do with our API. 
 
-Until next time!
+ほかにも、Xoxzoでできる、すごいこと、たくさんあるから、[その他のドキュメンテーション](http://docs.xoxzo.com/ja/readme.html)も、読んでみてね。質問があったら、連絡してね。
+
+ではまた次回！
