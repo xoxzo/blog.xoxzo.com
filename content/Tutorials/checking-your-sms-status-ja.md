@@ -132,7 +132,7 @@ Content-Type: application/json
 パラメーターが間違っているときも、`400 Bad Request レスポンス`が返りますよ〜。
 
 お疲れさま、今回のチュートリアルは、ここまで！
-[XoxzoのSMS送信ドキュメンテーション](http://docs.xoxzo.com/en/sms.html#check-sms-status-api)で、もっと詳しいところを確認してね！
+[XoxzoのSMS送信ドキュメンテーション](http://docs.xoxzo.com/ja/sms.html#check-sms-status-api)で、もっと詳しいところを確認してね！
 
 
 ほかにも、Xoxzoでできる、すごいこと、たくさんあるから、[その他のドキュメンテーション](http://docs.xoxzo.com/ja/readme.html)も、読んでみてね。質問があったら、連絡してね。
