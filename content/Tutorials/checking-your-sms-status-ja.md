@@ -16,17 +16,17 @@ Summary: SMSを送信したら、その結果を知りたいよね？　ミコ�
 CURL コマンドを実行した後に、msgid という文字列が返されたのに気が付きましたか？ こんな感じですよ〜。
  <code>[{"msgid":"tHi5i5y0urMsGIdt3xT"}]</code>
  これが返されていれば、SMSがちゃんと送られた、ってことです。そうでなければ、[別のメッセージ](http://docs.xoxzo.com/ja/sms.html#response-data)が返されていたはず。
- でも、送信したメッセージが、ちゃんと受信されたかどうかって、どうやって確認するんでしょうね？
+ でも、 __送信__ したメッセージが、ちゃんと __受信__ されたかどうかって、どうやって確認するんでしょう？
 </div>
 <div style="clear:both;"></div>
 
 ## SMS送信をチェックするコマンド
 
-SMSの送信ステータスの確認にも、送信に使ったみたいに、やっぱりCURLを使いま〜す。
+SMSの_送信ステータスの確認_にも、送信に使ったみたいに、やっぱりCURLを使いま〜す。
 違うのは、つけるパラメーターと、URLだけですよ！
 
 
-SMSの送信ステータスTo check on the status of your SMS, run this:
+SMSの送信ステータスを確認するには、これを実行してみてね！
 
 
 ```
@@ -34,7 +34,7 @@ curl -u th3ApISiDt3xtTh4tyoUcoPied:Th3aUthT0k3nth4tY0uCopi3D \
 https://api.xoxzo.com/sms/messages/tHi5i5y0urMsGIdt3xT/
 ```
 
-If everything is OK, you should be getting a JSON response like so:
+ちゃんと送信できていたら、JSONレスポンスが返されるはず。こんな感じ。
 
 ```
 HTTP/1.1 200 OK
@@ -51,57 +51,63 @@ Content-Type: application/json
 }
 ```
 
-Of course, the cost will depend on which number you are sending too. You can get the pricing details here: [SMS Pricing](https://www.xoxzo.com/en/about/pricing/#sms)
+もちろん、`cost`の部分は、送信したメッセージの数によるわね。
+Xoxzoの[SMS送信料金](https://www.xoxzo.com/ja/about/pricing/#sms)を見て、確認してね！
 
-The SMS statuses are in this list:
+送信したメッセージのステータスは、`DELIVERED（配信成功）`ばかりじゃないわよ。
+下のリストにまとめてみたから、参考にしてね。
+
 <table class="table table-striped">
   <thead>
     <tr>
-      <td> Status </td>
-      <td> Details </td>
+      <td> メッセージステータス </td>
+      <td> 詳細 </td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td> QUEUED </td>
-      <td> Message put into queue and will be delivered shortly </td>
+      <td> メッセージは配信待ち </td>
     </tr>
     <tr>
       <td> DELIVERED </td>
-      <td> Message successfully delivered </td>
+      <td> メッセージは配信成功 </td>
     </tr>
     <tr>
       <td> DELIVERING </td>
-      <td> Sending message in progress </td>
+      <td> メッセージは配信中 </td>
     </tr>
     <tr>
       <td> FAIL </td>
-      <td> Failed to send message </td>
+      <td> メッセージは配信失敗 </td>
     </tr>
   </tbody>
 </table>
 
-## What if I didn't put in my msgid?
+## msgidを加えずに、確認したら?
 
-Sending something like this:
+こんな感じで実行しちゃうと、
 
 ```
 curl -u th3ApISiDt3xtTh4tyoUcoPied:Th3aUthT0k3nth4tY0uCopi3D \
 https://api.xoxzo.com/sms/messages/
 ```
 
-Would give you the status of all the SMS that you sent within 90 days.
+過去90日間にあなたが送ったSMSゼンブのステータスを表示しま〜す！
 
-## There's a lot of stuff on my screen! Can I get statuses by date?
 
-Sure! You can include a date parameter to get your SMS statuses on the day (date format is year-month-day), something like this:
+## スクリーンがいっぱいに！ 日付ごとのステータスって確認できる？
+
+もっちろん！日付をパラメーターに含めたら、その日付のSMS送信ステータスを見れるわよ！
+日付のフォーマットは、`year-month-day` つまり `西暦年-月-日` でお願いね。実行するには、こういう風になりま〜す。
 
 ```
 curl -u th3ApISiDt3xtTh4tyoUcoPied:Th3aUthT0k3nth4tY0uCopi3D \
 https://api.xoxzo.com/sms/messages/?sent_date=2017-10-31
 ```
 
-If you didn't send an SMS during that period, it will still return a 200 OK response, but it'll be empty:
+もし、その日付にSMS送信がなかったら、`200 OK レスポンス` が返されるけど、中身は空っぽのはずよ。
+
 
 ```
 HTTP/1.0 200 OK
@@ -110,7 +116,7 @@ Content-Type: application/json
 []
 ```
 
-You only can get statuses within 90 days of the current date. Otherwise, you will get this response:
+送信ステータスの確認ができるのは、過去90日まで。それ以外の日付を設定しちゃうと、こういうレスポンスが返りま〜す。
 
 ```
 HTTP/1.0 400 Bad Request
@@ -123,8 +129,10 @@ Content-Type: application/json
 }
 ```
 
-You'll also get a 400 Bad Request response if your parameters are incorrect.
+パラメーターが間違っているときも、`400 Bad Request レスポンス`が返りますよ〜。
 
+お疲れさま、今回のチュートリアルは、ここまで！
+[XoxzoのSMS送信ドキュメンテーション](http://docs.xoxzo.com/en/sms.html#check-sms-status-api)で、もっと詳しいところを確認してね！
 And that's it! There are more details in our [SMS documentation](http://docs.xoxzo.com/en/sms.html#check-sms-status-api) which you can check out as well!
 
 Check out our [docs](https://docs.xoxzo.com/en/) to see what cool things you can do with our API. 
