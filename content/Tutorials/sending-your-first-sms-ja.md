@@ -1,7 +1,7 @@
 Title: はじめてのSMSを送ってみよう！
 Date: 2017-10-31 12:00
 Author: Miko-chan
-Tags: sms; api ユーザー; api; チュートリアル; みこちゃん;
+Tags: sms; api ユーザー; api; チュートリアル; ミコちゃん;
 Slug: sending-your-first-sms
 Thumbnail: images/xoxtan.png
 Lang: ja
