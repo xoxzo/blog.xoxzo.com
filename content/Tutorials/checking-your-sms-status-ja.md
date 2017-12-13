@@ -1,7 +1,7 @@
 Title: SMSの送信ステータスを確認しよう
 Date: 2017-11-15 11:00
 Author: Miko-chan
-Tags: sms; api ユーザー; api; チュートリアル; みこちゃん;
+Tags: sms; api ユーザー; api; チュートリアル; ミコちゃん;
 Slug: checking-your-sms-status
 Thumbnail: images/xoxtan.png
 Lang: ja
