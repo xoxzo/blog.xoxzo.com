@@ -51,3 +51,5 @@ APIユーザーを作るのは、とても簡単よ。まずは、ログイン�
 
 わたしたちXoxzoのAPIの使い方は、[こちら](https://docs.xoxzo.com/ja/) ！
 どうぞ、よろしくね！
+
+[ミコちゃんのチュートリアル・シリーズ](https://blog.xoxzo.com/ja/tag/mikochiyan/)好評不定期連載中
