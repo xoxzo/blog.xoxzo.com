@@ -1,4 +1,4 @@
-Title: 【Client Interview】High-frequency contacts established through the use of an SMS delivery API and its use in the hiring arena
+Title: [Client Interview]High-frequency contacts established through the use of an SMS delivery API and its use in the hiring arena
 Date: 2017-12-04 13:00
 Slug: careermart-interview
 Lang: en
@@ -48,7 +48,7 @@ __What do you think of its user friendliness?__
 >Our customers send us suggestions for variety use of the message body, that surely are effective to achieve improved response.  SMS has the capability to reach a large number of people on a small budget, so more creative use would expand its future use cases.  We will polish our approach to our client by suggesting how best to utilize the time and resources saved by SMS delivery.
 
 
-【Careermart Co.,Ltd】
+[Careermart Co.,Ltd]
 
 [![Career Mart]({filename}/images/client-logos/career-mart-logo.jpg)](http://www.careermart.co.jp/)
 
