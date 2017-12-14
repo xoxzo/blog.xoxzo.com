@@ -1,7 +1,7 @@
 Title: 最初のAPIユーザーを作ろう
 Date: 2017-10-13 12:00
 Author: Miko-chan
-Tags: api user; api; tutorial; mikochan;
+Tags: api user; api; tutorial; ミコちゃん;
 Slug: create-your-first-apiuser
 Thumbnail: images/xoxtan.png
 Lang: ja
@@ -29,7 +29,7 @@ APIユーザーを作るのは、とても簡単よ。まずは、ログイン�
 
 そして、プロフィールページで、*『APIユーザーの追加』*っていうボタンを探してみて。
 
-![apiuserpage](/images/apiuser_page.png)
+![apiuserpage](/images/apiuser_page-ja.png)
 
 見つかったらクリックして、あなたのAPIユーザーの名前を入力！
 
@@ -51,3 +51,5 @@ APIユーザーを作るのは、とても簡単よ。まずは、ログイン�
 
 わたしたちXoxzoのAPIの使い方は、[こちら](https://docs.xoxzo.com/ja/) ！
 どうぞ、よろしくね！
+
+[ミコちゃんのチュートリアル・シリーズ](https://blog.xoxzo.com/ja/tag/mikochiyan/)好評不定期連載中
