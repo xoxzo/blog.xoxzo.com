@@ -12,11 +12,11 @@ Summary: SMSを送信したら、その結果を知りたいよね？　ミコ�
 </div>
 <div class="lg-padding-top50 md-padding0">
 
-[前回のチュートリアル](https://blog.xoxzo.com/ja/2017/10/31/sending-your-first-sms/)では、SMSを送信しちゃいました。
+<a href="https://blog.xoxzo.com/ja/2017/10/31/sending-your-first-sms/">前回のチュートリアル</a>では、SMSを送信しましたよね。
 CURL コマンドを実行した後に、msgid という文字列が返されたのに気が付きましたか？ こんな感じですよ〜。
  <code>[{"msgid":"tHi5i5y0urMsGIdt3xT"}]</code>
- これが返されていれば、SMSがちゃんと送られた、ってことです。そうでなければ、[別のメッセージ](http://docs.xoxzo.com/ja/sms.html#response-data)が返されていたはず。
- でも、 __送信__ したメッセージが、ちゃんと __受信__ されたかどうかって、どうやって確認するんでしょう？
+ これが返されていれば、SMSがちゃんと送られた、ってことです。そうでなければ、<a href="http://docs.xoxzo.com/ja/sms.html#response-data">別のメッセージ</a>が返されていたはず。
+ でも、<b>送信</b>したメッセージが、ちゃんと<b>受信</b>されたかどうかって、どうやって確認するんでしょう？
 </div>
 <div style="clear:both;"></div>
 
