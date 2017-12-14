@@ -6,7 +6,7 @@ Tags: EOY-notice;
 Author: Aiko Yokoyama
 Summary: End of Year Holiday Notice
 
-Thank you very much for your continuous support for [Xoxzo Cloud Telephony Platform[(https://www.xoxzo.com/en/) and [SMS Delivery API Service EZSMS](https://www.ezsms.biz/ja/) .
+Thank you very much for your continuous support for [Xoxzo Cloud Telephony Platform](https://www.xoxzo.com/en/) and [SMS Delivery API Service EZSMS](https://www.ezsms.biz/ja/) .
 
 Please note that our office will be closed during the following time period for New Year Season.
 
