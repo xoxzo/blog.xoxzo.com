@@ -138,3 +138,5 @@ Content-Type: application/json
 ほかにも、Xoxzoでできる、すごいこと、たくさんあるから、[その他のドキュメンテーション](http://docs.xoxzo.com/ja/readme.html)も、読んでみてね。質問があったら、連絡してね。
 
 ではまた次回！
+
+[ミコちゃんのチュートリアル・シリーズ](https://blog.xoxzo.com/ja/tag/mikochiyan/)好評不定期連載中
