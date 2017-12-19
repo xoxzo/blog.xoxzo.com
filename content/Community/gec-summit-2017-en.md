@@ -1,15 +1,15 @@
-Title: Global Economic Summit 2017: Opening Eyes to an Even Bigger World
+Title: Global Economic Community Summit 2017: Opening Eyes to an Even Bigger World
 Date: 2017-12-18 09:30
 Author: Abdul Rahman Ibrahim
 Tags: GEC; community; event; entrepreneurship; summit;
 Slug:gec-summit-2017
 Thumbnail: images/aman.jpg
 Lang: en
-Summary: I attended the second Global Economic Summit held in the Kuala Lumpur Convention Center. While the net has made the world smaller, at the same time there's still a big world out there to explore.
+Summary: I attended the second Global Economic Community Summit held in the Kuala Lumpur Convention Center. While the net has made the world smaller, at the same time there's still a big world out there to explore.
 
 ![Opening ceremony](/images/gec2017/opening.jpg)
 
-On December 12th and 13th, 2017, the Global Economic Summit was held in the Kuala Lumpur Convention Center, officiated by the Prime Minister of Malaysia, Dato' Sri Najib Tun Razak. The summit hosts 100 labs for budding entrepreneurs, 70 of which happened during the 2- day event itself. Now one might wonder if such an event would cost a pretty penny to participate, but it doesn't. It was free.
+On December 12th and 13th, 2017, the Global Economic Community Summit was held in the Kuala Lumpur Convention Center, officiated by the Prime Minister of Malaysia, Dato' Sri Najib Tun Razak. The summit hosts 100 labs for budding entrepreneurs, 70 of which happened during the 2- day event itself. Now one might wonder if such an event would cost a pretty penny to participate, but it doesn't. It was free.
 
 At its core, the summit features the Blue Ocean Strategy developed by Prof. W. Chan Kim and Prof. Renée Mauborgne, which also features their new book: Blue Ocean Shift. It showcases Malaysia's embrace of the NBOS (National Blue Ocean Strategy) and how they have used it to improve the development of the country, which was an eye-opening revelation. Every participant was also given a copy of the book throughout the summit.
 
