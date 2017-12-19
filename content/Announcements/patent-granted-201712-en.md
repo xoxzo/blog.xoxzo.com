@@ -1,6 +1,6 @@
 Title: Patent granted for Xoxzo's Dial In Numbers technology
 Date: 2017-12-19 14:00
-Slug: patent-granted-201712
+Slug: patent-granted-for-telephone-dial-in-numbers-technology
 Lang: en
 Tags: patent; Xoxzo; incoming-calls; DIN; 
 Author: Aiko Yokoyama
@@ -9,7 +9,7 @@ Summary: Xoxzo was granted a patent for the system to receive and process incomi
 Thank you very much for your continuous support for [Xoxzo Cloud Telephony Platform](https://www.xoxzo.com/en/) and 
 [SMS Delivery API Service EZSMS](https://www.ezsms.biz/ja/) .
 
-We are pleased to announce that Xoxzo acquired a patent on telephone reception system and the
+We are pleased to announce that Xoxzo acquired a patent on telephone answering system and the
 control method and program of servers, utilized by our Dial In Numbers
 fuctionality on November 24, 2017.
 
