@@ -2,14 +2,15 @@ Title: 電話受信システム 特許認定のお知らせ
 Date: 2017-12-19 14:00
 Slug: patent-granted-201712
 Lang: ja
-Tags: 特許; Xoxzo;　電話電信システム; サーバ装置制御方法;
+Tags: 特許; Xoxzo;　電話電信システム; サーバ装置制御方法; DIN;
 Author: Aiko Yokoyama
 Summary: Xoxzoは本年、電話受信システム、サーバ装置の制御方法及びプログラムにおいて、特許を認定されました。
 
 平素は、[Xoxzo-クラウドテレフォニープラットフォーム](https://www.xoxzo.com/ja/)及び
 [SMS配信サービス・EZSMS](https://www.ezsms.biz/ja/)　をご利用いただき、誠にありがとうございます。
 
-平成29年11月24日、Xoxzoは電話受信システム、サーバ装置の制御方法、及びプログラムにおいて、特許を取得しましたので、お知らせ申し上げます。
+平成29年11月24日、Xoxzoは電話受信システム、サーバ装置の制御方法、及びプログラムにおいて、特許を取得しましたので、
+お知らせ申し上げます。こちらの特許は主に弊社のDIN機能に使われています。
 
 ![patent-certificate](/images/patent.jpg)
 
