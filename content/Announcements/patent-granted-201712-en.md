@@ -14,13 +14,14 @@ control method and program of server on November 24, 2017.
 
 ![patent-certificate](/images/patent.jpg)
 
-[Patent Office] (https://www.jpo.go.jp/indexj.htm) has 
-[Patent system to protect technology] (https://www.jpo.go.jp/beginner/beginner_03.html)
+
+[Patent Office](https://www.jpo.go.jp/indexj.htm) has 
+[Patent system to protect technology](https://www.jpo.go.jp/beginner/beginner_03.html)
 It is "intellectual property right" that protects ideas and inventions born by technology development as property, which is useful in the world.
 
 [The patent system that protects technology](https://www.jpo.go.jp/beginner/beginner_03.html) is 
 an "intellectual property right" that 
-[the Patent Office] (https://www.jpo.go.jp/index.htm) protects ideas and inventions 
+[the Patent Office](https://www.jpo.go.jp/index.htm) protects ideas and inventions 
 born by technology development and are useful in the world as property.
 
 While the patent system allows inventors to monopolize inventions, 
