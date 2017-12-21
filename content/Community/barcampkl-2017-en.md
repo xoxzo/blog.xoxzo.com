@@ -9,6 +9,8 @@ Summary: Barcamp KL is back after a long hiatus. It was a day jam packed with id
 
 In a cool Saturday morning during school holidays, Sunway iLabs, located within Menara Sunway in Petaling Jaya, Malaysia, held a very interesting event. Barcamp KL is an unconference, meaning the participants get to vote on the topics that they want to hear the most, instead of being subjected to a set speaker programme. It's entirely possible for a speaker to not get a chance to deliver in Barcamp, so the pace throughout the day is pretty dynamic.
 
+![BarcampKL in a nutshell](/images/barcampkl2017/bckl.jpg)
+
 ## What is Barcamp?
 
 In a nutshell, Barcamp is where people share interesting topics and ideas with everyone and pitch for being heard. Topics can be conducted by the presenter in a myriad of ways, from a standard talk to a roundtable discussion. 
