@@ -104,4 +104,6 @@ PYTHONPATHという名の環境変数を指定するのはその一つである�
 今後はその環境からPythonを実行すれば `/home/kamal/my-python-lib` 下のどの `*.py` ファイルもインポートされることができる。
 もう一つの方法は直接  `sys.path` を修正することだが、アプリケーションの最初のブートストラップコードで行えるため、この方が便利である。
 
-[次回]()へ続く
+
+[続きはこちらからお読みいただけます](https://blog.xoxzo.com/ja/2017/06/21/understanding-python-import-1/)
+[関連記事もどうぞ](https://blog.xoxzo.com/ja/2017/06/19/about-python-import/)
