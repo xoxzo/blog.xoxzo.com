@@ -1,10 +1,12 @@
-Title: Pythonでのインポート方法を理解する(其の二)
+Title: Pythonでのインポート方法を理解する
 Date: 2017/06/21 09:52
 Author: Kamal Mustafa
 Tags: python; import; sys.path;
 Slug: understanding-python-import-1
 Lang: ja
 Summary: Python インポートに使う search path について、もう少し説明します。
+
+[前記事はこちらからお読みいただけます](https://blog.xoxzo.com/ja/2011/11/22/understanding-python-import/)
 
 モジュールやパッケージにおけるインポートの失敗が、Pythonプログラマーが直面する一番の問題です。
 非常によく見られるので、Pythonのエキスパートになるために必要な知識の80%は、Pythonのこの部分を理解することであると言えます。
