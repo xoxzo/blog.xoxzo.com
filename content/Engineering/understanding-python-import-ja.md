@@ -4,8 +4,7 @@ Author: Kamal Mustafa
 Tags: python; インポート; 
 Slug: understanding-python-import
 Lang: ja
-Summary: Pythonでのインポート方法の理解については、既に色々と書かれているため、本稿がお悩みの解消に役立つか、
-増大させるかは良く分からないが、前者であることを願う。
+Summary: Pythonでのインポート方法の理解については、既に色々と書かれているため、本稿がお悩みの解消に役立つか、増大させるかは良く分からないが、前者であることを願う。
 
 
 Pythonでのインポート方法の理解については、既に色々と書かれているため、本稿がお悩みの解消に役立つか、
@@ -106,4 +105,5 @@ PYTHONPATHという名の環境変数を指定するのはその一つである�
 
 
 [続きはこちらからお読みいただけます](https://blog.xoxzo.com/ja/2017/06/21/understanding-python-import-1/)
+
 [関連記事もどうぞ](https://blog.xoxzo.com/ja/2017/06/19/about-python-import/)
