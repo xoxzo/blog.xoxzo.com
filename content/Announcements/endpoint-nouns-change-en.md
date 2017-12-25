@@ -1,4 +1,4 @@
-Title: [Xoxzo]Changes for API endpoints
+Title: [Xoxzo] Changes to our API endpoints
 Date: 2017-11-24 
 Slug: endpoint-nouns-change
 Lang: en

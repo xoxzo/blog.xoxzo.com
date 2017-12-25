@@ -5,6 +5,7 @@ Author: Kamal Mustafa
 Category: Engineering
 Tags: open source, oss, talk
 Slug: talk-at-uthm
+Summary:I was invited by Universiti Tun Hussein Onn (UTHM) student to give a talk on their 1 day seminar for the students in the Computer Science and Information Technology (FSKTM) faculty. 
 
 ![Header image]({filename}/images/imBJVxY.png)
 
