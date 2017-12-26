@@ -1,7 +1,7 @@
 Title: Kプレミアムサービスの、EZSMSからXOXZOへの移行のお勧め
 Date: 2017/12/26
 Author: Akira Nonaka
-Tags: ezsms; xoxzo; KPremium;
+Tags: ezsms; xoxzo; k-premium;
 Slug: transition-from-ezsms-to-xoxzo
 Lang: ja
 Summary: EZSMS APIからXOXZO APIへの移行について解説します
