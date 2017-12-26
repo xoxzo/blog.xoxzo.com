@@ -8,7 +8,7 @@ Summary: EZSMS APIからXOXZO APIへの移行について解説します
 
 EZSMSおよびXOXZOでは従来より、キャリア様への直接接続を提供するKプレミアムサービスを提供してきました。これまでのサポートはKDDI様のみでしたが、この度XOXZOではKプレミアムV2へとサービスをアップグレードし、従来のKDDI様のみならず、Softbank様、DOCOMO様への直接接続のサービスを開始致しました。この直収サービスにより
 
-- 送信IDの固定化
+- 送信IDの固定化[^1]
 - さらなる到達率の向上
 
 が実現されました。
@@ -26,3 +26,6 @@ XOXZO APIの詳細に関しては[ドキュメント](http://docs.xoxzo.com/ja/)
 もしEZSMSからXoxzoへの移行に関するご質問やご相談などがございましたら、ご気軽に *help@xoxzo.com* までご連絡ください。
 
 [API比較表のダウンロードはこちらから]({filename}/images/pdf/EZSMS−XOXZO−API比較表.pdf)
+
+[^1]:KDDI様向けへの送信IDは、お客さまがお好きな文字列を登録できます。Softbank様、DOCOMO 様向けへの送信IDは弊社が設定したものになります。
+
