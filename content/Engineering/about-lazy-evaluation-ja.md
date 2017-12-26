@@ -1,7 +1,7 @@
 Title:遅延評価の威力
 Date: 2017/12/25
 Author: Akira Nonaka
-Tags: python; lazy-evaluation; delayed evaluation
+Tags: python; lazy evaluation; delayed evaluation
 Slug: about-lazy-evaluation
 Lang: ja
 Summary: 遅延評価の効能について紹介します
