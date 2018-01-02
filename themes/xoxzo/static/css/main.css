@@ -154,6 +154,7 @@ main section {
 
 article {
     padding: 70px 20px;
+    padding-bottom: 50px;
     border-bottom: 1px solid #ddd;
 }
 
@@ -204,6 +205,36 @@ article p:last-child {
 
 .article-tag {
     padding-top: 20px;
+}
+
+.author-profile {
+    padding-top: 40px;
+    margin-top: 40px;
+    border-top: 1px solid #ddd;
+    text-align: center;
+}
+
+.author-profile .profile-content {
+    text-align: left;
+    font-size: 0.9rem;
+}
+
+.author-profile img {
+    width: 150px;
+    border-radius: 50%;
+    border: 1px solid #ccc;
+    margin: 0;
+}
+
+.author-profile h3 {
+    font-size: 1.3rem;
+}
+
+.author-profile h4 {
+    font-size: 0.9rem;
+    color: #999;
+    margin-bottom: 20px;
+    line-height: 1.3rem;
 }
 
 .btn-tag {
@@ -297,6 +328,19 @@ footer a:hover {
 
     .navbar-dark .navbar-nav .nav-link.nav-btn {
         margin-top: 12px;
+        text-align: center;
+    }
+
+    .author-profile .profile-content {
+        text-align: center;
+    }
+
+    .author-profile h3 {
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .author-profile h4 {
         text-align: center;
     }
 }
