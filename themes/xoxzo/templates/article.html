@@ -65,6 +65,13 @@
                             {% endfor %}
                         {% endif %}
                         </div>
+                        <div class="author-profile container">
+                          <div class="row">
+                            {% if article.footer_insert_html %}
+                              {% include article.footer_insert_html %}
+                            {% endif %}
+                          </div>
+                        </div>
                     </article>
                 </div>
             </section>
