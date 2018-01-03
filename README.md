@@ -108,3 +108,12 @@ the string and then run:
     
     make compile_translation
     make html
+
+
+#### Author's footer
+
+You can find author's footer files to edit here:
+
+    themes/xoxzo/templates/profile/
+
+Make sure that you are using exactly same author's name with profile file name. Otherwise Pelican cannot find the profile.
