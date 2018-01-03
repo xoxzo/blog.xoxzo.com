@@ -65,6 +65,10 @@
                             {% endfor %}
                         {% endif %}
                         </div>
+
+                        {% if article.footer_insert_html %}
+                          {% include article.footer_insert_html %}
+                        {% endif %}
                     </article>
                 </div>
             </section>
