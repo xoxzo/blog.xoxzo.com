@@ -3,7 +3,6 @@ Date: 2017-12-25 13:00:00
 Slug: sms-manners
 Lang: ja
 Tags: SMS; 
-Thumbnail: images/CMSMrTerada01.jpg 
 Author: Aiko Yokoyama
 Summary: ビジネスレター、Eメールの書き方と、字数制限のあるSMSの書き方。マナーには、どんな違いがあるのでしょうか？気をつけたいポイントをまとめてみました！
 
