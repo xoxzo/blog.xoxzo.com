@@ -37,7 +37,7 @@ EZSMSのアカウントにログインし、Web上での下記サービスをご
 9. [コードコール(CodeCall)発信する API](https://www.ezsms.biz/ja/faq/codecall/)
 10. 発信したコードコール(CodeCall)のステータス確認 API
 
-上記をご利用のお客様に於かれましては、本年7月3日までに、次世代APIサービスである[Xoxzoクラウド・テレフォニー・プラットフォーム](https://www.xoxzo.com/ja/)への移行をお願い致します。移行に関する詳細は、[こちら](https://blog.xoxzo.com/ja/2017/12/26/transition-from-ezsms-to-xoxzo/)をご参照ください。
+上記をご利用のお客様に於かれましては、本年7月3日までに、次世代APIサービスである[Xoxzoクラウド・テレフォニー・プラットフォーム](https://www.xoxzo.com/ja/)への移行をお願い致します。移行に関する詳細は、[こちら](https://blog.xoxzo.com/ja/2017/12/26/transition-from-ezsms-to-xoxzo/)をご参照ください。尚、現在EZSMSのサービスご利用に於いて、個別契約を締結頂いております法人のお客様には、Xoxzoへ移行の際にXoxzoでの個別契約へと引き継がれますことをご承知おきください。移行期間中のお取り扱い等、詳細についてご不明な点がございましたら、お気軽に help@xoxzo.com までお問い合わせください。
 
 その他、移行に関するご質問は、help@xoxzo.comまでお寄せください。
 
