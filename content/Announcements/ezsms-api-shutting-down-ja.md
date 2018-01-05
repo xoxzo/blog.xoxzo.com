@@ -25,6 +25,7 @@ EZSMSのアカウントにログインし、Web上での下記サービスをご
 
 これにより、影響のあるお客様は、下記のAPIサービスをご利用のお客様となります。
 (APIキーを使い、https://api.ezsms.biz/ へアクセスされているお客様)
+
 1. [SMS送信 API](https://www.ezsms.biz/ja/faq/short-messaging-api/)
 2. [Kプレミアム送信サービスAPI](https://www.ezsms.biz/ja/faq/kddi-premium/)
 3. [キャリア識別API](https://www.ezsms.biz/ja/faq/carrier-search-api/)
