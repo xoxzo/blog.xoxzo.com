@@ -29,7 +29,7 @@ EZSMSのアカウントにログインし、Web上での下記サービスをご
 1. [SMS送信 API](https://www.ezsms.biz/ja/faq/short-messaging-api/)
 2. [Kプレミアム送信サービスAPI](https://www.ezsms.biz/ja/faq/kddi-premium/)
 3. [キャリア識別API](https://www.ezsms.biz/ja/faq/carrier-search-api/)
-4. [ステータス確認API]()
+4. ステータス確認API
 5. ポイント残高確認API
 6. SMS メッセージパーツ数を教えてくれる API
 7. [One Time Address (OTA) 認証・承認 API](https://www.ezsms.biz/ja/faq/mobile-authentication-api/)
