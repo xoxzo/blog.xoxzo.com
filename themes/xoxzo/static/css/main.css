@@ -171,6 +171,10 @@ article p:last-child {
     margin-bottom: 0;
 }
 
+article.article {
+    border-bottom: none;
+}
+
 .article-info {
     font-size: 1.1rem;
     font-weight: 500;
@@ -208,7 +212,7 @@ article p:last-child {
 }
 
 .author-profile {
-    padding-top: 40px;
+    padding: 40px 15px;
     margin-top: 40px;
     border-top: 1px solid #ddd;
     text-align: center;
@@ -309,6 +313,10 @@ footer a {
 footer a:hover {
     color: white;
     text-decoration: underline;
+}
+
+.article #disqus_thread {
+    border-top: 1px solid #ddd;
 }
 
 @media (max-width: 991px){

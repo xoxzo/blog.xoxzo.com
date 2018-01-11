@@ -90,3 +90,4 @@ from datetime import date
 CURRENTYEAR = date.today().year
 
 FOOTER_INSERT_HTML = 'profile/%(author)s.html'
+DISQUS_SITENAME = 'https://xoxzo-blog.disqus.com/'
