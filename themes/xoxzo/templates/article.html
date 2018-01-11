@@ -38,7 +38,7 @@
         <div class="row">
             <section class="content col-md-8 col-lg-9 float-md-right">
                 <div class="container">
-                    <article>
+                    <article class="article">
                         <h2 class="article-info">
                             {{ article.locale_date }} /
                             <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
@@ -69,8 +69,9 @@
                         {% if article.footer_insert_html %}
                           {% include article.footer_insert_html %}
                         {% endif %}
+
+                        {% include 'disqus.html' %}
                     </article>
-                    {% include 'disqus.html' %}
                 </div>
             </section>
 
