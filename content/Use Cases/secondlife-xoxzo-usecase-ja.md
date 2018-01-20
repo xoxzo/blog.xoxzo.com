@@ -1,5 +1,5 @@
 Title: 【Xoxzo】セカンドライフが連絡到着確認強化のためXoxzoのAPIを導入
-Date: 2018-01-22 15:00
+Date: 2018-01-20 15:00
 Slug: secondlife-xoxzo-usecase
 Lang: ja
 Tags: use-cases; secondlife; 
