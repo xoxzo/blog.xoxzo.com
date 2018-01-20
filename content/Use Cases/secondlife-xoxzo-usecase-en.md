@@ -1,5 +1,5 @@
 Title: [Xoxzo]SecondLife uses Xoxzo APIs for better assurance of customer notification delivery
-Date: 2018-01-20 15:00
+Date: 2018-01-22 15:00
 Slug: secondlife-xoxzo-usecase
 Lang: en
 Tags: use-cases; secondlife; 
@@ -10,19 +10,19 @@ Summary: SecondLife, an ecology company that target 100％ recycle has installed
 
 A comment from [SecondLife](https://www.ehaiki.jp/second/)is as below.
 
-_We had issues of non-delivery of email contacts with our client which is essential in our business.
+_We had issues of non-delivery of email contacts with our client which is essential in our business._
 
-We had been considering the better method of communication with our clients as there are many of them even not contacting us about the non-delivery of our message, although some of them would.
+_So our search has been made for the better method of communication with our clients as there are many of them even not contacting us about the non-delivery of our message, although some of them would._
 
-We believe SMS is a convenient method for corporations to contact their clients as about 80% of access from the client is via mobile devices.
+_We believe SMS is a convenient method for corporations to contact their clients as about 80% of access from the client in current world is made via mobile devices._
 
-The best attractiveness of using SMS is "more assurance of message delivery".
+_The best attractiveness of using SMS is "more assurance of message delivery"._
 
-We are currently building System API to auto-sending SMSs to our registered clients._
+_We are currently building System API to auto-sending SMSs to our registered clients._
 
 ![secondlife-logo](/images/secondlife-logo.png)
 
-Company Name：SecondLife
-Location：Osaka, Japan
-Foundation：November, 2010
+Company Name：SecondLife<br>
+Location：Osaka, Japan<br>
+Foundation：November, 2010<br>
 URL: https://www.ehaiki.jp/second/
