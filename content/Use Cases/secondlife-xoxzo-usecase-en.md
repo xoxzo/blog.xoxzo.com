@@ -8,7 +8,7 @@ Summary: SecondLife, an ecology company that target 100％ recycle has installed
 
 [SecondLife](https://www.ehaiki.jp/second/) in Osaka, Japan, operating recycling activity by providing more convenient preloved-goods-collection service as well as contribute to donations to emerging countries with the cost of vaccine to their children, uses Xoxzo SMS API to contact their clients with better assurance of their awareness instead of sending email notices.
 
-A comment from [SecondLife](https://www.ehaiki.jp/second/)is as below.
+A comment from [SecondLife](https://www.ehaiki.jp/second/) is as below.
 
 _We had issues of non-delivery of email contacts with our client which is essential in our business._
 
