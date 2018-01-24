@@ -1,4 +1,4 @@
-Title: [Xoxzo]SecondLife uses Xoxzo APIs for better assurance of customer notification delivery
+Title: [Xoxzo] SecondLife uses Xoxzo APIs for better assurance of customer notification delivery
 Date: 2018-01-22 15:00
 Slug: secondlife-xoxzo-usecase
 Lang: en
