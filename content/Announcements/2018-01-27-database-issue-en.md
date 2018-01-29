@@ -11,7 +11,7 @@ Thank you for using [Xoxzo, Cloud Telephony Platform](https://www.xoxzo.com/en/)
 Our Database-Issue caused Xoxzo Voice APIs from 12:50 to 20.52 January 27, 2018.
 The issue made affects on the service as below.
 
-On some of subscribed numbers;
+On some of subscribed numbers; <br>
 **Xoxzo**
 During the mentioned period, Dial in Numbers didn't receive/make calls, 
 no credits were charged during this period.
