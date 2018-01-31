@@ -13,6 +13,9 @@ Due to an emergency maintenance carried out on our Xoxzo infrastructure,
 connections to some of our DIN numbers and Voice API functionalities were intermittently
 disrupted from 15:59 to 16:39 JST on January 31, 2018.
 
+The emergency maintenance was to increase reliability and redundancy of our API
+infrasructure.
+
 We apologize for any inconvenience caused by this and will reinforce for even better 
 performance on our APIs.
 
