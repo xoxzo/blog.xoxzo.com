@@ -1,6 +1,6 @@
 Title: 【Xoxzo】音声APIにおける、断続的トラブルについて
 Date: 2018-02-01 09:00
-Slug: 20180131-intermittent-trouble
+Slug: 20180131-intermittent-disruption
 Lang: ja
 Tags: Xoxzo; EZSMS; intermittent-trouble; 
 Author: Aiko Yokoyama

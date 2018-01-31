@@ -1,6 +1,6 @@
 Title: [Xoxzo] Intermittent disruption of service on our Voice API and DINs
 Date: 2018-02-01 09:00
-Slug: 20180131-intermittent-trouble
+Slug: 20180131-intermittent-disruption
 Lang: en
 Tags: Xoxzo; EZSMS; intermittent-trouble; 
 Author: Aiko Yokoyama
