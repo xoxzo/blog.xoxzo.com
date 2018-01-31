@@ -1,4 +1,4 @@
-Title: [Xoxzo] Intermittent trouble on our Voice API
+Title: [Xoxzo] Intermittent disruption of service on our Voice API and DINs
 Date: 2018-02-01 09:00
 Slug: 20180131-intermittent-trouble
 Lang: en
