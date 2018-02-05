@@ -11,22 +11,23 @@ Summary: 音声APIの、はじめての冒険へ出発！
   <img src="https://blog.xoxzo.com/images/xoxtan.png" class="float-lg-right lg-width200 md-width300" style="margin: 0;">
 </div>
 <div class="lg-padding-top50 md-padding0">
-Now that we've <a href="https://blog.xoxzo.com/2017/10/31/sending-your-first-sms/">sent an SMS</a> and learned how to <a href="https://blog.xoxzo.com/2017/11/15/checking-your-sms-status/">check its status</a>, it's time we start exploring the Voice API of Xoxzo!
+こんにちワ〜！
+もう、 <a href="https://blog.xoxzo.com/en/2017/10/31/sending-your-first-sms/">SMSの送信、</a> もできちゃったし <a href="https://blog.xoxzo.com/en/2017/11/15/checking-your-sms-status/">そのステータス確認</a>もできちゃった、というあなたは、今度はXoxzoの<a href="https://www.xoxzo.com/ja/about/voice-api/">音声API</a>の冒険にでかける時ですよぉ〜！
 </div>
 <div style="clear:both;"></div>
 
-For this tutorial, we're going to start off with a simple implementation of voice: recording playback, or what we call simple playback. We're going to make a call and when the recipient picks up the phone, they will hear an mp3 file being played on the other end. Let's try it out on your own number so you can experience it firsthand!
+今回は、シンプルな音声通話：録音済み音声ファイルの再生の使い方から初めちゃうね。このAPIを使うと、こちらから電話をかけて、相手が出たら準備しておいたmp3ファイルを再生することができるのよ。まずは、自分の電話にかけて、テストしてみてね！
 
-## What Do I Need? ##
+## 必要なものは？ ##
 
-To start off, you will need to have an mp3 file stored somewhere online and a URL that links to it. Make sure that the link is public so that the API can use it. Keep in mind that the mp3 URL must only have safe characters, which are alphanumeric and these:
-```- _ $ . * ' ( ) ! ?```
+始める前に、mp3 音声ファイルを準備して、オンラインに保存してください。リンクを使うので、メモしておいてね！このリンク、APIが使うから、誰でもアクセス出来るようにしておいてね。あと、このURLに、通常の半角アルファベットや```- _ $ . * ' ( ) ! ?```　等の、使用に支障のない文字種のみが使われていることも、ちゃんと確認しておいてください。
 
-You'll also need a valid caller and recipient phone number using the [E.164 number format](https://en.wikipedia.org/wiki/E.164), which means the numbers must have country code with a + before it.
+あと、通話のできる電話番号を、[E.164](https://ja.wikipedia.org/wiki/E.164)フォーマットで、準備してねっ！
+このフォーマットは、つまり、先頭に + のついた、```国番号``` 付きの電話番号ってことです！
 
-## Let's make that call! ##
+## 電話をかけてみましょう！ ##
 
-The URL to make a simple playback call is `https://api.xoxzo.com/voice/simple/playbacks/`. So using CURL, the typical command to make a call would be:
+音声ファイル再生APIを使うときの、URLは `https://api.xoxzo.com/voice/simple/playbacks/`です。だから、CURLを使うと、音声通話を使う基本のコマンドは、こんな感じです。
 
 ```
 curl -u th3ApISiDt3xtTh4tyoUcoPied:Th3aUthT0k3nth4tY0uCopi3D \
@@ -36,10 +37,11 @@ curl -u th3ApISiDt3xtTh4tyoUcoPied:Th3aUthT0k3nth4tY0uCopi3D \
 https://api.xoxzo.com/voice/simple/playbacks/
 ```
 
-You should get a callid response in return: `[{"callid":"YoUr-5ucc355fuL-c4lL-Uu1D"}]`.
+レスポンスは、callid が返ってきまぁす。 `[{"callid":"YoUr-5ucc355fuL-c4lL-Uu1D"}]`
 
-And that's it! There's a lot of uses you can get out of this, like sending a greeting/promotion call to your customers, or even as a reminder for a meeting. The possibility is as unlimited as your imagination.
+使い方は、これだけです！
+でも、このAPIを使ってできることは、たっくさんあります。お客様へのご挨拶コール、プロモーションのご案内にはもちろん、ミーティングのリマインダーにも応用できちゃうんです。使うあなたの想像力次第で、可能性は無限ですね！
 
-Check out our [docs](https://docs.xoxzo.com/en/) to see what cool things you can do with our API.
+Xoxzoの [ドキュメンテーション](https://docs.xoxzo.com/ja/) で、XoxzoのAPIでできる、すごいこと、チェックしてみてくださいね！
 
-Until next time! Miko out!
+[ミコちゃんのチュートリアル・シリーズ](https://blog.xoxzo.com/ja/tag/mikochiyan/)好評不定期連載中
