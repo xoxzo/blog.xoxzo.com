@@ -1,5 +1,10 @@
 {% extends "base.html" %}
 
+{% block hreflang %}
+    <link rel="alternate" href="{{ SITEURL }}/en/authors" hreflang="en"/>
+    <link rel="alternate" href="{{ SITEURL }}/ja/authors" hreflang="ja"/>
+{% endblock %}
+
 {% block title %}{{ SITENAME }} - {% trans %}Authors{% endtrans %}{% endblock %}
 
 {% block content %}
