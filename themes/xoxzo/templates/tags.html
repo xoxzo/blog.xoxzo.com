@@ -1,5 +1,10 @@
 {% extends "base.html" %}
 
+{% block hreflang %}
+    <link rel="alternate" href="{{ SITEURL }}/en/tags" hreflang="en"/>
+    <link rel="alternate" href="{{ SITEURL }}/ja/tags" hreflang="ja"/>
+{% endblock %}
+
 {% block title %}{{ SITENAME }} - {% trans %}Tags{% endtrans %}{% endblock %}
 
 {% block content %}
