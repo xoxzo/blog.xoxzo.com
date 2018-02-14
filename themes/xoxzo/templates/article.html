@@ -30,11 +30,6 @@
 
 {% block title %}{{ article.title }} | {% trans %}Xoxzo Official Blog{% endtrans %}{% endblock title %}
 
-{% block hreflang %}
-  <link rel="alternate" href="{{ SITEURL }}/en/{{ article.url }}" hreflang="en"/>
-  <link rel="alternate" href="{{ SITEURL }}/ja/{{ article.url }}" hreflang="ja"/>
-{% endblock %}
-
 {% block footer_attr %}class="non-sticky-footer"{% endblock %}
 
 {% block content %}
