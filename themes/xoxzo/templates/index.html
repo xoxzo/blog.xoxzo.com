@@ -1,5 +1,11 @@
 {% extends "base.html" %}
 
+{% block hreflang %}
+    <link rel="alternate" href="{{ SITEURL }}" hreflang="x-default"/>
+    <link rel="alternate" href="{{ SITEURL }}/en" hreflang="en"/>
+    <link rel="alternate" href="{{ SITEURL }}/ja" hreflang="ja"/>
+{% endblock %}
+
 {% block footer_attr %}class="non-sticky-footer"{% endblock %}
 
 {% block content %}

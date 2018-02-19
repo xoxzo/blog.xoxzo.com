@@ -1,5 +1,11 @@
 {% extends "index.html" %}
 
+{% block hreflang %}
+    <link rel="alternate" href="{{ SITEURL }}/category/{{ category.url }}" hreflang="x-default"/>
+    <link rel="alternate" href="{{ SITEURL }}/en/category/{{ category.url }}" hreflang="en"/>
+    <link rel="alternate" href="{{ SITEURL }}/ja/category/{{ category.url }}" hreflang="ja"/>
+{% endblock %}
+
 {% block content_title %}
 <div class="content-title">
     <h2>{% trans %}Articles in the <b>{{ category }}</b> category{% endtrans %}</h2>
