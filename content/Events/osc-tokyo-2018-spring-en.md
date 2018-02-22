@@ -1,16 +1,16 @@
-Title: 【Xoxzo】2月23日（金）24日（土）OSC 東京に協賛/出展します。
+Title: [Xoxzo] We will be at the OSC Tokyo 23rd to 24th February!
 Date: 2018-02-21 16:00
 Slug: osc-tokyo-2018
-Lang: ja
-Tags: 2018; osc; 東京; スポンサー; オープンソース;
+Lang: en
+Tags: 2018; osc; tokyo; sponsorship; opensource;
 Author: Aiko Yokoyama
-Summary: Xoxzoは、来たる2月23日金曜日と24日土曜日の二日間、明星大学 日野キャンパスにて、OSC（オープンソースカンファレンス）2018 Tokyo Springへ出展します。
+Summary: Xoxzo will be sponsoring OSC Tokyo which will be held for two days, from 23rd Friday to 24th Sat at Meisei University, Hino Campus.
 
 [![OSC_logo]({filename}/images/OSC_logo_sticker.gif)](https://www.ospn.jp/osc2018-spring/)
 
-[Xoxzo](https://info.xoxzo.com/ja/)は、2018年2月23日金曜日より2日間、
-[明星大学・日野キャンパス](http://www.meisei-u.ac.jp/access/hino.html)にて開催されます
-[OSC（オープンソースカンファレンス）2018 Tokyo](https://www.ospn.jp/osc2018-spring/)へ出展します。
+[Xoxzo](https://info.xoxzo.com/en/) will be sponsoring and will have a booth
+during the [OSC (Open Source Conference) 2018 Tokyo](https://www.ospn.jp/osc2018-spring/), which will be held at the
+[Mesei University, Hino Campus](http://www.meisei-u.ac.jp/access/hino.html).
 
 オープンソースの文化祭！とされる[OSC（オープンソースカンファレンス）](https://www.ospn.jp/)は、
 関連のコミュニティや協賛企業、後援団体によるセミナーやプロダクト展示などを入場参加無料で御覧いただけるイベントで、
