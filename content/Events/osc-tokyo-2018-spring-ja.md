@@ -2,7 +2,7 @@ Title: 【Xoxzo】2月23日（金）24日（土）OSC 東京に協賛/出展し�
 Date: 2018-02-21 16:00
 Slug: osc-tokyo-2018
 Lang: ja
-Tags: 2018; osc; 
+Tags: 2018; osc; 東京; スポンサー; オープンソース;
 Author: Aiko Yokoyama
 Summary: Xoxzoは、来たる2月23日金曜日と24日土曜日の二日間、明星大学 日野キャンパスにて、OSC（オープンソースカンファレンス）2018 Tokyo Springへ出展します。
 
