@@ -2,8 +2,17 @@
 
 {% block hreflang %}
     <link rel="alternate" href="https://blog.xoxzo.com/{{ article.url }}" hreflang="x-default"/>
-    <link rel="alternate" href="https://blog.xoxzo.com/en/{{ article.url }}" hreflang="en"/>
+    {% if DEFAULT_LANG == 'ja' %}
     <link rel="alternate" href="https://blog.xoxzo.com/ja/{{ article.url }}" hreflang="ja"/>
+    {% if article.translations %}
+    <link rel="alternate" href="https://blog.xoxzo.com/en/{{ article.url }}" hreflang="en"/>
+    {% endif %}
+    {% else %}
+    <link rel="alternate" href="https://blog.xoxzo.com/en/{{ article.url }}" hreflang="en"/>
+    {% if article.translations %}
+    <link rel="alternate" href="https://blog.xoxzo.com/ja/{{ article.url }}" hreflang="ja"/>
+    {% endif %}
+    {% endif %}
 {% endblock %}
 
 {% block head %}
