@@ -1,4 +1,4 @@
-Title: 【Xoxzo】OSC 東京 2018 SPRING に出展しました
+Title: 【Xoxzo】OSC 東京 2018 SPRING を終えて
 Date: 2018-03-02 15:00
 Slug: osc-tokyo-2018-spring-report
 Lang: ja
