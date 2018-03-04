@@ -1,4 +1,4 @@
-Title: [Xoxzo] Trp to Pycon Philippines 2018
+Title: [Xoxzo] Trip to Pycon Philippines 2018
 Date: 2018-03-04 13:00 
 Slug: pycon-ph-2018
 Lang: en 
@@ -22,17 +22,17 @@ Group Lunches were done for people to discuss on various topics and interact wit
 
 The Next Keynote speaker was Al Sweigart who explained the importance of interacting with people in the conference. He gave examples of how games have developed over the years, how older games like Atari’s Adventure was not designed well to Nintendo’s Mario which was designed by designers. And how interaction is important between people having different  roles & backgrounds.
 
-< Al Sweigart> ![PyCon PH 2018 XOXZO Keynote2]({filename}/images/pycon-ph-2018/5.jpg)
+![PyCon PH 2018 XOXZO Keynote2]({filename}/images/pycon-ph-2018/5.jpg)
 
 Lightning Talks were held on the second day, with a total of 18 Speakers. I started the Lightning Talk session with a talk on how to build simple chatbots.
 
-<My pic> ![PyCon PH 2018 XOXZO Lightning1]({filename}/images/pycon-ph-2018/7.jpg)
+![PyCon PH 2018 XOXZO Lightning1]({filename}/images/pycon-ph-2018/7.png)
 
 
 There was a final keynote by Younggun Kim speaking about the APAC Python Community, and how it has progressed over the years.
 
 
-<kim> ![PyCon PH 2018 XOXZO Keynote3]({filename}/images/pycon-ph-2018/8.jpg)
+![PyCon PH 2018 XOXZO Keynote3]({filename}/images/pycon-ph-2018/8.png)
 
 The day ended with a discussion between different PyCon Organizers in the APAC Community.
 
