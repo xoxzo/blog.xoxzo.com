@@ -12,7 +12,7 @@ I visited Japan to attend the OSC Tokyo 2018 Spring. It was held at Meisei Unive
 
 Xoxzo had a booth to demonstrate voice calls and SMS transmission. There were many visitors ranging from students to developers. They were able to see the actual code working, and learn about various use cases.
 
-As a designer, to see the response of our potential users motivated me to make more intuitive design. It was a nice opportunity to learn what users thought about our product, and what further technology they were looking for. As a designer, to see the response of our potential user motivated me to do more intuitive design. It was a nice chance to know what they think about our product, and what further technology they are looking for.
+As a designer, to see the response of our potential users motivated me to make more intuitive design. It was a nice opportunity to learn what users thought about our product, and what further technology they were looking for.
 
 ![OSC_booth]({filename}/images/osc2018-booth2.jpg)
 
