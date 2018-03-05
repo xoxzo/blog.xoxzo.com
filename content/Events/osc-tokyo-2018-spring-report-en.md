@@ -22,7 +22,7 @@ Meanwhile, our evangelist Akira Nonaka made a lightning talk about “Xoxzo’s 
 
 On the evening of the 23rd, there was a social dinner gathering. Contrary to the calm air of daytime, I was able to feel a festive note. Everyone seemed to enjoy the party. Even though I cannot speak Japanese well, I met with many pleasant people and had a great time. I think I could somewhat feel the atmosphere of the Japanese developer community.
 
-![OSC_dinner]({filename}/images/osc2018-dinner.jpg)
+![OSC_dinner]({filename}/images/osc2018-dinner.jpeg)
 
 Overall, it was a special and inspiring experience for me. I wish I could have more opportunities like this. I'm sure that we will come back next time with better ideas and technologies.
 
