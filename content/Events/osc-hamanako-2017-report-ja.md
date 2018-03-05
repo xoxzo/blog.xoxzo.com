@@ -15,7 +15,7 @@ Summary: OSC（オープンソースカンファレンス）2017 浜名湖の参
 ですね。遠州名物「からっ風」（強烈に体感温度が下がる）に吹かれながら会
 場の浜松市市民協働センターに到着しました。
 
-![XOXZOのブース]ｗ
+![XOXZOのブース]({filename}/images/osc-2017-hamanako-booth.JPG)
 
 CMS(Content management system) や IOT (Internet of things) 関連の展示
 が目立ちます。当日の参加者は約１４０名。来場者や出展者の皆さんと、密度
