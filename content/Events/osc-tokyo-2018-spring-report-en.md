@@ -16,7 +16,7 @@ As a designer, to see the response of our potential users motivated me to make m
 
 ![OSC_booth]({filename}/images/osc2018-booth2.jpg)
 
-Meanwhile, our evangelist Akira Nonaka made a lightning talk about “Xoxzo’s Lifestyle”, and a lecture titled "How to utilize the Telephony APIs to support Multi-Factor Authentication and SMS Marketing for beginners". 
+Meanwhile, our evangelist Akira Nonaka made a lightning talk about “Xoxzo’s Lifestyle”, and a lecture titled ["How to utilize the Telephony APIs to support Multi-Factor Authentication and SMS Marketing for beginners"](https://www.slideshare.net/xoxzo/smsapi-89319606).
 
 ![OSC_talk]({filename}/images/osc2018-talk.jpg)
 
