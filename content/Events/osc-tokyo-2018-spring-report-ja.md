@@ -30,9 +30,7 @@ Summary: Xoxzoは、2018年2月23日㈮と24日㈯の二日間、明星大学多
 ブースを覗き込んでいく、と言うのが、来場者のブース巡りのパターンとなっているようでした。
 
 弊社の野中は、「多要素認証やSMSマーケティングを支えるテレフォニーAPI活用入門」というセミナーを行いました。下記よりスライドをご覧いただけます。
-<iframe src="//www.slideshare.net/xoxzo/smsapi-89319606" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
-[多要素認証やSMSマーケティングを支えるテレフォニーAPI活用入門](https://www.slideshare.net/xoxzo/smsapi-89319606) 
-
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/ogqEK1aT2Zj8wZ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/xoxzo/smsapi-89319606" title="多要素認証やSMSマーケティングを支えるテレフォニーAPI活用入門" target="_blank">多要素認証やSMSマーケティングを支えるテレフォニーAPI活用入門</a> </strong> from <strong><a href="https://www.slideshare.net/xoxzo" target="_blank">Xoxzo Inc.</a></strong> </div>
 
 私自身も、特別トラックとして催された、「子どものプログラミング教育」の中のセミナー、
 「[【教育】アプリ開発による実践的プログラミング教育の事例紹介](https://www.ospn.jp/osc2018-spring/modules/eguide/event.php?eid=81)」に
