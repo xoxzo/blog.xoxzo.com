@@ -2,7 +2,7 @@ Title: [Xoxzo] Trip to Pycon Philippines 2018
 Date: 2018-03-04 13:00 
 Slug: pycon-ph-2018
 Lang: en 
-Tags: 2018; pycon ph; PH; pycon;
+Tags: 2018; ph; pycon; philippines
 Author: Shauryadeep Chaudhuri
 Summary: This is the experience we had in PyCon PH 2018, held on February 24 & 25, 2018 in Manila, Philippines.
 

@@ -1,8 +1,8 @@
 Title: PyCon フィリピン 2018 への旅
 Date: 2018-03-04 13:00 
 Slug: pycon-ph-2018
-Lang: en 
-Tags: 2018; pycon ph; PH; pycon;
+Lang: ja
+Tags: 2018; pycon; ph; フィリピン;
 Author: Shauryadeep Chaudhuri
 Summary: こちらは、2018年2月24日-25日に行われた PyCon フィリピン 2018での我々の体験レポートです。 
 
@@ -30,7 +30,7 @@ ATARIのゲーム、『アドベンチャー』が、デザイナーによりデ
 ![PyCon PH 2018 XOXZO Keynote2]({filename}/images/pycon-ph-2018/5.jpg)
 
 2日目は、総勢18名による、ライトニング・トークが行われました。
-私も、トップバッターで、シンプルなチャットボットの作り方というセッションを行いました。
+私も、トップバッターで、シンプルなチャットボットの作り方というLTセッションを行いました。
 
 ![PyCon PH 2018 XOXZO Lightning1]({filename}/images/pycon-ph-2018/7.png)
 
