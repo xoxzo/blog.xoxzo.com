@@ -86,6 +86,10 @@ repeat. Your auth code is 1,,2,,3,,4"
 
 And that's it!
 
+Your user can now use the auth code you just told her over the phone and access
+your super service. You also now know that the phone number you called to tell
+her the code exists, and she is *probably* a real person!
+
 Check out our [docs](https://docs.xoxzo.com/en/) to see what cool things you can do with our API.
 
 Until next time! Miko out!
