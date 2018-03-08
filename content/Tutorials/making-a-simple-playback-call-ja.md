@@ -10,13 +10,13 @@ Summary: 音声APIの、はじめての冒険へ出発！
 <div>
   <img src="https://blog.xoxzo.com/images/xoxtan.png" class="float-lg-right lg-width200 md-width300" style="margin: 0;">
 </div>
-<div class="lg-padding-top50 md-padding0">
+
 こんにちワ〜！
-もう、 <a href="https://blog.xoxzo.com/ja/2017/10/31/sending-your-first-sms/">SMSの送信、</a> もできちゃったし <a href="https://blog.xoxzo.com/ja/2017/11/15/checking-your-sms-status/">そのステータス確認</a>もできちゃった、というあなたは、今度はXoxzoの<a href="https://www.xoxzo.com/ja/about/voice-api/">音声API</a>の冒険にでかける時ですよぉ〜！
-</div>
-<div style="clear:both;"></div>
+もう、 [SMSの送信]({filename}./sending-your-first-sms-ja.md) 、もできちゃったし [そのステータス確認]({filename}./checking-your-sms-status-ja.md) もできちゃった、というあなたは、今度はXoxzoの [音声API](https://www.xoxzo.com/ja/about/voice-api/) の冒険にでかける時ですよぉ〜！
 
 今回は、シンプルな音声通話：録音済み音声ファイルの再生の使い方から初めちゃうね。このAPIを使うと、こちらから電話をかけて、相手が出たら準備しておいたmp3ファイルを再生することができるのよ。まずは、自分の電話にかけて、テストしてみてね！
+
+<div style="clear:both;"></div>
 
 ## 必要なものは？ ##
 

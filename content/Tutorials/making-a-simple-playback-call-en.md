@@ -10,12 +10,17 @@ Summary: Let's get started on your first adventure with voice!
 <div>
   <img src="https://blog.xoxzo.com/images/xoxtan.png" class="float-lg-right lg-width200 md-width300" style="margin: 0;">
 </div>
-<div class="lg-padding-top50 md-padding0">
-Now that we've <a href="https://blog.xoxzo.com/2017/10/31/sending-your-first-sms/">sent an SMS</a> and learned how to <a href="https://blog.xoxzo.com/2017/11/15/checking-your-sms-status/">check its status</a>, it's time we start exploring the Voice API of Xoxzo!
-</div>
-<div style="clear:both;"></div>
 
-For this tutorial, we're going to start off with a simple implementation of voice: recording playback, or what we call simple playback. We're going to make a call and when the recipient picks up the phone, they will hear an mp3 file being played on the other end. Let's try it out on your own number so you can experience it firsthand!
+Now that we've [sent an SMS]({filename}./sending-your-first-sms-en.md) and
+learned how to [check its status]({filename}./checking-your-sms-status-en.md),
+it's time we start exploring the Voice API of Xoxzo!
+
+For this tutorial, we're going to start off with a simple implementation of voice:
+recording playback, or what we call simple playback. We're going to make a call
+and when the recipient picks up the phone, they will hear an mp3 file being played
+on the other end. Let's try it out on your own number so you can experience it firsthand!
+
+<div style="clear:both;"></div>
 
 ## What Do I Need? ##
 
