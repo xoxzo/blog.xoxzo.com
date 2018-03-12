@@ -66,8 +66,6 @@ I18N_SUBSITES   = {
         'STATIC_PATHS': STATIC_PATHS,
         'THEME_STATIC_PATHS': STATIC_PATHS + ['static'],
     },
-    'ms': {
-    },
 }
 
 DATE_FORMATS = {
