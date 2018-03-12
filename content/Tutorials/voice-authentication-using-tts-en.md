@@ -15,18 +15,18 @@ Hello everyone! Miko-chan took a short break from writing tutorials. We're busy
 improving and fixing our APIs to make it better for you, but now I am back so
 let us get started with a new tutorial!
 
-In our previous tutorial, we've [learned how to make a Simple Playback Call]({filename}./making-a-simple-playback-call-en.md) which just makes an outbound call to a certain number and plays a mp3
+In our previous tutorial, we've [learned how to make a Simple Playback Call]({filename}./making-a-simple-playback-call-en.md) which just makes an outbound call to a certain number and plays an mp3
 file that you specify. 
 
 In this tutorial, I am going to show to you how to make a voice call while
-specying what you want to say using Text To Speech (TTS). 
+specifying what you want to say using Text To Speech (TTS). 
 
 By using TTS, you can dynamically change what you say when the call is answered. 
 Because the message can dynamically be changed, a common use case is to read out
 authentication codes to the recipient of the call, instead of sending the code via SMS.
 
-Some of the biggest services on the internet like Google and Facebook uses this
-method to authenticate that you actually have physical posession of the phone.
+Some of the biggest services on the internet like Google and Facebook use this
+method to authenticate that you actually have physical possession of the phone.
 
 <div style="clear:both;"></div>
 
