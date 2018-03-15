@@ -7,7 +7,7 @@ Author: Aiko Yokoyama
 Summary: Xoxzoは2018年2月、電話発信システム、サーバ装置とその制御方法及びプログラムにおいて、特許を認定されました。
 
 平素は、[Xoxzo-クラウドテレフォニープラットフォーム](https://www.xoxzo.com/ja/)及び
-[SMS配信サービス・EZSMS](https://www.ezsms.biz/ja/)　をご利用いただき、誠にありがとうございます。
+[SMS配信サービス・EZSMS](https://www.ezsms.biz/ja/)をご利用いただき、誠にありがとうございます。
 
 平成30年2月16日、Xoxzoはサーバー装置、電話発信システム、サーバ装置の制御方法、及びプログラムにおいて、特許を取得しましたので、
 お知らせ申し上げます。こちらの特許は主に弊社の[音声通話用WebAPI](https://www.xoxzo.com/ja/about/voice-api/)に使われています。
