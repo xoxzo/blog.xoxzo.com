@@ -14,29 +14,44 @@ Summary: あなたが自宅で仕事をするとき、よりよく進めるヒ�
 すでにご存じの方もいらっしゃると思いますが、我々[Xoxzo](https://www.xoxzo.com/ja/) は、
 リモートワークに賛同した主唱者となりたいと考えています。しかし、仕事上でも個人的な生活面でも、ベールから見え隠れする
 新しい局面の問題点については、こぞって取り上げたいとも思っています。
-We at [Xoxzo](https://www.xoxzo.com/en/) like to advocate in favor of working remotely, as you may already know. But we’re also keen on discussing the problems that such new format raised in both professional and personal lives of workers.
 
-最近効果言われたIn a recently published piece on the [State of Remote Work report for 2018](https://open.buffer.com/state-remote-work-2018/),
-We at [Xoxzo](https://www.xoxzo.com/en/) like to advocate in favor of working remotely, as you may already know. But we’re also keen on discussing the problems that such new format raised in both professional and personal lives of workers.
-respondents answered that the three biggest struggles they face are loneliness, communicating, and distractions at home.
+最近公開された[State of Remote Work report for 2018/リモートワークに関する報告書/2018年版](https://open.buffer.com/state-remote-work-2018/)では、回答者の直面する３つの大きな問題点は、「孤独感」「コミュニケーション」そして「家庭環境内の雑念」でした。
 
-Instead of going with the “stop complaining and go back to the office” speech, we sourced some ideas from our team here at Xoxzo on what can you do to fight those problems. So let’s hear them.
+「愚痴を言うなら、さっさとオフィス勤務にもどりなさい」というのではなく、われわれは、ここXoxzoにおけるこの問題点への対策について、チームの意見を
+まとめてみました。
+ちょっと、見てみませんか。
 
-1) While the vast majority of remote workers – not just in our team, but everywhere – chooses their own home as the main place for  professional activities, it’s important to balance that convenience with environments that help you feel more socially connected. That’s why some of us also work in nice coffee shops and the eventual coworking space. Sitting down with fellow nomad-minded workers and even with friends, people that you can talk about other things instead of the specificities of the job, helps you not only to avoid isolation but refresh the mindset to come back to work-related issues with a clear mind.
+1) チーム・Xoxzoのみならず、どこのリモート・ワーカーでもそうですが、大半が仕事をする主な場所として、自宅を選んでいるようですが、
+社交的なつながりを感じられる環境と、至便のバランスを取ることは、とても重要なのです。
+喫茶店や、コーワーキング・スペースなどで仕事をする人がいるのは、そのためなのですね。
+ノマド志向で仕事をする人たちと席をともにし、または友人と一緒でも、仕事の詳細ではないことを話す相手がそばにいることで、
+孤立しているという感覚から逃れられるだけでなく、それまでの概念をリフレッシュし、考えをクリアにして、仕事を再開できるようになるのです。
 
-Tip: Find out about the best coffee shops in your city, and invite a friend to join you.
+提案：あなたの街の素敵な喫茶店を探してみましょう。そして、友人を誘ってみましょう。
 
 ![remote](/images/friends.jpg)
-_“Remember when I had to commute 3 hours a day?”_
+_“毎日３時間も通勤に使ってたときのこと、覚えてる？”_
 
-2) Talking online will probably never have the same feeling and feedback that doing it live has. Still, using voice and camera is the closest thing you can have to an office environment. Like everything else in life, practicing will make things easier. So try using your camera more often. Call fellow workers not only to discuss problems but to have a casual chat. Understand the rhythm of someone’s phrasing will smooth out even those meetings when the internet connection insists on making things harder for everyone.
+2) オンラインでのおしゃべりは、生で話すのとは、どうしても違った感覚や反応があるのは否めません。
+それでも、カメラとマイクを使うと、オフィス環境とかなり近づくことが出来ます。
+これは、私達の人生の何においても言えることですが、練習を重ねると、どんどん楽になります。
+もっと頻繁に、カメラを使うようにしましょう。
+職場の仲間と、問題について話し合うだけではなく、もっと気軽におしゃべりすればいいのです。
+インターネット接続が、皆を困難に陥れてやるとどんなに主張しているときでも、誰かの発する話し方のリズムを
+理解していれば、そういった会議や面会が、スムーズに運ぶものなのです。
 
-Tip: Have a “watercooler” channel with your company so you can have casual and random talks more often.
+提案： “watercooler/水飲み場” チャンネルを企業内に設けて、もっと様々なトピックでおしゃべりしてみましょう。
 
-3) Before we complain about distractions, we should step back and think about what is really a distraction. Are we talking about having to give attention to your family, or checking constant unimportant notifications on Facebook? Somehow it’s in human nature to impulsively assert blame to other people, and not to our own habits. Putting your work on hold for 20 minutes to spend time with a family member is the kind of experience we’re going to remember in the future, while the sum of the brief minutes we get distracted browsing the internet and checking our phones will definitely not.
+3) 「雑念」についての文句を始める前に、まずは振り出しに戻って、何が本当の雑念なのかを考えるべきです。
+家族への配慮や気遣いをすることが、仕事中の「雑念」だというのでしょうか。それとも、Facebookの取るに足らない
+アップデート通知をチェックしていることが「雑念」でしょうか。人間というものは、自らの癖よりも、つい他人のことを
+責めてしまいがちですね。 
+20分間仕事の手を休め、家族と過ごすのは、後にも残る経験となりえますが、ネットサーフィンや、スマホをチェックしたりする
+ほんのすこしの時間の累積というのは、言うまでもなく、何にもならない時間ですね。
 
-Tip: Make a self-assessment on your distractions, be strict to the unimportant ones and fully embrace the meaningful ones.
+提案： あなたの「雑念」を書き出して自己チェックしてみましょう。
+重要性の低いものには厳しく、反対に意味のあるものには、愛情を持って接しましょう。
  
 ![remote](/images/distraction.jpg)
-_“Sorry honey, I can't look at you know. Someone posted a funny cat on teh interwebz”_
+_“ごめんね、いまちょっと、ウェブで誰かが面白キャットを載せたから、そっちは向いてられないの”_
 
