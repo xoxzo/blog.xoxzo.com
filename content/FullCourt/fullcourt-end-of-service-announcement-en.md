@@ -4,8 +4,9 @@ Author: Iqbal Abdullah
 Lang: en
 Tags: endofservice, fullcourt, xoxzo
 Slug: fullcourt-end-of-service-announcement
+Summary: FullCourt end of service annoucement
 
-![logo\_1]({filename}/images/fullcourt-logo.png)
+![Fullcourt logo]({filename}/images/fullcourt-logo.png)
 
 In 2011, a wonderful idea was hatched to allow connectivity to millions
 of phones in the world in under 10 minutes. That idea was named
