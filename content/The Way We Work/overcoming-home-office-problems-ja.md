@@ -1,6 +1,6 @@
 Title: 在宅ワークの３大難点の乗り切り方
 Date: 2018-03-13 12:00
-Author: Gerald
+Author: Iqbal Abdullah
 Tags: 在宅ワーク; リモートワーク; SOHO; 仕事; フリーランス; ウェブ電話; 会議;
 Slug: overcoming-home-office-problems
 Lang: ja
