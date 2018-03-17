@@ -1,6 +1,6 @@
 Title: How to overcome the 3 biggest home office problems
 Date: 2018-03-13 12:00
-Author: Gerald
+Author: Iqbal Abdullah
 Tags: work; remote; remotework; workfromhome; freelance; webcall; meeting
 Slug: overcoming-home-office-problems
 Lang: en
