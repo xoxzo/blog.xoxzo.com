@@ -14,3 +14,5 @@ If you need to purchase credits, please contact us at help@xoxzo.com.
 We will make a separate announcement here when we resume credit card payments.
 
 We appologize for any inconvenience that was caused. 
+
+**2018/3/23 addition: [Credit Card Payment facility returns](https://blog.xoxzo.com/en/2018/03/23/2018-03-23-stripe-resume/) **
