@@ -2,7 +2,7 @@ Title: Suspension of credit card payments
 Date: 2018-03-07 12:00
 Slug: 2018-03-07-stripe-temporary-suspension
 Lang: en
-Tags: xoxzo; payment; stripe; 
+Tags: xoxzo; payments; stripe; credit cards; 
 Author: Aiko Yokoyama
 Summary: Credit card payments are temporarily suspended from March 6, 2018.
 
