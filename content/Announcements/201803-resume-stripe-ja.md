@@ -1,6 +1,6 @@
 Title: クレジットカードによる決済再開のお知らせ
-Date: 2018-03-23 12:00
-Slug: 2018-03-23-stripe-resume
+Date: 2018-03-23 21:00
+Slug: resuming-stripe-payments
 Lang: ja
 Tags: xoxzo; payment; stripe; 
 Author: Aiko Yokoyama
