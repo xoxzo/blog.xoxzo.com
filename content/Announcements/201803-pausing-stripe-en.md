@@ -13,6 +13,6 @@ If you need to purchase credits, please contact us at help@xoxzo.com.
 
 We will make a separate announcement here when we resume credit card payments.
 
-We appologize for any inconvenience that was caused. 
+We apologize for any inconvenience that was caused. 
 
 **2018/3/23 update: [Resuming credit card payments]({filename}/Announcements/201803-resume-stripe-en.md)**
