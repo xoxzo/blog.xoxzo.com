@@ -16,36 +16,30 @@ Summary: 2020年までに必要な、「将来の労働力」となるスキル�
 それを元にした、この新しい環境で必要とされる重要なスキルを10件、唱えています。
 
 ![futureofwork](/images/futureofwork.gif)
-_“Forget about your "Microsoft Word" skills, things are about to become serious”_
+_“MSワードが使えます…では、ゼンゼン足りない時代が、もうそこまで来ています。”_
 
-Since we’re just 2 years shy of “the future”, 
-maybe it’s time to pause and reassess ourselves to see if we’re on the right track. 
-Let’s break it down and check the first 5 of those abilities.
+この「将来」まで、あとほんの2年ですので、
+本当に自分自身が、この波に乗り切れているか、今一度セルフ・チェックを行ってみましょう。
+まず、ここでは、この「能力」の最初の5つを、ご紹介しますね。
 
-How many of those skills do you think you have?
+あなたは、このうちの幾つのスキルを持っていますか？
 
-1.       Sense-making: in a world where machines are evolving in a much faster rate, 
-and hundreds of tasks are being handled by artificial intelligence, 
-it’s a given that the future worker develops a high ability to determine the significance of what is being expressed. 
-Think of this more as critical thinking instead of brute knowledge acquisition.
-
-
-2.       Social intelligence: just like sense-making, 
-feeling is far from being tackled by artificial intelligence. 
-Social intelligent workers are able to quickly assess emotions of those around them, 
-which leads to fast adaptation of words, tone, and gestures. 
-It’s a key skill for smooth collaboration and relationship development.
+1.       理解しやすい表現力: 機械化のスピードが上がっている世界では、AIを使って、何百というタスクをこなすことが普通になります。
+未来の労働者が、表現されているものの重要性を理解する、より高度な能力を発揮することは、すでにご承知のとおりです。
+ただ重鈍に知識を取得するかわりに、これはむしろ、クリティカル・シンキングであると考えましょう。
 
 
-3.       Novel & adaptive thinking: as the world shifts for opportunities in the middle-skill 
-white-collar and blue-collar jobs – due to global offshoring and increase in automation -, 
-jobs are concentrating in both ends of the spectrum: high-skill high-wage technical and management occupations on one side, 
-and low-skill, low-wage manual jobs such as food service and personal care. 
-What both those opposite sides of the scale have in common is the need for situational adaptation 
-– the ability to quickly adapt and respond to the moment. 
-Writing a convincing legal argument and creating a new dish out of few ingredients both require novel 
-thinking and adaptability.
+2.       社交的知能: 上記「理解しやすい表現力」のように、感覚もまた、人工知能にはまだ及ばない分野です。
+社交的知能のある労働者なら、ことばの選び方や、トーン、ジェスチャーから周りの人の気持ちを素早く察知できます。
+共同作業や、関係構築をスムーズに行うための、重要なスキルとなります。
 
+3.       斬新かつ適合的な思考：グローバルなオフショアリングと、オートメーションの増加のため、
+世界がミドル・スキルのホワイトカラーとブルーカラーの機会が増えるに従って、
+雇用が、スペクトルの両端に集中するようになりました。
+一方は、高技能、高賃金の技術職および管理職、他方は、低技能、低賃金の、例を挙げるならサービスやパーソナルケア
+のような手作業です。
+両者に共通点して言えるのは、状況に適応する必要性、つまり、その瞬間に迅速に適応して対応する能力です。
+説得力のある法的議論を書いたり、いくつかの食材から新しい料理を作り出したり、どちらにも斬新な思考と適応性が必要です。
 
 4.       Cross-cultural competency: the rise of remote work and global connected corporations tend 
 to clash extremely different culture environments into one another. 
