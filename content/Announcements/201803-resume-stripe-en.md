@@ -11,4 +11,4 @@ Thank you for using [Xoxzo, Cloud Telephony Platform](https://www.xoxzo.com/en/)
 We're happy to announce that we've resumed credit card online payments today.
 Thank you for your patience.
 
-We appologize for any inconvenience that was caused. 
+We apologize for any inconvenience that was caused. 
