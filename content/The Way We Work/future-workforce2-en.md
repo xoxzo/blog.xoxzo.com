@@ -11,7 +11,7 @@ We published last week here on the blog the [first 5 skills](https://blog.xoxzo.
 
 Today we’ll talk about the remaining 5 skills that complement the full set of knowledge you’ll need to be part of a new ecosystem of work. We’re less than 2 years from 2020, so we all better hurry!
 
-![futureofwork](/images/futureofwork2.gif)
+![futureofwork](/images/futurework2.gif)
 _“Less Minotiry Report, more self development”_
  
 6. New-media literacy: The explosion in user-generated media created by the mainstream access and easy-to-use interfaces of videos, blogs, and podcasts already dominated our social lives. This is overflowing to the work environment as well, and the future worker will have to become fluent in such formats, both as knowing how to read and interpret that message as well as creating their own visual presentations with the same ease as regular text documents and PowerPoint presentations.
