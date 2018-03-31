@@ -19,3 +19,13 @@ Above, Luqman Rom, a software engineer shared his experience with Elastic Search
 The second session (for me) was from Coin.my. They started as a portal to educate public about cryptocurrency and now also providing service to client who want to raise ICO.
 
 Next session, probably the one that I've been looking for is "Our journey into microservices" by Ahmad Shah, CTO at Ombre. Ombre from what I understand provide fashion and stylist advice through their app by utilizing machine learning and big data. This totally an industry that I don't really understand much ;) But there's one interesting insight he shared - one big problem in fashion retailing is that the return rate (for the bought item) is very high, especially during peak season. So that probably one thing they want to solve by providing better fashion/styling advice so that customer really buying what they want - the fashion and style that really match their taste.
+
+Ahmad Shah went on through his talk and laid out their microservices adventures by a couple of stages such as:-
+
+* How to break up the app ?
+* Which language to use ?
+* Where to store data ?
+* How service talk to each other ?
+* How to deploy ?
+
+I was quite intrigued when he mentioned that due to the factor of small team they have, one guy could end up maintaining 4 to 6 services !
