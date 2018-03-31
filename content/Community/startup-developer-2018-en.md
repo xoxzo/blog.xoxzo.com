@@ -15,3 +15,7 @@ I was late actually, as things seem to go wrong for me that day. Can't get any G
 ![startupdev](https://s3-ap-northeast-1.amazonaws.com/xoxzo-blog/luqman-es.jpg)
 
 Above, Luqman Rom, a software engineer shared his experience with Elastic Search. One thing I was interested is when he mentioned about using ES for log aggregation. Basically this lead to what being called the ELK stack - Elastic Search, Logstash and Kibana. Logstash is used to ingest data from multiple sources simultaneously, transforms it, and then sends it to a "stash" like Elasticsearch. Kibana lets users visualize data with charts and graphs in Elasticsearch.
+
+The second session (for me) was from Coin.my. They started as a portal to educate public about cryptocurrency and now also providing service to client who want to raise ICO.
+
+Next session, probably the one that I've been looking for is "Our journey into microservices" by Ahmad Shah, CTO at Ombre. Ombre from what I understand provide fashion and stylist advice through their app by utilizing machine learning and big data. This totally an industry that I don't really understand much ;) But there's one interesting insight he shared - one big problem in fashion retailing is that the return rate (for the bought item) is very high, especially during peak season. So that probably one thing they want to solve by providing better fashion/styling advice so that customer really buying what they want - the fashion and style that really match their taste.
