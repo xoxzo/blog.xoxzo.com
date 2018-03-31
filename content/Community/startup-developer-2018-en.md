@@ -29,3 +29,7 @@ Ahmad Shah went on through his talk and laid out their microservices adventures 
 * How to deploy ?
 
 I was quite intrigued when he mentioned that due to the factor of small team they have, one guy could end up maintaining 4 to 6 services !
+
+One interesting changes to the meetup format this year is the Talent Pitch slot. So here we have Irfan, CTO at Hermo trying to attract developers joining Hermo engineering team. Irfan is a friend of mine through [Jomweb Johor](http://johor.jomweb.my/) and Hermo, which he mentioned has just being acquired by a Japanese company now in the mids of expanding and restructring their engineering team.
+
+![startupdev](https://s3-ap-northeast-1.amazonaws.com/xoxzo-blog/irfan-hermo.jpg)
