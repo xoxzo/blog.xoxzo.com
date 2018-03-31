@@ -8,6 +8,10 @@ Lang: en
 Summary: StartupDeveloper is the largest independent tech community, actively educating, inspiring, and connecting 1,800+ programmers all over Malaysia.
 Status: draft
 
-xxx
+This weekend, I decided to take some time out to KL and join Startup/Developer Meetup 2018 in Cyber Jaya. This community started as Telegram group and now has growing to almost 2000 members. Quite lively community with a mix of those with builders/makers and enterpreneur trait people.
 
-![startupdev](https://s3-ap-northeast-1.amazonaws.com/xoxzo-blog/IMG_20180331_125907.jpg)
+I was late actually, as things seem to go wrong for me that day. Can't get any Grab car to airport, flight delayed and then the taxi driver took a wrong way to the venue ... sigh. But fortunately, when I arrived, it was in the mid talk of the second speaker, so still not much to be missed.
+
+![startupdev](https://s3-ap-northeast-1.amazonaws.com/xoxzo-blog/luqman-es.jpg)
+
+Above, Luqman Rom, a software engineer shared his experience with Elastic Search. One thing I was interested is when he mentioned about using ES for log aggregation. Basically this lead to what being called the ELK stack - Elastic Search, Logstash and Kibana. Logstash is used to ingest data from multiple sources simultaneously, transforms it, and then sends it to a "stash" like Elasticsearch. Kibana lets users visualize data with charts and graphs in Elasticsearch.
