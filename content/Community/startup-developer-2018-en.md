@@ -28,7 +28,7 @@ Ahmad Shah went on through his talk and laid out their microservices adventures 
 * How service-talk to each other?
 * How to deploy?
 
-I was quite intrigued when he mentioned that due to the factor of the small team they have, one guy could end up maintaining 4 to 6 services.
+I was quite intrigued when he mentioned that due to the factor of the small team they have, one guy could end up maintaining 4 to 6 services. That prompted me to ask if it will be overwhelm the developers by putting too much responsibilities to them, which he agreed. But they're determine to do this (adopting microservices architecture) for long term investment as the team can be scaled up horizontally without restricting them to any particular platform or programming language. I'm not too fond of that approach and it's the reason I wrote about [Why not microservices?][https://github.com/devkini/notes/wiki/Why-not-microservice-%3F) before. Luqman jokingly suggested to setup a debate between us ;)
 
 One interesting change to the meetup format this year is the Talent Pitch slot. So here we have Irfan, CTO at Hermo trying to attract developers joining the Hermo engineering team. Irfan is a friend of mine through [Jomweb Johor](http://johor.jomweb.my/) and Hermo, which he mentioned has just been acquired by a Japanese company now in the midst of expanding and restructuring their engineering team.
 
