@@ -43,3 +43,5 @@ The 4th speaker of the day was Sam Shafie, CEO and Co-Founder of PitchIN, a loca
 ![startupdev](https://s3-ap-northeast-1.amazonaws.com/xoxzo-blog/kedaiweb-mahfudz.jpg)
 
 Tech meetups or conferences will never be complete without the "Hallway" session. And it was quite a pleasure for me to meet Muhammad Mahfudz, founder of Kedaiweb.co. We have only met up online on Facebook or Telegram before having managed to talk in person, and it is definitely a great feeling. Mahfudz project's Kedaiweb is also interesting to me, using pay per use model instead of monthly/yearly subscriptions which is quite similar to our model at Xoxzo - allowing people doing only seasonal online businesses to use the platform without any full commitment.
+
+All in all, it was a very engaging event and congratulation to the organizer. As a side note, the food was also great ;)
