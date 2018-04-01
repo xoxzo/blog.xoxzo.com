@@ -6,7 +6,6 @@ Slug:startup-developer-2018
 Thumbnail: https://s3-ap-northeast-1.amazonaws.com/xoxzo-blog/IMG_20180331_125907.jpg
 Lang: en
 Summary: StartupDeveloper is the largest independent tech community, actively educating, inspiring, and connecting 1,800+ programmers all over Malaysia.
-Status: draft
 
 This weekend, I decided to take some time out to Kuala Lumpur and join Startup/Developer Meetup 2018 in Cyber Jaya. This community started as a Telegram group and now has grown to almost 2000 members. It's a lively community with a mix of builders/makers with entrepreneurship-driven people.
 
