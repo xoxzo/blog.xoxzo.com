@@ -33,3 +33,7 @@ I was quite intrigued when he mentioned that due to the factor of small team the
 One interesting changes to the meetup format this year is the Talent Pitch slot. So here we have Irfan, CTO at Hermo trying to attract developers joining Hermo engineering team. Irfan is a friend of mine through [Jomweb Johor](http://johor.jomweb.my/) and Hermo, which he mentioned has just being acquired by a Japanese company now in the mids of expanding and restructring their engineering team.
 
 ![startupdev](https://s3-ap-northeast-1.amazonaws.com/xoxzo-blog/irfan-hermo.jpg)
+
+![startupdev](https://s3-ap-northeast-1.amazonaws.com/xoxzo-blog/lina-pitchin.jpg)
+
+The 4th speaker of the day is Sam Shafie, CEO and Co-Founder PitchIN, a local equity crowdfunding company. It turned out that crowdfunding activities in Malaysia already regulated with the Securities Commission Malaysia (SC) became the first country in the region to introduce equity crowdfunding (ECF) licenses in 2015 and PitcIn.my was one of the awarded company with the licence. So the regulation divide the investors into 3 different category - Retail Investor, Registered Angel Investor and Sophisticated Investor. The Retail Investor category allow individual to invest up to RM5000/company with a maximum of RM50K per year.
