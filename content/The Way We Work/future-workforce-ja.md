@@ -41,16 +41,13 @@ _“MSワードが使えます…では、ゼンゼン足りない時代が、�
 両者に共通点して言えるのは、状況に適応する必要性、つまり、その瞬間に迅速に適応して対応する能力です。
 説得力のある法的議論を書いたり、いくつかの食材から新しい料理を作り出したり、どちらにも斬新な思考と適応性が必要です。
 
-4.       Cross-cultural competency: the rise of remote work and global connected corporations tend 
-to clash extremely different culture environments into one another. 
-The ability to operate in ever-changing cultural settings is a skill necessary for the future worker 
-to freely roam wherever his abilities are best suited at the moment, 
-as well as flawlessy interacting with an ever more diverse team.
+4.       異文化間のコンピテンシー：リモートワークとグローバル規模な企業の台頭は、極端に異なる文化環境同士が衝突する傾向にあります。
+絶え間なく変化している文化的環境で働くことのできる能力、というのは、自分の能力が、その時点で最も適している場所であればどこでも自由に、
+ローミングすることができる、これまでに類を見ないほどの多様なチームとのやり取りが期待される、未来の労働者にとって必要なスキルといえます。
 
-
-5.       Computational thinking: remember the sudden increase in artificial intelligence? 
-This means an exponential increase in available data, which then requires more computational thinking skills 
-in order to make sense of this information. Once again, it’s the shift from brute force to analytical skills.
+5.       計算的思考：人工知能の急激な増加は、記憶に新しすぎますね。
+これは利用可能なデータが指数関数的に増加することを意味し、この情報を理解するために、計算的な思考というスキルがさらに必要となる、ということです。
+つなりはさらなる、腕力勝負・ブルートフォースから分析スキルへの移行となるわけです。
  
- Come back next week for a view on the other 5 skills you’ll need.
+ 来週は、さらに５つ、未来の労働者に必要なスキルをご紹介しましょう。
 
