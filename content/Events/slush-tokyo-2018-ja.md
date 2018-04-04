@@ -26,9 +26,10 @@ Xoxzoは来訪スタートアップの方々と、予約をとることができ
 
 今回、話をして興味深いと思ったのは、下記のスタートアップです。
 
-- [SENTBE](https://www.sentbe.com/en/) Peer-to-peer international remittance service,
-  which skips the banks.
-- [XYLEM Networks](https://xylem.network/) Seemless peer-to-peer network resources
+- [SENTBE](https://www.sentbe.com/en/) 銀行を介さずに、知人間で国際送金ができるサービス
+- [SENTBE](https://www.sentbe.com/en/) 銀行を介さずに、知人間で国際送金ができるサービスPeer-to-peer international remittance service,
+- [XYLEM Networks](https://xylem.network/) ネットワークSeemless peer-to-peer network resources
+- [SENTBE](https://www.sentbe.com/en/) 銀行を介さずに、知人間で国際送金ができるサービスPeer-to-peer international remittance service,
   sharing service, which rewards you when you share.
 - [flamingo](https://app-flamingo.com/) A language teacher match-making service
 - [Oyraa](https://www.oyraa.com/) An on demand interpretation service
