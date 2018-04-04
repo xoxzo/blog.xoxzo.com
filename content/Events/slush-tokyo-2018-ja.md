@@ -27,24 +27,20 @@ Xoxzoは来訪スタートアップの方々と、予約をとることができ
 今回、話をして興味深いと思ったのは、下記のスタートアップです。
 
 - [SENTBE](https://www.sentbe.com/en/) 銀行を介さずに、知人間で国際送金ができるサービス
-- [SENTBE](https://www.sentbe.com/en/) 銀行を介さずに、知人間で国際送金ができるサービスPeer-to-peer international remittance service,
-- [XYLEM Networks](https://xylem.network/) ネットワークSeemless peer-to-peer network resources
-- [SENTBE](https://www.sentbe.com/en/) 銀行を介さずに、知人間で国際送金ができるサービスPeer-to-peer international remittance service,
-  sharing service, which rewards you when you share.
-- [flamingo](https://app-flamingo.com/) A language teacher match-making service
-- [Oyraa](https://www.oyraa.com/) An on demand interpretation service
-- [HIDDEN TRACK](http://hiddentrack.co/) An event sharing service
-- [Buyandship Hong Kong](http://www.buyandship.co.jp/) Shipping service to local
-  address so you can avoid paying international shipment and buy locally limited
-  items.
+- [XYLEM Networks](https://xylem.network/) ネットワーク・リソースを知人間でシームレスに共有できる
+サービス。共有者には表彰システムあり。
+- [flamingo](https://app-flamingo.com/) 言語教師のためのマッチメイク・サービス
+- [Oyraa](https://www.oyraa.com/) オン・デマンドの通訳サービス
+- [HIDDEN TRACK](http://hiddentrack.co/) イベント情報共有サービス
+- [Buyandship Hong Kong](http://www.buyandship.co.jp/) 国際配達料金を抑え、地元の限定品を購入
+出来るよう、地域の宛先へ特化した配達サービス
 
-I find them full of energy and moving fast to secure partnerships and investors
-to push their ideas to the next stage. Each business is unique in their own way
-and I find them very interesting.
+どれも皆、自らのアイディアを、次のステージへと動かしていくため、パートナーシップを確立できるよう、
+エネルギッシュに、スピード感をもって動いているように感じました。
+個々のビジネスがどれも独創性を持っていて、とても興味深く感じました。
 
-Personally, I like the energetic atmosphere of Slush: The young and energetic
-volunteers did a great job and making Slush Tokyo a welcoming and hyper-charged
-event.
+個人的に、私はSlushのエネルギッシュな雰囲気が好きです。
+若くて、活力にあふれるボランティア達が、今回の Slush Tokyo を歓迎ムードの高く、熱のこもったイベントとして、
+素晴らしく作り上げていたと思いました。
 
-Looking forward to another round of similar conferences of discussion and sharing . Until then, back to
-work!
+また、このようなカンファレンスで、会談や共有の機会があるのを楽しみにしています。それまでの間、仕事に戻りましょう！
