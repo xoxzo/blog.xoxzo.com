@@ -6,9 +6,9 @@ Tags: 2018; slush; tokyo; スタートアップ; 起業家; 東京ビッグサ�
 Author: Iqbal Abdullah
 Summary: Xoxzo は、Slush Tokyo 2018に参加し、トップのスタートアップや投資家とお話できました。
 
-[![Slush Tokyo]({filename}/images/slush-tokyo-2018.jpg)](http://tokyo.slush.org/)
+![Slush Tokyo]({filename}/images/slush-tokyo-2018.jpg)](http://tokyo.slush.org/)
 
-[Slush](http://www.slush.org/globally/) は、起業したてのスタートアップや技術者向けのイベントで、毎年ヘルシンキ、東京、シンガポールと上海で
+[Slush](http://www.slush.org/globally/) は、スタートアップや技術者向けのイベントで、毎年、ヘルシンキ、東京、シンガポールや上海で
 開催されています。今年、Xoxzoはスタートアップ・パスを申請し、このイベントに参加しました。
 
 スタートアップ・パスがあると、マッチメイク・プラットフォームへアクセスできるので、
@@ -16,7 +16,7 @@ Summary: Xoxzo は、Slush Tokyo 2018に参加し、トップのスタートア�
 
 今年、Xoxzoの参加の、一番の目的は、我々[Xoxzo](https://www.xoxzo.com/ja/)を使って、
 一緒に仕事をできるスタートアップや企業、その顧客のユーザー・エクスペリエンスの向上に共に取り組める企業を探すことでした。
-日本での迅速な営業拡大を目指す、海外企業にとって、簡単に使えるUXをもち、日本に絞ったサービスを提供でき、
+日本での迅速な営業拡大を目指す海外企業にとって、簡単に使えるUXをもち、日本に絞ったサービスを提供でき、
 しかも初期費用を低く抑えられるXoxzoは大きな価値を提供できると考えているからです。
 
 Xoxzoは来訪スタートアップの方々と、予約をとることができ、また、
@@ -29,7 +29,7 @@ Xoxzoは来訪スタートアップの方々と、予約をとることができ
 - [SENTBE](https://www.sentbe.com/en/) 銀行を介さずに、知人間で国際送金ができるサービス
 - [XYLEM Networks](https://xylem.network/) ネットワーク・リソースを知人間でシームレスに共有できる
 サービス。共有者には表彰システムあり。
-- [flamingo](https://app-flamingo.com/) 言語教師のためのマッチメイク・サービス
+- [flamingo](https://app-flamingo.com/) 語学教師のためのマッチメイク・サービス
 - [Oyraa](https://www.oyraa.com/) オン・デマンドの通訳サービス
 - [HIDDEN TRACK](http://hiddentrack.co/) イベント情報共有サービス
 - [Buyandship Hong Kong](http://www.buyandship.co.jp/) 国際配達料金を抑え、地元の限定品を購入
@@ -40,7 +40,7 @@ Xoxzoは来訪スタートアップの方々と、予約をとることができ
 個々のビジネスがどれも独創性を持っていて、とても興味深く感じました。
 
 個人的に、私はSlushのエネルギッシュな雰囲気が好きです。
-若くて、活力にあふれるボランティア達が、今回の Slush Tokyo を歓迎ムードの高く、熱のこもったイベントとして、
+若くて、活力にあふれるボランティア達が、今回の Slush Tokyo を歓迎ムードの高い、熱のこもったイベントとして、
 素晴らしく作り上げていたと思いました。
 
 また、このようなカンファレンスで、会談や共有の機会があるのを楽しみにしています。それまでの間、仕事に戻りましょう！
