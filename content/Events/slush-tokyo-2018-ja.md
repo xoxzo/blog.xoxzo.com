@@ -8,26 +8,23 @@ Summary: Xoxzo は、Slush Tokyo 2018に参加し、トップのスタートア�
 
 [![Slush Tokyo]({filename}/images/slush-tokyo-2018.jpg)](http://tokyo.slush.org/)
 
-[Slush](http://www.slush.org/globally/) is a startup and tech event, organized annually in Helsinki, Tokyo,
-Singapore and Shanghai. This year we applied for the Startup pass, and
-particpated in the event.
+[Slush](http://www.slush.org/globally/) は、起業したてのスタートアップや技術者向けのイベントで、毎年ヘルシンキ、東京、シンガポールと上海で
+開催されています。今年、Xoxzoはスタートアップ・パスを申請し、このイベントに参加しました。
 
-The Startup pass allows us to access their matchmaking platform, which allows you
-to reach out to other participants (startups, investors, corporate executives)
-and arrange for a meeting. 
+スタートアップ・パスがあると、マッチメイク・プラットフォームへアクセスできるので、
+他の参加者（スタートアップ・投資家・経営者）へ連絡をとり、会談をセッティングすることが可能なのです。
 
-Our main purpose participating this year was to find startups and companies that
-will be interested to work with us by utilizing our [Xoxzo Communications Platform](https://www.xoxzo.com/en/)
-to engage with and enchance the user experience of their products. We believe we
-have a lot of value to offer to foreign startups trying to quickly expand to Japan,
-with our easy of use UX, our focus in Japan and low cost to start.
+今年、Xoxzoの参加の、一番の目的は、我々[Xoxzo](https://www.xoxzo.com/ja/)を使って、
+一緒に仕事をできるスタートアップや企業、その顧客のユーザー・エクスペリエンスの向上に共に取り組める企業を探すことでした。
+日本での迅速な営業拡大を目指す、海外企業にとって、簡単に使えるUXをもち、日本に絞ったサービスを提供でき、
+しかも初期費用を低く抑えられるXoxzoは大きな価値を提供できると考えているからです。
 
-We managed to secure appointments with some of the visiting startups, and
-also managed to sit down and listen to some of the visiting investors on their
-take of the startup scene in Japan. Perhaps I will sit down and write about that
-in a different post.
+Xoxzoは来訪スタートアップの方々と、予約をとることができ、また、
+日本のスタートアップ・シーンを支えるゲスト投資家の方々の話を、ゆっくりと聞く機会も持つことができました。
+詳細は、また別の投稿で記したいと思います。
 
-Some of the interesting startups that I managed to talk to are
+
+今回、話をして興味深いと思ったのは、下記のスタートアップです。
 
 - [SENTBE](https://www.sentbe.com/en/) Peer-to-peer international remittance service,
   which skips the banks.
