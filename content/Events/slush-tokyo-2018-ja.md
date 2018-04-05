@@ -6,7 +6,7 @@ Tags: 2018; slush; tokyo; スタートアップ; 起業家; 東京ビッグサ�
 Author: Iqbal Abdullah
 Summary: Xoxzo は、Slush Tokyo 2018に参加し、トップのスタートアップや投資家とお話できました。
 
-![Slush Tokyo]({filename}/images/slush-tokyo-2018.jpg)(http://tokyo.slush.org/)
+![Slush Tokyo]({filename}/images/slush-tokyo-2018.jpg)[Slush Tokyo](http://tokyo.slush.org/)
 
 [Slush](http://www.slush.org/globally/) は、スタートアップや技術者向けのイベントで、毎年、ヘルシンキ、東京、シンガポールや上海で
 開催されています。今年、Xoxzoはスタートアップ・パスを申請し、このイベントに参加しました。

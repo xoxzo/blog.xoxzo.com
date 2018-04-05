@@ -6,7 +6,7 @@ Tags: 2018; slush; tokyo; startups; entrepreneurship; tokyobigsight;
 Author: Iqbal Abdullah
 Summary: Xoxzo was at Slush Tokyo 2018, and talked to the top startups and investors.
 
-![Slush Tokyo]({filename}/images/slush-tokyo-2018.jpg)(http://tokyo.slush.org/)
+![Slush Tokyo]({filename}/images/slush-tokyo-2018.jpg)[Slush Tokyo](http://tokyo.slush.org/)
 
 [Slush](http://www.slush.org/globally/) is a startup and tech event, organized annually in Helsinki, Tokyo,
 Singapore and Shanghai. This year we applied for the Startup pass, and
