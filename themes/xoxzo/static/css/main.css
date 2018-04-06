@@ -238,8 +238,11 @@ article.article {
 .author-profile h4 {
     font-size: 0.9rem;
     color: #999;
-    margin-bottom: 20px;
     line-height: 1.3rem;
+}
+
+.author-profile p {
+    margin-top: 20px;
 }
 
 .btn-tag {
