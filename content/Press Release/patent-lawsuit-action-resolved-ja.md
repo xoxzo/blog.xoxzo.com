@@ -4,6 +4,7 @@ Author: Iqbal Abdullah
 Lang: ja
 Tags: API, ショートメッセージ, プレスリリース, 特許, 訴訟, SMS, 和解
 Slug: patent-lawsuit-action-resolved
+Summary: 特許侵害訴訟の取下げについて
 
 当社は2012-12-28日付「[特許侵害訴訟の提起について（特許第4889813号
 ）]({filename}/Press Release/patent-lawsuit-action-ja.md)」にてお知らせしましたとおり、

@@ -4,6 +4,7 @@ Author: Iqbal Abdullah
 Lang: ja
 Tags: ショートメッセージ, メディアネットワークサービス, 特許, EZSMS, 訴訟, wing-sms
 Slug: patent-lawsuit-action
+Summary: 特許侵害訴訟の提起に関するお知らせです。
 
     株式会社MARIMORE（代表：イクバル・アバドゥラ、東京都台東区）は、2012年12月28日、
     株式会社メディアネットワークサービス（東京都渋谷区、以下MNS社）に対して、東京地方裁判所に
