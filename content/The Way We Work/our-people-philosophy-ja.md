@@ -1,7 +1,7 @@
 Title: Xoxzoの人物哲学
 Date: 2017-07-12 12:00
 Author: Iqbal Abdullah
-Tags: 採用; 仕事; 人; 人間;
+Tags: 採用; 仕事; 人; 人間; 新入社;
 Slug: our-people-philosophy
 Lang: ja
 Summary: 最も大切な資産である、Xoxzoでともに働く人物に関する、私達の想いについて

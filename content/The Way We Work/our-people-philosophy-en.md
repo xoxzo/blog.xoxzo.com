@@ -1,7 +1,7 @@
 Title: Our people philosophy
 Date: 2017-07-12 12:00
 Author: Iqbal Abdullah
-Tags: people; humans; work; hiring
+Tags: people; humans; work; hiring; onboarding;
 Slug: our-people-philosophy
 Lang: en
 Summary: How Xoxzo looks at the people that makes us.
