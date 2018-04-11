@@ -41,7 +41,7 @@ you for some reason have ever felt that _it might not be proper to have your chi
 lap during a call_ then take this as assurance that **it is totally fine and
 welcomed**.
 
-![Children]({filename}/images/children-id.jpg)
+![Children of Indonesia]({filename}/images/children-id.jpg)
 
 I personally feel that it is a good thing for children to see and experience their
 parents at work and maybe get to know who their parents work mates are.
@@ -53,3 +53,5 @@ Perhaps many years from now, when things go too fast and too big for us,
 and we be on the verge of loosing sight of what we were and what we wanted to be,
 I hope these writings will help to remind and realign ourselves to how important those
 interruption really are.
+
+_Photo credit: [Luthi Ashari/USAID Indonesia](https://www.flickr.com/photos/usaid-indonesia/4843453540/in/photolist-8nZXZE-rhVHvw-PsmMRS-7taoyW-Qazrg7-jbv4KN-b4bmdK-7d4SSt-bmUZ7Q-qAPyBZ-duUqJb-9XcDHm-VENBaL-9Ey17j-rhVGR5-dEBtxb-7d8Geu-7idU8p-pzwT9f-QFj9L9-e8YQzh-izwxY1-akLFZf-7NgoRi-8puTTu-9MdqpC-8puLW3-7tEwSP-7TjemA-9QZxHj-WRHcDQ-7mc1TT-kqX2uc-8igvqa-7iiEr3-a5btiM-dQS4iR-aByL8J-nK87yF-cvGfM5-85e7nR-9VuPqT-7A8fh6-p8jMLn-8VzCWt-WEiJUW-ajVCn1-atuBit-9p25Sm-kuydh6/)_

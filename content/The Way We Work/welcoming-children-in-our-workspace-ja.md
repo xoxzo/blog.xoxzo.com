@@ -39,7 +39,7 @@ Xoxzoは、コミュニティを重視し、家族を大切に思っているの
 きちんと仕事をしているとは言えないのでは_ と考えたことがあるとしたら、**全く問題なく、むしろ歓迎する**ことである、
 ということを、このブログで保証していると思って下さい。
 
-![Children]({filename}/images/children-id.jpg)
+![Children of Indonesia]({filename}/images/children-id.jpg)
 
 個人的に、子どもにとって、親が仕事をしているのをみるという経験、共に仕事をする人と知り合うことは、とてもよい
 ことだと思っています。最近では、子どもがそのような機会をもつことは、実はあまりないと思いますが。
@@ -49,3 +49,6 @@ Xoxzoは、コミュニティを重視し、家族を大切に思っているの
 これから何年も先、Xoxzoにとって様々なことが速く大きく追いつけないようになって、かつての自分たち自身や、
 どんな希望を持っていたかを忘れそうになった時、この記事が、Xoxzoの大切にしていることを思い出すきっかけに
 なり、そのジャマこそが、どんなに重要であったかという方向へ、再チューニングしてくれることを願います。
+
+_Photo credit: [Luthi Ashari/USAID Indonesia](https://www.flickr.com/photos/usaid-indonesia/4843453540/in/photolist-8nZXZE-rhVHvw-PsmMRS-7taoyW-Qazrg7-jbv4KN-b4bmdK-7d4SSt-bmUZ7Q-qAPyBZ-duUqJb-9XcDHm-VENBaL-9Ey17j-rhVGR5-dEBtxb-7d8Geu-7idU8p-pzwT9f-QFj9L9-e8YQzh-izwxY1-akLFZf-7NgoRi-8puTTu-9MdqpC-8puLW3-7tEwSP-7TjemA-9QZxHj-WRHcDQ-7mc1TT-kqX2uc-8igvqa-7iiEr3-a5btiM-dQS4iR-aByL8J-nK87yF-cvGfM5-85e7nR-9VuPqT-7A8fh6-p8jMLn-8VzCWt-WEiJUW-ajVCn1-atuBit-9p25Sm-kuydh6/)_
+
