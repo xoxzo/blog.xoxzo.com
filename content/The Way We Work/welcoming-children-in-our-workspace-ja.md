@@ -1,7 +1,7 @@
 Title: 職場への子ども達の参加は大歓迎
 Date: 2018-04-09 12:00
 Author: Iqbal Abdullah
-Tags: 人々; 人類; 仕事; 家族; 雇用; 参加;
+Tags: 人々; 人類; 仕事; 家族; 雇用; 新入社;
 Slug: welcoming-children-in-our-workspace
 Thumbnail: images/children-id.jpg
 Lang: ja
