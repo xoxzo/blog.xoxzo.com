@@ -3,7 +3,7 @@ Date: 2018-03-23 12:00
 Author: Gerald
 Tags: 将来; 人々; 職業; 労働力; 雇用
 Slug: future-workforce
-Thumbnail: images/futureofwork.gif
+Thumbnail: images/futureofwork-ja.gif
 Lang: ja
 Summary: 2020年までに必要な、「将来の労働力」となるスキルについて、話しましょう。
 
@@ -15,7 +15,7 @@ Summary: 2020年までに必要な、「将来の労働力」となるスキル�
 この研究で、労働力のパラダイムシフトに責任を持つ6つの主要な動因を指摘し、
 それを元にした、この新しい環境で必要とされる重要なスキルを10件、唱えています。
 
-![futureofwork](/images/futureofwork.gif)
+![futureofwork](/images/futureofwork-ja.gif)
 _“MSワードが使えます…では、ゼンゼン足りない時代が、もうそこまで来ています。”_
 
 ここでいう「将来」まで、あとほんの2年ですので、
