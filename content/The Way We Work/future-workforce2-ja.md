@@ -4,7 +4,7 @@ Author: Gerald
 Tags: 未来; people; humans; work; hiring
 Slug: future-workforce2
 Thumbnail: images/futureofwork2.gif
-Lang: en
+Lang: ja
 Summary: 2020年までに欲しい、未来の労働力として必要なスキル
 
 先週のブログ [あなたはこの先も、労働力であり続けることが、できますか?](https://blog.xoxzo.com/ja/2018/03/23/future-workforce/) 
