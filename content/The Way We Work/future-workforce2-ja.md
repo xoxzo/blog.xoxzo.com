@@ -26,14 +26,14 @@ _“Less Minority Report, more self development”_
 7: 分野を超えた広い教養: 違ったスキルをもった専門家チームを統率するだけでなく、未来の労働力には、別の教養についても、要点を頭に入れておく必要があるのです。これは、『T字型』ワーカーと呼ばれていて、最低でもひとつの分野に関して深い知識をもちつつ、他の分野のことばでも、それを上手に表現できる力を持つ人のことです。われわれの現在抱える問題点ー例えば地球温暖化や人口増加、ソーシャルメディアでさえ、共通してどれも、完全に理解したければ、それぞれの専門家が必要となってしまう、複雑性の産物なのです。
 
 
-8: Design mindset: A design approach to our work basically means thinking of how the presentation affects our cognitive experiences and, therefore, our behavior. It’s a mix of attractive composition with bumpless functionality that propels our production time forward more effectively, something that ever more workers will need to bring to the table.
+8: 発想の企画力: 仕事へのデザインアプローチは、基本的に、プレゼンテーションが私たちの認知体験、それゆえに、行動にどのように影響するかを考えることを、意味します。 これは、魅力的な構成とバンプレスな機能を組み合わせたもので、生産時間をより効果的に、推進するのです。
 
 
-9: Cognitive load management: With the capacity of finding endless streams of information across dozens of different formats, it comes to the problem of cognitive overload. The next generation of workers will need to develop their own techniques as to perfectly filter and discriminate the importance of the supplied information in a time-efficient matter.
+9: 認知負荷管理力：何十もの異なるフォーマットで、無限の情報の流れを見つける能力があると、認知負荷の問題が発生します。 次世代の労働者は、時間的効率を考慮しつつ、提供された情報の重要性を完全にフィルタリングし、独自の技術を開発する必要があります。
 
 
-10: Virtual collaboration: Basically, the future worker will have to work productively, drive engagement and demonstrate presence as a member of a virtual team. The remote communication environment presents a different set of problems then the physical office space, and we need different strategies to compose a healthy virtual collaboration workflow. Gaming features have been prominently adapted to this with features such as immediate feedback, clear objectives and a staged series of challenges that impact participation and motivation.
+10: バーチャル・コラボレーション：基本的に、将来の労働者は、生産的に作業し、エンゲージメントを推進し、バーチャルチームのメンバーとしての存在感を示さなくてはなりません。リモートコミュニケーション環境は、物理的なオフィス空間とは違った問題を掲げるため、健全なバーチャル・コラボレーションのワークフローを構成するには、さまざまな戦略が必要です。 ゲームの機能は、即時フィードバック、明確な目的、参加や動機づけに影響を与える、段階的な一連の課題など、この機能に顕著に適応しています。
  
  
-So, are you ready for the future work environment? Tell us in the comments below which of those 10 skills you think you need to work harder.
+さぁ、ミライの労働環境に適応する準備ができましたか？下記のコメント欄から、10個のうち、あなたはどのスキルを磨く必要があるか、教えてください。
 
