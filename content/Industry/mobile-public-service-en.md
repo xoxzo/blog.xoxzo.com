@@ -1,7 +1,7 @@
 Title: Ways to use mobile communication for public service
 Date: 2018-4-18 12:00
 Author: Ai Sin Chan
-Tags: p2p; a2p; ; api; sms; notification; authentication; developer;  
+Tags: api; sms; voice api; election; political calls; public service; emergency sms; public service sms; 
 Slug: mobile-public-service
 Lang: en
 Thumbnail: images/mobile-public-service.jpg
