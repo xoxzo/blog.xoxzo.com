@@ -12,18 +12,18 @@ Summary: 2020年までに欲しい、未来の労働力として必要なスキ�
 のがした方は、この記事を読み進める前に、[こちらから](https://blog.xoxzo.com/ja/2018/03/23/future-workforce/) 
 どうぞ。
 
-今日はToday we’ll talk about the remaining 5 skills that complement the full set of knowledge you’ll need to be part of a new ecosystem of work. We’re less than 2 years from 2020, so we all better hurry!
-、今日はToday we’ll talk about the remaining 5 skills that complement the full set of knowledge you’ll need to be part of a new ecosystem of work. We’re less than 2 years from 2020, so we all better hurry!
-Today we’ll talk about the remaining 5 skills that complement the full set of knowledge you’ll need to be part of a new ecosystem of work. We’re less than 2 years from 2020, so we all better hurry!
+今日は、続きで残りの5つのスキルをお話し、新しい労働のエコシステムの一員として必要とされる、知識を完全なものとします。
+もう、2020年まで2年もないのですから、急いだほうがいいですよ！
 
 ![futureofwork](/images/futurework2.jpg)
 _“Less Minority Report, more self development”_
 
 
-6. New-media literacy: The explosion in user-generated media created by the mainstream access and easy-to-use interfaces of videos, blogs, and podcasts already dominated our social lives. This is overflowing to the work environment as well, and the future worker will have to become fluent in such formats, both as knowing how to read and interpret that message as well as creating their own visual presentations with the same ease as regular text documents and PowerPoint presentations.
+6. ニューメディア・リテラシー: メインストリーム・アクセスと、ビデオやブログ、ポッドキャストなどの使い勝手の良い、ユーザーインターフェースにより作成された、ユーザーが織りなすメディアの爆発的な増加は、社交面で私達の暮らしを占領しています。
+これが、職場環境にも、溢れ出してきています。そして将来は、仕事をするのに、読み方や、メッセージの理解という点でこういったフォーマットに通じていて、普通にテキストやパワポのプレゼンを準備するくらい簡単に、自分のビジュアル・プレゼンが出来るようでなくてはならないのです。
 
 
-7: Transdisciplinarity: Beyond putting together teams with different specialized skills to contribute, the future worker will need to have a good grasp on other disciplines. This is the so-called “T-shaped” worker: the one who brings a deep understanding of at least one field but have the capacity to discuss creatively in other languages. This is all a consequence of the complexities of our current problems – think of issues such as global warming, overpopulation, and even social media -, which all have in common is the need of different specialties to be fully understood.
+7: 分野を超えた広い教養: 違ったスキルをもった専門家チームを統率するだけでなく、未来の労働力には、別の教養についても、要点を頭に入れておく必要があるのです。これは、『T字型』ワーカーと呼ばれていて、最低でもひとつの分野に関して深い知識をもちつつ、他の分野のことばでも、それを上手に表現できる力を持つ人のことです。われわれの現在抱える問題点ー例えば地球温暖化や人口増加、ソーシャルメディアでさえ、共通してどれも、完全に理解したければ、それぞれの専門家が必要となってしまう、複雑性の産物なのです。
 
 
 8: Design mindset: A design approach to our work basically means thinking of how the presentation affects our cognitive experiences and, therefore, our behavior. It’s a mix of attractive composition with bumpless functionality that propels our production time forward more effectively, something that ever more workers will need to bring to the table.
