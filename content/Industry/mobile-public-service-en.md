@@ -7,7 +7,7 @@ Lang: en
 Thumbnail: images/mobile-public-service.jpg
 Summary: Ways to use mobile communication for public service
 
-[In a previous blog post](https://blog.xoxzo.com/2018/04/06/why-adopt-sms/) , we had discussed the many possible scenarios to use [SMS](https://blog.xoxzo.com/2018/04/06/why-adopt-sms/) or [voice](https://blog.xoxzo.com/2018/04/06/why-adopt-sms/) messages to reach out to consumers and achieve customer retention, as well as to aid in the bill collection cycle. There are other applications for mobile communication over SMS or voice, such as in public service, humanitarian rescue missions, as well as political campaigns. We will recount a few use cases that caught our attention.
+[In a recent blog post](https://blog.xoxzo.com/2018/04/23/boost-your-business/) , we had discussed the many possible scenarios to use [SMS](https://blog.xoxzo.com/2018/04/06/why-adopt-sms/) or [voice](https://blog.xoxzo.com/2018/04/06/why-adopt-sms/) messages to reach out to consumers and achieve customer retention, as well as to aid in the bill collection cycle. There are other applications for mobile communication over SMS or voice, such as in public service, humanitarian rescue missions, as well as political campaigns. We will recount a few use cases that caught our attention.
 
 ![mobile-public-service](/images/mobile-public-service.jpg)
 
