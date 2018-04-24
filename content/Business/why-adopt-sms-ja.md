@@ -1,6 +1,6 @@
 Title: ビジネス・コミュニケーションにSMSを取り入れる理由
 Date: 2018-04-06 12:00
-Lang: en
+Lang: ja
 Author: Ai Sin Chan
 Tags: api; 開発者; 市場; 経済; sms; ビジネス;
 Slug: why-adopt-sms
