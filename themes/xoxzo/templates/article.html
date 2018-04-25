@@ -1,5 +1,20 @@
 {% extends "base.html" %}
 
+{% block hreflang %}
+    <link rel="alternate" href="https://blog.xoxzo.com/{{ article.url }}" hreflang="x-default"/>
+    {% if DEFAULT_LANG == 'ja' %}
+    <link rel="alternate" href="https://blog.xoxzo.com/ja/{{ article.url }}" hreflang="ja"/>
+    {% if article.translations %}
+    <link rel="alternate" href="https://blog.xoxzo.com/en/{{ article.url }}" hreflang="en"/>
+    {% endif %}
+    {% else %}
+    <link rel="alternate" href="https://blog.xoxzo.com/en/{{ article.url }}" hreflang="en"/>
+    {% if article.translations %}
+    <link rel="alternate" href="https://blog.xoxzo.com/ja/{{ article.url }}" hreflang="ja"/>
+    {% endif %}
+    {% endif %}
+{% endblock %}
+
 {% block head %}
   {{ super() }}
 
@@ -38,7 +53,7 @@
         <div class="row">
             <section class="content col-md-8 col-lg-9 float-md-right">
                 <div class="container">
-                    <article>
+                    <article class="article">
                         <h2 class="article-info">
                             {{ article.locale_date }} /
                             <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
@@ -65,6 +80,12 @@
                             {% endfor %}
                         {% endif %}
                         </div>
+
+                        {% if article.footer_insert_html %}
+                          {% include article.footer_insert_html %}
+                        {% endif %}
+
+                        {% include 'disqus.html' %}
                     </article>
                 </div>
             </section>

@@ -1,7 +1,7 @@
 Title: Making Sense of Python App
 Date: 2017-02-16 18:23
 Lang: en
-Author: Kamal
+Author: Kamal Mustafa
 Tags: python
 Slug: making-sense-python-app
 

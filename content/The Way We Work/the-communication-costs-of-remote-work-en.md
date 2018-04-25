@@ -1,9 +1,10 @@
 Title: The communication costs of remote work
 Date: 2016-04-22 23:25
 Author: Iqbal Abdullah
-Tags: costs, nomad, remote, tips
+Tags: costs; nomad; remote; tips;
 Slug: the-communication-costs-of-remote-work
 Lang: en
+Summary: The non-neglible costs of communication taking toll on your team from working remotely
 
 We have a distributed team and everyone remotely works from wherever
 they are (6 cities across 3 countries). Remote work is nothing new
@@ -70,7 +71,7 @@ time following it up and read the other person's mind
 The great thing about Slack is that it allows you to add [reactions to a
 post](http://www.theverge.com/2015/7/9/8916347/slack-emoji-reactions).
 
-![ack]({filename}/images/ack.png)
+![Acknowledgement on Slack]({filename}/images/ack.png)
 
 This gives you the ability to acknowledge something, without having to
 write things out. A second of clicking on a button will remove that
@@ -138,5 +139,3 @@ communication costs within our diverse and remote team. All teams are
 obviously different, and some might work or may not work for yours.
 
 As for us, we'll keep on looking and trying too.
-
- 

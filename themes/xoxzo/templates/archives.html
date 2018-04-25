@@ -1,5 +1,11 @@
 {% extends "base.html" %}
 
+{% block hreflang %}
+    <link rel="alternate" href="https://blog.xoxzo.com/archives" hreflang="x-default"/>
+    <link rel="alternate" href="https://blog.xoxzo.com/en/archives" hreflang="en"/>
+    <link rel="alternate" href="https://blog.xoxzo.com/ja/archives" hreflang="ja"/>
+{% endblock %}
+
 {% block content %}
 <main class="container pg">
     <h1>{% trans %}Archives{% endtrans %}</h1>

@@ -1,5 +1,11 @@
 {% extends "base.html" %}
 
+{% block hreflang %}
+    <link rel="alternate" href="https://blog.xoxzo.com/" hreflang="x-default"/>
+    <link rel="alternate" href="https://blog.xoxzo.com/en" hreflang="en"/>
+    <link rel="alternate" href="https://blog.xoxzo.com/ja" hreflang="ja"/>
+{% endblock %}
+
 {% block footer_attr %}class="non-sticky-footer"{% endblock %}
 
 {% block content %}

@@ -1,5 +1,11 @@
 {% extends "base.html" %}
 
+{% block hreflang %}
+    <link rel="alternate" href="https://blog.xoxzo.com/authors" hreflang="x-default"/>
+    <link rel="alternate" href="https://blog.xoxzo.com/en/authors" hreflang="en"/>
+    <link rel="alternate" href="https://blog.xoxzo.com/ja/authors" hreflang="ja"/>
+{% endblock %}
+
 {% block title %}{{ SITENAME }} - {% trans %}Authors{% endtrans %}{% endblock %}
 
 {% block content %}
