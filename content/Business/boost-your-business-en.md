@@ -19,40 +19,40 @@ We had shared earlier a few reasons [why you should adopt SMS for your business 
 
 Providing prompt and responsive customer service is critical to achieving customer satisfaction. Customer support [over SMS](https://www.xoxzo.com/en/about/sms-api/) can be offered in many ways, such as:
 
-Use SMS to answer FAQ from customers, something that can be done by employees or chatbots;
+* Use SMS to answer FAQ from customers, something that can be done by employees or chatbots;
 
-Allow customers to book an appointment by SMS;
+* Allow customers to book an appointment by SMS;
 
-Send an appointment reminder by SMS, with the option to cancel it as well;
+* Send an appointment reminder by SMS, with the option to cancel it as well;
 
-Notify customers of the availability of their test results;
+* Notify customers of the availability of their test results;
 
-Send confirmation and flight details over SMS upon flight ticket purchase;
+* Send confirmation and flight details over SMS upon flight ticket purchase;
 
-Inform passenger of flight time changes or flight cancellation over SMS.
+* Inform passenger of flight time changes or flight cancellation over SMS.
 
 ## Billing
 
 Billing and collecting payments from customers are an integral part of your business, the possibility of doing it over SMS does not only evoke a prompt response but reduces operating cost on paper-based billing and manual payment collection as well. What you can do with [SMS platform](https://www.xoxzo.com/en/about/sms-api/) for billing purpose are:
 
-Send payment reminders by SMS to customers as their payment due dates approach;
+* Send payment reminders by SMS to customers as their payment due dates approach;
 
-Send SMS confirmations to inform customers that their payments have been received;
+* Send SMS confirmations to inform customers that their payments have been received;
 
-Send suspension avoidance messages by SMS to customers whose payments are critically overdue and thus face impending service suspension;
+* Send suspension avoidance messages by SMS to customers whose payments are critically overdue and thus face impending service suspension;
 
-Send payment authorization messages by SMS which contains URL for the customer to make a payment over web-based portal.
+* Send payment authorization messages by SMS which contains URL for the customer to make a payment over web-based portal.
 
 ## Marketing
 
 It is widely acknowledged that it takes less effort to retain an existing customer than to recruit a new one. To reach out to your customer base and engage them in continual rapport, consider interacting with them over [SMS communication](https://www.xoxzo.com/en/about/sms-api/) by:
 
-Sending periodical SMS for additional orders on consumable goods, such as stationery, disposable contact lenses, medication, household products such as detergents and many more;
+* Sending periodical SMS for additional orders on consumable goods, such as stationery, disposable contact lenses, medication, household products such as detergents and many more;
 
-Sending information on sale, discounts, deals, and coupons over SMS;
+* Sending information on sale, discounts, deals, and coupons over SMS;
 
-Sending SMS notification on merchant’s events and roadshows;
+* Sending SMS notification on merchant’s events and roadshows;
 
-Sending SMS to notify customers of a change of address, or opening of a new branch.
+* Sending SMS to notify customers of a change of address, or opening of a new branch.
 
 Just in case the demographics of your customer base does not favor SMS, there is always the alternative option of using voice calls. You do not need additional headcount or extra workload for your existing employees, use [text-to-speech or audio file playback](https://www.xoxzo.com/en/about/voice-api/) of pre-recorded voice messages from our [solution library](https://www.xoxzo.com/en/).
