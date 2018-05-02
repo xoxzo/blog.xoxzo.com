@@ -2,7 +2,7 @@ Title: PyCon APAC 2012
 Date: 2012-06-12 20:12
 Lang: en
 Author: Muhammad Juwaini
-Tags: django, pycon, python
+Tags: django; pycon apac; Python; 2012;
 Slug: pycon-apac-2012
 Status: published
 Summary: PyCon APAC 2012 that was held on June 7th - 9th is over. Attended by all kinds of people from many parts of the world. It was a lovely and an eye opening experience.

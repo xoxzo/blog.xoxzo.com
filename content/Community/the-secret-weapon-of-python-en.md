@@ -1,10 +1,10 @@
 Title: The Secret Weapon Of Python - PyCon MY 2016
 Date: 2017-04-10 10:00
 Author: Iqbal Abdullah
-Tags: python, community, pyconmy, 2016
+Tags: Python; community; pycon my; 2016;
 Lang: en
 Slug: the-secret-weapon-of-python
-Summary: Iq's talk on the secret sauce for python called community for PyCon MY 2016
+Summary: Iqbal's talk on the secret sauce for python called community for PyCon MY 2016
 
 Python is everywhere in what we do: From weekly reports to the frontend and
 backend. We have leveraged python in many ways to help us reach the goals that
