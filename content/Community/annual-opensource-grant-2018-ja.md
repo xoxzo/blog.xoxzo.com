@@ -9,7 +9,7 @@ Summary: 2018年度 Xoxzo 年次オープンソース助成金の受賞者を発
 
 # 年次オープンソース助成金
 
-2018年よりXoxzoは、オープンソースプロジェクトに対して、一定の助成金を毎年寄付する、**オープン・ソース・グラント**というプログラムを開始することとなりましｈた。
+2018年よりXoxzoは、オープンソースプロジェクトに対して、一定の助成金を毎年寄付する、 **オープン・ソース・グラント** というプログラムを開始することとなりました。
 
 春の終わり頃、エンジニアリングチームが集まり、助成金からどのプロジェクトに、どのくらいの金額を付与するかを、決定します。他に比べて当社と当社のお客様に影響を与えているプロジェクトを選び出し、各プロジェクトへの助成金の金額を決定します。
 
@@ -18,7 +18,7 @@ Summary: 2018年度 Xoxzo 年次オープンソース助成金の受賞者を発
 決定のポイントとなるのは、2点：
 
 - 特定の、オープンソース・プロジェクトの人々による、完了作業の承認
-- 金額の大小によるXoxzoの提供の是非ではなく、このプロジェクトの_有効性と続行性_
+- 金額の大小によるXoxzoの提供の是非ではなく、このプロジェクトの _有効性と続行性_
 
 わずかではあっても、Xoxzoのような小さな企業でさえ、オープンソースコミュニティの多くの人々が、自分の時間とエネルギーを注いだ、頑張りと成果を認め、埋め合わせがあるということを示したいと思います。
 
@@ -65,6 +65,6 @@ Nodejs NPM や PHP Composer と言った、他のプラットフォームは資�
 他にも、チームが寄付を行いたいと思ったプロジェクトが、いくつかありましたが、残念なことに
 ウェブサイト上では、はっきりとわかるような寄付の受付先が見つからず、断念しました。
 そのうちの幾つかをご紹介します。
-buildout、 httpie、pelican や sphinx　です。
+buildout、 httpie、pelican や sphinx です。
 
 P.S: [Beth Kanter](https://www.flickr.com/photos/cambodia4kidsorg/2265381560/in/photolist-4sbF1L-ar78tZ-SNGH5k-ar79ug-7GLMMJ-7auyvr-ar9ZuW-ar7icH-7EbFm8-77iC2j-oZNUt1-YoqUGr-7auzAZ-77iLXu-ara183-4vbuEU-pKkoXm-77eCxx-2WUBnD-ar9VGm-7TT3jY-by7HPM-6ymtsa-7ayps3-77ePoH-874G8Z-4VguA1-6G4JuU-77eAQF-ar7dxc-EDyr4-77iKd5-8yZZmV-rDGuZy-77iLM5-bbBEV8-e3okg3-DLbcqc-77ezLa-69ykkm-7aysgQ-72ePxc-ar7dt4-XZTS3m-e6eDqU-bbBC66-bbBCjr-RYrLD2-e693vi-9ULwL) の、大好きなオープンソースのサムネイルに感謝。
