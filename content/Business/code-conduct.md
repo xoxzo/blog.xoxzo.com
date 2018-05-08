@@ -10,7 +10,7 @@ Summary: Code of conduct that business must follow with SMS broadcast
 
 How should companies maintain their business ethics while using [SMS communication](https://www.xoxzo.com/en/about/sms-api/) with their customers, so as not to be penalized for breaking the law? For humanitarians at NPOs, are there guidelines to follow when using [mass SMS](https://www.xoxzo.com/en/about/sms-api/) for disaster relief missions? For the consumer, when [SMS marketing](https://www.xoxzo.com/en/about/sms-api/)turns into spam, what could you do to stop the nuisance?
 
-![codeconduct](/images/condeconduct.jpg)
+![codeconduct](/images/codeconduct.jpg)
 
 ## For companies and business owners
 
