@@ -2,7 +2,7 @@ Title: 【Xoxzo】PyCon APAC 2017 in クアラ・ルンプルのPlatinumスポ�
 Date: 2017-07-21 16:00
 Slug: sponsoring-pycon-apac-2017
 Lang: ja
-Tags: pyconapac2017; sponsor; xoxzo; pycon; クアラ・ルンプル;
+Tags: pycon apac; 2017; sponsor; xoxzo; pycon; クアラ・ルンプル;
 Author: Aiko Yokoyama
 Summary: [Xoxzo](https://info.xoxzo.com/ja/) は、[PyCon APAC 2017](https://pycon.my/2017/07/17/announcing-xoxzo-as-our-platinum-sponsor/)のスポンサーです。
 

@@ -2,7 +2,7 @@ Title: Xoxzo is a Platinum Sponsor for PyCon APAC 2017 in Kuala Lumpur
 Date: 2017-07-21 16:00
 Slug: sponsoring-pycon-apac-2017
 Lang: en
-Tags: pyconapac2017; sponsor; xoxzo; pycon; kuala lumpur;
+Tags: pycon apac; 2017; sponsor; xoxzo; pycon; kuala lumpur;
 Author: Aiko Yokoyama
 Summary: We [Xoxzo](https://info.xoxzo.com/en/) proudly announce that we are sponsoring [PyCon APAC 2017](https://pycon.my/2017/07/17/announcing-xoxzo-as-our-platinum-sponsor/).
 
