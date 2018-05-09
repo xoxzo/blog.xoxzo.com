@@ -10,7 +10,7 @@ Summary: We're announcing our Annual Open Source grant and recipients for 2018
 # The Annual Open Source grant
 
 Starting from 2018, we're starting a program we call **The Annual Open Source
-grant** where every year we will have an amount we that we allocate to be given
+grant** where every year we will have an amount that we allocate to be given
 to open source projects. 
 
 At the end of spring, the engineering team will get together and
