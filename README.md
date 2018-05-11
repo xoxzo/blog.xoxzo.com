@@ -71,6 +71,7 @@ These metadata is required for all articles
     Author: 
     Tags: 
     Slug: 
+    Summary: 
 
 #### Translations
 

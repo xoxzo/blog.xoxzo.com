@@ -1,7 +1,7 @@
 Title: Pythonの隠れた武器 - PyCon MY 2016 
 Date: 2017-04-10 10:00 
 Author: Iqbal Abdullah 
-Tags: python, community, pyconmy, 2016 
+Tags: Python; community; pycon my; 2016;
 Lang: ja
 Slug: the-secret-weapon-of-python 
 Summary: Xoxzo代表、イクバルのトーク内容とスライドーPyCon MY 2016

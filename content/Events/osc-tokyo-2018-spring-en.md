@@ -2,7 +2,7 @@ Title: [Xoxzo] We will be at the OSC Tokyo 23rd to 24th February!
 Date: 2018-02-21 16:00
 Slug: osc-tokyo-2018
 Lang: en
-Tags: 2018; osc; tokyo; sponsorship; opensource;
+Tags: 2018; osc; tokyo; sponsorship; open source;
 Author: Aiko Yokoyama
 Summary: Xoxzo will be sponsoring OSC Tokyo which will be held for two days, from 23rd Friday to 24th Sat at Meisei University, Hino Campus.
 

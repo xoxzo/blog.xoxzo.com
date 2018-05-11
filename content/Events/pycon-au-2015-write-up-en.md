@@ -2,7 +2,7 @@ Title: PyCon AU 2015 Write Up
 Lang: en
 Date: 2015-08-29 10:33
 Author: Zaki Akhmad
-Tags: django, pycon, pycon au, pycon au 2015, python
+Tags: django; pycon; pycon au; 2015; Python
 Slug: pycon-au-2015-write-up
 Summary: A short writeup on PyCon AU 2015
 
