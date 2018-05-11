@@ -6,7 +6,6 @@ Lang: ja
 Slug: xoxzoprice-revision-for-dial-in-numbers
 Summary: 日本のフリーダイヤルと03番号の価格上昇に伴う料金改定を行います。
 
-[![Xoxzoロゴ]({filename}/images/xoxzo-logo-02.png)](https://www.xoxzo.com/ja/)
 
 平素は[Xoxzo　クラウド・テレフォニー・プラットフォーム](https://www.xoxzo.com/ja/)をご利用いただきましてありがとうございます。
 
