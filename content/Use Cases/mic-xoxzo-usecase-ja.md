@@ -3,7 +3,7 @@ Date: 2016-03-18 11:00
 Author: Aiko Yokoyama
 Tags: xoxzo, smsのapi配信, 有限会社エムアイシー
 Slug: mic-xoxzo-usecase
-Lang: ja
+Lang: en
 Summary: 有限会社エムアイシー総合企画は、運営中のウェブサービスの個人認証システムに、株式会社Xoxzoの運営するXoxzo
 （ゾクゾー）クラウド・テレフォニー・プラットフォームを導入しました。 
 
