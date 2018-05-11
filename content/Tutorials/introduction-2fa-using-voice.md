@@ -52,12 +52,6 @@ def gen_voice_msg(secret_key, key_length=4):
     for st in num_str:
         key_str += "数字の%s," % st
     return prefix_str + key_str + mid_str + key_str + postfix_str
-
-
-two_fa_voice()
-
-
-
 ```
  
 #まとめ
