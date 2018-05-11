@@ -15,8 +15,7 @@ When my younger child started primary school this April, one of the parents ther
 They have about 15 people from young to old, ladies and gentlemen with various occupation. 
 Every fortnight Wednesday morning, 7 of them prepare some books and visit the local primary school (only one in the area) and read a book or two to the class.
 
-This is the blog of the school when they had "Popcorn" visit in this March.
-http://www.kyoto-be.ne.jp/gomagou-es/cms/index.php?active_action=journal_view_main_detail&block_id=220&page_id=0&post_id=1033&comment_flag=1
+This is the [blog of the school when they had "Popcorn" visit in this March](http://www.kyoto-be.ne.jp/gomagou-es/cms/index.php?active_action=journal_view_main_detail&block_id=220&page_id=0&post_id=1033&comment_flag=1).
 
 I knew the activity of this group for quite a while but have never thought of joining, although I totally agree with the purpose of what they are on.
 Estimated from the number of the group, I presume what I do will be just spare not even 1 hour a month to read to the children.
