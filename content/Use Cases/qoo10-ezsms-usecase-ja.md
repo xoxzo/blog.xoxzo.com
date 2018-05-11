@@ -4,8 +4,9 @@ Author: Iqbal Abdullah
 Tags: ezsms, smsのapi配信, qoo10, 本人認証
 Slug: qoo10-ezsms-usecase
 Lang: ja
+Summary: ジオシス合同会社は、インターネットショッピングモール「Qoo10」の、ユーザー認証システムにEZSMSを導入しています。
 
-社：東京都港区、代表者：金孝種（キム・ヒョウジョン）、以下ジオシス】は、[株式会社Xoxzo](https://info.xoxzo.com/ja/)（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）が運営する[SMS（ショートメッセージ）配信サービス「EZSMS」](https://www.ezsms.biz/ja/ "SMS配信サービス「EZSMS」")を利用し、「Qoo10」の本人確認を行っています。
+ジオシス合同会社：東京都港区、代表者：金孝種（キム・ヒョウジョン）、以下ジオシス】は、[株式会社Xoxzo](https://info.xoxzo.com/ja/)（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）が運営する[SMS（ショートメッセージ）配信サービス「EZSMS」](https://www.ezsms.biz/ja/ "SMS配信サービス「EZSMS」")を利用し、「Qoo10」の本人確認を行っています。
 
 以下は担当者からのコメントです。
 
