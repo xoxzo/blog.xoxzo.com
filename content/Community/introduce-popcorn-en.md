@@ -26,8 +26,7 @@ So... I signed up.
 It was my first "Popcorn" day yesterday but not for reading yet. I met and greeted the members and got assigned to my first reading time on June 20th.
 Until then, I can come to the "Popcorn" days to see how the others do with the children.
 
-My first observation time yesterday was in Grade One class, a female "Popcorn" reader brought her handmade KAMI-SHIBAI show (https://en.wikipedia.org/wiki/Kamishibai) 
-She introduced these new students "what is "Popcorn"" in the show.
+My first observation time yesterday was in Grade One class, a female "Popcorn" reader brought her handmade [KAMI-SHIBAI show](https://en.wikipedia.org/wiki/Kamishibai). She introduced these new students "what is "Popcorn"" in the show.
 
 
-How Kami-shibai looks can be referred here: https://bit.ly/2IsVacL
+How Kami-shibai looks can be referred [here](https://bit.ly/2IsVacL).
