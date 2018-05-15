@@ -28,79 +28,70 @@ Twitterで [@dice](https://twitter.com/dice)として知られる、堀江大輔
 **その分野での仕事には、どのようにして就いたのでしょうか？　同僚からの勧めがあったのでしょうか、
 それとも、旧式に、求人広告などからだったのですか？**
 
-> 最初の仕事は、テレコムMy first job was in marketing at a telecom company in Tokyo, I then worked as a
-> project manager in localization for a few years. My first job where I was really
-> diving into technology was as a program manager at Amazon. I got the job by
-> applying for a job posting.
+> 最初の仕事は、東京のテレコム企業での、マーケティングでした。その後、ローカリゼーションのプロジェクト・
+> マネージャーとして、数年間働きました。テクノロジーにほんとうの意味で関連した仕事に初めて携わったのは
+> Amazonでの、プログラム・マネージャーとして、でした。この仕事は、求人情報をみて、
+> 応募しました。
 
-**Do you think the first job is important for shaping up the career path of a
-software developer? How long did you stay in that job?**
+**初めての仕事は、ソフトウェアの開発者として、キャリアの道筋をつけるのに、重要だったと
+思いますか？どのくらいの期間、その仕事についていたのでしょうか？**
 
-> I think that working at a job that gives you the opportunities to grow your
-> skills and learn from experience is important. That could be a company with a
-> solid training program, or a company where you get a lot of hands on experience.  
+> 私は、仕事というのはその経験の中から学び、スキルを磨く機会があるというのが重要であると、
+> 考えています。しっかりとした、トレーニング・プログラムがあったり、自ら実践できる経験の
+> 多い会社、だといえますね。  
 >
-> I changed jobs a lot, up until my last couple of jobs, the average time I was
-> at a job was a year. Earlier in my career, I got to work at different
-> companies where I got experience in different ares of the Internet. At Amazon
-> I learned about e-commerce, at Yahoo! JAPAN I worked in search and at Six
-> Apart I learned about consumer generated media and social media.
+> 私は、ここ最近のしごとにつくまで、よく仕事を変えてきましｈた。平均で、ひとつの仕事に
+> ついていたのは、１年くらいですね。その最初の頃に、別の企業で働き、インターネットの違った局面での
+> 経験ができました。Amazonでは、eコマースについて学び、
+> Yahoo! JAPAN では、検索について、そして Six
+> Apart では、消費者発信メディア(CGM)やソーシャルメディアについて、学びました。
 
-**What do you think about software development career in Japan? Do you think
-that market is different from other countries?**
+**日本のソフトウェア開発について、どう考えますか？市場は、他の国と違いがあると思いますか？**
 
-> I only know the markets in Japan and the United States. The numbers are pretty
-> clear that salaries for software developers are lower in Japan than in the
-> United States, but wages in Japan are just lower across the board and probably
-> need to be raised.
+> 私が知っているのは、日本とアメリカだけです。数字ははっきりしていて、ソフトウェア開発者の
+> 給与は、アメリカより、日本の方が少ないですね。
+> しかし、日本の年収自体が、全面的に低いですから、おそらく、引き上げが必要ですね。
 
-**Do you think it's still regarded as a lower job compared to other
-traditional professions? We always read comments about devs being treated
-badly - lower salaries, long working hours, etc.**
+**この職業は、他の伝統的な職業に対して、低いと考えられていると思いますか？
+技術開発者というものは、安月給で、長時間労働、等、ひどい扱いを受けているというコメントを
+よく目にするのですが**
 
-> I'd say that there are a significant number of software developers that work
-> for lower salaries and for long hours, but there are also software developers
-> that get compensated well. But, it's not just a problem with software
-> developers like wages being low across the board, Japan needs to get better at
-> helping their workforce work and live healthier.
+> ソフトウェアの開発者の大半が、安月給で長時間働いていると、言わざるをえませんね。
+> でも、ちゃんとした報酬を受けている開発者もいるんです。
+> しかし、ソフト開発者にとって、年収が全般的に低いとかいうことが問題ではなく、日本が
+> 労働者の労働力や、健康的に生きる、ということに対してもっと協力的になる必要があるんです。
 
-**What do you think developers should do to make the profession more highly
-regarded?**
+**開発者たちが、この職業をもっと重んじられるようにしていくべきである、と考えますか？**
 
-> Software developers should be willing to turn down jobs that pay little and
-> also be willing to improve their own skills and move onto positions at other
-> companies that pay more.
+> ソフト開発者は、安い仕事を拒否するように、すべきですね。また、自らの技術を磨き、
+> もっと前向きに、より給料の良い企業でのポジションへと、移っていくべきですね。
 
-**What's the appeal for you to keep working in this industry?**
+**この業界で仕事を続ける、魅力はなんでしょうか？**
 
-> The technology industry by definition means that there is constant innovation
-> and new things to learn. I enjoy working in an industry where I'm pushed to
-> learn more.
+> テクノロジー業界というのは、当然、常に新しいことが起こり、新しく学ぶことがあります。
+> 私は、どんどん学んで行かねばならない業界での仕事を、楽しんでいるんです。
 
-**If you could give an advice to yourself back when you were just starting,
-what advice would that be?**
+**始めた頃の自分に何かアドバイスするとしたら、なんといいますか？**
 
-> The advice would be to learn how to write code earlier. I had tried a number
-> of times, but I would have done whatever it would have taken to learn how to
-> code.
+> コードの書き方を早めに習得するように、助言するでしょうね。何度も挑戦したんですが、
+> コーディングを習得するためだったら、なんだってしたと思います。
 
-**What's the kind of developer that you would most likely wish to work with?**
+**最も一緒に仕事をしたい、と思うのは、どんな開発者でしょうか。**
 
-> I like working with colleagues that are thoughtful, caring and empathetic.
-> I've come to understand that personality is often undervalued, but is actually
-> one of the most important qualities in a colleague.
+> 思慮深く、よく気が付き、共感の出来る同僚と、ともに働くのが好きですね。
+> 個性というものは、軽視されがちだということを理解するに至りましたが、
+> 同僚における重要な要素だとおもいます。
 >
-> Incidents occur, servers go down, things break, and developers/engineers will
-> find a solution to the problems that occur. What matters if whether or not
-> you'll want to work with that developer again when a bad situation comes up.
+> コトは、起こります。サーバーがダウンする、ものは壊れる、そして開発者やエンジニアたちは、
+> 問題の解決方法を探すわけです。何か悪いことが起こったときに、その開発者と一緒にまた仕事をしたい、と、
+> 思えるかどうかは、とても重要なところですね。
 
-**Are you currently working in any kind of open source project
-unrelated to your job? If so, can you tell us about it and why did you start
-working on it?**
+**現在、仕事とは関係のないオープンソース・プロジェクト等をしていますか？もししているとすれば、
+それについて、また、どうしてそれを始めたのかについて、教えてください。**
 
-> Not right now.
+> 今は、していません。
 
-**Do you think kids should learn how to code?**
+**子供も、コーディングを学ぶべきだと思いますか？**
 
 > I think that if kids are successfully taught how to code it'll be an important
 > skill that can be helpful to them. I'm interested to learn how Japan plans to
