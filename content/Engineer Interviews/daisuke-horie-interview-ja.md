@@ -93,11 +93,11 @@ Twitterで [@dice](https://twitter.com/dice)として知られる、堀江大輔
 
 **子供も、コーディングを学ぶべきだと思いますか？**
 
-> I think that if kids are successfully taught how to code it'll be an important
-> skill that can be helpful to them. I'm interested to learn how Japan plans to
-> teach all school children how to code.
+> 子供がコーディングをきちんと学べれば、とても重要で役に立つ技術であると思います。
+> 日本が、どうやって、全ての学生たちにコーディングを教えるプランを立てるか
+> とても興味がありますね。
 
-**Can you tell us the name of another developer whose work you admire and would
-like to see an interview here?**
+**このインタビュー欄に登場してほしい、あなたの賞賛するような仕事をしている開発者
+のお名前を挙げてもらえますか？**
 
-> Not anyone off the top of my head right now.
+> 今は、思い浮かびませんね。
