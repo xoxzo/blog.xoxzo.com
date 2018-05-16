@@ -3,7 +3,7 @@ Date: 2016-12-28 15:49
 Slug: EOY-Holiday-Notice
 Lang: ja
 Modified: 2016-12-28 15:49
-Tags: EOY-notice; 
+Tags: EOY-notice; 2016;
 Author: Aiko Yokoyama
 Summary: 平素は、弊社の運営しております「Xoxzo クラウド・テレフォニー・プラットフォーム」ならびに、「EZSMS・ショートメッセージ(SMS)配信サービス」をご利用いただきまして、誠にありがとうございます。
 

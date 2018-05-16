@@ -2,7 +2,7 @@ Title: XoxzoおよびEZSMSにおける、障害の報告
 Date: 2018-01-29 12:00
 Slug: 2018-01-27-server-issue
 Lang: ja
-Tags: Xoxzo; EZSMS; Issue; 障害報告;
+Tags: Xoxzo; EZSMS; Issue; 障害報告; 2018;
 Author: Aiko Yokoyama
 Summary: 2018年1月27日、日本時間12時50分より、20時52分までの間、Xoxzoのコードコール、EZSMSでのダイヤルSMSの機能の一部にサーバー関連のトラブルによる障害が発生しておりました。
 

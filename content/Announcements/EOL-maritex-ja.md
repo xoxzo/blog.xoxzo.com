@@ -2,7 +2,7 @@ Title:【MARITEX】サービス終了のお知らせ
 Date: 2016-02-01 11:30
 Slug: maritex-end-of-service-announcement
 Lang: ja
-Tags: maritex; eol; goodbye; 
+Tags: maritex; eol; goodbye; 2016;
 Author: Aiko Yokoyama
 Summary: MARITEXからさようなら
 

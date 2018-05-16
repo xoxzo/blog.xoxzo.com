@@ -2,7 +2,7 @@ Title: [MARITEX] End Of Service Announcement
 Date: 2016-02-01 11:30
 Slug: maritex-end-of-service-announcement
 Lang: en
-Tags: maritex; eol; goodbye; 
+Tags: maritex; eol; goodbye; 2016;
 Author: Iqbal Abdullah
 Summary: Goodbye from MARITEX
 
