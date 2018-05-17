@@ -2,7 +2,7 @@ Title: DevRel Meetup in Tokyo #30 に参加してきました
 Date: 2018-05-17
 Slug: devrel-meetup-30
 Lang: ja
-Tags: Developer Relations;DevRel
+Tags: Developer Relations;DevRel;2018
 Author: Akira Nonaka
 Summary: DevRel Meetup in Tokyo #30への参加報告です。
 
