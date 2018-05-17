@@ -2,7 +2,7 @@ Title: 年末年始休業のお知らせ
 Date: 2017-12-15 10:00
 Slug: EOY-Holiday-Notice-2017
 Lang: ja
-Tags: EOY-notice; 年末年始;
+Tags: end of year; 年末年始; 2017;
 Author: Aiko Yokoyama
 Summary: 2017年も終わりに近づいてまいりました。本年も多くの方にお世話になり、誠にありがとうございました。年末年始休業のご案内です。
 
