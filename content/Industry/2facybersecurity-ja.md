@@ -59,26 +59,24 @@ SMSと音声通話が、データ保護とサイバーセキュリティの役�
 
 ## 二要素認証におけるSMS
 
-One of the most convenient solutions is to send a OTP to the user’s mobile phone over SMS, which the user must enter on the portal to gain access to her account. Implementing 2FA for your users’ accounts over SMS offers effective protection against phishing and password attacks, the apparent advantages are:
-最も便利なソリューションの1つは、ユーザーの携帯電話にSMS経由でOTPを送信することです。ユーザーは、ポータルに入力して自分のアカウントにアクセスする。
-One of the most convenient solutions is to send a OTP to the user’s mobile phone over SMS, which the user must enter on the portal to gain access to her account. Implementing 2FA for your users’ accounts over SMS offers effective protection against phishing and password attacks, the apparent advantages are:ために
-One of the most convenient solutions is to send a OTP to the user’s mobile phone over SMS, which the user must enter on the portal to gain access to her account. Implementing 2FA for your users’ accounts over SMS offers effective protection against phishing and password attacks, the apparent advantages are:
+最も便利なソリューションの1つは、ユーザーの携帯電話にSMS経由でOTPを送信することです。ユーザーは、自分のアカウントにアクセスするため、受け取ったパスワードをポータルに入力する必要があります。SMS経由でユーザーのアカウントに2FAを実装することで、フィッシングやパスワードの攻撃に対し、効果的にアカウントを保護することができます。利点は次のとおりです。
 
-* Protect against weak passwords;
 
-* No key fob required;
+* パスワードの脆弱性に対して守りを固める
 
-* No 3rd party app (whether online or offline) required.
+* キーフォブが不要
 
-It is also important to note that 2FA over SMS is not immune against:
+* 他のアプリケーション（オンラインでもオフラインでも）が不要
 
-* Social engineering: where the hacker has convinced your service provider to redirect your phone number to the hacker’s SIM;
+SMSを使ったに要素認証は、下記にも影響を受けざるをえないということも、重要です。
 
-* Malware attacks: where SMS sent to an Android phone infected with malware is intercepted and redirected to the hacker’s device instead.
+* ソーシャルエンジニアリング: ハッカーがユーザーの電話番号を、ハッカーのSIMに転送するように、サービスプロバイダを征服した場合
 
-However, we can deduce that the risk of facing such an attack is comparatively low, as opposed to not implementing 2FA at all.
+* マルウェア攻撃: マルウェアに感染したAndroidの携帯電話に送信されたSMSが傍受され、代わりにハッカーのデバイスに転送されます。
 
-## Voice in 2FA
+しかし、2FAを絶対実装しないのではなく、そのような攻撃に直面するリスクが、比較的低いと推定します。
+
+## 要素認証における、音声通話
 
 As a variation to sending an OTP over SMS, voice can be used instead. Applying text-to-speech functionality to the standard 2FA process, the system dials a voice call and sends an OTP via voice audio. This is particularly useful for the visually impaired users.
 
