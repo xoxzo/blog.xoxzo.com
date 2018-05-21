@@ -78,8 +78,9 @@ SMSを使ったに要素認証は、下記にも影響を受けざるをえな�
 
 ## 要素認証における、音声通話
 
-As a variation to sending an OTP over SMS, voice can be used instead. Applying text-to-speech functionality to the standard 2FA process, the system dials a voice call and sends an OTP via voice audio. This is particularly useful for the visually impaired users.
+SMSにてOTPを送信する変形として、代わりに音声を使用することができます。 標準の2FAプロセスに、テキスト読み上げ機能を適用すると、システムは音声コールをダイヤルし、音声オーディオ経由でOTPを送信します。この方法は視覚障害のあるユーザーにとって特に便利です。
 
-Using OTP sent to a mobile device via an SMS or a voice clip is user-friendly for your users, relatively cheap and easy to implement, and achieves the purpose of 2FA.
+SMS及び音声クリップを通して、モバイルデバイスに送信されたOTPを使用することは、比較的安価で実装が簡単、しかもユーザーフレンドリーであり、2FAの役割をしっかりと果たします。
 
-As with any security measure, 2FA is not foolproof, but it adds an effective extra layer of a protective barrier against unauthorized access to any user accounts. There is no reason not to implement it into your system. Our SMS API and Voice API are the perfect tools for you to get started and get it done quickly.
+As with any security measure, 2FA is not foolproof, but it adds an effective extra layer of a protective barrier against unauthorized access to any user accounts. システムに実装しない理由はありません。 私たちのSMS APIとVoice APIは、あなたがすぐに使い始めるための完璧なツールです。
+あらゆるセキュリティ対策と同様に、2FAは絶対確実とは、言えませんが、ユーザーアカウントへの不正アクセスに対する、防御をよりいっそう固めるのに、有効と言えるでしょう。システムへの実装を、躊躇する理由はありません。 [XoxzoのSMS APIとVoice API](https://www.xoxzo.com/ja/)は、開発者がすぐに使い始めるのに、完璧なツールです。
