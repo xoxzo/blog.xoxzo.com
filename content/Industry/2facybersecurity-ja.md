@@ -30,31 +30,33 @@ SMSと音声通話が、データ保護とサイバーセキュリティの役�
 
 企業における事件：史上最大のサイバーセキュリティ侵害事例を抱えるのは、ヤフー!で、ユーザーアカウントデータがハッカーに侵害される、大事件が２度も報告されています。2013年には10億ユーザーアカウントに、2014年には5億ユーザーに影響を与えています。
 
-個人における事件: Happening back in 2012, due to weaknesses in the Apple and Amazon authentication procedures, technology journalist Mat Honan lost his Google, Twitter, Amazon, and Apple accounts, as well as access to his MacBook and iPhone, including all data in his MacBook, to hackers who applied social engineering to gain access to his accounts. And the hackers were only after his three-character Twitter handle, that was a heavy price to pay for. Honan’s biggest regret was not backing up his data and not using 2FA for his accounts.
-テクノロジージャーナリストのMat Honan氏は、Apple、Amazonの認証手続きの脆弱性のために、2012年にはGoogle、Twitter、Amazon、Appleのアカウントを、またMacBookやiPhoneへのアクセスを失いました。 ハッカーがソーシャルエンジニアリングを適用しし、Honan氏のアカウントへ侵入したのです。しかも、ハッカーたちは3文字のTwitterのハンドルネームを参照しただけだったのです。 なんとも痛い損失でした。Honan氏の一番の後悔は、データをバックアップしておらず、アカウントに2FAを使用していなかった、ということでした。
+個人における事件: テクノロジージャーナリストのMat Honan氏は、Apple、Amazonの認証手続きの脆弱性のために、2012年にはGoogle、Twitter、Amazon、Appleのアカウントを、またMacBookやiPhoneへのアクセスを失いました。 ハッカーがソーシャルエンジニアリングを適用しし、Honan氏のアカウントへ侵入したのです。しかも、ハッカーたちは3文字のTwitterのハンドルネームを参照しただけだったのです。 なんとも痛い損失でした。Honan氏の一番の後悔は、データをバックアップしておらず、アカウントに2FAを使用していなかった、ということでした。
 
 
 ## 2FA(二要素認証、多要素認証）って何？
 
-Two factor authentication (2FA) makes use of a combination of two of the following to authenticate user identity:
+二要素認証は、ユーザーを特定するために、下記より２つを合わせた方法で認証を行うことです。
 
-* something you know (login credentials: username, password)
+* ユーザーの知っていること (ログイン情報: ユーザーネームやパスワード)
 
-* something you have (hardware: key fob, mobile phone)
+* ユーザーの持っているもの (ハードウェア: キーフォブや携帯電話)
 
-* something you are (biometrics recognition: voice, thumbprint, iris)
+* ユーザーそのもの (生物的認識: 声紋、指紋、虹彩)
 
-There are a few ways to implement 2FA by applying “something you have”, usually by generating or sending one-time passwords (OTP) through:
+通常、ワンタイムパスワード（OTP）を生成・送信したり、「ユーザーが持っているもの」を適用することによって、2FAを実装する方法が用いられています。
 
-* SMS or voice
+* SMS or 音声通話
 
-* hardware (key fob)
+* ハードウェア (キーフォブ)
 
-* online app
+* オンラインアプリケーション
 
-* offline app
+* オフラインアプリケーション
 
 There is a weak point in cybersecurity in the account recovery process, the use of 2FA for logging in is bypassed. In designing the algorithm flow for account recovery such as in case of forgotten password, we highly recommend that a different set of 2FA is implemented before allowing passwords to be reset.
+アカウント回復プロセスではサイバーセキュリティに弱点があり、ログインに2FAを使用することはバイパスされます。
+
+
 
 ## SMS in 2FA
 
