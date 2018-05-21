@@ -53,13 +53,15 @@ SMSと音声通話が、データ保護とサイバーセキュリティの役�
 
 * オフラインアプリケーション
 
-There is a weak point in cybersecurity in the account recovery process, the use of 2FA for logging in is bypassed. In designing the algorithm flow for account recovery such as in case of forgotten password, we highly recommend that a different set of 2FA is implemented before allowing passwords to be reset.
-アカウント回復プロセスではサイバーセキュリティに弱点があり、ログインに2FAを使用することはバイパスされます。
+アカウント回復のプロセスではサイバーセキュリティに弱点があり、ログインに2FAを使用することで、回避されます。パスワードを忘れた場合、のようなアカウント回復のためのアルゴリズムフローを設計する際には、パスワードをリセットする前に、様々な組み合わせの2FAを実装することを強くお勧めします。
 
 
 
-## SMS in 2FA
+## 二要素認証におけるSMS
 
+One of the most convenient solutions is to send a OTP to the user’s mobile phone over SMS, which the user must enter on the portal to gain access to her account. Implementing 2FA for your users’ accounts over SMS offers effective protection against phishing and password attacks, the apparent advantages are:
+最も便利なソリューションの1つは、ユーザーの携帯電話にSMS経由でOTPを送信することです。ユーザーは、ポータルに入力して自分のアカウントにアクセスする。
+One of the most convenient solutions is to send a OTP to the user’s mobile phone over SMS, which the user must enter on the portal to gain access to her account. Implementing 2FA for your users’ accounts over SMS offers effective protection against phishing and password attacks, the apparent advantages are:ために
 One of the most convenient solutions is to send a OTP to the user’s mobile phone over SMS, which the user must enter on the portal to gain access to her account. Implementing 2FA for your users’ accounts over SMS offers effective protection against phishing and password attacks, the apparent advantages are:
 
 * Protect against weak passwords;
