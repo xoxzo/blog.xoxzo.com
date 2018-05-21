@@ -28,11 +28,13 @@ SMSと音声通話が、データ保護とサイバーセキュリティの役�
 
 ## 知っておきたいセキュリティ侵害の例
 
-Corporate Case: Dubbed the biggest cybersecurity breach cases in history, Yahoo! reported two major data breach of user account data to hackers, affecting 1 billion user accounts in 2013 and 500 million in 2014 respectively.
+企業における事件：史上最大のサイバーセキュリティ侵害事例を抱えるのは、ヤフー!で、ユーザーアカウントデータがハッカーに侵害される、大事件が２度も報告されています。2013年には10億ユーザーアカウントに、2014年には5億ユーザーに影響を与えています。
 
-Personal Case: Happening back in 2012, due to weaknesses in the Apple and Amazon authentication procedures, technology journalist Mat Honan lost his Google, Twitter, Amazon, and Apple accounts, as well as access to his MacBook and iPhone, including all data in his MacBook, to hackers who applied social engineering to gain access to his accounts. And the hackers were only after his three-character Twitter handle, that was a heavy price to pay for. Honan’s biggest regret was not backing up his data and not using 2FA for his accounts.
+個人における事件: Happening back in 2012, due to weaknesses in the Apple and Amazon authentication procedures, technology journalist Mat Honan lost his Google, Twitter, Amazon, and Apple accounts, as well as access to his MacBook and iPhone, including all data in his MacBook, to hackers who applied social engineering to gain access to his accounts. And the hackers were only after his three-character Twitter handle, that was a heavy price to pay for. Honan’s biggest regret was not backing up his data and not using 2FA for his accounts.
+テクノロジージャーナリストのMat Honan氏は、Apple、Amazonの認証手続きの脆弱性のために、2012年にはGoogle、Twitter、Amazon、Appleのアカウントを、またMacBookやiPhoneへのアクセスを失いました。 ハッカーがソーシャルエンジニアリングを適用しし、Honan氏のアカウントへ侵入したのです。しかも、ハッカーたちは3文字のTwitterのハンドルネームを参照しただけだったのです。 なんとも痛い損失でした。Honan氏の一番の後悔は、データをバックアップしておらず、アカウントに2FAを使用していなかった、ということでした。
 
-## What is Two Factor Authentication?
+
+## 2FA(二要素認証、多要素認証）って何？
 
 Two factor authentication (2FA) makes use of a combination of two of the following to authenticate user identity:
 
