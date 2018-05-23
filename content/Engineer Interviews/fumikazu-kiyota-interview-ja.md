@@ -2,7 +2,7 @@ Title: 清田史和氏: エンジニアに必要なのは世界を知り、人�
 Date: 2018-05-15 10:00
 Author: Iqbal Abdullah
 Tags: interviews; engineer; amazon; peatix; cookpad; github; sixapart; yahoo; 2018;
-Lang: en
+Lang: ja
 Slug: interview-with-daisuke-horie
 Summary: 料理アプリ「Snap Dish」等のサービス開発エンジニア業務のみならず、家業の幼稚園や、コーヒー会社の経営も手がける、Xoxzoと親交のある多才なエンジニアで、株式会社VUZZ 取締役CTOを務める、清田史和さんにインタビューしました。
 
