@@ -6,7 +6,7 @@ Slug: introduction-2fa-sms
 Lang: en
 Summary: Let's learn how to add Two-Factor Authentication on your Web-applications
 
-いろいろなWebサービスで、ユーザIDとパスワードが流出し、アカウントが乗っ取られて不正に利用されるという問題が多発しています。
+There are many cases of いろいろなWebサービスで、ユーザIDとパスワードが流出し、アカウントが乗っ取られて不正に利用されるという問題が多発しています。
 このような問題を防ぐ手段として、ユーザーの携帯番号を確認するのが一般的になってきました。
 仮にIDとパスワードが盗まれても、それだけではアカウントは使えず、なにか追加の手段で、利用者が本当に登録した本当であるかどうか確認しようとするのが、
 二要素認証の考え方です。XOXZOのテレフォニーAPIの使われ方の中で、最も多いものの一つも二要素認証です。
