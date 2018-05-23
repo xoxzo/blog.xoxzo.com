@@ -6,58 +6,59 @@ Slug: introduction-2fa-sms
 Lang: en
 Summary: Let's learn how to add Two-Factor Authentication on your Web-applications
 
-There are many cases of いろいろなWebサービスで、ユーザIDとパスワードが流出し、アカウントが乗っ取られて不正に利用されるという問題が多発しています。
-このような問題を防ぐ手段として、ユーザーの携帯番号を確認するのが一般的になってきました。
-仮にIDとパスワードが盗まれても、それだけではアカウントは使えず、なにか追加の手段で、利用者が本当に登録した本当であるかどうか確認しようとするのが、
-二要素認証の考え方です。XOXZOのテレフォニーAPIの使われ方の中で、最も多いものの一つも二要素認証です。
+There are many cases that user IDs and passwords are leaked by various Web services, 
+accounts are compromised and illegally used.
+As a means to prevent such troubles, it is becoming more common to confirm the mobile number of the user.
+Even if ID and password are stolen, it is impossible to use the account alone, and it is the idea of two-factor authentication to try to confirm whether or not the user is really registered by some additional means.
+This is the popular use-case within all what Xoxzo API users do with Xoxzo.
 
-Webサービスで、SMSを使った二要素認証を導入するとすれば、その流れは、おおよそ次のようになるでしょう。
+How will we introduce two-factor authentication using SMS in the web service then?
+The flow will be roughly as follows.
 
-1. ユーザのアカウント登録時には、あらかじめ本人の携帯番号を登録してもらう。
-1. Webサービスにユーザーがログインしようとする。
-1. Webサービス内で、4桁から6桁程度のランダムな暗証番号を生成する。
-1. ユーザーが登録している電話番号へSMSでその暗証番号を送る。
-1. Webサービスで、暗証番号を入力してもらう。
+1. Let the users to register with their mobile phone numbers at the first creation of their account.
+1. A user tries to log in to a Web-service.
+1. Generate a random 4 -6 digits PIN within the Web-service.
+1. Send that PIN to the registered mobile phone number of the user via SMS.
+1. User input that PIN to the Web-service.
 
-暗証番号が一致すれば、たしかにログインしようとしているユーザーは、本人の携帯電話を所持していることになりますでの、ログインを許可することになります。
-逆に、正しい暗証番号が入力されなければ、そのユーザーが本人であるか怪しいので、ログインを拒否することになります。
+Log-in will be accepted if the input PIN matches with the generated PIN, by the mean of confirming the log-in user surely posess the mobile phone.
+Log-in will be rejected conversely, in case the input PIN doesn't match, which means the log-in user cannot be confirmed as the account holder.
 
-暗証番号をSMSで送信するPython[^1]のコード例を次に示します。
+Here is a sample code to send a PIN via SMS with Python[^1].
 
     import os
     import secrets
     from xoxzo.cloudpy import XoxzoClient
     
-    # ２要素認証をSMSで行うためのサンプルコード
+    # Sample code to execute two-factor-authentication by SMS
     
-    # ４桁のランダムな暗証番号を生成します
+    # Generate 4 digit random PIN
     secret_key = secrets.randbelow(10000)
-    message = "こちらはXOXZOです。あなたの暗証番号は %04d です" % secret_key
+    message = "This is Xoxzo. Your PIN is %04d" % secret_key
     
-    # APIを呼び出すための秘密鍵は、環境変数に保存されているものとします
-    # SIDとTOKENは https://www.xoxzo.com/ からサインアップして入手してください
+    # Assume that the secret key to call API is saved as an enviroment variable
+    # Please retrieve your SID and TOKEN from your signed in account on https://www.xoxzo.com/
     sid = os.getenv('XOXZO_API_SID')
     auth_token = os.getenv('XOXZO_API_AUTH_TOKEN')
     
-    # SMSの送信
+    # Sending SMS
     xc = XoxzoClient(sid=sid, auth_token=auth_token)
     result = xc.send_sms(message=message, recipient="+818054695209", sender="XOXZO")
 
-このコードを実行すると、次のようなSMSがユーザーの携帯電話に届くはずです。
+This code will send the message as below to the user's phone.
 
 <br>
 ***
 <br>
-![SMS PIN](/images/introduction-2fa-sms/sms-2fa-ja.jpg)
+![SMS PIN](/images/introduction-2fa-sms/sms-2fa-en.jpg)
 <br>
 <br>
 
-この後、ユーザーに暗証番号の入力を求めるフォームを表示して、それが *secret_key* と一致すれば認証成功です。
+Please display the form to request the PIN input, the authentication will be successful if the input PIN matches with the *secret_key*.
  
-#まとめ
+#Summary
 
-以上、簡単なSMS二要素認証の紹介をしました。
-この方式を導入すると、例えば一人の人間が複数のアカウントを作り、目的に応じて使い分けるといった裏アカウントを防ぐこともできます。
+This is an introduction of simple Hot-to for two-factor authentication using SMS.
+With implement of this method, you may avoid the multiple account creation by a user for each of their purpose.
 
-[^1]:Python3.6以降の利用を想定しています。それよりも前のPythonには標準では *secrets* パッケージがないので、
-適当な乱数生成ライブラリを使う必要があります。
+[^1]: It is assumed to use Python 3.6 or later. There is no *secrets* package by default in Python before that ver., so you will need to use the appropriate random number generation library.
