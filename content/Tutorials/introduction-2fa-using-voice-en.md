@@ -41,8 +41,8 @@ def two_fa_voice():
     # Generating random PIN
     secret_key = secrets.randbelow(10000)
     message = gen_voice_msg(secret_key)
-    # APIを呼び出すための秘密鍵は、環境変数に保存されているものとします
-    # SIDとTOKENはhttps://www.xoxzo.com/からサインアップして入手してください
+    # Assume that the secret key to call API is saved as an environment variable
+    # Please retrieve your SID and TOKEN from your signed in account on https://www.xoxzo.com/
     sid = os.getenv('XOXZO_API_SID')
     auth_token = os.getenv('XOXZO_API_AUTH_TOKEN')
 
@@ -52,9 +52,10 @@ def two_fa_voice():
 
 
 def gen_voice_msg(secret_key, key_length=4):
-    prefix_str = "こんにちは、ゾクゾーです。これからお伝えする暗証番号は誰にも教えないでください。あなたの暗証番号は、"
-    mid_str = "です。繰り返します。あなたの暗証番号は、"
-    postfix_str = "です。ご利用、どうもありがとうございました。"
+    prefix_str = "Hello This is Xoxzo. Please do not disclose the Pin number that you are going to hear.
+Your Pin number is"
+    mid_str = "I repeat, your Pin number is"
+    postfix_str = "Thank you for using, good bye."
     fmt_str = "%%0%dd" % key_length
     num_str = fmt_str % secret_key
 
@@ -70,5 +71,4 @@ This is how you can execute two-factor authentication using VOICE.
 Different from the text sending SMS, there requirs some heartful care 
 to create a message that is easy to listen.
 
-[^1]:Python3.6以降の利用を想定しています。それよりも前のPythonには標準では *secrets* パッケージがないので、
-適当な乱数生成ライブラリを使う必要があります。
+[^1]:It is assumed to use Python 3.6 or later. There is no *secrets* package by default in Python before that ver., so you will need to use the appropriate random number generation library.
