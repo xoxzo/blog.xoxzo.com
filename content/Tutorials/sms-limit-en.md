@@ -32,7 +32,7 @@ _Introduction_
 
 __Thank you for shopping at Xoxzo.（30 - 40 letters）__
 
-_そして、用件_
+_and the message_
 
 __Please contact us for any questions you may have during the use.（70 - 80 characters）__
 
