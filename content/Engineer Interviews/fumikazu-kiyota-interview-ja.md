@@ -10,7 +10,7 @@ Summary: 料理アプリ「SnapDish」等のサービス開発エンジニア業
 今回は、XOXZOと親交のあるエンジニアをご紹介します。
 紹介するのは、料理アプリ「SnapDish」を手がける㈱Vuzz 取締役CTOである清田史和さんです。
 
-![Daisuke Horie]({filename}/images/engineer-interviews/fumikazu-kiyota-picture.jpg)
+![Fumikazu-Kiyota]({filename}/images/engineer-interviews/fumikazu-kiyota-picture.jpg)
 
 清田さんは、サービス開発エンジニア業務のほか、家業の幼稚園やコーヒー会社の経営者でもあります。最近では、九州エリアをベースに、PyCon JPの活動も精力的に行っています。
 そんな清田さんに、エンジニアのキャリア形成や、エンジニアにとって大切なことなどを伺いました。
@@ -46,7 +46,7 @@ Summary: 料理アプリ「SnapDish」等のサービス開発エンジニア業
 >本当に忙しく、動きが目まぐるしく早かったですね。入ってすぐ自分でPCを組み立てたり、とにかく全部自分でやる、という会社でした。
 >この経験は今も役立っています。
 
-![Daisuke Horie]({filename}/images/engineer-interviews/daisuke-horie-picture2.jpg)
+![Fumikazu-Kiyota]({filename}/images/engineer-interviews/daisuke-horie-picture2.jpg)
 
 **オン・ザ・エッジではどんな仕事をしていましたか？**
 
