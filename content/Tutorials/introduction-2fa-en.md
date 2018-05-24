@@ -36,7 +36,7 @@ Here is a sample code to send a PIN via SMS with Python[^1].
     secret_key = secrets.randbelow(10000)
     message = "This is Xoxzo. Your PIN is %04d" % secret_key
     
-    # Assume that the secret key to call API is saved as an enviroment variable
+    # Assume that the secret key to call API is saved as an environment variable
     # Please retrieve your SID and TOKEN from your signed in account on https://www.xoxzo.com/
     sid = os.getenv('XOXZO_API_SID')
     auth_token = os.getenv('XOXZO_API_AUTH_TOKEN')
