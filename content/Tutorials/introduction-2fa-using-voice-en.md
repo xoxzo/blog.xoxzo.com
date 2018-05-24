@@ -1,33 +1,34 @@
 Title: How to set up Two-Factor Authentication using VOICE
-Date: 2018-05-14 10:00
+Date: 2018-05-25 10:00
 Author: Akira Nonaka
 Tags: 2FA; Tutorial; Voice; API;
 Slug: introduction-2fa-voice
 Lang: en
-Summary: Learn how to add Two-Factor Authentication on your Web-applications!
+Summary: Learn how to add Two-Factor Authentication using VOICE on your Web-applications!
 
 
-さて前回は、SMSを使った二要素認証の導入方法をご紹介しました。
-しかし、どうしてもSMSが利用できない場合もあります。
-例えば、電話番号が固定電話の場合などです。
-音声電話を使うと、このような場合でも暗証番号を目的の相手に届けることができます！
+[Last tutorial was to show you how to introduce two-factor authentication using SMS.](/introduction-2fa-en.md)
+But we have some situation that we cannot use SMS.
+For example, the case that the recipient's phone is a landline, not a mobile phone.
+Do not worry, we can still deliver the PIN using [VOICE API](https://www.xoxzo.com/en/about/voice-api/).
 
-音声電話では、暗証番号が聞き取り易いように、メッセージの形式に少し注意が必要です。
+There needs some attention on formatting the message, when you use VOICE API, as we want the recipients to be able to properly hear the PIN.
 
-1. 暗証番号は、最低でも2回繰り返す。
-1. 相手が電話に出ても、暗証番号の読み上げをはじめるまで、少しの間をおくようにする。
+1. Repeat the PIN readouts at least twice
+1. Add an appropriate pausing before starting the PIN readouts after the call is picked.
 
-こういった注意をすることで、相手がメモを準備するなどの、余裕をあげることができるでしょう。
-例えば、こんなメッセージににします。
+This kind care of your heart will give a good extra space to the recipients to perhaps parepare for their jotting down.
+
+This is the message example.
 ```
-こんにちは、ゾクゾーです。これからお伝えする暗証番号は誰にも教えないでください。
-あなたの暗証番号は、数字の9,数字の7,数字の2,数字の9,です。
-繰り返します。
-あなたの暗証番号は、数字の9,数字の7,数字の2,数字の9,です。
-ご利用、どうもありがとうございました。
+Hello This is Xoxzo. Please do not disclose the Pin number that you are going to hear.
+Your Pin number is number nine, number seven, number two and number nine.
+I repeat.
+Your Pin number is number nine, number seven, number two and number nine.
+Thank you for using, good bye.
 ```
 
-Python[^1]のサンプルコードを以下に示します。基本的にSMSのときと同じ構造ですが、メッセージを生成するところに、少し工夫がしてあります。
+Please find the sample code with Python[^1]. Although the basic structure is the same as sending by SMS, you will see a tiny wisdom at the message generation procedure.
 
 ```
 import os
@@ -36,8 +37,8 @@ from xoxzo.cloudpy import XoxzoClient
 
 
 def two_fa_voice():
-    """ 2要素認証を音声電話で行う　"""
-    # ランダムな暗証番号を生成します
+    """ two-factor authentication by VOICE　"""
+    # Generating random PIN
     secret_key = secrets.randbelow(10000)
     message = gen_voice_msg(secret_key)
     # APIを呼び出すための秘密鍵は、環境変数に保存されているものとします
@@ -45,7 +46,7 @@ def two_fa_voice():
     sid = os.getenv('XOXZO_API_SID')
     auth_token = os.getenv('XOXZO_API_AUTH_TOKEN')
 
-    # 音声電話の発信
+    # Calling recipient phone
     xc = XoxzoClient(sid=sid, auth_token=auth_token)
     result = xc.call_tts_playback(caller="0801234567", recipient="+818054695209", tts_message=message, tts_lang="ja")
 
@@ -59,14 +60,15 @@ def gen_voice_msg(secret_key, key_length=4):
 
     key_str = ""
     for st in num_str:
-        key_str += "数字の%s," % st
+        key_str += "Number %s," % st
     return prefix_str + key_str + mid_str + key_str + postfix_str
 ```
  
-#まとめ
+#Summary
 
-音声電話による二要素認証の実現方法を紹介しました。SMSによるテキスト通信とは異なり、
-音声電話では相手が内容を聞き取りやすいメッセージにすることが大切です。
+This is how you can execute two-factor authentication using VOICE. 
+Different from the text sending SMS, there requirs some heartful care 
+to create a message that is easy to listen.
 
 [^1]:Python3.6以降の利用を想定しています。それよりも前のPythonには標準では *secrets* パッケージがないので、
 適当な乱数生成ライブラリを使う必要があります。
