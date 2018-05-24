@@ -1,68 +1,68 @@
 Title: How to deal with text-count limit on SMS messages
 Date: 2017-12-28 17:00:00
-Modified: 2018-5-18 15:00:00
+Modified: 2018-5-24 15:00:00
 Slug: sms-limit
 Lang: en
 Tags: SMS; 
 Author: Aiko Yokoyama
-Summary: Eメールに比べて、気軽に送ることができ、しかも開封率の高いSMSは、ビジネス・マーケティングなどにも強い味方です。しかしその文面は、文字制限によって頭を悩ませるところでもあります。ここでは、ちょっとした工夫で、便利になる使い方をご紹介します。
+Summary: SMS is a great friend fo marketing as it has higher opening rates and simple and easy to send. A little concern is there is a limit in body text. Here we can introduce some tips to use SMS more convenient.
 
 
-Xoxzoの[SMS配信API](https://www.xoxzo.com/ja/about/sms-api/)や、[EZSMSのWebから送信](https://www.ezsms.biz/ja/faq/web-sms/)、及び[ダイヤルSMS](https://www.ezsms.biz/ja/faq/dialsms/)を使うと、自分の携帯電話から宛先や本文を入力することなく、多くの宛先へ送ったり、より使い勝手の良い方法で、SMS配信を行うことができます。
+Using Xoxzo[SMSAPI](https://www.xoxzo.com/en/about/sms-api/),[EZSMS](https://www.ezsms.biz/ja/faq/web-sms/)(Japanese only)、and [DialSMS](https://www.ezsms.biz/ja/faq/dialsms/) you can send SMS messages by not typing the recipients numbers nor body text on your phone but on your PC, you may send more number of people with ease too.
 
-Eメールに比べて、気軽に送ることができ、しかも開封率の高いSMSは、ビジネス・マーケティングを始め、様々な場面であらゆる目的に使われているのです。例えば、
+SMS is utilized in many scenes including business and marketing, as it is simple and easy to send and has higher opening rates than emails. For example:
 
-+ オンライン登録時の確認パスワード通知
-+ 請求書に対する未払い通知
-+ 過去のイベント参加者へ、次回イベント開催通知
-+ 順番待ちの間、その場を離れる顧客や患者への帰来依頼
-+ 災害時、ネット環境がなくても、携帯電話へ非常時の案内を送信
-+ 大規模な組織内での、会議開催の詳細や、その変更通知
-+ 社内連絡やリマインダー
++ Notification of Password confirmation on Online registration
++ Payment reminders to unpaid invoices
++ Next event notice to the past even visitors
++ Request for returning to the customers/patients who goes away from waiting room
++ Emergency notification on desaster without internet connection
++ Meeting minutes and changes reminder within the large organization
++ Corporate notifications and reminders
 
-など、例を挙げると尽きることはありません。
+The list continues on.
 
-ただ、その本文には、頭を悩ませることがあります。なぜなら、SMSの本文は全角70字まで。この制限の中で、より相手に響く文言を考えたり、要領よく伝えたいことをまとめるのは、案外難しいのです。
+But it is not easy to write the message text. Because SMS can include only up to 160 ASCII characters. It is unexpectedly difficult to summarize the well-noticeable contents within that limitation.
 
-_まずは、宛先人_
+_First, whom you talk to_
 
-__◯◯様　（3字）__
+__To XXX　（7 - 10 letters）__
 
-_ひとこと_
+_Introduction_
 
-__XXの購入ありがとうございました。（17字）__
+__Thank you for shopping at Xoxzo.（30 - 40 letters）__
 
 _そして、用件_
 
-__ご利用中不明な点がありましたら、ご連絡ください。（23字）__
+__Please contact us for any questions you may have during the use.（70 - 80 characters）__
 
-_連絡先_
+_Contact_
 
-__電話：0123-456-789 (15字)__
+__Phone: 0123-456-789 (20 characters)__
 
-_差出人_
+_who you are_
 
-__◯◯より（4字）__
+__by Xoxzo sales dept (10 letters)__
 
-これだけの内容で、62字になりました。製品名や宛先の名前が長ければ、もういっぱいいっぱいですね。
+This makes almost 160 characters, almost the limit.
 
-要約の訓練と思って、辞書を引いて同義語の文字数を少ないものを探したりしても、楽しいかもしれませんが、案内の内容が多くなれば、すべてをSMS内に含めるのは不可能です。昨今のスマートフォンの普及率を考えれば、__本文内に、ご案内内容を記したウェブページのURLを含めておき__ SMSからウェブへ移動して内容を確認してもらうのが、一番です。
+It might be a fun to consider this as your summarize lesson, look up dictionaries and try to find a better wording. But it will be impossible to fit all in if you want to notify much more contents in your SMS. Taking the usage rate of smartphones of recent world, it will be better to fit all what you want to notify in a webpage, send the __URL link of the page__ in the SMS message.
 
-しかし、ウェブページのURLは、`https://www.xoxzo.com/ja/` のように、いつもすっきりと短いとは限りません。URLだけで、70字以上！という例もあります。
+Well though, the link URL is not as short and clear as `https://www.xoxzo.com/ja/` always, it can go over 160 characters sometimes.
 
-そんな時には、短縮URLを使いましょう。
+Let's use the service to shorten the URL then.
 
-【短縮URLが簡単に作成できるサービス】
+【The services that you can shorten your URL easily】
 
-[bit.ly](https://bitly.com/)(英語)
+[bit.ly](https://bitly.com/)
 
-[Google URL Shortener](https://goo.gl/) （英語）
+[Google URL Shortener](https://goo.gl/) 
 
 [Syncer](https://syncer.jp/url-shortener)
 
-どれも、簡単に使えるものですが、自己責任にてお使いください。
+Please use these on your own responsibility.
 
-このように、70字という制限された文面にも、託せる内容は無限にあります。文面も、使い方も、使う人のアイディア次第です。[SMS送信](https://www.xoxzo.com/ja/about/sms-api/)を、有効に楽しくお使いください。
+It is all up to you and your idea to make the most of 160 characters, using [SMS](https://www.xoxzo.com/en/about/sms-api/).
 
 
 
