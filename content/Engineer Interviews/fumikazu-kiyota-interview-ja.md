@@ -46,7 +46,7 @@ Summary: 料理アプリ「SnapDish」等のサービス開発エンジニア業
 >本当に忙しく、動きが目まぐるしく早かったですね。入ってすぐ自分でPCを組み立てたり、とにかく全部自分でやる、という会社でした。
 >この経験は今も役立っています。
 
-![Fumikazu-Kiyota]({filename}/images/engineer-interviews/daisuke-horie-picture2.jpg)
+![Fumikazu-Kiyota]({filename}/images/engineer-interviews/daisuke-horie-picture02.jpg)
 
 **オン・ザ・エッジではどんな仕事をしていましたか？**
 
