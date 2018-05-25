@@ -5,6 +5,7 @@ Author: Kamal Mustafa
 Category: Engineering
 Tags: git, svn, version control
 Slug: svn-stash
+Summary: regarding `stash` command.
 
 Update 2012-05-02 - Add new use-case when merging from trunk.
 
