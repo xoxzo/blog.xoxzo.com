@@ -58,7 +58,7 @@ Please display the form to request the PIN input, the authentication will be suc
  
 #Summary
 
-This is an introduction of simple Hot-to for two-factor authentication using SMS.
+This is an introduction of simple How-to for two-factor authentication using SMS.
 With implement of this method, you may avoid the multiple account creation by a user for each of their purpose.
 
 [^1]: It is assumed to use Python 3.6 or later. There is no *secrets* package by default in Python before that ver., so you will need to use the appropriate random number generation library.
