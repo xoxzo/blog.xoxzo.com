@@ -2,10 +2,10 @@ Title: [Xoxzo] フリーダイヤル価格上昇に伴う、料金改定のお�
 Date: 2016-07-28 10:03
 Author: Aiko Yokoyama
 Tags: dial in numbers, 料金改定, フリーダイヤル
-Slug: xoxzoprice-revision-for-dial-in-numbers
 Lang: ja
+Slug: xoxzoprice-revision-for-dial-in-numbers
+Summary: 日本のフリーダイヤルと03番号の価格上昇に伴う料金改定を行います。
 
-[![Xoxzoロゴ]({filename}/images/xoxzo-logo-02.png)](https://www.xoxzo.com/ja/)
 
 平素は[Xoxzo　クラウド・テレフォニー・プラットフォーム](https://www.xoxzo.com/ja/)をご利用いただきましてありがとうございます。
 

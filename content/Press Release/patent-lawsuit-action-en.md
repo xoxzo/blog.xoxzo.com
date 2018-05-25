@@ -1,7 +1,7 @@
 Title: 特許侵害訴訟の提起について（特許第4889813号 ）
 Date: 2012-12-28 20:00
 Author: Iqbal Abdullah
-Lang: ja
+Lang: en
 Tags: ショートメッセージ, メディアネットワークサービス, 特許, EZSMS, 訴訟, wing-sms
 Slug: patent-lawsuit-action
 Summary: 特許侵害訴訟の提起に関するお知らせです。

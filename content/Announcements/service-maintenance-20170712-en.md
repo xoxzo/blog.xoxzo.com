@@ -5,6 +5,7 @@ Lang: en
 Modified: 2017-07-13 09:30
 Tags: downtime; 
 Author: Aiko Yokoyama
+Summary: Temporary downtime for maintenance notice.
 
 On the upcoming Sunday, July 16,2017 Xoxzo Cloud Telephony platform will do a necessary updates on it's system. The necessary downtime for this purpose will start 0830 (JST) for about 10 minutes. During this time users will not be able to use any part of our service of Xoxzo, including sending SMSs.
 
