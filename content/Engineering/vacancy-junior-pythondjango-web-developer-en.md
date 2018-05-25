@@ -4,6 +4,7 @@ Author: Kamal Mustafa
 Tags: developer, django, python, vacancy
 Slug: vacancy-junior-pythondjango-web-developer
 Lang: en
+Summary: Yes, we are hiring
 
 MARIMORE ENGINEERING SDN. BHD. develops and maintains Django/Python
 based web applications for our clients. We rely heavily on open source
