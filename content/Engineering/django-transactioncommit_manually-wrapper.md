@@ -4,6 +4,7 @@ Author: Kamal Mustafa
 Tags: django
 Slug: django-transactioncommit_manually-wrapper
 Lang: en
+Summary: Finding the solution for `TransactionManagementError`
 
 I first [encountered this
 problem](http://metaKamal%20Mustafa.blogspot.com/2011/05/django-transactioncommitmanually-mask.html)
