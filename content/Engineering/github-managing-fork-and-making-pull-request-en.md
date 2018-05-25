@@ -5,6 +5,7 @@ Category: Engineering
 Tags: git, github, version control
 Slug: github-managing-fork-and-making-pull-request
 Lang: en
+Summary: Here is how you can make the most of using Github
 
 It's common when you're using a third party library, there's come a
 point when you need to make some changes to accomodate your project
