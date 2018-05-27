@@ -4,6 +4,7 @@ Author: Kamal Mustafa
 Tags: python
 Slug: understanding-python-import
 Lang: en
+Summary: A guide to python import 01
 
 There's a lot have been written on understanding Python import so I'm
 not sure whether this one would help to clear the confusion or just add
