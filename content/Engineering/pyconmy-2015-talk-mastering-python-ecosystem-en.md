@@ -4,6 +4,7 @@ Lang: en
 Author: Kamal Mustafa
 Tags: pycon, python, talk
 Slug: pyconmy-2015-talk-mastering-python-ecosystem
+Summary: A talk given to the very first PyCon in Malaysia
 
 Pycon Malaysia (PyconMY) 2015 just wrapped up last week. This is the
 first ever Python conference in Malaysia after a [mini
@@ -12,8 +13,8 @@ held last year. It was held in Universiti Malaya (UM), Kuala Lumpur.
 Unfortunately, due to some emergency with my family, I have to leave
 early after delivering my talk and basically missed the whole event.
 
-![pycon1]({filename}/images/pycon1.jpg)
-![pycon2]({filename}/images/pycon2.jpg)
+![pycon1](/images/pycon1.jpg)
+![pycon2](/images/pycon2.jpg)
 
 Throughout the talk, I try to give broad general overview of what they
 can expect if they were some day decide to adopt Python into their work

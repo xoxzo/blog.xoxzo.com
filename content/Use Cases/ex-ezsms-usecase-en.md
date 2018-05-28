@@ -3,7 +3,7 @@ Date: 2014-08-05 10:10
 Author: Aiko Yokoyama
 Tags: ex, ezsms, use cases, pr, ショートメッセージ
 Slug: ex-ezsms-usecase
-Lang: ja
+Lang: en
 Summary: 株式会社EXは、運営サイト・アプリに、EZSMSの電話番号認証システム、ダイヤルSMSを導入しています。
 
 

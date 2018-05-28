@@ -4,6 +4,7 @@ Author: Aiko Yokoyama
 Tags: python
 Slug: a-python-basic-class-in-tokyo-feb-6-2016
 Lang: en
+Summary: An attendant report to a python class in Tokyo.
 
 [![logo](https://xoxzoblog.files.wordpress.com/2016/02/logo.png?w=150)](https://djangogirls.org/)
 

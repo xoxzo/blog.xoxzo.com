@@ -14,7 +14,7 @@ We had discussed the many possible applications of SMS and Voice in businesses a
 
 ## Types of Security Breach
 
-The 5 common and distinct types of security beach are:
+The 5 common and distinct types of security breach are:
 
 * Phishing and Social Engineering
 

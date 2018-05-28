@@ -3,7 +3,7 @@ Date: 2015-04-27 11:00
 Author: Aiko Yokoyama
 Tags: ezsms, 株式会社あおば堂, ショートメッセージ, 通知補助手段
 Slug: aoba-ezsms-usecase
-Lang: ja
+Lang: en
 Summary: 株式会社あおば堂がメールが受信できない顧客への、補助連絡手段に、EZSMSを導入
 
 ![EZSMSロゴ]({filename}/images/ezsms_logo1.png)
