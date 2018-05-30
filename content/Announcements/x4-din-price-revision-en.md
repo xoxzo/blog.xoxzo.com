@@ -4,8 +4,8 @@ Author: Aiko Yokoyama
 Tags: dial in numbers, price, xoxzo
 Lang: en
 Slug: xoxzoprice-revision-for-dial-in-numbers
+Summary: We're revising our prices for our Japan toll-free and 03 Dial In Numbers
 
-[![Xoxzoロゴ]({filename}/images/xoxzo-logo-02.png)](https://www.xoxzo.com/en/)
 
 Thank you for using our service, [Xoxzo - Cloud Telephony
 Platform.](https://www.xoxzo.com/en/)

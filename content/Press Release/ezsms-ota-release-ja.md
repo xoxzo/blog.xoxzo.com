@@ -4,6 +4,7 @@ Author: Iqbal Abdullah
 Tags: プレスリリース, メールアドレス, 認証・承認, OTA, SMS, 携帯電話
 Slug: ezsms-ota-release
 Lang: ja
+Summary: メールアドレスと携帯番号を連携とする新型の認証サービスをリリースしました。
 
 弊社運営[「SMS配信APIサービスEZSMS」](https://www.ezsms.biz/ja/)は2012年2月2日よりOTA認証サービスをリリースしました。
 

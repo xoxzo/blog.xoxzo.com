@@ -4,6 +4,7 @@ Author: Kamal Mustafa
 Tags: distribute, easy_install, pip, pypi, python, setuptools
 Slug: releasing-dev-version-of-your-package-to-pypi
 Lang: en
+Summary: release dev version of your package to PyPI
 
 [PyPI](http://pypi.python.org/pypi) (Python Package Index) has become a
 central place for python developers these days to look for third party

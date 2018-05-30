@@ -3,7 +3,7 @@ Date: 2012-04-13 10:00
 Author: Iqbal Abdullah
 Tags: ezsms, smsのapi配信, 株式会社オレンジスピリッツ
 Slug: orangespirits-ezsms-usecase
-Lang: ja
+Lang: en
 Summary: 株式会社オレンジスピリッツは、情報通知サービスに、EZSMSを導入しています。
 
 システム事業を展開する[株式会社オレンジスピリッツ](http://www.orange-spirits.com/)（本社：東京都文京区、代表取締役：野口洋一）は、この度株式会社Xoxzo（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）が運営する[「SMS配信APIサービスEZSMS」](http://www.ezsms.biz/ja)を、情報通知サービスに利用する事となりました。

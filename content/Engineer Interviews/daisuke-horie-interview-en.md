@@ -7,7 +7,7 @@ Slug: interview-with-daisuke-horie
 Summary: We interviewed Daisuke Horie, who went from companies like Yahoo, Amazon and Github and now in his latest role in Peatix on his takes on the technolgy sector and what it means to be a good engineer.
 
 Daisuke Horie, or known on Twitter as [@dice](https://twitter.com/dice) is
-currently the VP of Engineering for [Peatix](https://peatix.com/), a mobile ticketing platform.
+currently the VP of Engineering for [Peatix](https://peatix.com/), a community and event management platform.
 On his journey through the technology industry landscape, he has worked through
 numurous big names companies like Amazon, Yahoo, Six Apart, Cookpad and Github.
 Dice was kind enough to answer our questions by email on what he thinks about
