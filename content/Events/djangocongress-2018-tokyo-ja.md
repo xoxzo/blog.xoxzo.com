@@ -2,9 +2,9 @@ Title:  DjangoCongress JP 2018 SPRINT  参加報告
 Date: 2018-05-31
 Slug: djangocongress-tokyo-2018
 Lang: ja
-Tags: 2018; Django; 東京; オープンソース;
+Tags: 2018; Django; 東京; オープンソース; djangocongress
 Author: Akira Nonaka
-Summary: 
+Summary: DjangoCongress JP 2018 SPRINTの参加レポートです
 
 5月20日 [DingoCongress](https://djangocongress.jp)の２日目のSPRINTに参加してきました。
 DingoCongressは、日本で最初のDjango Webフレームワークのカンファレンスです。
