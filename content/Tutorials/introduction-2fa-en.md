@@ -15,7 +15,7 @@ This is the popular use-case within all what Xoxzo API users do with Xoxzo.
 How will we introduce two-factor authentication using SMS in the web service then?
 The flow will be roughly as follows.
 
-1. Let the users to register with their mobile phone numbers at the first creation of their account.
+1. Let the users register with their mobile phone numbers at the first creation of their account.
 1. A user tries to log in to a Web-service.
 1. Generate a random 4 -6 digits PIN within the Web-service.
 1. Send that PIN to the registered mobile phone number of the user via SMS.
@@ -54,7 +54,7 @@ This code will send the message as below to the user's phone.
 <br>
 <br>
 
-Please display the form to request the PIN input, the authentication will be successful if the input PIN matches with the *secret_key*.
+Please display the web-form to request the PIN input, the authentication will be successful if the input PIN matches with the *secret_key*.
  
 #Summary
 
