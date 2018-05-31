@@ -9,10 +9,10 @@ Summary: DjangoCongress JP 2018 SPRINTの参加レポートです
 5月20日 [DingoCongress](https://djangocongress.jp)の２日目のSPRINTに参加してきました。
 DingoCongressは、日本で最初のDjango Webフレームワークのカンファレンスです。
 本当は、１日目からちゃんと参加したかったのですが、あっという間にチケットが売り切れてしまい、参加できませんでした。
-２日目は[SPRINT](https://djangocongress.jp/#sprint)と言って、Djangoのソースコード開発やドキュメントの翻訳を、みんなで集まってします。
+２日目は[SPRINT](https://djangocongress.jp/#sprint)と言って、みんなで集まってDjangoのソースコード開発やドキュメントの翻訳をするのです。    
 
 最初に簡単なチュートリアルがあり、必要な基礎知識、バグチケットの扱い方、テストのやり方、
-ドキュメント翻訳ツールの解説などをしてもらいました。
+ドキュメント翻訳ツールなどの解説をしてもらいました。
 
 その後は、各自黙々と作業をします。本当に黙々と作業をして、あっという間に一日が終わりました。
 
