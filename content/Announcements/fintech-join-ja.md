@@ -1,12 +1,10 @@
-Title: Xoxzoは Fintech協会に入会しました。
+Title: Xoxzoは Fintech協会に入会しました
 Date: 2018-06-01 12:00
 Slug: fintech-join
 Lang: ja
 Tags: Xoxzo; fintech; 2018;
 Author: Aiko Yokoyama
 Summary: Fintech協会は、Fintech市場の活性化、および世界の金融業界における日本のプレゼンス向上に貢献する活動を行っています。XoxzoのAPIが今後、オンラインセキュリティその他の分野で、この業界で活躍する開発者方の活性化の後押しができるよう、望んでいます。
-
-
 
 ## Fintech　協会に加盟
 
@@ -15,7 +13,7 @@ Summary: Fintech協会は、Fintech市場の活性化、および世界の金融
 関係省庁（金融庁、経済産業省、財務省等）や関係団体（全国銀行協会等）との連携、および意見交換（ガイドライン等）を含めた、
 ビジネス機会創出のための各種活動を行っています。
 
-## その名の通り、Fintech とは、金融x IT技術のこと
+## その名の通り、Fintech とは、金融 x IT技術のこと
 
 [Xoxzoの提供するAPI](https://www.xoxzo.com/ja/)が、[マーケティングやノーティフィケーション](https://www.xoxzo.com/ja/about/use-cases/customer-alert-and-notification/)、[予約や支払いのリマインダー](https://www.xoxzo.com/ja/about/use-cases/appointment-reminder/)等に、多く使われているIT技術であるのはもちろんです。
 しかし、個人特定性の高い携帯番号を使うことで「確実性」が高く、「到達率」も「開封率」も高いSMSが httpを使って送信できる、
