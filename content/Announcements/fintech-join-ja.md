@@ -6,6 +6,8 @@ Tags: Xoxzo; fintech; 2018;
 Author: Aiko Yokoyama
 Summary: Fintech協会は、Fintech市場の活性化、および世界の金融業界における日本のプレゼンス向上に貢献する活動を行っています。XoxzoのAPIが今後、オンラインセキュリティその他の分野で、この業界で活躍する開発者方の活性化の後押しができるよう、望んでいます。
 
+![fintech-logo](image/fintech-logo.png)
+
 ## Fintech協会に加盟
 
 [一般社団法人Fintech協会](https://fintechjapan.org/) (東京都中央区、代表理事会長：丸山弘毅)は、
