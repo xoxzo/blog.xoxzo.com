@@ -4,9 +4,10 @@ Slug: fintech-join
 Lang: en
 Tags: Xoxzo; fintech; 2018;
 Author: Aiko Yokoyama
+Thumbnail: /images/client-logos/fintech-logo.png
 Summary: The Fintech Association of Japan (FAJ) promotes open innovation in the Japanese fintech industry. Xoxzo believes our APIs vitalize developers in this industry for additional online security, plus more.
 
-![fintech-logo](/images/client-logos/fintech-logo.png)
+[![fintech-logo](/images/client-logos/fintech-logo.png)](https://fintechjapan.org/)
 
 [**The Fintech Association of Japan (FAJ)**](https://fintechjapan.org/en/about) promotes open innovation in the Japanese fintech industry by creating networking opportunities for its members, researching emerging market trends, and cooperating with domestic, international, and government organizations. The Association promotes the Japanese fintech ecosystem abroad and encourages the exchange of information internationally. (from their website)
 
