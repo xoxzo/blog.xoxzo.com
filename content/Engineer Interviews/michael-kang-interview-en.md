@@ -1,14 +1,13 @@
 Title: Michael Kang: Diagnostic skill and logical thinking are the most desirable skills
-Date: 2018-06-08 10:00
+Date: 2018-06-08 12:00
 Author: Ai Sin Chan
-Tags: interviews; engineer; michael kang; amazon; peatix; cookpad; github; sixapart; yahoo; 2018;
+Tags: interviews; engineer; michael kang; malasya; myebills; 2018;
 Lang: en
-Thumbnail: images/michaelkang.jpg
 Slug: interview-with-michael-kang
+Thumbnail: images/michaelkang.jpg
 Summary: We interviewed Michael Kang, Technical Director for MYeBills Consulting.
 
  
-
 I had the pleasure of a chat over the web with Mr. Michael Kang, who started his career in software development 17 years ago as a software engineer. He is now the Technical Director for MYeBills Consulting Sdn. Bhd., A Malaysia based company that specializes in electronic billing and payment software. Michael had been with MYeBills since the founding years of the company, and currently leads the R&D, Professional Services, and Technical Support teams of the company. 
 
 ![Michael Kang]({filename}/images/michaelkang.jpg)
