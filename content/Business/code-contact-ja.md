@@ -51,7 +51,11 @@ MCMCは、受信契約者がオプトアウトできるようにすることを�
 
 このブログは、組織のためのSMSコミュニケーションに関するシリーズのひとつです。
 過去のシリーズを読みたい場合は下記よりどうぞ：
+
 [SMSを採用する理由](https://blog.xoxzo.com/ja/2018/04/06/why-adopt-sms/)
+
 [運用コストを削減しビジネスを促進するためにSMSを使用する方法](https://blog.xoxzo.com/ja/2018/04/23/boost-your-business/)
+
 [公共サービスのためのSMS使用](https://blog.xoxzo.com/ja/2018/04/18/mobile-public-service/)
+
 [サイバーセキュリティのためのSMS使用](https://blog.xoxzo.com/ja/2018/05/22/2fa-cyber-security/)
