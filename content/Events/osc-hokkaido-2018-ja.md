@@ -3,8 +3,11 @@ Date: 2018-06-12 16:00
 Slug: sponsoring-osc-hokkaido-2018
 Lang: ja
 Tags: osc; hokkaido; sponsor; xoxzo; オープンソース; スポンサー
+Thumbnail: [osc-logo](/images/osc-banner.gif)
 Author: Aiko Yokoyama
 Summary: 7月6日（金）7日（土）の二日間、札幌コンベンションセンターにて、[Xoxzo](https://info.xoxzo.com/ja/) は、[OSC（オープンソースカンファレンス）2018 Hokkaido](https://www.ospn.jp/osc2018-do/) へ出展します。
+
+![osc-logo](/images/osc-banner.gif)
 
 [Xoxzo](https://info.xoxzo.com/ja/)は、2018年7月6日金曜日より2日間、
 [札幌コンベンションセンター](https://www.sora-scc.jp/)にて開催されます
