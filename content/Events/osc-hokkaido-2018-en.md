@@ -10,7 +10,7 @@ Summary: We Xoxzo are sponsoring and havaing a booth at OSC Hokkaido 2018 on Jul
 ![osc-logo](/images/osc-banner.gif)
 
 
-[Xoxzo](https://info.xoxzo.com/ja/)　will be sponsoring and will have a booth during the 
+[Xoxzo](https://info.xoxzo.com/ja/)will be sponsoring and will have a booth during the 
 [OSC (Open Source Conference) 2018 Hokkaido](https://www.ospn.jp/osc2018-do/), which will be held at the [Sapporo Convention Center](https://www.sora-scc.jp/eng/).
 
 
