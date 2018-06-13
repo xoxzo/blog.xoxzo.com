@@ -3,7 +3,6 @@ Date: 2018-06-13 16:00
 Slug: sponsoring-osc-okinawa-2018
 Lang: ja
 Tags: osc; okinawa; sponsor; xoxzo; オープンソース; スポンサー; 沖縄;
-Thumbnail: [osc-logo](/images/osc-banner.gif)
 Author: Aiko Yokoyama
 Summary: 6月16日（土）、沖縄コンベンションセンターにて、[Xoxzo](https://info.xoxzo.com/ja/) は、[OSC（オープンソースカンファレンス）2018 Okinawa](https://www.ospn.jp/osc2018-okinawa/) へ出展します。
 
