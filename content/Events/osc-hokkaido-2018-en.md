@@ -1,4 +1,4 @@
-Title: 【Xoxzo】オープンソースカンファレンス2018 Hokkaidoへ協賛・出展します
+Title: [Xoxzo] We will be at the OSC Hokkaido on 6 & 7 July!
 Date: 2018-06-12 16:00
 Slug: sponsoring-osc-hokkaido-2018
 Lang: en
