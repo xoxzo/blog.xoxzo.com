@@ -1,11 +1,11 @@
 Title: 絵本読み聞かせの会でのコミュニティー活動
 Date: 2018-05-29 12:00
-Lang: en
+Lang: ja
 Author: Ai Sin Chan
 Tags: community; culture; reading; books; 2018; children; work;
 Slug: picture-book-read-aloud
 Thumbnail: images/picturebook01.jpg
-Summary: Community service at picture book read aloud session
+Summary: ちば多文化協働プロジェクトの一環として行われている多文化理解セミナー。乳幼児対象の絵本の読み聞かせ会で、広東語の絵本を読みました。
 
 
 [ちば多文化協働プロジェクト](https://www.facebook.com/chibatabunka26/)は、[千葉市国際交流協会](http://www.ccia-chiba.or.jp/)が
