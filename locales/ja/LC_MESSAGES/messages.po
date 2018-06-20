@@ -29,6 +29,10 @@ msgstr "Xoxzoの公式ブログ"
 msgid "By"
 msgstr "投稿者:"
 
+#: themes/xoxzo/templates/article.html:92
+msgid "You May Like"
+msgstr "こちらもオススメ"
+
 #: themes/xoxzo/templates/author.html:5
 msgid "Articles by"
 msgstr "記事投稿："
@@ -111,7 +115,3 @@ msgstr "タグ"
 #: themes/xoxzo/templates/translations.html:3
 msgid "Translate to"
 msgstr "他の言語へ"
-
-#~ msgid "Our Products"
-#~ msgstr ""
-
