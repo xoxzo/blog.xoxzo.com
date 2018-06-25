@@ -3,7 +3,7 @@ Date: 2018-6-25
 Slug: kpremium-v2-notice
 Lang: en
 Tags: api; k-premium; docomo; kddi; au; softbank; 
-Thumbnail: images/k-v2-s.png
+Thumbnail: images/k-lite.png
 Author: Aiko Yokoyama
 Summary: Our popular K-Premium service that supported only KDDI (au) will now cover all Japanese carrier messages.
 
@@ -11,7 +11,7 @@ Thank you for using [Xoxzo, Cloud Telephony Platform](https://www.xoxzo.com/en/)
 
 We are excited to announce that our K-Premium service has move choices that you can select from. 
 
-![k-premium-logo](/images/k-v2-s.png)
+![k-premium-logo](/images/k-lite.png)
 
 Our very first K-Premium service was released in 2013, as an optional feature for our sister
 SMS API service [SMS Delivery Service, EZSMS](https://www.ezsms.biz/ja/).
