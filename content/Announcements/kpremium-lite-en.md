@@ -33,7 +33,7 @@ For all those wish to use K-premium service only to the KDDI numbers,
 here we released **Kpremium Lite** that looks up the carrier of the number and
 send **to only KDDI recipients** as K-premium sending.
 
-We hope you can well-utilize these options to suit your needs.
+We hope you  well-utilize these options to suit your needs.
 
 
 Please feel free to contact us at (help@xoxzo.com) to inquire any further information or
