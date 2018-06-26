@@ -16,7 +16,7 @@ XOXZOのお客様の中には、レストランや宿泊施設の予約サービ
 SMSは大変目立ち、開封率も高いので、このような大切な連絡には向いています。
 
 例えば、[XOXZO APIのPythonライブラリ](https://github.com/xoxzo/xoxzo.cloudpy)を使えば
-こんな感じで書けます。
+こんな風に書けます。
 
 ```
    xc = XoxzoClient(sid="<your xoxzo sid>", auth_token="<your xoxzo auth_token>")
@@ -26,4 +26,5 @@ SMSは大変目立ち、開封率も高いので、このような大切な連�
         sender = "818011112222"
    )
 ```
+
 
