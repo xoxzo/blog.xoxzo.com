@@ -16,8 +16,8 @@ XOXZOのお客様の中には、レストランや宿泊施設の予約サービ
 もちろん電子メールで送っても良いのですが、迷惑メールと判断され、読んでもらえない可能性も大です。
 SMSは大変目立ち、開封率も高いので、このような大切な連絡に最適です。
 
-例えば、[XOXZO APIのPythonライブラリ](https://github.com/xoxzo/xoxzo.cloudpy)を使えば
-こんな風に書くことができます。
+例えば、[XOXZO APIのPythonライブラリ](https://github.com/xoxzo/xoxzo.cloudpy)を使えば、
+このように書くことができます。
 
 ```
    xc = XoxzoClient(sid="<your xoxzo sid>", auth_token="<your xoxzo auth_token>")
