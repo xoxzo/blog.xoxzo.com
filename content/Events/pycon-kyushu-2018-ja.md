@@ -20,8 +20,8 @@ _PyCon Kyushu ウェブサイトより_
 >有意義なイベントを目指してスタッフ一同、鋭意準備を進めております。
 
 本開催では、Xoxzoは[昨年4月のPyCon mini 熊本](https://blog.xoxzo.com/ja/2017/04/27/pycon-kumamoto-2017-report/)、
-[昨年9月のPyCon JP](https://blog.xoxzo.com/ja/2017/10/12/pycon-jp-2017/)に続いての参加となります。
-また、PyCon mini in 熊本 及び、コン　PyCon 九州 2018 では、協賛もさせていただいております。
+[昨年9月のPyCon JP](https://blog.xoxzo.com/ja/2017/10/12/pycon-jp-2017/)に続いての、協賛・参加となります。
+
 
 当日は、弊社の[エバンジェリスト、野中](https://info.xoxzo.com/ja/aboutus/)が
 **Pythonによる競馬データ分析入門** と題するトークを行います。
