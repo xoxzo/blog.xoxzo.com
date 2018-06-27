@@ -23,7 +23,9 @@ For anyone familiar with the Command Prompt, all you need is the CD command to n
 
 I decided to start with [Voice API](https://www.xoxzo.com/en/about/voice-api/) – Audio File Playback API. I found an MP3 audio file playing harpsichord music with a [URL pointing to it](http://www.hubharp.com/web_sound/WalloonLilliShort.mp3), this is a pre-requisite to run the API. I modified the commands from the [Xoxzo tutorial](https://blog.xoxzo.com/2017/11/28/making-a-simple-playback-call/) to suit my situation. Here’s the command I issued, followed by the screenshot from my Command Prompt: 
 
+```
 curl -u <API SID>:<Auth Token> --data-urlencode "caller=+60xxxxxxx" --data-urlencode "recipient=+81yyyyyyyy" --data-urlencode "recording_url=http://www.hubharp.com/web_sound/WalloonLilliShort.mp3" https://api.xoxzo.com/voice/simple/playbacks/
+```
 
 ![apiexp4](/images/apiexp4.jpg) 
 
