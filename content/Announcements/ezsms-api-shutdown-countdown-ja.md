@@ -3,11 +3,11 @@ Date: 2018-06-27
 Slug: ezsms-api-shutdown-countdown
 Lang: ja
 Tags: ezsms; 移行; API; 
-Thumbnail: images/ezsms_logo.png
+Thumbnail: /images/ezsms_logo.png
 Author: Aiko Yokoyama
 Summary: 2011年6月よりご愛顧頂いております、EZSMS・ショートメッセージ配信サービスに於いて、APIのご提供終了一週間前となりました。今後は、[次世代API、Xoxzo](https://www.xoxzo.com/ja/)をご利用ください。
 
-![EZSMS logo](images/ezsms_logo.png)
+![EZSMS logo](/images/ezsms_logo.png)
 
 平素は、[EZSMS・ショートメッセージ（SMS）配信サービス](https://www.ezsms.biz/ja)をご利用いただきまして、誠に有難うございます。
 
