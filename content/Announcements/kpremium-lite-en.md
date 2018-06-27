@@ -1,6 +1,6 @@
 Title: [Xoxzo] You have more choice with K-Premium Lite now!
 Date: 2018-6-25
-Slug: kpremium-v2-notice
+Slug: kpremium-lite-notice
 Lang: en
 Tags: api; k-premium; docomo; kddi; au; softbank; 
 Thumbnail: images/k-lite.png
