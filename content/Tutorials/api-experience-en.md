@@ -31,7 +31,9 @@ A Call ID was displayed on Command Prompt. Then my phone started to ring. I answ
 
 Immediately after the successful voice call, I checked the call status using the Check Call Status API, by specifying the Call ID displayed on Command Prompt. Here was the command I issued, followed by the screenshot:
 
+```
 curl -u <API SID>:<Auth Token> https://api.xoxzo.com/voice/calls/41c181b6-1817-4f91-8a4f-5e0cf5105092/
+```
 
 ![apiexp5](/images/apiexp5.jpg)
 
@@ -45,7 +47,9 @@ I no longer have enough credits to test out other Voice APIs, such as Text-to-Sp
  
 So, I tried [sending SMS](https://blog.xoxzo.com/2017/10/31/sending-your-first-sms/) next. This was the command I issued, followed by the screenshot of the Command Prompt: 
 
+```
 curl -u <API SID>:<Auth Token> --data-urlencode "sender=XoxzoBlog" --data-urlencode "recipient=+81yyyyyyyy" --data-urlencode "message=Hello world, this is my first SMS sent over the Xoxzo platform." https://api.xoxzo.com/sms/messages/
+```
 
 ![apiexp8](/images/apiexp8.jpg)
  
@@ -59,7 +63,9 @@ Meanwhile the SMS notification ringtone was audible on my mobile phone. I receiv
  
 With less than 50 credits, I was still able to try out [Telephony Utilities API](https://www.xoxzo.com/en/about/utilities-api/) – Carrier Lookup API. I used a Japan mobile number and a Malaysia mobile number to try out this function. The commands I issued and the screenshot:
 
+```
 curl -u <API SID>:<Auth Token>  --data-urlencode "recipient=+81yyyyyyyy" https://api.xoxzo.com/utilities/carrierlookup/
+```
 
 ![apiexp11](/images/apiexp11.jpg)
  
