@@ -1,29 +1,28 @@
-Title: [Xoxzo] Sponsoring PyCon in Kumamoto
+Title: [Xoxzo] Sponsoring PyCon Kyushu
 Date: 2019-6-22 16:00
 Slug: sponsoring-pycon-kyushu-2018
 Lang: en
 Tags: pycon; sponsor; kyushu; Fukuoka; community; 2018
 Author: Aiko Yokoyama
-Summary: [Xoxzo]Sponsoring PyCon in Kyushu
+Summary: [Xoxzo]Sponsoring PyCon in Kyushu, will give a talk too!!
 
 
 We [Xoxzo](https://www.xoxzo.com/en/) proudly announce that we are sponsoring
-[mini PyCon in Kumamoto 2017](http://kumamoto.pycon.jp/)
+[PyCon Kyushu 2018](http://kyushu.pycon.jp/) that is to be held on June 30, 2018.
 
 Based on the experience we have joined series of [PyCons](http://www.pycon.org/) 
-within Asia Pacific region, such as Malaysia, Singapore and Taiwan.
+within Asia Pacific region, such as Malaysia, Singapore and Taiwan, we are sure to make
+this event even more successful.
 
-[Mini PyCon in Kumamoto 2017](http://kumamoto.pycon.jp/) is going to be held on
-April 23, 2017. This exact day is the first anniversary of tragic Kumamoto
-Earthquake of last year. PyCon Kumamoto committee is positively thinking to set
-the theme of this PyCon as **MIRAI-Future** with a hope of this PyCon to be the 
-first step of Future Kumamoto PyCon Community.
+_This is what we can find on [Pycon Kyushu 2018](http://kyushu.pycon.jp/) website._
+>During recent years, interest in subjects such as machine learning and deep learning has been growing.
+>This will be the first conference in Kyushu to be held on the subject of the Python programming language.
+>As a consequence, the theme of the conference this year is Prologue.
+>The event volunteer staff are working hard to to create an event where everybody, from Python beginners to Python experts, >can be inspired by the idea of a Prologue; of a beginning.
 
-This [mini PyCon in Kumamoto 2017](http://kumamoto.pycon.jp/) expects about 100 attendance,
-including us [Xoxzo](https://www.xoxzo.com/en/) as a Bronze Sponsor. 
-Ian Lewis, a Google Developer Advocator will making the Keynote. There will be 
-two 15 minutes talk by the students on top of standard eight 30 minute talks.
-The organizers have also prepared stipends for attendees coming from out of town. 
+We [Xoxzo](https://www.xoxzo.com/en/) will attend as a Gold Sponsor. 
+On the day our [Evangelist Akira Nonaka]()will give a talk about **HORSE RACE DATA Analysis with python**.
+(the speech language is Japanese)
 
-Please see more details by visiting [mini PyCon in Kumamoto 2017 website](http://kumamoto.pycon.jp/).
+Please see more details by visiting [PyCon Kyushu website](http://kyushu.pycon.jp/).
 We are looking forward to see you there in Kumamoto.
