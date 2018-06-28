@@ -1,72 +1,64 @@
-Title: What can Interactive Voice Response be used for?
-Date: 2018-05-18 12:00
+Title: インタラクティブ音声自動応答の用途とは？
+Date: 2018-06-28 12:00
 Author: Ai Sin Chan
-Tags: 2018; voice; voice api; voice-based; technology; interactive; customer;
+Tags: 2018; 音声; voice api; voice-based; 技術; 自動応答; カスタマー;
 Slug: Interactive-voice-response 
 Lang: ja
 Thumbnail: images/interactivevoice.jpg
-Summary: How can interactive voice response be used
+Summary: インタラクティブ音声自動応答は、どういった場面で役立っているのでしょうか？
 
 
-What is Interactive Voice Response (IVR)? Many of us would have used it before, 
-when calling the customer support hotline of the bank, for example. 
-“Welcome to X Bank. For English, press 1; To check your account balance, press 5; 
-to speak to a customer support personnel, press 0” and so on.
+インタラクティブ音声応答（IVR）とは何でしょうか？
+
+例えば、カスタマーサポートホットラインに電話をかけると、これがよく使われています。
+「Xoxzo銀行へようこそ。 英語の場合は、1を押してください。 
+アカウント残高を確認するには、5を、カスタマーサポート担当者に話す場合は、0を押してください」
+という感じの応答、あれです。
 
 ![interactivevoice](/images/interactivevoice.jpg)
 
-In the age of mobile app prevalence, we often neglect the importance of providing an option for voice. 
-It is most significant for the visually impaired, the illiterate, the digital illiterate, 
-and the user who does not own a smartphone. IVR is an ideal candidate to fill in this gap.
+モバイルアプリの普及の時代、私たちは、音声というオプションを提供することの重要性を無視しがちです。
+視覚障害者、非識字者、デジタル音痴、スマートフォンを所有していないユーザーにとっては、大変重要な意味があるのです。 
+IVRは、このギャップを埋めるために、理想的な候補者と言えそうです。
 
-We can think of IVR as a virtual receptionist, not only that, 
-it is a virtual receptionist that works 24 hours over 7 days in a week, 
-one that does not need payroll or training costs, and delivers consistent output quality without any risk of coming down 
-with a sore throat.
+IVRは、仮想受付ですが、それだけではありません。
+年中無休で24時間稼働する、仮想受付担当者ともなり、給与計算やトレーニング費用も必要ない、電話番となります。
+喉の痛みを訴えるリスクもなしに、一定した出力品質を提供する、受付嬢なのです。
 
-In the early days, deploying an IVR system for a company or a service used to be tedious, 
-requiring the IVR script to be finalized in advance because making any change would be costly, 
-casting and engaging voice talents for recordings, and finally integrating it with the company phone line.  
+最初の頃、会社やサービスのIVRシステムを導入するのは、つまらないものでした。 
+あとで変更を加えるのは費用がかかので、最終的に会社の電話回線と統合するたまでに、
+録音のための音声タレントさんををキャスティングして魅力的につくりあげ、
+IVRスクリプトを事前に確定する必要がありました。
 
-Now with the advent of hosted IVR or cloud-based IVR service, 
-it has never been easier to adopt an IVR solution for your organization. 
-Using [text-to-speech](https://www.xoxzo.com/en/about/utilities-api/) technology that is 
-conducive for the script to be edited anytime, feature that allows you to 
-[redirect the call](https://blog.xoxzo.com/en/2017/07/13/dialinnumbers-tutorial/) to another number, 
-subscription-based and pay-per-use [pricing model](https://www.xoxzo.com/en/about/pricing/#din), 
-setting up a hotline number by signing up for a 
-[toll-free or payable incoming number](https://www.xoxzo.com/en/about/dial-in-api/) without having to 
-deal with a telecom operator; you can literally set up an IVR at your fingertips within a short time.
+IVRまたはクラウドベースのIVRサービスが登場した現在、
+組織内でIVRソリューションを採用することは、これまでになく容易になりました。
 
-What can you use IVR for? Here are a handful of ideas:
+スクリプトをいつでも編集できる[テキスト読み上げ技術](https://www.xoxzo.com/ja/about/utilities-api/)を使用して、着信した電話を[サブスクリプションベース](https://www.xoxzo.com/ja/about/pricing/#din)およびペイパーユースなどの価格モデルで、[別の番号へ転送できる機能](https://blog.xoxzo.com/ja/2017/07/13/dialinnumbers-tutorial/)、直通電話番号も電話会社へ連絡などの面倒もなく、[フリーダイヤルでも発信者払いの番号でも](https://www.xoxzo.com/eja/about/dial-in-api/)取得でき、文字通り指先ひとつで、IVRを設定することができるのです。
 
-Top-up for prepaid mobile subscription or IDD calling card – the user dials the hotline, 
-enters the account number as well as the code printed on the top-up card, the amount topped up is loaded 
-into the specific account.
+このIVRを、あなたなら何に使いますか？溢れるようなアイディアを、集めてみました。
 
-Utility company – such as: phone company, electricity, water supply, sewerage; the user is able to check 
-the bill amount and outstanding amount by entering the account number.
+プリペイドモバイルに加入したり、国際電話カードのための、チャージに - ユーザーがホットラインにダイヤルし、アカウント番号とチャージ用カードに印刷されたコードを入力すると、上乗せされた金額が特定の口座にチャージされる。
 
-Ticketing – such as: bus, train, travel tour package, music concert, stage theatre, cinema; 
-allow the user to make a reservation with a specific seat number or a cancellation.
+電話会社、電気、水道、下水道などのライフライン企業では – 
+利用者が、口座番号を入力することにより、請求額及び残高を確認することができる。 
 
-Restaurant or retailer -  allow the user to make a reservation or cancel a reservation, give directions 
-to first-time patrons, allow the user to order a product to be collected at a specific branch.
+バス、電車、旅行ツアーパッケージ、音楽コンサート、ステージシアター、映画館などの発券 - 
+ユーザーが特定の座席番号またはキャンセルを伴う予約を可能にする。
 
-Food delivery – allow the user to place an order, notify the user of upcoming delivery, carry out a customer 
-satisfaction survey.
+レストランまたは小売店 - ユーザーが予約をしたり予約を取り消したり、
+初めての利用者へご案内をしたり、特定の支店にて引き取りたい商品を注文することを可能にする。
 
-Taxi on-call – allow the user to call a taxi, subsequent communication between the driver and the passenger 
-to locate the passenger, or allow the user to make a cancellation before the taxi arrives.
+デリバリーサービス - ユーザーが注文をしたり、デリバリーをユーザーに通知したり、顧客満足度調査を実行できるようにする。
 
-Courier service – request for pick-up from the sender, notification of delivery to the recipient, allow the user to 
-reschedule a delivery.
+待機タクシー - 乗客がタクシーに電話をかけ、運転手が乗客の位置を確認したり、タクシーが到着する前にキャンセルできるようにする。
 
-Voice conference system – greeting and login portal for voice conferencing system, with checking for session ID 
-and login credentials.
+宅配便サービス - 発送者からの配達物ピックアップ依頼、受取人への配達の通知、再配達のスケジュールを受取人に許可する。
 
-Phone interview – get candidates to answer questions for initial screening and job matching criteria, 
-with the recording available for playback that makes it easy for another interviewer to follow up.
+音声会議システム - 音声会議システムのためのログインポータルで歓迎の挨拶をし、セッションIDとログイン資格情報を確認する。
 
-Survey – such as: for medical treatment, academic research, or market research; collect survey answers 
-that involve ratings, where the user enters numbers; collect speech sample via voice recording for speech therapy monitoring.
+電話面接 - 応募者に、基本的事項とジョブマッチング基準の質問に答えてもらう。録音した音声を聞くことで、次の面接官がフォローアップするのを容易にする。
+
+医療、学術研究、市場調査などのアンケート - ユーザーが評価を含む調査回答を、入力する数字で収集する。 
+音声セラピーのための音声録音による音声サンプルの収集もできる。
+
+実際のIVRの設計時に是非参考にしてほしい、[IVRのフロー設計を考える](https://blog.xoxzo.com/en/2018/05/23/ivrflow/)　も是非お読みください。
