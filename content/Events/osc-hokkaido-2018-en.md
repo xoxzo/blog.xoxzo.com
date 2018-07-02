@@ -2,7 +2,7 @@ Title: [Xoxzo] We will be at the OSC Hokkaido on 6 & 7 July!
 Date: 2018-06-12 16:00
 Slug: sponsoring-osc-hokkaido-2018
 Lang: en
-Tags: osc; hokkaido; sponsor; xoxzo; Open Souce; Sponsor
+Tags: osc; hokkaido; sponsor; xoxzo; open source;
 Author: Aiko Yokoyama
 Summary: We Xoxzo are sponsoring and havaing a booth at OSC Hokkaido 2018 on July 6(Fri) & 7(Sat)
 
