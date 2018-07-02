@@ -2,7 +2,7 @@ Title: [Client interview] Xoxzo's API is Well-Designed and Easy to Use
 Date: 2017-10-03
 Slug: CMS-interview
 Lang: en
-Tags: Client interview; CMS; Plone; Python;
+Tags: client interview; cms; plone; python; 2017;
 Thumbnail: images/CMSMrTerada-thumb.jpg
 Author: Akira Nonaka
 Summary: CMS Communications is a company which offers Plone-based CMS software, develops systems using Python, and more. We interviewed Representative Director Manabu Terada on the user-friendliness of Xoxzo's API.

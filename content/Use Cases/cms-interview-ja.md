@@ -2,7 +2,7 @@ Title: 【クライアント・インタビュー】XOXZOのAPIはすっきり�
 Date: 2017-10-03
 Slug: CMS-interview
 Lang: ja
-Tags: Client interview; CMS; Plone; Python;
+Tags: client interview; cms; plone; python; 2017;
 Thumbnail: images/CMSMrTerada-thumb.jpg
 Author: Akira Nonaka
 Summary: Ploneを用いたCMSの導入運用やPythonを用いたシステム構築などを行っている、株式会社CMSコミュニケーションズ。XOXZOのAPIの利便性について、代表取締役の寺田 学さんに伺いました。
