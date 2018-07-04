@@ -1,51 +1,38 @@
-Title: [Xoxzo] Introducing PyCon Thailand 2018
+Title: [Xoxzo] PyCon Thailand 2018　をご紹介します
 Date: 2018-06-18 10:00 
 Slug: pycon-thailand-20178
-Lang: en 
+Lang: ja
 Tags: 2018; pycon thailand; TH; pycon; thailand;
 Author: Iqbal Abdullah
-Summary: Introducing the first PyCon in Thailand
+Summary: タイで最初のPyConの模様を紹介します。
 
-On June 16 and 17 2018, PyCon was first held in Thailand, at the Knowledge
-Exchange Center (KX) in Bangkok.
+2018年6月16日と17日、バンコクのナレッジエクスチェンジセンター（KX）で、PyConがタイで初開催されました。
 
-Xoxzo does not support the Thailand (at this moment) but I personally know [Dylan Jay](https://twitter.com/djay75),
-the chairperson for this PyCon so as a show of support for him and from the
-larger APAC community, I flew into Bangkok on the morning of June 15 to join the
-conference as a normal attendee.
+Xoxzoは現在、タイをサポートしていませんが、私はこのPyConの議長を務める彼、[Dylan Jay]（https://twitter.com/djay75)を知っていました。6月15日の朝にバンコクへ飛ぶと、一般参加者としてカンファレンスに参加しました。
 
-On the night before the conference itself, the organizers held what they call a
-"Code War", a programming competition between teams to solve questions given out
-by the MC.
-![PyCon Thai 2018 Code War]({filename}/images/pycon-thai-2018/code-war.jpg)
+会議の前の夜、主催者は、MCによって与えられた問題を解く、チーム間のプログラミング競争である「コードウォー」を開催しました。
+![![PyCon Thai 2018 Code War]({filename}/images/pycon-thai-2018/code-war.jpg)
 
-This is how the sponsor booths were lined up
-![Sponsor booths at PyCon Thai 2018]({filename}/images/pycon-thai-2018/sponsor-booths.jpg)
-Even though it's their first in Bangkok, I noticed they have managed to get a
-healthy amount of interest from sponsors, to show case their products to the
-attendees.
+スポンサーブースが並んでいる様子です
+![![Sponsor booths at PyCon Thai 2018]({filename}/images/pycon-thai-2018/sponsor-booths.jpg)
+バンコクで初めての開催であるのに、スポンサーからの関心を集め、製品を出席者に紹介することができていたことに気付きました。
 
-For the Lightning Talk session on Saturday, I presented the different PyCons
-around the APAC region.
+土曜日に行われたライトニングトークセッションで、私は、APAC地域のさまざまなPyConsを紹介しました。
 
-On Saturday night, we went to the conference party at a bar 
-![PyCon Thai 2018 Conference Party]({filename}/images/pycon-thai-2018/party.jpg)
+土曜の夜、バーでのカンファレンス・パーティーに行きました。
+![![PyCon Thai 2018 Conference Party]({filename}/images/pycon-thai-2018/party.jpg)
 
-These are the people that came to Bangkok to give support to PyCon Thailand from
-Japan:
-![JP attendees at PyCon Thai 2018]({filename}/images/pycon-thai-2018/team-jp.jpg)
+日本からPyCon Thailandを支援するためにバンコクに来た人たちです：
+![![JP attendees at PyCon Thai 2018]({filename}/images/pycon-thai-2018/team-jp.jpg)
 
-Wes McKinney giving his keynote on Saturday morning:
-![Keynote by Wes at PyCon Thai 2018]({filename}/images/pycon-thai-2018/wes-keynote.jpg)
+土曜日の朝、Wes McKinneyがキーノート講演：
+![![Keynote by Wes at PyCon Thai 2018]({filename}/images/pycon-thai-2018/wes-keynote.jpg)
 
-At the end of the conference, Dylan went up to the stage and gave the credits
-roll for all the hard-working staff that made PyCon Thailand 2018 a success: 
-![Staff roll call at closing for PyCon Thai 2018]({filename}/images/pycon-thai-2018/staff.jpg)
+カンファレンスの最後に、Dylanはステージに上がり、PyCon Thailand 2018を成功に導いた勤勉なスタッフ全員のエンドロールを行いました： 
+![![Staff roll call at closing for PyCon Thai 2018]({filename}/images/pycon-thai-2018/staff.jpg)
 
-Congratulations to Dylan for leading the PyCon Thailand 2018 team, and the community for a having a
-local conference that gives space, time and opportunity to the local python
-users and developers to share ideas and grow. 
+PyCon Thailand 2018チームを率いたDylanと、自国カンファレンスを開催し、空間、時間、機会を、パイソンユーザーと開発者に提供し、アイディアを共有し成長させたコミュニティを祝福したいと思います。
 
-Welcome to the APAC family!
+ようこそAPACファミリーへ！
 
 
