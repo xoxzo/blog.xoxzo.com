@@ -1,11 +1,11 @@
-Title: IVRフローの構築時の、注意点
+Title: IVR(インタラクティブ音声自動応答)フローの構築時の、注意点
 Date: 2018-07-10 12:00
 Lang: ja
 Author: Ai Sin Chan
 Tags: api; developers; market; sms; business; 2018; voice; interactive
 Slug: ivrflow
 Thumbnail: images/ivrflow.jpg
-Summary: What to consider when you are designing the flow of your Interactive Voice Response (IVR) script?
+Summary: インタラクティブ音声自動応答を構築する際、どういった点に気をつければいいのでしょうか？
 
 **1）ユーザーのニーズをランク付けする：** 頻繁に要求されていることについて、顧客サポート記録内のデータから分析します。これらは、IVRフローの最初のオプションであるべきです。たとえば、ほとんどのユーザーが自分の口座残高を確認するために電話をかけていた場合は、最初のオプションを「残高を確認するには1を押してください。」としましょう。
 
