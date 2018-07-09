@@ -1,6 +1,6 @@
-Title: What to consider when designing an IVR flow?
-Date: 2018-05-23 12:00
-Lang: en
+Title: IVRフローの構築時の、注意点
+Date: 2018-07-10 12:00
+Lang: ja
 Author: Ai Sin Chan
 Tags: api; developers; market; sms; business; 2018; voice; interactive
 Slug: ivrflow
