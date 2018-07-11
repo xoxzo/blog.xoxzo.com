@@ -71,3 +71,8 @@ Command can also being pipe instead typing interactively:-
 ```
 echo 'grep ERROR /var/log/local1' | sup x4 bash
 ```
+
+## Issues
+1. If you let the interactive command idle for a while, it become unresponsive and you have to kill it.
+2. It not possible to move cursor to edit your command, you have to delete what you have typed so far.
+3. No command history.
