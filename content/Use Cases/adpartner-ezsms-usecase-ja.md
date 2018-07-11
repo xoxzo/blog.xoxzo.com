@@ -4,6 +4,7 @@ Author: Iqbal Abdullah
 Tags: ショートメッセージ, ECサイト, ezsms, sms, 携帯電話
 Slug: adpartner-ezsms-usecase
 Lang: ja
+Summary: 株式会社アドパートナーがEZSMS利用していただく理由について
 
 電話登録している会員様の携帯電話にショートメッセージ配信は[株式会社Xoxzo](https://info.xoxzo.com/ja/ "株式会社Xoxzo")（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）が運営する[SMS（ショートメッセージ）配信サービス「EZSMS」](https://www.ezsms.biz/ja/ "SMS配信サービス「EZSMS」")
 

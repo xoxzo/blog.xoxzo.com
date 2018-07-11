@@ -1,5 +1,20 @@
 {% extends "base.html" %}
 
+{% block hreflang %}
+    <link rel="alternate" href="https://blog.xoxzo.com/{{ article.url }}" hreflang="x-default"/>
+    {% if DEFAULT_LANG == 'ja' %}
+    <link rel="alternate" href="https://blog.xoxzo.com/ja/{{ article.url }}" hreflang="ja"/>
+    {% if article.translations %}
+    <link rel="alternate" href="https://blog.xoxzo.com/en/{{ article.url }}" hreflang="en"/>
+    {% endif %}
+    {% else %}
+    <link rel="alternate" href="https://blog.xoxzo.com/en/{{ article.url }}" hreflang="en"/>
+    {% if article.translations %}
+    <link rel="alternate" href="https://blog.xoxzo.com/ja/{{ article.url }}" hreflang="ja"/>
+    {% endif %}
+    {% endif %}
+{% endblock %}
+
 {% block head %}
   {{ super() }}
 
@@ -11,12 +26,21 @@
   <meta property="og:description" content="{{ article.summary|striptags }}">
   <meta property="og:url" content="{{ SITEURL }}/{{ article.url }}">
   <meta property="og:site_name" content="{{ SITENAME }}">
+  {% if article.thumbnail %}
+  <meta property="og:image" content="{{ SITEURL }}/{{ article.thumbnail }}">
+  {% else %}
   <meta property="og:image" content="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/xoxzo_opengraph.jpg">
+  {% endif %}
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="@xoxzotelephony">
   <meta name="twitter:title" content="{{ article.title }}">
   <meta name="twitter:description" content="{{ article.summary|striptags }}">
+  {% if article.thumbnail %}
+  <meta name="twitter:image" content="{{ SITEURL }}/{{ article.thumbnail }}">
+  {% else %}
+  <meta name="twitter:image" content="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/xoxzo_twcard.png">
+  {% endif %}
 {% endblock %}
 
 {% block title %}{{ article.title }} | {% trans %}Xoxzo Official Blog{% endtrans %}{% endblock title %}
@@ -29,7 +53,7 @@
         <div class="row">
             <section class="content col-md-8 col-lg-9 float-md-right">
                 <div class="container">
-                    <article>
+                    <article class="article">
                         <h2 class="article-info">
                             {{ article.locale_date }} /
                             <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
@@ -56,6 +80,36 @@
                             {% endfor %}
                         {% endif %}
                         </div>
+
+                        {% if article.footer_insert_html %}
+                          {% include article.footer_insert_html %}
+                        {% endif %}
+
+                        {% include 'disqus.html' %}
+
+                        {% if article.related_posts %}
+                        <div class="related-post">
+                          <h2>{% trans %}You May Like{% endtrans %}</h2>
+                          <div class="row">
+                            {% for related_post in article.related_posts %}
+                            <div class="col-md-12 col-lg-4">
+                              <a href="{{ SITEURL }}/{{ related_post.url }}" class="card">
+                                <div class="img-box">
+                                  {% if related_post.thumbnail %}
+                                  <img src="{{ SITEURL }}/{{ related_post.thumbnail }}" class="card-img-top">
+                                  {% else %}
+                                  <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/xoxzo_opengraph.jpg" class="card-img-top">
+                                  {% endif %}
+                                </div>
+                                <div class="card-body">
+                                  <p class="card-text">{{ related_post.title }}</p>
+                                </div>
+                              </a>
+                            </div>
+                            {% endfor %}
+                          </div>
+                        </div>
+                        {% endif %}
                     </article>
                 </div>
             </section>

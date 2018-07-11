@@ -4,6 +4,7 @@ Author: Kamal Mustafa
 Tags: django, Python
 Slug: django-where-does-settings-belong
 Lang: en
+Summary: Explaining where Django setting belongs.
 
 Settings is very central to all Django applications. Django even barf if
 you  

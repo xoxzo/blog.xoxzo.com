@@ -4,6 +4,7 @@ Author: Aiko Yokoyama
 Tags: xoxzo, smsのapi配信, ⼾⽥建設株式会社
 Slug: toda-corporation-xoxzo-usecase
 Lang: ja
+Summary: 戸田建設株式会社は、社員への連絡用SMS送信機能の社内ウェブへの実装に、Xoxzoを導入しました。
 
 [戸田建設株式会社](http://www.toda.co.jp/)（本社：東京都中央区）は、社員への連絡用SMS送信機能の社内ウェブへの実装に、株式会社Xoxzo（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）の運営する[Xoxzo（ゾクゾー）クラウド・テレフォニー・プラットフォーム](https://www.xoxzo/com/ja/)を導入しました。 
 

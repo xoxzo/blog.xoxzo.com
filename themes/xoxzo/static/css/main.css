@@ -154,6 +154,7 @@ main section {
 
 article {
     padding: 70px 20px;
+    padding-bottom: 50px;
     border-bottom: 1px solid #ddd;
 }
 
@@ -168,6 +169,10 @@ article p {
 
 article p:last-child {
     margin-bottom: 0;
+}
+
+article.article {
+    border-bottom: none;
 }
 
 .article-info {
@@ -204,6 +209,40 @@ article p:last-child {
 
 .article-tag {
     padding-top: 20px;
+    margin-bottom: 40px;
+}
+
+.author-profile {
+    padding: 40px 15px;
+    margin-top: 40px;
+    border-top: 1px solid #ddd;
+    text-align: center;
+}
+
+.author-profile .profile-content {
+    text-align: left;
+    font-size: 0.9rem;
+}
+
+.author-profile img {
+    width: 150px;
+    border-radius: 50%;
+    border: 1px solid #ccc;
+    margin: 0;
+}
+
+.author-profile h3 {
+    font-size: 1.3rem;
+}
+
+.author-profile h4 {
+    font-size: 0.9rem;
+    color: #999;
+    line-height: 1.3rem;
+}
+
+.author-profile p {
+    margin-top: 20px;
 }
 
 .btn-tag {
@@ -280,6 +319,44 @@ footer a:hover {
     text-decoration: underline;
 }
 
+.article #disqus_thread {
+    border-top: 1px solid #ddd;
+}
+
+.related-post {
+    margin-top: 50px;
+}
+
+.related-post h2 {
+    margin-bottom: 15px;
+    font-size: 1.75rem;
+}
+
+.related-post a {
+    font-size: .85rem;
+    color: #888;
+}
+
+.related-post a:hover {
+    color: #333;
+}
+
+.related-post .img-box {
+    overflow: hidden;
+    max-height: 120px;
+}
+
+.related-post img {
+    margin: 0;
+    min-height: 120px;
+    object-fit: cover;
+    width: 100%;
+}
+
+.related-post .card-body {
+    padding: 10px;
+}
+
 @media (max-width: 991px){
 
     ul.navbar-nav {
@@ -298,6 +375,27 @@ footer a:hover {
     .navbar-dark .navbar-nav .nav-link.nav-btn {
         margin-top: 12px;
         text-align: center;
+    }
+
+    .author-profile .profile-content {
+        text-align: center;
+    }
+
+    .author-profile h3 {
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .author-profile h4 {
+        text-align: center;
+    }
+
+    .related-post .img-box {
+        max-height: 200px;
+    }
+
+    .related-post img {
+        min-height: 200px;
     }
 }
 

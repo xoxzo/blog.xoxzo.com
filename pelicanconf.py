@@ -49,7 +49,7 @@ EXTRA_PATH_METADATA = {
 #THEME           = 'themes/simple'
 THEME           = 'themes/xoxzo'
 PLUGIN_PATHS    = [os.path.join(PROJECT_ROOT, 'plugins'),]
-PLUGINS         = ["i18n_subsites", ]
+PLUGINS         = ['i18n_subsites', 'footer_insert', 'related_posts']
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n',]}
 
 I18N_UNTRANSLATED_ARTICLES  = "remove"
@@ -65,8 +65,6 @@ I18N_SUBSITES   = {
         'SITENAME': 'Xoxzoの公式ブログ：「開花、発展、向上させる」',
         'STATIC_PATHS': STATIC_PATHS,
         'THEME_STATIC_PATHS': STATIC_PATHS + ['static'],
-    },
-    'ms': {
     },
 }
 
@@ -88,3 +86,8 @@ TAG_SAVE_AS = 'tag/{slug}/index.html'
 
 from datetime import date
 CURRENTYEAR = date.today().year
+
+FOOTER_INSERT_HTML = 'profile/%(author)s.html'
+DISQUS_SITENAME = 'https://xoxzo-blog.disqus.com/'
+
+RELATED_POSTS_MAX = 3

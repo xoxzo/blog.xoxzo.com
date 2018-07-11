@@ -3,7 +3,7 @@ Date: 2016-12-28 15:49
 Slug: EOY-Holiday-Notice
 Lang: en
 Modified: 2016-12-28 15:49
-Tags: EOY-notice;
+Tags: EOY-notice; 2016;
 Author: Aiko Yokoyama
 Summary: Thank you very much for your continuous support for 'Xoxzo Cloud Telephony Platform' and 'SMS Delivery API Service EZSMS' .
 

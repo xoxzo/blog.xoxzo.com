@@ -4,6 +4,7 @@ Author: Kamal Mustafa
 Tags: django, python, transaction
 Slug: database-transaction-in-django
 Lang: en
+Summary: Django tips, simple but important
 
 Keep forgetting about this so this is to wrap my heads around it. First
 I have  
@@ -44,7 +45,7 @@ transaction
 already committed when `mms.save()` is called and by the time `step2()`  
 executed it's already running in a new transaction, so the rollback does
 not  
-has any effect. To get what we want, both function must be made to run
+have any effect. To get what we want, both function must be made to run
 in a  
 single transaction.
 

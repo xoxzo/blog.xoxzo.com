@@ -4,6 +4,7 @@ Date: 2011-09-24 08:04
 Author: Kamal Mustafa
 Tags: scm, subversion, svn, version control
 Slug: subversion-merging-changes-between-branches
+Summary: let's talk about svn branching strategy
 
 For svn branching strategy, we used the [feature
 branch](http://stackoverflow.com/questions/597707/best-branching-strategy-when-doing-continuous-integration)

@@ -71,6 +71,7 @@ These metadata is required for all articles
     Author: 
     Tags: 
     Slug: 
+    Summary: 
 
 #### Translations
 
@@ -86,6 +87,14 @@ like this:
     Author: Aiko Yokoyama
     Summary: We participated in the KOF 2016 and this is what we think
 
+#### Thumbnail Image
+
+To show particular thumbnail image when the article is shared, fill **Thumbnail** metadata with the image url, like this:
+
+    Thumbnail: images/xoxzo_opengraph.jpg
+
+Otherwise, the default image will appear.
+
 #### Theme Translations
 To translate string in templates, make the string translatable:
 
@@ -100,3 +109,12 @@ the string and then run:
     
     make compile_translation
     make html
+
+
+#### Author's footer
+
+You can find author's footer files to edit here:
+
+    themes/xoxzo/templates/profile/
+
+Make sure that you are using exactly same author's name with profile file name. Otherwise Pelican cannot find the profile.

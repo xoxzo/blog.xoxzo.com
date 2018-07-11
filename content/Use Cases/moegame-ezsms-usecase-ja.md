@@ -4,6 +4,7 @@ Author: Iqbal Abdullah
 Tags: プレスリリース, ezsms, smsのapi配信, 認証
 Slug: moegame-ezsms-usecase
 Lang: ja
+Summary: 株式会社モエゲームは、ユーザーの電話番号認証システムに、EZSMSを導入しています。
 
 [株式会社モエゲーム](http://moegame.co.jp/)、(本社:大阪府中央区、代表取締役
 岡本光平)は、この度[株式会社Xoxzo](https://info.xoxzo.com/ja/)（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）運営するSMS（ショートメッセージ）[配信APIサービス「EZSMS」](http://www.ezsms.biz/ja)を導入しました。

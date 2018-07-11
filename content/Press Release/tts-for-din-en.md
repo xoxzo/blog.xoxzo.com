@@ -1,4 +1,4 @@
-Title: 【Xoxzo】Release of TTS for DIN
+Title: [Xoxzo] Release of TTS for DIN
 Date: 2017-05-24 12:00
 Slug: text-to-speech-for-din
 Lang: en
