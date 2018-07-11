@@ -6,7 +6,7 @@ Slug: running-command-multiple-servers-sup
 Lang: en
 Summary: Quick look at tools named sup for executing command remotely on multiple servers
 
-This is tool written in Golang (https://github.com/pressly/sup). It look similar to Fabric and also Ansible in certain aspect but I found it more flexible than Fabric and simpler than Ansible. Getting it is easy if you already have Golang environment on your computer. It just:-
+This is tool written in Golang (https://github.com/pressly/sup). It look similar to Fabric and also Ansible in certain aspect but I found it more flexible than Fabric and simpler than Ansible. Getting it is easy if you already have [Golang environment on your computer](https://github.com/devkini/notes/wiki/Go). It just:-
 
 ```
 go get -u github.com/pressly/sup/cmd/sup
