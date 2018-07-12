@@ -4,6 +4,7 @@ Author: Akira Nonaka
 Tags: ruby, open source
 Slug: tokyu-ruby-kaigi
 Lang: en
+Summary: Tokyu Ruby Kaigi attendance report
 
 On May 29, I attended the 10th annual [Tokyu Ruby
 Kaigi](http://regional.rubykaigi.org/tokyu10/) held at Shibuya,Tokyo. I
