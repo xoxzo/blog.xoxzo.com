@@ -1,5 +1,5 @@
 Title: [Xoxzo] Sponsoring PyCon Kyushu
-Date: 2019-6-22 16:00
+Date: 2018-6-22 16:00
 Slug: sponsoring-pycon-kyushu-2018
 Lang: en
 Tags: pycon; sponsor; kyushu; Fukuoka; community; 2018
