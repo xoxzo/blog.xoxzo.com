@@ -12,6 +12,10 @@ Summary:
 ![Line characters]({filename}/images/pycon-kyushu-2018/line-genkan.jpg)
 ![kaijyo]({filename}/images/pycon-kyushu-2018/pycon9shu-kaijyo.jpg)
 
+個人的にも「Pythonによる競馬データ分析入門」というテーマで発表させて頂きました。
+貴重なお時間をどうもありがとうございました。
+
+ほぼブースに居たので、ほとんど発表を聞くことが出来なかったのが残念でしたが、
 九州の皆さん熱いです！　このイベントにかける意気込みがひしひしと感じられる一日でした。
 
 翌朝、博多の街を散歩すると、まさに博多祇園山笠が開始されようとするところ。
