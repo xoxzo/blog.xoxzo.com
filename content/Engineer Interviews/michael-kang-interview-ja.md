@@ -8,56 +8,56 @@ Thumbnail: images/michaelkang.jpg
 Summary: We interviewed Michael Kang, Technical Director for MYeBills Consulting.
 
  
-I had the pleasure of a chat over the web with Mr. Michael Kang, who started his career in software development 17 years ago as a software engineer. He is now the Technical Director for MYeBills Consulting Sdn. Bhd., A Malaysia based company that specializes in electronic billing and payment software. Michael had been with MYeBills since the founding years of the company, and currently leads the R&D, Professional Services, and Technical Support teams of the company. 
+17年前に、ソフトウェアエンジニアとしての開発のキャリアをスタートした、Michael Kang氏から、ウェブチャットにて、楽しくお話を伺いました。Kang氏は現在、電子請求書作成ソフトウェアを専門とするマレーシア企業である、MYeBills Consulting Sdn.Bhd.のテクニカルディレクターです。. Kang氏は同社の設立以来、MYeBillsに勤務しており、現在は同社のR＆D、プロフェッショナルサービス、テクニカルサポートチームを率いています。
 
 ![Michael Kang]({filename}/images/michaelkang.jpg)
 
-**What factors made you stay in this industry for so long?**
+**この業界に長く務めることができた要因はなんでしょうか？**
 
-> I have had passion for computing since I was in secondary school.
+> 私は中学校以来、コンピューティングに情熱を持っているのです。
 
-**What do you like about your job?**
+**仕事上で最も好きなことは何ですか？**
 
-> Together with my team, our job is to help businesses improve efficiency, productivity, as well as transparency; and to be more competitive in this fast-growing market. 
+> 我々の仕事は、チームと一緒に、企業が効率性、生産性、透明性を向上させることです。急速に成長しているこの市場ではより競争力をつけることでもあります。
 
-**What coding languages do you specialize in?**
+**どのコーディング言語が専門ですか？**
 
-> I started with Java programming in my career. I am still doing it in my current role sometimes. I had used C++, Visual Basic 6, Visual Basic .Net before too.
+> 私のキャリアは、Javaプログラミングから始めました。いまだ、現在の仕事でも、時々やっています。C ++、Visual Basic 6、Visual Basic、Netも以前使用していました。
 
-**What are the contributions of your company’s solutions to the industry?**
+**MYebills のソリューションは、どのように業界へ貢献していますか？**
 
-> Our company's solution is focused on e-billing and we help our customers deliver their statements and e-Invoice to their customers via the web channel, mobile or email. This enables our customers to achieve their go-green efforts and cost savings.
+> MYebillsのソリューションは、電子請求に重点を置いており、お客様はWebチャネル、モバイル、または電子メールを介して、顧客にステートメントおよび電子請求書を顧客に提供することができます。これにより、お客様は、環境にやさしい努力とコスト削減の両方を達成することができるのです。
 
-**What are the challenges that most developers face when doing their jobs? How can these challenges be overcome?**
+**開発者の多くが仕事をする際に、直面する課題は何でしょうか？その課題を克服するには、どうすればいいでしょうか？**
 
-> Tight deadlines and change of requirements halfway through the project affect the developers’ work and the quality of their work.  Proper technical documentation will significantly improve the quality of the delivery.
+> プロジェクトの途中での要件の変更や、厳しい締め切り等は、開発者の作業と作業の質に影響します。適切な技術文書があれば、作業の品質が大幅に向上します。
 
-**Are the developers in the industry fairly compensated in general?**
+**業界の開発者というのは、一般的に言って、適正な報酬を得ていると思いますか？**
 
-> Yes, compensation is fair for experienced developers.
+> はい、経験豊かな開発者にとって報酬は適正です。
 
-**What are the most important technical skills for a developer to have? And how do they build up the skills?**
+**開発者にとって最も重要な技術的スキルは何ですか？そして開発者はどのように技能を築くのでしょうか？**
 
-> Developers need to have diagnostic skill. They should do more coding as experience will be gained along the way, even from the mistakes that they made.
+> 開発者は診断能力が必要です。たとえ間違いがあっても、その過程で経験が得られるので、より多くのコーディングを行うべきです。
 
-**Other than technical skills, what are the soft skills that are crucial for a developer?**
+**技術スキル以外に、開発者にとって重要なソフトスキルは何ですか？**
 
-> It would be logical thinking to deliver what is expected and what exception scenarios are required to be handled, either from the system or the human perspective. Teamwork and self-discipline are important too.
+> システムであっても人間の視点からであっても、期待通りのものと、例外的なシナリオが処理される必要があることを、伝える論理的思考でしょうね。チームワークと自己規律も重要です。
 
-**What are the possible career paths for a developer?**
+**開発者にとって可能なキャリアパスは何ですか？**
 
-> A developer can become a technical lead, an R&D lead or a project manager. Some can even become business owners if they have great ideas.
+> 開発者は、技術リード、R＆Dリードまたはプロジェクトマネージャになれるでしょう。優れたアイディアがあれば、ビジネスオーナーになることも可能です。
 
-**Do you see any difference between the competency or work attitude when you were a fresh graduate, and the fresh graduates today?**
+**ご自身が新卒者であった時と今日の新卒者に、能力や仕事の態度おける違いは、何かありますか？**
 
-Yes, in my company we find that fewer fresh graduates are willing to take up employment as a developer nowadays due to long working hours. 
+はい、私の会社では、就業時間が長いために、最近では、開発者として働きたがる、意欲のある新卒者が少なくなっています。
 
-**Are the fresh graduates today equipped with the right skills and attitudes?**
+**最近の新卒者は、適切なスキルと態度を備えていますか？**
 
-In fact, skills and attitudes are dependent on the individual. As long as universities keep their courses up-to-date according to the needs of the market, it would be easy for the fresh graduates to adapt to the industry.
+実際、技能や態度は個人に依存していると思います。大学が市場のニーズに応じて最新のコースを維持している限り、新卒者が業界に適応することは簡単です。
 
-**What advice would you give a fresh graduate entering the industry as a developer?**
+**新卒者が業界に参入する際のアドバイスはありますか？**
 
-Interest is the key to success and don’t be afraid of failure or making mistakes.
+関心は成功への鍵であり、失敗や失敗を恐れることはありません。
 
  
