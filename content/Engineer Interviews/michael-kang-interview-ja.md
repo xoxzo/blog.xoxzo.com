@@ -1,11 +1,11 @@
-Title: Michael Kang: Diagnostic skill and logical thinking are the most desirable skills
-Date: 2018-06-08 12:00
+Title: Michael Kang氏: 診断能力と論理的思考が、最も望ましいスキル
+Date: 2018-07-20 12:00
 Author: Ai Sin Chan
-Tags: interviews; engineer; michael kang; malasya; myebills; 2018;
+Tags: インタビュー; 開発者; michael kang; マレーシア; myebills; 2018;
 Lang: ja
 Slug: interview-with-michael-kang
 Thumbnail: images/michaelkang.jpg
-Summary: We interviewed Michael Kang, Technical Director for MYeBills Consulting.
+Summary: MYeBills Consultingのテクニカルディレクターである Michael Kang氏にインタビューしました。
 
  
 17年前に、ソフトウェアエンジニアとしての開発のキャリアをスタートした、Michael Kang氏から、ウェブチャットにて、楽しくお話を伺いました。Kang氏は現在、電子請求書作成ソフトウェアを専門とするマレーシア企業である、MYeBills Consulting Sdn.Bhd.のテクニカルディレクターです。. Kang氏は同社の設立以来、MYeBillsに勤務しており、現在は同社のR＆D、プロフェッショナルサービス、テクニカルサポートチームを率いています。
