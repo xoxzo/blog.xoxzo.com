@@ -63,6 +63,7 @@ Most of the phones in the 1G era were:
 -	hence a symbol of affluence and social status. 
 
 The limitations of 1G mobile technology were:
+
 -	Poor sound quality;
 -	Limited coverage;
 -	Full analog mode of communication, hence inefficient use of the spectrum; 
