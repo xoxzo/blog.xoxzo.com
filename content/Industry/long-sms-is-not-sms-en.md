@@ -1,25 +1,25 @@
-Title: 長文SMSというのは、Eメールのこと 
-Date: 2018-07-20 17:00 
+Title: long-bodytext SMS = E-mail 
+Date: 2018-07-26 17:00 
 Slug: long-sms-is-not-sms 
 Lang: en 
-Tags: 2018; sms; 長文; ショートメッセージ; 電子メール; 
+Tags: 2018; sms; long-message; SMS; email; 
 Author: Iqbal Abdullah 
-Summary: そもそも70文字までしか送れないSMSですが、長文を送るのはアリなのか。
+Summary: Why do we send the messages longer than SMS standard still as SMS?
 
-最近、よく「〇〇社が700文字以上ショートメッセージ送れるけど、おたくもはできますか？」
-のような 問い合わせをいただていますが、そもそも**「ショートメッセージ」というサービスで長文を送る**ことって、 
-アリなのか、と考えてみたいと思います。
 
-そもそも、ショートメッセージ(SMS)を送ると、どんな相手でも1通は70文字までしか送れません。 
-使うサービスによって、長文のメッセージを、本来複数の送信になるところを、1つのメッセージとして 
-まとめてくれる機能もありますが、1通のメッセージは70文字までしか入らないことはかわりません。
+"Corporation XXX provides long-bodytext SMS service up to 700 letters, how about you?"
+Recently we often receive this kind of inquiries.
+Taking this chance, I want to deep dive into **Why we send _LONG_ messages using _Short_ message service**.
 
-その点からすると、弊社運営のSMS配信APIを使うと、
-複数のメッセージに 分割することで、いくらの長さのメッセージでも送れます。
+To begin with, SMS (_Short Messaging Services_) can send only up to 160 ASCII (70 non-ASCII) letters no matter who is your recipient.
+Some services provide function to allow you sending longer than that standard as one message, 
+_One Message Up to 160 ASCII (70 non-ASCII)_ is a golden rule.
 
-では、できるからと言ってやるべきものなのか。
+Using Xoxzo's SMS-APIs, long messages can be sent (delivers divided multiple message) like one message.
 
-結論からと言えば、「ノー」です。
+I wonder whether we should do or not, when it is technically possible.
+
+I would say **No**.
 
 開封率が高いと言えども
 前回のブログ投稿「ビジネス・コミュニケーションにSMSを取り入れる理由」 にも
