@@ -1,4 +1,4 @@
-Title: long-bodytext SMS = E-mail 
+Title: Long SMS is no longer SMS
 Date: 2018-07-26 17:00 
 Slug: long-sms-is-not-sms 
 Lang: en 
@@ -21,35 +21,34 @@ I wonder whether we should do or not, when it is technically possible.
 
 I would say **No**.
 
-開封率が高いと言えども
-前回のブログ投稿「ビジネス・コミュニケーションにSMSを取り入れる理由」 にも
-掲載をしていますが、電子メールに比べ、SMSの開封率は高いです。着信３秒後、ほとんどの人はメッセージを開封して読みます。
+Although the opening rate is way higher
+Our prior blog post [Why you should adopt SMS for your business communication](https://blog.xoxzo.com/en/2018/04/06/why-adopt-sms/) says, the opening rate for SMS is higher than email. Most of the people would open and read SMS within 3 sec from the delivery.
 
-開封率が高いと聞いて、伸び悩みの電子メールからSMSへのマーケテイングに力を入れて切り替えよう、というビジネスは少なくありません。
+Not a few businesses would shift their marketing campaigns using SMS from sluggish rising emails as they got to know this.
 
-しかし、SMSはその規格によって英数字以外の文字で送ると、最大1つのSMSに70文字しか入りません。この規格は、どこの国でも、どのサービス でも代わりはありません。お使いになっているベンダーの送信画面で70文字以上のメッセージを送信できるとなっても、メッセージ は必ず分割されて、その分の通数が課金されます。 分割されてしまったメッセージは、受信側の機種によって送った順に届く保証もありません。
+But please note that SMS has own regulation that can fit only up to 70 letters (non-ASCII) and this is true in the whole wide world, no matter which service you use. In case you find your vender's sending page says they can accept the message longer than that, the message will be devided on sending and you will be charged for exactly the number of messages divided. There is no assurance that those divided messages are to be delivered in the order as you sent. 
 
-SMSは、短い文字数で、伝えたいメッセージを伝えて直感的に何かのアクションを起こさせる有効なツールです。 メールのように、たくさんの文字が届いて、下手したら複数のバラバラのSMSで届いてしまうとむしろ カスタマー・エクスペリエンス (UX) が低下すると同時に、二度とその配信者からのメッセージを読みたくなくなる恐れがあります。
+**SMS is an effective tool to send a short message that will trigger an intuitive action SMS.** If the marketing SMS is delivered with a long message like an email, which also was in multiple diviced message unfortunately sometimes not in the right order... that would lower the Customer Experience (UX) for sure, as well as the recipient would never read the SMM from you.
 
-価格は800倍の差
-相場としてそこそこ実績がある程度のところならはメールは１通あたり 0.025円 というぐらいのコストに対して、SMSは 1通あたり10円から20円になります。
+SMS cost 800 times more
+SMS sending costs JPY 10 - 20/message while the email does only JPY 0.025 with well established service.
 
-単純に200文字のメールマガをSMSで送るとしてしまうと、1通が0.025円から30円になります。1000人のお客様に送るとしたら メールで送ると25円のところ3万円になります。
+If you try to shift sending 200 letters email magazine to use SMS, the cost of one message increases from JPY 0.025 to JPY 30. The total cost to send 1,000 customers will be as much as JPY 30,000 via SMS while it can be done by JPY 25.
 
-開封率が高いからと言って、 メールで伝えようとしていたことを、そのままSMSに送ろうということは、ないです。
+So there seems no ways to use SMS sending what you were to send via email, no matter how good opening rates SMS has.
 
-パーソナライズできるからこそ、開封率が高いSMSなので、メールマーケテイング感覚でSMSを送ると、お客様は離れていく。 もちろんエンドユーザのお客様によりますが、月に４通程度のマーケテイングSMSはすでに多すぎると言われています。
+The high opening rates that SMS has is built up because the messages can be personalized. The customers will leave you if you send SMS like you do email martketing. It of course depends on the customers, but this is common saying that 4 times a month marketing SMS would be alrays too mugh.
 
-で、どうすればいいでしょうか。
-繰り返しになりますが、 SMSは、短い文字数で、伝えたいメッセージを伝えて直感的にアクションを起こさせるツールです。 この「アクション」というのは、一般的にあるリンクをクリックすることか、ある電話番号に電話をかけてもらうことです。
+What will we do then?
+Please let me repeat here, **SMS is an effective tool to send a short message that will trigger an intuitive action SMS.** What this **action** really means is **to click on a link** or **to call a phone**
 
-誰が読んでも何かしら欲しがる情報が載っているだろう、というメールの大量配信と違って、 読む側に短い文書で直感的にアクションを起こしてもらうなら、読む側は何がほしいななのか、知ることが一番大事です。 当たり前のようなことですが、実際にとても難しいことで、細かく顧客管理システム (CRM) などを運用していなければ、なかなかできないことです。
+Different from the mass-email sending that could include the genetic information, the sender has to study and know your customer for sending a short & effective SMS that could trigger the action of your user... This seems quite basic but actually is a high level work to do, not all people can do who had never up to CRM (sustomer management). Please know your customer.
 
-まとめ
-ショートメッセージは、その名のとおり、短文を送るサービスです。
+Summary
+Short-Message-Service is the service to send **Short** messages as it is named as.
 
-どうしてもたくさんのお得の情報を伝えたいなら、スマホ対応サイトに情報を載せ、SMSの中に誘導するリンクを埋め込めましょう。 リンクを載せることさえ70文字の制限にも入ることを忘れなく、URL短縮サービスなどを使って簡潔な文章を作りましょう。
+In case you really have to inform your customers with tons of sales notices, please prepare a smart-phone sized website full of information, send the URL via SMS. Please note that the link URL is also counted as the letters, so use URL shortening service to make it short and create as simple message as possible.
 
-誘導リンクを使うとことで、簡潔に短いSMSを送ることができる他、リンク解析ツールなどを使うと、 SMSの配信効果（開封率など）も分析することが可能になります。
+Using this URL messages, you are not only sending simple and short messages but also are able to track the effectiveness of the SMS notice by utilizing the link-analysis tools.
 
-SMSとメールは、どちらか一方がより優れている連絡手段ではなく、それぞれのメリットとデメリットがあることから、 それを理解することと、使い分けることがとても重要です。
+It is important to understand the differences between SMS and emails and advantage of each tool and select one of them according to the situation, they are both good communication tools.
