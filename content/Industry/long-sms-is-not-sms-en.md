@@ -29,19 +29,21 @@ Not a few businesses would shift their marketing campaigns using SMS from sluggi
 
 But please note that SMS has own regulation that can fit only up to 70 letters (non-ASCII) and this is true in the whole wide world, no matter which service you use. In case you find your vender's sending page says they can accept the message longer than that, the message will be devided on sending and you will be charged for exactly the number of messages divided. There is no assurance that those divided messages are to be delivered in the order as you sent. 
 
-**SMS is an effective tool to send a short message that will trigger an intuitive action.** If the marketing SMS is delivered with a long message like an email, which also was in multiple diviced message unfortunately sometimes not in the right order... that would lower the Customer Experience (UX) for sure, as well as the recipient would never read the SMS from you.
+**SMS is an effective tool to send a short message that will trigger an intuitive action.** If the marketing SMS is delivered with a long message like an email, which also was in multiple diviced messages, unfortunately sometimes not in the right order... that would lower the Customer Experience (UX) for sure, as well as the recipient, would never read the SMS from you.
+
+![businessman_lots_SMS](images/industry/businessman.jpg)
 
 ## SMS cost 800 times more
 SMS sending costs JPY 10 - 20/message while the email does only JPY 0.025 with well established service.
 
 If you try to shift sending 200 letters email magazine to use SMS, the cost of one message increases from JPY 0.025 to JPY 30. The total cost to send 1,000 customers will be as much as JPY 30,000 via SMS while it can be done by JPY 25.
 
-So there seems no ways to use SMS sending what you were to send via email, no matter how good opening rates SMS has.
+So there seems no ways to use SMS sending for what you were to send via email, no matter how good opening rates SMS has.
 
-The high opening rates that SMS has is built up because the messages can be personalized. The customers will leave you if you send SMS like you do email martketing. It of course depends on the customers, but this is common saying that 4 times a month marketing SMS would be already too much.
+The high opening rates that SMS has is built up because the messages can be personalized. The customers will leave you if you send SMS like you do email martketing. It, of course, depends on the customers, but this is common saying that 4 times a month marketing SMS would be already too much.
 
 ## What will we do then?
-Please let me repeat here, **SMS is an effective tool to send a short message that will trigger an intuitive action.** What this **action** really means is **to click on a link** or **to call a phone**
+Please let me repeat here, **SMS is an effective tool to send a short message that will trigger an intuitive action.** What this **action** really means is **to click on a link** or **to call a phone**.
 
 Different from the mass-email sending that could include the genetic information, the sender has to study and know your customer for sending a short & effective SMS that could trigger the action of your user... This seems quite basic but actually is a high level work to do, not all people can do who had never up to CRM (customer management). Please know your customer.
 
