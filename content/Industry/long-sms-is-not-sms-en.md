@@ -29,7 +29,7 @@ Not a few businesses would shift their marketing campaigns using SMS from sluggi
 
 But please note that SMS has own regulation that can fit only up to 70 letters (non-ASCII) and this is true in the whole wide world, no matter which service you use. In case you find your vender's sending page says they can accept the message longer than that, the message will be devided on sending and you will be charged for exactly the number of messages divided. There is no assurance that those divided messages are to be delivered in the order as you sent. 
 
-**SMS is an effective tool to send a short message that will trigger an intuitive action SMS.** If the marketing SMS is delivered with a long message like an email, which also was in multiple diviced message unfortunately sometimes not in the right order... that would lower the Customer Experience (UX) for sure, as well as the recipient would never read the SMM from you.
+**SMS is an effective tool to send a short message that will trigger an intuitive action.** If the marketing SMS is delivered with a long message like an email, which also was in multiple diviced message unfortunately sometimes not in the right order... that would lower the Customer Experience (UX) for sure, as well as the recipient would never read the SMS from you.
 
 ## SMS cost 800 times more
 SMS sending costs JPY 10 - 20/message while the email does only JPY 0.025 with well established service.
@@ -38,12 +38,12 @@ If you try to shift sending 200 letters email magazine to use SMS, the cost of o
 
 So there seems no ways to use SMS sending what you were to send via email, no matter how good opening rates SMS has.
 
-The high opening rates that SMS has is built up because the messages can be personalized. The customers will leave you if you send SMS like you do email martketing. It of course depends on the customers, but this is common saying that 4 times a month marketing SMS would be alrays too mugh.
+The high opening rates that SMS has is built up because the messages can be personalized. The customers will leave you if you send SMS like you do email martketing. It of course depends on the customers, but this is common saying that 4 times a month marketing SMS would be already too much.
 
 ## What will we do then?
-Please let me repeat here, **SMS is an effective tool to send a short message that will trigger an intuitive action SMS.** What this **action** really means is **to click on a link** or **to call a phone**
+Please let me repeat here, **SMS is an effective tool to send a short message that will trigger an intuitive action.** What this **action** really means is **to click on a link** or **to call a phone**
 
-Different from the mass-email sending that could include the genetic information, the sender has to study and know your customer for sending a short & effective SMS that could trigger the action of your user... This seems quite basic but actually is a high level work to do, not all people can do who had never up to CRM (sustomer management). Please know your customer.
+Different from the mass-email sending that could include the genetic information, the sender has to study and know your customer for sending a short & effective SMS that could trigger the action of your user... This seems quite basic but actually is a high level work to do, not all people can do who had never up to CRM (customer management). Please know your customer.
 
 ## Summary
 Short-Message-Service is the service to send **Short** messages as it is named as.
@@ -52,4 +52,4 @@ In case you really have to inform your customers with tons of sales notices, ple
 
 Using this URL messages, you are not only sending simple and short messages but also are able to track the effectiveness of the SMS notice by utilizing the link-analysis tools.
 
-It is important to understand the differences between SMS and emails and advantage of each tool and select one of them according to the situation, they are both good communication tools.
+It is important to understand the differences between SMS and emails and take advantage of each tool and select one of them according to the situation, they are both good communication tools.
