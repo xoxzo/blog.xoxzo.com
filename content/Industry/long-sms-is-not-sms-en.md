@@ -31,7 +31,7 @@ But please note that SMS has own regulation that can fit only up to 70 letters (
 
 **SMS is an effective tool to send a short message that will trigger an intuitive action.** If the marketing SMS is delivered with a long message like an email, which also was in multiple diviced messages, unfortunately sometimes not in the right order... that would lower the Customer Experience (UX) for sure, as well as the recipient, would never read the SMS from you.
 
-![businessman_lots_SMS](images/industry/businessman.jpg)
+![businessman_lots_SMS](images/businessman.jpg)
 
 ## SMS cost 800 times more
 SMS sending costs JPY 10 - 20/message while the email does only JPY 0.025 with well established service.
