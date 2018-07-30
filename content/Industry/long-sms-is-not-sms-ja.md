@@ -36,7 +36,7 @@ SMSは、短い文字数で、伝えたいメッセージを伝えて直感的�
 メールのように、たくさんの文字が届いて、下手したら複数のバラバラのSMSで届いてしまうとむしろ
 カスタマー・エクスペリエンス (UX) が低下すると同時に、二度とその配信者からのメッセージを読みたくなくなる恐れがあります。
 
-![businessman_lots_SMS](images/businessman.jpg)
+![businessman_lots_SMS](/images/businessman.jpg)
 
 ## 価格は800倍の差
 
