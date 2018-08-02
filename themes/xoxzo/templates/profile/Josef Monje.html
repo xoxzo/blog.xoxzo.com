@@ -1,0 +1,27 @@
+{% if DEFAULT_LANG == "en" %}
+<div class="author-profile container">
+  <div class="row">
+    <div class="col-lg-4">
+      <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/josef.jpg">
+    </div>
+    <div class="col-lg-8 profile-content">
+      <h3>Josef Monje</h3>
+      <h4>Engineer</h4>
+      <p>Joined June 2018. Major in Psychology from Ateneo De Manila University. Previous worked in Analyst and HR roles. Programming was a longtime hobby until he decided to pursue his passion professionally and develop for the web. He loves Python more than JavaScript and he likes tinkering with Raspberry Pies.</p>
+    </div>
+  </div>
+</div>
+{% else %}
+<div class="author-profile container">
+  <div class="row">
+    <div class="col-lg-4">
+      <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/josef.jpg">
+    </div>
+    <div class="col-lg-8 profile-content">
+      <h3>ホセ・モンジェ</h3>
+      <h4>エンジニア、開発担当</h4>
+      <p>2018年6月入社。アテネオ・デ・マニラ大学にて心理学を専攻。分析や人事分野での職歴を持つ。プログラミングは長年の趣味であったが、仕事にしたい、ウェブを開発したいという情熱に従い決断した。JavaScriptよりもPythonを愛し、Raspberry Piesにひらめきを得るのが好き。</p>
+    </div>
+  </div>
+</div>
+{% endif %}
