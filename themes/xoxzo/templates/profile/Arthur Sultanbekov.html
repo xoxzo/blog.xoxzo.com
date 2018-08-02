@@ -1,0 +1,27 @@
+{% if DEFAULT_LANG == "en" %}
+<div class="author-profile container">
+  <div class="row">
+    <div class="col-lg-4">
+      <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/arthur.jpg">
+    </div>
+    <div class="col-lg-8 profile-content">
+      <h3>Arthur Sultanbekov</h3>
+      <h4>Engineer</h4>
+      <p>Joined January 2017. A geophysician in past, but decided that web is more interesting for him. Previous work was at small Russian telephony company. Learning python/Django and Javascript languages, web development and Linux administration.</p>
+    </div>
+  </div>
+</div>
+{% else %}
+<div class="author-profile container">
+  <div class="row">
+    <div class="col-lg-4">
+      <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/arthur.jpg">
+    </div>
+    <div class="col-lg-8 profile-content">
+      <h3>アーサー・サルタンビコフ</h3>
+      <h4>エンジニア、開発担当</h4>
+      <p>2017年1月入社。元・地球物理学者だが、ウェブのほうが魅力的であると気づく。前職は、ロシアのテレフォニー企業。PythonとDjangoに加え、Javascript言語やウェブ開発、Linux管理を学ぶ。</p>
+    </div>
+  </div>
+</div>
+{% endif %}
