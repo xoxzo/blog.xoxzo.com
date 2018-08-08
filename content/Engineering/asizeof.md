@@ -102,7 +102,7 @@ print( asizeof.asizesof(dummy.a, dummy.b, dummy.c, dummy.d) )
 (592, 512, 4194368, 472)
 ```
 
-And from above above we can see, that `dummy.c` takes a lot of memory, which
+And from above command we can see, that `dummy.c` takes a lot of memory, which
 is an attribute of Dummy class:
 
 ```python
