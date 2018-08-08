@@ -51,10 +51,12 @@ counts whole size of object, including size of inner items:
 
 You can find a bottleneck in your script using `asizeof` by checking the size of
 values in your script. In complex and complicated scripts, probably we will need
-another more convenient tools, but in small scripts `asizeof` will be enough.
-
-Also `asizeof` can be used in `for` loops, or when you want to get exact size
-of some value (it is harder to do with another more complicated tools).
+another more convenient tools, but in small scripts `asizeof` will be handy.
+Asizeof can be used when you intuitively guess which variable can be problematic,
+and check its size, to to confirm the hunch. But if you totally don't know where
+the issue may be, and if your problematic code consist of dozens or
+hundrets of lines, then better to use memory profilers, because you cannot write
+`print(asizeof())` on every variable.
 
 Example:
 
