@@ -65,16 +65,19 @@ curl -u <API SID>:<Auth Token> --data-urlencode "sender=XoxzoBlog" --data-urlenc
 ```
 
 ![apiexp8](/images/apiexp8.jpg)
- 
-The Message ID was displayed after my command. Subsequently I issued this command to [check the SMS status](https://blog.xoxzo.com/2017/11/15/checking-your-sms-status/). 
+
+コマンドの後、メッセージIDが表示されました。その後、私は
+[SMSのステータスを確認する](https://blog.xoxzo.com/ja/2017/11/15/checking-your-sms-status/)ため、このコマンドを実行しました。
 
 ![apiexp9](/images/apiexp9.jpg)
- 
-Meanwhile the SMS notification ringtone was audible on my mobile phone. I received the [SMS sent from the web](https://www.xoxzo.com/en/about/sms-api/):
+
+一方、SMS通知着信音が、私の携帯電話から聞こえました。私は[ウェブから送信されたSMS](https://www.xoxzo.com/ja/about/sms-api/)を受信したのです：
 
 ![apiexp10](/images/apiexp10.jpg)
- 
-With less than 50 credits, I was still able to try out [Telephony Utilities API](https://www.xoxzo.com/en/about/utilities-api/) – Carrier Lookup API. I used a Japan mobile number and a Malaysia mobile number to try out this function. The commands I issued and the screenshot:
+
+50クレジットもかけず、私は、[テレフォニーユーティリティAPI](https://www.xoxzo.com/en/about/utilities-api/)
+- キャリア検索API を試してみることができました。私は日本の携帯電話番号とマレーシアの携帯電話番号を使ってこの機能を試しました。
+私が実行したコマンドとスクリーンショット：
 
 ```
 curl -u <API SID>:<Auth Token>  --data-urlencode "recipient=+81yyyyyyyy" https://api.xoxzo.com/utilities/carrierlookup/
@@ -82,12 +85,13 @@ curl -u <API SID>:<Auth Token>  --data-urlencode "recipient=+81yyyyyyyy" https:/
 
 ![apiexp11](/images/apiexp11.jpg)
  
-The Japan number I entered was subscribed from Asahi Net, an MVNO. The MVNO was not displayed, instead the actual infrastructure owner was displayed, in this case, NTT Docomo. The Malaysia number I entered had been ported to a different carrier (Celcom), in this case Maxis was displayed which was the carrier before porting. I am aware that the MNP (Mobile Number Portability) is supported on a best effort basis and is dependent on the end carrier, so in my case it is not reflected. 
+私が入力した日本の電話番号は、MVNOのAsahi Netから購読しました。MVNOは表示されず、実際のキャリア（この場合はNTT Docomo）が表示されました。私が入力したマレーシアの番号は、別のキャリア（Celcom）に変更したものでした。今回、変更前のキャリアであったMaxisが表示されました。私はナンバーポータビリティ（Mobile Number Portability）がベストエフォートベースでサポートされており、エンドキャリアに依存していることを認識しており、私の場合は反映されていないということです。
 
-When I entered a fixed line number, all the parameters returned were ‘null’. This function is only meant for mobile numbers. This function can be used to check validity of a mobile number, whether it is still in use. 
+固定電話の番号を入力すると、返されるパラメータはすべて「null」でした。この機能は、携帯電話番号のみを対象としています。この機能は、使用されているかどうかにかかわらず、携帯電話番号の有効性をチェックするために使用できます。
+
 
 ![apiexp12](/images/apiexp12.jpg)
  
-Mobile numbers from any country is supported, I tried out a few more mobile numbers in various continents from my phone book, they all returned results. Screenshots are omitted for brevity, clarity, and confidentiality purposes. 
+どの国の携帯電話番号もサポートされています。電話帳からさまざまな大陸の携帯電話番号を試しましたが、すべてに結果が返されました。スクリーンショットは、簡潔さ、明確さ、機密性の目的で省略します。
 
-(to be continued)
+(次回へ続く)
