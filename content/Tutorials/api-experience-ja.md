@@ -27,10 +27,12 @@ Windowsコマンドプロンプトからすべてのコマンドを実行しま�
 コマンドプロンプトに慣れている人は、ナビゲートには、CDコマンドが必要なだけです。
 それ以外はCURL関数です。コマンドプロンプトを使用したことのない方は、ユーザーマニュアルをチェックし、
 [コマンドプロンプトの使い方](https://techacademy.jp/magazine/5318)を小一時間ほど、勉強するといいかと思います。
-実際には、CD（ディレクトリの変更）には少数のコマンドを使って練習するだけで十分です。
+実際には、CD（ディレクトリの変更）にはほんの少しコマンドを使って練習するだけで十分です。
 
-
-I decided to start with [Voice API](https://www.xoxzo.com/en/about/voice-api/) – Audio File Playback API. I found an MP3 audio file playing harpsichord music with a [URL pointing to it](http://www.hubharp.com/web_sound/WalloonLilliShort.mp3), this is a pre-requisite to run the API. I modified the commands from the [Xoxzo tutorial](https://blog.xoxzo.com/2017/11/28/making-a-simple-playback-call/) to suit my situation. Here’s the command I issued, followed by the screenshot from my Command Prompt: 
+私は [音声通話API](https://www.xoxzo.com/ja/about/voice-api/) - オーディオファイル再生API から始めることにしました。
+私は[ハープシコードの音楽を再生するMP3オーディオファイル](http://www.hubharp.com/web_sound/WalloonLilliShort.mp3)を見つけました。
+それを指すURLが、APIを実行するための前提条件です。
+私は、[Xoxzo チュートリアル](https://blog.xoxzo.com/2017/11/28/making-a-simple-playback-call/)のコマンドを 、私の環境に合わせて調整しました。私のコマンドは、こんな感じです。スクリーンショットも続いて御覧ください。
 
 ```
 curl -u <API SID>:<Auth Token> --data-urlencode "caller=+60xxxxxxx" --data-urlencode "recipient=+81yyyyyyyy" --data-urlencode "recording_url=http://www.hubharp.com/web_sound/WalloonLilliShort.mp3" https://api.xoxzo.com/voice/simple/playbacks/
@@ -38,9 +40,9 @@ curl -u <API SID>:<Auth Token> --data-urlencode "caller=+60xxxxxxx" --data-urlen
 
 ![apiexp4](/images/apiexp4.jpg) 
 
-A Call ID was displayed on Command Prompt. Then my phone started to ring. I answered and heard the harpsichord music playing through my phone. 
+コマンドプロンプトにCallIDが表示されました。その後、私の電話が鳴り始めました。電話に出ると、ハープシコードの音楽が流れました。
 
-Immediately after the successful voice call, I checked the call status using the Check Call Status API, by specifying the Call ID displayed on Command Prompt. Here was the command I issued, followed by the screenshot:
+音声コールの成功直後に、コマンドプロンプトに表示されたCallIDを指定し、コールステータスチェックAPIにてコールステータスをチェックしました。こちらが私のコマンドと、スクリーンショットです。
 
 ```
 curl -u <API SID>:<Auth Token> https://api.xoxzo.com/voice/calls/41c181b6-1817-4f91-8a4f-5e0cf5105092/
@@ -48,18 +50,18 @@ curl -u <API SID>:<Auth Token> https://api.xoxzo.com/voice/calls/41c181b6-1817-4
 
 ![apiexp5](/images/apiexp5.jpg)
 
-I checked my Xoxzo account, my credits were deducted by 16, and I was left with 34 credits, here is the screenshot:
+私は自分のアカウントをチェックし、16クレジットが差し引かれ、34クレジットが残っているのを確認しました。こちらが、スクリーンショットです。
 
 ![apiexp6](/images/apiexp6.jpg)
- 
-I no longer have enough credits to test out other Voice APIs, such as Text-to-Speech and Conference. The minimum required credits is 40. When I attempted to make a Text-to-Speech voice call, it failed.
+
+テキスト読み上げ機能機能や電話会議APIなどの、他のVoice APIをテストするのに必要なクレジットが足りなくなってしまいました。40クレジットが、最低でも必要です。私は、テキスト読み上げ機能を使い、音声通話を試みたとき、失敗をしました。
 
 ![apiexp7](/images/apiexp7.jpg)
- 
-So, I tried [sending SMS](https://blog.xoxzo.com/2017/10/31/sending-your-first-sms/) next. This was the command I issued, followed by the screenshot of the Command Prompt: 
+
+ですから、次に、[SMSの送信](https://blog.xoxzo.com/ja/2017/10/31/sending-your-first-sms/) を試したのです。こちらが、私の使ったコマンドで、続いてコマンドプロンプトのスクリーンショットです：
 
 ```
-curl -u <API SID>:<Auth Token> --data-urlencode "sender=XoxzoBlog" --data-urlencode "recipient=+81yyyyyyyy" --data-urlencode "message=Hello world, this is my first SMS sent over the Xoxzo platform." https://api.xoxzo.com/sms/messages/
+curl -u <API SID>:<Auth Token> --data-urlencode "sender=XoxzoBlog" --data-urlencode "recipient=+81yyyyyyyy" --data-urlencode "message=これは初めてのSMSです。Xoxzoプラットフォームから送っています。" https://api.xoxzo.com/sms/messages/
 ```
 
 ![apiexp8](/images/apiexp8.jpg)
