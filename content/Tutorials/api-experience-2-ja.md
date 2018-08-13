@@ -20,8 +20,9 @@ Xoxzo APIを使った [私のユーザーエクスペリエンス]
 サポート可能な言語は、英語と日本語です。
 これは私が実行したコマンドであり、続いてWindows OSでのコマンドプロンプトのスクリーンショットが続きます。
 
-
+```
 curl -u <API SID>:<Auth Token> --data-urlencode "caller=+60xxxxxxx" --data-urlencode "recipient=+81yyyyyyyy" --data-urlencode "tts_lang=en" --data-urlencode "tts_message='Hello world, this is my first attempt at Xoxzo text-to-speech call. Testing, 1,, 2,,,3.'" https://api.xoxzo.com/voice/simple/playbacks/
+```
 
 ![apiexp2](/images/apiexp21.jpg)
 
@@ -36,7 +37,9 @@ curl -u <API SID>:<Auth Token> --data-urlencode "caller=+60xxxxxxx" --data-urlen
 その後、提供されたCallIDを使用して、自分のテキスト音声変換を使った通話の、ステータスを確認しました。
 以下が、私の使用したコマンドとスクリーンショットです。
 
+```
 curl -u <API SID>:<Auth Token> https://api.xoxzo.com/voice/calls/7142d264-a945-41ed-8dcb-c28dc7a8c339/
+```
 
 ![apiexp2](/images/apiexp22.jpg)
 
@@ -44,7 +47,9 @@ curl -u <API SID>:<Auth Token> https://api.xoxzo.com/voice/calls/7142d264-a945-4
 両方の受信者が応答すると、その通話はブリッジされ、お互いに話すことができました。
 以下が、私の使用したコマンドとスクリーンショットです。
 
+```
 curl -u <API SID>:<Auth Token> --data-urlencode "caller=+60xxxxxxx" --data-urlencode "participants=+81yyyyyyyy,+81zzzzzzzz" https://api.xoxzo.com/voice/simple/conferences/
+```
 
 ![apiexp2](/images/apiexp23.jpg)
  
@@ -54,7 +59,9 @@ curl -u <API SID>:<Auth Token> --data-urlencode "caller=+60xxxxxxx" --data-urlen
 
 次に、Conference IDを入力して、会議通話のステータスを確認しました。こちらが私のコマンドと、スクリーンショットです。
 
+```
 curl -u <API SID>:<Auth Token> https://api.xoxzo.com/voice/simple/conferences/b600722b-d1e0-4eaf-a4a9-ba33bfcc2560/
+```
 
 ![apiexp2](/images/apiexp24.jpg)
 
