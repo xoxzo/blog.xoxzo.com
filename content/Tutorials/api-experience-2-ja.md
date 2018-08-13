@@ -7,15 +7,15 @@ Thumbnail: images/apiexp21.jpg
 Lang: ja
 Summary: Xoxzo API の体験レポート
 
-Xoxzo APIを使った、[私のユーザーエクスペリエンス]
-(https://blog.xoxzo.com/ja/2018/08/10/user-experience-on-xoxzo-api-part-1/)の第2回 です。
+Xoxzo APIを使った [私のユーザーエクスペリエンス]
+(https://blog.xoxzo.com/ja/2018/08/10/user-experience-on-xoxzo-api-part-1/) の第2回 です。
 
 [オーディオファイルの再生](https://www.xoxzo.com/ja/about/voice-api/)、
-[SMS配信](https://www.xoxzo.com/en/about/sms-api/)、および [キャリア検索 API](https://www.xoxzo.com/en/about/utilities-api/)
+[SMS配信](https://www.xoxzo.com/ja/about/sms-api/)、および [キャリア検索 API](https://www.xoxzo.com/ja/about/utilities-api/)
 を試したあと、私は当初の50クレジットがほぼなくなっていました。
 だから、私は、アカウントにクレジットを補って、他の機能を試し続けました。
 
-まずは、[テキスト音声変換API](https://www.xoxzo.com/en/about/voice-api/)。このAPIはあなたが入力したテキストを読み上げることになっており、
+まずは、[テキスト音声変換API](https://www.xoxzo.com/ja/about/voice-api/)。このAPIはあなたが入力したテキストを読み上げることになっており、
 通話上では音声として聞こえます。
 サポート可能な言語は、英語と日本語です。
 これは私が実行したコマンドであり、続いてWindows OSでのコマンドプロンプトのスクリーンショットが続きます。
