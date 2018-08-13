@@ -33,27 +33,37 @@ curl -u <API SID>:<Auth Token> --data-urlencode "caller=+60xxxxxxx" --data-urlen
 で提案されていた通り、数字と数字の間に、カンマをいくつか入れて、
 実験しました。数同士の間がほんの少し開いたことに気づきました。
 
-その後、提供されたCallIDを使用して、自分のテキスト音声変換を使った通話の、ステータスを確認しました。以下が、私の使用したコマンドとスクリーンショットです。
-Subsequently, I used the Call ID provided to check the status of my Text-to-Speech call. Following is the command I used, and the screenshot.
+その後、提供されたCallIDを使用して、自分のテキスト音声変換を使った通話の、ステータスを確認しました。
+以下が、私の使用したコマンドとスクリーンショットです。
 
 curl -u <API SID>:<Auth Token> https://api.xoxzo.com/voice/calls/7142d264-a945-41ed-8dcb-c28dc7a8c339/
 
 ![apiexp2](/images/apiexp22.jpg)
 
-After being satisfied with Text-to-Speech, I tried out the [Conference API](https://www.xoxzo.com/en/about/voice-api/), which will initiate calls originating from the web to 2 numbers. When both recipients answer, the call will be bridged, and they can talk to one another. Following is the command I issued, and the screenshot. 
+テキスト音声変換に満足した後、私は [会議APIウェブ](https://www.xoxzo.com/ja/about/voice-api/)から発信する電話を2つの番号に発信しました。
+両方の受信者が応答すると、その通話はブリッジされ、お互いに話すことができました。
+以下が、私の使用したコマンドとスクリーンショットです。
 
 curl -u <API SID>:<Auth Token> --data-urlencode "caller=+60xxxxxxx" --data-urlencode "participants=+81yyyyyyyy,+81zzzzzzzz" https://api.xoxzo.com/voice/simple/conferences/
 
 ![apiexp2](/images/apiexp23.jpg)
  
-The command upon successfully entered, returned 1 Conference ID, and 2 Call IDs, ie: one Call ID per recipient for each leg of the conference call. In the meantime, my phone rang, I answered it and was able to talk to the other recipient like any normal phone call. Neither of us dialed to the other party, we both received a ringing call and answered the call. 
+コマンドが正常に入力されると、Conference IDが1つとCallIDが2つ返されます。
+その間、私の電話が鳴り、私はそれに応答し、通常の電話のように、もうひとりの受信者と話すことができました。
+私たちのどちらも、相手にダイヤルしていないのに、私たちはともかく電話を受けて通話ができました。
 
-Next, I entered the Conference ID to check the status of the conference call. This was the command I issued, followed by the screenshot. 
+次に、Conference IDを入力して、会議通話のステータスを確認しました。こちらが私のコマンドと、スクリーンショットです。
 
 curl -u <API SID>:<Auth Token> https://api.xoxzo.com/voice/simple/conferences/b600722b-d1e0-4eaf-a4a9-ba33bfcc2560/
 
 ![apiexp2](/images/apiexp24.jpg)
 
-When you sign up for a [free trial account](https://www.xoxzo.com/en/accounts/signup/), the complimentary 50 credits you receive will only be sufficient for 1 voice call, a few SMS, and a few carrier lookup attempts. So, take your pick on the voice call, whether you would like to try: audio file playback, text-to-speech call, or conference call. And you should do it while your credits are above 40, which is the minimum requirement for voice calls, although [call per minute](https://www.xoxzo.com/en/about/pricing/) costs much less than 40 credits. This is probably enforced to ensure you can have at least a few minutes on the call before running out of credits. Of course, you can always top up your credits to use more functions and make more calls. 
+[新規アカウント作成](https://www.xoxzo.com/ja/accounts/signup/)時に、無料で付与されるお試し用 50クレジットは、
+1通話やSMS数通、キャリア検索を数回試すのにちょうどいい量です。
+ですから、音声通話やオーディオファイルの再生、テキスト/音声通話、または会議通話のどれを試すのかを選んでください。
+また、[毎分の通話料金](https://www.xoxzo.com/ja/about/pricing/)は 40クレジット未満ですが、
+音声通話の最小要件であるクレジットが40を超えている間に、行う必要があります。
+これは、クレジットが足りなくなる前に、通話に少なくとも数分かかることは確実だとして、こうなっているのでしょう。
+もちろん、クレジットを購入し、より多くの機能を使用し、より多くの通話を行うことができます。
 
-My verdict? The [Xoxzo APIs](https://www.xoxzo.com/) are really easy to use. It is my first experience using web telephony, making a variety of voice calls and sending SMS from a computer with internet connection. You don’t have to be a developer to try out the APIs; basic computer literacy, in particular, basic command line interface (CLI) skills will suffice. 
+私の感想ですか？[XoxzoのAPI](https://www.xoxzo.com/ja/) は、本当に使いやすかったです。私がインターネットに接続したコンピュータから、ウェブテレフォニーを使用して、SMSを送信したり、さまざまな音声通話を行うのは初めてのことです。APIを試すのに、開発者である必要はありません。基本的なコンピュータリテラシー、特に基本的なコマンドライン・インターフェイス（CLI）スキルで十分なのです。
