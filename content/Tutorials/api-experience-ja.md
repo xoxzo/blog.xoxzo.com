@@ -75,7 +75,7 @@ curl -u <API SID>:<Auth Token> --data-urlencode "sender=XoxzoBlog" --data-urlenc
 
 ![apiexp10](/images/apiexp10.jpg)
 
-50クレジットもかけず、私は、[テレフォニーユーティリティAPI](https://www.xoxzo.com/en/about/utilities-api/)
+50クレジットもかけず、私は、[テレフォニーユーティリティAPI](https://www.xoxzo.com/ja/about/utilities-api/)
 - キャリア検索API を試してみることができました。私は日本の携帯電話番号とマレーシアの携帯電話番号を使ってこの機能を試しました。
 私が実行したコマンドとスクリーンショット：
 
