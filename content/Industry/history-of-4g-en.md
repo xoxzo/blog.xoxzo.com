@@ -1,4 +1,4 @@
-Title: A brief history of 4G mobile communication technology
+Title: A brief overview of 4G mobile communication technology
 Date: 2018-8-15 12:00
 Author: Ai Sin Chan
 Tags: 4g; technology; history; commercial; military; first phones; japan; malaysia; 2018; mobile; communication; 
@@ -26,6 +26,7 @@ With the availability of data rates as high as 1Gbps, many services can be suppo
 Samsung SCH-r900 was the [world’s first LTE mobile phone](http://www.gsmhistory.com/samsung-sch-r900/) available starting from September 21, 2010.
 
 ![history4g](/images/history4g02.jpg)
+[Image Credit](http://www.gsmhistory.com/samsung-sch-r900/)
 
 The first LTE-A mobile phone [Galaxy S5 Broadband LTE-A](https://news.samsung.com/global/samsung-launches-worlds-first-broadband-lte-a-smartphone) was launched, again by Samsung, on June 19, 2014. 
  
