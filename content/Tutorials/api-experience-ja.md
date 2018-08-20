@@ -10,13 +10,13 @@ Summary: XoxzoのAPI　利用体験レポート
 今日、Xoxzo APIを使ってSMSを送信し、テキスト読み上げや電話会議などの電話をかけ、テレフォニーユーティリティ機能のひとつ、キャリア検索を試してみました。
 まずはじめに、私は試用 に [Xoxzo アカウント](https://www.xoxzo.com/ja/accounts/signup/)に登録し、そこへお試し用、おまけ50クレジットが付与されました。
 
-![apiexp1](/images/apiexp1.jpg)
+![apiexp1](/images/XoxzoAPI_01_ja.png)
 
 私は[最初のAPIユーザー](https://blog.xoxzo.com/ja/2017/10/13/create-your-first-apiuser/)を作成し、
 以下のコマンドで使用する「API SID」と「認証トークン」を取得しました。
 
-![apiexp2](/images/apiexp2.jpg)
-![apiexp3](/images/apiexp3.jpg)
+![apiexp2](/images/XoxzoAPI_02_ja.png)
+![apiexp3](/images/XoxzoAPI_03_ja.png)
 
 次にラップトップに[CURL](https://curl.haxx.se/dlwiz/?type=*) をダウンロードしました。
 私はWindows OSを搭載したIntelプロセッサを使用しているので、
@@ -38,7 +38,7 @@ Windowsコマンドプロンプトからすべてのコマンドを実行しま�
 curl -u <API SID>:<Auth Token> --data-urlencode "caller=+60xxxxxxx" --data-urlencode "recipient=+81yyyyyyyy" --data-urlencode "recording_url=http://www.hubharp.com/web_sound/WalloonLilliShort.mp3" https://api.xoxzo.com/voice/simple/playbacks/
 ```
 
-![apiexp4](/images/apiexp4.jpg) 
+![apiexp4](/images/XoxzoAPI_04_ja.png) 
 
 コマンドプロンプトにCallIDが表示されました。その後、私の電話が鳴り始めました。電話に出ると、ハープシコードの音楽が流れました。
 
@@ -94,4 +94,4 @@ curl -u <API SID>:<Auth Token>  --data-urlencode "recipient=+81yyyyyyyy" https:/
  
 どの国の携帯電話番号もサポートされています。電話帳からさまざまな大陸の携帯電話番号を試しましたが、すべてに結果が返されました。スクリーンショットは、簡潔さ、明確さ、機密性の目的で省略します。
 
-(次回へ続く)
+[(次回へ続く)](https://blog.xoxzo.com/ja/2018/08/10/user-experience-on-xoxzo-api-part-2/)
