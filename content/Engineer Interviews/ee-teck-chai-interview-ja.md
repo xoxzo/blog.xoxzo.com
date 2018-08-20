@@ -33,46 +33,46 @@ Summary: We interviewed Ee Teck Chai.
 収益を増やし、同時にコストを節約できるよう支援することです。業界は大手のプレイヤーによって支配されていますが、
 小規模のプレイヤーにとって、入り込むすき間もあるのです。
  
-**As a software grows in features over the years, will there be a need to re-write the software from scratch?**
+**長年に亘って機能が増してきたソフトウェアは、一から書き直す必要があるでしょうか？**
 
-> As long as the architecture is well designed, it shall fulfill the current as well as future demand, re-writing or re-designing is not necessary.
+> アーキテクチャがうまく設計されている限り、現在および将来の要求を満たし、書き直しや再設計は、必要ありません。
 
-**I understand that you have years of experience working as a system architect. What are the most important considerations in system architecture design?**
+**システムアーキテクトとして長年の経験を持っていることと存じますが。システム・アーキテクチャー設計における、最も重要な考慮事項は何でしょうか？**
 
-> When designing a system, the goals should be:
+> システムを設計する際の目標は、以下のとおりです。
 
-> ·       Create a bug-free system
+> ·       バグのないシステムを作成する
 
-> ·       Create a high-performance system
+> ·       高性能システムを作成する
 
-> ·       Considerations on flexibility, with ease of maintenance and expansion
+> ·       メンテナンスと拡張が容易な柔軟性に考慮すること
 
-> ·       Aim to have less overhead
+> ·       オーバーヘッドを減らすことを目指す
 
-> ·       Functionality design with structural and hierarchical considerations
+> ·       F構造的および階層的を考慮した機能設計
 
-**What are the challenges that developers in your team might face when doing their jobs?**
+**あなたのチームの開発者が、仕事上直面する可能性のある課題は何でしょうか？**
 
-> Telco service providers have service level agreements to maintain, commonly at a system availability of 99% or more, so we aim to minimize system downtime at all cost. Developers need to have good technical skills on:
+> 通信事業者は、通常99％以上のシステム可用性を維持するためのサービスレベル契約を結んでいるため、システムのダウンタイムを最小限に抑えることを目指しています。開発者は次のような優れた技術を身につける必要があります。
 
-> ·       Telco service logic
+> ·       通信サービスロジック
 
-> ·       Programming on live service environment
+> ·      ライブサービス環境でのプログラミング
 
-> ·       Service architecture and logic
+> ·       サービスアーキテクチャとロジック
 
-**Are the developers in the industry fairly compensated in general?**
+**一般的な話、業界の開発者は適正な賃金を得ているでしょうか？**
 
-> The compensation is relatively fair.
+> 報酬は比較的適正です。
 
-**What do developers need to do to remain employable?**
+**雇用状態継続のために、開発者は何をする必要がありますか？**
 
-> Developers should keep up with changes in technology advancement in IT, improve and update their skillsets with time.
+> 開発者は、ITにおける技術進歩の変化に追いつき、時間とともにスキルセットを改善し、更新していくべきです。
 
-**Working in a constantly challenging industry, how do you achieve work-life balance?**
+**常に挑戦的な業界で働きながら、どのようにワークライフバランスを達成しているのですか？**
 
-> To relax from work, I do physical exercise, including yoga, and spend time with my family. Occasionally I also trek the jungle and climb mountains.
+> 仕事から解放されるために、私はヨガを含む体操をし、家族と時間を過ごしています。時々、ジャングルをトレッキングしたり山に登ることもあります。
 
-**How does mountain climbing or jungle trekking help you to take a break from work and recharge your energy?**
+**登山やジャングルのトレッキングには、仕事から解放され、次なるエネルギーを充電するのに、どのように役立ちますか？**
 
-> Living in a fast-paced era, and a dense city full of skyscrapers, it can feel imprisoning. Nature is captivating and liberating for the body and the mind, it is like a magnet that draws me to the mountains. I had trekked to the summit of [Gunung Ledang](http://www.johornationalparks.gov.my/v3/gunung-ledang/), and the [Gunung Kinabalu](https://www.mountkinabalu.com/) base camp. When climbing a mountain, at times I was carrying the tent and equipment weighing 20kg, every step forward was a challenge, but it was impossible to stop or go backward, I could only continue to move forward, just like an epitome of life.
+> 急速に変化する時代に暮らし、高層ビルがいっぱいの密集した都市では、まるで投獄されているように感じることがあります。自然は身体と心を魅了し、解放してくれます。私が山に引き寄せられるマグネットのようなものです。[グアン・レダング](http://www.johornationalparks.gov.my/v3/gunung-ledang/) 山頂と、[グヌンキナバル ベースキャンプ](https://www.mountkinabalu.com/) を目指し歩いたことが あります。山に登るときに、私は20キロの重さのテントと装備を持っていましたので、一歩一歩の前進さえ難しいことでしたが、止まることも、戻ることも不可能でした。それがまるで、人生の縮図を見るようだったのです。
