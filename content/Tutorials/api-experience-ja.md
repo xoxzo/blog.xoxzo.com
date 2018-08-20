@@ -15,8 +15,8 @@ Summary: XoxzoのAPI　利用体験レポート
 私は[最初のAPIユーザー](https://blog.xoxzo.com/ja/2017/10/13/create-your-first-apiuser/)を作成し、
 以下のコマンドで使用する「API SID」と「認証トークン」を取得しました。
 
-![apiexp2](/images/XoxzoAPI_02_ja.png))
-![apiexp3](/images/XoxzoAPI_03_ja.png))
+![apiexp2](/images/XoxzoAPI_02_ja.png)
+![apiexp3](/images/XoxzoAPI_03_ja.png)
 
 次にラップトップに[CURL](https://curl.haxx.se/dlwiz/?type=*) をダウンロードしました。
 私はWindows OSを搭載したIntelプロセッサを使用しているので、
