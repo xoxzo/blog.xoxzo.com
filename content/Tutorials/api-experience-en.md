@@ -57,6 +57,8 @@ curl -u <API SID>:<Auth Token> --data-urlencode "sender=XoxzoBlog" --data-urlenc
  
 The Message ID was displayed after my command. Subsequently I issued this command to [check the SMS status](https://blog.xoxzo.com/2017/11/15/checking-your-sms-status/). 
 
+curl -u <API SID>:<Auth Token> https://api.xoxzo.com/sms/messages/
+
 ![apiexp9](/images/apiexp9.jpg)
  
 Meanwhile the SMS notification ringtone was audible on my mobile phone. I received the [SMS sent from the web](https://www.xoxzo.com/en/about/sms-api/):
