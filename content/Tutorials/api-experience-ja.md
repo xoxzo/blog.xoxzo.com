@@ -56,6 +56,8 @@ curl -u <API SID>:<Auth Token> https://api.xoxzo.com/voice/calls/41c181b6-1817-4
 
 テキスト読み上げ機能機能や電話会議APIなどの、他のVoice APIをテストするのに必要なクレジットが足りなくなってしまいました。40クレジットが、最低でも必要です。私は、テキスト読み上げ機能を使い、音声通話を試みたとき、失敗をしました。
 
+curl -u <API SID>:<Auth Token> https://api.xoxzo.com/sms/messages/
+
 ![apiexp7](/images/apiexp7.jpg)
 
 ですから、次に、[SMSの送信](https://blog.xoxzo.com/ja/2017/10/31/sending-your-first-sms/) を試したのです。こちらが、私の使ったコマンドで、続いてコマンドプロンプトのスクリーンショットです：
