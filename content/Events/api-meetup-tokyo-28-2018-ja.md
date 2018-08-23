@@ -1,4 +1,4 @@
-Title: 【Xoxzo】API Meetup Tokyo #28 〜APIデモ大会に参加
+Title: 【Xoxzo】API Meetup Tokyo #28 〜APIデモ大会に参加します！
 Date: 2018-08-23
 Slug: api-meetup-2018-9-14
 Lang: ja
