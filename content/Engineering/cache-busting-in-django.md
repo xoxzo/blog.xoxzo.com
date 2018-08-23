@@ -8,7 +8,7 @@ Summary: How to cache bust in Django using ManifestStaticFilesStorage.
 
 ## Cache busting CSS with query strings
 
-Because visitors' browsers locally store a cached copy of the static files, they are may unable to see the changes when you update your site. This can be troublesome, so we need a cache busting strategy to clear cache and to make the browser download a fresh copy of the static assets.
+Because visitors' browsers locally store a cached copy of the static files, there is a possibility for them not to see the changes when you update your site. This can be troublesome, so we need a cache busting strategy to clear cache and to make the browser download a fresh copy of the static assets.
 
 By using a query string, we can tell the browser that there is a new version of the file. I used to add the version to CSS file like this:
 
