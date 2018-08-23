@@ -1,5 +1,5 @@
 Title: 【Xoxzo】API Meetup Tokyo #28 〜APIデモ大会に参加
-Date: 2018-8-23
+Date: 2018-08-23
 Slug: api-meetup-2018-9-14
 Lang: ja
 Tags: 2018; api meetup; 
