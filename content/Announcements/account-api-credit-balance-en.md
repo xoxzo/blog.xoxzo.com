@@ -1,4 +1,4 @@
-Title: 【Xoxzo】Now you can lookup your credit balance using an API
+Title: Now you can lookup your credit balance using an API
 Date: 2018-08-27 12:00
 Slug: accountapi-credit-balance
 Lang: en
