@@ -52,6 +52,8 @@ sup web bash
 
 今は、プロンプトは表示されませんが、実際の入力を開始してEnterを押すことができます。 
 たとえば :-
+
+
 grep ERROR /var/log/local1
 You'll get output:-
 
@@ -70,7 +72,7 @@ kamal@web-02:22 | kamal@web-02:~$ kamal@web-02:~$ exit
 kamal@web-02:22 | Process exited with status 1
 ```
 
-対話式にしなくても、コマンドがパイプにも生ってくれるわけです:-
+対話式にしなくても、コマンドがパイプにもなってくれるわけです:-
 
 ```
 echo 'grep ERROR /var/log/local1' | sup x4 bash
