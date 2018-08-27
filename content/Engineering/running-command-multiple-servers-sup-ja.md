@@ -8,14 +8,15 @@ Summary: supと呼ばれるツールを、複数のサーバーにおいて、�
 
 supは、Golang (https://github.com/pressly/sup)で書かれたツールです。
 Fabricや、特定の側面においては Ansible によく似ていますが、Fabricより柔軟で、Ansibleよりシンプルだと思いました。
-Getting it is easy if you already have [Golang environment on your computer](https://github.com/devkini/notes/wiki/Go). It just:-
-これは、Golang (https://github.com/pressly/sup)で書かれたツールです。 It look similar to Fabric and also Ansible in certain aspect but I found it more flexible than Fabric and simpler than Ansible. Getting it is easy if you already have [Golang environment on your computer](https://github.com/devkini/notes/wiki/Go). It just:-
+もし、もう [Golang environment on your computer](https://github.com/devkini/notes/wiki/Go)があれば、コトは簡単。
+ただ下記のように：-
+
 
 ```
 go get -u github.com/pressly/sup/cmd/sup
 ```
 
-Next is to define the Supfile. It can be like this:-
+次に Supfile を定義します。こんな感じです:-
 
 ```
 networks:
@@ -37,20 +38,20 @@ commands:
         run: bash
 ```
 
-Then to run command for example tailf on web servers:-
+それから、コマンドを実行。例えば web サーバー上の talif :-
 
 ```
 sup web tailf
 ```
 
-We can also run command interactively on all servers. In sup file above, I defined command bash that should be run in interactive mode.
+すべてのサーバーでコマンドを対話形式で実行することだって、できます。 上記のsupファイルでは、対話モードで実行するコマンド、bashを定義しました。
 
 ```
 sup web bash
 ```
 
-For now there's no prompt but you can actually start typing and press Enter. For example you can run:-
-
+今は、プロンプトは表示されませんが、実際の入力を開始してEnterを押すことができます。 
+たとえば :-
 grep ERROR /var/log/local1
 You'll get output:-
 
@@ -59,7 +60,7 @@ grep ERROR /var/log/local1
 kamal@web-01.site.com:22 | kamal@web-01:~$ Jan 12 21:21:06 web-01 messaging.Sender.send(): ERROR: Sending failed for xxx0 user1: -2 HTTPSConnectionPool(host='sender2.local', port=443): Max retries exceeded with url: /h/send (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7ff769fe2c50>, 'Connection to sender2.local timed out. (connect timeout=10)'))
 ```
 
-To quit, just type exit:-
+終了するには、exit と入力するだけ:-
 
 ```
 exit
@@ -69,13 +70,13 @@ kamal@web-02:22 | kamal@web-02:~$ kamal@web-02:~$ exit
 kamal@web-02:22 | Process exited with status 1
 ```
 
-Command can also being pipe instead typing interactively:-
+対話式にしなくても、コマンドがパイプにも生ってくれるわけです:-
 
 ```
 echo 'grep ERROR /var/log/local1' | sup x4 bash
 ```
 
-## Issues
-1. If you let the interactive command idle for a while, it become unresponsive and you have to kill it.
-2. It not possible to move cursor to edit your command, you have to delete what you have typed so far.
-3. No command history.
+## 問題点
+1. インタラクティブコマンドをしばらくアイドル状態にすると応答がなくなり、強制終了することになります。
+2. コマンド編集時、カーソルを移動できないので、それまでに入力したものを削除することになります。
+3. コマンド履歴がない
