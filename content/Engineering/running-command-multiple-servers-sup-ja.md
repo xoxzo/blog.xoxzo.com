@@ -6,9 +6,10 @@ Slug: running-command-multiple-servers-sup
 Lang: ja
 Summary: supと呼ばれるツールを、複数のサーバーにおいて、リモートでコマンドを実行するのに使ってみました。
 
-supは、Golang (https://github.com/pressly/sup)で書かれたツールです。
+supは、[Golang](https://github.com/pressly/sup)で書かれたツールです。
 Fabricや、特定の側面においては Ansible によく似ていますが、Fabricより柔軟で、Ansibleよりシンプルだと思いました。
 もし、もう [Golang environment on your computer](https://github.com/devkini/notes/wiki/Go)があれば、コトは簡単。
+
 ただ下記のように：-
 
 
@@ -51,11 +52,13 @@ sup web bash
 ```
 
 今は、プロンプトは表示されませんが、実際の入力を開始してEnterを押すことができます。 
+
 たとえば :-
 
 
 grep ERROR /var/log/local1
-You'll get output:-
+
+結果は:-
 
 ```
 grep ERROR /var/log/local1
@@ -81,4 +84,4 @@ echo 'grep ERROR /var/log/local1' | sup x4 bash
 ## 問題点
 1. インタラクティブコマンドをしばらくアイドル状態にすると応答がなくなり、強制終了することになります。
 2. コマンド編集時、カーソルを移動できないので、それまでに入力したものを削除することになります。
-3. コマンド履歴がない
+3. コマンド履歴がありません。
