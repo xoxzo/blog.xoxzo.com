@@ -49,36 +49,36 @@ OSはGUI（グラフィックユーザーインターフェイス）なしのコ
 
 **MYebills のソリューションがもたらす、業界への貢献は？**
 
-> In one of my consultation projects, I developed a power tool test rig comprising 6 test stations for Bosch, the power tool manufacturer. The main purpose of the test rig is to conduct power tool endurance tests. The test rig is to simulate a user operating the power tool and test the tool until the end of its product life.
+> 私がみているプロジェクトには、電動工具メーカー・Boschの6つのテストステーションを構成する、電動工具テスト機器を開発しました。テスト機器の主な目的は、電動工具の耐久試験を行うことです。テスト機器は、ユーザが電動工具を操作し、その製品寿命が終了するまで工具を試験することを、シミュレートするものです。
 
-> The software is capable of collecting data input from sensors, including temperature, torque, reaction torque, and most importantly, the lifetime of the power tool. After data collection, it will then analyze and recognize the symptoms before the power tool breaks down, to provide clues on how to lengthen the lifetime of the power tool.
+> このソフトは、温度、トルク、反作用トルク、最も重要な項目、電動工具の寿命を含むセンサからのデータ入力を収集することができます。データ収集後、電動工具が故障する前に症状を分析して認識し、電動工具の寿命を延ばすヒントを提供します。
 
-> In addition, the software solution also included ergonomic analysis for the power tool, such as the duration of use that will trigger the onset of hand-arm vibration syndrome in the user. The data can also be used to analyze vibration injuries, for example neurological, vascular, and musculoskeletal disorders.
+> さらに、このソフトウェアソリューションには、使用者の手腕振動症候群の発症を引き起こす使用期間など、電動工具の人間工学的解析も含めました。このデータは、例えば、神経系、血管系および筋骨格系の障害などの振動傷害を分析するためにも、使用することができます。
 
-> In a separate project on the development of radar controller and processor, I used a combination of commercial hardware and dedicated hardware that cannot be bought which I made by designing FPGA boards. Then I integrated the hardware with software functions and developed a user interface with C#, which is capable of controlling the system and executing high-speed large volume data acquisition.
+> レーダー・コントローラーとプロセッサーの開発に関する別のプロジェクトでは、市販のハードウェアと、FPGAボードを設計して、市販にはない専用ハードウェアの組み合わせを使用しました。次に、そのハードウェアをソフトウェア機能と統合し、システムを制御して大量のデータを高速に取得できるC＃でユーザーインターフェイスを開発しました。
 
-> Raw data acquired by the radar mounted on an airplane during flight tests was processed using Matlab that runs image formation algorithm to produce radar images. Radar sensors are weatherproof and more superior than optical sensors and can be used for remote sensing application such as disaster damage assessment, land deformation observation, snow monitoring, oceanography, terrain classification, and target detection.
+> 飛行試験中に飛行機に搭載されたレーダーによって取得された元データは、画像形成アルゴリズムを実行してレーダー画像を生成するMatlabを使用して処理されました。レーダーセンサーは耐候性があり、光センサーよりも優れており、災害被害評価、陸上変形観測、雪監視、海洋学、地形分類、ターゲット検出などのリモート・センシング・アプリケーションに使用できます。
 
-**What are the challenges that you face when delivering software development projects?**
+**ソフトウェア開発プロジェクトを提供する際に、直面する課題は何ですか？**
 
-> In R&D projects, we don’t usually have a dedicated software developer, whatever function needed has to be developed by myself, even when it means learning a new language or using a new tool to achieve the objectives.
+> R＆Dプロジェクトでは、通常、専用のソフトウェア開発者はいません。新しい言語を学んだり、新しいツールを使用して目的を達成したりしても、必要な機能は自分で開発する必要があるからです。
 
-**What are the most important technical skills that a developer should possess?**
+**開発者が備えるべき最も重要な、技術スキルは何ですか？**
 
-> Code reusability, code optimization, speed, resource utilization, scalability, and expandability. In R&D applications, the software is of a smaller scale as compared to commercial applications, system architecture design is not given as much emphasis, and programming skill not as specialized.
+> コードの再利用性、コードの最適化、速度、リソースの利用率、スケーラビリティ、拡張性ですね。R＆Dアプリケーションでは、ソフトウェアは商用アプリケーションに比べて小規模であり、システム設計のデザインはそれほど強調されておらず、プログラミングスキルは特化されていません。
 
-**What are the soft skills that are crucial for a developer?**
+**開発者にとって重要なソフトスキルは何ですか?**
 
-> Project management and time management, managing the project timeline and deadlines. Sometimes the project requires dealing with third-party supplier or collaboration between different teams, communication is important.
+> プロジェクト管理と時間管理、プロジェクトのタイムラインと期限の管理だと思います。プロジェクトによっては、サードパーティのサプライヤーや、さまざまなチーム間のコラボレーションが必要な場合もありますが、コミュニケーションが重要となります。
 
-**Are the fresh graduates today equipped with the right skills with their tertiary education?**
+**新卒者は今日、高等教育に適切なスキルを備えていると思いますか？**
 
-> The training that an undergraduate receives is like being introduced to the recipe, which contains the essential steps. Without practice, the final dish cannot be produced. The best way to learn programming is by practicing, it is something that cannot be learned from books alone.
+> 学部が受ける訓練は、本質的なステップを含んだレシピに導入されるようなものです。練習がなければ、完璧な料理を作ることはできません。プログラミングを学ぶ最も良い方法は、練習することであり、本だけでは学ぶことができないものです。
 
-**What advice would you give a fresh graduate entering the industry as a developer?**
+**新卒者が業界に参入する際のアドバイスはありますか？**
 
-> Learn as much as you can when you are young; when an opportunity arises, treasure it. Constantly upgrade yourself; if you stop learning, you will be left behind.
+> 若い時にできる限り、学びましょう。機会が得られたら、それを大切にすることです。自分自身を、常にアップグレードしてください。学習をやめると、とり残されてしまいます。
 
-> Skill is not the most important, attitude is the most important. Persevere and do everything well, then you will achieve your targets.
+> 最も重要なのは、スキルではなく、態度です。これに添っていけば、目標を達成できるでしょう。
 
  
