@@ -5,6 +5,7 @@ Author: Josef Monje
 Tags: 2018; pycon; MY; training; jupyter;
 Slug: python-talk-how-josef-made-trainings-scale
 Summary: During PyCon MY 2018 I gave a talk about how I conduct my trainings
+Thumbnail: images/xoxzo_opengraph.jpg
 
 This post is about my talk during PyCon MY 2018. It's a good follow-up post to [Jenna's experience in PyCon MY](https://blog.xoxzo.com/2018/09/05/pycon-my-2018/) where the talk was also mentioned. Here I'll provide some details about my talk.
 
