@@ -21,16 +21,13 @@ Despite aggressive research and development efforts, a realistic issue that rema
 
 On February 25, 2018 Huawei announced the first commercial 5G modem, [Balong 5G01](https://www.huawei.com/en/press-events/news/2018/2/5G-Customer-premises-Equipment) which attains theoretical downlink speeds of up to 2.3Gbps.
  
-![5g](/images/history5g01.jpg)
-
-[Image credit](http://www.globaltimes.cn/content/1090798.shtml)
+![5g](/images/history5g01.jpg)<a class="caption" href="http://www.globaltimes.cn/content/1090798.shtml">Image credit</a>
  
 On June 13, 2018, the complete 5G technical specification had been approved and released by 3GPP as [Release 15](http://www.3gpp.org/release-15).
 
 On August 3, 2018, Motorola announced the launch of the first 5G-upgradable phone, [Moto Z3](https://www.motorola.com/us/products/moto-z-gen-3), to be upgraded with a 5G modem which will be available later, offered in conjunction with [Verizon](https://www.verizonwireless.com/wireless-devices/smartphones/moto-z3/), the USA operator at US$480. At the time of the launch, there is no 5G commercial network ready for it yet. 
  
-![5g](/images/history5g02.png) 
-[Image credit](https://www.verizonwireless.com/wireless-devices/smartphones/moto-z3/)
+![5g](/images/history5g02.png)<a class="caption" href="https://www.verizonwireless.com/wireless-devices/smartphones/moto-z3/">Image credit</a>
 
 At around the same time, Sony had announced its 5G phone in the pipeline, Xperia XZ3; Huawei would make the Mate 30 or P30 and P30 Pro to be 5G phones; and Samsung Galaxy S10 will arrive with 5G capabilities. LG and OnePlus too will launch 5G smartphones respectively. All of these are expected to be available in the first half of 2019. 
 
