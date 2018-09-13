@@ -282,6 +282,21 @@ article.article {
     color: #aaa;
 }
 
+.caption {
+    display: table;
+    margin-top: -5px;
+    font-size: .85rem;
+    color: #888;
+}
+
+a.caption {
+    text-decoration: underline;
+}
+
+a.caption:hover {
+    color: #333;
+}
+
 .pg {
     margin-top: 40px;
 }
