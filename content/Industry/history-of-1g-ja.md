@@ -7,68 +7,71 @@ Lang: ja
 Thumbnail: images/1g03.jpg
 Summary: 第1世代の通信技術と、その初期利用法について、連載でご紹介します。
 
-During WWII, the appearance of early radio phones was limited to military use, and not available for civilian or commercial use. These were AM radio phones, that functioned as Walkie-Talkies.
+第二次世界大戦中、初期の無線電話は軍事利用のみに制限されていて、民間利用や商業利用は行われていなかった。当時使われていたのはＡＭ無線電話で、携帯用無線電話機として活用されていた。
 
 ![history1g](/images/1g01.jpg)
 
-[Image credit](https://bluefletch.com/blog/the-history-of-mobile/)
+[画像クレジット](https://bluefletch.com/blog/the-history-of-mobile/)
 
-The [car phones](http://www.wb6nvh.com/Carphone.htm) that were first commercialized in 1946 in USA by Bell System, and continued to be improved and popularized in the 1960’s made used of Improved Mobile Telephone Service (IMTS) which was still connected on the landline network, also known as Public Switched Telephone Networks (PSTN) although mobility was supported to some extent. This was an example of a radio telephone network, which was considered as pre-1G, or 0G technology. 
+1946年にベルシステムによりアメリカで初めて商品化された[自動車電話](http://www.wb6nvh.com/Carphone.htm)は、その後も改良を重ね、1960年代には改良移動電話サービス（ＩＭＴＳ）を利用して一般に普及し、これは公衆電話交換回線網（ＰＳＴＮ）と呼ばれる地上通信線にも接続されていたが、ある程度の携帯性が確保された。これは無線電話回線の類で、プレ第一世代、0世代技術とみなされている。
 
 ![history1g](/images/1g02.jpg)
 
-[Image credit](https://bluefletch.com/blog/the-history-of-mobile/)
+[画像クレジット](https://bluefletch.com/blog/the-history-of-mobile/)
 
-In 1971, the [Autoradiopuhelin](https://en.wikipedia.org/wiki/Autoradiopuhelin) (ARP) network operated as the first public mobile phone network in Finland. It operated in the 150 MHz band, and calls were manually switched. The network was meant to serve car phones as well. This too was considered as 0G technology. 
+1971年、[自動車無線電話](https://en.wikipedia.org/wiki/Autoradiopuhelin) （ＡＲＰ）ネットワークが、フィンランドで初の公衆携帯電話網として開始された。150ＭＨｚ帯で機能し、通話は手動で切り替えられた。ネットワークは自動車電話にも利用されるものだった。これも0世代技術と考えられた。
 
-The [first commercial 1G mobile network](http://communities-dominate.blogs.com/brands/2009/11/celebrating-30-years-of-mobile-phones-thank-you-ntt-of-japan.html) in the world was launched by Nippon Telephone and Telegraph Company (NTT) in Tokyo, Japan on 1 December 1979. The first mobile phones were still car phones, but the network was:
+[世界初となった第一世代のモバイルネットワーク](http://communities-dominate.blogs.com/brands/2009/11/celebrating-30-years-of-mobile-phones-thank-you-ntt-of-japan.html)は、日本（東京）の日本電信電話公社によって1979年12月に立ち上げられた。最初の移動式電話はやはり自動車電話だったが、ネットワークとしては以下のような特徴があった。
 
--	a cellular network with 88 cell sites with base stations, or radio towers covering all districts of Tokyo (unlike in IMTS where the network was still PSTN);
--	handover of the call between different cell sites was supported (unlike in IMTS where the call can only be connected to one radio mast);
--	automated switching without the need for human switchboard operator (unlike in ARP where the calls are manually switched).
+-	基地局と88のセルサイトを持つセルラーネットワーク、または東京全域をカバーする電波塔（ネットワークが依然としてＰＳＴＮのＩＭＴＳとは異なる）
+-	異なるセルサイト間の通話のハンドオーバをサポート（通話が1つのラジオ塔にしか接続されないＩＭＴＳとは異なる）
+-	自動切替のため、人力によるスイッチボードの操作の必要がない（通話を手動で切り替えるＡＲＰの場合とは異なる）
 
 ![history1g](/images/1g03.jpg)
 
-[Image credit](http://communities-dominate.blogs.com/brands/2009/11/celebrating-30-years-of-mobile-phones-thank-you-ntt-of-japan.htm)
+[画像クレジット](http://communities-dominate.blogs.com/brands/2009/11/celebrating-30-years-of-mobile-phones-thank-you-ntt-of-japan.htm)
 
-By 1981, the Nordic countries of Norway and Sweden built their first 1G mobile network based on the [Nordic Mobile Telephone](https://en.wikipedia.org/wiki/Nordic_Mobile_Telephone) (NMT) standard, subsequently Denmark and Finland in 1982. The standard spread in quick succession to Saudi Arabia, Russia, and many other Baltic and Asian countries,.
+1981年までには、ノルウェーおよびスウェーデンの北欧二国で、[北欧携帯電話](https://en.wikipedia.org/wiki/Nordic_Mobile_Telephone) （ＮＭＴ）方式に基づく第一世代モバイルネットワークが初めて構築され、1982年にはデンマークとフィンランドがそれに続いた。この方式はサウジアラビア、ロシアほか、バルト諸国およびアジアの国々に瞬く間に広まった。
 
-On 13 October 1983, the USA eventually had its commercial cellular network launched by Ameritech in Chicago, based on the AMPS standards. The first hand-held mobile phone invented by Martin Cooper and manufactured by Motorola was introduced at the same time.
+1983年10月13日、シカゴのアメリテック社により、ＡＭＰＳ方式に基づく商用セルラーネットワークがアメリカでようやく開始された。マーティン・クーパーが開発し、モトローラ社が製造した初の小型携帯電話が同時にお披露目となった。
 
 ![history1g](/images/1g04.jpg)
 
-[Image credit](https://www.mpoweruk.com/figs/dynatac.htm)
+[画像クレジット](https://www.mpoweruk.com/figs/dynatac.htm)
 
-In 1984, Malaysia adopted the NMT 450 standard and launched its first cellular network by then Jabatan Telekom (now Telekom Malaysia, privatized in 1987), with mobile phones introduced as ATUR 450. 
+1984年にはマレーシアでＮＭＴ450方式が採用され、エネルギー郵電省（民営化されて現在はテレコム・マレーシア社）が同国初となるセルラーネットワークを構築、ATUR 450と名づけられた携帯電話と同時に発表した。
 
 ![history1g](/images/1g05.jpg)
 
-[Image credit](https://hobby-collection.blogspot.com/2012/12/telefon-bimbit-lama-nec-atur-450.html)
+[画像クレジット](https://hobby-collection.blogspot.com/2012/12/telefon-bimbit-lama-nec-atur-450.html)
 
-The early car phones in the Japan NTT network later evolved into “shoulder phones” in 1985 that can be carried on the shoulder like a sling bag. 
+日本ではＮＴＴのネットワークを利用していた初期の自動車電話が、1985年に「ショルダーフォン」へと発展し、ショルダーバッグのように肩にかけて持ち運べるようになった。
 
 ![history1g](/images/1g06.jpg)
 
-[Image credit](https://web-japan.org/kidsweb/hitech/mobile/mobile01.html)
+[画像クレジット](https://web-japan.org/kidsweb/hitech/mobile/mobile01.html)
 
-The European Total Access Cellular System (TACS, later renamed to ETACS) standard was introduced in 1985 and first implemented in the UK. After the first commercial cellular network by NTT, JTACS was later introduced in Japan in 1988. 
+1985年、欧州トータル・アクセス・セルラー・システム（ＴＡＣＳ、後にＥＴＡＣＳに改名）方式が導入され、イギリスで初めて実施された。ＮＴＴによって初めて商用セルラーネットワークが開始されて以降、1988年に日本でもＪＴＡＣＳが導入された。
 
-China, currently boasting the largest mobile subscriber market, launched its first mobile network in 1987 by the Ministry of Posts and Telecommunications of China, using the TACS standard. A nationwide network was completed in the following year.
+中国では、現在は最大規模の携帯電話市場を誇っているが、初めてモバイルネットワークが開始されたのは1987年で、同国郵政省がＴＡＣＳ方式を採用して始めたものだった。全国を網羅したのは翌年のことだった。
 
-Most of the phones in the 1G era were:
+第一世代の電話の大半は、
 
--	heavy, most initial models weighing around 3-4 kg;
--	for corporate and executive use, not for personal use; 
--	expensive, the Motorola DynaTac priced at US$3,995 for example;
--	hence a symbol of affluence and social status. 
+-	重量があった（最初期のモデルは3～4kg）
+-	企業や重役による利用がほとんどで、一般の人々の利用はなかった
+-	高価だった（たとえばモトローラ社のDynaTacは3,995US$）
+-	以上のような事情で、富とステータスの象徴だった
 
-The limitations of 1G mobile technology were:
+第一世代のモバイル技術の限界は、
 
--	Poor sound quality;
--	Limited coverage;
--	Full analog mode of communication, hence inefficient use of the spectrum; 
--	Low capacity, FDMA technique does not maximize system capacity;
--	Different 1G systems are incompatible with one another, due to different frequency ranges of the systems;
--	No roaming supported between different operators;
--	Weak security on air interface, no support for encryption;
--	No Mobile Assisted Handover and hence more burden on the Mobile Switching Center (MSC).
+-	音質が悪かった
+-	エリアが限定されていた
+-	通信が完全アナログモードだったため、周波数の使用が非効率的だった
+-	低容量（ＦＤＭＡ技術が、システム容量を最大化するものではなかった）
+-	同じ第一世代でも方式が異なると、周波数範囲が異なるため互換性がなかった
+-	異なる事業者間のローミングはサポートされていなかった
+-	エア・インターフェイス上のセキュリティーが弱く、暗号化がサポートされていなかった
+-	モバイルアシストハンドオーバーがないため、モバイル通信交換局（ＭＳＣ）の負担が大きかった
+
+[第一世代モバイル通信技術の沿革](https://blog.xoxzo.com/ja/2018/09/13/history-of-2g/)も読む
+
