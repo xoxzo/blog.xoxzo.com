@@ -7,7 +7,7 @@ Author: Aiko Yokoyama
 Summary: Xoxzoは、今年もPyCon Jp を協賛、出展します。
 
 
-[![pyconjp2018]({filename}/images/pyconjp2018.png)](https://pycon.jp/2018/)
+[![pyconjp2018](/images/pyconjp2018.png)](https://pycon.jp/2018/)
 
 [Xoxzo](https://www.xoxzo.com/ja/)は、[PyCon JP 2018](https://pycon.jp/2018/)のスポンサーです。
 
