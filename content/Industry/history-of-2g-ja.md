@@ -5,7 +5,7 @@ Tags: 2g; technology; history; commercial; military; first phones; japan; malays
 Slug: history-of-2g
 Lang: ja
 Thumbnail: images/history2g2.gif
-Summary: The origin of 2G technology and how it was first used
+Summary: 第二世代技術の源と、初期利用方法について、ご紹介します。
 
 
 [第一世代モバイル](https://blog.xoxzo.com/2018/07/24/history-of-1g/)の携帯電話・ネットワークには限界があり、技術のさらなる普及は伸び悩んでいました。 大きな人口における通信の普及を拡大するためには、
