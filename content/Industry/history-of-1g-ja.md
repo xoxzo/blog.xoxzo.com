@@ -14,7 +14,6 @@ Summary: 第1世代の通信技術と、その初期利用法について、連�
 1946年にベルシステムによりアメリカで初めて商品化された[自動車電話](http://www.wb6nvh.com/Carphone.htm)は、その後も改良を重ね、1960年代には改良移動電話サービス（ＩＭＴＳ）を利用して一般に普及し、これは公衆電話交換回線網（ＰＳＴＮ）と呼ばれる地上通信線にも接続されていたが、ある程度の携帯性が確保された。これは無線電話回線の類で、プレ第一世代、0世代技術とみなされている。
 
 ![history1g](/images/1g02.jpg)<a class="caption" href="https://bluefletch.com/blog/the-history-of-mobile/">画像クレジット</a>
-[画像クレジット](https://bluefletch.com/blog/the-history-of-mobile/)
 
 1971年、[自動車無線電話](https://en.wikipedia.org/wiki/Autoradiopuhelin) （ＡＲＰ）ネットワークが、フィンランドで初の公衆携帯電話網として開始された。150ＭＨｚ帯で機能し、通話は手動で切り替えられた。ネットワークは自動車電話にも利用されるものだった。これも0世代技術と考えられた。
 
