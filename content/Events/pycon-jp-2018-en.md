@@ -7,7 +7,7 @@ Author: Aiko Yokoyama
 Summary: Xoxzo sponsors PyCon JP again this year, will also have a booth. 
 
 
-[![pyconjp2018]({filename}/images/pyconjp2018.png)](https://pycon.jp/2018/)
+[![pyconjp2018](/images/pyconjp2018.png)](https://pycon.jp/2018/)
 
 [Xoxzo](https://www.xoxzo.com/en/)is a sponsor for [PyCon JP 2018](https://pycon.jp/2018/).
 
