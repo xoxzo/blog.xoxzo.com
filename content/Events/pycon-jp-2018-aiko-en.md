@@ -2,7 +2,7 @@ Title: 【Xoxzo】My PyCon JP 2018
 Date: 2018-09-26
 Slug: pycon-jp-2018-aiko
 Lang: en
-Tags: pycon; スポンサー; コミュニティー; 2018
+Tags: pycon; sponsor; community; 2018
 Author: Aiko Yokoyama
 Summary: My report of attendance for PyCon Jp 2018 on Sep/17(Mon) & 18(Tue)
 
@@ -17,34 +17,34 @@ But I flew this time as this site situated very close to Keikyu Kamata station, 
 I was looking forward to seeing my collegues whom I don't usually see each other as Xoxzo is 
 [100% remote-work](https://info.xoxzo.com/en/aboutus/).
 
-会場の外では、開場時間30分前から来場者が待っていました。いい感じの、賑わいです。
-もちろん、開場と同時にその人の波が入場し、会場入口にある、ケータリングの朝食へと押し寄せていきました。このテーブルにはいつもおいしそうな食べ物がすてきに並べられ、朝食、昼食、そして3時のおやつ、とそれぞれの時間に賑わいを見せていました。
+It was 30 min before the conference opening when I arrived, but there were good number of visitors waiting outside the venue.
+They all rushed in at the gate opening towards the catered table. This table always was well-attended and filled with nice-looking and tasty foods duriing the conference, breakfast, lunch and 3pm-snack-time!!
 
 [!table01](/images/pycon-jp-2018/table_01.jpg)
 [!table02](/images/pycon-jp-2018/table_02.jpg)
 [!table03](/images/pycon-jp-2018/table_03.jpg)
 
-会場は天井の高いホール。来場者はみなとても開放的で楽しそうに開場をまわっているように見えました。
+The conference was held in a high ceiling hall, the visitors look being expansive and enjoyed wandering about the booth, as well as attend the talks, which was held the other rooms upstairs.
 
 [!high-ceiling](/images/pycon-jp-2018/high-ceiling.jpg)
 
-Xoxzoのブースに来られた方も、SMS配信や音声通話のデモを楽しんで見ておられました。
+Of course, the visitors to our Xoxzo booth enjoyed watching the demo of [our APIs](https://www.xoxzo.com/en/), 
+for both [SMS sending](https://www.xoxzo.com/en/about/sms-api/) and [Voice calls](https://www.xoxzo.com/en/about/voice-api/).
 
 [!people](/images/pycon-jp-2018/pycon_people.jpg)
 
-Xoxzoでは、今年はこんなゲームも行いました。
+We also had a draw, _Drop your Business Card and WIN_ this time.
 
 [!draw](/images/pycon-jp-2018/draw.jpg)
-_当選者のみなさま、アカウントへクレジットを付与させていただきますので、アカウントにご登録のメールアドレスをお知らせください。_
+_Please contact us with the account registered email address to claim your prize, winners have been notified via email_
 
-こちらは、お弁当。数種類あるうちから、ひとつ選びました。
+This is my _BENTOH_ lunchbox, there were a few different contents and I selected this one.
 
 [!bento](/images/pycon-jp-2018/bento.jpg)
 
-パーティー不参加だったので、晩御飯は、大田区おすすめの羽つき餃子。酸辣湯と一緒に、堪能しました。
+As I weren't at the party on the first conference night, I went to a famous _Gyoza_ dumpling restaurant to have my favorite sour-and-chilly soup along with the local originned _Wingged Gyoza_.
 
 [!dinner](/images/pycon-jp-2018/dinner.jpg)
 
-多くの来場者の方がXoxzoのブースを訪れてくださり、あっという間の二日間でした。Python大好きなPyConの出展者＆参加者の皆様、また来年。
+The two days conference flew in a blink of time, while many visitors came to our booth. I do hope to see all those python-lovers again next year.
 
-弊社野中の参加した、昨年の[PyCon JP 2017 参加報告](https://blog.xoxzo.com/ja/2017/10/12/pycon-jp-2017/)も、どうぞ。
