@@ -1,83 +1,31 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- @Aiko31 Sign out
-10
-0 2 xoxzo/blog.xoxzo.com
- Code  Issues 0  Pull requests 2  Projects 0  Wiki  Insights
-blog.xoxzo.com/content/Events/ 
-pycon-jp-2018-ja.md
-  or cancel
-    
- 
-1
-Title: 【Xoxzo】PyCon jp 2018 に出展します。
-2
-Date: 2018-09-15 10:30
-3
-Slug: pycon-jp-2018
-4
+Title: 【Xoxzo】PyCon jp 2018 に参加してきました。
+Date: 2018-09-26
+Slug: pycon-jp-2018-aiko
 Lang: ja
-5
-Tags: pycon; スポンサー; 熊本; コミュニティー; 2018
-6
+Tags: pycon; スポンサー; コミュニティー; 2018
 Author: Aiko Yokoyama
-7
-Summary: Xoxzoは、今年もPyCon Jp を協賛、出展します。
-8
-​
-9
-​
-10
+Summary: 9月17日(月)と18日の PyCon Jp 2018 カンファレンスへ参加しました。
+
+
 [![pyconjp2018](/images/pyconjp2018.png)](https://pycon.jp/2018/)
-11
-​
-12
-[Xoxzo](https://www.xoxzo.com/ja/)は、[PyCon JP 2018](https://pycon.jp/2018/)のスポンサーです。
-13
-​
-14
-9月15日（土）の[スプリント](https://pyconjp.connpass.com/event/97868/)に始まり、
-15
-16日には[チュートリアル](https://pyconjp.connpass.com/event/94980/)が行われ、
-16
-17日（月祝）および18日（火）の2日間に[カンファレンス](https://pycon.jp/2018/event/conference)が
-17
-[大田区産業プラザPiO](https://www.pio-ota.net/)にて、行われます。Xoxzoもカンファレンスではスポンサーブースを持ち、この機会に皆様とお会いできるのを楽しみにしております。
-18
-​
-19
-詳細は、[PyCon JP 2018](https://pycon.jp/2018/)を御覧ください。ぜひ皆様こぞってご参加ください。会場でお会い出来るのを楽しみにしております。
-20
-​
-21
-昨年の[PyCon JP 2017 参加報告](https://blog.xoxzo.com/ja/2017/10/12/pycon-jp-2017/)も、どうぞ。
-22
-​
-@Aiko31
-Commit changes
 
-Update pycon-jp-2018-ja.md
+2018年9月17日（月）と18日（火）[大田区産業プラザPiO](https://www.pio-ota.net/)で行われた [PyCon JP 2018](https://pycon.jp/2018/) のカンファレンスにブース出展してきました。京都在住の私は、普段東京へは新幹線で行くのですが、会場のある京急蒲田駅は、羽田空港から近いことから、今回の上京は、飛行機で。5年ぶりの飛行機の旅となりました。
 
-Add an optional extended description…
-  Commit directly to the pyconjp2018-report-aiko branch.
-  Create a new branch for this commit and start a pull request. Learn more about pull requests.
- 
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Press h to open a hovercard with more details.
+[100%リモートワークのXoxzo](https://info.xoxzo.com/ja/aboutus/) なので、こういった機会に同僚と顔を合わせることができるのも、楽しみのひとつです。
+
+会場の外では、開場時間30分前から来場者が待っていました。いい感じの、賑わいです。
+もちろん、開場と同時にその人の波が入場し、会場入口にある、ケータリングの朝食へと押し寄せていきました。このテーブルにはいつもおいしそうな食べ物がすてきに並べられ、朝食、昼食、そして3時のおやつ、とそれぞれの時間に賑わいを見せていました。
+
+会場は天井の高いホール。
+
+来場者はみなとても開放的で楽しそうに開場をまわっているように見えました。Xoxzoのブースに来られた方も、SMS配信や音声通話のデモを楽しんで見ておられました。Xoxzoでは、今年はこんなゲームも行いました。
+
+当選者のみなさま、アカウントへクレジットを付与させていただきますので、アカウントにご登録のメールアドレスをお知らせください。
+
+こちらは、お弁当。数種類あるうちから、ひとつ選びました。
+
+パーティー不参加だったので、晩御飯は、大田区おすすめの羽つき餃子。酸辣湯と一緒に、堪能しました。
+
+多くの来場者の方がXoxzoのブースを訪れてくださり、あっという間の二日間でした。PyConバンザイ！
+
+弊社野中の参加した、昨年の[PyCon JP 2017 参加報告](https://blog.xoxzo.com/ja/2017/10/12/pycon-jp-2017/)も、どうぞ。
