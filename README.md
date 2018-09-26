@@ -96,6 +96,7 @@ To show particular thumbnail image when the article is shared, fill **Thumbnail*
 Otherwise, the default image will appear.
 
 #### Theme Translations
+
 To translate string in templates, make the string translatable:
 
     {% trans %}Who we are ?{% endtrans %}
@@ -110,11 +111,22 @@ the string and then run:
     make compile_translation
     make html
 
-
-#### Author's footer
+#### Author's Footer
 
 You can find author's footer files to edit here:
 
     themes/xoxzo/templates/profile/
 
 Make sure that you are using exactly same author's name with profile file name. Otherwise Pelican cannot find the profile.
+
+### Image Caption
+
+If you want to add caption for images, use html tag with `caption` class instead of markdown syntax. 
+
+For example:
+
+    ![img-alt](/images/sample1.jpg)<a class="caption" href="https://sample-img-caption-link.html">Caption1</a>
+
+or
+
+    ![img-alt](/images/sample2.jpg)<span class="caption">Caption2</a>
