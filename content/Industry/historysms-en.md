@@ -27,15 +27,15 @@ Utilizing signaling channel of lower priority with a capacity 140 bytes for SMS 
 
 Although the [first SMS was sent in 1992](https://blog.xoxzo.com/2018/08/01/history-of-2g/), the mobile phones at the time was not capable of sending SMS, only able to receive and display it, and not all of the mobile phones were able to do that. By 1994 every new mobile phone was capable of receiving SMS. By 1995 every network was [capable of supporting SMS](http://www.gsm-history.org/32.html); and International Roaming for SMS became available. It was then when the discovery of SMS by youngsters and becoming a part of the youth culture began. By 1996 every new mobile phone model was also capable of sending SMS. 
 
-![historysms](/images/historysms01.jpg) [Image credit](https://www.theguardian.com/technology/2017/may/30/dumbphone-can-i-survive-modern-life-with-the-original-nokia-3310)
+![historysms](/images/smshistory01.jpg)<a class="caption" href="https://www.theguardian.com/technology/2017/may/30/dumbphone-can-i-survive-modern-life-with-the-original-nokia-3310">Image credit</a>
 
 In the 1990s, composing an SMS on the keypad of a mobile phone took painstaking effort. The 26 alphabets had to be mapped to the 8 digits (excluding 1 and 0) on the keypad. Pressing the digit 2 once allows ‘a’ to be typed, pressing 2 twice allows ‘b’ to be typed, and so on. To spell ‘hello’, the user would have to press 44-33-555-555-666. Nevertheless, SMS took off unexpectedly among the younger generation, due to lower cost as compared to a voice call, and their willingness to adopt a new way to communicate. 
- 
-![historysms](/images/historysms02.jpg) [Image credit](https://www.dreamstime.com/royalty-free-stock-photography-cell-phone-keypad-image2288707)
+
+![historysms](/images/smshistory02.jpg)<a class="caption" href="https://www.dreamstime.com/royalty-free-stock-photography-cell-phone-keypad-image2288707">Image credit</a>
 
 With the [introduction of T9](https://www.cnet.com/news/move-over-t9-here-comes-swype/), a method of predictive typing, that tries to guess and form the words when the keypads are pressed, a user only had to press 4-3-5-5-6 for “hello”. In the subsequent years, with the advent of PDA phones with QWERTY key pad layouts, and subsequently touchscreens on the smartphones, composing an SMS had become much easier and faster. Efforts continue to be put in to make typing even faster, such as the [Swype input method](https://www.cnet.com/news/move-over-t9-here-comes-swype/).
- 
-![historysms](/images/historysms03.jpg) [Image credit](https://www.cnet.com/news/move-over-t9-here-comes-swype/)
+
+![historysms](/images/smshistory03.jpg)<a class="caption" href="https://www.cnet.com/news/move-over-t9-here-comes-swype/">Image credit</a>
 
 Much development in the industry had happened that enables SMS to be easily sent in bulk and utilized as a [business communication tool](https://www.xoxzo.com/en/about/sms-api/), and to easily check the [length of the SMS](http://chadselph.github.io/smssplit/) before it is broadcasted to intended recipients. 
 
