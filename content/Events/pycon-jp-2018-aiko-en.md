@@ -7,7 +7,7 @@ Author: Aiko Yokoyama
 Summary: My report of attendance for PyCon Jp 2018 on Sep/17(Mon) & 18(Tue)
 
 
-![pyconjp2018](/images/pyconjp2018.png)](https://pycon.jp/2018/)
+[![pyconjp2018](/images/pyconjp2018.png)](https://pycon.jp/2018/)
 
 On 2018/9/17(Mon) & 18 (Tue), I attended the Conference with Xoxzo Booth at [PyCon JP 2018](https://pycon.jp/2018/) 
 at [Ohta Industrial Plaze, PiO](https://www.pio-ota.net/).
