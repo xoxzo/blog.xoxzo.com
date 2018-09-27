@@ -7,7 +7,7 @@ Author: Aiko Yokoyama
 Summary: 9月17日(月)と18日の PyCon Jp 2018 カンファレンスへ参加しました。
 
 
-![pyconjp2018](/images/pyconjp2018.png)](https://pycon.jp/2018/)
+[![pyconjp2018](/images/pyconjp2018.png)](https://pycon.jp/2018/)
 
 2018年9月17日（月）と18日（火）[大田区産業プラザPiO](https://www.pio-ota.net/)で行われた [PyCon JP 2018](https://pycon.jp/2018/) のカンファレンスにブース出展してきました。京都在住の私は、普段東京へは新幹線で行くのですが、会場のある京急蒲田駅は、羽田空港から近いことから、今回の上京は、飛行機で。5年ぶりの飛行機の旅となりました。
 
