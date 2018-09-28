@@ -28,7 +28,7 @@ XOXZOはスポンサーとして参加し、ブースも出展します。
 ![Quantx]({filename}/images/pycon-jp-sprint-2018/quantx.png)
 
 最後に各グループからの発表があって終了。そして懇親会へと続きます。
-食事のセレクションも見事で、なんとPython(蛇)の形のパンが添えらていました。
+食事のセレクションも最高で、なんとPython(蛇)の形のパンが添えらていました。
 
 ![Pythonのパン]({filename}/images/pycon-jp-sprint-2018/python-bread.jpg)
 
