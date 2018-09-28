@@ -1,8 +1,8 @@
 Title: PyCon JP 2018スプリント参加報告
 Date: 2018-09-27
-Slug: pycon-jp-2018-report
+Slug: pycon-jp-sprint-2018-report
 Lang: ja
-Tags: 2018; pycon; tokyo; 
+Tags: 2018; pycon; sprint; tokyo; 
 Author: Akira Nonaka
 Summary: PyCon JP 2018 のスプリントに参加ししました
 
@@ -24,6 +24,8 @@ XOXZOはスポンサーとして参加し、ブースも出展します。
 について理解が深まりました。
 出来上がったアルゴリズムは簡単に走らせることができ、売買のシミュレーション結果を綺麗なグラフにして見せてくれるのが
 面白いです。
+
+![Quantx]({filename}/images/pycon-jp-sprint-2018/quantx.png)
 
 最後に各グループからの発表があって終了。そして懇親会へと続きます。
 食事のセレクションも見事で、なんとPython(蛇)の形のパンが添えらていました。
