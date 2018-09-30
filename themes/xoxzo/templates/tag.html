@@ -1,9 +1,9 @@
 {% extends "index.html" %}
 
 {% block hreflang %}
-    <link rel="alternate" href="https://blog.xoxzo.com/tag/{{ tag.url }}" hreflang="x-default"/>
-    <link rel="alternate" href="https://blog.xoxzo.com/en/tag/{{ tag.url }}" hreflang="en"/>
-    <link rel="alternate" href="https://blog.xoxzo.com/ja/tag/{{ tag.url }}" hreflang="ja"/>
+    <link rel="alternate" href="https://blog.xoxzo.com/{{ tag.url }}" hreflang="x-default"/>
+    <link rel="alternate" href="https://blog.xoxzo.com/en/{{ tag.url }}" hreflang="en"/>
+    <link rel="alternate" href="https://blog.xoxzo.com/ja/{{ tag.url }}" hreflang="ja"/>
 {% endblock %}
 
 {% block content_title %}
