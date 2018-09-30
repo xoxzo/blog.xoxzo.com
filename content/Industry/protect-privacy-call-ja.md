@@ -1,5 +1,5 @@
 Title: 顧客の通話プライバシーを保護する方法
-Date: 2018-8-1 17:00
+Date: 2018-6-21 12:00
 Author: Ai Sin Chan
 Tags: api; sms; voice api; サイバーセキュリティ; データ保護; 通話プライバシー; business; 2018; 
 Slug: protect-call-privacy

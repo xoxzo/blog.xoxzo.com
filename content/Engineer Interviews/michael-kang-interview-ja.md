@@ -1,5 +1,5 @@
 Title: Michael Kang氏: 診断能力と論理的思考が、最も望ましいスキル
-Date: 2018-07-20 12:00
+Date: 2018-06-08 12:00
 Author: Ai Sin Chan
 Tags: インタビュー; 開発者; michael kang; マレーシア; myebills; 2018;
 Lang: ja

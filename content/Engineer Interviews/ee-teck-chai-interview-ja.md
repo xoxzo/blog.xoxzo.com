@@ -1,5 +1,5 @@
 Title: Ee Teck Chai: ライブシステムを変更することは、開発者にとっての試練です
-Date: 2018-08-21 12:00
+Date: 2018-07-05 12:00
 Author: Ai Sin Chan
 Tags: エンジニアインタビュー; engineer; github; live system; 2018;
 Lang: ja

@@ -1,5 +1,5 @@
 Title: 第二世代モバイル通信技術の沿革
-Date: 2018-9-13 12:00
+Date: 2018-8-1 12:00
 Author: Ai Sin Chan
 Tags: 2g; technology; history; commercial; military; first phones; japan; malaysia; 2018; mobile; communication; 
 Slug: history-of-2g

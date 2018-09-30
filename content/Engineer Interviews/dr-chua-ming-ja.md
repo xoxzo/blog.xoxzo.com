@@ -1,5 +1,5 @@
 Title: Dr. Chua Ming Yam: 練習が鍵となります。
-Date: 2018-09-7 12:00
+Date: 2018-07-11 12:00
 Author: Ai Sin Chan
 Tags: インタビュー; エンジニア; 2018; chua ming yam; airplanes; リモートセンシング; surveillance; 
 Lang: ja

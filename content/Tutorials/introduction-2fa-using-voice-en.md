@@ -1,5 +1,5 @@
 Title: How to set up Two-Factor Authentication using VOICE
-Date: 2018-05-25 10:00
+Date: 2018-05-14 10:00
 Author: Akira Nonaka
 Tags: 2FA; Tutorial; Voice; API;
 Slug: introduction-2fa-voice
