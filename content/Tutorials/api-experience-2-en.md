@@ -2,7 +2,7 @@ Title: User experience on Xoxzo API (Part 2)
 Date: 2018-07-03 12:00
 Author: Ai Sin Chan
 Tags: sms; api user; api; tutorial; experience; 2018
-Slug: User-experience-on-Xoxzo-API-Part-2
+Slug: user-experience-on-xoxzo-api-part-2
 Thumbnail: images/apiexp21.jpg
 Lang: en
 Summary: User experience on Xoxzo API
