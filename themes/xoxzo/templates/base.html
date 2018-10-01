@@ -21,11 +21,15 @@
     <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} - Full RSS Feed">
     {% endif %}
     {% if TRANSLATION_FEED_RSS %}
-    <link href="{{ FEED_DOMAIN }}/feeds/all-en.rss.xml" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} - English Article RSS Feed">
-    <link href="{{ FEED_DOMAIN }}/feeds/all-ja.rss.xml" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} - Japanese Article RSS Feed">
+    <link href="{{ FEED_DOMAIN }}/en/feeds/all-en.rss.xml" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} - English Article RSS Feed">
+    <link href="{{ FEED_DOMAIN }}/ja/feeds/all-ja.rss.xml" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} - Japanese Article RSS Feed">
     {% endif %}
     {% if CATEGORY_FEED_RSS and category %}
-    <link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_RSS|format(category.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} - {{ category }} Category RSS Feed">
+        {% if DEFAULT_LANG == 'ja' %}
+        <link href="{{ FEED_DOMAIN }}/ja/{{ CATEGORY_FEED_RSS|format(category.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} - {{ category }} Category RSS Feed">
+        {% else %}
+        <link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_RSS|format(category.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} - {{ category }} Category RSS Feed">
+        {% endif %}
     {% endif %}
 
     {% block hreflang %}
