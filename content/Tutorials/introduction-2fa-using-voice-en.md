@@ -7,7 +7,7 @@ Lang: en
 Summary: Learn how to add Two-Factor Authentication using VOICE on your Web-applications!
 
 
-[Last tutorial was to show you how to introduce two-factor authentication using SMS.](/introduction-2fa-en.md)
+[Last tutorial was to show you how to introduce two-factor authentication using SMS.](https://blog.xoxzo.com/2018/05/02/introduction-2fa-sms/)
 But we have some situation that we cannot use SMS.
 For example, the case that the recipient's phone is a landline, not a mobile phone.
 Do not worry, we can still deliver the PIN using [VOICE API](https://www.xoxzo.com/en/about/voice-api/).

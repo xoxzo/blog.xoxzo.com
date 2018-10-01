@@ -87,6 +87,8 @@ like this:
     Author: Aiko Yokoyama
     Summary: We participated in the KOF 2016 and this is what we think
 
+Translated article should have the **same `Date` metadata** as the original text for SEO.
+
 #### Thumbnail Image
 
 To show particular thumbnail image when the article is shared, fill **Thumbnail** metadata with the image url, like this:

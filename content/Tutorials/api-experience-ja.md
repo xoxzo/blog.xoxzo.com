@@ -2,7 +2,7 @@ Title: Xoxzo APIのユーザーエクスペリエンス（第1回）
 Date: 2018-06-27 12:00
 Author: Ai Sin Chan
 Tags: sms; api ユーザー; api; tutorial; UI; 体験;
-Slug: User-experience-on-Xoxzo-API-Part-1
+Slug: user-experience-on-xoxzo-api-part-1
 Thumbnail: images/apiexp1.jpg
 Lang: ja
 Summary: XoxzoのAPI　利用体験レポート
