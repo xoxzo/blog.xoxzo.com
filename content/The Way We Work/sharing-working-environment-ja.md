@@ -12,11 +12,13 @@ Summary: 生産力向上のため、チームキャンプでメンバーの仕�
 
 ![KL team camp 2018](/images/kl-team-camp-2018.jpg)
 
-We have policy not to download the source code into our local computer. We are
+Xoxzoでは、自分のローカル環境へソースコードをダウンロードしない、というポリシーがあります。
+このポリシーに従えば、どのように働くか、という決まりはまったくなく、自由に仕事をしていいのです。
 never dictating everyone on how they should work, so everyone is free to work as
-long it complies with the policy.
 
-And people work differently. Some of us prefer just to use a plain text editor, and
+みな、ちがったAnd people work differently. Some of us prefer just to use a plain text editor, and
+never dictating everyone on how they should work, so everyone is free to work as
+never dictating everyone on how they should work, so everyone is free to work as
 some of us said, he could not live with terminal anymore.
 
 On one of the session during the team camp, we shared on how we work. How is our
