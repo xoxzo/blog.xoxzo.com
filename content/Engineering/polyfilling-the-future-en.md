@@ -20,14 +20,14 @@ What does it mean?
 
 
 If you use &lt;audio&gt; tag for certain filetypes (for example, an mp3
-file), there are some browser that do not supports it.[^\[1\]^](anchor1)
+file), there are some browser that do not supports it.[^1]
 What does it needs to be done if we want to play an mp3 file on Firefox
 3.6? Well, we can use a flash audio player for instance or we could
 provide other compatible files. The latter is not preferable for it
 requires a lot of space and processing power. We'd have to convert every
 single file that are not supported by browsers to a format it supports.
 Polyfills provide a fallback for this type of
-situations.[^\[2\]^](anchor2)
+situations.[^2]
 
 How Do We Check A Feature Is In A Browser?
 #####################################################
@@ -68,7 +68,7 @@ native behavior in older browsers. So instead of worrying about support
 in some browsers, use these polyfills to enhance the browsers to provide
 the user with proper experience to your web sites and applications.
 
-[1.]( "anchor1") <http://html5doctor.com/native-audio-in-the-browser/>
+[^1]: <http://html5doctor.com/native-audio-in-the-browser/>
 
-[2.]( "anchor2") <http://html5please.com/#audio>
+[^2]: <http://html5please.com/#audio>
 

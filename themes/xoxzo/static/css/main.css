@@ -297,6 +297,14 @@ a.caption:hover {
     color: #333;
 }
 
+.footnote-ref::before {
+    display: inline-block;
+    content: " ";
+    margin-top: -75px;
+    height: 75px;
+    visibility: hidden;
+}
+
 .pg {
     margin-top: 40px;
 }

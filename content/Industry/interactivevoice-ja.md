@@ -1,5 +1,5 @@
 Title: インタラクティブ音声自動応答の用途とは？
-Date: 2018-06-28 12:00
+Date: 2018-05-18 12:00
 Author: Ai Sin Chan
 Tags: 2018; 音声; voice api; voice-based; 技術; 自動応答; カスタマー;
 Slug: Interactive-voice-response 

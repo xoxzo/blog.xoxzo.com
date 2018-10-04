@@ -1,5 +1,5 @@
 Title: SMSブロードキャストにおける行動規範
-Date: 2018-06-11 12:00
+Date: 2018-05-08 12:00
 Lang: ja
 Author: Ai Sin Chan
 Tags: api; 開発者; マーケット; 経済; sms; ビジネス; 行動規範; 道徳

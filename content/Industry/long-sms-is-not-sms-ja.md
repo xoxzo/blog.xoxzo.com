@@ -1,5 +1,5 @@
 Title: 長文SMSというのは、Eメールのこと
-Date: 2018-07-20 17:00 
+Date: 2018-07-20 17:00
 Slug: long-sms-is-not-sms
 Lang: ja
 Tags: 2018; sms; 長文; ショートメッセージ; 電子メール;

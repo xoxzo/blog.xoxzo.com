@@ -1,5 +1,5 @@
 Title: Long SMS is no longer SMS
-Date: 2018-07-26 17:00 
+Date: 2018-07-20 17:00 
 Slug: long-sms-is-not-sms 
 Lang: en 
 Tags: 2018; sms; long-message; SMS; email; 

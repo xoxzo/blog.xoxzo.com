@@ -1,11 +1,5 @@
 {% extends "index.html" %}
 
-{% block hreflang %}
-    <link rel="alternate" href="https://blog.xoxzo.com/tag/{{ tag.url }}" hreflang="x-default"/>
-    <link rel="alternate" href="https://blog.xoxzo.com/en/tag/{{ tag.url }}" hreflang="en"/>
-    <link rel="alternate" href="https://blog.xoxzo.com/ja/tag/{{ tag.url }}" hreflang="ja"/>
-{% endblock %}
-
 {% block content_title %}
 <div class="content-title">
     <h2>{% trans %}Articles by the <b>{{ tag }}</b> tag{% endtrans %}</h2>
