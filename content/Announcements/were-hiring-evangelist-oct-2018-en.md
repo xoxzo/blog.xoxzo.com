@@ -3,6 +3,7 @@ Date: 2018-10-04 23:45
 Slug: were-hiring-developer-evangelists-malaysia
 Lang: en 
 Tags: 2018; hiring; evangelist; malaysia;
+Thumbnail: /images/xoxzo-team-pyconapac-2017.jpg
 Author: Iqbal Abdullah 
 Summary: Xoxzo is expanding and looking for individuals interested in joining us for a full-time remote position in Malaysia as a Developer/Evangelist
 
