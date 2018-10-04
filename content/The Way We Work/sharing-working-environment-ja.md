@@ -14,27 +14,24 @@ Summary: 生産力向上のため、チームキャンプでメンバーの仕�
 
 Xoxzoでは、自分のローカル環境へソースコードをダウンロードしない、というポリシーがあります。
 このポリシーに従えば、どのように働くか、という決まりはまったくなく、自由に仕事をしていいのです。
-never dictating everyone on how they should work, so everyone is free to work as
 
-みな、ちがったAnd people work differently. Some of us prefer just to use a plain text editor, and
-never dictating everyone on how they should work, so everyone is free to work as
-never dictating everyone on how they should work, so everyone is free to work as
-some of us said, he could not live with terminal anymore.
+みな、働き方が違います。私達の中でも、テキストエディタで仕事をするのを好む人、
+もう、ターミナルでは生きていけなくなった、という人もいます。
 
-On one of the session during the team camp, we shared on how we work. How is our
-working environment look a like. How we setup our tools to improve productivity.
+チームキャンプ中のあるセションで、働き方の共有をしました。
+仕事場はどんな風か、生産性向上のために、ツールの設定をどうしているのか、などです。
 
-For example, I shared on how I use [vim-flake8](https://github.com/nvie/vim-flake8)
-on my vim to automatically check the code for [PEP8](https://www.python.org/dev/peps/pep-0008/)
-compliance. Everytime I save a Python file, flake8 will automatically check for:
+例えば、私は、自分の vim 上で、[PEP8](https://www.python.org/dev/peps/pep-0008/) コンプライアンス用のコードを
+どのように [vim-flake8](https://github.com/nvie/vim-flake8) を使って
+自動的にチェックしているかを共有しました。Pythonのファイルを保存するたびに、flake8 が自動的に下記の事柄をチェックするのです。
 
-* unused but imported modules
-* unused variables
-* syntax error
-* spacing suggestion
-* new line suggestion
+* 不使用だが重要なモジュール
+* 不使用の変数
+* シンタックス・エラー
+* スペースの提案
+* 改行の提案
 
-For example I have this on my Python source code:
+例を挙げると、私がこんなPython ソースコードを書きます。
 ```
 1 #!/usr/bin/python
 2
@@ -49,28 +46,31 @@ For example I have this on my Python source code:
 11
 ```
 
-And when I type :wq (save and quit on vim), vim will send a warning message:
+そして、 :wq とタイプします。（保存して vim を終了する) すると vim は、警告を出します。
 ```
 1 example.py|5 col 1| F401 'django' imported but unused
 2 example.py|9 col 13| F821 undefined name 'timedelta'
 3 example.py|11 col 1| W391 blank line at end of file
 ```
 
-This will definitely increase my productivity since I do not need to check
-above error/warning manually by checking line-by-line.
+一行一行、目を凝らし、手動で上記のエラーのチェックをする必要がない分、
+これは全くの生産性向上だと思っています。
 
-Then my friend showed that there are lot of things we can do using Microsoft
-Visual Studio Code: such as compare the diff, making commits, and also check
-for syntax error. Even nowadays, VS Code is available in non-Windows
-environment including [GNU/Linux](https://code.visualstudio.com/docs/setup/linux).
+そうしたら、友人たちは、Microsoft Visual Studio のコードを使ってできることを、
+例えば、違いの比較だとか、commits する方法とか、シンタックスエラーをチェックすること
+なんかを、たくさん教えてくれました。
+最近では、[GNU/Linux](https://code.visualstudio.com/docs/setup/linux)　を含む、Windowsでない環境下でも、
+ VS コードが使えるんです。
+ 
+シェルに関しては、チームの一人が、zsh を見せてくれました。
+私は、従来の bash shell から zsh へ変えようか、と興味を持っていたところでした。
+zsh には、[oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)と呼ばれる、人気のフレームワークがあるんです。
 
-For shell, one of our team member was showing zsh. I was interested to switch to
-zsh shell from the classic bash shell. zsh has one popular framework called
-[oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh).
-
-It has a lot of plugins collection. One thing I notice that zsh can
-do is that we can checkout to a branch without have to type the full branch
-name. We can just type the keyworod and zsh will find it for us. For example:
+プラグインのコレクションも、たくさんあります。
+気づいたのは、zsh では、ブランチ名を全部タイプしなくても、ブランチをチェックアウトできる
+ということでした。
+キーワードをタイプするだけで、zsh が探してきてくれるんです。
+例えば、
 
 ```
 $ git checkout -b PROJECT-123-update-readme
@@ -83,11 +83,11 @@ $ git checkout 123
 $ git checkout PROJECT-123-update-readme
 ```
 
-We also had the chance to see how our front end engineer work. This thing is a
-completely different from what my day-to-day work. She showed the tools on
-creating icon, wireframe, and then implement it via code. Things that I have
-never done it, as a backend engineer.
+フロントエンドの仕事ぶりを見る機会もありました。
+私が日々やっている仕事とは、全く違いました。アイコン、ワイヤーフレームを作成して、それをコードを使って
+実行するツールなど、バックエンドエンジニアとして、私が見たことも触ったこともないところを、
+見せてくれました。
 
-I have been using a plain text editor and using bash for a quite long time until
-now. Then I am thinking, why not to give it a try the IDE text editor and zsh.
-_There should be always a room to try something new, right?_
+これまで、私はかなり長い間、テキストエディタと、bash を使ってきました。
+そこで今、考えています。IDEテキストエディタと zsh を使ってみようかな、と。
+_いつだって、新しいことにチャレンジする余地はあるものです、よね？_
