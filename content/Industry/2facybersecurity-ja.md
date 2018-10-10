@@ -1,5 +1,5 @@
 Title: サイバーセキュリティにおける、SMSと音声通話の役割
-Date: 2018-5-22 12:00
+Date: 2018-4-27 12:00
 Author: Ai Sin Chan
 Tags: api; sms; voice api; サイバーセキュリティ; 2要素認証; 多要素認証; SMSコード; 
 Slug: 2fa-cyber-security
