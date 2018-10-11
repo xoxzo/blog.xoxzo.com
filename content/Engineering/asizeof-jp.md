@@ -6,15 +6,13 @@ Slug: asizeof-usage
 Lang: ja
 Summary: メモリの漏れを調べるために、asizeof を使います。
 
-あなたのプログラムがメモリを食い始め、どこに問題があるかを調べようとすることがあります。
+プログラムがメモリを食い始め、どこに問題があるかを調べようとすることがあります。
 こんなとき役に立つ、さまざまなツールがあります。ここでは、 [Pympler](https://pythonhosted.org/Pympler/) lib
 の、`asizeof` というシンプルなツールをご紹介したいと思います。
 
-Pympler has 2 trackers to measure, monitor and analyze the memory behavior of
-Python objects. These trackers are `muppy` and `Class Tracker`.
 Pymplerには、Pythonオブジェクトのメモリ動作を測定、監視、分析するための2つのトラッカーがあります。 
  `muppy`と` Class Tracker`です。
-これが、メモリの漏れを調べるのに、役立つのです。
+これが、メモリの漏れを調べるのに、役立ちます。
 
 純粋なPythonオブジェクトのサイズだけを返す、組み込みの `sys.getsizeof（）`というメソッドがあります。
 例えば、このように使います。
@@ -54,7 +52,7 @@ Pymplerには、Pythonオブジェクトのメモリ動作を測定、監視、�
 複雑で入り組んだスクリプトでは、もっと便利なツールが必要になるかもしれませんが、小さなスクリプトでは `asizeof`が便利です。
 
 
-Asizeofは、どの変数が問題になるかを直感的に推測し、そのサイズを確認し、直感を確認するときに使用できます。
+`Asizeof`は、どの変数が問題になるかを直感的に推測し、そのサイズを確認し、直感を確認するときに使用できます。
 しかし、問題がどこにあるのか分からず、問題のあるコードが数十から数百行に及ぶ場合は、
 すべての変数に `print（asizeof（）)`を書くことはできないので、メモリプロファイラを使うのが良いでしょう。
 
@@ -96,9 +94,6 @@ print( asizeof.asizeof(dummy) )
 4195944
 ```
 
-and you can see that problem is in `dummy` instance, which is 4,195,944 bytes,
-which is around 4Mb. Also you can use `asizeof.asizesof` function
-(plural, "A Sizes Of"):
 その問題が、4,195,944バイト（約4Mb）の`dummy`インスタンスにあることがわかります。 
 また、 `asizeof.asizesof`(plural, "A Sizes Of") 関数を使うこともできます。
 
