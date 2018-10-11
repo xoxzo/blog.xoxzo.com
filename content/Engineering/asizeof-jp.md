@@ -12,10 +12,12 @@ Summary: メモリの漏れを調べるために、asizeof を使います。
 
 Pympler has 2 trackers to measure, monitor and analyze the memory behavior of
 Python objects. These trackers are `muppy` and `Class Tracker`.
-They also can help you investigate memory leaks.
+Pymplerには、Pythonオブジェクトのメモリ動作を測定、監視、分析するための2つのトラッカーがあります。 
+ `muppy`と` Class Tracker`です。
+これが、メモリの漏れを調べるのに、役立つのです。
 
-There is a built-in `sys.getsizeof()` method, which returns the size of pure
-Python object only. Example:
+純粋なPythonオブジェクトのサイズだけを返す、組み込みの `sys.getsizeof（）`というメソッドがあります。
+例えば、このように使います。
 
 ```python
 >>> import sys
@@ -31,8 +33,8 @@ Python object only. Example:
 72
 ```
 
-In contrast, `asizeof.asizeof()` recursively searches for inner values, and
-counts whole size of object, including size of inner items:
+対照的に、 `asizeof.asizeof（）`は内部的な値を再帰的に検索し、
+内部項目のサイズを含むオブジェクトの全体サイズを数えます。
 
 ```python
 >>> from pympler import asizeof
@@ -48,17 +50,15 @@ counts whole size of object, including size of inner items:
 136
 ```
 
-You can find a bottleneck in your script using `asizeof` by checking the size of
-values in your script. In complex and complicated scripts, probably we will need
-another more convenient tools, but in small scripts `asizeof` will be handy.
+スクリプト内の値の大きさを調べることで、 `asizeof`を使ってボトルネックを見つけることができるというわけです。
+複雑で入り組んだスクリプトでは、もっと便利なツールが必要になるかもしれませんが、小さなスクリプトでは `asizeof`が便利です。
 
-Asizeof can be used when you intuitively guess which variable can be problematic,
-and check its size, and to confirm the hunch. But if you totally do not know where
-the issue may be, and if your problematic code consist of dozens or
-hundreds of lines, then better to use memory profilers, because you cannot write
-`print(asizeof())` on every variable.
 
-Example:
+Asizeofは、どの変数が問題になるかを直感的に推測し、そのサイズを確認し、直感を確認するときに使用できます。
+しかし、問題がどこにあるのか分からず、問題のあるコードが数十から数百行に及ぶ場合は、
+すべての変数に `print（asizeof（）)`を書くことはできないので、メモリプロファイラを使うのが良いでしょう。
+
+例:
 
 ```python
 from pympler import asizeof
@@ -83,8 +83,10 @@ def investigated_function():
         
 ```
 
-If we run `investigated_function()`, it will consume our memory, and we want
-to investigate where is the problem. You just check values, e.g.:
+
+`investigated_function（）`を実行すると、メモリが消費され、問題がどこにあるか調べることになります。 
+そうすると、値をチェックするだけです。例えば:
+
 ```python
 print( asizeof.asizeof(sometuple) )
 print( asizeof.asizeof(empty) )
@@ -97,6 +99,8 @@ print( asizeof.asizeof(dummy) )
 and you can see that problem is in `dummy` instance, which is 4,195,944 bytes,
 which is around 4Mb. Also you can use `asizeof.asizesof` function
 (plural, "A Sizes Of"):
+その問題が、4,195,944バイト（約4Mb）の`dummy`インスタンスにあることがわかります。 
+また、 `asizeof.asizesof`(plural, "A Sizes Of") 関数を使うこともできます。
 
 ```python
 print( asizeof.asizesof(dummy.a, dummy.b, dummy.c, dummy.d) )
@@ -104,7 +108,7 @@ print( asizeof.asizesof(dummy.a, dummy.b, dummy.c, dummy.d) )
 (592, 512, 4194368, 472)
 ```
 
-And from above command we can see, that `dummy.c` takes a lot of memory, which
+上のコマンドから、 Dummyクラスの属性 `dummy.c`が、多くのメモリを使っていることがわかります。
 is an attribute of Dummy class:
 
 ```python
