@@ -62,7 +62,7 @@ GSMネットワークは過去数十年にわたりモバイルユーザーに�
 - メッセージングのサポート
 
 
-モバイル通信技術の沿革シリーズ：
+モバイル通信技術の沿革シリーズ：</br>
 [第一世代モバイル通信技術の沿革](https://blog.xoxzo.com/ja/2018/07/24/history-of-1g/)</br>
 [第三世代(3G)モバイル通信技術の沿革](https://blog.xoxzo.com/ja/2018/08/10/history-of-3g/)</br>
 [第四世代モバイル通信技術の沿革](https://blog.xoxzo.com/ja/2018/08/15/history-of-4g/)も読む
