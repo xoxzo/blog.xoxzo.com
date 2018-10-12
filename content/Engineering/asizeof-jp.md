@@ -6,11 +6,11 @@ Slug: asizeof-usage
 Lang: ja
 Summary: メモリの漏れを調べるために、asizeof を使います。
 
-プログラムがメモリを食い始め、どこに問題があるかを調べようとすることがあります。
+プログラムがメモリを使い始め、どこに問題があるかを調べようとすることがあります。
 こんなとき役に立つ、さまざまなツールがあります。ここでは、 [Pympler](https://pythonhosted.org/Pympler/) lib
 の、`asizeof` というシンプルなツールをご紹介したいと思います。
 
-Pymplerには、Pythonオブジェクトのメモリ動作を測定、監視、分析するための2つのトラッカーがあります。 
+Pymplerには、Pythonオブジェクトのメモリ動作を測定、監視、分析するための2つの追跡手段があります。 
  `muppy`と` Class Tracker`です。
 これが、メモリの漏れを調べるのに、役立ちます。
 
@@ -32,7 +32,7 @@ Pymplerには、Pythonオブジェクトのメモリ動作を測定、監視、�
 ```
 
 対照的に、 `asizeof.asizeof（）`は内部的な値を再帰的に検索し、
-内部項目のサイズを含むオブジェクトの全体サイズを数えます。
+内部に含まれるオブジェクトのサイズを含む全体のサイズを数えます。
 
 ```python
 >>> from pympler import asizeof
@@ -48,7 +48,7 @@ Pymplerには、Pythonオブジェクトのメモリ動作を測定、監視、�
 136
 ```
 
-スクリプト内の値の大きさを調べることで、 `asizeof`を使ってボトルネックを見つけることができるというわけです。
+スクリプト内の変数の大きさを調べることで、 `asizeof`を使ってボトルネックを見つけることができるというわけです。
 複雑で入り組んだスクリプトでは、もっと便利なツールが必要になるかもしれませんが、小さなスクリプトでは `asizeof`が便利です。
 
 
@@ -83,7 +83,7 @@ def investigated_function():
 
 
 `investigated_function（）`を実行すると、メモリが消費され、問題がどこにあるか調べることになります。 
-そうすると、値をチェックするだけです。例えば:
+そうすると、変数をチェックするだけです。例えば:
 
 ```python
 print( asizeof.asizeof(sometuple) )
@@ -104,7 +104,6 @@ print( asizeof.asizesof(dummy.a, dummy.b, dummy.c, dummy.d) )
 ```
 
 上のコマンドから、 Dummyクラスの属性 `dummy.c`が、多くのメモリを使っていることがわかります。
-is an attribute of Dummy class:
 
 ```python
 self.c = bytearray(1024*1024*4)
