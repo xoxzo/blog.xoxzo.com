@@ -8,44 +8,63 @@ Thumbnail: images/history4g01.jpg
 Summary: 第4世代技術のはじまりと、どのように使われていたかをご紹介します。
 
 
-2001年までに、業界内のさまざまな企業から第四世代に関する議論や提案が数多くなされました。この時点で、次世代はこれまでの世代のモバイル技術同様、革命ではなく [進化だ](http://www.gsmhistory.com/lte4g/) という共通認識がありました。
+2001年までに、業界内のさまざまな企業から第四世代に関する議論や提案が数多くなされました。
+この時点で、次世代はこれまでの世代のモバイル技術同様、
+革命ではなく [進化だ](http://www.gsmhistory.com/lte4g/) という共通認識がありました。
 
-
-It was in 2004 when it started to take shape by the start of work on the first LTE (Long Term Evolution) technical specification, Release 8 (R8). However, it was not until 2008 when the specification was completed and released by 3GPP, the same cooperative body that has been releasing WCDMA technical specifications for 3G technology. 
-
-In 2009 TeliaSonera launched the [world’s first commercial LTE](https://www.telegeography.com/products/commsupdate/articles/2009/12/14/teliasonera-launches-worlds-first-commercial-lte-networks-in-sweden-and-norway/) mobile services in Stockholm and Oslo, over network equipment supplied by Ericsson and Huawei, respectively. The LTE service supports data rates up to 100Mbps, 10 times faster than existing 3G. No LTE mobile phone had been manufactured by the time of the launch, the data rate was achieved by using an [LTE computer dongle](https://www.samsung.com/us/news/newsPreviewRead.do?news_seq=16602) manufactured by Samsung.
+2004年、初のLTE（ロング・ターム・エヴォリューション）の技術仕様となる
+Release 8（R8）の取り組みに着手、実現に向けて動き出しました。
+しかし、仕様化が完成し、第三世代技術用のWCDMAの技術仕様書をリリースしてきた
+3GPPによってリリースされたのは、2008年になってからでした。
+ 
+ 2009年、テリア・ソネラ社が [世界初となる商用LTE](https://www.telegeography.com/products/commsupdate/articles/2009/12/14/teliasonera-launches-worlds-first-commercial-lte-networks-in-sweden-and-norway/)モバイルサービスを、
+ エリクソンとファーウェイのネットワーク機器を利用してそれぞれストックホルムおよびオスロ―で立ち上げました。
+ LTEサービスは、100Mbpsまでのデータレート、従来の3Gのスピードの10倍をサポートします。
+ 開始時にLTE対応携帯電話は製造されておらず、データレートはサムスン社製の[LTEコンピュータドングル](https://www.samsung.com/us/news/newsPreviewRead.do?news_seq=16602)を使って達成していました。
+ 
  
 ![history4g](/images/history4g01.jpg)<a class="caption" href="https://phys.org/news/2009-12-samsung-lte-dongle-teliasonera-world.html">Image credit</a>
 
-However, the first LTE standards and networks were only 3.9G or pre-4G by definition, because a true 4G network would have to achieve data rates of 1Gbps as specified by the [ITU-R requirements](http://www.itu.int/pub/R-REP-M.2134-2008/en). 3GPP then continued to work on LTE-Advanced (LTE-A) from 2009 which was released as R10 in 2011, and underwent minor updates until 2013. 
+しかし、最初のLTE標準とネットワークは、定義上、第3.9世代もしくは第四世代前でしかありませんでした。
+真に第四世代と呼び得るネットワークは、[ITU-Rの定める要件](http://www.itu.int/pub/R-REP-M.2134-2008/en)として
+設定されている1Gbpsのデータレートを達成なければならないからです。
+3GPPは、2009年以降も引き続きLTEアドバンスト（LTE-A）の開発に取り組み、
+2011年にR10としてリリース、2013年までマイナーアップデートを行いました。
 
-In 2012, the Russian operator YOTA Networks announced the launch of the [world's first LTE-A commercial network](https://www.unwiredinsight.com/2012/lte-advanced-russia) with equipment supplied by Huawei in Moscow. However, LTE-A compliant mobile phones would not be available until 2013. The data rates attained at the time of the launch was 300Mbps, it would take additional resources on the radio channels to achieve 1Gbps in time to come. 
+2012年、ロシアのオペレーター「ヨタ・ネットワークス」が、ファーウェイ提供の機器を使った
+[世界初のLTE-A対応商用ネットワーク](https://www.unwiredinsight.com/2012/lte-advanced-russia)をモスクワで開始することを発表しました。
+しかし、LTE-A対応の携帯電話が使えるようになるのは2013年まで待たなければなりませんでした。
+開始時に確認されたデータレートは300Mbpsで、1Gbpsを達成するには無線チャネルにまだまだ資金を投入する必要があるでしょう。
 
-With the availability of data rates as high as 1Gbps, many services can be supported, such as: mobile web access, IP telephony, gaming services, high-definition mobile TV, video conferencing, and 3D television.
+1Gbpsという高いデータレートが利用可能になれば、モバイルでのウェブアクセスやIP電話、ゲームサービス、高精度モバイルTV、ビデオ会議、3Dテレビなどさまざまなサービスがサポートされるようになります。
 
-Samsung SCH-r900 was the [world’s first LTE mobile phone](http://www.gsmhistory.com/samsung-sch-r900/) available starting from September 21, 2010.
+サムスンのSCH-r900は、2010年9月21日に発売された [世界初のLTE対応携帯電話](http://www.gsmhistory.com/samsung-sch-r900/)でした。
 
 ![history4g](/images/history4g02.jpg)<a class="caption" href="http://www.gsmhistory.com/samsung-sch-r900/">Image credit</a>
 
-The first LTE-A mobile phone [Galaxy S5 Broadband LTE-A](https://news.samsung.com/global/samsung-launches-worlds-first-broadband-lte-a-smartphone) was launched, again by Samsung, on June 19, 2014. 
+初のLTE-A対応携帯電話[Galaxy S5 Broadband LTE-A](https://news.samsung.com/global/samsung-launches-worlds-first-broadband-lte-a-smartphone)も、やはりサムスン社から、2014年6月19日に発売されました。
  
 ![history4g](/images/history4g03.jpg)<a class="caption" href="http://gizmomaniacs.com/samsung-galaxy-s5-broadband-lte-a-unveiled">Image credit</a>
 
-Due to the fact that 4G spectrum is available in [various bands](https://www.electronicdesign.com/4g/introduction-lte-advanced-real-4g), and a mobile handset multiband antenna can only be tuned to certain bands, hence transmitting to and receiving from all the bands band requires more than one antenna. An LTE mobile phone can only fit in probably 1 or 2 antennas, and different operators use different bands, therefore an LTE mobile phone can only be used for certain operators. Before buying an LTE phone, it would be wise to check which bands that the operator you subscribe to uses.
+4Gスペクトラムは[さまざまな周波数帯](https://www.electronicdesign.com/4g/introduction-lte-advanced-real-4g)で利用可能なのですが、
+携帯電話用マルチバンドアンテナが一定の周波数帯にしかチューニングできないため、すべての周波数帯を対象に送受信するには、複数のアンテナが必要となります。LTE対応携帯電話はおそらく1つ、もしくは2つのアンテナにしか適合せず、異なるオペレーターは異なる周波数帯を利用しているため、LTE対応携帯電話は特定のオペレーター用としてしか使えません。LTE対応電話を購入する前に、契約するオペレーターがどの周波数帯を利用しているのか確認するのが賢明でしょう。
 
-Mobile phones are designed to be forward and backward compatible, so when an operator upgrades from LTE to LTE-A, the subscriber LTE phones should remain usable, and likewise for an LTE-A mobile subscriber switching to an LTE network operator. 
+携帯電話は前方、後方ともに互換性を持たせて設計されますので、オペレーターがLTEからLTE-Aにアップグレードしても、
+契約しているLTE対応電話は変わらず利用できるはずです。LTE-Aの携帯電話加入者がLTEネットワークのオペレーターに切り替えた時も同じです。
 
-Since the availability of LTE networks in 2012, LTE subscriptions worldwide has been steadily increasing, gradually replacing GSM, TD-SCDMA, and CDMA which have been decreasing. 
+2012年にLTEネットワークが利用可能になって以来、LTEの加入者は世界的に着実に増え続け、
+減少を続けるGSM、TD-SCDMA、それにCDMAに取って代わるようになりました。
 
 ![history4g](/images/history4g04.jpg)<a class="caption" href="https://www.ericsson.com/en/mobility-report/mobility-visualizer">Image credit</a>
 
-Pre-4G and 4G networks achieved the following improvements, supporting significantly higher data rates:
+第四世代以前、それに第四世代のネットワークは、極めて高いデータレートをサポートしながら、以下の改良点を達成しました。
 
--	Increased user data throughput, increased cell-edge bit-rate, improved spectral efficiency, variable bandwidth, all leading to higher data rates;
--	Packet switching on the radio interface; 
--	OFDMA in the downlink which is critical for the data rates achievable; 
--	SC-TDMA in the uplink which does not require high power consumption in the mobile phone; 
--	Introduction of SAE (System Architecture Evolution), to realize all-IP Network (AIPN);
--	The use of HetNet (Heterogenous Network), Coordinate Multipoint, Carrier Aggregation, and Massive MIMO techniques to achieve 1Gbps in LTE-A. 
+-	データレートの向上につながる、ユーザデータスループットの改善、セル端ビットレートの改善、スペクトル効率の改善、可変帯域ネットワーク
+-	無線インターフェースでのパケット交換
+-	データレートの達成に不可欠なダウンリンクのOFDMA
+-	携帯電話では大きな消費電力を必要としないアップリンクのSC-TDMA
+-	オールIPネットワーク（AIPN）を実現するためのSAE（システム・アーキテクチャー・エヴォリューション）の導入
+-	LTE-Aで1Gbpsの達成を目的としたHetNet（ヘテロジニアス・ネットワーク）、協調マルチポイント、キャリアアグリゲーション、マッシブマイモ技術の使用
 
-Following LTE-A in R10 released by 3GPP in 2011, there had been R11 and R12 released in 2012 and 2013 respectively, and subsequently R13 in 2016. The development of 4G mobile communication technology is not final, and continues to unravel. 
+2011年に3GPPがR10としてLTE-Aをリリースして以降、2012年にR11、2013年にR12、そして2016年にR13がリリースされました。第四世代モバイル通信技術はまだ最終局面ではなく、これからも発展は続いていきます。
+
