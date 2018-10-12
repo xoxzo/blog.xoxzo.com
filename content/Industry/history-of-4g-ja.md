@@ -1,13 +1,15 @@
-Title: A brief overview of 4G mobile communication technology
+Title: 第四世代モバイル通信技術の沿革
 Date: 2018-8-15 12:00
 Author: Ai Sin Chan
-Tags: 4g; technology; history; commercial; military; first phones; japan; malaysia; 2018; mobile; communication; 
+Tags: 4g; テクノロジー; 沿革; 商用; 軍用; 初期の電話; 日本; マレーシア; 2018; モバイル; コミュニケーション; 
 Slug: history-of-4g
-Lang: en
+Lang: ja
 Thumbnail: images/history4g01.jpg
-Summary: The origin of 4G technology and how it was first used
+Summary: 第4世代技術のはじまりと、どのように使われていたかをご紹介します。
 
-Various discussions and proposals for 4G started to emerge by 2001 from various companies in the industry. By that time, it was commonly agreed that the next generation would be an [evolution](http://www.gsmhistory.com/lte4g/) instead of a revolution as it had been for the past generations of mobile technology. 
+
+2001年までに、業界内のさまざまな企業から第四世代に関する議論や提案が数多くなされました。この時点で、次世代はこれまでの世代のモバイル技術同様、革命ではなく [進化だ](http://www.gsmhistory.com/lte4g/) という共通認識がありました。
+
 
 It was in 2004 when it started to take shape by the start of work on the first LTE (Long Term Evolution) technical specification, Release 8 (R8). However, it was not until 2008 when the specification was completed and released by 3GPP, the same cooperative body that has been releasing WCDMA technical specifications for 3G technology. 
 
