@@ -23,7 +23,7 @@ Release 8（R8）の取り組みに着手、実現に向けて動き出しまし
  開始時にLTE対応携帯電話は製造されておらず、データレートはサムスン社製の[LTEコンピュータドングル](https://www.samsung.com/us/news/newsPreviewRead.do?news_seq=16602)を使って達成していました。
  
  
-![history4g](/images/history4g01.jpg)<a class="caption" href="https://phys.org/news/2009-12-samsung-lte-dongle-teliasonera-world.html">Image credit</a>
+![history4g](/images/history4g01.jpg)<a class="caption" href="https://phys.org/news/2009-12-samsung-lte-dongle-teliasonera-world.html">画像クレジット</a>
 
 しかし、最初のLTE標準とネットワークは、定義上、第3.9世代もしくは第四世代前でしかありませんでした。
 真に第四世代と呼び得るネットワークは、[ITU-Rの定める要件](http://www.itu.int/pub/R-REP-M.2134-2008/en)として
@@ -40,11 +40,11 @@ Release 8（R8）の取り組みに着手、実現に向けて動き出しまし
 
 サムスンのSCH-r900は、2010年9月21日に発売された [世界初のLTE対応携帯電話](http://www.gsmhistory.com/samsung-sch-r900/)でした。
 
-![history4g](/images/history4g02.jpg)<a class="caption" href="http://www.gsmhistory.com/samsung-sch-r900/">Image credit</a>
+![history4g](/images/history4g02.jpg)<a class="caption" href="http://www.gsmhistory.com/samsung-sch-r900/">画像クレジット</a>
 
 初のLTE-A対応携帯電話[Galaxy S5 Broadband LTE-A](https://news.samsung.com/global/samsung-launches-worlds-first-broadband-lte-a-smartphone)も、やはりサムスン社から、2014年6月19日に発売されました。
  
-![history4g](/images/history4g03.jpg)<a class="caption" href="http://gizmomaniacs.com/samsung-galaxy-s5-broadband-lte-a-unveiled">Image credit</a>
+![history4g](/images/history4g03.jpg)<a class="caption" href="http://gizmomaniacs.com/samsung-galaxy-s5-broadband-lte-a-unveiled">画像クレジット</a>
 
 4Gスペクトラムは[さまざまな周波数帯](https://www.electronicdesign.com/4g/introduction-lte-advanced-real-4g)で利用可能なのですが、
 携帯電話用マルチバンドアンテナが一定の周波数帯にしかチューニングできないため、すべての周波数帯を対象に送受信するには、複数のアンテナが必要となります。LTE対応携帯電話はおそらく1つ、もしくは2つのアンテナにしか適合せず、異なるオペレーターは異なる周波数帯を利用しているため、LTE対応携帯電話は特定のオペレーター用としてしか使えません。LTE対応電話を購入する前に、契約するオペレーターがどの周波数帯を利用しているのか確認するのが賢明でしょう。
@@ -55,7 +55,7 @@ Release 8（R8）の取り組みに着手、実現に向けて動き出しまし
 2012年にLTEネットワークが利用可能になって以来、LTEの加入者は世界的に着実に増え続け、
 減少を続けるGSM、TD-SCDMA、それにCDMAに取って代わるようになりました。
 
-![history4g](/images/history4g04.jpg)<a class="caption" href="https://www.ericsson.com/en/mobility-report/mobility-visualizer">Image credit</a>
+![history4g](/images/history4g04.jpg)<a class="caption" href="https://www.ericsson.com/en/mobility-report/mobility-visualizer">画像クレジット</a>
 
 第四世代以前、それに第四世代のネットワークは、極めて高いデータレートをサポートしながら、以下の改良点を達成しました。
 
