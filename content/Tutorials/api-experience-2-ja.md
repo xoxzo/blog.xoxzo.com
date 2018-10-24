@@ -8,7 +8,7 @@ Lang: ja
 Summary: Xoxzo API の体験レポート
 
 Xoxzo APIを使った [私のユーザーエクスペリエンス]
-(https://blog.xoxzo.com/ja/2018/08/10/user-experience-on-xoxzo-api-part-1/) の第2回 です。
+(https://blog.xoxzo.com/ja/2018/06/27/user-experience-on-xoxzo-api-part-1/) の第2回 です。
 
 [オーディオファイルの再生](https://www.xoxzo.com/ja/about/voice-api/)、
 [SMS配信](https://www.xoxzo.com/ja/about/sms-api/)、および [キャリア検索 API](https://www.xoxzo.com/ja/about/utilities-api/)
@@ -28,7 +28,7 @@ curl -u <API SID>:<Auth Token> --data-urlencode "caller=+60xxxxxxx" --data-urlen
 
 コマンドプロンプトにCallIDが表示されました。
 テキスト音声変換/TTS（Text-to-Speech）を使った電話にでると、
-[快活で滑らかな女性の声](https://blog.xoxzo.com/ja/2018/07/10/ivrflow/)に挨拶されました。
+[快活で滑らかな女性の声](https://blog.xoxzo.com/ja/2018/05/23/ivrflow/)に挨拶されました。
 上記のコマンドで入力したテキストを読み上げたものです。
 私は、[TTSチュートリアル](https://blog.xoxzo.com/ja/2018/03/09/making-a-voice-authentication-call-with-tts/)
 で提案されていた通り、数字と数字の間に、カンマをいくつか入れて、
