@@ -10,8 +10,8 @@ Summary: Iqbal writes about his experience attending the 44th AJBM themed **Conn
 # ASEAN-Japan Business Meeting (AJBM) in Bali
 
 This year marks the 44th ASEAN-Japan Business Meeting, which was held in the
-Hilton Resort in Bali. I took this opportunity to visit the wonderful island of Bali
-and participate in the meeting.
+Hilton Resort in Bali from the 24th to 26th of October 2018. I took this opportunity to visit
+the wonderful island of Bali and participate in the meeting.
 
 There are many flight coming in to Bali's Denpasar, and I took a connecting flight from
 Kuala Lumpur via Air Asia.
