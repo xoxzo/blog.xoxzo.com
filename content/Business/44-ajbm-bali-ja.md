@@ -7,7 +7,7 @@ Slug: 44-ajbm-meeting-in-bali
 Thumbnail: images/44-ajbm/group-picture.jpg
 Summary: 弊社代表取締役イクバルが、第44回 AJBM へ参加しました。テーマは、***「ASEANと日本におけるコネクティビティとデジタル・エコノミー」***
 
-# バリでの日本・ASEAN 経営者会議（AJBM）
+# バリ開催のASEAN・日本 経営者会議（AJBM）
 
 2018年10月24日より26日まで、本年44回目を数える日本・ASEAN経営者会議が
 バリのヒルトン・リゾートにおいて開催されました。私は、この機会に素晴らしいバリ島を訪れ、会議に参加しました。
@@ -17,7 +17,7 @@ Summary: 弊社代表取締役イクバルが、第44回 AJBM へ参加しまし
 こちらは会議の会場ともなったヒルトン・バリ・リゾートで私が滞在した部屋からの眺めです。
 ![The Bali sea](/images/44-ajbm/bali-sea.jpg)
 
-本年の会議のテーマは、 **「ASEAN地域と日本での成長促進に向けたコネクティビティとデジタル・エコノミー」** です。
+本年の会議のテーマは **「ASEAN地域と日本での成長促進に向けたコネクティビティとデジタル・エコノミー」** です。
 
 ## 会議の概要
 
@@ -25,7 +25,7 @@ AJBMは1974年に[経済同友会](https://www.doyukai.or.jp/)の主導で始ま
 年次会議では、ASEANと日本の安定と発展へ向けて、民間セクターの企業間での経済交流を促進しています。
 
 今年は全体会議がいくつか行われ、どの全体会議も興味深い議論のトピックを扱っていましたが、
-私が一番聴講したかったメインのは、デジタル・エコノミーに関するものでした。
+私が一番聴講したかったのは、デジタル・エコノミーに関するものでした。
 日本やASEAN諸国の最近の状況はどうなのか、そして現在直面している問題は何なのでしょうか。
 
 ## 全体会議III、デジタル・エコノミー
@@ -35,21 +35,15 @@ AJBMは1974年に[経済同友会](https://www.doyukai.or.jp/)の主導で始ま
 ASEANの現状と今後についての概観の理解に十分な情報を、つなぎ合わせられるといいのですが。
 
 このセッションには、日本とASEAN諸国から4人のパネリストが参加していました。
-·	赤木鉄朗氏：NEC（日本電気株式会社）の執行役員および NEC Asia Pacific Pte. Ltd.のCEO
-·	Mamerto E. Tangonan氏：フィリピン・Chemonics International Inc.の部門長
-·	Tomas Pokorny氏：カンボジア・Pi Payの共同創業者兼CEO
-·	Hew Wee Choong氏：Malaysia.マレーシア・MDECの投資・産業開発担当副代表
+*	赤木鉄朗氏：NEC（日本電気株式会社）の執行役員および NEC Asia Pacific Pte. Ltd.のCEO
+*	Mamerto E. Tangonan氏：フィリピン・Chemonics International Inc.の部門長
+*	Tomas Pokorny氏：カンボジア・Pi Payの共同創業者兼CEO
+*	Hew Wee Choong氏：Malaysia.マレーシア・MDECの投資・産業開発担当副代表
 
 ![3rd Planery session panelists](/images/44-ajbm/panelist.jpg)
 
 ### アグリフード・イノベーション
 
-This is an initiative by NEC called **DX approach to disaster risk management and
-agri-food productivity innovation**. NEC regards the explosive growth of human population
-which is estimated to grow to 9.7 billion in 2050 as an important issue to be
-addressed. NEC also showed case a few Proof of Concept (POC) projects that they
-are carrying out with ASEAN member countries, such as forest fire identification
-system they are currently spearheading in Indonesia.
 これは、NEC主導の**リスクマネジメントとアグリフード生産性イノベーションのためのDX（デジタル・トランスフォメーション）アプローチ**
 と呼ばれるイニシアチブです。
 NECは、2050年には97億人にまで達すると推定される人口の爆発的増加を重要な問題と捉え、対処が必要であると考えています。
@@ -119,7 +113,7 @@ ASEAN内ではタイのProngPayが最も浸透しており、政府がeペイメ
 
 # 結論
 
-日本とASEANの間の注目の話題は、コネクティビティ、eコマース、そしてデジタルペイメントです。
+日本とASEANの間の注目の話題は、コネクティビティ、eコマース、そしてデジタルペイメントでした。
 eコマースに関しては、諸要素の中でも、例えば物理的なコネクティビティや関税といった、ハードウェアにまだ困難が残っています。
 支払いに関しては、例えばカンボジアのような国における銀行口座の浸透率の低さが、乗り越えなければならない障害としてあります。
 
