@@ -23,7 +23,10 @@ Xoxzo はブースを設けて、来場者とのつながりを深めます。
 [PyCon ID 2018](https://pycon.id/) にて、このイベントの詳細をご確認ください。
 
 最近の、Xoxzoが協賛参加したPyCon
+
 [PyCon JP 2018](https://blog.xoxzo.com/2018/09/15/pycon-jp-2018/)
+
 [PyCon Malaysia 2018](https://blog.xoxzo.com/2018/09/05/pycon-my-2018/)
+
 [PyCon 九州](https://blog.xoxzo.com/2018/06/22/sponsoring-pycon-kyushu-2018/)
 
