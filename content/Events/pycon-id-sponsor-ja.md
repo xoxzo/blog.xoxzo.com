@@ -4,21 +4,21 @@ Slug: pycon-id-2018
 Lang: ja
 Tags: pycon; スポンサー; インドネシア; ジャカルタ; イベント; pyconid; community; 2018
 Author: Aiko Yokoyama
-Summary: Xoxzo は今年、ジャカルタで開催された PyConID のスポンサーです。 
+Summary: Xoxzo は今年、ジャカルタで開催される PyConID のスポンサーです。 
 
 [![pyconid2018](/images/logo-08.png)](https://pycon.id/)
 
-[Xoxzo](https://www.xoxzo.com/en/) は、11月3日4日にインドネシアはジャカルタで開催された
+[Xoxzo](https://www.xoxzo.com/en/) は、11月3日4日にインドネシアはジャカルタで開催される
 [PyCon ID 2018](https://pycon.id/) のスポンサーとなりました。
 
 PyCon Indonesia は、pythonのユーザーや、興味を持っている人が集まり、コミュニティーの仲間から互いに学び合ったり、
 顔を合わせることのできるカンファレンスです。 
 このイベントは、PyCon ID への参加が、新しいことや感激することにであうだけではなく、コミュニティの結びつきを
-強め、コミュニティ自身を強めるような、新しい絆に出会えるよう、願っています。
-今年、テーマとして「Python for Everyone」を選んでいます。
+強め、コミュニティ自身を強めるような、新しい絆に出会えるよう願っています。
+今年は、テーマとして「Python for Everyone」を選んでいます。
 
 Xoxzo はブースを設けて、来場者とのつながりを深めます。 
-日本、マレーシア、インドネシアのチームが顔を揃え、皆様を迎えました。
+日本、マレーシア、インドネシアのチームが顔を揃え、皆様をおむかえします。
 
 [PyCon ID 2018](https://pycon.id/) にて、このイベントの詳細をご確認ください。
 
