@@ -4,7 +4,7 @@ Lang: en
 Author: Iqbal Abdullah
 Tags: api; developers; japan; market; economy; twilio; aws; facebook
 Slug: the-api-market-empowering-developers
-Summary: In this post, Iq writes about the growing API market which is more and more empowering developers everywhere.
+Summary: In this post, Iqbal writes about the growing API market which is more and more empowering developers everywhere.
 
 The [Application Programming
 Interface](https://en.wikipedia.org/wiki/Application_programming_interface) 
