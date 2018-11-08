@@ -3,7 +3,7 @@ Date: 2018-11-08
 Author: Miko
 Tags: ezsms; sms; xoxzo; international_call; phone_number;
 Slug: recipient-number-rule
-Thumbnail: images/miko-chan.jpg
+Thumbnail: images/xoxtan.png
 Lang: ja
 Summary: XoxzoやEZSMSの利用時、受信者の電話番号の入力には、ルールがあるんです。
 
