@@ -1,6 +1,6 @@
 Title: メッセージや通話の受信者番号入力時のルール
 Date: 2018-11-08 
-Author: Miko
+Author: Miko-chan
 Tags: ezsms; sms; xoxzo; international_call; phone_number;
 Slug: recipient-number-rule
 Lang: ja
