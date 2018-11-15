@@ -39,7 +39,7 @@ Within the town of Taiping, by 1878 the telegraph network connected the British 
 
 After being in operation for 138 years, Telekom Malaysia Berhad [announced](http://www.theborneopost.com/2012/07/04/telekom-malaysia-puts-last-stop-to-telegram-service/) that the TM Telegram Service was to be discontinued effective 1 July 2012.
 
-![telegraph](/images/telegraph04.jpg)<a class="caption" href="https://www.eziemall.com/telegraph-museum">Image credit</a>
+![telegraph](/images/telegraph04.jpeg)<a class="caption" href="https://www.eziemall.com/telegraph-museum">Image credit</a>
 
 Japan
 
@@ -49,7 +49,7 @@ By 1872 Japan was served by direct telegraphic communication with Europe. During
 
 To date, the Japan telegraph service is still operating, and has since evolved into a part of [greeting card and gift delivery service](https://www.verycard.net/) run by private companies.
 
-![telegraph](/images/telegraph05.jpg)<a class="caption" href="https://www.verycard.net/">Image credit</a>
+![telegraph](/images/telegraph05.png)<a class="caption" href="https://www.verycard.net/">Image credit</a>
 
 Conclusion
 
