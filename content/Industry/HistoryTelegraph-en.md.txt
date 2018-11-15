@@ -15,16 +15,13 @@ The electric telegraph came into existence following a series scientific evoluti
 
 The [first commercial electrical telegraph](https://www.history.com/topics/inventions/telegraph) was developed by Sir William Fothergill Cooke and Sir Charles Wheatstone, patented in May 1837 as the Cooke and Wheatstone system, which used a number of needles on a board that could be moved to point to letters of the alphabet. This system was installed in the British railway network. 
 
-images/telegraph01.jpg
-[image credit](https://en.wikipedia.org/wiki/Electrical_telegraph)
+!telegraph](/images/telegraph01.jpg)<a class="caption" href="https://en.wikipedia.org/wiki/Electrical_telegraph">Image credit</a>
 
 Another [electrical telegraph was independently developed](https://www.history.com/topics/inventions/telegraph) and patented in the United States in 1837 by Samuel Morse, Leonard Gale, and Alfred Vail, which eventually gained worldwide acceptance and  became the telegraph system that most of us know. This system used combinations of dots and dashes to represent the letters of the alphabet, which is known as the Morse code. 
 
-images/telegraph02.jpg
-[image credit](https://en.wikipedia.org/wiki/Telegraphy)
+!telegraph](/images/telegraph02.jpg)<a class="caption" href="https://en.wikipedia.org/wiki/Telegraphy">Image credit</a>
 
-images/telegraph03.jpg
-[image credit](https://www.britannica.com/topic/International-Morse-Code)
+!telegraph](/images/telegraph03.jpg)<a class="caption" href="https://www.britannica.com/topic/International-Morse-Code">Image credit</a>
 
 There had been numerous other inventions of electrical telegraph in the same period, but none of them gained commercial success. 
 
@@ -38,12 +35,11 @@ The [first submarine cable](http://atlantic-cable.com/CableCos/Australia/) in th
 
 The [first inland telegraph lines](https://www.malaysia-traveller.com/telekom-museum.html) in Malaya were set up in Perak, linking Taiping and Kangsar in 1874, as well as Taiping to Kamunting and Bukit Gantang, Simpang to Port Weld (now Kuala Sepetang) and Batu Gajah to Gopeng by the now defunct Department of Posts and Telegraph.
 
-Within the town of Taiping, by 1878 the telegraph network connected the British Resident General’s office, the Magistrate Court, the police station, army barracks, and the hospital.
+Within the town of Taiping, by 1878 the telegraph network connected the British Resident Generalâ€™s office, the Magistrate Court, the police station, army barracks, and the hospital.
 
 After being in operation for 138 years, Telekom Malaysia Berhad [announced](http://www.theborneopost.com/2012/07/04/telekom-malaysia-puts-last-stop-to-telegram-service/) that the TM Telegram Service was to be discontinued effective 1 July 2012.
 
-images/telegraph04.jpg
-[image credit](https://www.eziemall.com/telegraph-museum)
+!telegraph](/images/telegraph04.jpg)<a class="caption" href="https://www.eziemall.com/telegraph-museum">Image credit</a>
 
 Japan
 
@@ -53,8 +49,7 @@ By 1872 Japan was served by direct telegraphic communication with Europe. During
 
 To date, the Japan telegraph service is still operating, and has since evolved into a part of [greeting card and gift delivery service](https://www.verycard.net/) run by private companies.
 
-images/telegraph05.jpg
-[image credit](https://www.verycard.net/)
+!telegraph](/images/telegraph05.jpg)<a class="caption" href="https://www.verycard.net/">Image credit</a>
 
 Conclusion
 
