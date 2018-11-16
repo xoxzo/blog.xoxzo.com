@@ -29,7 +29,7 @@ The [first two telegraph lines](https://ethw.org/Telegraph) opened in Great Brit
   
 In 1858 the [first transatlantic telegraph message](https://www.telegraph.co.uk/technology/connecting-britain/first-electric-telegraph/) was sent by Queen Victoria of Britain to President of the United States James Buchanan, her 99-word message taking 16 hours to transmit through 4,000 kilometers of transatlantic cable. 
 
-Malaysia
+### Malaysia
 
 The [first submarine cable](http://atlantic-cable.com/CableCos/Australia/) in the region was completed by the cable laying ship CS Hibernia linking Singapore to Batavia (now Jakarta) in 1870, which is part of the project to link between Britain and Australia. Morse code telegraph was introduced and supported with the availability of this cable. 
 
@@ -41,7 +41,7 @@ After being in operation for 138 years, Telekom Malaysia Berhad [announced](http
 
 ![telegraph](/images/telegraph04.jpeg)<a class="caption" href="https://www.eziemall.com/telegraph-museum">Image credit</a>
 
-Japan
+### Japan
 
 In Japan, following the Meiji Restoration of 1868, Japan constructed the [first telegraph line](https://ethw.org/Telegraph) between Tokyo and Yokohama in 1869, hiring a British telegraph engineer and a Danish cable company for the project. 
 
@@ -51,7 +51,7 @@ To date, the Japan telegraph service is still operating, and has since evolved i
 
 ![telegraph](/images/telegraph05.png)<a class="caption" href="https://www.verycard.net/">Image credit</a>
 
-Conclusion
+### Conclusion
 
 The telegraph was the only form of electrical communication until the invention of the telephone in 1876, and it remained the main tool for rapid long-distance communication until the development of practical long-distance telephony after 1900. 
 
