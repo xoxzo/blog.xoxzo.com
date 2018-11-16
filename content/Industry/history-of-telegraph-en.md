@@ -7,11 +7,11 @@ Thumbnail: images/telegraph02.jpg
 Author: Ai Sin Chan
 Summary: Look back on how the electric telegraph came about and lasted more than a century before its decline
 
-The electric telegraph came into existence following a series scientific evolution in electricity and electromagnetism in the 19th century. A few [critical developments](https://www.britannica.com/technology/telegraph) led to the invention of the electric telegraph, including:
-- Invention of the voltaic cell by Alessandro Volta of Italy in 1800
-- Discovery of the relationship between electricity and magnetism by Hans Christian Oersted of Denmark in 1820
-- Invention of the electromagnet by [William Sturgeon](https://www.thoughtco.com/who-invented-the-electromagnet-1991678) of Britain in 1825
-- Discovery of [electromagnetic induction](https://en.wikipedia.org/wiki/Faraday%27s_law_of_induction) by Michael Faraday of Britain in 1831 and independently by Joseph Henry of America in 1832
+The electric telegraph came into existence following a series of scientific evolution in electricity and electromagnetism in the 19th century. A few [critical developments](https://www.britannica.com/technology/telegraph) led to the invention of the electric telegraph, including:
+*Invention of the voltaic cell by Alessandro Volta of Italy in 1800
+*Discovery of the relationship between electricity and magnetism by Hans Christian Oersted of Denmark in 1820
+*Invention of the electromagnet by [William Sturgeon](https://www.thoughtco.com/who-invented-the-electromagnet-1991678) of Britain in 1825
+*Discovery of [electromagnetic induction](https://en.wikipedia.org/wiki/Faraday%27s_law_of_induction) by Michael Faraday of Britain in 1831 and independently by Joseph Henry of America in 1832
 
 The [first commercial electrical telegraph](https://www.history.com/topics/inventions/telegraph) was developed by Sir William Fothergill Cooke and Sir Charles Wheatstone, patented in May 1837 as the Cooke and Wheatstone system, which used a number of needles on a board that could be moved to point to letters of the alphabet. This system was installed in the British railway network. 
 
@@ -56,11 +56,11 @@ Conclusion
 The telegraph was the only form of electrical communication until the invention of the telephone in 1876, and it remained the main tool for rapid long-distance communication until the development of practical long-distance telephony after 1900. 
 
 The telegraph service started to suffer a decrease in demand due to [a variety of reasons](https://ethw.org/Telegraph):
-- After 1920: reduced long distance telephone rates and the advent of airmail service, by 1970 the demand for overland telegraph was almost non-existent;
-- After 1950: the installation of undersea telephone cables in the 1950s started to replace submarine telegraphy as the cheapest and preferred medium for rapid overseas communications;
-- After 1980: other technologies, such as facsimile, electronic mail, and SMS, emerged and were preferred as the tools for long distance record communications.
+*After 1920: reduced long distance telephone rates and the advent of airmail service, by 1970 the demand for overland telegraph was almost non-existent;
+*After 1950: the installation of undersea telephone cables in the 1950s started to replace submarine telegraphy as the cheapest and preferred medium for rapid overseas communications;
+*After 1980: other technologies, such as facsimile, electronic mail, and SMS, emerged and were preferred as the tools for long distance record communications.
 
 From the science and technology perspective, the electrical telegraph was [important for 3 reasons](https://ethw.org/Telegraph): 
-- telegraphy was the first major application of electrical science;
-- telegraph electricians during the mid-19th century helped to establish the discipline of electrical engineering;
-- technical problems in submarine telegraphy stimulated major advances in physics, oceanography, marine engineering, and electrical engineering.
+*telegraphy was the first major application of electrical science;
+*telegraph electricians during the mid-19th century helped to establish the discipline of electrical engineering;
+*technical problems in submarine telegraphy stimulated major advances in physics, oceanography, marine engineering, and electrical engineering.
