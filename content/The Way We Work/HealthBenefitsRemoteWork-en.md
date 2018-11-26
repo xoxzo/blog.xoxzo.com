@@ -1,4 +1,10 @@
-Title: The health benefits of remote working Date: 2018-11-23 Slug: health-benefit-remote-work Lang: en Tags: remote Thumbnail: images/HealthBenefit.jpg Author: Ai Sin Chan Summary: What are the personal gains of the employees from remote working? Read on
+Title: The health benefits of remote working Date: 2018-11-23
+Slug: health-benefit-remote-work
+Lang: en
+Tags: remote
+Thumbnail: images/HealthBenefit.jpg
+Author: Ai Sin Chan
+Summary: What are the personal gains of the employees from remote working? Read on
 
 ![healthbenefit](/images/HealthBenefit.jpg)<a class="caption" href="https://unsplash.com/photos/l2Eb_cV6a7A">Image credit</a>
 
@@ -24,17 +30,17 @@ For those who work from home, when we are homebound the whole day and need to re
 
 Cooking our own food usually gives us better nutrition. And early dinner time is an effortless weight loss solution. When we need a break from work, we could just head to the kitchen and bite on fruits, or make a glass of juice, snacking does not get any healthier than this. 
 
-Some of us like to get out of the home to work, so we could choose to travel to our favorite café or restaurant, whichever that has menus that appeal to our taste buds (maybe our subconscious nutritional needs). And since we have the whole day at the café, we can take our time to chew the food and not gulp everything down to rush back before the lunch hour ends, better digestion and absorption. 
+Some of us like to get out of the home to work, so we could choose to travel to our favorite cafÃ© or restaurant, whichever that has menus that appeal to our taste buds (maybe our subconscious nutritional needs). And since we have the whole day at the cafÃ©, we can take our time to chew the food and not gulp everything down to rush back before the lunch hour ends, better digestion and absorption. 
 
 **4. Exercise more**
 
-This is probably a personal preference, but those who yearn for more workout time get their wish granted. We get to take a jog or a stroll at our desired hour unless there is an absolute need for us to resolve a client’s request immediately which does not happen all the time. We get to head out before the sun sets, especially in winter time when it could get too cold by dusk. We can even sign up for the yoga or dance class which we would never have made it if we were still commuting back from work. Some of us work from the local community center, and perhaps get a good walk out of it.
+This is probably a personal preference, but those who yearn for more workout time get their wish granted. We get to take a jog or a stroll at our desired hour unless there is an absolute need for us to resolve a clientâ€™s request immediately which does not happen all the time. We get to head out before the sun sets, especially in winter time when it could get too cold by dusk. We can even sign up for the yoga or dance class which we would never have made it if we were still commuting back from work. Some of us work from the local community center, and perhaps get a good walk out of it.
 
-**5. Emotional well-being – more family time, less office politics**
+**5. Emotional well-being â€“ more family time, less office politics**
 
 We are happy that we get to spend more face time with our partner, [children](https://blog.xoxzo.com/2018/04/09/welcoming-children-in-our-workspace/), or parents. Those of us who are away from home get to visit our parents back in our home country for a longer period, without having to squeeze the home trip within the number of days we get from our annual leaves; and continue working from the beach at a different time zone. 
 
-We can conveniently take the child to the dentist or volunteer at the child’s school sports day event by adjusting our work schedule or finishing our tasks ahead of deadline. 
+We can conveniently take the child to the dentist or volunteer at the childâ€™s school sports day event by adjusting our work schedule or finishing our tasks ahead of deadline. 
 
 As we [struggle to maintain a rapport](https://blog.xoxzo.com/2017/09/28/5-challenges-of-remote-meetings/) with our colleagues via [numerous innovative ways](https://blog.xoxzo.com/2016/04/22/the-communication-costs-of-remote-work/), we deal less with office politics, just because we are not stuck in the office. 
 
