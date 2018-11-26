@@ -7,9 +7,9 @@ Lang: en
 Summary: Binary operations
 
 # General
-I'd like to write about bits, and how I understand them. We want from computer something, and write a program for it, in languages like Python, C, PHP or another, which is understandble for humans. But computer don't understand such written code, and first compilator translates this code into binary data. Binary data is a data, formatted specially for computer. E.g. we want to simple operation like addition, 5+3. Or print something in console. Or run the game, no matter, in every case compiler prepares binary data. To be true, compilator prepares byte-code, but by meaning it is a binary data.
-Binary data, in simple words, is a consiquence of 2 values - 0 and 1. 
-1 byte consist of 8 bits. As I remeber from school, 1 byte has 8 bits, becuse such number of bits is needed to store 1 leter, or char. 1 char is 1 byte. But it is not true, using python language I can show that 1 letter takes much bytes:
+I'd like to write about bits, and how I understand them. We want from computer something, and write a program for it, in languages like Python, C, PHP or another, which is understandable for humans. But a computer doesn't understand such written code, and first, compilator translates this code into binary data. Binary data is a data, formatted specially for a computer. E.g. we want to do a simple operation like addition, 5+3. Or print something in the console. Or run the game, no matter, in every case compiler prepares binary data. To be true, compilator prepares byte-code, but by meaning it is a binary data.
+Binary data, in simple words, is a consequence of 2 values - 0 and 1. 
+1 byte consisting of 8 bits. As I remember from school, 1 byte has 8 bits, because such a number of bits is needed to store 1 symbol. 1 char is 1 byte. But it is not true, using python language I can show that 1 letter takes much more bytes:
 ```python
 import sys
 >>> sys.getsizeof('a')
@@ -18,10 +18,10 @@ import sys
 So, 1 char in python takes 50 bytes, or 50x8=400 bits.
 Interesting note, historically in different platforms there was bytes with 6,7,32,36 bits.
 
-But my article will be about bits as a mathematical numbers.
+But my article will be about bits as mathematical numbers.
 
-# Ariphmetics
-As we know, any number can be represnted by base 10 (decimal), 2 (binary), 16 (hexidimal), and any other. We get used to work with decimal system, we don't say "Please give me 1d apples", instead of "30 apples". 1 bit can accept only two values - 0 or 1. Number, of course, can consist of any number of bits. Addition, Subsctraction, Multiplication and Division can be done on bin numbers like on regular decimal numbers.
+# Arithmetic
+As we know, any number can be represented by base 10 (decimal), 2 (binary), 16 (hexadecimal), and any other. 1 bit can accept only two values - 0 or 1. Number, of course, can consist of any number of bits. Addition, Subtraction, Multiplication, and Division can be done on bin numbers like on regular decimal numbers.
 In python bin numbers starts with prefix `0b`.
 ```python
 >>> 0b0
@@ -123,10 +123,10 @@ Reverse bits: 0 becomes 1, 1 becomes 0.
 >>> -0b10
 -2
 ```
-Need to say, that when we use bitwise NOT on number, it changes it's sign to opposite.
+Need to say, that when we use bitwise NOT on a number, it changes its sign to the opposite.
 
 # Shifts
-There's also _shift_ operations: In these operations the digits are moved, or shifted, to the left or right by N indexes.
+There's also _shift_ operations: In these operations, the digits are moved, or shifted, to the left or right by N indexes.
 
 ### Left shift
 In this case, to the right end zeros added:
@@ -153,7 +153,7 @@ Bits shift to the right, from right side certain number of bits being dropped:
 # Where to use boolean operations on bits?
 Mainly in programming bitwise operations are not commonly used.
 1. Bitwise operations are used in cryptography.
-2. If we have an IP-adress, e.g. 192.168.8.2 and we know mask of subnet, e.g. 255.255.248.0, we may determine bounds of ip adresses range for this subnet, and it's adress. To do this we must apply mask to this IP adress using logical AND:
+2. If we have an IP-address, e.g. 192.168.8.2 and we know mask of a subnet, e.g. 255.255.248.0, we may determine bounds of IP addresses range for this subnet, and its address. To do this we must apply the mask to this IP address using logical AND:
 ```python
 >>> bin(192)
 '0b11000000'
@@ -169,7 +169,7 @@ Mainly in programming bitwise operations are not commonly used.
 0
 >>>
 ```
-and as a result we have 192.168.8.0, which is a subnet adress.
+and as a result, we have 192.168.8.0, which is a subnet address.
 
 3. Left and right shifts may be used to quick multiplication or division to 2^N. In this case speed will be faster, compared to using `*, /, **` operators.
 ```python
