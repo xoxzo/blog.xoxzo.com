@@ -35,11 +35,15 @@ Some of us like to get out of the home to work, so we could choose to travel to 
 
 **4. Exercise more**
 
-This is probably a personal preference, but those who yearn for more workout time get their wish granted. We get to take a jog or a stroll at our desired hour unless there is an absolute need for us to resolve a client’s request immediately which does not happen all the time. We get to head out before the sun sets, especially in winter time when it could get too cold by dusk. We can even sign up for the yoga or dance class which we would never have made it if we were still commuting back from work. Some of us work from the local community center, and perhaps get a good walk out of it.
+This is probably a personal preference, but those who yearn for more workout time get their wish granted. We get to take a jog or a stroll at our desired hour unless there is an absolute need for us to resolve a client’s request immediately which does not happen all the time. 
+
+Some of us head out for a jog in the park early in the morning; while some do it before the sun sets, especially in winter time when it could get too cold by dusk. We can even sign up for the yoga or dance class which we would never have made it if we were still commuting to or back from work. Some of us work from the local community center, and perhaps get a good walk out of it.
 
 **5. Emotional well-being – more family time, less office politics**
 
-We are happy that we get to spend more face time with our partner, [children](https://blog.xoxzo.com/2018/04/09/welcoming-children-in-our-workspace/), or parents. Those of us who are away from home get to visit our parents back in our home country for a longer period, without having to squeeze the home trip within the number of days we get from our annual leaves; and continue working from the beach at a different time zone. 
+Not only we are happy to spend more face time with our partner, [children](https://blog.xoxzo.com/2018/04/09/welcoming-children-in-our-workspace/), or parents, we get more me-time as well. For some of us, remote working is a motivation to wake up earlier in the mornings, start work earlier to get things done and call it a day earlier in the evening to unwind.
+
+Those of us who are away from home get to visit our parents back in our home country for a longer period, without having to squeeze the home trip within the number of days we get from our annual leaves; and continue working from the beach at a different time zone. 
 
 We can conveniently take the child to the dentist or volunteer at the child’s school sports day event by adjusting our work schedule or finishing our tasks ahead of deadline. 
 
@@ -47,4 +51,4 @@ As we [struggle to maintain a rapport](https://blog.xoxzo.com/2017/09/28/5-chall
 
 **Conclusion**
 
-The biggest downside? It could be challenging to switch off from work at the end of the day, since we never leave the working space which is the home office. There is no change of space or a lack of ritual such as commuting to mentally remove ourselves from work. It might take some effort to find the switch, but it is achievable with some practice; taking a stroll outside, playing our favorite music, or meditating might just do the trick. 
+Of course, remote working is not a bed of roses without thorns, we face personal problems as well. Read on the downsides of remote working in our next post: The pitfalls of remote working. 
