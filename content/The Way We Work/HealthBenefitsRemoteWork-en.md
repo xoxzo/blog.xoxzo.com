@@ -7,9 +7,9 @@ Thumbnail: images/HealthBenefit.jpg
 Author: Ai Sin Chan
 Summary: What are the personal gains of the employees from remote working? Read on
 
-![healthbenefit](/images/HealthBenefit.jpg)<a class="caption" href="https://unsplash.com/photos/l2Eb_cV6a7A">Image credit</a>
-
 We at [Xoxzo](https://www.xoxzo.com) work remotely. The employer saves on rent and electricity. What are the gains of the employees from [remote working](https://blog.xoxzo.com/2018/03/13/overcoming-home-office-problems/)?
+
+![healthbenefit](/images/HealthBenefit.jpg)<a class="caption" href="https://unsplash.com/photos/l2Eb_cV6a7A">Image credit</a>
 
 **1. Cut the commute, cut the cortisol**
 
