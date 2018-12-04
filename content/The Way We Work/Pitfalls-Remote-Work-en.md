@@ -1,11 +1,11 @@
 Title: The pitfalls of remote working 
-Date: 2018-11-30 
+Date: 2018-11-30
 Slug: pitfalls-remote-work 
 Lang: en 
 Tags: remote 
 Thumbnail: images/Pitfall.jpg 
 Author: Ai Sin Chan 
-Summary: This week the team shares the problems we face in remote working, and the solutions that we use. Read on:
+Summary: This week the team shares the problems we face in remote working, and the solutions that we use. Read on
 
 The review process for the post the health benefits of remote working had turned into a spirited discussion on the flip side of the story, albeit over the cyberspace on [Slack](https://slack.com/). The team had chipped in to share the inexorable side effects of working from home in their personal perspectives. So, what is it about remote working that bothers us? 
 
@@ -15,7 +15,7 @@ The review process for the post the health benefits of remote working had turned
 
 1. Expectations from family members
 
-Newcomers to remote working might find issues in gaining understanding from family members or partners when they see that we are home all the time and tend to ask us to do chores. It is still normal for people to associate being present at home with ìnot at workî. 
+Newcomers to remote working might find issues in gaining understanding from family members or partners when they see that we are home all the time and tend to ask us to do chores. It is still normal for people to associate being present at home with ‚Äúnot at work‚Äù. 
 
 2. Switch off from work
 
@@ -75,7 +75,7 @@ Remote working might lead to less human touch in our life, we do not meet people
 
 ###### Solution: 
 
-The parents would take advantage of their parenting circle, or volunteer at the parent-teacher-association in the childrenís school. The singles could counter this by working at cafes and coworking spaces as often as possible. There are groups such as the ëJapan female freelance networkí, through which members can look for coworking partners to spend some physical face time with. 
+The parents would take advantage of their parenting circle, or volunteer at the parent-teacher-association in the children‚Äôs school. The singles could counter this by working at cafes and coworking spaces as often as possible. There are groups such as the ‚ÄòJapan female freelance network‚Äô, through which members can look for coworking partners to spend some physical face time with. 
 
 ##### 5. Problem: Ergonomics of home office
 
