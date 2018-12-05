@@ -67,7 +67,7 @@ The asynchronous work hours, sometimes we expect our colleagues to respond promp
 
 ###### Solution: 
 
-We try to be creative with our means of communication and [usage of readily available tools] (https://blog.xoxzo.com/2017/10/12/tools-of-our-trade/). It also helps to plan ahead of time, communicate with our teammate in advance and arrange a schedule that the team can adhere to. 
+We try to be creative with our means of communication and [usage of readily available tools](https://blog.xoxzo.com/2017/10/12/tools-of-our-trade/). It also helps to plan ahead of time, communicate with our teammate in advance and arrange a schedule that the team can adhere to. 
 
 ##### 4. Problem: Not meeting people as much as we would like
 
