@@ -13,40 +13,40 @@ The review process for the post the health benefits of remote working had turned
 
 ##### 1. Problem: No division of space between home and office
 
-1. Expectations from family members
+* Expectations from family members
 
-   Newcomers to remote working might find issues in gaining understanding from family members or partners when they see that we are home all the time and tend to ask us to do chores. It is still normal for people to associate being present at home with “not at work”. 
+Newcomers to remote working might find issues in gaining understanding from family members or partners when they see that we are home all the time and tend to ask us to do chores. It is still normal for people to associate being present at home with “not at work”. 
 
-2. Switch off from work
+* Switch off from work
 
-   It could be challenging to switch off from work at the end of the day since we never leave the working space which is the home office. There is no change of space or a lack of ritual such as commuting to mentally remove ourselves from work, which allows us to adjust our emotion from the office stress so that we become ready to face our family at home.
+It could be challenging to switch off from work at the end of the day since we never leave the working space which is the home office. There is no change of space or a lack of ritual such as commuting to mentally remove ourselves from work, which allows us to adjust our emotion from the office stress so that we become ready to face our family at home.
 
-3. Children experience our work stress
+* Children experience our work stress
 
-   There are times when we have arguments with our colleagues over contradictory opinions, or inadvertently curse or bang the keyboard when we hit the wall while trying to solve some problem. Our children might see disagreeable behaviors which might not be the best version of us.
+There are times when we have arguments with our colleagues over contradictory opinions, or inadvertently curse or bang the keyboard when we hit the wall while trying to solve some problem. Our children might see disagreeable behaviors which might not be the best version of us.
 
-4. Work and household multitasking
+* Work and household multitasking
 
-   There are rare days when switching off from work is impossible and some of us become a multitask machine. For our customer support colleagues, when an urgent customer support task continues after 5 pm, they would be cooking, parenting, and working all at once, the computer would be on the dinner table with the meal preparation while listening to their children recounting a day at school. 
+There are rare days when switching off from work is impossible and some of us become a multitask machine. For our customer support colleagues, when an urgent customer support task continues after 5 pm, they would be cooking, parenting, and working all at once, the computer would be on the dinner table with the meal preparation while listening to their children recounting a day at school. 
 
 
 ##### Solution: 
 
-1. Brief the family
+* Brief the family
 
-   Many of us feel the need to brief our respective family on this issue that we are working at home and please do not disturb.
+Many of us feel the need to brief our respective family on this issue that we are working at home and please do not disturb.
 
-2. Find the switch
+* Find the switch
 
-   It might take some effort to find the switch, but it is achievable with some practice; taking a stroll outside, playing our favorite music, taking a hot bath, or meditating might just do the trick.
+It might take some effort to find the switch, but it is achievable with some practice; taking a stroll outside, playing our favorite music, taking a hot bath, or meditating might just do the trick.
 
-3. Children exposed to working life
+* Children exposed to working life
 
-   This is not entirely a bad thing. There is little opportunity for children to see how their parents work unless a parent works from home, especially since our children would grow up someday and start working too. 
+This is not entirely a bad thing. There is little opportunity for children to see how their parents work unless a parent works from home, especially since our children would grow up someday and start working too. 
 
-4. Learn to juggle and prioritize
+* Learn to juggle and prioritize
 
-   When we have multiple roles at home, the switching skill becomes even more important. Using a task organizer to see the priority, divide the work hours into multiple tasks helps us to complete our tasks effectively.
+When we have multiple roles at home, the switching skill becomes even more important. Using a task organizer to see the priority, divide the work hours into multiple tasks helps us to complete our tasks effectively.
 
 
 ##### 2. Problem: No clear separation of uptime and downtime
