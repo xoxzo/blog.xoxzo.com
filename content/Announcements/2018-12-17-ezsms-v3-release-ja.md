@@ -6,6 +6,7 @@ Tags: EZSMS; New-release; 2018;
 Author: Aiko Yokoyama
 Summary: 7年間ご愛顧いただきました、[EZSMS](https://www.ezsms.biz/ja/)がv3で大幅にグレードアップします。
 
+![Minion](/images/ezsms-v3.png)
 
 いつも[EZSMSショートメッセージ配信サービス](https://www.ezsms.biz/ja/)をご利用いただき、ありがとうございます。
 
