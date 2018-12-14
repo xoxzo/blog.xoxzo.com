@@ -3,10 +3,11 @@ Date: 2018-12-17
 Slug: ezsms-v3-release
 Lang: ja
 Tags: EZSMS; New-release; 2018;
+Thumbnail: images/ezsms-v3.png
 Author: Aiko Yokoyama
 Summary: 7年間ご愛顧いただきました、[EZSMS](https://www.ezsms.biz/ja/)がv3で大幅にグレードアップします。
 
-![Minion](/images/ezsms-v3.png)
+![ezsms-v3](/images/ezsms-v3.png)
 
 いつも[EZSMSショートメッセージ配信サービス](https://www.ezsms.biz/ja/)をご利用いただき、ありがとうございます。
 
