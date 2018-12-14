@@ -47,6 +47,7 @@ Please all developers to visit Xoxzo.com to use our APIs service likewise above.
 1. SMS via web: Simple web form to send SMS. You can set the mobile number(s), SenderID (you set) and the body-text of your message… then just click the SEND button.
 1. SMS with CSV: Upload your csv with bulk sending recipients’ numbers or customisable contents to be inserted in the message. One simple Sending/Schedule Sending can do the bulk sending job for you.
 1. DialSMS: Subscribe to a dedicated number and set your message to provide. The mobile phone caller to this phone number will receive the message via SMS soon after the call, try this on-demand sending!!
+
 (Plus 1) K-premium service: This feature needs pre-registration by a corporate user with consideration of preventing spam messaging. Using this feature, the SederIDs you set for the sendings to Japanese carrier KDDI (au) will be displayed as you set for sure. Please contact us if you wish to use this.
 
 Please contact us for any questions, or just log-in to your account to try our NEW EZSMS!!
