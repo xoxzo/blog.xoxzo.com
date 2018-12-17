@@ -22,7 +22,6 @@ An extra benefit to use EZSMS in English is, we provide even Customer Support in
 ## Scheduled Sending
 SMS can be arrived in a few seconds after you sent. It is convenient but that is why the senders have to be careful for the timing of their sendings. EZSMS can now use ‘Schedule send’ for your convenience. 
 Daily overloaded assignments might allow you to prepare the SMS message only at the mid-night hours, but you can set it to be send in the daytime on the next day!!
-Please find how to use this here:
 
 ## EZSMS looks even more friendly!!
 You can send SMS using our `Send via Web` or `CSV upload` for bulk messages or customized messages as before. You will be amazed though for our upgraded User Interface, which provides not only the good looking but the simpler and easier use.
