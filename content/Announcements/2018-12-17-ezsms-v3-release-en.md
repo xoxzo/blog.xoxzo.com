@@ -1,4 +1,4 @@
-Title: EZSMS version 3 release
+Title: EZSMS new release
 Date: 2018-12-17
 Slug: ezsms-v3-release
 Lang: en
@@ -7,7 +7,6 @@ Thumbnail: images/ezsms-v3.png
 Author: Aiko Yokoyama
 Summary: [EZSMS](https://www.ezsms.biz/ja/)v3 is available in English too!
 
-![ezsms-v3](/images/ezsms-v3.png)
 
 Thank for using [EZSMS, international SMS delivery service](https://www.ezsms.biz/ja/) & 
 [Xoxzo - Cloud Telephony platform](https://www.xoxzo.com/en/).
