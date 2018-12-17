@@ -27,7 +27,7 @@ Daily overloaded assignments might allow you to prepare the SMS message only at 
 You can send SMS using our `Send via Web` or `CSV upload` for bulk messages or customized messages as before. You will be amazed though for our upgraded User Interface, which provides not only the good looking but the simpler and easier use.
 
 ## Create Sub-accounts 
-This is a brand-new feature. Now you can have multiple accounts under one Dashboard, get your sub-accounts to share the sending tasks. You can set the point limit that the sub accounts can use, and manage them in your parent account. 
+This is a brand-new feature. Now you can have multiple accounts under one Dashboard, get your sub-accounts to share the sending tasks. You can set the point limit that the sub accounts can use, and manage them in your main account. 
 This is a feature only available to corporate users who has post-pay contract with us. Please contact HelpDesk with your account registered email address if you wish to use this.
 Please also note that this additional feature brought some new items in our Terms of Service. Please check [here](https://www.ezsms.biz/ja/faq/tos/).
 
@@ -39,7 +39,7 @@ EZSMS API provision has been stopped in July this year prior to this EZSMS new r
 * Codecall API can be used under the situation where a phone numbers that cannot receive SMS, such as landline etc
 Please all developers to visit [Xoxzo.com](https://www.xoxzo.com/en/) to use our APIs service likewise above.
 
-# OK, then What exactly we can do on EZSMS now?
+# OK, then what exactly we can do on EZSMS now?
 
 ## Here are 3 main features + 1 that you can enjoy with EZSMS now.
 
@@ -47,7 +47,7 @@ Please all developers to visit [Xoxzo.com](https://www.xoxzo.com/en/) to use our
 1. SMS with CSV: Upload your csv with bulk sending recipients’ numbers or customisable contents to be inserted in the message. One simple Sending/Schedule Sending can do the bulk sending job for you.
 1. DialSMS: Subscribe to a dedicated number and set your message to provide. The mobile phone caller to this phone number will receive the message via SMS soon after the call, try this on-demand sending!!
 
-**(Plus 1)** K-premium service: This feature needs pre-registration by a corporate user with consideration of preventing spam messaging. Using this feature, the SederIDs you set for the sendings to Japanese carrier KDDI (au) will be displayed as you set for sure. Please contact us if you wish to use this.
+**(Plus 1)** K-premium service: This feature needs pre-registration by a corporate user with consideration of preventing spam messaging. Using this feature, the SenderIDs you set for the sendings to Japanese carrier KDDI (au) will be displayed as you set for sure. Please contact us if you wish to use this.
 
 Please contact us for any questions, or just log-in to your account to try our NEW EZSMS tomorrow!! 
 
