@@ -11,7 +11,9 @@ Summary: [EZSMS](https://www.ezsms.biz/ja/)v3 is available in English too!
 Thank for using [EZSMS, international SMS delivery service](https://www.ezsms.biz/ja/) & 
 [Xoxzo - Cloud Telephony platform](https://www.xoxzo.com/en/).
 
-We are glad to announce that on December 18, 2018, our EZSMS, which has been loved and demanded for 7 years since its launch, comes up to a new stage.
+We are glad to announce that on at around 8.00 pm on December 18, 2018, our EZSMS, which has been loved and demanded for 7 years since its launch, comes up to a new stage.
+
+**Please note that there maybe 5 min slight disruption on log in around 8pm (JST) during the release**
 
 Please take time to check out what is new in this release.
 
