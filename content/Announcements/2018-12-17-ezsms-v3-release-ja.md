@@ -7,7 +7,7 @@ Thumbnail: images/ezsms-v3_date.png
 Author: Aiko Yokoyama
 Summary: 7年間ご愛顧いただきました、[EZSMS](https://www.ezsms.biz/ja/)が大幅にグレードアップします。
 
-![ezsms](images/ezsms-v3_date.png)
+![ezsms](/images/ezsms-v3_date.png)
 
 いつも[EZSMSショートメッセージ配信サービス](https://www.ezsms.biz/ja/)をご利用いただき、ありがとうございます。
 
