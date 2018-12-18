@@ -3,7 +3,7 @@ Date: 2018-12-17
 Slug: ezsms-v3-release
 Lang: en
 Tags: EZSMS; New-release; 2018;
-Thumbnail: images/ezsms-v3.png
+Thumbnail: images/ezsms-v3_date.png
 Author: Aiko Yokoyama
 Summary: [EZSMS](https://www.ezsms.biz/ja/)v3 is available in English too!
 
