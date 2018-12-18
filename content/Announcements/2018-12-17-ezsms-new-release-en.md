@@ -1,6 +1,6 @@
 Title: EZSMS new release
 Date: 2018-12-17
-Slug: ezsms-v3-release
+Slug: ezsms-new-release
 Lang: en
 Tags: EZSMS; New-release; 2018;
 Thumbnail: images/ezsms-v3_date.png
