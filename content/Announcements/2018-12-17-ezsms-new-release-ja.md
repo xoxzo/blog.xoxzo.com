@@ -1,9 +1,9 @@
 Title: 【EZSMS】新機能リリースのお知らせ
 Date: 2018-12-17
-Slug: ezsms-v3-release
+Slug: ezsms-new-release
 Lang: ja
 Tags: EZSMS; New-release; 2018;
-Thumbnail: images/ezsms-v3_date.png?reset=1
+Thumbnail: images/ezsms-v3_date.png
 Author: Aiko Yokoyama
 Summary: 7年間ご愛顧いただきました、[EZSMS](https://www.ezsms.biz/ja/)が大幅にグレードアップします。
 
