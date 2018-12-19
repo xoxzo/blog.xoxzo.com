@@ -10,11 +10,13 @@ Summary: Binary operations
 I'd like to write about bits, and how I understand them. We want from computer something, and write a program for it, in languages like Python, C, PHP or another, which is understandable for humans. But a computer doesn't understand such written code, and first, compilator translates this code into binary data. Binary data is a data, formatted specially for a computer. E.g. we want to do a simple operation like addition, 5+3. Or print something in the console. Or run the game, no matter, in every case compiler prepares binary data. To be true, compilator prepares byte-code, but by meaning it is a binary data.
 Binary data, in simple words, is a consequence of 2 values - 0 and 1. 
 1 byte consisting of 8 bits. As I remember from school, 1 byte has 8 bits, because such a number of bits is needed to store 1 symbol. 1 char is 1 byte. But it is not true, using python language I can show that 1 letter takes much more bytes:
+
 ```python
 import sys
 >>> sys.getsizeof('a')
 50
 ```
+
 So, 1 char in python takes 50 bytes, or 50x8=400 bits.
 Interesting note, historically in different platforms there was bytes with 6,7,32,36 bits.
 
@@ -23,6 +25,7 @@ But my article will be about bits as mathematical numbers.
 # Arithmetic
 As we know, any number can be represented by base 10 (decimal), 2 (binary), 16 (hexadecimal), and any other. 1 bit can accept only two values - 0 or 1. Number, of course, can consist of any number of bits. Addition, Subtraction, Multiplication, and Division can be done on bin numbers like on regular decimal numbers.
 In python bin numbers starts with prefix `0b`.
+
 ```python
 >>> 0b0
 0
@@ -49,10 +52,12 @@ In python bin numbers starts with prefix `0b`.
 True 
 1
 ```
+
 In addition to ariphmetic operations, binary numbers also support boolean operations
 
 # Boolean operations on bits
 With some restrictions, boolean operations on bits came from Bool algebra. You may consider 1 as True, and 0 as False. Operations are:
+
 * binary AND
 * binary OR
 * excluding binary OR (XOR)
@@ -62,14 +67,41 @@ See tables below to understand rules of this operations.
 
 ### AND
 Operator for OR for binary operations in python - `&`. If one of bits is 0, then resulted bit will be 0.
-| A | B | A & B |
-|---|---|---|
-| 1 | 0 | 0 |
-| 1 | 1 | 1 |
-| 0 | 0 | 0 |
-| 0 | 1 | 0 |
+
+<table class="table table-bordered table-sm">
+  <thead>
+    <tr>
+      <th scope="col">A</th>
+      <th scope="col">B</th>
+      <th scope="col">A&B</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>
 
 In practice this operation can be used for quick determination wheather number odd or not, by `x & 1` (if result is 0, then number is even, otherwise number is odd)
+
 ```python
 >>> bin(0b1100 & 0b0101)
 '0b100'
@@ -83,12 +115,38 @@ In practice this operation can be used for quick determination wheather number o
 
 ### OR
 Operator for OR for binary operations in python - `|`. In simple words, this operation returns 1 (True) when at least one of bits is 1 (True).
-| A | B | A \| B |
-|---|---|---|
-| 1 | 0 | 1 |
-| 1 | 1 | 1 |
-| 0 | 0 | 0 |
-| 0 | 1 | 1 |
+
+<table class="table table-bordered table-sm">
+  <thead>
+    <tr>
+      <th scope="col">A</th>
+      <th scope="col">B</th>
+      <th scope="col">A|B</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+  </tbody>
+</table>
 
 ```python
 >>> bin(0b1100 | 0b0101)
@@ -96,15 +154,39 @@ Operator for OR for binary operations in python - `|`. In simple words, this ope
 ```
 
 ### Excluding OR (XOR)
-Operator for OR for binary operations in python - `^`. Similar to OR, but when two bits are 1, resulted bit will be 0.
+Operator for XOR for binary operations in python - `^`. Similar to OR, but when two bits are 1, resulted bit will be 0.
 
-| A | B | A \| B |
-|---|---|---|
-| 1 | 0 | 1 |
-| 1 | 1 | 0 |
-| 0 | 0 | 0 |
-| 0 | 1 | 1 |
-
+<table class="table table-bordered table-sm">
+  <thead>
+    <tr>
+      <th scope="col">A</th>
+      <th scope="col">B</th>
+      <th scope="col">A^B</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+  </tbody>
+</table>
 
 ```python
 >>> bin(0b1100 ^ 0b0101)
@@ -112,10 +194,22 @@ Operator for OR for binary operations in python - `^`. Similar to OR, but when t
 ```
 
 ### NOT
-Reverse bits: 0 becomes 1, 1 becomes 0.
-| A | 1 | 0 |
-|---|---|---|
-| ~A | 0 | 1 |
+Operator for binary NOT in python - `~`. Reverse bits: 0 becomes 1, 1 becomes 0.
+
+<table class="table table-bordered table-sm">
+  <tbody>
+    <tr>
+      <td><b>A</b></td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><b>~A</b></td>
+      <td>0</td>
+      <td>1</td>
+    </tr>
+  </tbody>
+</table>
 
 ```python
 >>> bin(~0b01)
@@ -130,6 +224,7 @@ There's also _shift_ operations: In these operations, the digits are moved, or s
 
 ### Left shift
 In this case, to the right end zeros added:
+
 ```python
 >>> bin(0b10110100 << 1)
 '0b101101000'
@@ -141,6 +236,7 @@ In this case, to the right end zeros added:
 
 ### Right shift
 Bits shift to the right, from right side certain number of bits being dropped:
+
 ```python
 >>> bin(0b10110100 >> 1)
 '0b1011010'
@@ -154,6 +250,7 @@ Bits shift to the right, from right side certain number of bits being dropped:
 Mainly in programming bitwise operations are not commonly used.
 1. Bitwise operations are used in cryptography.
 2. If we have an IP-address, e.g. 192.168.8.2 and we know mask of a subnet, e.g. 255.255.248.0, we may determine bounds of IP addresses range for this subnet, and its address. To do this we must apply the mask to this IP address using logical AND:
+
 ```python
 >>> bin(192)
 '0b11000000'
@@ -169,9 +266,11 @@ Mainly in programming bitwise operations are not commonly used.
 0
 >>>
 ```
+
 and as a result, we have 192.168.8.0, which is a subnet address.
 
 3. Left and right shifts may be used to quick multiplication or division to 2^N. In this case speed will be faster, compared to using `*, /, **` operators.
+
 ```python
 >>> 0b1
 1
@@ -187,4 +286,5 @@ and as a result, we have 192.168.8.0, which is a subnet address.
 >>> 25 >> 1
 12
 ```
+
 Of course, there's another use cases of bitwise operations.
