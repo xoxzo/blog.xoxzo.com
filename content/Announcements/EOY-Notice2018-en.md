@@ -6,7 +6,7 @@ Tags: end of year; 2018;
 Author: Aiko Yokoyama
 Summary: Thank you for your support through 2018. 
 
-Thank you very much for your continuous support for [Xoxzo Cloud Telephony Platform](https://www.xoxzo.com/en/) and [SMS Delivery API Service EZSMS](https://www.ezsms.biz/ja/) .
+Thank you very much for your continuous support for [Xoxzo Cloud Telephony Platform](https://www.xoxzo.com/en/) and [SMS Delivery Service EZSMS](https://www.ezsms.biz/ja/) .
 
 Please note that our office will be closed during the following time period for New Year Season.
 
