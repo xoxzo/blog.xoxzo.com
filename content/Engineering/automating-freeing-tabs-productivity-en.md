@@ -298,4 +298,4 @@ And that is the full script. There are many ways to improve it but it should let
 
 I can think of several ways to use this script like enclose it in a loop that runs at certain intervals and leave it running in the background. You can also use [cron](https://www.makeuseof.com/tag/linux-task-scheduling-crontab-explained/) for macOS or Linux to run it according to some schedule. You can also use [Task Scheduler](https://www.makeuseof.com/tag/4-boring-tasks-can-automate-windows-task-scheduler/) for Windows.
 
-Have and fun or useful scripts to share with us? Let us know!
+Have any fun or useful scripts to share with us? Let us know!
