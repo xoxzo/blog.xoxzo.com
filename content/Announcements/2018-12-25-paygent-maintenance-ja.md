@@ -5,7 +5,7 @@ Lang: ja
 Tags: EZSMS; ペイジェント; 2018;
 Thumbnail: images/ezsms_logo_new.png
 Author: Aiko Yokoyama
-Summary: 年末年始のメンテナンスによる決済機能停止のお知らせ
+Summary: 新年のメンテナンスによる決済機能停止のお知らせ
 
 平素は、弊社株式会社Xoxzoの運営しております[Xoxzo クラウド・テレフォニー・プラットフォーム](https://www.xoxzo.com/ja/)ならびに、
 [EZSMS・ショートメッセージ(SMS)配信サービス](https://www.ezsms.biz/ja/)を
