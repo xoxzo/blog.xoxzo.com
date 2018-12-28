@@ -39,6 +39,6 @@ font-family : 'ヒラギノ角ゴ ProN' , 'Hiragino Kaku Gothic ProN' , '游ゴ�
 “ヒラギノ角ゴ ProN” and “Hiragino Kaku Gothic ProN” are the same font. However, some browsers can't understand when it’s written in only Japanese or only English, so it is better to write it in both languages.
 
 ### More about Japanese web font?
-If you'd like to learn more about Japanese web fonts, you can check [this post](http://hayataki-masaharu.jp/web-typography-in-japanese/).
+If you'd like to learn more about Japanese web fonts, you can check [this post](http://hayataki-masaharu.jp/web-typography-in-japanese/) by Masaharu Hayataki.
 
 [^1]: [https://en.wikipedia.org/wiki/Typography](https://en.wikipedia.org/wiki/Typography)
