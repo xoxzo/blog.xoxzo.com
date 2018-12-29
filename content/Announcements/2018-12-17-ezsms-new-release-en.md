@@ -5,7 +5,7 @@ Lang: en
 Tags: EZSMS; New-release; 2018;
 Thumbnail: images/ezsms-v3_date.png
 Author: Aiko Yokoyama
-Summary: [EZSMS](https://www.ezsms.biz/ja/)v3 is available in English too!
+Summary: [EZSMS](https://www.ezsms.biz/ja/) is now available in English. Send Bulk/Marketing/Reminder/customised SMS via Web-page, it is as simple as ABC!
 
 
 Thank for using [EZSMS, international SMS delivery service](https://www.ezsms.biz/ja/) & 
