@@ -1,5 +1,5 @@
 Title: Bootstrap Night! vol. 4 参加してきました
-Date: 2018-12-22 10:00
+Date: 2018-12-24 10:00
 Author: Iqbal Abdullah
 Tags: bootstrap; ブートストラップ; 起業; コミュニティ; 2018;
 Lang: ja
@@ -16,8 +16,8 @@ Summary: 日本にはまだまだ珍しい、ブートストラップによる�
 もはやテックで起業をするなら億単位の資金調達しないと起業ではないのような世の中になってきてきてる気がしますが、
 少しでもこのような代わりとなるような起業やライフスタイルも実際に可能で、もっと皆さんに知ってほしいです。
 
-なので、今回はじめて[Bootstrap Night vol. 4](https://selfree.connpass.com/event/109628/)に参加すること
-に楽しみしていました。
+なので、今回はじめて12月18日に開催される[Bootstrap Night vol. 4](https://selfree.connpass.com/event/109628/)に
+参加することに楽しみしていました。
 
 ![Bootstrap Night!]({filename}/images/bootstrap-night-20181222.jpg)
 
