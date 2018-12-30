@@ -1,7 +1,7 @@
 Title: Participated in Bootstrap Night! vol. 4 
 Date: 2018-12-24 10:00
 Author: Iqbal Abdullah
-Tags: bootstrap; ブートストラップ; 起業; コミュニティ; 2018;
+Tags: bootstrap; Startup; community; 2018;
 Lang: en
 Slug: bootstrap-night-tokyo-vol-4
 Thumbnail: images/bootstrap-night-people.jpg
@@ -12,33 +12,32 @@ I knew no one else started up with Bootstrap at the time, specially in the tech 
 The word of "Bootstrap" didn't mean "start up" at that time neither, but it was used
 as the starting of build the Linux OS. It had no relation with business nor start up.
 
-この3年間ぐらいの間に、テック系だとほとんど、VCからお金を受けてユニコーンを目指すやら、億単位の調達成功やらの話ばっかりで、
-もはや『テックで起業をするなら億単位の資金を調達しないと起業ではない』のような世の中になってきてる気がしますが、
-少しでもこのような起業やライフスタイルのオプションも実際に可能だと、もっと皆さんに知ってほしいです。
+The world is now changed to be "Without prepring 100s of millions, tech startups cannot be called as startup",
+these 3 years tech industry is filled with the example of aiming Unicorn with fund from VC and successful 100s of millions 
+fund obtained, I want everyone to know that even a bit such altenative start-ups and lifestyle options are actually possible.
 
-なので、今回はじめて12月18日に開催される[Bootstrap Night vol. 4](https://selfree.connpass.com/event/109628/)に
-参加することに楽しみしていました。
+Taking this in consideration, I have been looking forward to attend the [Bootstrap Night vol. 4](https://selfree.connpass.com/event/109628/) held on December 18 for the first time.
 
 ![Bootstrap Night!]({filename}/images/bootstrap-night-20181222.jpg)
 
-# メンバー3人で有料ライセンス1000契約獲得の道のり
+# The way to acquisition of 1,000 paid licence with as little as 3 in the team
 
-主催者である[合同会社
-selfree](https://www.selfree.co.jp/about)の代表の大俣さんによる最初のプレゼンでmeetupが始められました。
+The meetup was started with the presetation by Mr.Omata, CEO of[selfree llc.](https://www.selfree.co.jp/about).
 
-なぜ、そもそもブートストラップで起業したのか？外部資金を受け取ったらで急成長しないといけないプレッシャーがあって
-そうしなければ完全コントロールできるから、ブレるリスクも少なくなるとか。ポイントとしては、できるだけリスクを
-少なくして自分達のペースで事業を運営し成長させる、ということ。
+Why in the first place did they started with Bootstrap?
+In case you obtained the fund, it turns into a pressure to you,
+without that pressure, you can take a full control and focus without being wavered.
+In short, you grow your business by operating at own pace with minimum risk.
 
-- 完全に自分のプロダクトをフォーカスするため、受注開発をまったくやらず
-- 起業前準備としては、貯金していた
-- 初期開発とその後のリリースのあいだは、貯金を崩して生活していた
-- あの頃一番大事なポイントとしてどれだけ最低限な生活をできるか、そのための費用を確保した
-- 実家暮らしで、だいたい月に15万円で頑張っていた。時間が空いたら、副収入に回した
-- 最初のリリースをしてから1年半のあいだ、給料なしで生活していた
+- He didn't do any development on request at all and concentrated on the own product
+- He saved funds prior to start the business as preparation
+- He lived on his saving while the initial development and the release
+- He secured the funds to live minimum standard of living, as the most important point
+- He resided with his parents with the cost of about JPY 150,000, also used his spar time for second work
+- He lived 1 and a half year without salarys
 
-1000契約まで獲得できるのは、単純に地道の努力という。ですよね、当たり前と思いますが、足と汗が結局のところ
-成果を出してくれることが多い。
+He says simply the step-by-step effort would acquire 1,000 of cotract.
+Of course, yes, many of the result was made by foot and sweat works in the end.
 
 - リリースした後、最初の3ヶ月で総員で1日50メールひたすら送っていた
 - カスタマーサポート、カスタマーサクセス、事例を作るのに力を入れていた
