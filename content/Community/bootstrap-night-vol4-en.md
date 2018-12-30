@@ -7,10 +7,10 @@ Slug: bootstrap-night-tokyo-vol-4
 Thumbnail: images/bootstrap-night-people.jpg
 Summary: I participated in a meetup for those who challenge or are interested in startups organized by Bootstrap.
 
-我々がブートストラップで事業をはじめたのは2007年2月だから、もう丸12年になろうとしています。
-あの頃は、特にテック系では、ブートストラップで起業する人が周りには誰もいませんでした。
-「ブートストラップ」という言葉自体も、当時は「起業」という意味合いがなく、特にLinux系のOSを組む時に起動時を
-指す方法の意味だったとか。まったくビジネスや起業とは、関係がなかったんです。
+It's been full 12 years since I started a business with Bootstrap in February, 2007.
+I knew no one else started up with Bootstrap at the time, specially in the tech industry.
+The word of "Bootstrap" didn't mean "start up" at that time neither, but it was used
+as the starting of build the Linux OS. It had no relation with business nor start up.
 
 この3年間ぐらいの間に、テック系だとほとんど、VCからお金を受けてユニコーンを目指すやら、億単位の調達成功やらの話ばっかりで、
 もはや『テックで起業をするなら億単位の資金を調達しないと起業ではない』のような世の中になってきてる気がしますが、
