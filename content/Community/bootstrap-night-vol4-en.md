@@ -39,76 +39,73 @@ In short, you grow your business by operating at own pace with minimum risk.
 He says simply the step-by-step effort would acquire 1,000 of cotract.
 Of course, yes, many of the result was made by foot and sweat works in the end.
 
-- リリースした後、最初の3ヶ月で総員で1日50メールひたすら送っていた
-- カスタマーサポート、カスタマーサクセス、事例を作るのに力を入れていた
-- あとユーザーミートアップも実施
+- All staff kept sending 50 mails a day for the first 3 months after release
+- Put a great effort on customer support, customer success and use cases
+- Organized user meetups
 
-そのあと、プロダクト開発とビジネス全般の考え方としては、
+Then, he talked about his consideration on product development and general business:
 
-- 開発思想　機能追加より機能改善
-- 1つの問題をどこよりも早く、簡単に解決する
-- 余計に仕事を増やさない。人を必要以上入れない
-- しっかり休むこと
+- Develop for more improvement than additional functions
+- Solve an issue quickest and simplest than any others
+- No icreasing extra job, no unnecessary additional members
+- Rest well
 
-当たり前でも、ブートストラップビジネスを成功させるための秘訣というのは、やっぱり
-「我慢と努力」ということでしょうか。
+The keys for a successful Bootstrap business are still **Patience** and **Effort**, right?
 
-# プログラミングスクールの作り方
+# How to set up a programming school
 
-次の登壇者は合同会社フィヨルドの[駒形さん](http://docs.komagata.org/5583)
-主な事業はサイトの構築やゲームサイトの開発を行っていますが、その他プログラミングスクール
-も現在運営しています。
+The next speaker was [Mr. Komagata](http://docs.komagata.org/5583) of the joint company Fjord.
+Main projects are building sites and developing game sites, but they are currently 
+operating programming school as well. 
 
-インターンからはじめて作業をしながらプログラミングを学んでいく、というモデルから、
-プログラミングスクールに形を変えて卒業生を紹介して企業に就職させるというモデルに
-変わったビジネスの苦労話など。
+He talked about a business hardship story of that the model that students started to learn as an intern to proceed the study as they work was chabged to that the graduates of the programming school get introduced to the positions in corporations.
 
-当初はお金を取らずに、来る者拒まず、去る者を追わずというスタンスでインターンとして
-受けいれて、プログラミングなどを勉強させながら会社の作業をお願いしていたようですが、少しずつ
-いろんな問題点を解決しながら、現在の企業就職モデルに転換したそうです。
+Initially, they take everyone that comes, without tuition fees as an intern, and the interns would learn programming while they help the company tasks, however, they gradually switched to the current intermediately employment model while resolving various problems little by little.
 
-いろいろやってきて、現在に至っては **1つの結論として「プログラミングスクールも楽じゃない」** 
-ということだったそうです。まぁ、そうでしょうね。
+Now what they think after all those is: **Programming school operatio is not an easy thing to do, in the end**, 
+well I understand.
 
-# Doorkeeper 利益生むまでの道のり
+# Doorkeeper the road to make profit
 
-最後の登壇者は、Ruby界ではかなり知られている
-[DoorkeeperのPaulさん](https://twitter.com/pwim?lang=en) (ごめんなさい、私はRuby使ってません）
+The final speaker was, who is very well known in Ruby community, 
+[Mr. Paul McMahon from Doorkeeper](https://twitter.com/pwim?lang=en) (excuse me but I don't use Ruby）
 
-今回の発表ではDoorkeeperに関する売上や手数料の数字が多くったので面白かったですが、Paulさんが
-写真撮影や会場外に漏らすこと禁止しているので書けないですが、
+He prohibits to publish and I cannot open the details, but it was interestiing to see his
+presentation this time, with many example of the actual numbers of sales and fees of Doorkeeper.
 
-- Doorkeeperは2011リリース当初からサイドプロジェクトのため、確立できるビジネスモデルはなく（考えてなかった）
-- はじめての売上は、Paypalを導入したときから。Paypalの導入もどっちかというと本人確認のためだった。
-でもUXはあまりよくなかった
-- ビジネスとして成り立てるモデルの手探り状態だった
-- 手数料と固定手数料などを、まず導入した
-- それでも売上と、イベント利用の数比例的に、あまりうれしくない数字だった
-- イベント手数料を軸にビジネスモデルにするには、膨大のチケット売上が必要。ブートストラップには難しい
-- ６年間赤字運営 閉鎖考えていた
-- [有料サービスとして転換して](https://www.doorkeeper.jp/news/2016/7/25/change-in-pricing)立ち直った
+- Doorkeeper was a side project since the release in 2011 and there was no business model to establish/consider
+- The first sales started when introduced Paypal, it was more likely to authorization. it didn't create good UX though.
+- Groping the model to succeed as a business
+- Fee and Fixed cost were introduced initially
+- The sales and numbers of event used still didn't make them happy
+- They found the enormous amount of ticket sales are necessary to be the successful business model with the main sales on event fees and it is difficult for Bootstrap
+- Management dificit for 6 years made them consider the service closure
+- Got over it by [renewed as a paid service](https://www.doorkeeper.jp/news/2016/7/25/change-in-pricing)
 
-Paulさんの話を聞いていて、サービス（特にSaaS系) やプロダクトのプライシングはとても重要で、
-そのプライシングを決めるには、単純に絶対の数（例えば、どのぐらい使ってるのか）に対する対価ではなく、
-お客様がそのサービスを使う上の価値に対する対価にするべきだと、と改めて思いました。
+I confirmed with the talk of Paul that the prices of the products should be set 
+according to the value of the user, not to the set number of usage, and the price
+setting price for the service (specially SaaS-relation) and product is very important.
 
-お客様からすると、どれだけあるサービスが便利で、どんなメリットをもたらすこと
-を見極めることがとても大事です。
+From the customer view, it is very important to find out how convenient and what advantage the service
+brings in.
 
-# 最後に
+# Finally
 
-発表のあと、ピザとビールなどを飲みならが参加者との間の交流会がありました。ブートストラップ
-起業に対する思いとか、首都圏にもう飽きて地元にUターンして地元に何か立ち上げて貢献したいとか、
-という方もいました。まだ少ないですが、最近、自分の周りにそのような人が増えてきてる気がします。
+There was a party with pizza and beer after the presentation.
+I met people who had special thoughts on Bootstrap start ups and
+who wants to go back to their home town to start something helpful
+to the area as urban life has already been too boring.
+Not many yet, I feel that type of people are increasing.
 
-最後に集合写真をとって解散しました。
+A photo time took place before dismissed.
 
 ![Bootstrap Night! 集合写真]({filename}/images/bootstrap-night-people.jpg)
 
-今回初参加させてもらいましたが、ブートストラップで起業する人は日本にはまだまだ少ないですが、確かなのは我々みたいに
-ビジネスモデルが確立されていて、運営の回っているテック企業は存在します。また、そのライフスタイルと起業スタイルに興味をもって
-挑戦したい人たちもいる、との印象をうけました。
+It was my first participation on this this time.
+Bootstrap startups are not yet many in Japan, but tech companies that successfully operating with the certain
+business models like us are surely existing.
+Also I felt there are the next challengers who are interested in the style of startup as well as our life style too.
 
-日本は、アメリカとかのような国と比べたら業界全体の構造的な課題や社会的な課題もまだまだあることから
-急激にブートストラップで起業する人が増えると思わないが、少しでもこのような起業スタイル、
-ライフスタイルまたは夢を実現させる方法のひとつの選択肢として知られ、挑戦してみる人が増えたら嬉しいです。
+Although I do not expect dramatical increase in numbers of Bootstrap startups in Japan, where we
+have lack in industry structure and issues are still existig, I will be glad if there are more people
+to try this way to consider our startup style and life style are one of the choice to make their dream come true.
