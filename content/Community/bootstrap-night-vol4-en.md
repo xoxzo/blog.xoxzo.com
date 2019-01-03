@@ -22,7 +22,7 @@ Taking this in consideration, I have been looking forward to attend the [Bootstr
 
 # The way to acquisition of 1,000 paid licence with as little as 3 in the team
 
-The meetup was started with the presetation by Mr.Omata, CEO of[selfree llc.](https://www.selfree.co.jp/about).
+The meetup was started with the presetation by Mr.Omata, CEO of [selfree llc.](https://www.selfree.co.jp/about).
 
 Why in the first place did they started with Bootstrap?
 In case you obtained the fund, it turns into a pressure to you,
@@ -65,7 +65,7 @@ Initially, they take everyone that comes, without tuition fees as an intern, and
 Now what they think after all those is: **Programming school operatio is not an easy thing to do, in the end**, 
 well I understand.
 
-# Doorkeeper the road to make profit
+# Doorkeeper - the road to make profit
 
 The final speaker was, who is very well known in Ruby community, 
 [Mr. Paul McMahon from Doorkeeper](https://twitter.com/pwim?lang=en) (excuse me but I don't use Ruby）
