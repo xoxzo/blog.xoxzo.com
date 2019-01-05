@@ -101,8 +101,8 @@ I am again convinced after Paul's talk that the prices of the products should be
 according to its value to the user, not set by the number of usage. This is very
 important especially for SaaS products.
 
-From the customer view, it is very important to find out how convenient and what advantage the service
-brings in.
+From the customer's point of view, it is very important to find out how convenient and
+what advantage the service brings in.
 
 # Finally
 
@@ -113,7 +113,7 @@ to the area as urban life has already been too boring.
 Although the numbers are still small, I feel that the number of people who are
 attracted to this alternative way of living and business is increasing.
 
-A photo time took place before dismissed.
+Photo time before everyone went home.
 
 ![Bootstrap Night! 集合写真]({filename}/images/bootstrap-night-people.jpg)
 
