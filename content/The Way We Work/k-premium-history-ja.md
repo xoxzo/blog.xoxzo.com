@@ -1,3 +1,12 @@
+Title: Kプレミアムサービスの歴史
+Date: 2019-01-15 
+Author: Aiko Yokoyama
+Tags: Xoxzo; EZSMS; K-premium; Kプレミアム; 継続改善; Keizoku-kaizen;
+Slug: K-premium-history
+Lang: ja
+Thumbnail: images/ezsms_logo_new.png
+Summary: Xoxzoの企業理念のひとつ「継続改善」により、進化してきたKプレミアムサービスの歴史を振り返ります。
+
 こんにちは、Xoxzoです。
 
 Xoxzoのご利用において、ちょっと気になったり、「こうだったら、いいのにな」と思うことはありませんか。
