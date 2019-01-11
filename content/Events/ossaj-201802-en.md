@@ -7,7 +7,7 @@ Author: Aiko Yokoyama
 Thumbnail: images/OSSAJ-square.png
 Summary: A mini-seminar for _the first step creating Web-application using Django_ is going to be held with OSSAJ. Everyone interested in Web-application development using Python is welcome.
 
-[![OSSAJ_logo]({filename}/images/OSSAJ-landscape.png)]](https://www.ossaj.org/)
+[![OSSAJ_logo](/images/OSSAJ-landscape.png)](https://www.ossaj.org/)
 
 A.Nonaka, the evangelist of [Xoxzo](https://info.xoxzo.com/ja/) will talk at the seminar for
 [OSSAJ mini-seminar](https://www.ossaj.org/archives/585) as a speaker 
