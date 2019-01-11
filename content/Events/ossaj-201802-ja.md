@@ -23,7 +23,7 @@ Pythonで実装され豊富な実績をもつ Webアプリケーションフレ�
 
 セミナーへのご参加は無料です。[お申込みはこちらからどうぞ](https://docs.google.com/forms/d/e/1FAIpQLSdR09Mwn9qEExntpfo7djySxiel-dlkouYuVmqxf95IO2xU1A/viewform)。
 
-セミナー後、18時より、懇親会がセミナー会場にて行われる予定となっております。
+セミナー後、18時より会場にて懇親会が行われる予定となっております。
 [(詳細・申込み)](https://www.ossaj.org/archives/585)
 
 受講にあたっての前提知識は特に必要ありませんので、お気軽にエントリーしてください。
