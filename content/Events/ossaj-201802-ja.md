@@ -4,10 +4,10 @@ Slug: ossaj-201802
 Lang: ja
 Tags: 2018; 2019; ossaj; 東京; オープンソース; セミナー
 Author: Aiko Yokoyama
-Thumbnail: images/
+Thumbnail: images/OSSAJ-square.png
 Summary: エバンジェリスト・野中が、Django を使った Web アプリケーション開発の最初の一歩について話します。Python を使った Web アプリケーション開発に興味をお持ちの皆様の参加をお待ちしています。
 
-[![OSSAJ_logo]({filename}/images/)](https://www.ossaj.org/)
+[![OSSAJ_logo]({filename}/images/OSSAJ-landscape.png)](https://www.ossaj.org/)
 
 2019年2月7日木曜日 16時半より18時まで、
 [アイオス五反田 第1会議室](https://bit.ly/2FjUvJs)にて、[Xoxzo](https://info.xoxzo.com/ja/)のエバンジェリスト・野中が
