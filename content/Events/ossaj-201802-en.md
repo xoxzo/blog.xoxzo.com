@@ -9,23 +9,23 @@ Summary: A mini-seminar for _the first step creating Web-application using Djang
 
 [![OSSAJ_logo]({filename}/images/)](https://www.ossaj.org/)
 
-2019年2月7日木曜日 16時半より18時まで、
-[アイオス五反田 第1会議室](https://bit.ly/2FjUvJs)にて、[Xoxzo](https://info.xoxzo.com/ja/)のエバンジェリスト・野中が
-2018年度第二回となります、[OSSAJ ミニセミナー](https://www.ossaj.org/archives/585)の講師として招かれました。
+On February 7th, 2019, from 16.30 - 18.00, at AIOS-Gotanda [アイオス五反田 第1会議室](https://bit.ly/2FjUvJs)
+Mr.Nonaka, the evangelist of [Xoxzo](https://info.xoxzo.com/ja/) will talk at the seminar for
+[OSSAJ mini-seminar](https://www.ossaj.org/archives/585) as a speaker.
 
-オープンソースのソフトウェア利用情報を会員間で共有する「利用者の団体」である
-[オープンソースソフトウェア協会](https://www.ossaj.org/about-us)は、全国各地で活動を行う、特定非営利活動法人です。
+[The OSSAJ, _Open Source Software Association of Japan_](https://www.ossaj.org/about-us) 
+is a Non Profit Organization for _Users_ of Open Source Software to share the information
+between the members all over Japan.
 
-今回のセミナーでは、[「Railsだけじゃない！ DjangoによるWebアプリケーション開発入門」](https://www.ossaj.org/archives/585)と題して、
-開発プロジェクトに Django を採用している弊社の[エバンジェリスト、野中](https://info.xoxzo.com/ja/aboutus/)が、
-Pythonで実装され豊富な実績をもつ WebアプリケーションフレームワークであるDjangoを使った、Webアプリケーション開発の最初の一歩について
-話します。高速な開発、セキュア、スケーラブルといった特長をもち、最近人気が高くなっているDjangoに興味をお持ちの皆様のご参加をお待ちしております。
+The seminar will take place with the theme ["Not only Rails!! How to develop a Web-applications using Django for beginners" ](https://www.ossaj.org/archives/585) (_Link in Japanese only_) and look forward to those who are interested in developing 
+Web-applications using Django, the web application framework.
+(The seminar will be held in Japanese)
 
-セミナーへのご参加は無料です。[お申込みはこちらからどうぞ](https://docs.google.com/forms/d/e/1FAIpQLSdR09Mwn9qEExntpfo7djySxiel-dlkouYuVmqxf95IO2xU1A/viewform)。
-セミナー後、18時より、懇親会がセミナー会場にて行われる予定となっております。
-[詳細・申込み](https://www.ossaj.org/archives/585)
+Joining the seminar is free, [Please book your seat here](https://docs.google.com/forms/d/e/1FAIpQLSdR09Mwn9qEExntpfo7djySxiel-dlkouYuVmqxf95IO2xU1A/viewform)。
+There will be a party after the seminar, from 18,00 to 20.00.
+[Details and reservation](https://www.ossaj.org/archives/585)
 
-受講にあたっての前提知識は特に必要ありませんので、お気軽にエントリーしてください。
-皆様お誘い合わせの上、ぜひこぞってご来場頂けますよう、楽しみにお待ち申し上げております。
+All beginners are welcome, no pre-knowledge is required.
+We are looking forward to meet you there!
 
-OSSAJ ミニセミナーの詳細は、[こちら](https://www.ossaj.org/archives/category/sponsored-activity)からどうぞ。
+OSSAJ mini-seminar details can be found [here](https://www.ossaj.org/archives/category/sponsored-activity).
