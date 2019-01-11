@@ -1,7 +1,7 @@
 Title: Our A.Nonaka is going to speak at OSSAJ(Open Source Software Association of Japan)
 Date: 2019-01-10
 Slug: ossaj-201802
-Lang: ja
+Lang: en
 Tags: 2018; 2019; ossaj; Tokyo; OpenSource; Seminar;
 Author: Aiko Yokoyama
 Thumbnail: images/OSSAJ-square.png
