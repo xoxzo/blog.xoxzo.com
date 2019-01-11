@@ -4,10 +4,10 @@ Slug: ossaj-201802
 Lang: ja
 Tags: 2018; 2019; ossaj; Tokyo; OpenSource; Seminar;
 Author: Aiko Yokoyama
-Thumbnail: images/
+Thumbnail: images/OSSAJ-square.png
 Summary: A mini-seminar for _the first step creating Web-application using Django_ is going to be held with OSSAJ. Everyone interested in Web-application development using Python is welcome.
 
-[![OSSAJ_logo]({filename}/images/)](https://www.ossaj.org/)
+[![OSSAJ_logo]({filename}/images/OSSAJ-landscape.png)](https://www.ossaj.org/)
 
 On February 7th, 2019, from 16.30 - 18.00, at AIOS-Gotanda [アイオス五反田 第1会議室](https://bit.ly/2FjUvJs)
 Mr.Nonaka, the evangelist of [Xoxzo](https://info.xoxzo.com/ja/) will talk at the seminar for
