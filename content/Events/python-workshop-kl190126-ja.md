@@ -13,26 +13,32 @@ python って使ったことないけど、やってみたいな、っていう�
 ![Python logo](/images/pythonlogo.jpg)<a class="caption" href="https://www.python.org/community/logos/">Image credit</a>
 
 [StudiMY](https://studi.my/) による、ビギナー向けシリーズのはじめの一歩、101 Beginning Pythonを
-使ったワークショップに参加しませんんか？
+使ったワークショップに参加しませんか？
 
-ここで学べるのは:
+来る1月26日土曜日、午前9時より午後5時まで、[Sandbox Coworking Space](https://sandboxco.space/)において、
+第一回ワークショップを開催いたします。マレーシアへお出かけ予定の方、クアラルンプール近郊に在住の方、ぜひおいでください。
 
-* Introduction
+今回の学習内容は:
 
-* Data Types
+* はじめに
 
-* Variables, Statement & Expression
+* データ・タイプ
 
-* Flow Control
+* 変数・文・式
 
-* Functions
+* フロー制御
 
-* String Manipulation
+* 関数
 
-* Summary
+* 文字列操作
 
-You will be working on [this](https://github.com/StudiMY/101-beginning-python).
+* まとめ
 
-Our team have been using Python, Django and common best practices for web and systems development for over a decade. We also participate in the yearly PyCon Malaysia as speakers, organizers and also sponsors.
+となります。詳しくは、[こちら](https://github.com/StudiMY/101-beginning-python)をご覧ください。
 
-Register for the workshop [here](https://learnpython101.peatix.com/).
+Xoxzoチームは、10年強もの間、python や django を使ってウェブシステムを開発してきました。
+PyCon マレーシアでも、運営側やスポンサーを務めたり、毎年トークを行ったりしています。
+
+ワークショップへのお申込みは、 [こちらからどうぞ](https://learnpython101.peatix.com/)。
+会場でお会いできるのを、楽しみにしています。
+
