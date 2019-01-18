@@ -12,14 +12,16 @@ Before the advent of the [electric telegraph](https://blog.xoxzo.com/2018/11/15/
 There had been [3 designs](http://bnrg.eecs.berkeley.edu/~randy/Courses/CS39C.S97/optical/optical.html) developed by Claude Chappe and his brothers
 
 * Synchronous Telegraph Experiments (1790-1791)
+
 * Panel Telegraph Experiments (1792)
+
 * Semaphore Telegraph System (1793)
 
 The [first message](http://www.historyofinformation.com/detail.php?entryid=496) over optical telegraph was sent in 1791 between Claude Chapper and his brother, which read "si vous reussissez, vous serez bientôt couvert de gloire" (If you succeed, you will soon bask in glory).
 
 The Semaphore Telegraph System was eventually adopted and widely implemented all throughout France. At the time of French revolution and Napolean prominence, the initial motivation to implement Semaphore Telegraph System was military usage.
 
-The [first two prototypes] (https://people.seas.harvard.edu/~jones/cscie129/images/history/chappe.html) built for demonstrations were destroyed by angry mobs. The Synchronous Telegraph Experiments used clocks, while the Panel Telegraph Experiments used 5 bit binary code allowing 32 possible combinations, which was similar to later systems developed in Sweden and England.
+The [first two prototypes](https://people.seas.harvard.edu/~jones/cscie129/images/history/chappe.html) built for demonstrations were destroyed by angry mobs. The Synchronous Telegraph Experiments used clocks, while the Panel Telegraph Experiments used 5 bit binary code allowing 32 possible combinations, which was similar to later systems developed in Sweden and England.
 
 ![semaphore1](/images/semaphore1.jpg)<a class="caption" href="https://en.wikipedia.org/wiki/File:Tour_du_telegraphe_Chappe_Saverne_02.JPG">Image credit</a>
 
