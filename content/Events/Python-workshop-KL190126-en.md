@@ -15,7 +15,7 @@ Join us in an introductory workshop conducted by [StudiMY](https://studi.my/) on
 
 What you will learn:
 
-*Introduction
+* Introduction
 
 * Data Types
 
