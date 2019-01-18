@@ -14,13 +14,13 @@ New to Python and wish to start learning it?
 Join us in an introductory workshop conducted by [StudiMy](https://studi.my/) on 101 Beginning Python, the first part of the beginner series. 
 
 What you will learn:
-* Introduction
-* Data Types
-* Variables, Statement & Expression
-* Flow Control
-* Functions
-* String Manipulation
-* Summary
+- Introduction
+- Data Types
+- Variables, Statement & Expression
+- Flow Control
+- Functions
+- String Manipulation
+- Summary
 
 You will be working on [this](https://github.com/StudiMY/101-beginning-python).
 
