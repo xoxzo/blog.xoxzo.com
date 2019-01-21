@@ -4,7 +4,7 @@ Author: Surya Banerjee
 Tags: intern; internship; remoteworking; experience; learning; remote;
 Slug: key-takeaways-remote-intern
 Lang: en
-Summary: The learning experience of being a remote intern 
+Summary: I took the self learning route and after a couple of months, I found myself stuck in Tutorial Purgatory or a state where I kept learning without a structure or a set goal... I realized the previous knowledge wanes off without due practice and that is when I decided to send a mail to Kamal, our CTO and asked if I could join as an intern as I wanted some practical experience.
 
 
 *“The only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle. As with all matters of the heart, you’ll know when you find it.”*  -  **Steve Jobs**
