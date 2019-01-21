@@ -13,6 +13,8 @@ New to Python and wish to start learning it?
 
 Join us in an introductory workshop conducted by [StudiMY](https://studi.my/) on 101 Beginning Python, the first part of the beginner series. 
 
+The workshop is held on January 26, 2019 at [Sandbox Coworking Space](https://sandboxco.space/).
+
 What you will learn:
 
 * Introduction
