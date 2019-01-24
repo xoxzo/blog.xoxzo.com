@@ -55,9 +55,7 @@ Not having a clear separation of downtime and uptime, which if not controlled, w
 
 ###### Solution: 
 
-Some of us counter this by using software and tracking sheets for aspects that may seem mundane in terms of work delivery but are essential for well-being. The idea is to apply a similar system that we have for work to our personal life since they overlap anyway in this work-from-home setting. For example:  
-* Some of us track what we eat to make sure we are having a balanced diet, or that we are not abusing on junk food
-* Some of us track the amount and intensity of our exercise to ensure we are getting enough workout
+Some of us counter this by using software and tracking sheets for aspects that may seem mundane in terms of work delivery but are essential for well-being. The idea is to apply a similar system that we have for work to our personal life since they overlap anyway in this work-from-home setting. For example, some of us track what we eat to make sure we are having a balanced diet, or that we are not abusing on junk food; some of us track the amount and intensity of our exercise to ensure we are getting enough workout.
 
 ##### 3. Problem: Compromised communication with colleagues
 
