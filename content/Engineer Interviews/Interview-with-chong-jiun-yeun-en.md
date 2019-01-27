@@ -1,4 +1,4 @@
-Title: Chong Jiun Yeun: Safety is a priority in machine control 
+Title: Chong Jiun Yeun - Safety is a priority in machine control 
 Date: 2019-01-28 
 Slug: interview-with-chong-jiun-yeun 
 Lang: en 
@@ -29,7 +29,7 @@ I had a chat with Chong Jiun Yeun over the phone for him to share some insights 
 
 ![PNP wiring](/images/PNPwiring.gif)<a class="caption" href="https://www.schneider-electric.com/en/faqs/FA142566/">Image credit</a>
 
-**What are the contributions of your company’s solutions to the industry?**
+**What are the contributions of your companyâ€™s solutions to the industry?**
 
 > We help our clients in the manufacturing industry to automate their processes. We create human-machine-interface (HMI) with touch screens, using PLCs to control their machines, the basic functions may include: start, stop, forward, and reverse. 
 
@@ -41,7 +41,7 @@ I had a chat with Chong Jiun Yeun over the phone for him to share some insights 
 
 > When some PLC models have reached the end-of-life (EOL) of the product lifecycle, the ladder logic in the software control need to be upgraded according to the new replacement model. 
 
-> Another challenge is to conceptualize the system design, how to fulfill the client’s requirement, how to solve a problem with the hardware features and software capabilities that we know. It is always a challenge to propose a possible solution that we had not executed before but making the best estimation and judging from prior experiences. Then the pressure is on us to deliver the solution to the client. 
+> Another challenge is to conceptualize the system design, how to fulfill the clientâ€™s requirement, how to solve a problem with the hardware features and software capabilities that we know. It is always a challenge to propose a possible solution that we had not executed before but making the best estimation and judging from prior experiences. Then the pressure is on us to deliver the solution to the client. 
 
 **Are the developers in the automation industry fairly compensated in general?**
 
