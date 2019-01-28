@@ -23,11 +23,9 @@ I had a chat with Chong Jiun Yeun over the phone for him to share some insights 
 
 > I had used assembly language for microprocessors, C, and Java before. Now I specialize in ladder logic programming on Programmable Logic Controllers (PLCs). 
 
-> I specialize in programming Japanese made PLC brands, such as: Mitsubishi, Omron, and Keyene. They differ from European made PLCs, in the way that they commonly use 'sourcing' type (also known as negative logic) of input cards, that have to be connected to NPN type of sensors to work.
+> I specialize in programming Japanese made PLC brands, such as: Mitsubishi, Omron, and Keyence. They generally differ from European made PLCs, in the way that they are commonly connected to NPN type of sensors, also known as the 'sinking' type; while the wiring is known as negative logic, connecting between the +24 volt direct current (red cable) and the common input/output port (black cable), hence having the output as the negative polarity. 
 
-![NPN wiring](/images/NPNwiring.gif)<a class="caption" href="https://www.schneider-electric.com/en/faqs/FA142566/">Image credit</a>
-
-![PNP wiring](/images/PNPwiring.gif)<a class="caption" href="https://www.schneider-electric.com/en/faqs/FA142566/">Image credit</a>
+![NPN and PNP wiring](/images/PNP_NPN_wiring.jpg)<a class="caption" href="https://www.tecnical.cat/apunts-tecnics/eng-differences-between-pnp-and-npn-technical-notes-tecnical-barcelona-catalonia-spain.pdf>Image credit</a>
 
 **What are the contributions of your company’s solutions to the industry?**
 
