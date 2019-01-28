@@ -25,7 +25,7 @@ I had a chat with Chong Jiun Yeun over the phone for him to share some insights 
 
 > I specialize in programming Japanese made PLC brands, such as: Mitsubishi, Omron, and Keyence. They generally differ from European made PLCs, in the way that they are commonly connected to NPN type of sensors, also known as the 'sinking' type; while the wiring is known as negative logic, connecting between the +24 volt direct current (red cable) and the common input/output port (black cable), hence having the output as the negative polarity. 
 
-![NPN and PNP wiring](/images/PNP_NPN_wiring.jpg)<a class="caption" href="https://www.tecnical.cat/apunts-tecnics/eng-differences-between-pnp-and-npn-technical-notes-tecnical-barcelona-catalonia-spain.pdf>Image credit</a>
+![NPN and PNP wiring](/images/PNP_NPN_wiring.jpg)<a class="caption" href="https://www.tecnical.cat/apunts-tecnics/eng-differences-between-pnp-and-npn-technical-notes-tecnical-barcelona-catalonia-spain.pdf">Image credit</a>
 
 **What are the contributions of your company’s solutions to the industry?**
 
