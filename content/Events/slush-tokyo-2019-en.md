@@ -1,7 +1,7 @@
 Title: Come to see Xoxzo at Slush Tokyo 2019!!
 Date: 2019-01-30 15:00
 Slug: slush-tokyo-2019
-Lang: ja
+Lang: en
 Tags: 2019; slush; Tokyo; Startup;
 Author: Aiko Yokoyama
 Summary: Xoxzo is having a demo-booth at [Slush Tokyo 2019](https://tokyo.slush.org/) on February 22(Fri)-23(Sat)
