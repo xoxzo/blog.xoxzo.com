@@ -18,11 +18,13 @@ and counted 6,000 visitors of Startups, Investors, Students and media at
 [Slush Tokyo 2018](https://blog.xoxzo.com/en/2018/04/02/slush-tokyo-2018/) last year
 which is supported by 600 of student volunteers.
 
-You will see how it is organised NOT like the _Ordinarly Conference_ but an exciting _Festival or even a Rock Concert_
+You will see how it is organised NOT like an _Ordinarly Conference_ but an exciting _Festival or even a Rock Concert_
 in their [trailer](https://www.youtube.com/watch?v=vuljBNPrAUc&feature=youtu.be).
 
 There are also delux speakers like [STEFAN THOMAS](https://www.linkedin.com/in/justmoon/),
-the CTO of [Ripple](https://ripple.com/), the Slush programs are all proceeded in English.
+the CTO of [Ripple](https://ripple.com/). 
+
+Slush programs are all proceeded in English.
 
 [Xoxzo](https://info.xoxzo.com/ja/) is having a demo-booth to have visitors enjoy and experience our
 [Xoxzo Telephony APIs](https://www.xoxzo.com/en/) that is delightedly and broadly used for popular online security 
