@@ -6,7 +6,7 @@ Tags: 2019; slush; Tokyo; Startup;
 Author: Aiko Yokoyama
 Summary: Xoxzo is having a demo-booth at [Slush Tokyo 2019](https://tokyo.slush.org/) on February 22(Fri)-23(Sat)
 
-[![slush_logo]({filename}/images/)](https://tokyo.slush.org/)
+[![slush_logo]({filename}/images/slush_logo.png)](https://tokyo.slush.org/)
 
 We [Xoxzo](https://info.xoxzo.com/en/) are having a demo-booth 
 at [Slush Tokyo 2019](https://tokyo.slush.org/) of [Tokyo Big Sight](http://www.bigsight.jp/english/)
