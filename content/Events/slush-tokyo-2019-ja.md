@@ -6,7 +6,7 @@ Tags: 2019; slush; 東京; スタートアップ;
 Author: Aiko Yokoyama
 Summary: Xoxzoは、来たる2月22日金曜日と23日土曜日の二日間、東京ビッグサイトにて、テック系スタートアップの祭典 _Slush Tokyo 2019_へ出展します。
 
-[![slush_logo]({filename}/images/slush_logo.png)](https://tokyo.slush.org/)
+[![slush_logo](/images/slush_logo.png)](https://tokyo.slush.org/)
 
 [Xoxzo](https://info.xoxzo.com/ja/)は、2019年2月22日金曜日より2日間、
 [東京ビッグサイト](http://www.bigsight.jp/)にて開催されます
