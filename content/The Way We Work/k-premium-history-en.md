@@ -20,7 +20,7 @@ The service was introduced originally in July 2013, to set direct sending to one
 As there are a lot of restrictions by carriers and increasing MNPs, some SMS experienced difficulties in delivery, 
 set SenderID was replaced to be displayed on the recipients' device. K-premium service avoided these.
 
-![smartphone_lady](images/k-premium-history/delight_phone.jpg)
+![smartphone_lady](images/delight_phone.jpg)
 
 This is very popular optional service, it so succeeded to Xoxzo when it is released in September 2015. 
 Not stopping there but being improved [K-premium version 2 (KP-V2) was released](https://blog.xoxzo.com/en/2017/11/24/kpremium-v2-notice/)
