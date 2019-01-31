@@ -1,4 +1,4 @@
-Title: _KEIZOKU KAIZEN_ in Kpremium history
+Title: KEIZOKU KAIZEN in Kpremium history
 Date: 2019-02-03 
 Author: Aiko Yokoyama
 Tags: Xoxzo; EZSMS; K-premium; Keizoku-kaizen;
