@@ -7,8 +7,6 @@ Lang: en
 Thumbnail: images/delight_phone.jpg
 Summary: Looking back how Kpremium service kept updated till today along with our Keizoku Kaizen philosophy.
 
-Hello there, this is Xoxzo.
-
 As you use Xoxzo APIs, do you have any worry-somes or wishes if something could be done in this way, etc? 
 We Xoxzo are always looking at the upgrading of our service, with the base philosophy of **Keizoku Kaizen**.
 
