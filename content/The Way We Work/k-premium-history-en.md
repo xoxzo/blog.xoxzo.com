@@ -4,7 +4,7 @@ Author: Aiko Yokoyama
 Tags: Xoxzo; EZSMS; K-premium; Keizoku-kaizen;
 Slug: K-premium-history
 Lang: en
-Thumbnail: images/ezsms_logo_new.png
+Thumbnail: images/delight_phone.jpg
 Summary: Looking back how Kpremium service kept updated till today along with our Keizoku Kaizen philosophy.
 
 Hello there, this is Xoxzo.
