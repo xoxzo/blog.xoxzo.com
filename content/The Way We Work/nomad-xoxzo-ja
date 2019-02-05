@@ -7,7 +7,7 @@ Lang: ja
 Thumbnail: images/breaktime.jpg
 Summary: チームXoxzoは設立当初から、100%リモートワークです。
 
-![xoxzo logo](images/xoxzo-logo-02.png)
+![xoxzo logo](/images/xoxzo-logo-02.png)
 
 ご利用いただいている、Xoxzo APIの運営に関わるわれわれ、**チームXoxzo** ですが、まず、読み方はご存知でしたでしょうか？
 
@@ -35,7 +35,7 @@ Xoxzoは完全オンライン・セルフサービスにて提供しておりま
 ミーティングや普段のコミュニケーションに[チームXoxzoの使っているツール](https://blog.xoxzo.com/ja/2017/10/12/tools-of-our-trade/)を、
 よろしければご参照ください。
 
-![breaktime](images/breaktime.jpg)
+![breaktime](/images/breaktime.jpg)
 
 ### 休憩時間
 「ちょっと休憩」10時や15時にコーヒーを入れて、おやつを口にするときも、それぞれの国で、それぞれの時間に行います。
