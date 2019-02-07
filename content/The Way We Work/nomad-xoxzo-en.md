@@ -1,5 +1,5 @@
 Title: Days of Nomad-Xoxzo
-Date: 2019-02-06
+Date: 2019-02-07
 Author: Aiko Yokoyama
 Tags: Xoxzo; Nomad; Remote work; Global work;
 Slug: nomad-xoxzo
