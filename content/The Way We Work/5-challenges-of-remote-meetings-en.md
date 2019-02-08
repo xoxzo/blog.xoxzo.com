@@ -41,7 +41,7 @@ It’s absolutely natural to have a certain degree of small talk, especially in 
 
 ## Skipping necessary details
 
-The natural structure for meetings leans towards broader topics and general discussions around them. But the remote environment requires much richer detailed to be further discussed since there’s no possibility of a quick conversation at your coworker’s desk. This contributes to meetings that don’t clarity all the necessary points regarding the topics, and as a consequence could disengage a lot of the team members since they might not feel the need to jump in without being questioned.
+The natural structure for meetings leans towards broader topics and general discussions around them. But the remote environment requires much richer detailed to be further discussed since there’s no possibility of a quick conversation at your coworker’s desk. This contributes to meetings that don’t clarify all the necessary points regarding the topics, and as a consequence could disengage a lot of the team members since they might not feel the need to jump in without being questioned.
 
 Next time, we’ll try to come up with solutions to each one of those 5 challenges.
 
