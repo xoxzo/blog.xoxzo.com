@@ -36,12 +36,12 @@ What you will learn:
 
 
 
-You will be working on [this](https://github.com/StudiMY/101-beginning-python
-
-).
+You will be working on [this](https://github.com/StudiMY/101-beginning-python).
 
 Our team have been using Python, Django and common best practices for web and systems development for over a decade. We also participate in the yearly PyCon Malaysia as speakers, organizers and also sponsors.
 
 Register for the workshop here:
+
 [March 2 session](https://learnpython101-2.peatix.com)
+
 [April 27 session](https://learnpython101-3.peatix.com)
