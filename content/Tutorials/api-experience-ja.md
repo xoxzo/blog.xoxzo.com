@@ -96,4 +96,4 @@ curl -u <API SID>:<Auth Token>  --data-urlencode "recipient=+81yyyyyyyy" https:/
  
 どの国の携帯電話番号もサポートされています。電話帳からさまざまな大陸の携帯電話番号を試しましたが、すべてに結果が返されました。スクリーンショットは、簡潔さ、明確さ、機密性の目的で省略します。
 
-[(次回へ続く)](https://blog.xoxzo.com/ja/2018/08/10/user-experience-on-xoxzo-api-part-2/)
+[(次回へ続く)](https://blog.xoxzo.com/ja/2018/07/03/user-experience-on-xoxzo-api-part-2/)
