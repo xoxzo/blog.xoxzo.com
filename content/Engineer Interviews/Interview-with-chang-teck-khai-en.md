@@ -1,4 +1,4 @@
-Title: Chang Teck Khai - In freelancing, project management and business management skills are essential
+Title: Chang Teck Khai - In freelancing project management and business management skills are essential
 Date: 2019-02-21 
 Slug: interview-with-chang-teck-khai 
 Lang: en 
@@ -27,7 +27,7 @@ I had a chat with Chang Teck Khai over the phone to talk about his 15 years of e
 
 > Scalability is important, clients might change their requirements, if the program is not scalable, then it would be a nightmare to modify. For new functions that need to be added after a program is completed, I would always modify the existing program, and try not to re-write the program. For new programs, I always aim improve the system architecture design based on past experiences and recent new experiences gained over time. 
 
-**What are the contributions of your company’s solutions to the industry?**
+**What are the contributions of your companyâ€™s solutions to the industry?**
 
 > My clients are mostly manufacturers, such as Dyson that manufactures household appliances, Flex that manufactures electronic products, Venture that produces circuit boards, Celestica that manufactures electronic parts, and V.S. Electronics that supplies Electronics Manufacturing Services (EMS). 
 
@@ -35,9 +35,9 @@ I had a chat with Chang Teck Khai over the phone to talk about his 15 years of e
 
 **What are the challenges that a freelance automation programmer would face in his job?**
 
-> Technical: Managing and meeting client’s requirement is important in every project. In some projects, when I need to work with new functions, equipment or components such as sensors, I would be corresponding directly with the R&D (research and development) team of the equipment manufacturer (instead of my client) to find out how the new equipment work. 
+> Technical: Managing and meeting clientâ€™s requirement is important in every project. In some projects, when I need to work with new functions, equipment or components such as sensors, I would be corresponding directly with the R&D (research and development) team of the equipment manufacturer (instead of my client) to find out how the new equipment work. 
 
-> Project management: Meeting deadlines and schedule management is another factor. I need to delivery my project in compliance with the client’s schedule. Sometimes the software that I deliver is in the last stage of the system integration project, in the earlier stages, hardware delivery or configuration might be delayed, leaving me less time than planned to work on the software part. Sometimes during the software integration stage I discover hardware problems that were not in my scope, the client would have to spend time to troubleshoot which was also unplanned and affecting my delivery schedule. 
+> Project management: Meeting deadlines and schedule management is another factor. I need to delivery my project in compliance with the clientâ€™s schedule. Sometimes the software that I deliver is in the last stage of the system integration project, in the earlier stages, hardware delivery or configuration might be delayed, leaving me less time than planned to work on the software part. Sometimes during the software integration stage I discover hardware problems that were not in my scope, the client would have to spend time to troubleshoot which was also unplanned and affecting my delivery schedule. 
 
 > Business: Managing the project scope is also crucial. For example, I have to be aware of the impact of requests on additional functions after the project specification and service fees had been decided upon. It will impact the man hours and erode the profit margin. Other than that, I am also doing account management, maintaining relationships and rapport with clients.
 
@@ -47,7 +47,7 @@ I had a chat with Chang Teck Khai over the phone to talk about his 15 years of e
 
 **How do you price your projects in general?**
 
-> It is quite subjective from the client’s perspective, it is mostly judged from the ROI (return on investment) of the project pricing. From my end, pricing is affected by man hours, complexity, equipment involved, testing or control flow. The simplest of my projects can be completed in a week and priced in 4-digit price tags, the more sophisticated projects such as a warehouse automation system might need half to one year to complete and priced in 6 digits. 
+> It is quite subjective from the clientâ€™s perspective, it is mostly judged from the ROI (return on investment) of the project pricing. From my end, pricing is affected by man hours, complexity, equipment involved, testing or control flow. The simplest of my projects can be completed in a week and priced in 4-digit price tags, the more sophisticated projects such as a warehouse automation system might need half to one year to complete and priced in 6 digits. 
 
 **What do you do when you are not working?**
 
