@@ -47,4 +47,4 @@ I had a chat with Chong Jiun Yeun over the phone for him to share some insights 
 
 **What do you do when you are not working?**
 
-> I spend time with my family of four, which also includes my share of house work on weekdays, as well as chauffeuring my children to and back from their weekend enrichment classes on weekends. 
+> I spend time with my family of four, which also includes my share of house work on weekdays, as well as chauffeuring my children to and back from their enrichment classes on weekends. 
