@@ -47,8 +47,8 @@ I had a chat with Chang Teck Khai over the phone to talk about his 15 years of e
 
 **How do you price your projects in general?**
 
-> It is quite subjective from the client’s perspective, it is mostly judged from the ROI (return on investment) of the project pricing. From my end, pricing is affected by man hours, complexity, equipment involved, testing or control flow. The simplest of my projects can be completed in a week and priced in 4-digit price tags, the more sophisticated projects such as a warehouse automation system might need half to one year to complete and priced in 6 digits. 
+> It is quite subjective from the client’s perspective, it is mostly judged from the ROI (return on investment) of the project pricing. From my end, pricing is affected by man hours, complexity, equipment involved, testing or control flow. The simplest of my projects can be completed in a week, the more sophisticated projects such as a warehouse automation system might need half to one year to complete. 
 
 **What do you do when you are not working?**
 
-> I spend my down time with my wife and our pet, Kai-kai, a Japanese Spitz. 
+> I spend my down time with my pet, Kai-kai, a Japanese Spitz. 
