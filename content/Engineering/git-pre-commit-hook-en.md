@@ -5,7 +5,6 @@ Author: Zaki Akhmad
 Tags: code, quality, git, pre-commit, hook 
 Slug: use-git-pre-commit-hook-to-maintain-code-quality
 Summary: Automate checking code before committing it
-Lang: en
 
 Let say your company has coding standard. It is written somewhere in the
 company documentation. As new onboard, you read this document thoroughly. Then
@@ -44,7 +43,6 @@ index 0000000..b8904ac
 +
 +def sum(a, b):
 +    return None  
-
 ```
 
 Try to commit it:
