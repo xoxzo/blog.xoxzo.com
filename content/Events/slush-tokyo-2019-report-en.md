@@ -25,8 +25,8 @@ supported by the amazing 600 x volunteers.
 Many incredible speakers, including the Tokyo Governor Ms. Yuriko Koike, 
 kept the stage attractive to all the visitors at all hours.
 
-We [Xoxzo](https://info.xoxzo.com/ja/) had a Demo booth there to show our
-[Telephony APIs](https://www.xoxzo.com/ja/) that are used for multi-factor authentication
+We [Xoxzo](https://info.xoxzo.com/en/) had a Demo booth there to show our
+[Telephony APIs](https://www.xoxzo.com/en/) that are used for multi-factor authentication
 and SMS-marketing etc.
 
 ![slush_booth](/images/slush_booth.jpg)
