@@ -17,7 +17,7 @@ How lucky that we had this great weather, fine and shine.
 ![bigsite_photo02](/images/ariake_02.jpg)
 
 This rapid growing Tech Event "Slush", originally from Finland, seems having made a great success with 
-600 x Startups, 6,000 visitors, 250 x investors and 300 x medias of mainly the young generations
+600 x Startups, 6,000 visitors, 250 x investors and 300 x media of mainly the young generations
 supported by the amazing 600 x volunteers.
 
 ![slush_stage](/images/slush_stage.jpg)
@@ -32,7 +32,7 @@ and SMS-marketing etc.
 ![slush_booth](/images/slush_booth.jpg)
 
 We believe that our booth visitors should have enjoyed the demo of our APIs
-no matter how well they know aout it. Some of the visitors who got our complimentary tote bags
+no matter how well they know about it. Some of the visitors who got our complimentary tote bags
 with brand-new design exclaimed "How cute!!"
 
 ![slush_giveaway](/images/slush_giveaway.jpg)
