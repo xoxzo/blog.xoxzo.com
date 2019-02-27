@@ -1,4 +1,4 @@
-Title: Ong Swee Sin - Remote work benefits the worker and the company
+Title: Ong Swee Sin Remote work benefits the worker and the company
 Date: 2019-02-27
 Slug: interview-with-ong-swee-sin 
 Lang: en 
@@ -13,11 +13,11 @@ Ong Swee Sin started her coding career as a System Analyst with Truenet Systems 
 
 **What was your first computer? When was that?
 
-> I was using the computer in the computer lab at my university before I owned one myself. When I was in the final year of my bachelor’s degree program, I bought an OEM computer from Plaza Low Yat, the IT lifestyle mall in Kuala Lumpur. 
+> I was using the computer in the computer lab at my university before I owned one myself. When I was in the final year of my bachelorâ€™s degree program, I bought an OEM computer from Plaza Low Yat, the IT lifestyle mall in Kuala Lumpur. 
 
 **How did you start to get into computing? What was the first program that you wrote?** 
 
-> I didn’t have much clue about computing when I was choosing a major for myself. I knew that I like mathematics and I am good in logic. I liked accounting too, but I didn’t want to major in a field which so many people were already doing, so I had chosen something considerably new at that time. 
+> I didnâ€™t have much clue about computing when I was choosing a major for myself. I knew that I like mathematics and I am good in logic. I liked accounting too, but I didnâ€™t want to major in a field which so many people were already doing, so I had chosen something considerably new at that time. 
 
 > During the final year of my undergraduate study, I wrote an inventory system using Visual Basic as my first program for a friend in his food and beverage business. 
 
@@ -27,7 +27,7 @@ Ong Swee Sin started her coding career as a System Analyst with Truenet Systems 
 
 **What are the most important considerations in system architecture design?**
 
-> Higher adaptability and better code maintainability. We don’t build a 'once and for all' system, new features and changes are required following clients’ requests. Higher adaptability makes these easier to achieve as the software architecture creates a clear separation in areas of concern. Better code maintainability is important especially when the codes are to be maintained by different developers. With a visible and known structure of the code, it’s easier to extend the software or find bugs and anomalies. Better code maintainability can also achieve higher productivity at the same time.
+> Higher adaptability and better code maintainability. We donâ€™t build a 'once and for all' system, new features and changes are required following clientsâ€™ requests. Higher adaptability makes these easier to achieve as the software architecture creates a clear separation in areas of concern. Better code maintainability is important especially when the codes are to be maintained by different developers. With a visible and known structure of the code, itâ€™s easier to extend the software or find bugs and anomalies. Better code maintainability can also achieve higher productivity at the same time.
 
 **What are the challenges that a developer would face in her job?**
 
@@ -37,9 +37,9 @@ Ong Swee Sin started her coding career as a System Analyst with Truenet Systems 
 
 > A good boss, harmonious working environment, appreciation and recognition from my employer. I like the flexibility the company provided and the open-minded management approach. E-commerce is one of our core businesses in the earlier years of the company. I like shopping and I experienced how shopping online can also be so creative and so much fun.
 
-**What are the contributions of your company’s solutions to the industry?**
+**What are the contributions of your companyâ€™s solutions to the industry?**
 
-> We deliver better marketing results through data driven, personalization of the channels to the clients’ end customers using the best most affordable technology. We help our clients deliver better customer conversion, response, and retention.
+> We deliver better marketing results through data driven, personalization of the channels to the clientsâ€™ end customers using the best most affordable technology. We help our clients deliver better customer conversion, response, and retention.
 
 **What are the pros and cons of remote working from your personal experience?**
 
@@ -55,7 +55,7 @@ Ong Swee Sin started her coding career as a System Analyst with Truenet Systems 
 
 **How do you achieve work life balance? **
 
-> I think working from home helps in this aspect. I have more quality time; it’s like adding another two hours back to my day – time that can be invested in my children, exercise, hobbies, or preparing a family meal. 
+> I think working from home helps in this aspect. I have more quality time; itâ€™s like adding another two hours back to my day â€“ time that can be invested in my children, exercise, hobbies, or preparing a family meal. 
 
 **Would you please talk about your hobby in painting and your art project?**
 
@@ -63,4 +63,4 @@ Ong Swee Sin started her coding career as a System Analyst with Truenet Systems 
 
 **Is there any other food for thought that you would like to share?**
 
-> There are some who regret staying in the same industry or company for too long and when they realize it, they don’t have the courage to make a change due to their age. I would advise everyone to set some goals and actions on how to achieve them at the beginning of the year and evaluate it at the end of the year. This way, at least it reminds you something that you may have missed or overlooked during the year than you realized time flies and you don’t have the chance to go back. If you have missed out the same goal several years in a row perhaps it’s strong enough to alert you that something is not right, and it’s time for you to act accordingly. 
+> There are some who regret staying in the same industry or company for too long and when they realize it, they donâ€™t have the courage to make a change due to their age. I would advise everyone to set some goals and actions on how to achieve them at the beginning of the year and evaluate it at the end of the year. This way, at least it reminds you something that you may have missed or overlooked during the year than you realized time flies and you donâ€™t have the chance to go back. If you have missed out the same goal several years in a row perhaps itâ€™s strong enough to alert you that something is not right, and itâ€™s time for you to act accordingly. 
