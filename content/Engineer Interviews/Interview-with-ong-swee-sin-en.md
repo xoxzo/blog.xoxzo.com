@@ -2,7 +2,7 @@ Title: Ong Swee Sin Remote work benefits the worker and the company
 Date: 2019-02-27
 Slug: interview-with-ong-swee-sin 
 Lang: en 
-Tags: interview 
+Tags: interview; Women Who Code; 
 Thumbnail: images/OngSweeSin.jpg 
 Author: Ai Sin Chan 
 Summary: We talked to Ong Swee Sin who works remotely in software development
