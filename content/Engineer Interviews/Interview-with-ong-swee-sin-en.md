@@ -11,7 +11,7 @@ Ong Swee Sin started her coding career as a System Analyst with Truenet Systems 
 
 ![Interviewee Ong Swee Sin](/images/OngSweeSin.jpg)
 
-**What was your first computer? When was that?
+**What was your first computer? When was that?**
 
 > I was using the computer in the computer lab at my university before I owned one myself. When I was in the final year of my bachelor’s degree program, I bought an OEM computer from Plaza Low Yat, the IT lifestyle mall in Kuala Lumpur. 
 
