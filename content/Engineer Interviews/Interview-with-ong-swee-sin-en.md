@@ -7,7 +7,7 @@ Thumbnail: images/OngSweeSin.jpg
 Author: Ai Sin Chan 
 Summary: We talked to Ong Swee Sin who works remotely in software development
 
-Ong Swee Sin started her coding career as a System Analyst with Truenet Systems Sdn Bhd, and was offered a team lead position even as a fresh graduate. She is currently a Software Development Manager at [Redfish](https://www.redfishgroup.co.uk/), a UK based company with a development department in Malaysia that works remotely, and has been serving the company for 11 years.
+Ong Swee Sin started her coding career as a System Analyst with Truenet Systems Sdn Bhd, a small software house but has big clients like MAS and Panasonic. She was offered a team lead position even as a fresh graduate. She is currently a Software Development Manager at [Redfish](https://www.redfishgroup.co.uk/), a UK based company with a development department in Malaysia that works remotely, and has been serving the company for 11 years.
 
 ![Interviewee Ong Swee Sin](/images/OngSweeSin.jpg)
 
@@ -49,13 +49,16 @@ Ong Swee Sin started her coding career as a System Analyst with Truenet Systems 
 
 > We are using Agile Scrum Methodology, we receive work requests in the form of email and through our support system. Here in Malaysia, we have overlapping hours of 1-2 hours with UK and we will have a Scrum Call at the end of our day to update our work status or to hand over our work to our peers. We benefit from having 2 shifts a day in which we have an extended 14-16 hours production time a day thus providing faster deliveries. 
 
+**What are your challenges in remote management? How do you overcome it?**
+> One significant challenge of managing employees remotely is ensuring they accomplish all their job duties: on time, efficiently, and up to standard. We have a daily Scrum Call and time-tracking software to get the best sense of what our team is up to during the workday. Regular Skype call within the day is done too to have close interaction with the team members. I am giving my trust to the team members and what I am expecting is they must have a good sense of discipline and responsibility.
+
 **Are the developers in the industry fairly compensated in general?**
 
-> Yes. 
+> Yes. Personally I can compromise on the salary matter more when working from home than working in the office.
 
 **How do you achieve work life balance? **
 
-> I think working from home helps in this aspect. I have more quality time; it’s like adding another two hours back to my day – time that can be invested in my children, exercise, hobbies, or preparing a family meal. 
+> I think working from home helps in this aspect. I have more quality time; it’s like adding another two hours back to my day – time that can be invested in my children, exercise, hobbies, or preparing a family meal. Besides, I like travelling and I will plan for holiday trips whenever I have free time.
 
 **Would you please talk about your hobby in painting and your art project?**
 
