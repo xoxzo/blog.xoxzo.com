@@ -12,7 +12,7 @@ and [SMS delivery service, EZSMS](https://www.ezsms.biz/en/).
 
 Please let us inform you that the prefix `+813` (Japan) number provision will be terminated in our DIN service. 
 
-Our DIN (Dial In Numbers) is to subscribe a phone number and set an action URL for various choice that you want to do with the incoming calls, such as transferring the calls to your favorite phones, set an automated answering message and so on.
+Our DIN (Dial In Numbers) is to subscribe a phone number and set an action URL for the various choice that you want to do with the incoming calls, such as transferring the calls to your favorite phones, set an automated answering message and so on.
 
 Also, as in our [blog](https://blog.xoxzo.com/en/2017/05/24/text-to-speech-for-din/), you can prepare even more customized messages using TTS (text-to-speech) that enables you to reach your service user who has landline numbers and cannot cover with SMS messages. 
 
