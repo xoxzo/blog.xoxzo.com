@@ -282,6 +282,29 @@ article.article {
     color: #aaa;
 }
 
+.caption {
+    display: table;
+    margin-top: -5px;
+    font-size: .85rem;
+    color: #888;
+}
+
+a.caption {
+    text-decoration: underline;
+}
+
+a.caption:hover {
+    color: #333;
+}
+
+.footnote-ref::before {
+    display: inline-block;
+    content: " ";
+    margin-top: -75px;
+    height: 75px;
+    visibility: hidden;
+}
+
 .pg {
     margin-top: 40px;
 }

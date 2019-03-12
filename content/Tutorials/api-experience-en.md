@@ -2,7 +2,7 @@ Title: User experience on Xoxzo API (Part 1)
 Date: 2018-06-27 12:00
 Author: Ai Sin Chan
 Tags: sms; api user; api; tutorial; experience;
-Slug: User-experience-on-Xoxzo-API-Part-1
+Slug: user-experience-on-xoxzo-api-part-1
 Thumbnail: images/apiexp1.jpg
 Lang: en
 Summary: User experience on Xoxzo API
@@ -56,6 +56,8 @@ curl -u <API SID>:<Auth Token> --data-urlencode "sender=XoxzoBlog" --data-urlenc
 ![apiexp8](/images/apiexp8.jpg)
  
 The Message ID was displayed after my command. Subsequently I issued this command to [check the SMS status](https://blog.xoxzo.com/2017/11/15/checking-your-sms-status/). 
+
+curl -u <API SID>:<Auth Token> https://api.xoxzo.com/sms/messages/
 
 ![apiexp9](/images/apiexp9.jpg)
  

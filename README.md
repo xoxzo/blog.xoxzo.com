@@ -8,7 +8,7 @@ blog using Markdown and Pelican.
 
 ### Preparing your environment
 
-    virtualenv -p python3.4 venv
+    virtualenv -p python3 venv
     source venv/bin/activate
     pip install -r requirements.txt
     make build
@@ -87,6 +87,8 @@ like this:
     Author: Aiko Yokoyama
     Summary: We participated in the KOF 2016 and this is what we think
 
+Translated article should have the **same `Date` metadata** as the original text for SEO.
+
 #### Thumbnail Image
 
 To show particular thumbnail image when the article is shared, fill **Thumbnail** metadata with the image url, like this:
@@ -96,6 +98,7 @@ To show particular thumbnail image when the article is shared, fill **Thumbnail*
 Otherwise, the default image will appear.
 
 #### Theme Translations
+
 To translate string in templates, make the string translatable:
 
     {% trans %}Who we are ?{% endtrans %}
@@ -110,11 +113,22 @@ the string and then run:
     make compile_translation
     make html
 
-
-#### Author's footer
+#### Author's Footer
 
 You can find author's footer files to edit here:
 
     themes/xoxzo/templates/profile/
 
 Make sure that you are using exactly same author's name with profile file name. Otherwise Pelican cannot find the profile.
+
+### Image Caption
+
+If you want to add caption for images, use html tag with `caption` class instead of markdown syntax. 
+
+For example:
+
+    ![img-alt](/images/sample1.jpg)<a class="caption" href="https://sample-img-caption-link.html">Caption1</a>
+
+or
+
+    ![img-alt](/images/sample2.jpg)<span class="caption">Caption2</a>

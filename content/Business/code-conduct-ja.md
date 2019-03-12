@@ -1,5 +1,5 @@
 Title: SMSブロードキャストにおける行動規範
-Date: 2018-06-11 12:00
+Date: 2018-05-08 12:00
 Lang: ja
 Author: Ai Sin Chan
 Tags: api; 開発者; マーケット; 経済; sms; ビジネス; 行動規範; 道徳
@@ -55,4 +55,4 @@ MCMCは、受信契約者がオプトアウトできるようにすることを�
 - [SMSを採用する理由](https://blog.xoxzo.com/ja/2018/04/06/why-adopt-sms/)
 - [運用コストを削減しビジネスを促進するためにSMSを使用する方法](https://blog.xoxzo.com/ja/2018/04/23/boost-your-business/)
 - [公共サービスのためのSMS使用](https://blog.xoxzo.com/ja/2018/04/18/mobile-public-service/)
-- [サイバーセキュリティのためのSMS使用](https://blog.xoxzo.com/ja/2018/05/22/2fa-cyber-security/)
+- [サイバーセキュリティのためのSMS使用](https://blog.xoxzo.com/ja/2018/04/27/2fa-cyber-security/)

@@ -4,6 +4,7 @@ Lang: en
 Author: Kamal Mustafa
 Tags: python
 Slug: making-sense-python-app
+Summary: Don't worry and read this to remove your fear towards python
 
 1\. Those who new python, especially coming from PHP background, may look at Python as complex beast of stuff. Too many thing that look overly complex compared to what they used to in PHP.
 
