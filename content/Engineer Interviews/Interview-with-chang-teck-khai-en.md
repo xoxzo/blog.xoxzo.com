@@ -2,7 +2,7 @@ Title: Chang Teck Khai - In freelancing project management and business manageme
 Date: 2019-02-21 
 Slug: interview-with-chang-teck-khai 
 Lang: en 
-Tags: interview 
+Tags: interview; python;
 Thumbnail: images/ChangTeckKhai.jpg 
 Author: Ai Sin Chan 
 Summary: We talked to Chang Teck Khai about his work as a freelance programmer
