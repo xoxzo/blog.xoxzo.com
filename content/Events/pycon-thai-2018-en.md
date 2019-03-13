@@ -2,7 +2,7 @@ Title: [Xoxzo] Introducing PyCon Thailand 2018
 Date: 2018-06-18 10:00 
 Slug: pycon-thailand-2018
 Lang: en 
-Tags: 2018; pycon thailand; TH; pycon; thailand;
+Tags: 2018; pycon th; pycon; thailand;
 Author: Iqbal Abdullah
 Summary: Introducing the first PyCon in Thailand
 

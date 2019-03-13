@@ -2,7 +2,7 @@ Title: 電話受信システム 特許認定のお知らせ
 Date: 2017-12-19 14:00
 Slug: patent-granted-for-telephone-dial-in-numbers-technology
 Lang: ja
-Tags: 特許; Xoxzo;　電話電信システム; サーバ装置制御方法; DIN;
+Tags: 特許; xoxzo;　電話電信システム; サーバ装置制御方法; din; 2017;
 Author: Aiko Yokoyama
 Summary: Xoxzoは本年、電話受信システム、サーバ装置の制御方法及びプログラムにおいて、特許を認定されました。
 

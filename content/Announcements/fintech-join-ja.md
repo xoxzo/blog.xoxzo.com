@@ -2,7 +2,7 @@ Title: Xoxzoは Fintech協会に入会しました
 Date: 2018-06-01 12:00
 Slug: fintech-join
 Lang: ja
-Tags: Xoxzo; fintech; 2018;
+Tags: xoxzo; fintech; 2018;
 Author: Aiko Yokoyama
 Thumbnail: /images/client-logos/fintech-logo.png
 Summary: Fintech協会は、Fintech市場の活性化、および世界の金融業界における日本のプレゼンス向上に貢献する活動を行っています。XoxzoのAPIが今後、オンラインセキュリティその他の分野で、この業界で活躍する開発者方の活性化の後押しができるよう、望んでいます。

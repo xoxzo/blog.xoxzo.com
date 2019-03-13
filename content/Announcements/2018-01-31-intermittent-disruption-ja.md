@@ -2,7 +2,7 @@ Title: 【Xoxzo】音声APIにおける、緊急メンテナンスについて
 Date: 2018-02-01 09:00
 Slug: 20180131-intermittent-disruption
 Lang: ja
-Tags: Xoxzo; EZSMS; intermittent-trouble; 2018;
+Tags: xoxzo; ezsms; 障害報告; 2018;
 Author: Aiko Yokoyama
 Summary: 2018年1月31日、15時59分より16時39分まで、Xoxzoの音声APIにおいて、緊急メンテナンスを行った際、断続的に繋がりにくい状況がが発生しておりました。
 

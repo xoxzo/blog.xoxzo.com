@@ -2,7 +2,7 @@ Title: プライバシーマーク ３度めの更新完了
 Date: 2017-08-02 10:00
 Slug: privacy-mark-3rd-renewal
 Lang: ja
-Tags: PrivacyMark; Xoxzo;
+Tags: privacymark; xoxzo; Pマーク; 2017;
 Author: Aiko Yokoyama
 Summary: 今年Xoxzoは、３度めのプライバシーマーク更新をいたしました。
 
