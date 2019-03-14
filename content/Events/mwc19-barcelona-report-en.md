@@ -11,14 +11,14 @@ The yearly MWC (formerly World Mobile Congress) was held again in Barcelona for
 
 As MWC is basically the biggest conference within the mobile world, big name
 companies usually will use the conference as a place to make important new
-product annoucements. It is also a time to take notes and feel the pulse
+product announcements. It is also a time to take notes and feel the pulse
 of the industry and figure out where we're all trying to head.
 
 ![Hello MWC: Iqbal at MWC19]({filename}/images/mwc19/iqbal_selfie.jpg)
 
 This year's theme for MWC was **Intelligent Connectivity**, which encompasses
 the usage of artificial intelligence on our digital data for greater
-connectivity (think IoT and everything around us a connected items) for a better
+connectivity (think IoT and everything around us as connected items) for a better
 wellbeing. A key point in all this is the 5G technology, which will be the
 enabler to achieve this connectivity.
 
@@ -36,8 +36,8 @@ pushing contents fast enough to the mobile screen.
 
 ![Reinventing relationships]({filename}/images/mwc19/reinventing_relationships.jpg)
 
-Fuencisla, the country manager for Google Spain and Portugal started of
-by saying that _half of all traffic now_ are mobile web traffic. Regardless,
+Fuencisla, the country manager for Google Spain and Portugal started off
+by saying that _half of all traffic now_ are mobile web traffic. Regardless, the
 conversion rate for desktop is still twice on mobile. They found out that a one
 second delay during loading on a mobile website effects conversion by as much as
 20%. Half of your visitors will leave your mobile site if it takes more than 3
@@ -50,7 +50,7 @@ Fuencisla recommends these:
 - Using [Google's mobile site speed tester](https://www.thinkwithgoogle.com/intl/en-gb/feature/testmysite)
 
 Next, Jorg, the global head digital marketing for BMW group told the audience
-that they rebuilt their website from scratch with specifically two goals in mind: Increasing speed 
+that they rebuilt their website from scratch with specifically two goals in mind: Increasing speed
 and to create better contents that is helpful and entertaining to their
 audience. They use the techniques mentioned by Fuencisla previously.
 
@@ -58,7 +58,7 @@ Jorg reports that their CTR increased to 44% from mobile user, with 49%
 increase of visits from SEO and 3:13 time spent on site.
 
 After Jorg, Saul, the Director of Internet and Social Media for Telefonica reported that their
-A/B testing using AMP showed 70% reduction in loading times, with a 40% sales increase.
+A/B testing using AMP showed a 70% reduction in loading times, with a 40% sales increase.
 
 He mentions that your understanding of something drops 50% when you read something on a small
 screen as opposed to when you read the same thing on the paper.
@@ -78,7 +78,7 @@ the 2nd generation SMS service to act as a competitor to Over The Top (OTT)
 services like WhatsApp or Line.
 
 There was a [seminar session on RCS](https://www.mwcbarcelona.com/session/rcs-business-messaging-intelligently-transforming-consumer-experiences/),
-which was full house but I managed to get into to listen in anyway.
+which was a full house but I managed to get into to listen in anyway.
 
 The panelist was discussing on how OTT services are eating revenue away from the
 carriers and how carriers now need to fight back, and also focus on A2P
@@ -86,22 +86,22 @@ messaging which they have control.
 
 ![RCS Panelist]({filename}/images/mwc19/rcs_panelist.jpg)
 
-Petja from Deutsche Telekom says that RCS and SMS will co-exists. SMS will still
+Petja from Deutsche Telekom says that RCS and SMS will co-exist. SMS will still
 be relevant because the concept of RCS is 100% footprint, and even though we
 only have 15% coverage of RCS now, the rest will be covered by SMS as it is.
 
-Customer services will experience a shift when RCS takes of and becomes more
-common: Companies will try to take advantage of RCS and bridge the realtime
+Customer services will experience a shift when RCS takes off and becomes more
+common: Companies will try to take advantage of RCS and bridge the real-time
 communication to any channel the customer wants it to be, which will be RCS as
 it will be the most universal channel.
 
-Brian from Accuweather points to the fact that thet have hundreds of millions of
-users, but as a publisher is is difficult to make them download an app, but not
+Brian from Accuweather points to the fact that they have hundreds of millions of
+users, but as a publisher it is difficult to make them download an app, but not
 difficult to send a text message. If the mobile operators can hit their target
 of 800 million users for RCS, it will be awesome for them.
 
 As of currently, we have 4.7 billion SMS users versus 400 million RCS users.
-There is still a lot of work to be done, and the carriers needs to start making
+There is still a lot of work to be done, and the carriers need to start making
 serious efforts in rolling out RCS.
 
 Google also had a special booth to showcase usage of RCS by its partners during
@@ -109,14 +109,14 @@ MWC19:
 
 ![RCS booth]({filename}/images/mwc19/google-rcs-booth.jpg)
 
-RCS was shown in use cases like making reservation for train tickets and
+RCS was shown in use cases like making reservations for train tickets and
 contacting customer support which is handled by a bot.
 
 I also walked around in Hall 8.1 and took the opportunity to talk to some of the
 messaging aggregators who have booths there. They were either neutral or
 negative on having RCS as part of their products.
 
-**Takeaways: Even after the first annoucement of RCS in Mobile World Congress we
+**Takeaways: Even after the first announcement of RCS in Mobile World Congress we
 still have little pickup for RCS. Even some of the aggregators don't have plans
 or doesn't seem to be interested in having a serious push to have RCS in their
 pipeline. I'm not sure how serious the carriers are pushing RCS.**
@@ -129,7 +129,7 @@ latest technologies, dubbed _The Next Unicorn_
 ![The Next Unicorn]({filename}/images/mwc19/the_next_unicorn.jpg)
 
 - Light is a company that creates images from camera with special lenses. They
-  showedcased the Nokia 9 PeerView and how their technology can allow you to
+  showcased the Nokia 9 PeerView and how their technology can allow you to
   measure depth even from a 2D photograph. The keyword is _seeing like a human
   sees_ from the photographs.
 
@@ -168,8 +168,8 @@ One question this leads to is: How do we recognize and verify these skills? How
 do we make the visible? This is a problem which some companies are trying to
 solve. Some questions were raised:
 
-- How do you recognize and verify skill of talents so we can bring those around within the company
-- How about a machine readable presentation of skills?
+- How do you recognize and verify the skill of talents so we can bring those around within the company
+- How about a machine-readable presentation of skills?
 
 Other points of interest:
 
@@ -177,11 +177,11 @@ Other points of interest:
 
 ### Welcoming freelancers
 
-There are 160 million of freelancers in the US and EU. They are always broke and no organizations or policy makers or unions on their side.
-We need to be welcoming to freelancers by making them feel more human (in the freelancers context, e.g incorporate culture as these freelancers represent the company)
+There are 160 million freelancers in the US and EU. They are always broke and no organizations or policymakers or unions on their side.
+We need to be welcoming to freelancers by making them feel more human (in the freelancers' context, e.g incorporate culture as these freelancers represent the company)
 
 At the same time, we need to look into the people we already have for new skills and abilities.
-Employers need to be aware and recognize skills that has grown from current employees.
+Employers need to be aware and recognize skills that have grown from current employees.
 
 Practice the culture of celebration even on the small wins. Engagement and
 building a community makes it more human.
