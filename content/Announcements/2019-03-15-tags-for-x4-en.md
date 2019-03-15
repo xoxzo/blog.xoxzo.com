@@ -14,6 +14,14 @@ You can even attach multiple tags to a single API call:
 
 Example:
 
+    #!/bin/sh
+    # You should get SID and AUTH_TOKEN from XOXZO console
+    curl -u $SID:$AUTH_TOKEN \
+         --data-urlencode 'sender=+818011112222' \
+         --data-urlencode 'recipient=<recipenet phone number>' \
+         --data-urlencode 'message=Hello world' \
+         --data-urlencode 'tags=tag1,tag2,tag3' \
+         https://api.xoxzo.com/sms/messages/
 
 These tags data will be attached to your SMS and Voice API calls that you make,
 and can be retrieved via the Check SMS Status API and the Checking Call Status
@@ -21,6 +29,27 @@ API respectively.
 
 Example:
 
+    #!/bin/sh
+    # You should get SID and AUTH_TOKEN from XOXZO console
+    curl -u $SID:$AUTH_TOKEN \
+        https://api.xoxzo.com/sms/messages/7sBZmVznoXJap2wkMIlihgPKqjdOGS1f/
+
+Return value
+
+     {
+        "sender": "8011112222",
+        "msgid": "7sBZmVznoXJap2wkMIlihgPKqjdOGS1f",
+        "status": "DELIVERED",
+        "cost": 10,
+        "sent_time": "2019-03-15 08:29:09",
+        "tags": [
+            "tag1",
+            "tag2",
+            "tag3"
+        ],
+        "url": "https://api.xoxzo.com/sms/messages/7sBZmVznoXJap2wkMIlihgPKqjdOGS1f/",
+        "recipient": "<recipenet phone number>>"
+    }
 
 You can use the tags data to categorize your usage of our API, for example,
 using different tags for different marketing campaigns or block of customers to
