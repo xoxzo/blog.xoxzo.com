@@ -4,6 +4,7 @@ Slug: mwc-2019-barcelona
 Lang: en
 Tags: 2019; mwc; rcs; 5g; barcelona;
 Author: Iqbal Abdullah
+Thumbnail: images/mwc19/keynote_ai_innovation_gurria.jpg
 Summary: Iqbal went to Barcelona at the end of February to attend MWC19, and he wrote what he saw.
 
 The yearly MWC (formerly World Mobile Congress) was held again in Barcelona for
