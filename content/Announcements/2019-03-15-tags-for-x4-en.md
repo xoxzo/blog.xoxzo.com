@@ -18,7 +18,7 @@ Example:
     # You should get SID and AUTH_TOKEN from XOXZO console
     curl -u $SID:$AUTH_TOKEN \
          --data-urlencode 'sender=+818011112222' \
-         --data-urlencode 'recipient=<recipenet phone number>' \
+         --data-urlencode 'recipient=<recipient>' \
          --data-urlencode 'message=Hello world' \
          --data-urlencode 'tags=tag1,tag2,tag3' \
          https://api.xoxzo.com/sms/messages/
@@ -48,7 +48,7 @@ Return value
             "tag3"
         ],
         "url": "https://api.xoxzo.com/sms/messages/7sBZmVznoXJap2wkMIlihgPKqjdOGS1f/",
-        "recipient": "<recipenet phone number>>"
+        "recipient": "<recipient>"
     }
 
 You can use the tags data to categorize your usage of our API, for example,
