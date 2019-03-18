@@ -24,8 +24,8 @@ Example:
          https://api.xoxzo.com/sms/messages/
 
 These tags data will be attached to your SMS and Voice API calls that you make,
-and can be retrieved via the Check SMS Status API and the Checking Call Status
-API respectively.
+and can be retrieved via the [Check SMS Status API](https://docs.xoxzo.com/en/sms.html#check-sms-status-api)
+and the [Checking Call Status API](https://docs.xoxzo.com/en/voice.html#checking-call-status) respectively.
 
 Example:
 
@@ -34,7 +34,7 @@ Example:
     curl -u $SID:$AUTH_TOKEN \
         https://api.xoxzo.com/sms/messages/7sBZmVznoXJap2wkMIlihgPKqjdOGS1f/
 
-Return value
+Returned data :
 
      {
         "sender": "8011112222",
@@ -57,3 +57,6 @@ differentiate between them and different messaging that you use.
 
 In the future, we plan to make it easier for you to visualize how and how
 effective the different types of your messages and calls are, using these tags data.
+
+For more information on how to use the **tags** parameter, please refer to our [Send SMS
+Messages API](https://docs.xoxzo.com/en/sms.html#send-sms-messages-api) and [Simple Playback Voice API](https://docs.xoxzo.com/en/voice.html#simple-playback-api)
