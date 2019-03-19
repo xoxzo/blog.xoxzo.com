@@ -55,7 +55,7 @@ You can use the tags data to categorize your usage of our API, for example,
 using different tags for different marketing campaigns or block of customers to
 differentiate between them and different messaging that you use.
 
-In the future, we plan to make it easier for you to visualize how and how
+In the future, we plan to make it easier for you to visualize how
 effective the different types of your messages and calls are, using these tags data.
 
 For more information on how to use the **tags** parameter, please refer to our [Send SMS
