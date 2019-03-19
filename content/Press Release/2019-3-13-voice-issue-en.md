@@ -13,7 +13,7 @@ our Voice functionality was unavailable from 6AM to 10.31AM (JST) on March 13, 2
 
 During this time, our Voice functionalities on both incoming calls and outgoing calls, 
 [Xoxzo Voice APIs](https://www.xoxzo.com/en/about/voice-api/)
-and [Dial in Numbers(DIN)](https://www.xoxzo.com/en/about/dial-in-api/).
+and [Dial in Numbers(DIN)](https://www.xoxzo.com/en/about/dial-in-api/) was not working.
 
 This is caused by our regular maintenance process and we have applied the possible improvement to future issue prevention. 
 
