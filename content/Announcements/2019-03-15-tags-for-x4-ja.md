@@ -27,7 +27,7 @@ Summary: tags パラメーターを使って、APIコールをカテゴリー分
 
 ご利用のSMS配信およびVoiceのAPIコールに、この **tags** がご利用いただけます。
 
-この **tags** は、[SMSの配信状態を確認するAPI](https://docs.xoxzo.com/ja/sms.html#check-sms-status-api) や、
+このタグは、[SMSの配信状態を確認するAPI](https://docs.xoxzo.com/ja/sms.html#check-sms-status-api) や、
 [プレーバック発信ステータス確認](https://docs.xoxzo.com/ja/voice.html#checking-call-status) にて、それぞれ取得することができます。
 
 例:
