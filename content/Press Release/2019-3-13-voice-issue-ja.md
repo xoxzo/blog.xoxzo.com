@@ -2,7 +2,7 @@ Title: 【Xoxzo】Voice機能におけるサービス停止について
 Date: 2019-03-20 12:00
 Slug: 3-13-voice-issue
 Lang: ja
-Tags: PR; 2019; Voice; API; dial in numbers; ダイアルインナンバー;
+Tags: pr; 2019; voice; api; dial in numbers; ダイアルインナンバー;
 Author: Aiko Yokoyama
 Summary: 3月13日付けで発生しました、Voice機能における障害についてご報告させていただきます。
 

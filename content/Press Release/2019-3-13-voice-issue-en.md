@@ -2,7 +2,7 @@ Title: [Xoxzo]Issue on Voice functionality
 Date: 2019-03-20 12:00
 Slug: 3-13-voice-issue
 Lang: en
-Tags: PR; 2019; Voice; API; dial in numbers; 
+Tags: pr; 2019; voice; api; dial in numbers; 
 Author: Aiko Yokoyama
 Summary: We apologize for any inconvenience caused by this issue
 
