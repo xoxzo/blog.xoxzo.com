@@ -1,6 +1,6 @@
 Title: My favorite tools to resolve git merge conflicts
 Lang: en
-Date: 2019-03-04 09:00
+Date: 2019-03-29 09:00
 Author: Arthur Sultanbekov
 Tags: git, merge, conflict, resolve, editor, vim, vimdiff, sublime-merge, vscode
 Slug: my-favorite-tools-to-resolve-git-merge-conflicts
