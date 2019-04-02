@@ -9,8 +9,7 @@ Summary: 第五世代モバイル通信技術の今とこれからをのぞい�
 
 世界各地で数年前から行われてきた以下の一連の試みを経て、最初のGSMシステムの発表から約30年となる2020年頃、新しい5Gシステムが発表されそうだ。
 
-早くも2012年には、ITU-R (国際電気通信連合無線通信部門) が2020年以降の[国際移動通信システム]
-(https://www.itu.int/en/ITU-R/study-groups/rsg5/rwp5d/imt-2020/Pages/default.aspx) に取り組むための活動、
+早くも2012年には、ITU-R (国際電気通信連合無線通信部門) が2020年以降の [国際移動通信システム](https://www.itu.int/en/ITU-R/study-groups/rsg5/rwp5d/imt-2020/Pages/default.aspx) に取り組むための活動、
 IMT-2020を立ち上げている。それによると下り20 Gbps、上り10 Gbpsのそれぞれのデータ転送速度をはじめ、様々な要件が含まれている。
 これが5Gの要件の基盤となっている。
 
@@ -51,8 +50,7 @@ mmWave周波数帯の電波の物理的性質のため、移動通信のこれ�
 ファーウェイはMate 30もしくはP30とP30 Proを5G携帯電話にすること、Samsung電子はGalaxy S10に5G機能が搭載されることをそれぞれ発表した。
 LGとOnePlusもそれぞれの5G スマートフォンを発売する。これらはすべて2019年上半期に登場する見込みになっている。
 
-2017年5月18日には、セルコムによる[マレーシア初の５G試験]
-(https://www.ericsson.com/en/press-releases/2017/5/celcom-teams-up-with-ericsson-to-deliver-malaysias-first-5g-trial) 
+2017年5月18日には、セルコムによる[マレーシア初の５G試験](https://www.ericsson.com/en/press-releases/2017/5/celcom-teams-up-with-ericsson-to-deliver-malaysias-first-5g-trial) 
 がエリクソンの協力のもと18Gbpsのデータ転送速度を達成し、完了した。
 これは、28GHz周波数帯で実施された東南アジア初の5G試験でもあった。これは2022年もしくは2023年ごろの商用化が見込まれている。
 
