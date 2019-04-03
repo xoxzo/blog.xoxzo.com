@@ -2,7 +2,7 @@ Title: Patent granted for Xoxzo's Dial In Numbers technology
 Date: 2017-12-19 14:00
 Slug: patent-granted-for-telephone-dial-in-numbers-technology
 Lang: en
-Tags: patent; Xoxzo; incoming-calls; DIN; 
+Tags: patent; xoxzo; incoming calls; din; 2017;
 Author: Aiko Yokoyama
 Summary: Xoxzo was granted a patent for the system to receive and process incoming calls.
 

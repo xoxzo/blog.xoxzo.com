@@ -1,5 +1,5 @@
 Title: Pythonの隠れた武器 - PyCon MY 2016 
-Date: 2017-04-10 10:00 
+Date: 2016-09-10 10:00
 Author: Iqbal Abdullah 
 Tags: Python; community; pycon my; 2016;
 Lang: ja
