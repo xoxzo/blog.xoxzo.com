@@ -1,7 +1,7 @@
 Title: Sharing Our Working Environment
 Date: 2018-08-02 14:00
 Author: Zaki Akhmad
-Tags: environment; work; tools; python; zsh; vscode; team-camp;
+Tags: environment; work; tools; python; zsh; vscode; teamcamp; 2018;
 Slug: sharing-our-working-environment
 Lang: en
 Summary: Looking at others working environment during our team camp might improve productivity

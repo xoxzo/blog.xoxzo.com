@@ -1,7 +1,7 @@
 Title: Xoxzoの働き方と環境をご紹介
 Date: 2018-08-02 14:00
 Author: Zaki Akhmad
-Tags: 環境; 仕事; ツール; python; zsh; vscode; チームキャンプ;
+Tags: 環境; 仕事; ツール; python; zsh; vscode; チームキャンプ; 2018;
 Slug: sharing-our-working-environment
 Lang: ja
 Summary: 生産力向上のため、チームキャンプでメンバーの仕事環境を覗いてみました。
