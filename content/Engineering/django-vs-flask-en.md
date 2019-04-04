@@ -18,7 +18,8 @@ Frameworks provide functionality in their code or through extensions to perform 
 * Database connection configuration and persistent data manipulation through an object-relational mapper (ORM)
 * Web security against Cross-site request forgery (CSRF), SQL Injection, Cross-site Scripting (XSS) and other common   malicious attacks
 * Session storage and retrieval
-* Now all frameworks do not have all the functionalities listed above. Some frameworks take the "batteries-included" approach where everything possible comes bundled with the framework while others have a minimal core package that can extended later. Here is where the approach of ‘Flask’ and ‘Django’ differ.
+
+Now all frameworks do not have all the functionalities listed above. Some frameworks take the "batteries-included" approach where everything possible comes bundled with the framework while others have a minimal core package that can extended later. Here is where the approach of ‘Flask’ and ‘Django’ differ.
 
 # What are 'Flask' and 'Django' exactly?
 ##### Flask: 
