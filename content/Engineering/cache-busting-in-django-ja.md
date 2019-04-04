@@ -65,7 +65,7 @@ from django.contrib.staticfiles.storage import ManifestFilesMixin
 class S3BotoStorage(S3BotoStorageOrig):
     ...
 
-class StaticStorage(ManifestFilesMixin, S3BotoStorage):
+class ManifestS3Storage(ManifestFilesMixin, S3BotoStorage):
     pass
 ```
 
