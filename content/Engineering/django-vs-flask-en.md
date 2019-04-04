@@ -49,6 +49,7 @@ Another key factor for choosing a framework to work with is the way the communit
 * Dropbox
 
 Also Django beats Flask in two counts. Django is so popular that it has a large community of django developers who come together once, or maybe twice a year for **DjangoCon** which is their own conference. Unfortunately Flask doesn’t have any equivalent conference.Also, Flask does not have any corporate sponsors in the same league as the ones with Django like
+
 * Microsoft
 * Eventbrite
 * Mozilla
