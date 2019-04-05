@@ -6,7 +6,7 @@ Slug: django-vs-flask
 Lang: en
 Summary: Flask vs Django, the battle of frameworks can be a bit confusing to people who start off. This is a guide for making an informed decision about the right web framework to work with.
 
-I would like to congratulate you for deciding to develop web app using python. Python is currently one of the most popular programming languages around, favoured for its clean, readable code, and flexibility. It is also in high demand because of its wide range of web frameworks that can take your project from idea to reality, in the fastest time possible. Lets first address the most fundamental question.
+I would like to congratulate you for deciding to develop web apps using python. Python is currently one of the most popular programming languages around, favored for its clean, readable code, and flexibility. It is also in high demand because of its wide range of web frameworks that can take your project from idea to reality, in the fastest time possible. Let's first address the most fundamental question.
 
 # What are web frameworks?
 A web framework is a code library that makes web development faster and easier by providing common patterns for building reliable, scalable and maintainable web applications. What that means is that a web framework takes away all the boring and repetitive tasks from you and lets you concentrate on building what you want to build. Pretty cool stuff!  
@@ -19,16 +19,16 @@ Frameworks provide functionality in their code or through extensions to perform 
 * Web security against Cross-site request forgery (CSRF), SQL Injection, Cross-site Scripting (XSS) and other common   malicious attacks
 * Session storage and retrieval
 
-Now all frameworks do not have all the functionalities listed above. Some frameworks take the "batteries-included" approach where everything possible comes bundled with the framework while others have a minimal core package that can extended later. Here is where the approach of ‘Flask’ and ‘Django’ differ.
+Now not all frameworks have all the functionalities listed above. Some frameworks take the "batteries-included" approach where everything possible comes bundled with the framework while others have a minimal core package that can be extended later. Here is where the approach of ‘Flask’ and ‘Django’ differ.
 
 # What are 'Flask' and 'Django' exactly?
 ##### Flask: 
-As they describe themselves(From PyPi) - Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It began as a simple wrapper around Werkzeug and Jinja and has become one of the most popular Python web application frameworks.
+As they describe themselves (From PyPi) - Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It began as a simple wrapper around Werkzeug and Jinja and has become one of the most popular Python web application frameworks.
 Now what that basically means is that Flask implements a bare-minimum and leaves the bells and whistles to add-ons or to the developer. 
 ##### Django:
-For Django, they describe themselves(From PyPi) - Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. It is a web application framework with a "batteries-included" philosophy. The principle behind batteries-included is that the common functionality for building web applications should come with the framework instead of as separate libraries. Thus the common functionalities listed above are all available in Django to be quickly implemented.
+For Django, they describe themselves (From PyPi) - Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. It is a web application framework with a "batteries-included" philosophy. The principle behind batteries-included is that the common functionality for building web applications should come with the framework instead of as separate libraries. Thus the common functionalities listed above are all available in Django to be quickly implemented.
 
-Now you might be thinking why use Flask when Django already provides all the features out of the box. The answer lies in what you are trying to build. Flask provides simplicity, flexibility and fine-grained control. It is unopinionated (it lets you decide how you want to implement things). Thus if you are building a very simple web app or you need to customize all aspects of the app, Flask is a better option. However, the batteries included in Django makes it easier for Django developers to accomplish common web development tasks like user authentication, URL routing and database schema migration. Also, Django accelerates custom web application development by providing built-in template engine, ORM system, and bootstrapping tool. Sounds confusing? Lets dig into this further and let you make your own choice.
+Now you might be thinking why use Flask when Django already provides all the features out of the box. The answer lies in what you are trying to build. Flask provides simplicity, flexibility and fine-grained control. It is unopinionated (it lets you decide how you want to implement things). Thus if you are building a very simple web app or you need to customize all aspects of the app, Flask is a better option. However, the batteries included in Django makes it easier for Django developers to accomplish common web development tasks like user authentication, URL routing and database schema migration. Also, Django accelerates custom web application development by providing built-in template engine, ORM system, and bootstrapping tool. Sounds confusing? Let's dig into this further and let you make your own choice.
 
 # How do they match up in terms of performance with each other? 
 ##### Performance Benchmarks:
@@ -62,7 +62,7 @@ Django has been around for longer — it was first released in 2005, while Flask
 Thus we can see that overall Django has more community engagement than Flask.
 
 # Learning curve - Django vs Flask:
-This is one aspect that Flask beats Django by quite a distance. Flask being a lightweight and barebones framework is easier to grasp than Django. However the learning curve for Django can be rewarding as it makes your job easier later. Let’s try to build a ‘Hello World’ app in both these frameworks and you can be the judge.
+This is one aspect that Flask beats Django by quite a distance. Flask being a lightweight and barebone framework is easier to grasp than Django. However the learning curve for Django can be rewarding as it makes your job easier later. Let’s try to build a ‘Hello World’ app in both these frameworks and you can be the judge.
  
 ##### “Hello Flask”
 A good practise is to isolate your python environment before installing any packages. This be done using virtual environments. My favourite tool to get this done is ‘virtualenv’. Assuming you are using a debian based distro like Ubuntu, you can do this to install the package -
@@ -71,7 +71,7 @@ A good practise is to isolate your python environment before installing any pack
 sudo apt-get install virtualenv
 ```
 
-Now that we have virtualenv installed, lets create a virtual environment and activate it.
+Now that we have virtualenv installed, let's create a virtual environment and activate it.
 ```
 virtualenv -p python3 venv/
 source venv/bin/activate
