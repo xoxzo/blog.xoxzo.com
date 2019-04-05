@@ -13,7 +13,7 @@ Spring Team Camp.
 
 # Spring 2019 is here
 
-The Spring Team Camp is an important ocassion for Xoxzo. It is a time when we
+The Spring Team Camp is an important occassion for Xoxzo. It is a time when we
 discuss how we did in the previous year, what we plan to do and where
 do we want to head to for the new year.
 
@@ -21,7 +21,7 @@ This year our team camp was held in [Ginowan, Okinawa](https://en.wikipedia.org/
 We managed to get everyone together this year, including Aiko's two daughters joining
 us because it's the school holidays.
 
-For this team camp, we will be having sessions where everyone is joining, and
+For this team camp, we will be having sessions where everyone is joining, and the
 engineering team only sessions for the second part of the camp.
 
 We stayed at the [Laguna Garden Resort hotel](https://www.laguna-garden.jp/) for the week. It is a pretty
@@ -32,11 +32,11 @@ restaurants within the hotel compound itself.
 
 ## Day 1
 
-We kicked of the team camp on Day 1 by gathering at [Ginowan Marine Support Center](https://maririne.jp/)'s meeting room
-to discuss and decide about out Annual Open Source Grant receipients. For more
+We kicked off the team camp on Day 1 by gathering at [Ginowan Marine Support Center](https://maririne.jp/)'s meeting room
+to discuss and decide about our Annual Open Source Grant recipients. For more
 information on [our Annual Open Source Grant program]({filename}/Community/annual-opensource-grant-2018-en.md), read our blog post [here]({filename}/Community/annual-opensource-grant-2018-en.md).
 
-At kick-off, I made it clear to everyone that the purpose of the teamcamp is _not
+At kick-off, I made it clear to everyone that the purpose of the team camp is _not
 to make decisions_ but to meet one another, get to know one another and enjoy
 each other's company. Decisions can always be made during our normal online
 calls.
@@ -53,7 +53,7 @@ We first stopped at the UNESCO World Heritage Site, [Shurijo Castle](https://en.
 We try to make it a point to visit significant local historical sites, or
 getting involved in some sort of cultural activity with the locals where we have
 team camps. We believe that interacting with different people, cultures and understanding history
-allows us to better emphatize with our customers and how they will use our products.
+allows us to better empathize with our customers and how they will use our products.
 
 The view from Shurijo Castle was also breathtaking.
 ![View from Syuri Castle]({filename}/images/oka-teamcamp-2019/IMAG2930-shisa-EFFECTS.jpg)
@@ -117,9 +117,9 @@ Overall the whole team really enjoyed Okinawa, with its balmy weather and coolin
 Okinawa also has a decent amount of co-working spaces to host you if you're
 nomad like us.
 
-Depending on your nationality though, Japan might be a difficult country to visit due to it's
+Depending on your nationality though, Japan might be a difficult country to visit due to its
 visa requirements. As most of our team members are South East Asia and South Asia nationals,
-we hired a judicial scrivener specializing on immigration regulations to help us arrange visas
+we hired a judicial scrivener specializing in immigration regulations to help us arrange visas
 for our team members. This helped a lot to reduce the stress and smoothing out the process.
 
 We'll see you again at our next team camp, somewhere else on the planet!
