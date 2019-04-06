@@ -85,6 +85,10 @@ We rented the meeting rooms at [GWave](http://www.gbic.jp/), an incubation
 center, co-working space and cafe all-in-one, which is around 20 minutes walk
 from our hotel.
 
+But sometimes discussions got too lengthy and we had to continue in our hotel
+rooms.
+![Xoxzo meeting in hotel room]({filename}/images/oka-teamcamp-2019/meeting-hotem-room-smaller.jpg)
+
 ## Day 3
 
 The third day continued with sessions which couldn't fit into the second day
@@ -116,6 +120,7 @@ their say and also managed to get their thoughts across.
 Overall the whole team really enjoyed Okinawa, with its balmy weather and cooling sea breeze.
 Okinawa also has a decent amount of co-working spaces to host you if you're
 nomad like us.
+![Views of Okinawa]({filename}/images/oka-teamcamp-2019/views-of-okinawa-collage.jpg)
 
 Depending on your nationality though, Japan might be a difficult country to visit due to its
 visa requirements. As most of our team members are South East Asia and South Asia nationals,
