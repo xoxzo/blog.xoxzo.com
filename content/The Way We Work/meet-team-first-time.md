@@ -1,7 +1,7 @@
 Title: What to expect when you meet your remote team first time
 Date: 2019-03-29 12:01
 Author: Surya Banerjee
-Tags: teamcamp; meeting; bonding; remoteworking; experience; learning; remote;
+Tags: teamcamp; meeting; bonding; remoteworking; experience; learning; remote; 2019;
 Slug: expect-meet-team-first-time
 Lang: en
 Summary: I was told that there would be a team camp at JB where we would discuss strategy and work together. It was an excited proposition to be a part of the team camp where I could meet finally everyone in person
