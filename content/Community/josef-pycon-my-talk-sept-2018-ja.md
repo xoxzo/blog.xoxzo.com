@@ -11,69 +11,46 @@ Summary: PyCon MY 2018 にて登壇し、Python のトレーニングを行っ�
 )でも言及されていますが、役に立ちそうな補足となるといいと思っています。
 PyCon MYでお話しした内容のいくつかを、ここでも読者の皆さんに共有しようと思います。
 
-トークは技術的なものではなく、初心者にも分かりやすいものです。
+トークは技術的なものではなく、初心者にも分かりやすいものでした。
 想定していた対象は教育者、技術グループや、トレーニングを運営している個人や組織などでした。
-仕事で日常的に行なっているのかもしれませんし、誰かの交代要員や新しいチームメンバーを一度だけトレーニングことがあるか、という感じでしょうか。
-組織やコミュニティの一員としてであれば、知識を共有するために、招かれたりタスクを振られたりしたのかもしれません。
-誰しもが突然、何らかの理由で何かしらのトレーニングを実施する必要に迫られることがあります。
+普段から仕事で使っていたり、交代要員や新規入社で一回トレーニングことがあるか、という感じでしょうか。
+組織やコミュニティの一員として、だとすれば、知識共有のため、招かれたとか、参加権を振られたりしたのかもしれません。
+誰しもが突然、何らかの理由で何かしらのトレーニングの必要に迫られることがあるでしょう。
 参加者は無料か、自腹、または会社持ちの費用で来ているのかもしれません。
 参加者がトレーニングに料金を支払う場合、人数が増える事はより多くの収益を意味します。
-会社に何らかの大きな変化が起きれば、巨大な部屋に参加者を迎えるなんてことがあるかもしれません。
+会社に大変革が起き、巨大な部屋に参加者を迎えて、なんてことがあるかもしれません。
 準備しておくに越したことはありません。
 
-何にせよ、柔軟性があることは参加者にとって有益です。
-より大きなグループでのチャレンジは、より問題が起こりやすいと言うことです。
-人が増えるとより多くの質問がなされますし、より多くのエラーが起きるということです。
-誰かが単に話について行くのに時間がかかることもあります。
-そんな人がたまたま、特定のイベントに沢山いるということもあります。
-クラスが大きいほど、管理は難しく、物事は誤った方向に行きやすくなります。
-これは、大きなクラスが得られる全体的な品質を低下させてしまいます。
-クラスのサイズを大きくしたければ、届けられる価値にも同時に注意しなければなりません。
-スタートアップの世界や技術サークルなどでいずれ誰かが「それはスケールするのか？」という疑問を持つことになります。
-
-In any case, having flexibility will be beneficial to your attendees. 
-The challenge with larger groups is that more problems can arise. 
-More people means more questions are asked, and more errors happen. 
-Sometimes, it just takes longer for someone to follow along. 
-Sometimes, it just so happens that there's a lot of that kind of person in a particular event. 
-The larger the class, the harder it is to manage and the bigger the chances of things going wrong. 
-This lowers the overall quality received by larger classes. 
-If we want to increase the size of the class, we sill want to maintain the value we deliver. 
-In startup land or in our tech circles someone eventually asks the question "Does it scale?"
+何にせよ、柔軟性があることは参加者にとってよいことです。
+より大きなグループでのチャレンジは、より問題が起こりやすい、と言うことです。
+人が増えると質問も増え、エラーもより多く起きるということです。
+中には、単に話について行くのにも時間がかかる、ということもあります。
+そんな人がたまたま、あるイベントに沢山参加した、ということもあります。
+グループが大きいほど管理は難しく、脱線しがちです。
+これでは、大きなグループの参加者が質の高いトレーニングを受けられなくなるということです。
+グループのサイズを大きくしたければ、届ける内容の価値にも同時に注意しなければならないのです。
+スタートアップの世界や技術サークルなどで、いずれ誰かが「価値があるのか？」という疑問を持つことになります。
 
 ![Josef トーク]({filename}/images/pycon-my-2018/IMG_9595.JPG)
 
-Here are some of the insights from my experience. 
-They can be applied to other things but for my purpose, I improved how I conduct trainings, 
-which allowed me to increase the number of attendees I can handle while maintaining the quality. 
-The insights I gained from my training practice can be summed up into:
+自分の経験から学んだことがあります。このことだけに限りませんが、
+わたしはトレーニングのやり方を改善し、トレーニングの品質を保ちつつ、扱える参加者数を増やしていくことができました。
+トレーニング経験から得た知見をまとめると、以下のようなものです。
 
-これらは私の経験から得られたいくつかの知見です。
-これらは私の意図を別にすれば他のことにも応用できますが、私はトレーニングのやり方を改善し、
-これにより品質を担保しながら扱える参加者数を増やしていくことができました。
-私がトレーニングの経験から得た知見をまとめると、以下のようなものです。
-
-* Better tools - there's a saying about using the right tool for the job
-* Rethink methods - tools we use allow us to change the way we do our work
-* Empower individuals - there's a different between treating the class as one unit vs each attendee as a unit
-* Interaction is essential - make social interaction work for you, not disrupt you
-
-•	より良いツール - 仕事に適した道具を使うことに関する格言があります
-•	やり方を再考する - 利用するツールが仕事のやり方を変えます
-•	個人をエンパワーする - クラスを一つの単位で扱うかそれぞれの参加者単位で捉えるかには違いがあります
-•	双方向性は不可欠 - 社会的相互作用を利用して、邪魔はさせない
+•	より良いツール - その作業に適したツールを使うこと、という格言もあります
+•	やり方を再考する - 利用するツールによって、作業方法を変えることが可能です
+•	個人をエンパワーする - クラスを一つの単位で扱うかそれぞれの参加者単位で捉えるかで、違ってきます
+•	双方向性は不可欠 - 社交的相互関係は、邪魔になるのではなく、助けになるのです
 
 
 ![Josef トーク]({filename}/images/pycon-my-2018/IMG_9612.JPG)
 
-私の使うメインのツールはJupyter notebookです。これは教育用として素晴らしいと思います。多くの講演やデモがこれを利用し、インタラクティブなコードスニペットと共に口述を行なっています。プログラミングを教えるのに使う場合には、最初から全てをタイプしたり、前にいる誰かの話を聞いたりする必要が無くなるので進行がスピーディーになります。参加者はコードをより快適に試すことができ、より早いフィードバックループが得られます。
-The main tool I use is the Jupyter notebook. I think it's great for teaching. Many talks and demos use it to tell a narrative together with interactive code snippets. When used to teach programming, it speeds things up by removing the need to type everything from scratch and the need to listen to someone in front. It also lets participants play with code more comfortably and let them have a faster feedback loop.
+私の使うメインのツールはJupyter notebookです。これは教育用として素晴らしいと思います。多くの講演やデモに使われ、インタラクティブなコードスニペットと共に口述を行なっています。プログラミングを教えるのに使う場合には、最初から全てをタイプしたり、前の誰かの話を聞いたりする必要が無くなるので進行がスピーディーになります。参加者はコードをより快適に試すことができ、より早いフィードバックループが得られるのです。
 
-クラスの運営の仕方という意味では、私はステップバイステップでガイドに沿って進められるnotebookのレポジトリを用意すること以外に、バグの取り扱いと問題の回避方法を彼らに与える準備をします。こうすると彼らはより確信を持って学ぶことができるのです。私は簡単には壊れないといって安心させますが、もしものために、リセットボタンもつけます。迷子になったり、何をすれば良いかわからないと彼らが感じることは無いようにします。ある時点で、彼らは彼ら自身でnotebookの使い方を把握します。私が前方で話すのを聞く代わりに、新しいnotebookを使って自分のペースで進めるように奨励し、近くに行った時に彼らが質問できるよう私は歩き回ります。クラスは私の話を聞いているのではなく、頭を下げてnotebookに取り組む人々の集団となります。私は彼らのフロー状態を邪魔したり、私が前で話すのを待たせたりして妨害しません。この方法で、私は歩き回って個々人への指導に集中することもできます。
-In terms of how I conduct the class, aside from preparing a repository of notebooks that let them progress step by step with my guidance, I prepare them by giving them ways to handle bugs and find their way around problems. This way, they have more confidence while learning. I assure them it won't be easy to break things, but just in case, there's a reset button. I just make sure that they don't feel like they're lost or don't know what to do. At some point, they get a good grasp of using the notebooks on their own. Instead of listening to me speaking in front, I encourage them to go ahead with the other notebooks at their own pace and I get to walk around, which becomes an opportunity for some people to ask me questions when I'm near. The class turns into a group of people with their heads down, working on noteoboks instead of listening to me. I don't hold them back by disrupting their flow or making them wait while I speak in front. This way I can also go around and focus on giving individual guidance.
+クラスの運営の仕方という意味では、私のガイドに沿って、一歩一歩進められるnotebookのレポジトリを用意すること以外に、バグの取り扱いと問題の回避方法を参加者へ与える準備をします。こうするとより自信を持って学ぶことができるのです。私は簡単には壊れないけれど、もしものために、リセットボタンがあると言って安心させます。迷子になったり、何をすれば良いかわからないと彼らが感じることは無いようにします。ある時点で、参加者自身でnotebookの使い方を把握しているか確認します。私が前方で話すのを聞く代わりに、新しいnotebookを使って自分のペースで進めさせ、近くに行った時に彼らが質問できるよう、私は歩き回るのです。クラスは私の話を聞いているのではなく、頭を下げてnotebookに取り組む人々の集団となります。私は彼らのフロー状態を邪魔したり、私が前で話すのを待たせたりして妨害しません。この方法で、私は歩き回って個々の人への指導に集中することもできるのです。
 
-
-この手法は個人をエンパワーすることにフォーカスしています。クラスを一つの単位として捉えることも可能ですが、一日の終わりには皆家に帰って、参加したことで得られた価値というものを彼らがそれぞれで評価するのです。クラスを一つと捉えることと各々を個人と見ることの比較は、トレーナーに成長する機会を与えてくれます。デモをしながら講義をすることとは別で、コーチングの能力を向上させることもできます。両方のアプローチを持っていることで参加者にも多くのメリットがあるだけでなく、知識のより良い共有者となれるメリットもあります。
+この手法は個人をエンパワーすることに重点を置いています。クラスを一つの単位として捉えることも可能ですが、一日の終わりには皆家に帰って、参加したことで得られた価値というものを彼らがそれぞれで評価するのです。クラスを一つと捉えることと各々を個人と見ることの比較は、トレーナーに成長する機会を与えてくれます。デモをしながら講義をすることとは別で、コーチングの能力を向上させることもできます。両方のアプローチを持っていることで参加者にも多くのメリットがあるだけでなく、知識のより良い共有者となれるメリットもあります。
+この手法は個人をエンパワーすることに重点を置いています。クラスを一つの単位として捉えることも可能ですが、一日の終わりには皆家に帰って、参加したことで得られた価値というものを彼らがそれぞれで評価するのです。クラスを一つと捉えることと各々を個人と見ることの比較は、トレーナーに成長する機会を与えてくれます。デモをしながら講義をすることとは別で、コーチングの能力を向上させることもできます。両方のアプローチを持っていることで参加者にも多くのメリットがあるだけでなく、知識のより良い共有者となれるメリットもあります。
 This method focuses on empowering individuals. We can treat the class as one unit but at the end of the day, everyone goes home and makes their own evaluation about the value they gained from attending. Treating the class as one versus seeing each as an individual opens up an opportunity for the trainer to improve. Aside from delivering a lecture while running some demos, you can also improve out coaching ability. By having both approaches, there's a lot of benefits to the attendees but there's also the benefit of becoming a better knowledge sharer.
 
 個人としては、双方向性は学習に不可欠なものです。仲間は私たちが行なっていることや知らないことの理解を助けると共に、より良い質問や解法の提示のやり方を学ぶことで、チームとして活動する心構えをさせてくれます。古典的なクラスで隣の人に質問することは授業の邪魔になりかねません。しかし個々人が彼らのnotebookで非同期に取り組んでいる場合、問題はすでに解決していたり、誰かが解決に繋がる洞察を得ていて、皆の助けになるかもしれません。もし誰かが邪魔をされたとしても、それはクラス全体ではありません。
