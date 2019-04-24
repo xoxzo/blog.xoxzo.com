@@ -11,10 +11,14 @@ Singapore Expo Convention and Exhibition Centre. Actually few weeks ago we just
 finished our [team camp in Okinawa](https://blog.xoxzo.com/2019/04/01/okinawa-2019-spring-team-camp/),
 and here comes another time to travel. And this is my first time attending AWS Summit.
 
+![AWS Summit Singapore 2019]({filename}/images/aws-sg-2019/venue.jpg)
+
 One of the big news that AWS keeps saying on this summit is that they will
 [open new region in Indonesia](https://press.aboutamazon.com/news-releases/news-release-details/aws-open-new-region-indonesia).
 Previously the closest region to Indonesia was Singapore and once this new region is ready,
 Indonesian start-up companies can start using Indonesia region.
+
+![New region in Indonesia]({filename}/images/aws-sg-2019/id.jpg)
 
 I don't really follow this news although I've heard it before from my circles.
 Ridwan Kamil, which is famous for his existence in social media, the Governor of West Java,
@@ -41,6 +45,8 @@ the summit. Later on he showcased what AWS has. One that attracted most attendee
 he was showing image recognition. Starting with basic shape such as: bottle and people. Then a few staff
 was walking with a huge inflatable Unicorn walking among the attendees. The computer is able
 to recognize this object as Unicorn after being trained with AI/ML.
+
+![Unicorn spotted!]({filename}/images/aws-sg-2019/unicorn.jpg)
 
 The first session that I attended was L300 (advanced) workshop: DevSecOps with Docker and AWS Fargate.
 I am very keen to implement CI/CD in our pipeline and I still have strong interest on security.
@@ -78,12 +84,16 @@ Unlike the first day, the second day session was delivered by AWS Summit sponsor
 I attended Operating Microservices at Hyperscale by Donnie Prakoso.
 Donnie emphasized on how we should be careful on doing micro-services based application design.
 
+![Microservices]({filename}/images/aws-sg-2019/microservices.jpg)
+
 Sessions on second day also shorter. This means we have more talks and on the other side, it's hard to pick one
 and follow them thoroughly. Most of the day 2 sessions were likely 1-way presentation.
 
 Other than talks, there was also a [Deep Racer league](https://aws.amazon.com/deepracer/league/).
 Contestants are required to make a model and train the model so that fastest car will win the race.
 And there was a hackathon competition.
+
+![AWS Hackdays]({filename}/images/aws-sg-2019/ph.jpg)
 
 In the end, it was quite exhausted to attend this 2-days event. I still remember the days when I went to data center,
 setting up server, plug the power, setting up switch, plug the LAN cable, install operating system, setting up IP addres,
@@ -93,3 +103,5 @@ In the cloud era, I think less people are going to do that.
 We'll just do everything from web browser and even we don't have to buy physical server and rent data center.
 And cloud computing is not stopping there. We can do image recognition, text-to-speech/speech-to-text, processing big data,
 sending message, and making calls: all through the cloud with just a simple setup.
+
+![Xoxzo]({filename}/images/aws-sg-2019/xoxzo.jpg)
