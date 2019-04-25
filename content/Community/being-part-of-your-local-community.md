@@ -56,3 +56,5 @@ I'm very happy about being involved in my local Python community. Whether you're
 
 Look how the community has grown. It's hard work and I feel sad about not having the time to do volunteer work anymore. Starting this year I'm going to attend PyCons not as an organizer but as a typical attendee and just enjoy the conference. And I'm not just talking about attending PyCon PH, I'm planning to attend and support all the hard work of volunteers in nearby countries by attending their PyCons. In fact, I was in [PyCon MY](https://blog.xoxzo.com/2018/09/12/python-talk-how-josef-made-trainings-scale/) last year. Wherever you're reading this from, hope to see you in your local PyCon!
 
+Oh and if you're in the Philippines and are interestested in attending tech events, checkout the [events calendar](http://bit.ly/ph-tech-meetups-and-events) I'm consolidating. I hope you see something you like!
+
