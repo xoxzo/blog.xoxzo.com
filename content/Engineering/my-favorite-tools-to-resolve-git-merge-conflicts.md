@@ -108,13 +108,13 @@ And I need to choose myself, which part to use, or maybe totally override this s
 ## GUI tools
 [Sublime Merge](https://www.sublimemerge.com/) is a powerfull merge tool, intuitively understandable and with good UI. It has free and commercial versions. Free version comes with light theme only, paid version has light and dark themes.
 
-![Sublime merge conflict preview](https://raw.githubusercontent.com/xoxzo/blog.xoxzo.com/my-favorite-tools-to-resolve-conflicts/content/images/arthur-media/Screenshot_6_sm_preview.png)
+![Sublime merge conflict preview](/images/arthur-media/Screenshot_6_sm_preview.png)
 
-![Sublime merge conflict resolve](https://github.com/xoxzo/blog.xoxzo.com/raw/my-favorite-tools-to-resolve-conflicts/content/images/arthur-media/Screenshot_7_sm_resolve.png)
+![Sublime merge conflict resolve](/images/arthur-media/Screenshot_7_sm_resolve.png)
 
 [VScode](https://code.visualstudio.com/#built-in-git) has integrated merge tool, also powerfull and with good UI.
 
-![Visual Studio Code conflict resolve](https://github.com/xoxzo/blog.xoxzo.com/raw/my-favorite-tools-to-resolve-conflicts/content/images/arthur-media/Screenshot_8_vscode.png)
+![Visual Studio Code conflict resolve](/images/arthur-media/Screenshot_8_vscode.png)
 
 
 ## Console tool
@@ -133,7 +133,7 @@ There's 2 options for conflictstyle - `merge`, which is default option,  and `di
 
 Now I may run conflict resolver as `git mergetool`:
 
-![vimdiff resolver](https://github.com/xoxzo/blog.xoxzo.com/raw/my-favorite-tools-to-resolve-conflicts/content/images/arthur-media/Screenshot_11_vimdiff.png)
+![vimdiff resolver](/images/arthur-media/Screenshot_11_vimdiff.png)
 
 At first glance this may be look ugly. But you may install attractive color schemas, and `vim` will be very nice looking. Sublime merge and VSCode both splits window to 3 parts. Vimdiff splits it to 4 (with `diff3` configstyle), displaying common ancestor
 
