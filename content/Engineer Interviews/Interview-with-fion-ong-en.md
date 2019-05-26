@@ -1,4 +1,4 @@
-Title: "Fion Ong : Remote work benefits the worker and the company"
+Title: Fion Ong : Job fulfillment comes from overcoming challenges that demands our best
 Date: 2019-05-26
 Slug: interview-with-fion-ong 
 Lang: en 
