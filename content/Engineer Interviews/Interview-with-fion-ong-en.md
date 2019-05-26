@@ -9,7 +9,6 @@ Summary: We talked to Fion Ong who has been working on self-service banking solu
 
 Fion Ong started off her career as a Web Application Developer in [Cyber Village]( http://www.cyber-village.net/), an e-business firm specialized in self-service banking solutions. 13 years down the road, she is currently a Technical Specialist, leading the overall technical vision for the developed system and continuously improving the delivery process. 
 
-![Interviewee Fion Ong]
 
 **What was your first computer? When was that?
 
