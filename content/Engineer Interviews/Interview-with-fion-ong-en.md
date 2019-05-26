@@ -17,7 +17,7 @@ Fion Ong started off her career as a Web Application Developer in [Cyber Village
 
 **How did you start to get into computing? What was the first program that you wrote?** 
 
-> I was actually influenced by my sister who had graduated from UPM in Computer Science. During the long holiday before starting university, I went through some simple tutorials on C language using my sister’s computer. 
+> I was actually influenced by my sister who had graduated from UPM in Computer Science. During the long holiday before starting university, I went through some simple tutorials on C language using my sisterâ€™s computer. 
 
 **What programming language do you specialize in?**
 
@@ -26,9 +26,9 @@ Fion Ong started off her career as a Web Application Developer in [Cyber Village
 **What are the most important considerations in system architecture design?**
 
 > There are many factors to consider in building an enterprise system:
-* Maintainability – easy maintenance for developers and bug fix
-* Scalability – able to easily scale up to handle growth of the system
-* High Performance – a fast and responsive system brings good customer experience
+* Maintainability â€“ easy maintenance for developers and bug fix
+* Scalability â€“ able to easily scale up to handle growth of the system
+* High Performance â€“ a fast and responsive system brings good customer experience
 
 **What are the challenges that a developer would face in her job?**
 
@@ -38,7 +38,7 @@ Fion Ong started off her career as a Web Application Developer in [Cyber Village
 
 > The work environment is the most important factor for me to stay in the company since my graduation. I love the work environment and my relationship with my colleagues. They are helpful, friendly, encouraging, considerate, and innovative.
 
-**What do you like about your job? 
+**What do you like about your job?**
 
 > There are many challenging and innovative tasks, and the industry keeps evolving with new technology. Happiness does not come from doing easy work but rather from the sense of satisfaction and achievement that comes after the accomplishment of a difficult task that demanded my best.
 
