@@ -10,7 +10,7 @@ Summary: We talked to Fion Ong who has been working on self-service banking solu
 Fion Ong started off her career as a Web Application Developer in [Cyber Village]( http://www.cyber-village.net/), an e-business firm specialized in self-service banking solutions. 13 years down the road, she is currently a Technical Specialist, leading the overall technical vision for the developed system and continuously improving the delivery process. 
 
 
-**What was your first computer? When was that?
+**What was your first computer? When was that?**
 
 > It was a Dell desktop during my second year in university.  
 
@@ -42,6 +42,6 @@ Fion Ong started off her career as a Web Application Developer in [Cyber Village
 > There are many challenging and innovative tasks, and the industry keeps evolving with new technology. Happiness does not come from doing easy work but rather from the sense of satisfaction and achievement that comes after the accomplishment of a difficult task that demanded my best.
 
 
-**How do you achieve work life balance? **
+**How do you achieve work life balance?**
 
 > In my spare time, I like gardening. I just love to see the green plants blooming and growing. Other than that, most of my down time are spent with my children. 
