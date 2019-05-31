@@ -9,8 +9,8 @@ Summary: Automate as early as possible with CI/CD.
 First, let's start with the abbreviations. CI stands for Continuous
 Integration while CD stands for Continuos Delivery/Deployment.
 
-Last month, I attended a [workshop on](https://www.meetup.com/Software-Architect-Indonesia/events/260847142/)
-implementing CI/CD which hosted by SARCCOM (Software Architect Community) Indonesia.
+Last month, I attended a [workshop](https://www.meetup.com/Software-Architect-Indonesia/events/260847142/)
+on implementing CI/CD which organized by SARCCOM (Software Architect Community) Indonesia.
 
 ![CI/CD Workshop]({filename}/images/ci-cd-workshop.jpeg)
 
