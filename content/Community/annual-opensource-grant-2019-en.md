@@ -1,5 +1,5 @@
 Title: Our Annual Open Source grant for 2019
-Date: 2019-05-31 10:00
+Date: 2019-06-06 11:00
 Author: Iqbal Abdullah
 Tags: grant; open source; annual grant; community; oss; giving back; 2019;
 Lang: en
