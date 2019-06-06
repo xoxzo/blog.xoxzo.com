@@ -9,7 +9,7 @@ Summary: We're announcing our Annual Open Source grant and recipients for 2019
 
 # The Annual Open Source grant
 
-Spring has come and gone, and it is time for us to annouce our grant receipients
+Spring has come and gone, and it is time for us to annouce our grant recipients
 for 2019.
 
 If you're not familiar with our **Annual Open Source grant program**, you can read
@@ -18,7 +18,8 @@ the post for our initial grant [here]({filename}/Community/annual-opensource-gra
 ## Grant recipients for 2019
 
 For 2019, we have allocated USD2000 to be distributed to open source projects
-that the engineering team have chosen.
+that the engineering team have chosen. A total of around USD1980 was managed to be
+disbursed to projects from that amount.
 
 ### [Fabric](https://github.com/fabric/fabric)
 
@@ -39,7 +40,7 @@ is currently the main maintainer for Sphinx.
 Originating from Python community, it usage now has expand to various other projects as well.
 We use it to generate [our API docs](https://docs.xoxzo.com/en/) which proved to be quite helpful.*
 
-![Sphinx donation]({filename}/images/grantspayments/2019-sphinx.png)
+![Sphinx donation]({filename}/images/grantspayments/2019-payment-sphinx.png)
 
 ### [httpie](https://httpie.org/)
 
@@ -53,21 +54,40 @@ related to HTTP connections.*
 
 ![httpie donation]({filename}/images/grantspayments/2019-payment-httpie.png)
 
+### [Pelican](https://blog.getpelican.com/)
+
+We have contributed USD250.00 through Justin Mayer for the [Pelican Dev Team](https://donate.getpelican.com/)
+who is maintaining the project. 
+
+*We use Pelican for [this blog](https://blog.xoxzo.com/en/): It's ease of use without requiring any database
+and server side logic reduces maintenance resources*
+
+![Pelican donation]({filename}/images/grantspayments/2019-payment-pelican.png)
+
 
 ### [Django Software Foundation (DSF)](https://www.djangoproject.com/foundation/)
 
-We also donated USD350.00 to the [Django Software Foundation](https://www.djangoproject.com/fundraising/)
+Finally, we have also donated a total of USD750.00 to the [Django Software Foundation](https://www.djangoproject.com/fundraising/)
 
 *Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
-
 We have been using Django since our start and after more than a decade, it proved to be practical
 framework that continue to evolved and provide solid foundation for any web development project.*
 
 ![DSF donation]({filename}/images/grantspayments/2019-dsf-payment-proof-01.png)
+![DSF donation]({filename}/images/grantspayments/2019-dsf-payment-proof-02.png)
 
+## Other projects we would like to contribute to, but couldn't
 
 There were a few more projects that the team would like to contribute too but unfortunately
-they couldn't find an explicit donation channel from their websites. Among them - buildout, httpie,
-pelican and sphinx.
+they couldn't find an explicit donation channel from their websites, or no response from their maintainers.
+
+Among them are:
+
+- django-queue
+- SwitchIO
+- django-nose
+- nose
+- mysqlclient
+- baker
 
 P.S: Thank you to [Beth Kanter](https://www.flickr.com/photos/cambodia4kidsorg/2265381560/in/photolist-4sbF1L-ar78tZ-SNGH5k-ar79ug-7GLMMJ-7auyvr-ar9ZuW-ar7icH-7EbFm8-77iC2j-oZNUt1-YoqUGr-7auzAZ-77iLXu-ara183-4vbuEU-pKkoXm-77eCxx-2WUBnD-ar9VGm-7TT3jY-by7HPM-6ymtsa-7ayps3-77ePoH-874G8Z-4VguA1-6G4JuU-77eAQF-ar7dxc-EDyr4-77iKd5-8yZZmV-rDGuZy-77iLM5-bbBEV8-e3okg3-DLbcqc-77ezLa-69ykkm-7aysgQ-72ePxc-ar7dt4-XZTS3m-e6eDqU-bbBC66-bbBCjr-RYrLD2-e693vi-9ULwL) for the open source your love thumbnail.
