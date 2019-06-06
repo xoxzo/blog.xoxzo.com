@@ -9,7 +9,7 @@ Summary: We're announcing our Annual Open Source grant and recipients for 2019
 
 # The Annual Open Source grant
 
-Spring has come and gone, and it is time for us to annouce our grant recipients
+Spring has come and gone, and it is time for us to announce our grant recipients
 for 2019.
 
 If you're not familiar with our **Annual Open Source grant program**, you can read
@@ -18,7 +18,7 @@ the post for our initial grant [here]({filename}/Community/annual-opensource-gra
 ## Grant recipients for 2019
 
 For 2019, we have allocated USD2000 to be distributed to open source projects
-that the engineering team have chosen. A total of around USD1980 was managed to be
+that the engineering team has chosen. A total of around USD1980 was managed to be
 disbursed to projects from that amount.
 
 ### [Fabric](https://github.com/fabric/fabric)
@@ -26,7 +26,7 @@ disbursed to projects from that amount.
 We have donated USD350.00 for [Fabric](https://github.com/fabric/fabric) through the donation page of its
 maintainer [Jeff Forcier](http://bitprophet.org/projects/#giving-back)
 
-*Fabric is a high level Python (2.7, 3.4+) library designed to execute shell commands remotely over SSH.
+*Fabric is a high-level Python (2.7, 3.4+) library designed to execute shell commands remotely over SSH.
 We use Fabric extensively for our deployment script.*
 
 ![Fabric donation]({filename}/images/grantspayments/2019-payment-fabric.png)
@@ -37,7 +37,7 @@ We donated JPY30,000 to [tk0miya](https://gist.github.com/tk0miya/de06a923950254
 is currently the main maintainer for Sphinx.
 
 *Sphinx is a tool that makes it easy to create intelligent and beautiful documentation.
-Originating from Python community, it usage now has expand to various other projects as well.
+Originating from Python community, it usage now has expanded to various other projects as well.
 We use it to generate [our API docs](https://docs.xoxzo.com/en/) which proved to be quite helpful.*
 
 ![Sphinx donation]({filename}/images/grantspayments/2019-payment-sphinx.png)
@@ -59,8 +59,8 @@ related to HTTP connections.*
 We have contributed USD250.00 through Justin Mayer for the [Pelican Dev Team](https://donate.getpelican.com/)
 who is maintaining the project. 
 
-*We use Pelican for [this blog](https://blog.xoxzo.com/en/): It's ease of use without requiring any database
-and server side logic reduces maintenance resources*
+*We use Pelican for [this blog](https://blog.xoxzo.com/en/): Its ease of use without requiring any database
+and server side-logic reduces maintenance resources*
 
 ![Pelican donation]({filename}/images/grantspayments/2019-payment-pelican.png)
 
@@ -70,16 +70,16 @@ and server side logic reduces maintenance resources*
 Finally, we have also donated a total of USD750.00 to the [Django Software Foundation](https://www.djangoproject.com/fundraising/)
 
 *Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
-We have been using Django since our start and after more than a decade, it proved to be practical
-framework that continue to evolved and provide solid foundation for any web development project.*
+We have been using Django since our start and after more than a decade, it proved to be a practical
+framework that continues to evolved and provide a solid foundation for any web development project.*
 
 ![DSF donation]({filename}/images/grantspayments/2019-dsf-payment-proof-01.png)
 ![DSF donation]({filename}/images/grantspayments/2019-dsf-payment-proof-02.png)
 
 ## Other projects we would like to contribute to, but couldn't
 
-There were a few more projects that the team would like to contribute too but unfortunately
-they couldn't find an explicit donation channel from their websites, or no response from their maintainers.
+There were a few more projects that the team would like to contribute too but unfortunately,
+they couldn't find an explicit donation channel from their websites or no response from their maintainers.
 
 Among them are:
 
