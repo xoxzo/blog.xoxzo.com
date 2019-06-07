@@ -13,22 +13,19 @@ Summary: Xoxzoは今年沖縄で、楽しみいっぱいで極上のチーム合
 
 # 2019年の春がやってきた！
 
-The Spring Team Camp is an important occassion for Xoxzo. It is a time when we
-discuss how we did in the previous year, what we plan to do and where
-do we want to head to for the new year.
+毎年の春キャンプは、Xoxzoの一大行事です。
+前年に行ったこと、今後の計画、新年度に向かっていく方向性などについて、
+話し合うときなのです。
 
-This year our team camp was held in [Ginowan, Okinawa](https://en.wikipedia.org/wiki/Ginowan,_Okinawa).
-We managed to get everyone together this year, including Aiko's two daughters joining
-us because it's the school holidays.
+今年の春キャンプは、[沖縄県宜野湾市](https://ja.wikipedia.org/wiki/%E5%AE%9C%E9%87%8E%E6%B9%BE%E5%B8%82)で、行いました。
+今年は何とか、全員集合にこぎつけました。春休みで、子どもたちも、参加すしました。
 
-For this team camp, we will be having sessions where everyone is joining, and the
-engineering team only sessions for the second part of the camp.
+今回のキャンプでは、全員参加セッションと、後半のエンジニアチームのみ参加のセッションとを
+行うこととしています。
 
-We stayed at the [Laguna Garden Resort hotel](https://www.laguna-garden.jp/) for the week. It is a pretty
-hotel situated just next to the Okinawa Convention center with tennis courts and
-close to the beach, where you can jog around while enjoying the cooling sea
-breeze. It also has indoor and outdoor pools, public baths and a few
-restaurants within the hotel compound itself.
+一週間の宿泊は、[ラグナガーデン リゾートホテル](https://www.laguna-garden.jp/) でした。
+沖縄コンベンションセンターの隣にある素敵なホテルで、ビーチが近くテニスコートがあり、潮風に吹かれながら
+ジョギングができました。屋内・屋外のプールがあり、大浴場とホテル内にレストランが数軒入っていました。
 
 ## Day 1
 
