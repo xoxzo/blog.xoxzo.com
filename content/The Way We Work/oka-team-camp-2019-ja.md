@@ -27,54 +27,49 @@ Summary: Xoxzoは今年沖縄で、楽しみいっぱいで極上のチーム合
 沖縄コンベンションセンターの隣にある素敵なホテルで、ビーチが近くテニスコートがあり、潮風に吹かれながら
 ジョギングができました。屋内・屋外のプールがあり、大浴場とホテル内にレストランが数軒入っていました。
 
-## Day 1
+## １日目
 
-We kicked off the team camp on Day 1 by gathering at [Ginowan Marine Support Center](https://maririne.jp/)'s meeting room
-to discuss and decide about our Annual Open Source Grant recipients. For more
-information on [our Annual Open Source Grant program]({filename}/Community/annual-opensource-grant-2018-en.md), read our blog post [here]({filename}/Community/annual-opensource-grant-2018-en.md).
+チームキャンプ第一日目は [宜野湾マリン支援センター](https://maririne.jp/)での全体ミーティングで幕を開けました。
+ここでは、オープンソース助成金について話し合いや決定を行ったのですが、
+詳しくは、 [こちらから]({filename}/Community/annual-opensource-grant-2018-ja.md)ご確認ください。
+本年度の付与者は [こちらから]({filename}/Community/annual-opensource-grant-2019-ja.md)ご覧いただけます。
 
-At kick-off, I made it clear to everyone that the purpose of the team camp is _not
-to make decisions_ but to meet one another, get to know one another and enjoy
-each other's company. Decisions can always be made during our normal online
-calls.
+始まりにあたって、全員に確認したことは、決定は今後いつでも、オンラインでの会話で行うことができるので、
+キャンプの間は、_何かを決めようとせず_ 皆が集うことを楽しみ、お互いのことを理解し合う機会としよう、ということでした。
 
-We'll put more emphasis on allowing everyone to showcase
-their work, receiving feedback and giving feedback to others.
+それぞれの仕事や成果を店あい確認し、意見交換をする機会となるよう、強調したのです。
 
-In the afternoon we went for our excursion. We hired two jumbo taxis to ferry us
-around the island.
+午後は、遠足へ行きました。ジャンボタクシー２代を貸し切り、この島を巡る足としたのです。
 
-We first stopped at the UNESCO World Heritage Site, [Shurijo Castle](https://en.wikipedia.org/wiki/Shuri_Castle)
+まずは、ユネスコ世界遺産登録されている、[首里城](https://ja.wikipedia.org/wiki/Shuri_Castle)です。
 ![Xoxzo at Syuri Castle]({filename}/images/oka-teamcamp-2019/IMG_9071-syuri-jo.jpg)
 
-We try to make it a point to visit significant local historical sites, or
-getting involved in some sort of cultural activity with the locals where we have
-team camps. We believe that interacting with different people, cultures and understanding history
-allows us to better empathize with our customers and how they will use our products.
+チームキャンプを行うご当地で、何かしらの文化や土地の人に触れる活動を行ったり、
+重要な歴史的建造物等を訪れることを、視野に入れていました。
+違った人々やその文化に影響を受けたり、歴史を理解することで、
+将来的に、その人達がどのように、我々のサービスを利用するかというところに、
+より良い重点を置いていけると考えたからです。
 
-The view from Shurijo Castle was also breathtaking.
+首里城からの眺めには、息を呑みました。
 ![View from Syuri Castle]({filename}/images/oka-teamcamp-2019/IMAG2930-shisa-EFFECTS.jpg)
 
-After Syurijo Castle, we moved on to Okinawa World
+首里城の後は、おきなわワールドへ場所をうつしました。
 ![Xoxzo team excursion collage]({filename}/images/oka-teamcamp-2019/team-excursion.jpg)
-At Okinawa World, we walked around the underground caves and also caught the
-snake show.
+行わワールドでは、地下鍾乳洞を歩き、ハブショーを見て、楽しみました。
 
-To wrap up Day 1, we had our team dinner at a local izakaya that prepares Okinawa
-cuisine.
+一日目の締めには、沖縄料理でもてなしてくれる、地元の居酒屋で、チームディナーをたのしみました。
 ![Xoxzo team dinner]({filename}/images/oka-teamcamp-2019/team-dinner.jpg)
 
-## Day 2
+## ２日目
 
-Day 2 is when most of the core meetings took place. Each person who is mainly
-responsible for a certain part of the company presents results and learnings
-from her or his work in 2018.
+二日目は、より核心に入ったミーティングを行いました。
+Xoxzoの各所の担当者が、それぞれが前年に行ったしごとや、成果、学んだことなどを発表しました。
 
-This is also the time for team members to
-familiarize themselves with the work of others and breaking down the silos they
+ここでも、普段の仕事で入ったきりになっている個室を打ち破って、チームメンバーの仕事内容を
+理解していく機会となりました。
+
+この日の最後に、At the end of Day 2, I presented to the whole team how the company overall did
 are in during day-to-day operations.
-
-At the end of Day 2, I presented to the whole team how the company overall did
 in 2018, what went right and what could be improved, and finally what we should
 be aiming to do for 2019.
 
