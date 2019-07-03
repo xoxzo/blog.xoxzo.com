@@ -3,7 +3,7 @@ Date: 2019-7-4
 Slug: 201907-logdownload-release
 Lang: en
 Tags: xoxzo; new release; 2019; logs;
-Thumbnail: images/xoxzo-square-logo.png
+Thumbnail: images/xoxzo-logo-linkedin.png
 Author: Aiko Yokoyama
 Summary: Your usage logs are now downloadable via web!!
 
