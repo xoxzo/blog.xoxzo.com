@@ -29,3 +29,5 @@ Your .csv file will be ready for download in a while.
 * Please note that we store your logs for only 90 days.
 
 Would you have any questions, please contact help@xoxzo.com
+
+_this web-download feature has been valued as a handy-function at [EZSMS](https://www.ezsms.biz/en/), our web-based SMS sending service and former platform of Xoxzo. We are glad to have received such many hot-demand of reproduction and to be available to respond to the requests._
