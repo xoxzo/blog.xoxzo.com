@@ -15,7 +15,7 @@ Most of the users would like to review after they send/receive SMS/calls
 and we offer APIs to [**check SMS status**](https://docs.xoxzo.com/en/sms.html#check-sms-status-api) and
 [**check call status**](https://docs.xoxzo.com/en/voice.html#checking-call-status).
 
-We are now proud to announce that Checking your account usage will became as easy as 1-2-3.
+We are now proud to announce that Checking your account usage for SMS sending will became as easy as 1-2-3.
 
 With our new release, you can web-download the log in csv!!
 
@@ -25,7 +25,7 @@ Please let us guide you the 1-2-3 here.
 
 2. Find _Download Usage Logs_ from the top-right pulldown labeled _Account_
 
-3. Select desired dates and the type of log you need before clicking `GENERATE` button
+3. Select desired dates before clicking `GENERATE` button
 
 Your .csv file will be ready for downloading in a while. In the file, you will find:
 
