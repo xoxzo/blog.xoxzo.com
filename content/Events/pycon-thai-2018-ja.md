@@ -2,7 +2,7 @@ Title: [Xoxzo] PyCon Thailand 2018へ参加しました。
 Date: 2018-06-18 10:00 
 Slug: pycon-thailand-2018
 Lang: ja
-Tags: 2018; pycon thailand; TH; pycon; thailand;
+Tags: 2018; pycon th; pycon; thailand;
 Author: Iqbal Abdullah
 Summary: タイで最初のPyConの模様を紹介します。
 

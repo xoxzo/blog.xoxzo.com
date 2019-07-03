@@ -1,7 +1,7 @@
 Title: SMSを使った二要素認証のやり方
 Date: 2018-05-02 10:00
 Author: Akira Nonaka
-Tags: 二要素認証; チュートリアル;SMS
+Tags: 二要素認証; チュートリアル;sms
 Slug: introduction-2fa-sms
 Lang: ja
 Summary: Webアプリに二要素認証を導入する方法の紹介です。

@@ -380,6 +380,22 @@ footer a:hover {
     padding: 10px;
 }
 
+.highlighttable {
+    table-layout: fixed;
+    width: 100%;
+}
+
+.highlighttable .linenos {
+    display: inline-block;
+    width: 10%;
+    vertical-align: top;
+}
+
+.highlighttable .code {
+    display: inline-block;
+    width: 90%;
+}
+
 @media (max-width: 991px){
 
     ul.navbar-nav {
@@ -419,6 +435,14 @@ footer a:hover {
 
     .related-post img {
         min-height: 200px;
+    }
+
+    .highlighttable .linenos {
+        width: 15%;
+    }
+
+    .highlighttable .code {
+        width: 85%;
     }
 }
 

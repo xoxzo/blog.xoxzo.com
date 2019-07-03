@@ -2,7 +2,7 @@ Title: 【Xoxzo】国内の電話番号を、発信者として設定できる�
 Date: 2017-08-23 15:00
 Slug: jp-local-caller-id
 Lang: ja
-Tags: new function; xoxzo; jp local caller id; PR; 2017; API; dial in numbers; new release; 発信者番号;
+Tags: new function; xoxzo; jp local caller id; pr; 2017; api; dial in numbers; new release; 発信者番号;
 Author: Aiko Yokoyama
 Summary: 簡潔なHTTPエンドポイントで電話につながる、Xoxzoの音声APIに、新たな機能が加わりました。取得したダイアルイン番号を通じて、通常では国内規制により表示することができない日本の電話番号を、表示可能です。
 

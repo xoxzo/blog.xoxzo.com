@@ -1,7 +1,7 @@
 Title: Tokyo Team Camp
 Date: 2016-03-07 15:21
 Author: Zaki Akhmad
-Tags: team camp, tokyo
+Tags: teamcamp; tokyo; 2016;
 Lang: en
 Slug: tokyo-team-camp
 Summary: Report on our Feb 2016 team camp in Tokyo

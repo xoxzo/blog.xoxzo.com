@@ -2,7 +2,7 @@ Title: [Xoxzo] New release of JP Local Caller ID
 Date: 2017-08-23 15:00
 Slug: jp-local-caller-id
 Lang: en
-Tags: new function; xoxzo; jp local caller id; PR; 2017; API; dial in numbers; new release; 
+Tags: new function; xoxzo; jp local caller id; pr; 2017; api; dial in numbers; new release;
 Author: Aiko Yokoyama
 Summary: Our optional local caller ID functionality through our Dial In Numbers allows you to use a local Japan number for your voice calls while restrictions in Japan does not allow that by default.
 

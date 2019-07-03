@@ -2,7 +2,7 @@ Title: The Game of Deployment
 Date: 2017-07-26
 Slug: the-game-of-deployment
 Lang: en
-Tags: Deployment; 
+Tags: deployment;
 Author: Shauryadeep Chaudhuri
 Summary: With the growing need of managing application deployment, these are some of the ways we found to setup an in-house deployment management system for web applications.
 
@@ -99,4 +99,7 @@ Analyzing it on the points previously mentioned.
 
 ###How They Compare
 -----
-Depending on the needs I personally would go prefer using Flynn as it gives more freedom on managing the system, it is opensource and free to use if you can do it yourself. Although if you do not wish to handle setting up yourself and want another team to manage your deployments, then Convox would be the cheaper alternative.
+Depending on the needs I personally would go prefer using Flynn as it gives more
+freedom on managing the system, it is opensource and free to use if you can do it
+yourself. Although if you do not wish to handle setting up yourself and want another
+team to manage your deployments, then Convox would be the cheaper alternative.
