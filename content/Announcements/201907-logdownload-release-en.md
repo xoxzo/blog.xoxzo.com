@@ -11,11 +11,11 @@ Our APIs [send SMS messages](https://www.xoxzo.com/en/about/sms-api/),
 [make Voice calls](https://www.xoxzo.com/en/about/voice-api/) 
 as well as [receive calls](https://www.xoxzo.com/en/about/dial-in-api/).
 
-Most of the users would review after they send/receive SMS/calls 
-and we offer an API to [**check SMS status**](https://docs.xoxzo.com/en/sms.html#check-sms-status-api) and
-[**check call status**](https://docs.xoxzo.com/en/voice.html#checking-call-status) too.
+Most of the users would like to review after they send/receive SMS/calls 
+and we offer APIs to [**check SMS status**](https://docs.xoxzo.com/en/sms.html#check-sms-status-api) and
+[**check call status**](https://docs.xoxzo.com/en/voice.html#checking-call-status).
 
-We are now proudly announce that this **Checking Status** became as easy as 1-2-3.
+We are now proud to announce that Checking your account usage will became as easy as 1-2-3.
 
 With our new release, you can web-download the log in csv!!
 
