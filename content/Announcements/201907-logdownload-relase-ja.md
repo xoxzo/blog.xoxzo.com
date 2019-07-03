@@ -15,14 +15,14 @@ Xoxzoの APIでは、 [SMSの配信](https://www.xoxzo.com/ja/about/sms-api/)や
 Xoxzoでも [**SMSのステータス確認API**](https://docs.xoxzo.com/ja/sms.html#check-sms-status-api) であるとか、
 [**通話発信ステータス確認API**](https://docs.xoxzo.com/ja/voice.html#checking-call-status) などをご用意しております。
 
-今回のリリースでは、このステータス確認が、csv形式ファイルでウェブよりダウンロードできるようになり、
+今回のリリースでは、SMSの配信状況ステータス確認が、csv形式ファイルでウェブよりダウンロードできるようになり、
 大変簡単で便利になりましたので、お知らせいたします。
 
 どのくらい簡単で便利になったのでしょうか。
 
 1. [アカウントへログインする](https://www.xoxzo.com/ja/accounts/login/)
 1. 画面右上の _アカウント_ プルダウンより _ご利用ログをダウンロードする_ を選ぶ
-1. ご希望の期間とログのほしいAPIのタイプを選んで _作成する_ をクリック
+1. ご希望の期間を選んで _作成する_ をクリック
 
 以上で、csvファイルのダウンロード準備が出来ます。ファイル内の項目は、
 
