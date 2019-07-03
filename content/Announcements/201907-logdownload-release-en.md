@@ -1,3 +1,12 @@
+Title: Xoxzo enabled Log Web-downloading 
+Date: 2019-7-4
+Slug: 201907-logdownload-release
+Lang: en
+Tags: xoxzo; new release; 2019; logs;
+Thumbnail: images/xoxzo-square-logo.png
+Author: Aiko Yokoyama
+Summary: Your usage logs are now downloadable via web!!
+
 Our APIs [send SMS messages](https://www.xoxzo.com/en/about/sms-api/), 
 [make Voice calls](https://www.xoxzo.com/en/about/voice-api/) 
 as well as [receive calls](https://www.xoxzo.com/en/about/dial-in-api/).
