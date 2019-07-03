@@ -68,55 +68,45 @@ Xoxzoの各所の担当者が、それぞれが前年に行ったしごとや、
 ここでも、普段の仕事で入ったきりになっている個室を打ち破って、チームメンバーの仕事内容を
 理解していく機会となりました。
 
-この日の最後に、At the end of Day 2, I presented to the whole team how the company overall did
-are in during day-to-day operations.
-in 2018, what went right and what could be improved, and finally what we should
-be aiming to do for 2019.
+この日の最後に私は、チーム全体に 昨年2018年のXoxzoの全般的な運営状況、日々の運営の中、
+良かった点や、改善し得る点、そして2019年に目指すところについて、話をしました。
 
-We rented the meeting rooms at [GWave](http://www.gbic.jp/), an incubation
-center, co-working space and cafe all-in-one, which is around 20 minutes walk
-from our hotel.
+この日は、宿泊ホテルから徒歩20分ほどのところにあるインキュベーションセンターとコワーキングスペース、カフェがオール・イン・ワンとなっている [GWave](http://www.gbic.jp/)をお借りしました。
 
-But sometimes discussions got too lengthy and we had to continue in our hotel
-rooms.
+しかし、白熱する話し合いは、延長を必要とすることもあり、続きはホテルの部屋に持ち越されることもありました。
 ![Xoxzo meeting in hotel room]({filename}/images/oka-teamcamp-2019/meeting-hotem-room-smaller.jpg)
 
-## Day 3
+## 3日目
 
-The third day continued with sessions which couldn't fit into the second day
+この日は、2日目に含めきれなかった事柄を、引き続き話し合いました。
 
 ![Xoxzo engineering meeting]({filename}/images/oka-teamcamp-2019/IMAG2979-gwave-group-meeting.jpg)
 
-## Day 4 and 5
+## 4日目、5日目
 
-Day 4 and 5 were mainly for the engineering team, to focus on specific tasks
-which required close collaboration.
+後半戦、4日目5日目は主に技術チームが集まり、密接な共同作業の必要なタスクに集中して取り組みました。
 
 ![Xoxzo engineering meeting]({filename}/images/oka-teamcamp-2019/engineering-team-collage.jpg)
 
-# Wrapping up
+# まとめ
 
 ![Ginowan Sunset]({filename}/images/oka-teamcamp-2019/20190327_180726-sunset.jpg)
 
-The Team Camp this year was a very productive and positive experience for all of
-us. 
+今年のチームキャンプは、大変実り多く、全員にとって、良い経験になりました。
 
-Surya and Aisin joined us in the middle of 2018, and the Team Camp gave them
-an opportunity to meet in person the other team members which they have only
-communicated online.
+昨年2018年半ばに入社した、スーリヤ と アイ・シン にとっては、普段オンラインでしか話すことのないチームメンバーと、
+直接顔を合わせる良い機会となりました。
 
-We also saw healthy debates and exchange of opinions ranging from how the
-business itself, and also on technical issues which we're facing. Everyone had
-their say and also managed to get their thoughts across.
+また、私達の直面している、ビジネスそのものや技術的なことに関する問題をテーマに、気持ちの良い議論が交わされる場面も
+ありました。全員が発言し、意思疎通を図れる機会だったと思います。
 
-Overall the whole team really enjoyed Okinawa, with its balmy weather and cooling sea breeze.
-Okinawa also has a decent amount of co-working spaces to host you if you're
-nomad like us.
+総体的に、チーム全員が、温暖な気候と涼しい潮風の沖縄を楽しみました。
+もしXoxzoのようなノマドの方がいらっしゃるなら、沖縄にも、使えるコワーキングスペースが
+かなりの数ありますよ。
 ![Views of Okinawa]({filename}/images/oka-teamcamp-2019/views-of-okinawa-collage.jpg)
 
-Depending on your nationality though, Japan might be a difficult country to visit due to its
-visa requirements. As most of our team members are South East Asia and South Asia nationals,
-we hired a judicial scrivener specializing in immigration regulations to help us arrange visas
-for our team members. This helped a lot to reduce the stress and smoothing out the process.
+しかしながら、国籍によっては、ビザ取得要件により、日本というのは訪問が難しい国かもしれません。
+チームXoxzoのメンバーはほとんどが東南および南アジア国民のため、チームのビザ取得調整支援をしてくれる、
+移民法に詳しい司法書士さんのおせわになりました。おかげでストレスのない、スムーズな進行が取れました。
 
-We'll see you again at our next team camp, somewhere else on the planet!
+また、来年、地球のどこか別の場所でまたお会いしましょう！
