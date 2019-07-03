@@ -39,7 +39,7 @@ Your .csv file will be ready for downloading in a while. In the file, you will f
 - cost
 - apiuser
 
-* Please note that we store your logs for only 90 days.
+**Please note that we store your logs for only 90 days.**
 
 Would you have any questions, please contact help@xoxzo.com
 
