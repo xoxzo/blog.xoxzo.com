@@ -3,7 +3,7 @@ Date: 2019-7-4
 Slug: 201907-logdownload-release
 Lang: ja
 Tags: xoxzo; new release; 2019; logs;
-Thumbnail: images/xoxzo-square-logo.png
+Thumbnail: images/xoxzo-logo-linkedin.png
 Author: Aiko Yokoyama
 Summary: 多くのリクエストを受けまして、ウェブダウンロード機能がご利用可能となりました！
 
@@ -20,14 +20,14 @@ Xoxzoでも [**SMSのステータス確認API**](https://docs.xoxzo.com/en/sms.h
 
 どのくらい簡単で便利になったのでしょうか。
 
-1. [Log in to your account](https://www.xoxzo.com/en/accounts/login/)
-1. Find _Download Usage Logs_ from the top-right pulldown labeled _Account_
-1. Select desired dates and the type of log you need before clicking `GENERATE` button
+1. [アカウントへログインする](https://www.xoxzo.com/ja/accounts/login/)
+1. 画面右上の _アカウント_ プルダウンより _ご利用ログダウンロード_ を選ぶ
+1. ご希望の期間とログのほしいAPIのタイプを選んで _作成する_ をクリック
 
-Your .csv file will be ready for download in a while.
+以上で、csvファイルのダウンロード準備が出来ます。
 
-* Please note that we store your logs for only 90 days.
+* XoxzoのAPIご利用ログの保管期限は、90日間です。
 
-Would you have any questions, please contact help@xoxzo.com
+ご質問は、help@xoxzo.com までお寄せください。
 
-_this web-download feature has been valued as a handy-function at [EZSMS](https://www.ezsms.biz/en/), our web-based SMS sending service and former platform of Xoxzo. We are glad to have received such many hot-demand of reproduction and to be available to respond to the requests._
+_このウェブダウンロード機能は、弊社運営のウェブベースSMS配信サービスであり、Xoxzo APIプラットフォームである [EZSMS](https://www.ezsms.biz/en/)にて、長年ご愛用いただいておりました。この度、多くのユーザー様からの暑いご要望を受け、お答えする形で Xoxzoでもご利用いただけるよう復刻できましたことを、大変嬉しく思っています。_
