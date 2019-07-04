@@ -6,7 +6,7 @@ Tags: pycon
 Author: Akira Nonaka
 Summary: 
 
-6/25の夜[US PYCON 2019 Debrief Session](https://pyconjp.connpass.com/event/132537/)というイベントにに参加しました。今年の5月に
+6/25の夜[「US PYCON 2019 Debrief Session」](https://pyconjp.connpass.com/event/132537/)というイベントにに参加しました。今年の5月に
 米国オハイオ州で開催されたUS PYCON 2019に出席してきた人達による
 報告会です。
 
@@ -24,7 +24,7 @@ US PYCONでまず驚かされるの規模の大きさで、参加者は3,000人�
 
 ![PyLadiesのみなさん]({filename}/images/pycon-us-2019-debrief/DSC_0014.jpg)
 
-参加者の鈴木さんによる詳しいレポートを[ここ](https://gihyo.jp/news/report/01/us-pycon2019)で読むことができます。
+参加者の鈴木たかのりさんによる詳しいレポートを[ここ](https://gihyo.jp/news/report/01/us-pycon2019)で読むことができます。
 
 最後はピザとビールで乾杯！スマートニュースさん、素敵な会場の
 提供、どうもありがとうございました。
