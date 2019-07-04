@@ -1,5 +1,5 @@
 Title: US PYCON 2019 報告会に参加しました
-Date: 2019-07-03
+Date: 2019-07-04
 Slug: pycon-us-2019-debrief-meet
 Lang: ja
 Tags: pycon
