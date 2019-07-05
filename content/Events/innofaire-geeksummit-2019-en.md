@@ -20,6 +20,8 @@ The second talk was by Johar Jaafar titled "Ideas of creation is around us", bas
 
 The third talk from Ahmad Amran, co-founder of car rental platform Wahdah. I'm used to be a regular customer of Wahdah so this definitely something that I look for, to know some internal insight of the platform I was onced a user. And it also interesting as this was the first time I met with Amran, while we already know each other online for more than a decade. Amran shared with us how Wahdah use Google Analytics Enhanced E-Commerce features to track customer behavior at every stage of the funnel â€“ before, during, and after a purchase.
 
+![Amran - Wahdah]({filename}/images/innofaire-2019/amran-wahdah.jpg)
+
 The main question they want an answer is - What car brand produce most revenue? He also shared what advertising channel that produced the best conversion rate? It's no surprise that the answer is through organic search, while paid search come in second. The third is direct acquisition, or in other word, by word of mouth or repeat customer. Knowing that organic search still the best customer acquisition channel, they're doubling their effort in content marketing. As to what car brand produce the best revenue, it is Starex. The second is Myvi while the third is Saga. The problem with Myvi however is that it's a crowded space. Everyone offering myvi for rental as it's cheaper.
 
 Using the Enhanced E-commerce plugin also help them to identify revenue by time of the day and normal time for conversion rate. I asked him whether the Enhanced Ecommerce work similar to Drip but unfortunately he never heard of that.
