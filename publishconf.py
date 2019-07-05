@@ -9,8 +9,12 @@ import os
 import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
+deploy_context = os.environ.get('CONTEXT', '')
 
 SITEURL = 'https://blog.xoxzo.com'
+if deploy_context != 'production':
+    SITEURL = os.environ.get("DEPLOY_URL", SITEURL)
+
 RELATIVE_URLS = False
 
 FEED_DOMAIN = SITEURL
