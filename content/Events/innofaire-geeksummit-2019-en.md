@@ -4,7 +4,7 @@ Slug: innofaire-geeksummit-2019
 Lang: en
 Tags: 2019; innofaire; python; kl
 Author: Kamal Mustafa
-Summary: Kamal joined Innofaire in KL which is a sub-event of GeekSummit for tech enthusiast, innovators and makers to showcase their work, and share knowledge.
+Summary: InnoFaire is an event for tech enthusiast, innovators and makers to showcase their work, and share knowledge. I decided to join this event over the weekend after a long hiatus from joining any tech events this year ;)
 
 InnoFaire is an event for tech enthusiast, innovators and makers to showcase their work, and share knowledge. I decided to join this event over the weekend after a long hiatus from joining any tech events this year ;)
 
@@ -18,7 +18,7 @@ So his first idea was to build a simple program to catalog a book. He'd eventual
 
 The second talk was by Johar Jaafar titled "Ideas of creation is around us", basically on how to get new ideas to work on for our next project. Where to start? The first is by just duplicating existing app. There's lot of open source apps we can find online. Just take the source code, change a little bit and who know, while doing that we can come up with some interesting ideas that can make the app better? Other source of ideas creation also come from childhood experience. As a kid, there were lot of things we want to do, right? And now we have all the tools and resources to make our childhood dream a reality. Ideas also come while we just casually hanging up with friends. I think he mentioned an app called Slurp actually came while slurping a noodle. He end the talk by sharing some stuff he's currently working on, one of it called kachink, an e-commerce platform build with Django.
 
-The third talk from Ahmad Amran, co-founder of car rental platform Wahdah. I'm used to be a regular customer of Wahdah so this definitely something that I look for, to know some internal insight of the platform I was onced a user. And it also interesting as this was the first time I met with Amran, while we already know each other online for more than a decade. Amran shared with us how Wahdah use Google Analytics Enhanced E-Commerce features to track customer behavior at every stage of the funnel â€“ before, during, and after a purchase.
+The third talk from Ahmad Amran, co-founder of car rental platform Wahdah. I'm used to be a regular customer of Wahdah so this definitely something that I look for, to know some internal insight of the platform I was onced a user. And it also interesting as this was the first time I met with Amran, while we already know each other online for more than a decade. Amran shared with us how Wahdah use Google Analytics Enhanced E-Commerce features to track customer behavior at every stage of the funnel before, during, and after a purchase.
 
 ![Amran - Wahdah]({filename}/images/innofaire-2019/amran-wahdah.jpg)
 
