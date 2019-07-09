@@ -15,7 +15,6 @@ has been updated.
 The change is made as below.
 
 *BEFORE*
-
 `
 0344057440
 `
