@@ -16,14 +16,14 @@ The change is made as below.
 
 *BEFORE*
 
-```
+`
 0344057440
-```
+`
 
 *AFTER UPDATE*
-```
+`
 05052128038
-```
+`
 
 Please inform your end users about this change.
 
