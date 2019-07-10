@@ -1,6 +1,6 @@
 Title: MWC 2019 in Barcelona
 Date: 2019-03-04 10:00
-Slug: mwc-2019-barcelona
+Slug: mwc-2019-shanghai
 Lang: en
 Tags: 2019; mwc; rcs; 5g; barcelona;
 Author: Iqbal Abdullah
