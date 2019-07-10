@@ -1,8 +1,8 @@
-Title: MWC 2019 in Barcelona
-Date: 2019-03-04 10:00
+Title: MWC 2019 in Shanghai
+Date: 2019-07-01 10:00
 Slug: mwc-2019-shanghai
 Lang: en
-Tags: 2019; mwc; rcs; 5g; barcelona;
+Tags: 2019; mwc; 5g; shanghai;
 Author: Iqbal Abdullah
 Thumbnail: images/mwc19-pvg/mwc19-pvg-entrance.jpg
 Summary: Iqbal went to Shanghai at the end of June to attend MWC19
@@ -37,6 +37,8 @@ I was also expecting a more hardware focused event, based on feedback I have
 received from people who have been to MWC Shanghai before, and knowing that
 China is a manufacturing powerhouse, but there was also a decent amount of
 software solutions vendors too.
+
+Like in Barcelona, a big theme as you walk around the booths was 5G.
 
 ![MWC Shanghai 2019: Booths]({filename}/images/mwc19-pvg/mwc19-pvg-smaller-booths.jpg)
 
