@@ -10,7 +10,9 @@ Summary: Iqbal went to Shanghai at the end of June to attend MWC19
 The yearly MWC Shanghai was held between June 26 to June 28 2019. During MWC
 Barcelona this year we received an offer to setup a booth during MWC Shanghai,
 but because we have never attended the event previously and didn't know what to
-expect, we declined the offer but I took this opportunity to register and see
+expect, we declined the offer but since the entrance fees for visitors was much
+cheaper than MWC Barcelona, and since Shnaghai was only around 2 hours of flight
+away, I took this opportunity to register and see
 for myself what MWC Shanghai is all about.
 
 # MWC19 Shanghai
@@ -18,11 +20,11 @@ for myself what MWC Shanghai is all about.
 This year's theme for MWC Shanghai was **Intelligent Connectivity**, the same as
 it was [in Barcelona this year]({filename}/Events/mwc19-barcelona-report-en.md).
 
+![Hello MWC Shanghai: The Entrance]({filename}/images/mwc19-pvg/mwc19-pvg-entrance.jpg)
+
 ![Hello MWC Shanghai: Iqbal at MWC19 Shanghai]({filename}/images/mwc19-pvg/mwc19-pvg-iqbal.jpg)
 
 ![Hello MWC Shanghai: Iqbal at MWC19 Shanghai]({filename}/images/mwc19-pvg/mwc-map-reg-collage.jpg)
-
-Registration fees was much cheaper than Barcelona's MWC.
 
 ## Geared mostly for the Chinese market
 
