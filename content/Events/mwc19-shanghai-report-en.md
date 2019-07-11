@@ -38,14 +38,14 @@ received from people who have been to MWC Shanghai before, and knowing that
 China is a manufacturing powerhouse, but there was also a decent amount of
 software solutions vendors too.
 
-Like in Barcelona, a big theme as you walk around the booths was 5G.
+Like in Barcelona, a big theme that you'll notice as you walk around the exhibition halls was _5G_.
 
 ![MWC Shanghai 2019: Booths]({filename}/images/mwc19-pvg/mwc19-pvg-smaller-booths.jpg)
 
 ## 4YFN
 
 The Four Years From Now selection was interesting though. They had a healthy
-amount of startups, although the numbers are much smaller than what they had in
+amount of startups, although the overall number is much smaller than what they had in
 Barcelona this year.
 
 I stopped by the Malaysia Digital Economy Coorporation (MDEC) who was there
@@ -55,17 +55,21 @@ ecosystem in Malaysia.
 
 ![MWC Shanghai 2019: Booths]({filename}/images/mwc19-pvg/with-mdec-shafiq.jpg)
 
+There were stages for pitching, and you can spend the whole afternoon listening
+to all types of new businesses looking for partners and investments, which was
+an interesting learning experience.
+
 # Conclusion
 
 My general feeling of MWC Shanghai is that if you're interested in accessing the
-China market, it might be a good place for you to be. There were exhibitors
+China (and Chinese?) market, it might be a good place for you to be. There were exhibitors
 which are from other Asia regions like Singapore, and even startups from Europe
 for 4YFN but for those it might be more bang for your buck and time if you
-attend MWC in Barcelona or other events in Singapore like ConnectTech.
+attend MWC in Barcelona or other events in Singapore like CommunicAsia.
 
 There were also attendees which doesn't look like people from the industy, e.g
-wearing casual clothes and slippers walking amongts the booths, and even
-school children that look like they are on a field trip in the exhibition halls.
-
-Perhaps MWC in Shanghai has a different meaning to the local scene, which other
-MWC doesn't.
+people wearing casual clothes and slippers walking amongst the booths.
+I can't really be sure if these people are legit industry players, or just
+sighseeing tourists. There was even a group that looked liked schoolchildren on
+a field trip in the exhibition halls. Perhaps the accesibility of MWC Shanghai
+attracts more people than we would imagine. 
