@@ -7,11 +7,11 @@ Author: Iqbal Abdullah
 Thumbnail: images/mwc19-pvg/mwc19-pvg-entrance.jpg
 Summary: Iqbal went to Shanghai at the end of June to attend MWC19
 
-The yearly MWC Shanghai was held between June 26 to June 28 2019. During MWC
-Barcelona this year we received an offer to setup a booth during MWC Shanghai,
+The yearly MWC Shanghai was held between June 26 to June 28, 2019. During MWC
+Barcelona this year we received an offer to set up a booth during MWC Shanghai,
 but because we have never attended the event previously and didn't know what to
 expect, we declined the offer but since the entrance fees for visitors was much
-cheaper than MWC Barcelona, and since Shnaghai was only around 2 hours of flight
+cheaper than MWC Barcelona, and since Shanghai was only around 2 hours of flight
 away, I took this opportunity to register and see
 for myself what MWC Shanghai is all about.
 
@@ -34,7 +34,7 @@ the different booths and companies, and the way they tried to pass on their
 messages, it was mostly geared for the China or Chinese markets.
 
 I was also expecting a more hardware focused event, based on feedback I have
-received from people who have been to MWC Shanghai before, and knowing that
+received from people who have been to MWC Shanghai before and knowing that
 China is a manufacturing powerhouse, but there was also a decent amount of
 software solutions vendors too.
 
@@ -48,9 +48,9 @@ The Four Years From Now selection was interesting though. They had a healthy
 amount of startups, although the overall number is much smaller than what they had in
 Barcelona this year.
 
-I stopped by the Malaysia Digital Economy Coorporation (MDEC) who was there
-promoting Malaysia as a startup destination, and had an enlighting discussion
-with Shafiq, who is taking charge of building up the digital enterpreneruship
+I stopped by the Malaysia Digital Economy Corporation (MDEC) who was there
+promoting Malaysia as a startup destination and had an enlighting discussion
+with Shafiq, who is taking charge of building up the digital entrepreneurship 
 ecosystem in Malaysia.
 
 ![MWC Shanghai 2019: Booths]({filename}/images/mwc19-pvg/with-mdec-shafiq.jpg)
@@ -67,9 +67,9 @@ which are from other Asia regions like Singapore, and even startups from Europe
 for 4YFN but for those it might be more bang for your buck and time if you
 attend MWC in Barcelona or other events in Singapore like CommunicAsia.
 
-There were also attendees which doesn't look like people from the industy, e.g
+There were also attendees who don't look like people from the industry, e.g
 people wearing casual clothes and slippers walking amongst the booths.
-I can't really be sure if these people are legit industry players, or just
-sighseeing tourists. There was even a group that looked liked schoolchildren on
-a field trip in the exhibition halls. Perhaps the accesibility of MWC Shanghai
+I can't really be sure if these people are legit industry players or just
+sightseeing  tourists. There was even a group that looked liked schoolchildren on
+a field trip in the exhibition halls. Perhaps the accessibility  of MWC Shanghai
 attracts more people than we would imagine. 
