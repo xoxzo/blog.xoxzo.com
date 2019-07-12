@@ -2,7 +2,7 @@ Title: Searching for ideas, from programmers perspective
 Date: 2019-06-11
 Slug: searching-for-ideas
 Lang: en
-Tags: ideas; solutions 
+Tags: 2019; ideas; solutions 
 Author: Arthur Sultanbekov
 Summary: How to generate ideas, and solve tasks, from programmer's perspective
 

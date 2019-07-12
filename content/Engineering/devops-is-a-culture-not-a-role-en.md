@@ -1,7 +1,7 @@
 Title: DevOps is a culture, not a role
 Date: 2019-05-12 08:45
 Author: Kamal Mustafa
-Tags: devops, culture
+Tags: 2019, devops, culture
 Slug: devops-is-a-culture-not-a-role
 Lang: en
 Summary: There's no specific DevOps role. Instead, we build a culture where Dev and Ops engineer work together to achieve the organization's objective. And that's what is DevOps.
