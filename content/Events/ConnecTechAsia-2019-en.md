@@ -16,8 +16,11 @@ Last week I was in Singapore attending [ConnecTechAsia ](https://www.connectecha
 I attended the opening ceremony including an opening keynote speech titled ‘Leadership: from Experimentation to Transformation’ by Harriet Green chairman and CEO of IBM Asia Pacific, who talked about trust and artificial intelligence, The role and importance that trust along with transparency must play in the principles and frameworks that will shape this new age being defined by data and Artificial Intelligence. and shared some case studies on trade document processing using AI with Standard Chartered. 
 
 Here are the main points from her [speech](https://www.ibm.com/sg-en/campaign/connectech): 
+
 * Embedding digital and AI at scale – to accelerate transformation
+
 * Adopting technologies that are flexible, open and secure – to support future business needs
+
 * Ensuring trust – both in technologies and their impact on the world
 
 ![Harriet Green opening keynote](/images/CTA_HarrietGreen.jpg)
@@ -28,15 +31,22 @@ Here are the main points from her [speech](https://www.ibm.com/sg-en/campaign/co
 
 I attended the [Summit](https://www.connectechasia.com/summit) selectively. The first session I attended was 5G Keynote: The Launch and Beyond the Future of Connectivity by Seizo Onoe, President of DOCOMO Technology and Chief Technology Architect, NTT DOCOMO. 
 He shared a few 5G use cases on:
+
 * a trial with Komatsu on the remote operation of construction machinery by mount 5G terminals on hydraulic excavators and bulldozers and have a remote operator control the machinery while watching video of it via 5G, 
+
 * a trial with NEC  on remote medical examinations in Wakayama prefecture using 5G, allowing doctors to receive real time advice from specialists on medical diagnosis across mountainous terrains. 
+
 * a trial with Yamaha on 5G cyber jam session, allowing musicians at different locations to play music together. 
 NTT Docomo customers will be able to experience 5G services during the Rugby World Cup in September next year. 
 
 Onoe remarked that 5G is the first G that is ahead of schedule, and went on to share his [observations](https://www.riverpublishers.com/journal_read_html_article.php?j=JICTS/5/3/4) based on 1G to 4G: 
+
 * Previous gen bloom just before the next (LTE Advanced pro vs 4G)
+
 * Great success only in even gen (2G & 4G)
+
 * Advent of next generation service after next generation network launch 
+
 What is important, however, is that all these observations from the previous generations of mobile technology could easily become invalid, which means 5G could be a great success by tapping on cross-industrial collaborations. 
 
 ![Seizo Onoe 5G keynote](/images/CTA_Onoe.jpg)
@@ -46,12 +56,19 @@ What is important, however, is that all these observations from the previous gen
 CXO Roundtable – 5G: The Future Game Changer of Data, Networks and Consumption
 
 Panellists:
+
 * Seizo Onoe, President of DOCOMO Technology and Chief Technology Architect, NTT DOCOMO
+
 * Ong Geok Chwee, CEO, Bridge Alliance
+
 * Shekar Ayyar, EVP - Strategy and Corporate Development & GM, Telco NFV Group, VMware
+
 * Dr. David Soldani, Expert, CTO Office, Huawei Southern Pacific Region
+
 * Bryan Tan, Head of Connectivity Ecosystem – APAC, Facebook
+
 Moderator: 
+
 * David Kennedy, Practice Leader Asia Pacific, OVUM
 
 The focus of 5G is no longer on spectrum allocation, but increasingly on use cases, cross industry partnership, pool of cloud capacity, and what problems can be solved using 5G, and that solutions can be region specific. 
