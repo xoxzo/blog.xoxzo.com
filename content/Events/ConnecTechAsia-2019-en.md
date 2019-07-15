@@ -1,5 +1,5 @@
 Title: ConnecTechAsia 2019 in Singapore
-Date: 2019-06-28
+Date: 2019-06-28 10:00
 Slug: connectechasia-2019 
 Lang: en
 Tags: connectechasia; event; singapore; 2019;
