@@ -5,7 +5,7 @@ Lang: en
 Tags: connectechasia; event; singapore; 2019;
 Thumbnail: images/CTA_thumbnail.jpg
 Author: Ai Sin Chan 
-Summary: We attended ConnecTechAsia 2019 in Singapore, including the Summit. 
+Summary: We attended ConnecTechAsia 2019 in Singapore including the Summit
 
 Last week I was in Singapore attending [ConnecTechAsia ](https://www.connectechasia.com/) 2019 with Iqbal. This year’s exhibition was held at Sands Expo and Convention Centre in Marina Bay Sands.
 
