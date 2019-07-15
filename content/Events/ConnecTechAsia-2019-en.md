@@ -2,21 +2,21 @@ Title: ConnecTechAsia 2019 in Singapore
 Date: 2019-06-28
 Slug: connectechasia-2019 
 Lang: en
-Tags: connectechasia, event, singapore, 2019
+Tags: connectechasia; event; singapore; 2019
 Thumbnail: images/CTA_thumbnail.jpg
 Author: Ai Sin Chan 
 Summary: We attended ConnecTechAsia 2019 in Singapore, including the Summit. 
 
-Last week I was in Singapore attending [ConnecTechAsia ](https://www.connectechasia.com/) 2019 with Iqbal. This year’s exhibition was held at Sands Expo and Convention Centre in Marina Bay Sands.
+Last week I was in Singapore attending [ConnecTechAsia ](https://www.connectechasia.com/) 2019 with Iqbal. This yearâ€™s exhibition was held at Sands Expo and Convention Centre in Marina Bay Sands.
 
 ![ConnecTechAsia 2019](/images/CTA_EntranceSignage.jpg)
 
 ## Opening ceremony
 
-I attended the opening ceremony including an opening keynote speech titled ‘Leadership: from Experimentation to Transformation’ by Harriet Green chairman and CEO of IBM Asia Pacific, who talked about trust and artificial intelligence, The role and importance that trust along with transparency must play in the principles and frameworks that will shape this new age being defined by data and Artificial Intelligence. and shared some case studies on trade document processing using AI with Standard Chartered. Here are the main points from her [speech](https://www.ibm.com/sg-en/campaign/connectech): 
-- Embedding digital and AI at scale – to accelerate transformation
-- Adopting technologies that are flexible, open and secure – to support future business needs
-- Ensuring trust – both in technologies and their impact on the world
+I attended the opening ceremony including an opening keynote speech titled â€˜Leadership: from Experimentation to Transformationâ€™ by Harriet Green chairman and CEO of IBM Asia Pacific, who talked about trust and artificial intelligence, The role and importance that trust along with transparency must play in the principles and frameworks that will shape this new age being defined by data and Artificial Intelligence. and shared some case studies on trade document processing using AI with Standard Chartered. Here are the main points from her [speech](https://www.ibm.com/sg-en/campaign/connectech): 
+- Embedding digital and AI at scale â€“ to accelerate transformation
+- Adopting technologies that are flexible, open and secure â€“ to support future business needs
+- Ensuring trust â€“ both in technologies and their impact on the world
 
 ![Harriet Green opening keynote](/images/CTA_HarrietGreen.jpg)
 
@@ -40,13 +40,13 @@ What is important, however, is that all these observations from the previous gen
 
 ### 5G panel discussion
 
-CXO Roundtable – 5G: The Future Game Changer of Data, Networks and Consumption
+CXO Roundtable â€“ 5G: The Future Game Changer of Data, Networks and Consumption
 Panellists:
 Seizo Onoe, President of DOCOMO Technology and Chief Technology Architect, NTT DOCOMO
 Ong Geok Chwee, CEO, Bridge Alliance
 Shekar Ayyar, EVP - Strategy and Corporate Development & GM, Telco NFV Group, VMware
 Dr. David Soldani, Expert, CTO Office, Huawei Southern Pacific Region
-Bryan Tan, Head of Connectivity Ecosystem – APAC, Facebook
+Bryan Tan, Head of Connectivity Ecosystem â€“ APAC, Facebook
 Moderator: David Kennedy, Practice Leader Asia Pacific, OVUM
 
 The focus of 5G is no longer on spectrum allocation, but increasingly on use cases, cross industry partnership, pool of cloud capacity, and what problems can be solved using 5G, and that solutions can be region specific. 
@@ -57,7 +57,7 @@ The focus of 5G is no longer on spectrum allocation, but increasingly on use cas
 
 ### AI-data recipe
 
-Visionary Address: The AI-Data Recipe – The Catalyst for Personalised Immersive Experience
+Visionary Address: The AI-Data Recipe â€“ The Catalyst for Personalised Immersive Experience
 Dr Keeratpal Singh, Chief Data Scientist, Axiata
 
 Dr Keeratpal Singh talked about how AI and data could be used to achieve personal IoT over the mobile device for every user. The process usually starts with identifying persona, and Big data, analyzing fb communication, influencers. 
@@ -70,7 +70,7 @@ A few cases were studied, for example from Jalan dutatoll to sungai besi toll, a
 
 ### Inside the mind of a hacker
 
-The Power Station Hack: Inside the Mind of a Hacker –– Don’t Let the Lights Go Out by Joseph Carson, Chief Security Scientist & Advisory CISO, Thycotic
+The Power Station Hack: Inside the Mind of a Hacker â€“â€“ Donâ€™t Let the Lights Go Out by Joseph Carson, Chief Security Scientist & Advisory CISO, Thycotic
 
 As a security consultant and hired for ethical hacking projects to test the strength of security measures for clients, Joseph would typically spend 90% of his effort on research, and probably 10% on physical attack to the system. 
 
@@ -80,7 +80,7 @@ A big vulnerability in the corporate environment is in the supply chain. For exa
 
 Once he is on-site, he would explore the IT environment, including attempts on network scanning, wifi network, PLC and Scada control, control systems, etc. The goal is to gain remote access to the company network. 
 
-Finally the big break came when he found a list of printed passwords on a piece of paper that was 4 years old. Of course he reported the risk to the board of his client, which eventually helped them to understand and take measures to reduce business risks, and put more focus on cyber security. He ended the talk by giving out copies of his book, [‘Least Privilege Cybersecurity for Dummies’]( https://thycotic.com/resources/wileys-least-privilege-for-dummies/) (Click on the book title to download the ebook for free)
+Finally the big break came when he found a list of printed passwords on a piece of paper that was 4 years old. Of course he reported the risk to the board of his client, which eventually helped them to understand and take measures to reduce business risks, and put more focus on cyber security. He ended the talk by giving out copies of his book, [â€˜Least Privilege Cybersecurity for Dummiesâ€™]( https://thycotic.com/resources/wileys-least-privilege-for-dummies/) (Click on the book title to download the ebook for free)
 
 ![Inside the mind of a hacker](/images/CTA_JosephCarson.jpg)
 
@@ -94,7 +94,7 @@ The exhibitions were divided into 3 themes, namely BroadcastAsia, CommunicAsia, 
 
 ### CommunicAsia
 
-There were a lot of satellite operators, but not mobile operators as it was in the 2000’s when I previously attended the trade show. At a glance, I only noticed Singtel and MobiFone there.  
+There were a lot of satellite operators, but not mobile operators as it was in the 2000â€™s when I previously attended the trade show. At a glance, I only noticed Singtel and MobiFone there.  
 
 ![CommunicAsia mobile operators](/images/CTA_Mobile.jpg)
 
