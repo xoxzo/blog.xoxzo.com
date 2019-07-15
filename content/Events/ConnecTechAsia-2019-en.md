@@ -2,7 +2,7 @@ Title: ConnecTechAsia 2019 in Singapore
 Date: 2019-06-28
 Slug: connectechasia-2019 
 Lang: en
-Tags: connectechasia; event; singapore; 2019
+Tags: connectechasia; event; singapore; 2019;
 Thumbnail: images/CTA_thumbnail.jpg
 Author: Ai Sin Chan 
 Summary: We attended ConnecTechAsia 2019 in Singapore, including the Summit. 
