@@ -23,31 +23,22 @@ this year.
 
 We also had the _nearly_ usual group of people from Japan that came.
 
-
 ![Sponsor booths at PyCon TH 2019]({filename}/images/pycon-thai-2019/pycon-thai-2019/pycon-th-2019-people.jpg)
 
-For the Lightning Talk session on Saturday, I presented the different PyCons
-around the APAC region.
+
 
 After the first day of conference, they changed the open space in front of the
 main hall to a huge party space, complete with a live band:
 ![PyCon TH 2019 Conference Party]({filename}/images/pycon-thai-2019/pycon-th-2019-afterparty.jpg)
 
-These are the people that came to Bangkok to give support to PyCon Thailand from
-Japan:
-![JP attendees at PyCon Thai 2018]({filename}/images/pycon-thai-2018/team-jp.jpg)
 
-Wes McKinney giving his keynote on Saturday morning:
-![Keynote by Wes at PyCon Thai 2018]({filename}/images/pycon-thai-2018/wes-keynote.jpg)
-
-At the end of the conference, Dylan went up to the stage and gave the credits
-roll for all the hard-working staff that made PyCon Thailand 2018 a success: 
-![Staff roll call at closing for PyCon Thai 2018]({filename}/images/pycon-thai-2018/staff.jpg)
-
-Congratulations to Dylan for leading the PyCon Thailand 2018 team, and the community for a having a
-local conference that gives space, time and opportunity to the local python
-users and developers to share ideas and grow. 
-
-Welcome to the APAC family!
+For the Lightning Talk session on Sunday, I talked about how, as part of the
+community within open source, we're not giving back to the community enough,
+given the fact that many of us have been succesful in our businesses due to open
+source.
 
 
+The hard-working staff that made PyCon Thailand 2018 a success: 
+![Staff roll call at closing for PyCon Thai 2018]({filename}/images/pycon-thai-2019/pycon-th-2019-closing-staff.jpg)
+
+Congratulations again to Dylan for leading the PyCon Thailand 2019 team, and the community for a having a
