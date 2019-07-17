@@ -15,10 +15,8 @@ In line with our philosophies, our CEO Iqbal Abdullah has recently been appointe
 
 Working with [New Entrepreneurs Foundation](https://www.mynef.com/), Iqbal would be reaching out to startups in Malaysia and invite them to nominate candidates for the awards. To start the ball rolling, Iqbal himself would be nominating some candidates as well. 
 
-To our esteemed reader, if you would like to nominate worthy startups for the awards, you may do so at the following URL by 9 August 2019:
-http://ricebowlawards.com/
+To our esteemed reader, if you would like to nominate worthy startups for the awards, you may do so at the following link by 9 August 2019: [Nomination form](http://ricebowlawards.com/)
 
-More details of the awards can be found in the official press release of the ASEAN Rice Bowl Startup Awards 2019 as follows:
-http://ricebowlawards.com/media/
+More details of the awards can be found in the official press release of the ASEAN Rice Bowl Startup Awards 2019 as follows: [Press release](http://ricebowlawards.com/media/)
 
 ![ASEAN Rice Bowl Startup Awards 2019](/images/arbsa-2019/ARBSA_banner.jpg)
