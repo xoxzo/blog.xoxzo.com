@@ -15,7 +15,7 @@ During this time, the messages were sent from the web form but stayed in the que
 
 The messages being sent during this period were all sent in order after 2.00PM (JST) on July 15.
 
-The direct cause for this is still under investigation but we have applied the new watching mechanism of to find this kind of issue for the future issue prevention. 
+The direct cause for this is still under investigation but we have applied the new watching mechanism of finding this kind of issue for the future issue prevention. 
 
 We are deeply sorry for any inconvenience or loss caused by this issue, for any questions, please contact us at anytime.
 
