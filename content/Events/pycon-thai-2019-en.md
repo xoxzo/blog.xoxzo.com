@@ -21,25 +21,25 @@ This is how the sponsor booths were lined up
 ![Sponsor booths at PyCon TH 2019]({filename}/images/pycon-thai-2019/pycon-th-2019-sponsorbooths.jpg)
 
 PyCon Thailand has started to attract people from around the region. I met a
-fellow Malaysian who has never been to PyCon MY before, but is here in Bangkok
+fellow Malaysian who has never been to PyCon MY before but is here in Bangkok
 this year.
 
 We also had the _nearly_ usual group of people from Japan that came.
 
 ![People I met at PyCon TH 2019]({filename}/images/pycon-thai-2019/pycon-th-2019-people.jpg)
 
-After the first day of conference, they changed the open space in front of the
+After the first day of the conference, they changed the open space in front of the
 main hall to a huge party space, complete with a live band:
 ![PyCon TH 2019 after party]({filename}/images/pycon-thai-2019/pycon-th-2019-officialparty.jpg)
 
 Since this is a good opportunity to bring out a subject which I think is
 important for our community but not discussed enough in the region, for the
 Lightning Talk session on Sunday
-[I talked about how we're not giving back enough to the open source](https://www.slideshare.net/xoxzo/lightning-talk-pycon-thailand-2019),
+[I talked about how we're not giving back enough to the open-source](https://www.slideshare.net/xoxzo/lightning-talk-pycon-thailand-2019),
 despite the many financial successes that we have seen.
 I also introduced our [Annual Open Source Grant program]({filename}/Community/annual-opensource-grant-2019-en.md),
 to give tangible ideas to other attendees so they can bring back to their
-respective companies and start contributing more to open source.
+respective companies and start contributing more to open-source.
 
 These are the hard-working staff that made PyCon Thailand 2019 a success: 
 ![Staff roll call at closing for PyCon Thai 2018]({filename}/images/pycon-thai-2019/pycon-th-2019-closing-staff.jpg)
@@ -57,14 +57,14 @@ These are the hard-working staff that made PyCon Thailand 2019 a success:
 - 32% of the attendees are using Python _outside_ of work.
 
 It's a healthy sign to see many young, local newcomers to the language making the effort
-to particpate in their yearly PyCon in Bangkok. I'm also surprised to learn that
-a big portion of the participants are _not_ using Python at work: It looks like
+to participate  in their yearly PyCon in Bangkok. I'm also surprised to learn that
+a big portion of the participants is _not_ using Python at work: It looks like
 perhaps enterprise Thailand hasn't warmed up to Python (yet).
 
 An interesting thing they had this year was this sticker system: They had a
 bunch of different types of small stickers which you can take and stick it to
-your PyCon badge. These stickers show what topics you're interested in. You can
-of course take more than one sticker if you're interested in more than one
+your PyCon badge. These stickers show what topics you're interested in. You can,
+of course, take more than one sticker if you're interested in more than one
 topic.
 
 The topics range from machine learning, ops, web, CGI, NLP, crypto and another 6
@@ -86,13 +86,13 @@ sums up the conference nicely.
 
 ## Summing it up
 
-Congratulations again to Dylan and his PyCon TH 2019 team for a succesful conference.
+Congratulations again to Dylan and his PyCon TH 2019 team for a successful  conference.
 
-I did notice that PyCon TH tends to have more non-thai speakers as opposed to
-other regional conferences like PH, JP or MY. Hopefully they can get more local
-thais as speakers in their next edition of PyCon TH.
+I did notice that PyCon TH tends to have more non-Thai speakers as opposed to
+other regional conferences like PH, JP or MY. Hopefully, they can get more local
+Thais as speakers in their next edition of PyCon TH.
 
-Personally I enjoyed the conference tremendously, not exactly for the talks
+Personally, I enjoyed the conference tremendously, not exactly for the talks
 which I couldn't catch much due to hallway discussions but for the
-opportunity to meet old and new friends, and discussing about ideas and the
+opportunity to meet old and new friends, and discussing ideas and the
 future among the smartest people I know.
