@@ -49,7 +49,7 @@ These are the hard-working staff that made PyCon Thailand 2019 a success:
 
 ## Interesting statistics
 
-- Over 300 attendees.
+- Over 400 attendees, including volunteers
 - Nearly 25% of the attendees were people younger than 24 years old
 - 17% of the attendees were female
 - 60% of the attendees are people who have used Python for less than 2 years
