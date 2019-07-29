@@ -16,10 +16,8 @@ LGTM! (=Looks Good To Me!):ワタシ的にはOK！
 どんなキーワードで検索したのだったか思い出せません。
 コードレビューについてとっても良い資料を読んだことがあったのですが、Once I found a good material about code review, but I can not recall what is the
 
-コードれThe first thing I do when doing code review is asking for PEP8 compliance. I
-コードレビューについてとっても良い資料を読んだことがあったのですが、Once I found a good material about code review, but I can not recall what is the
-know this is not a substantial thing to do. I mean, PEP8 will not check for the
-code logic. PEP8 will only check for the code syntax: is there any modules
+私がコードレビューで一番にすることは、PEP8 compliance なんです。
+あまり意味がないことはわかっています。PEP8 はコードのロジックをチェックするわけではないですからね。 PEP8 will only check for the code syntax: is there any modules
 imported but it is not being used, unused variables, too many blank spaces, etc.
 But somehow I consider comply with PEP8 is an important thing to do because the
 code will also being read by someone else not only by the code author. Imagine
