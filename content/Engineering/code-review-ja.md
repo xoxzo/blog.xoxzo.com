@@ -20,30 +20,26 @@ LGTM! (=Looks Good To Me!):ワタシ的にはOK！
 あまり意味がないことはわかっています。PEP8 はコードのロジックをチェックするわけではないですからね。 
 PEP8 がチェックするのは、コードシンタックスだけです。インポートされているのに使われていないモジュールはないか、
 変数は、空白が多すぎないか、などですね。
-しかし私はBut somehow I consider comply with PEP8 is an important thing to do because the
-code will also being read by someone else not only by the code author. Imagine
-when you need to read other people code and the code is being written without
-following the standard.
+しかし、どういうわけか私は、PEP8に従っていることが重要だと思っています。
+というのも、コードというのは、書いた人だけはでなく他の人も読むものだからです。
+他の人のコードを読むときに、標準ルールに従わずに書かれていたら、と想像してみてください。
 
-There are many automated tools out there to ensure that the code you write is
-comply with PEP8. Since most of the time I use vim, I use vim-flake8 plugin.
-You may check this steps that I wrote on [enabling flake8 on
-vim](https://gist.github.com/za/983db825aee2dc352d5341da357cbfb4).
+書いたコードが PEP8に準拠していると自動で確認するツールはたくさんあります。
+私はたいていvimを使っているので、vim-flake8プラグインを使います。
+私が enabling flake 8 で書いたこのステップは、[ここで](https://gist.github.com/za/983db825aee2dc352d5341da357cbfb4)チェックしてください。
 
-After that, then I would review the core logic of the PR. For Django case, I
-would review the views.py I will do the manual test that if it is a new
-functionality, this new functionality is working as expected. If the manual
-test is OK, then I would like to have the test code is exist to do this test.
+これが済むと、私はPRのコアロジックを見直しをします。
+Djangoの場合、私は views.pyを確認します。
+新しい機能である場合は、それが期待通りに動いているかどうか手動のテストを行います。
+手動テストがOKであれば、私はこのテストを行うためのコードがあるかを確かめます。
 
-If everything is OK, I will proceed to alternate use case. What I mean by
-alternate use case here is not the main use case but for example what if other
-user who does not have the privilege trying to do the action in the new
-functionality. Since I come from security background this concept is not too
-difficult for me to understand. For a simple example, a logged in user B should
-not be able to reset user A password.
+すべて問題なければ、 _代わりのユースケース_ へと進みます。
+ここで言う _代わりのユースケース_ というのは、主なユースケースではありませんが、例えばこの新機能の実行権のない他のユーザーだったらどうか、
+ということです。
+私はセキュリティ関連の分野から来たので、この概念もそう難しくはありません。
+簡単な例としては、ログインユーザーBはユーザーAのパスワードをリセットすることはできないはず、といった感じです。
 
-I still need to learn to do a better code review. So far I found a quite
-interesting angle on doing [code review by Ana
-Balica](https://ana-balica.github.io/2017/05/28/humanizing-among-coders/). So
-please also have a look and I will update this blog post as well once I found
-the code review material that I can not recall for now.
+私はまだ、コードレビューの上達のため、学ぶ必要があります。これまでのところ
+[Ana Balica](https://ana-balica.github.io/2017/05/28/humanizing-among-coders/)
+によるコードレビューが、かなり面白い角度だと思っています。読んでみていただけると良いかと思います。
+紹介したかったのに思い出せないコードレビュー資料を見つけたら、このブログ記事を更新します。
