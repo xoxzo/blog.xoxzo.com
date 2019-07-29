@@ -20,10 +20,7 @@ LGTM! (=Looks Good To Me!):ワタシ的にはOK！
 あまり意味がないことはわかっています。PEP8 はコードのロジックをチェックするわけではないですからね。 
 PEP8 がチェックするのは、コードシンタックスだけです。インポートされているのに使われていないモジュールはないか、
 変数は、空白が多すぎないか、などですね。
-PEP8 がチェックするのは、コードシンタックスだけです。インポートされているのに使われていないモジュールはないか、will only check for the code syntax: is there any modules
-しかしわたしはBut somehow I consider comply with PEP8 is an important thing to do because the
-PEP8 がチェックするのは、コードシンタックスだけです。インポートされているのに使われていないモジュールはないか、will only check for the code syntax: is there any modules、
-PEP8 がチェックするのは、コードシンタックスだけです。インポートされているのに使われていないモジュールはないか、will only check for the code syntax: is there any modules
+しかし私はBut somehow I consider comply with PEP8 is an important thing to do because the
 code will also being read by someone else not only by the code author. Imagine
 when you need to read other people code and the code is being written without
 following the standard.
