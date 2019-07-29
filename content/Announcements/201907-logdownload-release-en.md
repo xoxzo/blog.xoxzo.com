@@ -15,7 +15,7 @@ Most of the users would like to review after they send/receive SMS/calls
 and we offer APIs to [**check SMS status**](https://docs.xoxzo.com/en/sms.html#check-sms-status-api) and
 [**check call status**](https://docs.xoxzo.com/en/voice.html#checking-call-status).
 
-We are now proud to announce that Checking your account usage for SMS sending will became as easy as 1-2-3.
+We are now proud to announce that **Checking your account usage for SMS sending** will became as easy as 1-2-3.
 
 With our new release, you can web-download the log in csv!!
 
@@ -43,4 +43,4 @@ Your .csv file will be ready for downloading in a while. In the file, you will f
 
 Would you have any questions, please contact help@xoxzo.com
 
-_this web-download feature has been valued as a handy-function at [EZSMS](https://www.ezsms.biz/en/), our web-based SMS sending service and former platform of Xoxzo. We are glad to have received such many hot-demand of reproduction and to be available to respond to the request._
+_this web-download feature has been valued as a handy-function at [EZSMS](https://www.ezsms.biz/en/), our web-based SMS sending service as well as the former platform of Xoxzo. We are glad to have received such many hot-demand of reproduction and to be available to respond to the request._
