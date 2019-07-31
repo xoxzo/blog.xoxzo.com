@@ -15,7 +15,7 @@ Xoxzoの APIでは、 [SMSの配信](https://www.xoxzo.com/ja/about/sms-api/)や
 Xoxzoでも [**SMSのステータス確認API**](https://docs.xoxzo.com/ja/sms.html#check-sms-status-api) であるとか、
 [**通話発信ステータス確認API**](https://docs.xoxzo.com/ja/voice.html#checking-call-status) などをご用意しております。
 
-今回のリリースでは、**SMSの配信状況ステータス確認が、csv形式ファイルでウェブよりダウンロードできる**ようになり、
+今回のリリースでは、 **SMSの配信状況ステータス確認が、csv形式ファイルでウェブよりダウンロードできる** ようになり、
 大変簡単で便利になりましたので、お知らせいたします。
 
 どのくらい簡単で便利になったのでしょうか。
