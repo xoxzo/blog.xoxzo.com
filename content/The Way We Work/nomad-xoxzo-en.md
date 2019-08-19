@@ -42,7 +42,7 @@ for those meetings and usual communication, if you would.
 ![breaktime](images/breaktime.jpg)
 
 ### Let's have a break!!
-"Just a break" Coffee and sweets at ten or 15 o'clock, 
+"Just a break" Coffee and sweets at 10 or 15 o'clock, 
 we will do it at each time in each country. 
 Lunch break is also disjointed and alone. 
 However, team Xoxzo regardless of country borders, time difference, age, gender, title, 
@@ -52,9 +52,9 @@ We all fully utilize the tools to connect with each other and use them for work 
 
 ### Travelling? (as Japanese companies usually do)
 Ah, company trips? do you want to know?
-A part of them can be viewed here. (Https://blog.xoxzo.com/en/the-way-we-work/)
+A part of them can be viewed [here](https://blog.xoxzo.com/en/2017/03/01/we-are-ten-years-old/).
 
-### friendship with your colleagues
+### Friendship with your colleagues
 Certainly, there are variations in the finishing hours as well, 
 so we do not always have relationships like _"How about having some drinks on our way home?"_
 However, if we find members who work online even in the middle of the night, 
