@@ -2,7 +2,7 @@ Title: 新規リリース: ログダウンロード機能
 Date: 2019-08-13
 Slug: logs-download-feature-new-release
 Lang: ja
-Tags: download logs; new release; 2019;
+Tags: ログダウンロード; 新規リリース; 2019;
 Thumbnail: images/freepik/young-females-download-icon.jpg
 Author: Iqbal Abdullah
 Summary: ダッシュボードより、ログファイルがダウンロードできるようになりました！
@@ -15,7 +15,7 @@ Summary: ダッシュボードより、ログファイルがダウンロード�
 
 この機能は、多くのお客様より何度もご要望のあった機能です。
 これまで、配信されたメッセージのデータの入手には、
-**[SMSの配信状態を確認するAPI](https://docs.xoxzo.com/en/sms.html#check-sms-status-api)**
+**[SMSの配信状態を確認するAPI](https://docs.xoxzo.com/ja/sms.html#check-sms-status-api)**
 をご利用頂く必要がありました。
 
 このAPIのご利用には、様々な制限がありました。
@@ -32,6 +32,20 @@ Xoxzoのユーザー様には、一日に何千ものメッセージ配信をご
 Xoxzoのインフラにおける技術的な制限により、文字通り大量のご利用ログデータの取得をシンプルで素早く可能とする機能の構築は、
 並々ならぬ挑戦ではありました。少しお時間をいただきましたが、ようやく準備が整い、ダッシュボードよりCSVフォーマットにて
 ログファイルを直接ダウンロードしていただけることとなりました。
+
+ダウンロードした csv ファイル内の項目は、
+
+- sender
+- url
+- msgid
+- tags
+- sent_time
+- recipient
+- status
+- cost
+- apiuser
+
+です。
 
 ダウンロードいただけるログは、 **過去42日まで、遡ることができます。**
 

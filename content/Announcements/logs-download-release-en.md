@@ -33,6 +33,18 @@ something that allows our customers to retrieve their huge usage logs in a simpl
 quick manner. It took us time but we've finally figured it out and you now can
 download your usage logs directly from the dashboard in CSV format.
 
+The csv file will contain the following data:
+
+- sender
+- url
+- msgid
+- tags
+- sent_time
+- recipient
+- status
+- cost
+- apiuser
+
 You can download logs for requests **up to 42 days in the past.**
 
 ## So how do I download my logs?
