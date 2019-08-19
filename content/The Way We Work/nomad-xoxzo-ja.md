@@ -1,5 +1,5 @@
 Title: 『ノマド・Xoxzo』の日々
-Date: 2019-02-07
+Date: 2019-08-20
 Author: Aiko Yokoyama
 Tags: Xoxzo; ノマド; リモートワーク; グローバルワーク;
 Slug: nomad-xoxzo
