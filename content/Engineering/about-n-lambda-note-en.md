@@ -4,12 +4,12 @@ Date: 2019-08-30
 Author: Akira Nonaka
 Tags: Python, coroutine, 2019
 Slug: about-n-lambda-note
-Summary: Introducing a monthly magazine called "N Lambda Note", for whom loving computing deviceXXXXX
+Summary: Introducing a monthly magazine called "N Lambda Note", for whom loving computers
 
 Hi this is Nonaka, who is having unquiet time as [Rugby world cup 2019](https://www.rugbyworldcup.com/)is approaching.
 
 I would like to introduce a monthly magazine that would be
-a definite delight for XXXXX freaks called 
+a definite delight for computer freaks called 
 [N Lambda Note](https://www.lambdanote.com/collections/n).
 This is recommended by my Facebook friend and the Vol.1, No.1(2019) has:
 
