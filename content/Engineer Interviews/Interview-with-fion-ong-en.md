@@ -2,7 +2,7 @@ Title: Fion Ong : Job fulfillment comes from overcoming challenges that demands 
 Date: 2019-05-26
 Slug: interview-with-fion-ong 
 Lang: en 
-Tags: interview 
+Tags: 2019; interview 
 Thumbnail: images/FionOng.jpg 
 Author: Ai Sin Chan 
 Summary: We talked to Fion Ong who has been working on self-service banking solutions for over a decade. 
