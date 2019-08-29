@@ -6,7 +6,7 @@ Tags: Python, coroutine, 2019
 Slug: about-n-lambda-note
 Summary: Introducing a monthly magazine called "N Lambda Note", for whom loving computers
 
-Hi this is Nonaka, who is having unquiet time as [Rugby world cup 2019](https://www.rugbyworldcup.com/)is approaching.
+Hi this is Nonaka, who is having unquiet time as [Rugby world cup 2019](https://www.rugbyworldcup.com/) is approaching.
 
 I would like to introduce a monthly magazine that would be
 a definite delight for computer freaks called 
