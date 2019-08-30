@@ -6,13 +6,13 @@ Tags: privacymark; xoxzo; Pマーク; 2019;
 Author: Aiko Yokoyama
 Summary: 今年Xoxzoは、プライバシーマークを再度更新いたしました。
 
-![pmark-2019](/images/pmark-2019-ja.jpg)
+![pmark-2019](/images/pmark-2019-ja.png)
 
 平素は、[Xoxzo-クラウドテレフォニープラットフォーム](https://www.xoxzo.com/ja/)及び[SMS配信サービス・EZSMS](https://www.ezsms.biz/ja/)　をご利用いただき、誠にありがとうございます。
 
 この度、Xoxzoはプライバシーマーク更新を行いましたので、お知らせ申し上げます。
 
-![pmark-2019-cert](/images/pmark-2019-cert.png)
+![pmark-2019-cert](/images/pmark-2019-cert.jpg)
 
 - 登録番号  第１０８２４０８９（０４）号
 - 有効期間  ２０１９年６月１３日～２０２１年６月１２日
