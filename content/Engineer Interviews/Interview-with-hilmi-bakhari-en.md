@@ -1,4 +1,4 @@
-Title: Hilmi Bakhari : Keep reinventing yourself
+Title: Hilmi Bakhari: Keep reinventing yourself
 Date: 2019-08-30
 Slug: interview-with-hilmi-bakhari 
 Lang: en 
@@ -15,9 +15,9 @@ Hilmi Bakhari is an experienced developer with 16 years of experience, and is st
 
 > I attended PyCon MY in 2016 and put down my name as a volunteer for the organizing committee of PyCon APAC in 2017. Since I am a technical person and had no experience in event organizing, I volunteered for ticketing function, and started working on it from January 2017. By March, one of the co-chair had to pull out due to personal reason, so I was asked to step up and fill the role of the co-chair, which expanded my role to include a few more tasks. PyCon APAC being a regional conference, I saw more diversed participants compared to the PyCon MY local conference. 
 
-**What other developer’s community are you involved in?
+**What other developerâ€™s community are you involved in?
 
-I am also a part of the Java developer’s community. I sign up to the Java Community ProcessSM (JCPSM) Program, as well as participate in reviewing and providing feedback for the Java Specification Requests (JSRs). 
+I am also a part of the Java developerâ€™s community. I sign up to the Java Community ProcessSM (JCPSM) Program, as well as participate in reviewing and providing feedback for the Java Specification Requests (JSRs). 
 What programming language do you specialize in?
 I had been using Python test framework simulate SMS between 2012 and 2016 when I was working on a research and development project in MIMOS. Most of my projects there were focused on proof of concept and semantic web. 
 
@@ -27,9 +27,9 @@ I had been using Python test framework simulate SMS between 2012 and 2016 when I
 
 **What do you look for in a job opportunity?
 
-> The culture. When the headhunter contacted me about the opening in Digital.RHB, I was initially hesitant, thinking that the work culture in banks might not be the same as the technology companies that I’m used to. In my previous jobs I had interviewed job seekers coming from software development in banking and observed that they had very specialized roles, which offered less room for exploration. 
+> The culture. When the headhunter contacted me about the opening in Digital.RHB, I was initially hesitant, thinking that the work culture in banks might not be the same as the technology companies that Iâ€™m used to. In my previous jobs I had interviewed job seekers coming from software development in banking and observed that they had very specialized roles, which offered less room for exploration. 
 
-> I’m glad that I still went for the interview, after which I was offered a tour of the office and ended up spending half a day there, witnessing how the team worked and conducted a sprint. 
+> Iâ€™m glad that I still went for the interview, after which I was offered a tour of the office and ended up spending half a day there, witnessing how the team worked and conducted a sprint. 
 
 > Digital.RHB has been established for 2 years, and adopts some digital nomad or startup culture, which includes remote working and flexible hours. We apply agile development methodology (as opposed to waterfall development methodology), we carry out our development in iteration, and plan for sprint sessions, and work on features by the quarters of the year. There is much respect towards technical expertise from the management team. The system architects set a direction for feature development, the software developers are welcome to counter propose their ideas in order to fine tune it. 
 
