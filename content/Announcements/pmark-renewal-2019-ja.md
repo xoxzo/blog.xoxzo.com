@@ -6,7 +6,7 @@ Tags: privacymark; xoxzo; Pマーク; 2019;
 Author: Aiko Yokoyama
 Summary: 今年Xoxzoは、プライバシーマークを再度更新いたしました。
 
-![pmark-2019](/images/pmark-2019-ja.png)
+![pmark-2019](/images/pmark-2019-ja.jpg)
 
 平素は、[Xoxzo-クラウドテレフォニープラットフォーム](https://www.xoxzo.com/ja/)及び[SMS配信サービス・EZSMS](https://www.ezsms.biz/ja/)　をご利用いただき、誠にありがとうございます。
 
