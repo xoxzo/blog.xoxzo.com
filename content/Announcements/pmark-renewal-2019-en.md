@@ -6,18 +6,17 @@ Tags: privacymark; xoxzo; Pmark; 2019;
 Author: Aiko Yokoyama
 Summary: We have again successfully renewed our Privacy Mark.
 
-![pmark-2019](/images/pmark-2019-ja.png)
+![pmark-2019](/images/pmark-2019-en.png)
 
-平素は、[Xoxzo-クラウドテレフォニープラットフォーム](https://www.xoxzo.com/ja/)及び[SMS配信サービス・EZSMS](https://www.ezsms.biz/ja/)　をご利用いただき、誠にありがとうございます。
+Thank you for using [Xoxzo, Cloud Telephony Platform](https://www.xoxzo.com/en/) and [SMS Delivery API Service EZSMS](https://www.ezsms.biz/ja/).
 
-この度、Xoxzoはプライバシーマーク更新を行いましたので、お知らせ申し上げます。
+We are proud to announce that we have been approved for another renewal of Privacy mark this year.
 
-![pmark-2019-cert](/images/pmark-2019-cert-ja.png)
+![pmark-2019-cert](/images/pmark-2019-cert.jpg)
 
-- 登録番号  第１０８２４０８９（０４）号
-- 有効期間  ２０２１年６月１３日～２０２１年６月１２日
+- Registration No. 10824089(04)
+- Valid period 2019/06/13 - 2021/6/12
 
-[プライバシーマーク制度](https://privacymark.jp/) は、[一般財団法人日本情報経済社会推進協会（JIPEC）](https://www.jipdec.or.jp/)が日本工業規格「JIS Q 15001個人情報保護マネジメントシステム―要求事項」に適合して、個人情報について適切な保護措置を講ずる体制を整備している事業者等を認定し、その旨を示すプライバシーマークを付与し、事業活動に関してプライバシーマークの使用を認める制度です。 
+[Privacy mark System](https://privacymark.org/) is offered by [JIPEC](https://english.jipdec.or.jp/), to set up to assess private enterprises that take appropriate measures to protect personal information. Such private enterprises are granted the right to display "PrivacyMark" in the course of their business activities. The System is in compliance with Japan Industrial Standards (JIS Q 15001:2006 [Personal Information Protection Management System - Requirements]). 
 
-プライバシーマークは、Xoxzoがどのようにユーザーの個人情報を取り扱っているかを示すシンボルであるとも言えます。プライバシーマークの更新は、シンプルに申請を行うだけでなく、規格に適合するよう、厳しい審査を通って、認定されます。プライバシーマークの取得は、[Xoxzoのプライバシーポリシー](https://info.xoxzo.com/ja/privacy-policy/)をさらに確実なものとしています。
-
+Privacy mark is the symbol of how we treat the privacy information of users. The process of renewal was not just to apply but also involve a lot of work to comply with their regulation. This renewal approval would ensure [Xoxzo’s Privacy Policy](https://info.xoxzo.com/en/privacy-policy/). 
