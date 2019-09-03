@@ -5,23 +5,26 @@ Lang: ja
 Tags: history, telegraph
 Thumbnail: images/telegraph02.jpg
 Author: Ai Sin Chan
-Summary: Look back on how the electric telegraph came about and lasted more than a century before its decline
+Summary: 電信技術の誕生と、退歩までの1世紀以上もの道のりを振り返ります。
 
-The electric telegraph came into existence following a series of scientific evolution in electricity and electromagnetism in the 19th century. A few [critical developments](https://www.britannica.com/technology/telegraph) led to the invention of the electric telegraph, including:
+電信技術は、19世紀における一連の電気学および電磁気学の科学的発展に続いて登場しました。
+電信は、下記のような[重要な新技術](https://www.britannica.com/technology/telegraph)を経て発明されたのです。
 
-- Invention of the voltaic cell by Alessandro Volta of Italy in 1800
 
-- Discovery of the relationship between electricity and magnetism by Hans Christian Oersted of Denmark in 1820
+- 1980年、イタリアのAlessandro Voltaによるボルタ電池の発明
 
-- Invention of the electromagnet by [William Sturgeon](https://www.thoughtco.com/who-invented-the-electromagnet-1991678) of Britain in 1825
+- 1820年、デンマークのHans Christian Oerstedによる電気と磁力の間の関連の発見
 
-- Discovery of [electromagnetic induction](https://en.wikipedia.org/wiki/Faraday%27s_law_of_induction) by Michael Faraday of Britain in 1831 and independently by Joseph Henry of America in 1832
+- 1825年、イギリスの[William Sturgeon](https://www.thoughtco.com/who-invented-the-electromagnet-1991678)
+による電磁石の発明
 
-The [first commercial electrical telegraph](https://www.history.com/topics/inventions/telegraph) was developed by Sir William Fothergill Cooke and Sir Charles Wheatstone, patented in May 1837 as the Cooke and Wheatstone system, which used a number of needles on a board that could be moved to point to letters of the alphabet. This system was installed in the British railway network. 
+- 1831年のイギリスのMichael Faraday、および これとは別の1832年アメリカのJoseph Henryによる[電磁誘導](https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%A9%E3%83%87%E3%83%BC%E3%81%AE%E9%9B%BB%E7%A3%81%E8%AA%98%E5%B0%8E%E3%81%AE%E6%B3%95%E5%89%87)の発見
+
+[最初の商用電信](https://www.history.com/topics/inventions/telegraph)はWilliam Fothergill Cooke卿 および Charles Wheatstone卿により開発され、1837年の5月にクック・ホイートストン・システム（Cooke and Wheatstone system）として特許が取得されました。これは盤上のいくつもの針を使い、これが動いてアルファベットの文字を指し示すというものでした。このシステムは英国の鉄道のネットワークに導入されました。
 
 ![telegraph](/images/telegraph01.jpg)<a class="caption" href="https://en.wikipedia.org/wiki/Electrical_telegraph">Image credit</a>
 
-Another [electrical telegraph was independently developed](https://www.history.com/topics/inventions/telegraph) and patented in the United States in 1837 by Samuel Morse, Leonard Gale, and Alfred Vail, which eventually gained worldwide acceptance and  became the telegraph system that most of us know. This system used combinations of dots and dashes to represent the letters of the alphabet, which is known as the Morse code. 
+[もう一つの電信](https://www.history.com/topics/inventions/telegraph)は、これとは別に開発されたもので、1837年にSamuel Morse、Leonard Gale そして Alfred Vailによって合衆国で特許が取得されました。この電信が、最終的に世界中で受け入れられ、現在普及している電信システムとなりました。このシステムは、点とダッシュの組み合わせを使ってアルファベットの文字を表すもので、これはモールス信号とされるものです。
 
 ![telegraph](/images/telegraph02.jpg)<a class="caption" href="https://en.wikipedia.org/wiki/Telegraphy">Image credit</a>
 
