@@ -10,7 +10,6 @@ Summary: 電信技術の誕生と、退歩までの1世紀以上もの道のり�
 電信技術は、19世紀における一連の電気学および電磁気学の科学的発展に続いて登場しました。
 電信は、下記のような[重要な新技術](https://www.britannica.com/technology/telegraph)を経て発明されたのです。
 
-
 - 1980年、イタリアのAlessandro Voltaによるボルタ電池の発明
 
 - 1820年、デンマークのHans Christian Oerstedによる電気と磁力の間の関連の発見
@@ -30,48 +29,52 @@ Summary: 電信技術の誕生と、退歩までの1世紀以上もの道のり�
 
 ![telegraph](/images/telegraph03.jpg)<a class="caption" href="https://www.britannica.com/topic/International-Morse-Code">Image credit</a>
 
-There had been numerous other inventions of electrical telegraph in the same period, but none of them gained commercial success. 
+その他にも、この時期にいくつもの電信が発明されましたが、ビジネスとしては成功をしたものはありませんでした。
 
-The [first two telegraph lines](https://ethw.org/Telegraph) opened in Great Britain in 1837 and the United States in 1844.
+[最初の2つの電信線](https://ethw.org/Telegraph) が1837年の英国と1844年の合衆国において開通しました。
   
-In 1858 the [first transatlantic telegraph message](https://www.telegraph.co.uk/technology/connecting-britain/first-electric-telegraph/) was sent by Queen Victoria of Britain to President of the United States James Buchanan, her 99-word message taking 16 hours to transmit through 4,000 kilometers of transatlantic cable. 
+1858年には[初の大陸間の電信](https://www.telegraph.co.uk/technology/connecting-britain/first-electric-telegraph/) が、英国のヴィクトリア女王から合衆国大統領のJames Buchanan氏に対して送られました。その99文字のメッセージは4,000キロメートルに及ぶ大陸間ケーブルを通じ、16時間かけて転送されたのです。
 
-### Malaysia
 
-The [first submarine cable](http://atlantic-cable.com/CableCos/Australia/) in the region was completed by the cable laying ship CS Hibernia linking Singapore to Batavia (now Jakarta) in 1870, which is part of the project to link between Britain and Australia. Morse code telegraph was introduced and supported with the availability of this cable. 
+### マレーシアでは
 
-The [first inland telegraph lines](https://www.malaysia-traveller.com/telekom-museum.html) in Malaya were set up in Perak, linking Taiping and Kangsar in 1874, as well as Taiping to Kamunting and Bukit Gantang, Simpang to Port Weld (now Kuala Sepetang) and Batu Gajah to Gopeng by the now defunct Department of Posts and Telegraph.
+この地域の[最初の海底ケーブル](http://atlantic-cable.com/CableCos/Australia/)は、ケーブル敷設船のCS Hiberniaによりシンガポールとバタヴィア（現在のジャカルタ）間で1870年に開通しました。これは英国とオーストラリアを繋ぐプロジェクトの一部でした。このケーブルが利用可能になると共にモールス信号による電信が採用され、開始されました。
 
-Within the town of Taiping, by 1878 the telegraph network connected the British Resident General’s office, the Magistrate Court, the police station, army barracks, and the hospital.
+[Malaya連邦での最初の内陸の電信線](https://www.malaysia-traveller.com/telekom-museum.html) はPerak州で1874年に設置され、現存はしない Department of Posts and Telegraph によって TaipingとKangsar、TaipingとKamunting および Bukit Gantang、SimpangからPort Weld（現在のKuala Sepetang）、そしてBatu GajahからGopengまでがつながりました。
 
-After being in operation for 138 years, Telekom Malaysia Berhad [announced](http://www.theborneopost.com/2012/07/04/telekom-malaysia-puts-last-stop-to-telegram-service/) that the TM Telegram Service was to be discontinued effective 1 July 2012.
+1878年までには、Taipingの街中ではイギリス統監（British Resident General）のオフィス、治安判事裁判所（Magistrate Court）、警察署、軍隊の兵舎そして病院が電信ネットワークで接続されました。
+
+138年間の操業の後、Telekom Malaysia Berhadは2012年の7月1日をもってTM Telegram Serviceを停止すると発表しました。
 
 ![telegraph](/images/telegraph04.jpeg)<a class="caption" href="https://www.eziemall.com/telegraph-museum">Image credit</a>
 
-### Japan
+### 日本では
 
-In Japan, following the Meiji Restoration of 1868, Japan constructed the [first telegraph line](https://ethw.org/Telegraph) between Tokyo and Yokohama in 1869, hiring a British telegraph engineer and a Danish cable company for the project. 
+日本では、1868年の明治維新の後の1869年に、[最初の電信線](https://ethw.org/Telegraph) が東京と横浜間で開通しました。このプロジェクトには英国の電信技術者およびデンマークのケーブル会社が採用されました。
 
-By 1872 Japan was served by direct telegraphic communication with Europe. During the next two decades the Japanese telegraph network expanded rapidly. By 1891 Japan had over 400 telegraph offices connected by nearly 12,000 km of wire. 
+1872年までには、日本と欧州との直通の電信回線が提供されました。その後の20年間、日本の電信ネットワークは急速に発展しました。1891年までには、日本では400の電信局によって12,000km近くもの電線が接続されていました。
 
-To date, the Japan telegraph service is still operating, and has since evolved into a part of [greeting card and gift delivery service](https://www.verycard.net/) run by private companies.
+現在、日本の電信サービスは未だに操業しており、今なお [グリーティングカードやギフトの配達サービス](https://www.verycard.net/) の一部として民間企業により展開されています。
 
 ![telegraph](/images/telegraph05.png)<a class="caption" href="https://www.verycard.net/">Image credit</a>
 
-### Conclusion
+### まとめ
 
-The telegraph was the only form of electrical communication until the invention of the telephone in 1876, and it remained the main tool for rapid long-distance communication until the development of practical long-distance telephony after 1900. 
+電信は、1876年に電話が発明されるまでは唯一の電気通信の手段であり、1900年以降に実用的な長距離電話が開発されるまで迅速な長距離通信手段のための主要なツールであり続けました。
 
-The telegraph service started to suffer a decrease in demand due to [a variety of reasons](https://ethw.org/Telegraph):
-- After 1920: reduced long distance telephone rates and the advent of airmail service, by 1970 the demand for overland telegraph was almost non-existent;
+電信サービスは、ある要因により、需要の減少に直面し始めました。 
 
-- After 1950: the installation of undersea telephone cables in the 1950s started to replace submarine telegraphy as the cheapest and preferred medium for rapid overseas communications;
+- 1920年以降：長距離電話料金の値下げとエアメールサービスが登場し、1970年までには陸上の電信の需要はほとんどなくなりました。
 
-- After 1980: other technologies, such as facsimile, electronic mail, and SMS, emerged and were preferred as the tools for long distance record communications.
+-	1950年以降：1950年代に海をまたいだ安価でより良い迅速なコミュニケーションのメディアとして海中電話ケーブルが設置されたことによって、海底電信は置き換えられていきました。
 
-From the science and technology perspective, the electrical telegraph was [important for 3 reasons](https://ethw.org/Telegraph): 
-- telegraphy was the first major application of electrical science;
+- 1980年以降：ファクシミリや電子メール、SMSといったその他の技術が登場し、長距離間コミュニケーション手段として好まれていきました。
 
-- telegraph electricians during the mid-19th century helped to establish the discipline of electrical engineering;
+- 科学および技術の観点では、電信は3つの理由で重要です。 
 
-- technical problems in submarine telegraphy stimulated major advances in physics, oceanography, marine engineering, and electrical engineering.
+- 電信は電気学の最初の大規模な実用化でした。
+
+- 19世紀中期の電信の電気技術者は電気エンジニアリングの分野の確立に貢献しました。
+
+- 海底電信の技術的な問題によって物理学、海洋学、船舶工学そして電気工学が大きく発展しました。
+
