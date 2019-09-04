@@ -21,13 +21,13 @@ Summary: 電信技術の誕生と、退歩までの1世紀以上もの道のり�
 
 [最初の商用電信](https://www.history.com/topics/inventions/telegraph)はWilliam Fothergill Cooke卿 および Charles Wheatstone卿により開発され、1837年の5月にクック・ホイートストン・システム（Cooke and Wheatstone system）として特許が取得されました。これは盤上のいくつもの針を使い、これが動いてアルファベットの文字を指し示すというものでした。このシステムは英国の鉄道のネットワークに導入されました。
 
-![telegraph](/images/telegraph01.jpg)<a class="caption" href="https://en.wikipedia.org/wiki/Electrical_telegraph">Image credit</a>
+![telegraph](/images/telegraph01.jpg)<a class="caption" href="https://en.wikipedia.org/wiki/Electrical_telegraph">画像クレジット</a>
 
 [もう一つの電信](https://www.history.com/topics/inventions/telegraph)は、これとは別に開発されたもので、1837年にSamuel Morse、Leonard Gale そして Alfred Vailによって合衆国で特許が取得されました。この電信が、最終的に世界中で受け入れられ、現在普及している電信システムとなりました。このシステムは、点とダッシュの組み合わせを使ってアルファベットの文字を表すもので、これはモールス信号とされるものです。
 
-![telegraph](/images/telegraph02.jpg)<a class="caption" href="https://en.wikipedia.org/wiki/Telegraphy">Image credit</a>
+![telegraph](/images/telegraph02.jpg)<a class="caption" href="https://en.wikipedia.org/wiki/Telegraphy">画像クレジット</a>
 
-![telegraph](/images/telegraph03.jpg)<a class="caption" href="https://www.britannica.com/topic/International-Morse-Code">Image credit</a>
+![telegraph](/images/telegraph03.jpg)<a class="caption" href="https://www.britannica.com/topic/International-Morse-Code">画像クレジット</a>
 
 その他にも、この時期にいくつもの電信が発明されましたが、ビジネスとしては成功をしたものはありませんでした。
 
@@ -46,7 +46,7 @@ Summary: 電信技術の誕生と、退歩までの1世紀以上もの道のり�
 
 138年間の操業の後、Telekom Malaysia Berhadは2012年の7月1日をもってTM Telegram Serviceを停止すると発表しました。
 
-![telegraph](/images/telegraph04.jpeg)<a class="caption" href="https://www.eziemall.com/telegraph-museum">Image credit</a>
+![telegraph](/images/telegraph04.jpeg)<a class="caption" href="https://www.eziemall.com/telegraph-museum">画像クレジット</a>
 
 ### 日本では
 
@@ -56,7 +56,7 @@ Summary: 電信技術の誕生と、退歩までの1世紀以上もの道のり�
 
 現在、日本の電信サービスは未だに操業しており、今なお [グリーティングカードやギフトの配達サービス](https://www.verycard.net/) の一部として民間企業により展開されています。
 
-![telegraph](/images/telegraph05.png)<a class="caption" href="https://www.verycard.net/">Image credit</a>
+![telegraph](/images/telegraph05.png)<a class="caption" href="https://www.verycard.net/">画像クレジット</a>
 
 ### まとめ
 
