@@ -17,7 +17,7 @@ Hilmi Bakhari is an experienced developer with 16 years of experience, and is st
 
 **What other developer’s community are you involved in?**
 
-> I am also a part of the Java developer’s community. I sign up to the Java Community ProcessSM (JCPSM) Program, as well as participate in reviewing and providing feedback for the Java Specification Requests (JSRs). 
+> I am also a part of the Java developer’s community. I sign up as an Associate Member to the Java Community ProcessSM (JCPSM) Program,  which provides me access and opportunity to review and provide feedback for the Java Specification Requests (JSRs). 
 
 **What programming language do you specialize in?**
 
@@ -42,3 +42,5 @@ Hilmi Bakhari is an experienced developer with 16 years of experience, and is st
 **What advice would you offer someone who is new to the industry?**
 
 > Keep reinventing yourself. Technology changes rapidly, there are always new things to learn. I went back to school to do a graduate study by a combination of coursework and research and graduated with Master of Engineering in Computer Systems Networking and Telecommunications from UKM last year, more than 10 years since my undergraduate study. 
+
+> In addition to that, it is important for a software professional to find good mentors. These are persons who have more experience in the industry, or are experts in the skills that you wish to improve upon. Ideally they should also be willing to guide you along the way. A good mentor would help you to focus, accelerate the learning process, and act as a supportive peer. 
