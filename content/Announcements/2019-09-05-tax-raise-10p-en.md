@@ -26,6 +26,7 @@ Along with this, 10% of the consumption tax rate will be applied to the usage fe
 For any questions, please contact each support desk below.
 
 Xoxzo Cloud Telephony Platform: help@xoxzo.com
+
 EZSMS / Short Message (SMS) delivery service: support@ezsms.biz
 
 Thank you for your interest.
