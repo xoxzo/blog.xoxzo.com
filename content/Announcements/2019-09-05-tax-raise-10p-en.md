@@ -13,12 +13,12 @@ As of October 1, 2019, the consumption tax rate will be raised to 10% in Japan.
 Along with this, 10% of the consumption tax rate will be applied to the usage fee in our services.
 
 
-### [Xoxzo Cloud Telephony Platform](https://www.xoxzo.com/en/)
+##### [Xoxzo Cloud Telephony Platform](https://www.xoxzo.com/en/)
     - Purchase of prepaid credits: 10% consumption tax rate applied from purchases made on October 1, 2019
     - Use of post-payment invoices: 10% consumption tax rate applied to the usage from October 1, 2019
 
 
-### [EZSMS / Short Message (SMS) Delivery Service](https://www.ezsms.biz/en/)
+##### [EZSMS / Short Message (SMS) Delivery Service](https://www.ezsms.biz/en/)
     - Purchase of prepaid points: 10% consumption tax will apply from October 1, 2019 purchase
     - Use of post-payment invoices: 10% consumption tax rate applied to the usage from October 1, 2019
 
