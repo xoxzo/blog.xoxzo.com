@@ -14,13 +14,13 @@ Along with this, 10% of the consumption tax rate will be applied to the usage fe
 
 
 ##### [Xoxzo Cloud Telephony Platform](https://www.xoxzo.com/en/)
-    - Purchase of prepaid credits: 10% consumption tax rate applied from purchases made on October 1, 2019
-    - Use of post-payment invoices: 10% consumption tax rate applied to the usage from October 1, 2019
+* Purchase of prepaid credits: 10% consumption tax rate applied from purchases made on October 1, 2019
+* Use of post-payment invoices: 10% consumption tax rate applied to the usage from October 1, 2019
 
 
 ##### [EZSMS / Short Message (SMS) Delivery Service](https://www.ezsms.biz/en/)
-    - Purchase of prepaid points: 10% consumption tax will apply from October 1, 2019 purchase
-    - Use of post-payment invoices: 10% consumption tax rate applied to the usage from October 1, 2019
+* Purchase of prepaid points: 10% consumption tax will apply from October 1, 2019 purchase
+* Use of post-payment invoices: 10% consumption tax rate applied to the usage from October 1, 2019
 
 
 For any questions, please contact each support desk below.
