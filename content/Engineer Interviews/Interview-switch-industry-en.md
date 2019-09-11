@@ -46,7 +46,7 @@ Amirul does not have a dedicated mentor but emphasizes the importance of having 
 
 The biggest challenge in acquiring new knowledge in a different field while working a fulltime job is time management. Applying useful time management skill and lean management concept he learnt in the oil and gas industry, he used a Kanban board and an app to track his progress, enforcing discipline by allocating 1-2 hours per day to study programming, while reserving the weekends to complete his pet projects, for example trying out new Python libraries that he had just discovered. The app tracked his learning journey from 2017 to 2019. Living in Labuan at that time helped in a way, since it is a serene city with less distractions. 
 
-![Time management tools](/images/interview/xxx.jpg)
+![Time management tools](/images/interview/TimeMgt.jpg)
 
 On landing his software development job, at his one and only programming job interview, he was required to upload json file to populate the database, display all the uploaded items, and provide a search box to filter out the items. He was allowed to use any language, so he opted for Vanilla Javascript to complete the task during the interview. 
 
