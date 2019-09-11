@@ -3,7 +3,6 @@ Date: 2019-09-10
 Slug: interview-switch-industry 
 Lang: en 
 Tags: interview; 2019; pycon; python; django;
-Thumbnail: 
 Author: Ai Sin Chan 
 Summary: We sat down with Siti Nuraini and Amirul Abu to talk about their career change to IT and software development respectively
 
