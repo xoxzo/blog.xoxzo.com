@@ -3,19 +3,19 @@ Date: 2019-09-10
 Slug: interview-switch-industry 
 Lang: en 
 Tags: interview; 2019; pycon; python; django;
-Thumbnail: images/interview/xxx.jpg
+Thumbnail: 
 Author: Ai Sin Chan 
 Summary: We sat down with Siti Nuraini and Amirul Abu to talk about their career change to IT and software development respectively
 
-During the recent [PyCon MY 2019](https://pycon.my/), we met two young and promising professionals who had switched to IT and software development jobs from their previous jobs in other industries. We had a chat with each of them to find out how the journey had been and the howís and whyís of their respective industry change.
+During the recent [PyCon MY 2019](https://pycon.my/), we met two young and promising professionals who had switched to IT and software development jobs from their previous jobs in other industries. We had a chat with each of them to find out how the journey had been and the how‚Äôs and why‚Äôs of their respective industry change.
 
-**Siti Nuraini ñ Quantity Surveyor to System Engineer**
+**Siti Nuraini ‚Äì Quantity Surveyor to System Engineer**
 
-![Interviewee Siti Nuraini](/images/interview/xxx.jpg)
+![Interviewee Siti Nuraini](/images/interview/SitiNuraini.jpg)
 
-Siti Nurainiís acquaintance with computers started early. Heavily influenced by her father who is an IT teacher, she started playing with the DOS 386 back in 1990 which her father used for games, using it she would have to type command lines on the DOS interface. Her family computer was upgraded to a Pentium 4 in 1995, while the games she played had become Price of Persia and Pocahontas. Being recruited as the gaming partner with her father had instilled the spirit of positive competition in her, always trying to see who performs better at the computer between the two of them.  She had learned how to repair a CPU at Form 3. She later moved on to create Macromedia Flash animation and picked up Visual Basic programming.
+Siti Nuraini‚Äôs acquaintance with computers started early. Heavily influenced by her father who is an IT teacher, she started playing with the DOS 386 back in 1990 which her father used for games, using it she would have to type command lines on the DOS interface. Her family computer was upgraded to a Pentium 4 in 1995, while the games she played had become Price of Persia and Pocahontas. Being recruited as the gaming partner with her father had instilled the spirit of positive competition in her, always trying to see who performs better at the computer between the two of them.  She had learned how to repair a CPU at Form 3. She later moved on to create Macromedia Flash animation and picked up Visual Basic programming.
 
-When it came the time for Nuraini to choose her field of study after Form 5, her instinct would be to go into IT. Ironically her father advised against it, as he understood the industry to be male dominated back then, quoting the IT class that he taught which comprised of 100% male students in the early 2000ís. Not being able to foresee the future, Nuraini surveyed her options and eventually settled on quantity surveying in the construction industry. To date, she had been working in the industry as a building estimator for 8 years since 2010. 
+When it came the time for Nuraini to choose her field of study after Form 5, her instinct would be to go into IT. Ironically her father advised against it, as he understood the industry to be male dominated back then, quoting the IT class that he taught which comprised of 100% male students in the early 2000‚Äôs. Not being able to foresee the future, Nuraini surveyed her options and eventually settled on quantity surveying in the construction industry. To date, she had been working in the industry as a building estimator for 8 years since 2010. 
 
 While in the construction industry, Nuraini observed that while the construction technology is advanced, the information technology (IT) lags behind. She had taken the initiatives to set up shared drive for the team and conducted a training session for her colleagues because they did not know what it was; she had created Excel sheets with formula to simplify the work process while her colleague in quantity surveying asked if she could use simpler formulae; she had also advocated for the use of digital photography and IT tools to document and analyze defects; when her then employer used AutoCAD, she had taken to develop a tool to extract quantity data and export it as a report; she had also created an app for interior design to manage the samples, including prices and designs which made use of AppSheet and Google Drive with a combination of simple commands to operate. She had even become the unofficial IT support personnel for printer and Wifi connections in the office. 
 
@@ -25,9 +25,9 @@ She is confident that she is on the right track to have made the switch. To make
 
 Apart from her job and university study, she remains closely bonded to the Python community, which is also the reason she volunteered as an organizing committee member at [PyCon MY 2019](https://pycon.my/).
 
-**Amirul Abu ñ Chemical Engineer to Software Developer**
+**Amirul Abu ‚Äì Chemical Engineer to Full Stack Engineer**
 
-![Interviewee Amirul Abu](/images/interview/xxx.jpg)
+![Interviewee Amirul Abu](/images/interview/AmirulAbu.jpg)
 
 As the cliche goes, data is the new oil. It could not have been truer for Amirul Abu, who left the oil and gas industry to become a full stack engineer at Vase.ai, an online market research company. 
 
@@ -40,7 +40,7 @@ The first step Amirul took towards actualizing this ambition was to decide on wh
 
 Then, to polish his Python and Django skills, Amirul used the book Python Crash Course (https://ehmatthes.github.io/pcc_2e/) where he picked up basic syntaxes, and worked on the projects suggested at the end of the book. 
 
-He also took CS50ís Introduction to Computer Science where he learnt about memory management, as well as manipulating pointers and address. It is not directly related to web development but helped him appreciate Python better. He also shared his learning journey and projects on mirul.xyz (http://mirul.xyz) 
+He also took CS50‚Äôs Introduction to Computer Science where he learnt about memory management, as well as manipulating pointers and address. It is not directly related to web development but helped him appreciate Python better. He also shared his learning journey and projects on mirul.xyz (http://mirul.xyz) 
 
 Amirul does not have a dedicated mentor but emphasizes the importance of having mentors as he has numerous of them. He regularly attends meetups, one of them being Dev Ops Google Cloud meetup. More importantly is also joining the after party mamak sessions, where he met his current boss. 
 
@@ -50,4 +50,4 @@ The biggest challenge in acquiring new knowledge in a different field while work
 
 On landing his software development job, at his one and only programming job interview, he was required to upload json file to populate the database, display all the uploaded items, and provide a search box to filter out the items. He was allowed to use any language, so he opted for Vanilla Javascript to complete the task during the interview. 
 
-In response to the PyCon MY 2019 call for proposal, Amirul submitted a talk titled ìHow Python helped me change my careerî and was accepted as a speaker where he shared the journey of his career change. 
+In response to the [PyCon MY 2019](https://pycon.my/) call for proposal, Amirul submitted a talk titled ‚ÄúHow Python helped me change my career‚Äù and was accepted as a speaker in which he shared the journey of his career change. 
