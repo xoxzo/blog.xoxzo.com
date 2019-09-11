@@ -37,9 +37,9 @@ While seeking options to advance his career, Amirul looked to a passion that he 
 In his first job as a process safety executive, he maintained his hobby in programming, and changed to using Python, with Ruby being replaced by Django. He kept learning after work hours with a voice in his heart that said, someday I want to be a programmer. 
 The first step Amirul took towards actualizing this ambition was to decide on what type of programmer he wanted to be. Choosing a direction in web development, he realized that he would have to equip himself with both front end and back end knowledge. With this goal in mind, he kick started his self learning journey by learning HTML, CSS, and Javascript on freeCodeCamp. 
 
-Then, to polish his Python and Django skills, Amirul used the book Python Crash Course (https://ehmatthes.github.io/pcc_2e/) where he picked up basic syntaxes, and worked on the projects suggested at the end of the book. 
+Then, to polish his Python and Django skills, Amirul used the book [Python Crash Course](https://ehmatthes.github.io/pcc_2e/) where he picked up basic syntaxes, and worked on the projects suggested at the end of the book. 
 
-He also took CS50’s Introduction to Computer Science where he learnt about memory management, as well as manipulating pointers and address. It is not directly related to web development but helped him appreciate Python better. He also shared his learning journey and projects on mirul.xyz (http://mirul.xyz) 
+He also took CS50’s Introduction to Computer Science where he learnt about memory management, as well as manipulating pointers and address. It is not directly related to web development but helped him appreciate Python better. He also shared his learning journey and projects on [mirul.xyz](http://mirul.xyz) 
 
 Amirul does not have a dedicated mentor but emphasizes the importance of having mentors as he has numerous of them. He regularly attends meetups, one of them being Dev Ops Google Cloud meetup. More importantly is also joining the after party mamak sessions, where he met his current boss. 
 
