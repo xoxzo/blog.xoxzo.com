@@ -5,7 +5,7 @@ Lang: ja
 Tags: ezsms; new release; 2018;
 Thumbnail: images/ezsms-v3_date.png
 Author: Aiko Yokoyama
-Summary: 7年間ご愛顧いただきました、[EZSMS](https://www.ezsms.biz/ja/)が大幅にグレードアップします。
+Summary: 7年間ご愛顧いただきました、EZSMSが大幅にグレードアップします。
 
 ![ezsms](/images/ezsms-v3_date.png)
 

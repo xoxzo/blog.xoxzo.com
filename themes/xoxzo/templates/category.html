@@ -1,14 +1,14 @@
 {% extends "index.html" %}
 
 {% block hreflang %}
-    <link rel="alternate" href="https://blog.xoxzo.com/{{ category.url }}" hreflang="x-default"/>
-    <link rel="alternate" href="https://blog.xoxzo.com/en/{{ category.url }}" hreflang="en"/>
-    <link rel="alternate" href="https://blog.xoxzo.com/ja/{{ category.url }}" hreflang="ja"/>
+  <link rel="alternate" href="https://blog.xoxzo.com/{{ category.url }}" hreflang="x-default"/>
+  <link rel="alternate" href="https://blog.xoxzo.com/en/{{ category.url }}" hreflang="en"/>
+  <link rel="alternate" href="https://blog.xoxzo.com/ja/{{ category.url }}" hreflang="ja"/>
 {% endblock %}
 
+{% block featured_display %}{% endblock %}
 {% block content_title %}
-<div class="content-title">
-    <h2>{% trans %}Articles in the <b>{{ category }}</b> category{% endtrans %}</h2>
-</div>
+<h2 class="mb-0">{% trans %}Articles{% endtrans %} / {{ category }}</h2>
 {% endblock %}
 
+{% block curated %}{% endblock %}

@@ -4,7 +4,7 @@ Author: Ai Sin Chan
 Tags: sms; technology; history; commercial; first phones; japan; malaysia; 2018; mobile; communication; 
 Slug: history-of-sms
 Lang: en
-Thumbnail: images/historysms01.jpg
+Thumbnail: images/smshistory01.jpg
 Summary: The origin of SMS technology and how it was first used
 
 Text messaging as a telecommunications service [had been around for years](http://www.gsmhistory.com/wp-content/uploads/2013/02/SMS-Description-1991-by-K-Holley.pdf) before the development of GSM in 1982. At that time, existing messaging systems were:

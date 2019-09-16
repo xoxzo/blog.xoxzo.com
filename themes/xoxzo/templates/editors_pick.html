@@ -1,0 +1,52 @@
+{% if DEFAULT_LANG == "en" %}
+<div class="curated-post">
+  <div class="card-deck">
+    <a href="https://blog.xoxzo.com/en/2018/07/24/history-of-1g/" class="card">
+      <img src="{{ SITEURL + '/images/1g03.gif' | thumbnail('500x_') }}" class="card-img-top">
+      <div class="card-body">
+        <p class="card-text">A brief history of 1G mobile communication technology</p>
+      </div>
+    </a>
+
+    <a href="https://blog.xoxzo.com/en/2018/08/01/history-of-2g/" class="card">
+      <img src="{{ SITEURL + '/images/history2g2.gif' | thumbnail('500x_') }}" class="card-img-top">
+      <div class="card-body">
+        <p class="card-text">A brief history of 2G mobile communication technology</p>
+      </div>
+    </a>
+
+    <a href="https://blog.xoxzo.com/2012/12/03/verify-spf-using-pyspf-module/" class="card">
+      <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/xoxzo_thumbnail.png" class="card-img-top">
+      <div class="card-body">
+        <p class="card-text">Verify SPF using PySPF module</p>
+      </div>
+    </a>
+  </div>
+</div>
+
+{% else %}
+<div class="curated-post">
+  <div class="card-deck">
+    <a href="https://blog.xoxzo.com/ja/2017/12/25/sms-manners/" class="card">
+      <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/xoxzo_thumbnail.png" class="card-img-top">
+      <div class="card-body">
+        <p class="card-text">SMS送信におけるマナーって？</p>
+      </div>
+    </a>
+
+    <a href="https://blog.xoxzo.com/ja/2017/12/06/what-is-a2p/" class="card">
+      <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/xoxzo_thumbnail.png" class="card-img-top">
+      <div class="card-body">
+        <p class="card-text">P2P や A2P って、何のこと？</p>
+      </div>
+    </a>
+
+    <a href="https://blog.xoxzo.com/ja/2017/06/19/about-python-import/" class="card">
+      <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/xoxzo_thumbnail.png" class="card-img-top">
+      <div class="card-body">
+        <p class="card-text">Pythonのimportについて</p>
+      </div>
+    </a>
+  </div>
+</div>
+{% endif %}

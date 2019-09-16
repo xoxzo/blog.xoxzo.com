@@ -1,20 +1,27 @@
 {% extends "base.html" %}
 
 {% block hreflang %}
-    <link rel="alternate" href="https://blog.xoxzo.com/authors" hreflang="x-default"/>
-    <link rel="alternate" href="https://blog.xoxzo.com/en/authors" hreflang="en"/>
-    <link rel="alternate" href="https://blog.xoxzo.com/ja/authors" hreflang="ja"/>
+  <link rel="alternate" href="https://blog.xoxzo.com/authors" hreflang="x-default"/>
+  <link rel="alternate" href="https://blog.xoxzo.com/en/authors" hreflang="en"/>
+  <link rel="alternate" href="https://blog.xoxzo.com/ja/authors" hreflang="ja"/>
 {% endblock %}
 
 {% block title %}{{ SITENAME }} - {% trans %}Authors{% endtrans %}{% endblock %}
 
 {% block content %}
-<main class="container pg">
-    <h1>{% trans %}Authors{% endtrans %}</h1>
-    <ul>
-        {%- for author, articles in authors|sort %}
-        <li><a href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a> ({{ articles|count }})</li>
-        {% endfor %}
-    </ul>
+<main>
+  <section class="bg-mid bd-gray">
+    <div class="container featured pt-4 pb-4">
+      <h2 class="mb-0">{% trans %}Authors{% endtrans %}</h2>
+    </div>
+  </section>
+
+  <section class="container pt-4 pb-4">
+    {% for author, articles in authors|sort %}
+    <a href="{{ SITEURL }}/{{ author.url }}" class="btn btn-gray mb-2 mr-1">
+      {{ author }} <span class="badge badge-gray">{{ articles|count }}</span>
+    </a>
+    {% endfor %}
+  </section>
 </main>
 {% endblock %}

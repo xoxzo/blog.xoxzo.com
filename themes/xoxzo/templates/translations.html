@@ -1,9 +1,10 @@
 {% macro translations_for(article) %}
 {% if article.translations %}
-{% trans %}Translate to {% endtrans %}
-{% for translation in article.translations %}
-<a href="{{ SITEURL }}/{{ translation.url }}">[ {{ translation.lang }} ]</a>
-{% endfor %}
+<p class="article-translation">
+  {% for translation in article.translations %}
+  <a href="{{ SITEURL }}/{{ translation.url }}">{% trans %}Translate to 日本語{% endtrans %}</a>
+  {% endfor %}
+</p>
 {% endif %}
 {% endmacro %}
 

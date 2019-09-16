@@ -4,7 +4,7 @@ Slug: k-premium-docomo-senderid-change
 Lang: ja
 Tags: k-premium; SenderID; Kプレミアムサービス; 送信元ID;
 Author: Aiko Yokoyama
-Summary: [Kプレミアムサービス](https://help.xoxzo.com/ja/xoxzo-cloud-telephony-platform/articles/the-k-premium-service/) でご利用いただいておりますDocomo携帯への送信に表示される送信元IDの表示にアップデートが行われました。
+Summary: Kプレミアムサービスでご利用いただいておりますDocomo携帯への送信に表示される送信元IDの表示にアップデートが行われました。
 
 平素は、[Xoxzo-クラウドテレフォニープラットフォーム](https://www.xoxzo.com/ja/)
 をご利用いただきまして、誠にありがとうございます。

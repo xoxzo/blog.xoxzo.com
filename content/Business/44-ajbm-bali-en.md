@@ -5,7 +5,7 @@ Author: Iqbal Abdullah
 Tags: asean; ajbm; japan; market; economy; fintech; ecommerce;
 Slug: 44-ajbm-meeting-in-bali
 Thumbnail: images/44-ajbm/group-picture.jpg
-Summary: Iqbal writes about his experience attending the 44th AJBM themed **Connectivity and Digital Economy for ASEAN and Japan**
+Summary: Iqbal writes about his experience attending the 44th AJBM themed Connectivity and Digital Economy for ASEAN and Japan
 
 # ASEAN-Japan Business Meeting (AJBM) in Bali
 

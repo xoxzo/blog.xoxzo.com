@@ -1,43 +1,93 @@
 {% extends "base.html" %}
 
 {% block hreflang %}
-    <link rel="alternate" href="https://blog.xoxzo.com/" hreflang="x-default"/>
-    <link rel="alternate" href="https://blog.xoxzo.com/en" hreflang="en"/>
-    <link rel="alternate" href="https://blog.xoxzo.com/ja" hreflang="ja"/>
+  <link rel="alternate" href="https://blog.xoxzo.com/" hreflang="x-default"/>
+  <link rel="alternate" href="https://blog.xoxzo.com/en" hreflang="en"/>
+  <link rel="alternate" href="https://blog.xoxzo.com/ja" hreflang="ja"/>
 {% endblock %}
 
-{% block footer_attr %}class="non-sticky-footer"{% endblock %}
-
 {% block content %}
-<div class="with-sidebar">
-    <main class="container">
-        <div class="row">
-            <section class="content col-md-8 col-lg-9 float-md-right">
-                <div class="container">
-                    {% block content_title %}
-                    {% endblock %}
+<main>
+  <section class="bg-mid bd-gray {% block featured_display %}d-none d-md-block{% endblock %}">
+    <div class="container featured pt-4 pb-4">
+      {% block content_title %}{% endblock %}
+      {% block curated %}
+      <div class="pt-2 pb-2">
+        <h2>{% trans %}Editor's pick{% endtrans %}</h2>
+        {% include 'editors_pick.html' %}
+      </div>
+      {% endblock %}
+    </div>
+  </section>
 
-                    {% for article in articles_page.object_list %}
-                    <article>
-                        <h2 class="article-info">
-                            {{ article.locale_date }} /
-                            <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
-                        </h2>
-                        <h1 class="article-title"><a href="{{ SITEURL }}/{{ article.url }}" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h1>
-                        {{ article.summary }}
-                        <p><a href="{{ SITEURL }}/{{ article.url }}" class="continue">{% trans %}Continue reading{% endtrans %} ></a></p>
-                    </article>
-                    {% endfor %}
-
-                    {% if articles_page.has_other_pages() %}
-                        {% include 'pagination.html' %}
-                    {% endif %}
+  {% block list %}
+  <section class="container">
+    <div class="row">
+      <div class="{% block index_col %}col-12 col-lg-9{% endblock %} index-left">
+        {% for article in articles_page.object_list %}
+        <div class="article-list ml-3 mr-3">
+          <div class="row">
+            <div class="col-6 col-md-3 article-thumbnail ml-auto mr-auto">
+              <a href="{{ SITEURL }}/{{ article.url }}">
+                {% if article.thumbnail %}
+                <img src="{{ SITEURL }}/{{ article.thumbnail | thumbnail('350x_') }}">
+                {% else %}
+                <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/xoxzo_thumbnail.png">
+                {% endif %}
+              </a>
+            </div>
+            <div class="col-12 col-md-9 article-desc">
+              <h2 class="article-category">
+                <a href="{{ SITEURL }}/{{ article.category.url }}" class="link-point">{{ article.category }}</a>
+              </h2>
+              <a href="{{ SITEURL }}/{{ article.url }}" title="Permalink to {{ article.title|striptags }}" class="underline-none">
+                <div class="article-area">
+                  <h1 class="article-title">{{ article.title }}</h1>
+                  {{ article.summary }}
+                  <span class="article-info mr-1">{{ article.locale_date }}</span>
+                  <span class="article-info">·</span>
+                  <span class="article-info ml-1">{{ article.author }}</span>
                 </div>
-            </section>
-
-            {% include 'sidebar.html' %}
-
+              </a>
+            </div>
+          </div>
         </div>
-    </main>
-</div>
+        {% endfor %}
+      </div>
+
+      {% block category %}
+      <div class="d-none d-lg-block col-lg-3 pt-4 pb-4">
+        <div class="sidebar-menu">
+          <h3>{% trans %}CATEGORIES{% endtrans %}</h3>
+          <ul class="mb-0">
+            {% for category, articles in categories %}
+            <li><a href="{{ SITEURL }}/{{ category.url }}">{{ category }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+      {% endblock category %}
+    </div>
+  </section>
+
+  {% if articles_page.has_other_pages() %}
+  <section class="container pb-3">
+    {% include 'pagination.html' %}
+  </section>
+  {% endif %}
+
+  {% block footer_category %}
+  <section class="sidebar-menu d-lg-none pt-5 br-0">
+    <div class="container">
+      <h3>{% trans %}CATEGORIES{% endtrans %}</h3>
+      <ul>
+        {% for category, articles in categories %}
+        <li><a href="{{ SITEURL }}/{{ category.url }}">{{ category }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  </section>
+  {% endblock %}
+  {% endblock list %}
+</main>
 {% endblock content %}

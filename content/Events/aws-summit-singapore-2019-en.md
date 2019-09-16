@@ -4,7 +4,7 @@ Slug: aws-summit-singapore-2019
 Lang: en
 Tags: 2019; aws-summit; singapore; cloud; robot;
 Author: Zaki Akhmad
-Summary: Zaki went to [AWS Summit Singapore 2019](https://aws.amazon.com/events/summits/singapore/) and shared his first experience attending this summit.
+Summary: Zaki went to AWS Summit Singapore 2019 and shared his first experience attending this summit.
 
 It was in early April (10th - 11th), AWS Summit Singapore 2019 held at
 Singapore Expo Convention and Exhibition Centre. Actually few weeks ago we just

@@ -1,19 +1,26 @@
 {% extends "base.html" %}
 
 {% block hreflang %}
-    <link rel="alternate" href="https://blog.xoxzo.com/archives" hreflang="x-default"/>
-    <link rel="alternate" href="https://blog.xoxzo.com/en/archives" hreflang="en"/>
-    <link rel="alternate" href="https://blog.xoxzo.com/ja/archives" hreflang="ja"/>
+  <link rel="alternate" href="https://blog.xoxzo.com/archives" hreflang="x-default"/>
+  <link rel="alternate" href="https://blog.xoxzo.com/en/archives" hreflang="en"/>
+  <link rel="alternate" href="https://blog.xoxzo.com/ja/archives" hreflang="ja"/>
 {% endblock %}
 
 {% block content %}
-<main class="container pg">
-    <h1>{% trans %}Archives{% endtrans %}</h1>
-    <dl>
-        {% for article in dates %}
-        <dt>{{ article.locale_date }}</dt>
-        <dd><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></dd>
-        {% endfor %}
-    </dl>
+<main>
+  <section class="bg-mid bd-gray">
+    <div class="container featured pt-4 pb-4">
+      <h2 class="mb-0">{% trans %}Archives{% endtrans %}</h2>
+    </div>
+  </section>
+
+  <section class="container pt-4 pb-4">
+    {% for article in dates %}
+    <b>{{ article.locale_date }}</b>
+    <p>
+      <a href="{{ SITEURL }}/{{ article.url }}" class="link-underline">{{ article.title }}</a>
+    </p>
+    {% endfor %}
+  </section>
 </main>
 {% endblock %}
