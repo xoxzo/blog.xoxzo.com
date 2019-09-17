@@ -3,7 +3,7 @@ Date: 2019-08-30
 Slug: interview-with-hilmi-bakhari 
 Lang: en 
 Tags: interview; 2019; remote; pycon; python; 
-Thumbnail: images/interview/hilmibakhari.jpg
+Thumbnail: images/interview/HilmiBakhari.jpg
 Author: Ai Sin Chan 
 Summary: We sat down with Hilmi Bakhari for an impromptu interview on career paths of a software developer
 
