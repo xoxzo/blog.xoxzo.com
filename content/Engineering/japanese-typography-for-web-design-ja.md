@@ -10,8 +10,6 @@ Summary: 私の経験から学んだ、日本語ウェブタイポグラフィ�
 タイポグラフィは、書かれた言語を読みやすく、読みやすく、魅力的に表示するために、文字を配置する技術とテクニックです。 
 文字の配置には、書体やサイズ、行の高さ、行間隔、文字間隔の選択、および文字詰めの調整が含まれます。[^1]
 
-Because Xoxzo supports our service both in English and Japanese, I need to take care of the typography of each language. As a non-Japanese reader, I've been making some mistakes in handling Japanese typography. Here, I'd like to introduce some very basic tips for Japanese web typography that I learned from my experience.
-
 Xoxzoは英語と日本語の両方で当社のサービスをサポートしているため、各言語のタイポグラフィに注意する必要があります。 
 日本語の読めない私は、日本のタイポグラフィの取り扱いに間違ったことがあります。 
 ここで、私の経験から学んだ日本のウェブタイポグラフィのための非常に基本的なヒントを、いくつか紹介したいと思います。
