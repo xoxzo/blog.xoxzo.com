@@ -1,4 +1,4 @@
-Title: n-Lambbda note (monthly subscription in Japan) 
+Title: n-Lambda note (monthly subscription in Japan) 
 Lang: en
 Date: 2019-08-30
 Author: Akira Nonaka
