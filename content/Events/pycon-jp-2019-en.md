@@ -13,27 +13,43 @@ at the Ota-Ku PiO, the same venue we had in 2018
 As a run up to the conference, they also had sprints on Saturday 14th and workshops
 on the 15th of September.
 
-We at Xoxzo consider PyCon JP as one of the important events in our calendar. In
-2018, we were one of the the sponsors and had a booth, but this year I wanted to
+We at Xoxzo consider PyCon JP as one of the important events in our calendar. We
+actively participate in the PyCon regional conferences.
+In 2018, we were one of the the sponsors and had a booth, but this year I wanted to
 have more personal interactions with old and new friends that I will meet, so
 we didn't get a booth and only myself and [Akira](https://twitter.com/anonaka)
 went to the conference.
 
 # PyCon JP 2019 Sprints Day
 
+PyCon JP this year had a sprint day prior to the conference, courtesy of
+[Hennge](https://hennge.com/jp/) as the venue provider. They were about 10
+projects that you can participate in during the sprints, and the atmosphere was
+laid back and friendly. There was also free flow coffee and other drinks.
 
+![Sprint Day PyCon JP 2019]({filename}/images/pycon-jp-2019/sprint-sat-collage.jpg)
 
-![Sprint Day PyCon JP 2019]({filename}/images/pycon-jp-2019/sprint-sat.jpg)
-
-
+People came and went as they pleased, and about a total of 70 people joined the sprints.
 
 # PyCon JP 2019 Conference Day
 
+The conference days were filled with interesting talks, ranging from Django,
+migration to python2 from python3, creating Slackbots and of course machine
+learning too.
+
+![PyCon JP 2019 conference]({filename}/images/pycon-jp-2019/pycon-collage-01.jpg)
+
+I spent most of time meeting old friends, overseas attendents, talking about our
+products and generally discussing about the status of the python communities in
+our countries.
 
 ## Talks
 
+### Talk 1
 
-## Lightning Talk
+### Talk 2
+
+### Lightning Talk
 
 As per tradition, they had 5-minute so-called "Lightning Talks" (or LT) at the end of
 the conference: A chance for you to address everyone at the conference with a
@@ -46,13 +62,20 @@ pre-choosen lightning talks, and made time for "LT of the day", which are LT
 chosen from a ballot from a bunch of applicants who put their names in a box.
 
 On the first conference day, I was chosen as the first LT speaker from the "LT
-of the day" ballot. 
+of the day" ballot.
 
+I talked about the topic of appreciating and giving back to our OSS community,
+something which I have been doing this year at other PyCon conferences around
+the region.
+
+![PyCon JP 2019 LT by Iqbal]({filename}/images/pycon-jp-2019/lt-iqbal-collage.jpg)
 
 # Wrapping it up
 
 This was the 10th time we had PyCon JP in Japan. It has been a long way since
-we started mini PyCon in January 2011, with 100 people coming. This is it was
-over a thousand attendees.
+we started mini PyCon in January 2011, with 100 people coming. This time it was
+over a thousand attendees. The crowd has also evolved from hardcore python users
+to also include beginners and students, from software engineers to students and
+company directors.
 
-
+We hope to see further growht and relevane
