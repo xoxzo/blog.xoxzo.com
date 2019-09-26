@@ -1,6 +1,6 @@
 Title: Xoxzo at PyCon JP 2019
 Date: 2019-09-20 10:00 
-Slug: pycon-japan-2019
+Slug: pycon-jp-2019
 Lang: en 
 Tags: 2019; pycon jp; pycon; japan;
 Author: Iqbal Abdullah
