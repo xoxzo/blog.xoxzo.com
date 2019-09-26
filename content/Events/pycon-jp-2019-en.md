@@ -1,4 +1,4 @@
-Title: [Xoxzo] PyCon JP 2019
+Title: Xoxzo at PyCon JP 2019
 Date: 2019-09-20 10:00 
 Slug: pycon-japan-2019
 Lang: en 
@@ -40,7 +40,7 @@ learning too.
 ![PyCon JP 2019 conference]({filename}/images/pycon-jp-2019/pycon-collage-01.jpg)
 
 I spent most of time meeting old friends, overseas attendents, talking about our
-products and generally discussing about the status of the python communities in
+products and generally discussing about the status of the Python communities in
 our countries.
 
 ## Talks
@@ -56,12 +56,12 @@ Officially python 3.5 or later is not supported yet, but internally
 it is done already and will be released shortly after this conference
 according to Marc.
 
-### [Implementing profiler for web application](https://www.youtube.com/watch?v=ojnVMGon5d4)  
-
 ### [Python ウェブアプリケーションのためのプロファイラの実装(Yusuke Miyazaki)](https://www.youtube.com/watch?v=ojnVMGon5d4)
 
+Or **Implementing profiler for web application** in English
+
 This talk was in Japanese by Yusuke Miyazaki about implementing profiler for web application.
-It was very interesting that I can add many functionarities very easily using WISG middleware.
+It was very interesting that I can add many functionaliities very easily using WISG middleware.
 I felt like I wanted to write some handy tools using this interface.
 
 ### Lightning Talk
@@ -79,9 +79,10 @@ chosen from a ballot from a bunch of applicants who put their names in a box.
 On the first conference day, I was chosen as the first LT speaker from the "LT
 of the day" ballot.
 
-I talked about the topic of appreciating and giving back to our OSS community,
+I talked about the topic of [appreciating and giving back to our OSS
+community](https://www.slideshare.net/xoxzo/pycon-jp-2019-lt),
 something which I have been doing this year at other PyCon conferences around
-the region.
+the region as well.
 
 ![PyCon JP 2019 LT by Iqbal]({filename}/images/pycon-jp-2019/lt-iqbal-collage.jpg)
 
@@ -93,4 +94,5 @@ over a thousand attendees. The crowd has also evolved from hardcore python users
 to also include beginners and students, from software engineers to students and
 company directors.
 
-We hope to see further growht and relevane
+We hope to see further growth and more participation from different people and
+industries in the future.
