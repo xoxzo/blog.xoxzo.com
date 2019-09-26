@@ -32,6 +32,24 @@ went to the conference.
 
 ## Talks
 
+[PyRun - Shipping the Python 3.7 runtime in just 4.8MB](https://www.youtube.com/watch?v=fU-yR5PPI58)
+
+This talk by Marc-Andre Lemburg was very useful and informative.
+We often want to bundle python runtime with our application
+so that the application code is not affected by the target environment.
+This tool is very useful to avoid the problems such as caused by the
+python interpreter version difference.
+Officially python 3.5 or later is not supported yet, but internally
+it is done already and will be released shortly after this conference
+according to Marc.
+
+[Implementing profiler for web application](https://www.youtube.com/watch?v=ojnVMGon5d4)  
+
+Python ウェブアプリケーションのためのプロファイラの実装(Yusuke Miyazaki)
+
+This talk was in Japanese by Yusuke Miyazaki about implementing profiler for web application.
+It was very interesting that I can add many functionarities very easily using WISG middleware.
+I felt like I wanted to write some handy tools using this interface.
 
 ## Lightning Talk
 
