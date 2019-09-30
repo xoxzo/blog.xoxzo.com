@@ -14,10 +14,7 @@ __Q: What kind of business are you using XOXZO’s SMS sending API for?__
 >Mr. Ohmura:
 >In July, we started a new service called “Mail-order LINKS,” targeting mail-order businesses.  This service combines the new order and repeat business solicitation calls that they handle at the Contact Center together with a SMS payment receiving service, “Payment Mail,” in a single package. It is in this “Payment Mail” that we are utilizing XOXZO’s platform.
 
-![Ohmura-san_01](/images/3proMrOmura01.jpg)
-(Above) Mr. Riichi Ohmura
-ThreePro Agency, Inc.
-New Business Development Office, Chief Organizer
+![Ohmura-san_01](/images/3proMrOmura01.jpg)<span class="caption">(Above) Mr. Riichi Ohmura. ThreePro Agency, Inc. New Business Development Office, Chief Organizer</span>
 
 __Q: Specifically, when would you use “Payment Mail”?__
 

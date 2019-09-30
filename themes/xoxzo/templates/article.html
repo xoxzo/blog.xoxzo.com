@@ -81,9 +81,9 @@
     </div>
   </section>
 
+  {% if article.related_posts %}
   <section class="bg-mid pt-5 pb-5">
     <div class="container">
-      {% if article.related_posts %}
       <div class="curated-post">
         <h2>{% trans %}You May Like{% endtrans %}</h2>
         <div class="card-deck">
@@ -104,8 +104,8 @@
           {% endfor %}
         </div>
       </div>
-      {% endif %}
     </div>
   </section>
+  {% endif %}
 </main>
 {% endblock %}

@@ -364,6 +364,19 @@ footer a i {
   border-bottom: 1px solid #ddd;
 }
 
+.editor {
+  background: #354d69;
+}
+
+.editor h2 {
+  color: #ebf5ff;
+}
+
+.editor .curated-post a {
+  border: 1px solid #6e8399;
+  background: #d6eaff;
+}
+
 .content .article-header {
   padding: 42px 0 40px;
   background: #354d69;
@@ -414,24 +427,42 @@ footer a i {
 
 .content .article-body img {
   max-width: 100%;
-  margin: 15px 0;
+  margin: 5px 0;
 }
 
-.content .article-content a {
-  color: #122d4e;
-  border-bottom: 2px solid #80baff;
+.article-content a {
+  color: #ff7259;
   font-weight: bold;
 }
 
-.content .article-content a:hover {
+.article-content a:hover {
   text-decoration: none;
   color: #80baff;
 }
 
-.article-content h1, .article-content h2, .article-content h3 {
+.article-content h1, .article-content h2, .article-content h3, .article-content h4, .article-content h5 {
   font-weight: bold;
   margin-top: 40px;
   margin-bottom: 15px;
+}
+
+.article-content h1 a, .article-content h2 a, .article-content h3 a, .article-content h4 a, .article-content h5 a {
+  font-weight: bold;
+  color: #122d4e;
+  border-bottom: 2px solid #80baff;
+}
+
+.article-content h1 a:hover, .article-content h2 a:hover, .article-content h3 a:hover, .article-content h4 a:hover, .article-content h5 a:hover {
+  text-decoration: none;
+  color: #80baff;
+}
+
+.article-content h1+h2, .article-content h1+h3, .article-content h2+h3 {
+  margin-top: 20px;
+}
+
+.article-content li p {
+  margin-bottom: .5rem;
 }
 
 .article-tag {
@@ -565,10 +596,34 @@ footer a i {
 
 a.caption {
   text-decoration: underline;
+  color: #888;
+  font-weight: normal;
 }
 
 a.caption:hover {
   color: #333;
+  text-decoration: underline;
+}
+
+.footnote {
+  color: #888;
+}
+
+.footnote a {
+  font-weight: normal;
+}
+
+.footnote ol {
+  padding-left: 1rem;
+}
+
+.footnote ol p {
+  margin-bottom: .5rem;
+}
+
+.footnote hr {
+  border-color: #36313b;
+  margin-top: 3rem;
 }
 
 .footnote-ref::before {

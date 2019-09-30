@@ -15,9 +15,7 @@ __XOXZOのAPIをどのように活用されているのでしょうか？__
 
 >３PROエージェンシーをはじめとするクライアントに向け、XOXZOのSMS配信APIを使ったシステムを構築しています。主に決済通知にSMS配信のAPIを使っています。SMS配信で通知をし、決済の手順などの詳細はWEBページにアクセスしてもらうことで、決済もスムーズに行えます。
 
-![Terada-san_01](/images/CMSMrTerada01.jpg)
-<div style="text-align: center;">株式会社CMSコミュニケーションズ
-代表取締役　寺田 学さん</div>
+![Terada-san_01](/images/CMSMrTerada01.jpg)<span class="caption">株式会社CMSコミュニケーションズ、代表取締役　寺田 学さん</span>
 
 __XOXZOを知ったきっかけは？__
 
