@@ -374,7 +374,11 @@ footer a i {
 
 .editor .curated-post a {
   border: 1px solid #6e8399;
-  background: #d6eaff;
+  background: #e8f3ff;
+}
+
+.editor .curated-post .card-body {
+  border-top: 1px solid #afc6df;
 }
 
 .content .article-header {
