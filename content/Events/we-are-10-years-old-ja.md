@@ -4,6 +4,7 @@ Lang: ja
 Author: Iqbal Abdullah
 Tags: 10 years; happy birthday;
 Slug: we-are-ten-years-old
+Thumbnail: images/company-retreat-10th/group-photo.jpg
 Summary: 2017年2月にXoxzoは10周年を迎えました。お祝いのためにランカウイ島に、チームが集まりました。
 
 2017年２月、Xoxzoは創立10周年を迎えました。お祝いのため、ArthurとAikoを除くチーム全員が、マレーシアはランカウイ島へ集まり、3日間、太陽の下での時間を過ごしました。

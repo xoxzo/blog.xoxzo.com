@@ -3,7 +3,8 @@ Date: 2016-09-10 10:00
 Author: Iqbal Abdullah 
 Tags: Python; community; pycon my; 2016;
 Lang: ja
-Slug: the-secret-weapon-of-python 
+Slug: the-secret-weapon-of-python
+Thumbnail: images/secret-weapon.png
 Summary: Xoxzo代表、イクバルのトーク内容とスライドーPyCon MY 2016
 
 Pythonは、今や何をするのにも使われています。ちょっとしたレポートを書くのにも、システムの表裏、どちらでも活躍中です。自らが作り上げよう、と思ったもの、お客様に作って欲しい、と頼まれたもの等、様々な目的の達成に、Pythonを様々な形で、活用させてもらっているのです。 

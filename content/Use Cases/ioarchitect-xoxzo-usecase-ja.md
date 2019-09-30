@@ -4,6 +4,7 @@ Author: Aiko Yokoyama
 Tags: xoxzo; smsのapi配信; 株式会社アイオーアーキテクト;
 Slug: io-architect-xoxzo-usecase
 Lang: ja
+Thumbnail: images/client-logos/ioarchitect.gif
 Summary: EZSMSで通知を行う株式会社アイオーアーキテクト
 
 [株式会社アイオーアーキテクト](http://www.io-architect.com/wp/)（本社：千葉県浦安市）は、運用窓口等での担当者への迅速な通知機能の実装に、株式会社Xoxzo（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）の運営する[Xoxzo（ゾクゾー）クラウド・テレフォニー・プラットフォーム](https://www.xoxzo.com/ja/)を導入しました。 

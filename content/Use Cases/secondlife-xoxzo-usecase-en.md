@@ -4,6 +4,7 @@ Slug: secondlife-xoxzo-usecase
 Lang: en
 Tags: use-cases; secondlife; 
 Author: Aiko Yokoyama
+Thumbnail: images/secondlife-logo.png
 Summary: SecondLife, an ecology company that target 100％ recycle has installed Xoxzo SMS API for customer notification that improves awareness on their contact.
 
 [SecondLife](https://www.ehaiki.jp/second/) in Osaka, Japan, operating recycling activity by providing more convenient preloved-goods-collection service as well as contribute to donations to emerging countries with the cost of vaccine to their children, uses Xoxzo SMS API to contact their clients with better assurance of their awareness instead of sending email notices.

@@ -4,6 +4,7 @@ Slug: 3pro-interview
 Lang: en
 Tags: client interview; 3pro; fintech; sms api
 Author: Akira Nonaka
+Thumbnail: images/3proMrOmura01.jpg
 Summary: We sat down with ThreePro Agency's Mr. Ohmura on a fine August day and asked him how they are utilizing XOXZO’s SMS sending API for their Fintech business.
 
 Utilizing IT technology to provide a variety of financial services and developing its Fintech business, ThreePro Agency has begun providing a settlement solution through the use of SMS. We have asked the person in charge, Mr. Ohmura, how they are utilizing XOXZO’s SMS sending API.

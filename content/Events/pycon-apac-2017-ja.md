@@ -4,6 +4,7 @@ Slug: pycon-apac-2017
 Lang: ja
 Tags: 2017; pycon apac; 
 Author: Akira Nonaka
+Thumbnail: images/pycon-apac-2017/IMG_7215.jpg
 Summary: PyCon APAC 2017の参加レポートです。
 
 8/26-27にマレーシアのクアラルンプルで開催された[PyCon APAC 2017](https://pycon.my/)に参加してきました。

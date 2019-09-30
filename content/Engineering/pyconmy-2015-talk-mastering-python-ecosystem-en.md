@@ -4,6 +4,7 @@ Lang: en
 Author: Kamal Mustafa
 Tags: pycon, python, talk
 Slug: pyconmy-2015-talk-mastering-python-ecosystem
+Thumbnail: images/pycon1.jpg
 Summary: A talk given to the very first PyCon in Malaysia
 
 Pycon Malaysia (PyconMY) 2015 just wrapped up last week. This is the

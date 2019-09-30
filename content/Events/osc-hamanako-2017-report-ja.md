@@ -5,6 +5,7 @@ Lang: ja
 Modified: 2017-02-17 10:00
 Tags: 2017; osc; 
 Author: Akira Nonaka
+Thumbnail: images/osc-2017-hamanako-booth.JPG
 Summary: OSC（オープンソースカンファレンス）2017 浜名湖の参加報告です
 
 [![OSC_logo]({filename}/images/OSC_logo_sticker.gif)](https://www.ospn.jp/osc2017-hamanako/)

@@ -4,6 +4,7 @@ Slug: djangocongress-tokyo-2018
 Lang: ja
 Tags: 2018; Django; 東京; オープンソース; djangocongress
 Author: Akira Nonaka
+Thumbnail: images/djangocongress/djangocongress-sprint-2018.jpg
 Summary: DjangoCongress JP 2018 SPRINTの参加レポートです
 
 5月20日 [DingoCongress](https://djangocongress.jp)の２日目のSPRINTに参加してきました。

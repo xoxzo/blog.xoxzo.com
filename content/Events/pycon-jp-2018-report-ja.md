@@ -4,6 +4,7 @@ Slug: pycon-jp-sprint-2018-report
 Lang: ja
 Tags: 2018; pycon; sprint; tokyo; 
 Author: Akira Nonaka
+Thumbnail: images/pycon-jp-sprint-2018/pycon-jp-sprint-2018.jpg
 Summary: PyCon JP 2018 のスプリントに参加ししました
 
 日本で毎年一回開催されるPythonの総合的な会議(というかお祭り?)である[PyCon JP 2018](https://pycon.jp/2018/)

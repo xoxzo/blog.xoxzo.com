@@ -4,6 +4,7 @@ Slug: 3pro-interview
 Lang: ja
 Tags: client interview; 3pro; fintech; フィンテック; SMS配信API
 Author: Akira Nonaka
+Thumbnail: images/3proMrOmura01.jpg
 Summary: ある8月晴れた日に、「フィンテック」事業を展開するスリープロエージェンシー担当の大村さんに、XOXZOのSMS配信API活用について伺いました。
 
 IT技術を活用した様々な金融サービス「フィンテック」事業を展開しているスリープロエージェンシーは、SMSを使った決済ソリューションの提供をスタート。XOXZOのSMS配信APIをどう活用しているのか、担当の大村さんに伺いました。

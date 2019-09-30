@@ -4,6 +4,7 @@ Author: Akira Nonaka
 Tags: 2fa; tutorial; sms; api;
 Slug: introduction-2fa-sms
 Lang: en
+Thumbnail: images/introduction-2fa-sms/sms-2fa-en.jpg
 Summary: Let's learn how to add Two-Factor Authentication on your Web-applications
 
 There are many cases that user IDs and passwords are leaked by various Web services, 

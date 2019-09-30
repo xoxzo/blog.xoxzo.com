@@ -4,6 +4,7 @@ Date: 2017-05-20 10:44
 Author: Kamal Mustafa
 Tags: event, seminar, security, moscmy
 Slug: wifi-security-concern-remote-dev
+Thumbnail: images/matnet.jpg
 Summary: Few key things and risks for developer to be aware when working in public wifi network.
 
 I managed to join a session on [Malaysia Open Source Conference 2017 (MOSCMY)][moscmy] by [matnet], 

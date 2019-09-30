@@ -4,6 +4,7 @@ Author: Surya Banerjee
 Tags: teamcamp; meeting; bonding; remoteworking; experience; learning; remote; 2019;
 Slug: expect-meet-team-first-time
 Lang: en
+Thumbnail: images/jb_feb2019/hustle.jpg
 Summary: I was told that there would be a team camp at JB where we would discuss strategy and work together. It was an excited proposition to be a part of the team camp where I could meet finally everyone in person
 
 *"Coming together is a beginning. Keeping together is progress. Working together is success."* - **Henry Ford**

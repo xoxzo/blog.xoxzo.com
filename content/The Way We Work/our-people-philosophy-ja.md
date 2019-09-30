@@ -4,6 +4,7 @@ Author: Iqbal Abdullah
 Tags: 採用; 仕事; 人; 人間; 新入社;
 Slug: our-people-philosophy
 Lang: ja
+Thumbnail: images/team-pic-mtg.jpg
 Summary: 最も大切な資産である、Xoxzoでともに働く人物に関する、私達の想いについて
 
 Xoxzoは、この組織を構成する個人それぞれを、最も大切な資産だと考えています。

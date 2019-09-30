@@ -5,6 +5,7 @@ Lang: en
 Modified: 2018-08-02 12:00
 Tags: 2018; MIMOS; malaysia; innovation; technology
 Author: Jenna Kassim
+Thumbnail: images/mimos-tech-visit-2018/image_5.jpg
 Summary: A Technical Visit to MIMOS and a glimpse of their latest involvement with technology
 
 MIMOS is a Malaysian Government owned company that focuses on generating innovative technical solutions and are committed to serving the Government, People and Industries. The company was established back in the early 1980’s with the intention to advance the local electronics industry to design and produce high quality electronic products. The company has evolved over the years and are now focused on research & development in frontier technologies.

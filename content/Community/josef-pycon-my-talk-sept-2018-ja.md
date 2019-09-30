@@ -4,6 +4,7 @@ Lang: ja
 Author: Josef Monje
 Tags: 2018; pycon; MY; training; jupyter;
 Slug: python-talk-how-josef-made-trainings-scale
+Thumbnail: images/pycon-my-2018/IMG_9595.JPG
 Summary: PyCon MY 2018 にて登壇し、Python のトレーニングを行った方法について話しました。
 
 わたしが PyCon MY 2018で行ったトークに関してお話します。

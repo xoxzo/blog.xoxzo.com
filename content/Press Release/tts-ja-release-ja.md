@@ -4,6 +4,7 @@ Slug: tts-ja-release
 Lang: ja
 Tags: pr; tts; テキスト読み上げ機能; 新規リリース
 Author: Aiko Yokoyama
+Thumbnail: images/tts.png
 Summary: Xoxzoクラウドテレフォニープラットフォームでは、テキスト読み上げ機能が追加されました。
 
 ![tts]({filename}/images/tts.png)

@@ -221,17 +221,22 @@ footer {
 }
 
 footer p {
-  line-height: 2.5rem;
+  line-height: 1.5rem;
 }
 
 footer a {
   color: rgba(255, 255, 255, 0.6);
-  font-size: 1.5rem;
+  text-decoration: underline;
 }
 
 footer a:hover {
   color: white;
+}
+
+footer a i {
   font-size: 1.5rem;
+  text-decoration: none;
+  line-height: 40px!important;
 }
 /* End footer */
 

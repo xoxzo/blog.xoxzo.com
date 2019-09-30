@@ -4,6 +4,7 @@ Date: 2019-08-30
 Author: Akira Nonaka
 Tags: Python, coroutine, 2019
 Slug: about-n-lambda-note
+Thumbnail: images/lambda-note.png
 Summary: Introducing a monthly magazine called "N Lambda Note", for whom loving computers
 
 Hi this is Nonaka, who is having unquiet time as [Rugby world cup 2019](https://www.rugbyworldcup.com/) is approaching.

@@ -4,6 +4,7 @@ Lang: ja
 Author: Aiko Yokoyama
 Tags: サービス終了, fullcourt, xoxzo
 Slug: fullcourt-end-of-service-announcement
+Thumbnail: images/fullcourt-logo.png
 Summary: サービス終了のお知らせ
 
 ![logo 1]({filename}/images/fullcourt-logo.png)

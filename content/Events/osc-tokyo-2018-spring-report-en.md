@@ -4,6 +4,7 @@ Slug: osc-tokyo-2018-spring-report
 Lang: en
 Tags: 2018; osc; Tokyo; 
 Author: Hyejeong Park
+Thumbnail: images/osc2018-booth2.jpg
 Summary: We participated in the OSC Tokyo on 23rd and 24th of February.
 
 I visited Japan to attend the OSC Tokyo 2018 Spring. It was held at Meisei University, Hino Campus on February 23rd and 24th. As this was my first time to participate in a conference abroad, I was quite excited when heading for the conference venue.

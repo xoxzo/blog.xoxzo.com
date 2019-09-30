@@ -4,6 +4,7 @@ Slug: privacy-mark-renewal-2019
 Lang: en
 Tags: privacymark; xoxzo; Pmark; 2019;
 Author: Aiko Yokoyama
+Thumbnail: images/pmark-2019-en.png
 Summary: We have again successfully renewed our Privacy Mark.
 
 ![pmark-2019](/images/pmark-2019-en.png)

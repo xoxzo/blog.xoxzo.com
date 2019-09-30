@@ -4,6 +4,7 @@ Author: Iqbal Abdullah
 Tags: Python; community; pycon my; 2016;
 Lang: en
 Slug: the-secret-weapon-of-python
+Thumbnail: images/secret-weapon.png
 Summary: Iqbal's talk on the secret sauce for python called community for PyCon MY 2016
 
 Python is everywhere in what we do: From weekly reports to the frontend and

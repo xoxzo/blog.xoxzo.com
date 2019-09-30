@@ -4,6 +4,7 @@ Author: Iqbal Abdullah
 Lang: en
 Tags: endofservice, fullcourt, xoxzo
 Slug: fullcourt-end-of-service-announcement
+Thumbnail: images/fullcourt-logo.png
 Summary: FullCourt end of service annoucement
 
 ![Fullcourt logo]({filename}/images/fullcourt-logo.png)

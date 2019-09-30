@@ -4,6 +4,7 @@ Slug: long-sms-is-not-sms
 Lang: ja
 Tags: 2018; sms; 長文; ショートメッセージ; 電子メール;
 Author: Iqbal Abdullah
+Thumbnail: images/businessman.jpg
 Summary: そもそも70文字までしか送れないSMSですが、長文を送るのはアリなのか。
 
 最近、よく「〇〇社が700文字以上ショートメッセージ送れるけど、おたくもはできますか？」のような

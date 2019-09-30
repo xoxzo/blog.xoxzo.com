@@ -4,6 +4,7 @@ Author: Muhammad Juwaini
 Tags: html5, browsers, audio
 Slug: polyfilling-the-future
 Lang: en
+Thumbnail: images/860d2-6a0153916e707f970b0168ea921382970c-pi.jpg
 Summary: Explaining Polyfill
 
 What is polyfill?

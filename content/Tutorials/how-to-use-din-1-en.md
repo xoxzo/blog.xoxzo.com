@@ -4,6 +4,7 @@ Author: Akira Nonaka
 Tags: din; did; tutorial;
 Slug: dialinnumbers-tutorial
 Lang: en
+Thumbnail: images/Tutorial/din-get-call-en.jpeg
 Summary: I will outline the dial-in number API that controls incoming calls
 
 ## Overview

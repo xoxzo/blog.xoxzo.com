@@ -5,6 +5,7 @@ Lang: ja
 Modified: 2017-02-01 10:30
 Tags: pycon; スポンサー; 熊本; コミュニティー; 2017
 Author: Aiko Yokoyama
+Thumbnail: images/kumamoto.png
 Summary: Xoxzoは、PyCon in 熊本のスポンサーとなりました。
 
 

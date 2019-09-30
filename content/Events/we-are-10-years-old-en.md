@@ -4,6 +4,7 @@ Lang: en
 Author: Iqbal Abdullah
 Tags: 10 years; happy birthday;
 Slug: we-are-ten-years-old
+Thumbnail: images/company-retreat-10th/group-photo.jpg
 Summary: In Feb 2017, Xoxzo is 10 years old. We got together in Langkawi to celebrate
 
 In Feb 2017, Xoxzo celebrates it's 10th year. To celebrate, the whole team

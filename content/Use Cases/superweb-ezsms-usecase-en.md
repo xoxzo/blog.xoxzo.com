@@ -4,6 +4,7 @@ Author: Iqbal Abdullah
 Tags: ezsms, smsのapi配信, 株式会社スーパーウェブ, 実例, 認証
 Slug: superweb-ezsms-usecase
 Lang: en
+Thumbnail: images/client-logos/superweb.gif
 Summary: 株式会社スーパーウェブは、自社アプリの認証サービスにEZSMSを導入しています。
 
 [株式会社スーパーウェブ](http://www.superweb.co.jp/)(本社:兵庫県神戸市中央区、代表取締役 豊永 貴士)は、この度株式会社Xoxzo（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）運営する[SMS（ショートメッセージ）配信APIサービス「EZSMS」](http://www.ezsms.biz/ja)を導入しました。

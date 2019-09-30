@@ -4,6 +4,7 @@ Slug: startup-python-20170510
 Lang: ja
 Tags: Python;勉強会;みんなのPython;東京
 Author: Akira Nonaka
+Thumbnail: images/stapy-20170510/stapy-20170510-1.jpg
 Summary: 「みんなのPython勉強会#24」の参加報告です
 
 5/10(水)のよる、半蔵門にある株式会社クリーク・アンド・リバー社で開催された、

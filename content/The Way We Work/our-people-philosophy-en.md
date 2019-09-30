@@ -4,6 +4,7 @@ Author: Iqbal Abdullah
 Tags: people; humans; work; hiring; onboarding;
 Slug: our-people-philosophy
 Lang: en
+Thumbnail: images/team-pic-mtg.jpg
 Summary: How Xoxzo looks at the people that makes us.
 
 We believe our most prized assets are the individuals that make up Xoxzo. This

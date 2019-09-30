@@ -4,6 +4,7 @@ Author: Zaki Akhmad
 Tags: 環境; 仕事; ツール; python; zsh; vscode; チームキャンプ; 2018;
 Slug: sharing-our-working-environment
 Lang: ja
+Thumbnail: images/kl-team-camp-2018.jpg
 Summary: 生産力向上のため、チームキャンプでメンバーの仕事環境を覗いてみました。
 
 2018年7月、チームキャンプがありました。

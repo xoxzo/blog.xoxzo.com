@@ -5,6 +5,7 @@ Lang: ja
 Modified: 2012-11-14 11:00
 Tags: kof; 大阪; 出展;
 Author: Aiko Yokoyama
+Thumbnail: images/kof-2016/kof-booth.jpg
 Summary: KOF関西に参加してその感想を書く
 
 ![KOF関西バナー]({filename}/images/kof-2016/kof.jpg)

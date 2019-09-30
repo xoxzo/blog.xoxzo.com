@@ -4,6 +4,7 @@ Author: Aiko Yokoyama
 Tags: ex, ezsms, use cases, pr, ショートメッセージ
 Slug: ex-ezsms-usecase
 Lang: en
+Thumbnail: images/client-logos/ex-logo.png
 Summary: 株式会社EXは、運営サイト・アプリに、EZSMSの電話番号認証システム、ダイヤルSMSを導入しています。
 
 
