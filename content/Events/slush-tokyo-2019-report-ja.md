@@ -4,6 +4,7 @@ Slug: slush-tokyo-2019-report
 Lang: ja
 Tags: 2019; slush; 東京; スタートアップ;
 Author: Aiko Yokoyama
+Thumbnail: images/slush_team.jpg
 Summary: 2月22日金曜日と23日土曜日の二日間、東京ビッグサイトにて、テック系スタートアップの祭典 _Slush Tokyo 2019_へ出展しました。
 
 [![slush_logo](/images/slush_logo.png)](https://tokyo.slush.org/)

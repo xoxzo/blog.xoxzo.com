@@ -4,6 +4,7 @@ Slug: pycon-jp-2017
 Lang: ja
 Tags: 2017; pycon jp; 
 Author: Akira Nonaka
+Thumbnail: images/pycon-jp-2017/pycon-jp-2017.jpg
 Summary: PyCon JP 2017の参加レポートです。
 
 ちょっと遅めの報告になってしまいましたが9/9に早稲田大学の西キャンパスで開催されていた PyCon JP 2017 に参加してきました。

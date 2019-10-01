@@ -4,6 +4,7 @@ Date: 2019-08-30
 Author: Akira Nonaka
 Tags: Python, コルーチン, 2019
 Slug: about-n-lambda-note
+Thumbnail: images/lambda-note.png
 Summary: 計算機好きのための技術解説情報誌,n 月刊ラムダノートのご紹介です
 
 [ラグビー・ワールドカップ2019](https://www.rugbyworldcup.com/)の開催まで一ヶ月をきり、なんとなく落ち着かない野中です。

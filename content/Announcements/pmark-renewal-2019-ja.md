@@ -4,6 +4,7 @@ Slug: privacy-mark-renewal-2019
 Lang: ja
 Tags: privacymark; xoxzo; Pマーク; 2019;
 Author: Aiko Yokoyama
+Thumbnail: images/pmark-2019-ja.png
 Summary: 今年Xoxzoは、プライバシーマークを再度更新いたしました。
 
 ![pmark-2019](/images/pmark-2019-ja.png)

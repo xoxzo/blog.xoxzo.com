@@ -4,6 +4,7 @@ Slug: pycon-ph-2018
 Lang: ja
 Tags: 2018; pycon; ph; フィリピン;
 Author: Shauryadeep Chaudhuri
+Thumbnail: images/pycon-ph-2018/6.png
 Summary: こちらは、2018年2月24日-25日に行われた PyCon フィリピン 2018での我々の体験レポートです。 
 
 2018年2月24日と25日、[PyCon フィリピン](https://pycon.python.ph/) が、マニラ近郊のマカティにて

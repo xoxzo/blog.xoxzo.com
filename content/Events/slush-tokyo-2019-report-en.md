@@ -4,6 +4,7 @@ Slug: slush-tokyo-2019-report
 Lang: en
 Tags: 2019; slush; Tokyo; Startup;
 Author: Aiko Yokoyama
+Thumbnail: images/slush_team.jpg
 Summary: For 2 days since Feb/22, we had a demo booth at Slush Tokyo 2019.
 
 [![slush_logo](/images/slush_logo.png)](https://tokyo.slush.org/)

@@ -5,6 +5,7 @@ Lang: en
 Modified: 2017-02-03 13:00
 Tags: 2017; osc; 
 Author: Aiko Yokoyama
+Thumbnail: images/OSC_logo_sticker.gif
 Summary: Xoxzo is going to exhibit at OSC Hamanako on February 12.
 
 [![OSC_logo]({filename}/images/OSC_logo_sticker.gif)](https://www.ospn.jp/osc2017-hamanako/)

@@ -4,6 +4,7 @@ Slug: pycon-jp-2018
 Lang: en
 Tags: pycon; sponsor; JP; community; 2018
 Author: Aiko Yokoyama
+Thumbnail: images/pyconjp2018.png
 Summary: Xoxzo sponsors PyCon JP again this year, will also have a booth. 
 
 

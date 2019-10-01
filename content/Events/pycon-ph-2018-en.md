@@ -4,6 +4,7 @@ Slug: pycon-ph-2018
 Lang: en 
 Tags: 2018; ph; pycon; philippines
 Author: Shauryadeep Chaudhuri
+Thumbnail: images/pycon-ph-2018/6.png
 Summary: This is the experience we had in PyCon PH 2018, held on February 24 & 25, 2018 in Manila, Philippines.
 
 From [24th Feb to 25th Feb 2018, PyCon Phillipines](https://pycon.python.ph/) was held in Makati City,

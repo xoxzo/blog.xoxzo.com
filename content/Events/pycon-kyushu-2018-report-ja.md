@@ -4,7 +4,8 @@ Slug: pycon-kyushu-2018-report
 Lang: ja
 Tags: pycon; kyushu; 2018
 Author: Akira Nonaka
-Summary: 
+Thumbnail: images/pycon-kyushu-2018/line-genkan.jpg
+Summary: PyCon九州2018にスポンサーとして参加しました。
 
 [PyCon九州2018](http://kyushu.pycon.jp)にスポンサーとして参加しました。
 会場はLINE Fukuoka株式会社さんのオフィスです。玄関には見覚えのあるキャラクターがチラホラと。

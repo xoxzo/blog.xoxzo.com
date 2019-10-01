@@ -4,6 +4,7 @@ Slug: api-meetup-2017-10-06
 Lang: ja
 Tags: 2017; api meetup; 
 Author: Akira Nonaka
+Thumbnail: images/api-meetup-2017-10-06/api-meetup-tokyo-20171006.jpg
 Summary: API Meetup Tokyo #22の参加レポートです
 
 [API Meetup Tokyo #22 〜秋のライトニングトークSP](https://api-meetup.doorkeeper.jp/events/64948)

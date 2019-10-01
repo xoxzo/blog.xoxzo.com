@@ -4,6 +4,7 @@ Slug: 3pro-interview
 Lang: en
 Tags: client interview; 3pro; fintech; sms api
 Author: Akira Nonaka
+Thumbnail: images/3proMrOmura01.jpg
 Summary: We sat down with ThreePro Agency's Mr. Ohmura on a fine August day and asked him how they are utilizing XOXZO’s SMS sending API for their Fintech business.
 
 Utilizing IT technology to provide a variety of financial services and developing its Fintech business, ThreePro Agency has begun providing a settlement solution through the use of SMS. We have asked the person in charge, Mr. Ohmura, how they are utilizing XOXZO’s SMS sending API.
@@ -13,10 +14,7 @@ __Q: What kind of business are you using XOXZO’s SMS sending API for?__
 >Mr. Ohmura:
 >In July, we started a new service called “Mail-order LINKS,” targeting mail-order businesses.  This service combines the new order and repeat business solicitation calls that they handle at the Contact Center together with a SMS payment receiving service, “Payment Mail,” in a single package. It is in this “Payment Mail” that we are utilizing XOXZO’s platform.
 
-![Ohmura-san_01](/images/3proMrOmura01.jpg)
-(Above) Mr. Riichi Ohmura
-ThreePro Agency, Inc.
-New Business Development Office, Chief Organizer
+![Ohmura-san_01](/images/3proMrOmura01.jpg)<span class="caption">(Above) Mr. Riichi Ohmura. ThreePro Agency, Inc. New Business Development Office, Chief Organizer</span>
 
 __Q: Specifically, when would you use “Payment Mail”?__
 

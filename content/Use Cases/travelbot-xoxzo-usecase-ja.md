@@ -4,6 +4,7 @@ Slug: travelbot-xoxzo-usecase
 Lang: ja
 Tags: use-cases; travelbot; 
 Author: Aiko Yokoyama
+Thumbnail: images/travelbot.png
 Summary: LINE上で、ローカル情報を旅行者等に便利に配信するサービス・TravelBot（トラベルボット）は、XoxzoのAPIを使い、インターネット接続のないときにもSMSを使って情報配信できるよう、サービス拡張を図ります。
 
 チャットアプリ・[LINE（ライン）](https://line.me/ja/)上で、コンテンツ配信を行っている [TravelBot（トラベルボット）](http://m-travelbot.weebly.com/)は、この度 XoxzoのAPIを導入し、ユーザーが、訪問先の周辺情報を得る際、インターネット接続のないときにも、SMSにて情報の受信を可能とし、サービス内容のアップグレードを図ります。

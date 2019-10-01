@@ -5,7 +5,7 @@ Lang: ja
 Tags: ezsms; 移行; API; 
 Thumbnail: /images/ezsms_logo.png
 Author: Aiko Yokoyama
-Summary: 2011年6月よりご愛顧頂いております、EZSMS・ショートメッセージ配信サービスに於いて、本日APIのご提供を終了させていただきます。今後は、[次世代API、Xoxzo](https://www.xoxzo.com/ja/)をご利用ください。
+Summary: 2011年6月よりご愛顧頂いております、EZSMS・ショートメッセージ配信サービスに於いて、本日APIのご提供を終了させていただきます。今後は、次世代API、Xoxzoをご利用ください。
 
 ![EZSMS logo](/images/ezsms_logo.png)
 

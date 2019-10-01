@@ -4,6 +4,7 @@ Slug: travelbot-xoxzo-usecase
 Lang: en
 Tags: use-cases; travelbot; 
 Author: Aiko Yokoyama
+Thumbnail: images/travelbot.png
 Summary: TravelBot, providing local information to the area visitors through SNS, utilizes Xoxzo API to provide information through SMS where internet connection is not available.
 
 Mobieus and Rupert who runs a contents service through the [LINE](https://line.me/en/)

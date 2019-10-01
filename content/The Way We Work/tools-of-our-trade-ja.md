@@ -3,6 +3,7 @@ Date: 2017-10-12 15:00
 Author: Iqbal Abdullah
 Tags: people; humans; work; nomad; saas; tools;
 Slug: tools-of-our-trade
+Thumbnail: images/tools-of-our-trade/twitter-screenshot.png
 Lang: ja
 Summary: 100%リモートワーク中の我々Xoxzoが、日本でビジネスを行う上で、利用しているツールをご紹介します。
 

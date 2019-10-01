@@ -4,6 +4,7 @@ Author: Iqbal Abdullah
 Tags: ezsms, smsのapi配信, gmoメディア株式会社, freemlトーク, アプリ
 Slug: gmomedia-ezsms-usecase
 Lang: ja
+Thumbnail: images/client-logos/gmomedia-logo.gif
 Summary: 「freemlトーク」がEZSMSを導入する
 
 [GMOメディア株式会社](http://www.gmo-media.jp/)、(本社:東京都渋谷区、代表取締役社長

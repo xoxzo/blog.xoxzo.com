@@ -4,6 +4,7 @@ Slug: secondlife-xoxzo-usecase
 Lang: ja
 Tags: use-cases; secondlife; 
 Author: Aiko Yokoyama
+Thumbnail: images/secondlife-logo.png
 Summary: 100％リサイクルを目指す、エコロジー企業セカンドライフ（本社：大阪府門真市）が、eメールでの連絡未着の問題へのソリューションとして、XoxzoのSMS送信APIを導入しました。
 
 不用品を顧客の都合に合わせて回収し、100％リユースによるリサイクル活動に加え、途上国の子どもたちへのワクチン費用の寄付を行っている[セカンドライフ](https://www.ehaiki.jp/second/)（本社：大阪府門真市）が、eメールでの連絡未着の問題へのソリューションとして、XoxzoのSMS送信APIを導入しました。

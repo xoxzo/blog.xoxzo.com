@@ -4,6 +4,7 @@ Author: Zaki Akhmad
 Tags: environment; work; tools; python; zsh; vscode; teamcamp; 2018;
 Slug: sharing-our-working-environment
 Lang: en
+Thumbnail: images/kl-team-camp-2018.jpg
 Summary: Looking at others working environment during our team camp might improve productivity
 
 On July 2018, we had another [team camp](https://blog.xoxzo.com/tag/team-camp/).

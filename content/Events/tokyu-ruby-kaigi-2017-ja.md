@@ -4,6 +4,7 @@ Slug: tokyu-ruby-kaigi-2017
 Lang: ja
 Tags: rokyu, ruby, kaigi, xoxzo
 Author: Akira Nonaka
+Thumbnail: images/tokyu-ruby-kaigi-2017/P1070145.JPG
 Summary: Tokyu Ruby Kaigi #11の参加報告です
 
 7/29に株式会社VOYAGE GROUP様で開催された[TokyuRuby会議11](https://tokyurubykaigi.github.io/tokyu11/)

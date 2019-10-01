@@ -131,4 +131,4 @@ For example:
 
 or
 
-    ![img-alt](/images/sample2.jpg)<span class="caption">Caption2</a>
+    ![img-alt](/images/sample2.jpg)<span class="caption">Caption2</span>

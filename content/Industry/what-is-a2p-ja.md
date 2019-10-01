@@ -4,7 +4,7 @@ Author: Aiko Yokoyama
 Tags: p2p; a2p; コミュニケーション; api; sms; 通知; 認証; システム開発; ショートメッセージ; 
 Slug: what-is-a2p
 Lang: ja
-Thumbnail: images/xoxzo-logo-02.png
+Thumbnail: images/whatisa2p.jpg
 Summary: 最近、ビジネス用語かと思えば、個人間でもよく使われている、◯2◯　という形で、アルファベットで2（トゥー)を挟む呼び方が、あちこちで見られます。モバイル関連で、P2P や A2Pといえば、何を差すのでしょうか？
 
 

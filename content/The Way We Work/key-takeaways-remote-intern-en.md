@@ -4,6 +4,7 @@ Author: Surya Banerjee
 Tags: intern; internship; remoteworking; experience; learning; remote;
 Slug: key-takeaways-remote-intern
 Lang: en
+Thumbnail: images/interntakeaway.jpg
 Summary: I took the self learning route and after a couple of months, I found myself stuck in Tutorial Purgatory or a state where I kept learning without a structure or a set goal... I realized the previous knowledge wanes off without due practice and that is when I decided to send a mail to Kamal, our CTO and asked if I could join as an intern as I wanted some practical experience.
 
 

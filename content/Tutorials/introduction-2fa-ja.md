@@ -4,6 +4,7 @@ Author: Akira Nonaka
 Tags: 二要素認証; チュートリアル;sms
 Slug: introduction-2fa-sms
 Lang: ja
+Thumbnail: images/introduction-2fa-sms/sms-2fa-en.jpg
 Summary: Webアプリに二要素認証を導入する方法の紹介です。
 
 いろいろなWebサービスで、ユーザIDとパスワードが流出し、アカウントが乗っ取られて不正に利用されるという問題が多発しています。

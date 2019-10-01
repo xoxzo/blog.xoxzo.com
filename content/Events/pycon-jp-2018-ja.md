@@ -4,6 +4,7 @@ Slug: pycon-jp-2018
 Lang: ja
 Tags: pycon; スポンサー; 熊本; コミュニティー; 2018
 Author: Aiko Yokoyama
+Thumbnail: images/pyconjp2018.png
 Summary: Xoxzoは、今年もPyCon Jp を協賛、出展します。
 
 

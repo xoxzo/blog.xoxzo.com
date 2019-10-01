@@ -3,7 +3,7 @@ Date: 2017-12-18 09:30
 Author: Abdul Rahman Ibrahim
 Tags: GEC; community; event; entrepreneurship; summit;
 Slug:gec-summit-2017
-Thumbnail: images/aman.jpg
+Thumbnail: images/gec2017/opening.jpg
 Lang: en
 Summary: I attended the second Global Economic Community Summit held in the Kuala Lumpur Convention Center. While the net has made the world smaller, at the same time there's still a big world out there to explore.
 

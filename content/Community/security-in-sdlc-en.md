@@ -4,6 +4,7 @@ Author: Zaki Akhmad
 Tags: security, sdlc, university of indonesia, computer science
 Lang: en
 Slug: security-in-sdlc
+Thumbnail: images/security-in-sdlc-2017.jpg
 Summary: The Security Aspect in the Software Development Life Cycle (SDLC)
 
 Last Thursday, I was giving a guest lecture at University of Indonesia about

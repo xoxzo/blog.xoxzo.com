@@ -4,6 +4,7 @@ Author: Aiko Yokoyama
 Tags: careermart, ezsms, use cases, pr, ショートメッセージ
 Slug: careermart-ezsms-usecase
 Lang: ja
+Thumbnail: images/client-logos/career-mart-logo.jpg
 Summary: 株式会社キャリアマート （Career Mart inc. ）は、顧客様へのサービスの一環としての案内送付手段として、株式会社XOXZOの運営するEZSMS従量課金制SMS配信サービスを導入しました。
 
 株式会社キャリアマート （Career Mart inc. ）（本社：東京都新宿区、ホームページ：http://www.careermart.co.jp/）は、顧客様へのサービスの一環としての案内送付手段として、株式会社XOXZO（本社：東京都台東区、代表取締役：イクバル・アバドゥラ、https://www.xoxzo.com/ja/）の運営するEZSMS（https://www.ezsms.biz/ja/）従量課金制SMS配信サービスを導入しました。

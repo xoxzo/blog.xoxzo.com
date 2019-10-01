@@ -4,6 +4,7 @@ Author: Akira Nonaka
 Tags: python; import; sys.path; learning python series;
 Slug: about-python-import
 Lang: ja
+Thumbnail: images/python-import.jpg
 Summary: Pythonのimportのサーチパスに関する話題
 
 Pythonプログラマがしばしば遭遇する問題に、`import` したいモジュールやパッケージが見つからないというものがあります。

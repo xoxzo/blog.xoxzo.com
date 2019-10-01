@@ -4,6 +4,7 @@ Date: 2016-11-07 17:04
 Author: Kamal Mustafa
 Tags: event, seminar, workshop, tech, malaysia
 Slug: startup-and-developer-4th-meetup
+Thumbnail: images/startup-developer-4th-meetup/img_20161105_101628.jpg
 Summary: A summary on the startup and developer meetup in KL
 
 This weekend I managed to join a developer meetup in KL. The group,

@@ -4,6 +4,7 @@ Slug: sponsoring-osc-okinawa-2018
 Lang: en
 Tags: osc; okinawa; sponsor; xoxzo; open source;
 Author: Aiko Yokoyama
+Thumbnail: images/osc-banner.gif
 Summary: We Xoxzo are sponsoring and havaing a booth at OSC Okinawa 2018 on June 16(Sat)
 
 ![osc-logo](/images/osc-banner.gif)

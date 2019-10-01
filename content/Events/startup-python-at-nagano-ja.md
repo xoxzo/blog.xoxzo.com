@@ -5,6 +5,7 @@ Lang: ja
 Modified: 2017-03-22 11:00
 Tags: Python;長野;勉強会;みんなのPython
 Author: Akira Nonaka
+Thumbnail: images/IMG_7444.JPG
 Summary: 「みんなのPython勉強会 in 長野 #1」参加報告
 
 三連休の初日(3/18)に[「みんなのPython勉強会 in 長野 #1」](https://startpython.connpass.com/event/48846/)に参加してきました。

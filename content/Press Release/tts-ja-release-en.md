@@ -4,6 +4,7 @@ Slug: tts-ja-release
 Lang: en
 Tags: pr; tts; text-to-speech; new release 
 Author: Aiko Yokoyama
+Thumbnail: images/tts.png
 Summary: Simply type any text messages and you can collaborate the voice created into your any of Xoxzo voice API.
 
 ![tts]({filename}/images/tts.png)

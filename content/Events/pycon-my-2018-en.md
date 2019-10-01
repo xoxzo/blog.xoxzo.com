@@ -4,6 +4,7 @@ Slug: pycon-my-2018
 Lang: en 
 Tags: 2018; pycon; MY;
 Author: Jenna Kassim
+Thumbnail: images/pycon-my-2018/IMG_9679.JPG
 Summary: PyCon Malaysia 2018
 
 PyCon Malaysia 2018 was held on 25th and 26th August and it was my first experience attending a technical conference. As a first-timer as a participant, I had arrived with zero expectations and was happy to leave the conference with a better exposure of what actually goes on in a tech conference.

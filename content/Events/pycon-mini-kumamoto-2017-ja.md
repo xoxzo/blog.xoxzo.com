@@ -4,6 +4,7 @@ Slug: pycon-kumamoto-2017-report
 Lang: ja
 Tags: pycon; スポンサー; 熊本; コミュニティー; 2017
 Author: Akira Nonaka
+Thumbnail: images/pycon-mini-kumamoto-2017/DSC_5281.jpg
 Summary: PyCon mini in KUMAMOTOへの参加報告です
 
 XOXZOは、去る4/23に開催された[PyCon mini in KUMAMOTO](http://kumamoto.pycon.jp)

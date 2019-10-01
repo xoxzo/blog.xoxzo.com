@@ -4,6 +4,7 @@ Author: Surya Banerjee
 Tags: django; webframework; flask; python; development;
 Slug: django-vs-flask
 Lang: en
+Thumbnail: images/djangoflask/so_questions.png
 Summary: Flask vs Django, the battle of frameworks can be a bit confusing to people who start off. This is a guide for making an informed decision about the right web framework to work with.
 
 I would like to congratulate you for deciding to develop web apps using python. Python is currently one of the most popular programming languages around, favored for its clean, readable code, and flexibility. It is also in high demand because of its wide range of web frameworks that can take your project from idea to reality, in the fastest time possible. Let's first address the most fundamental question.

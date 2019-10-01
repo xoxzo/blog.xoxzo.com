@@ -4,6 +4,7 @@ Author: Iqbal Abdullah
 Tags: kuala lumpur; jomlaunch; jomweb;
 Lang: en
 Slug: iqbal-speaker-jomlaunch-2017
+Thumbnail: images/jomlaunch-sep-2017/IMAG0382.jpg
 Summary: Iqbal was invited as a guest speaker at JomLaunch 5.0 in Kuala Lumpur
 
 On August 4 2017, I received an email inviting me as a guest speaker at this year's

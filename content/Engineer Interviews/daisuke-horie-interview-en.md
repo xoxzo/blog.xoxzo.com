@@ -4,6 +4,7 @@ Author: Iqbal Abdullah
 Tags: interviews; engineer; amazon; peatix; cookpad; github; sixapart; yahoo; 2018;
 Lang: en
 Slug: interview-with-daisuke-horie
+Thumbnail: images/engineer-interviews/daisuke-horie-picture.jpg
 Summary: We interviewed Daisuke Horie, who went from companies like Yahoo, Amazon and Github and now in his latest role in Peatix on his takes on the technolgy sector and what it means to be a good engineer.
 
 Daisuke Horie, or known on Twitter as [@dice](https://twitter.com/dice) is

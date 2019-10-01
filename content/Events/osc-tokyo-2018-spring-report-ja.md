@@ -4,6 +4,7 @@ Slug: osc-tokyo-2018-spring-report
 Lang: ja
 Tags: 2018; osc; Tokyo; 
 Author: Aiko Yokoyama
+Thumbnail: images/OSC-tokyo-2018-s-booth.jpg
 Summary: Xoxzoは、2018年2月23日㈮と24日㈯の二日間、明星大学多摩キャンパスにて、OSC（オープンソースカンファレンス）東京 2018 Springに出展しました。
 
 [![OSC_logo]({filename}/images/OSC_logo_sticker.gif)](https://www.ospn.jp/osc2018-spring/)

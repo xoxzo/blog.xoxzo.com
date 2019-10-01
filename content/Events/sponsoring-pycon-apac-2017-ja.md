@@ -4,7 +4,7 @@ Slug: sponsoring-pycon-apac-2017
 Lang: ja
 Tags: pycon apac; 2017; sponsor; xoxzo; pycon; クアラ・ルンプル;
 Author: Aiko Yokoyama
-Summary: [Xoxzo](https://info.xoxzo.com/ja/) は、[PyCon APAC 2017](https://pycon.my/2017/07/17/announcing-xoxzo-as-our-platinum-sponsor/)のスポンサーです。
+Summary: Xoxzoは、PyCon APAC 2017のスポンサーです。
 
 マレーシア、シンガポール、台湾等で行われた、アジア・太平洋地域のPyConへの参加経験、また、
 本年4月の[PyCon in 熊本のスポンサー経験](https://blog.xoxzo.com/ja/2017/02/01/pycon-kumamoto-2017/) を踏まえ、

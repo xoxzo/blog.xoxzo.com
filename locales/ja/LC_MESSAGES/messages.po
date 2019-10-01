@@ -17,101 +17,84 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.3\n"
 
-#: themes/xoxzo/templates/archives.html:5
+#: themes/xoxzo/templates/archives.html:13
 msgid "Archives"
 msgstr "アーカイブ"
 
-#: themes/xoxzo/templates/article.html:21
+#: themes/xoxzo/templates/article.html:39
 msgid "Xoxzo Official Blog"
 msgstr "Xoxzoの公式ブログ"
 
-#: themes/xoxzo/templates/article.html:37
-msgid "By"
-msgstr "投稿者:"
-
-#: themes/xoxzo/templates/article.html:92
+#: themes/xoxzo/templates/article.html:88
 msgid "You May Like"
 msgstr "こちらもオススメ"
 
-#: themes/xoxzo/templates/author.html:5
+#: themes/xoxzo/templates/author.html:11
 msgid "Articles by"
 msgstr "記事投稿："
 
-#: themes/xoxzo/templates/authors.html:3 themes/xoxzo/templates/authors.html:7
+#: themes/xoxzo/templates/authors.html:9 themes/xoxzo/templates/authors.html:15
 msgid "Authors"
-msgstr "投稿者："
+msgstr "投稿者"
 
-#: themes/xoxzo/templates/base.html:42
+#: themes/xoxzo/templates/base.html:49
 msgid "BLOG"
 msgstr "ブログ"
 
-#: themes/xoxzo/templates/base.html:52
+#: themes/xoxzo/templates/base.html:57
 msgid "https://info.xoxzo.com/en/"
 msgstr "https://info.xoxzo.com/ja/"
 
-#: themes/xoxzo/templates/base.html:52
+#: themes/xoxzo/templates/base.html:57
 msgid "Who We Are"
 msgstr "Xoxzoについて"
 
-#: themes/xoxzo/templates/base.html:55
+#: themes/xoxzo/templates/base.html:60
 msgid "Twitter"
 msgstr "ツイッター"
 
-#: themes/xoxzo/templates/base.html:59
+#: themes/xoxzo/templates/base.html:64
 msgid "Blog Feed"
 msgstr "ブログフィード"
 
-#: themes/xoxzo/templates/base.html:73
+#: themes/xoxzo/templates/base.html:68
 msgid "https://www.xoxzo.com/en/"
 msgstr "https://www.xoxzo.com/ja/"
 
-#: themes/xoxzo/templates/base.html:73
+#: themes/xoxzo/templates/base.html:68
 msgid "Xoxzo Telephony API"
 msgstr "XoxzoテレフォニーAPI"
 
-#: themes/xoxzo/templates/base.html:86
+#: themes/xoxzo/templates/base.html:89
 msgid "Xoxzo Inc. All rights reserved."
 msgstr "Xoxzo Inc. All rights reserved."
 
-#: themes/xoxzo/templates/base.html:87
-msgid "Powered by <a href=\"http://getpelican.com/\">Pelican</a>"
-msgstr "Powered by <a href=\"http://getpelican.com/\">Pelican</a>"
-
-#: themes/xoxzo/templates/categories.html:3
-#: themes/xoxzo/templates/categories.html:7
+#: themes/xoxzo/templates/categories.html:9
+#: themes/xoxzo/templates/categories.html:15
 msgid "Categories"
 msgstr "カテゴリー"
 
-#: themes/xoxzo/templates/category.html:5
-#, python-format
-msgid "Articles in the <b>%(category)s</b> category"
-msgstr "<b>%(category)s</b> 内の記事"
+#: themes/xoxzo/templates/category.html:11 themes/xoxzo/templates/tag.html:11
+msgid "Articles"
+msgstr "記事"
 
-#: themes/xoxzo/templates/index.html:22
-msgid "Continue reading"
-msgstr "続きを読む"
+#: themes/xoxzo/templates/index.html:16
+msgid "Editor's pick"
+msgstr "エディターズピック"
 
-#: themes/xoxzo/templates/period_archives.html:4
-msgid "Archives for"
-msgstr "アーカイブ"
-
+#: themes/xoxzo/templates/index.html:61 themes/xoxzo/templates/index.html:82
 #: themes/xoxzo/templates/sidebar.html:4
 msgid "CATEGORIES"
 msgstr "カテゴリー"
 
-#: themes/xoxzo/templates/sidebar.html:12
-msgid "TAGS"
-msgstr "タグ"
+#: themes/xoxzo/templates/period_archives.html:7
+msgid "Archives for"
+msgstr "アーカイブ"
 
-#: themes/xoxzo/templates/tag.html:5
-#, python-format
-msgid "Articles by the <b>%(tag)s</b> tag"
-msgstr "<b>%(tag)s</b> のついた記事"
-
-#: themes/xoxzo/templates/tags.html:3 themes/xoxzo/templates/tags.html:7
+#: themes/xoxzo/templates/tags.html:9 themes/xoxzo/templates/tags.html:15
 msgid "Tags"
 msgstr "タグ"
 
-#: themes/xoxzo/templates/translations.html:3
-msgid "Translate to"
-msgstr "他の言語へ"
+#: themes/xoxzo/templates/translations.html:5
+msgid "Translate to 日本語"
+msgstr "Translate to English"

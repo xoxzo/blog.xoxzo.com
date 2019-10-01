@@ -4,6 +4,7 @@ Slug: 3pro-interview
 Lang: ja
 Tags: client interview; 3pro; fintech; フィンテック; SMS配信API
 Author: Akira Nonaka
+Thumbnail: images/3proMrOmura01.jpg
 Summary: ある8月晴れた日に、「フィンテック」事業を展開するスリープロエージェンシー担当の大村さんに、XOXZOのSMS配信API活用について伺いました。
 
 IT技術を活用した様々な金融サービス「フィンテック」事業を展開しているスリープロエージェンシーは、SMSを使った決済ソリューションの提供をスタート。XOXZOのSMS配信APIをどう活用しているのか、担当の大村さんに伺いました。
@@ -13,8 +14,7 @@ __XOXZOのSMS配信APIはどんな業務に活用しているのですか？__
 >大村さん（以下敬称略）
 >私たちは、通販事業者に向けた新サービス「通販LINKS」を7月から始めました。これはコンタクトセンターで受け付ける新規注文やリピート促進コール業務に加え、SMSの代金収納サービス「Payment Mail」をパッケージ化したサービスです。この「Payment Mail」にXOXZOのプラットフォームが使われています。
 
-![Ohmura-san_01](/images/3proMrOmura01.jpg)
-<div style="text-align: center;">(上)スリープロエージェンシー株式会社 新規事業準備室　室長　大村理一さん</div>
+![Ohmura-san_01](/images/3proMrOmura01.jpg)<span class="caption">(上)スリープロエージェンシー株式会社 新規事業準備室　室長　大村理一さん</span>
 
 
 __「Payment Mail」は具体的にどんな時に使うのでしょう？__
