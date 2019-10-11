@@ -635,6 +635,18 @@ a.caption:hover {
   content: " ";
   margin-top: -75px;
   height: 75px;
+  width: 10px;
+  margin-left: -10px;
+  visibility: hidden;
+}
+
+.footnote li::before {
+  display: block;
+  content: " ";
+  margin-top: -75px;
+  height: 75px;
+  width: 10px;
+  margin-left: -10px;
   visibility: hidden;
 }
 
