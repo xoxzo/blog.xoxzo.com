@@ -4,6 +4,7 @@ Slug: japanese-typography-for-web-design
 Lang: ja
 Tags: typography; ウェブデザイン; japanese; フォント;
 Author: Hyejeong Park
+Thumbnail: images/web-typography.jpg
 Summary: 私の経験から学んだ、日本語ウェブタイポグラフィーのごく基本的なヒントをご紹介
 
 タイポグラフィはどこにでもあるものなので重要です。
