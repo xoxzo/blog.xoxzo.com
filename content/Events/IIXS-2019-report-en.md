@@ -1,4 +1,4 @@
-Title: We were at IIXS
+Title: We were at IIXS 2019 in Jakarta
 Date: 2019-10-11
 Slug: IIXS-2019-report
 Lang: en
@@ -31,7 +31,7 @@ Among the visitors, we had an earnest visitor working on e-commerce for industri
 
 ![Miss Internet Indonesia](/images/IIXS/IIXS5.jpg)
 
-On a side note, on 26 Sep the team also attended a meetup organized by DevOps Indonesia, titled ]How containerization  and infra as code can leverage your DevOps](https://www.meetup.com/DevOps-Indonesia/events/264888285/). 
+On a side note, on 26 Sep the team also attended a meetup organized by DevOps Indonesia, titled [How containerization and infra as code can leverage your DevOps](https://www.meetup.com/DevOps-Indonesia/events/264888285/). 
 
 ![DevOps Indonesia meetup](/images/IIXS/IIXS6.jpg)
 
