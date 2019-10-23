@@ -1,5 +1,5 @@
 Title: [Xoxzo] Mobile authentication is added
-Date: 2019-10-4
+Date: 2019-10-23
 Slug: x4-authentication
 Lang: en
 Tags: Xoxzo; authentication; Mobile-number; Security;
