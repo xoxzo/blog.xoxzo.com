@@ -3,6 +3,7 @@ Date: 2019-10-23
 Slug: x4-authentication
 Lang: ja
 Tags: Xoxzo; 認証; 携帯電話; セキュリティ;
+Thumbnail: images/xoxzo-logo-02.png
 Author: Aiko Yokoyama
 Summary: Xoxzoでは、アカウントユーザーのご本人確認のため、携帯電話認証を導入しました。
 
