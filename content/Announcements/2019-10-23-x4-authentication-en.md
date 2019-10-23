@@ -8,7 +8,7 @@ Summary: Xoxzo started to authenticate the account users with their mobile phone
 
 Thank you for using [Xoxzo Cloud Telephony Platform](https://www.xoxzo.com/en).
 
-In order to purchase credits, we require that you authenticate your mobile number. This will help us to make your account safer and make it more difficult for abusers to take advantage of the service. We will only use your mobile number for authentication purposes and to contact you in case of emergencies.
+Starting from October 23, 2019, in order to purchase credits, we require that you authenticate your mobile number. This will help us to make your account safer and make it more difficult for abusers to take advantage of the service. We will only use your mobile number for authentication purposes and to contact you in case of emergencies.
 
 Please refer our [Help Center]() for how exactly the authentication process to be.
 
