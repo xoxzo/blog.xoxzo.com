@@ -3,6 +3,7 @@ Date: 2019-10-23
 Slug: x4-authentication
 Lang: en
 Tags: Xoxzo; authentication; Mobile-number; Security;
+Thumbnail: images/xoxzo-logo-02.png
 Author: Aiko Yokoyama
 Summary: Xoxzo started to authenticate the account users with their mobile phones
 
