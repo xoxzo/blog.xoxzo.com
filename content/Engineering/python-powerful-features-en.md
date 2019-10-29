@@ -127,7 +127,7 @@ When the class statement is executed, Python first executes the body of the clas
 
 However, metaclasses actually define the type of a class, not just a factory for it, so you can do much more with them. You can, for instance, define normal methods on the metaclass. These metaclass-methods are like classmethods in that they can be called on the class without an instance, but they are also not like classmethods in that they cannot be called on an instance of the class. type.\__subclasses__() is an example of a method on the type metaclass. You can also define the normal 'magic' methods, like \__add__, \__iter__ and \__getattr__, to implement or change how the class behaves.
 
-Now lets simplify what all that jargon means. Let’s consider a situation where a company has 2 teams, one for writing the library for the system while the other team is responsible for more of the application/business logic. The application developers thus use the libraries created for them by the library team. Now, say the application dev wants to be sure that there is a particular method defined in a class from the library from which a derived class is created in the application code. The easiest way to check it would be something like this.  
+Now let's simplify what all that jargon means. Let’s consider a situation where a company has 2 teams, one for writing the library for the system while the other team is responsible for more of the application/business logic. The application developers thus use the libraries created for them by the library team. Now, say the application developer wants to be sure that there is a particular method defined in a class from the library from which a derived class is created in the application code. The easiest way to check it would be something like this.  
   
 
     assert hasassert (BaseClass, MethodToCheck), “Its not there”  
@@ -153,7 +153,7 @@ Here we define the metaclass deriving from the class ‘type’ which checks for
   
 ## A pinch of syntactic sugar called decorators
 
-Let’s start with the basics: Everything in Python is an object. So functions are objects too. Now that means we could have functions as arguments passed on to another function. These functions are called higher order functions. Thus, a higher-order function is a function that takes one or more functions as inputs and returns a function. I.e.  
+Let’s start with the basics: Everything in Python is an object. So functions are objects too. Now that means we could have functions as arguments passed on to another function. These functions are called higher-order functions. Thus, a higher-order function is a function that takes one or more functions as inputs and returns a function. I.e.  
   
 
     h(x) = f(g(x))  
@@ -162,7 +162,7 @@ Let’s start with the basics: Everything in Python is an object. So functions a
 
 where here f() is a higher-order function that takes a function of a single argument, g(x), and returns a function of a single argument, h(x). You can think of f() as modifying the behaviour of g().  
   
-Decorators are syntactic sugar for applying in Python. They make an ugly statement look pretty, thats it.  
+Decorators are syntactic sugar for applying in Python. They make an ugly statement look pretty, that's it.  
   
 Here is the decorator syntax,
 
@@ -319,7 +319,7 @@ To understand this better, let’s pretend that we want to create an object that
 	    for fibonacci_number in MY_FIBONACCI_NUMBERS:
 		    print(fibonacci_number)
 
-As you can see, all we’ve done has been creating a class that implements the iteration protocol. This protocol consists in two methods: the “iter” method that returns the object we would iterate over and the “next” method that is called automatically on each iteration and that returns the value for the current iteration.
+As you can see, all we’ve done is creating a class that implements the iteration protocol. This protocol is contained in two methods: the “iter” method that returns the object we would iterate over and the “next” method that is called automatically on each iteration and that returns the value for the current iteration.
 
   
 Please note that the protocol in Python 3 is a little different and the “next()” method is called “\__next__()”  
@@ -381,4 +381,4 @@ Every generator is an iterator, but not vice versa. A generator is built by call
 You may want to use a custom iterator, rather than a generator, when you need a class with somewhat complex state-maintaining behavior, or want to expose other methods besides next (and \__iter__ and \__init__). Most often, a generator (sometimes, for sufficiently simple needs, a generator expression) is sufficient, and it's simpler to code because state maintenance (within reasonable limits) is basically "done for you" by the frame getting suspended and resumed.
 
   
-So the covered topics shows a small glimpse of what power the Python programming languages gives us, hence someone can start learning the basics and the rest is taken care by Python. However, once that someone gets better at it, they have more control and ability to take over much of the action that happens under the hood and build out to their desired results.
+So the topics covered show a small glimpse of what power the Python programming language gives us, hence someone can start learning the basics and the rest is taken care of by Python. However, once someone gets better at it, they have more control and ability to take over much of the action that happens under the hood and build out to their desired results.
