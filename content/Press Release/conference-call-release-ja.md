@@ -38,7 +38,7 @@ APIのご利用料金は、月額などの定額請求はございません。�
 (参考：[料金ページ](https://www.xoxzo.com/ja/about/pricing/#voice))
 
 今後共、[Xoxzo-クラウド・テレフォニー・プラットフォーム](https://www.xoxzo.com/ja/)
-の新機能リリースにご期待下さい。[ツイッターでフォロー](https://twitter.com/xoxzotelephony)いただけますと、
+の新機能リリースにご期待下さい。[ツイッターでフォロー](https://twitter.com/xoxzocom)いただけますと、
 このリリース情報がいち早くご確認いただけます。
 
 __ ■「Xoxzo」へのアクセス方法 __

@@ -38,7 +38,7 @@ by the number of conference call participants.
 
 Please visit [Xoxzo, Cloud Telephony Platform](https://www.xoxzo.com/en/) from
 time to time for the future releases, you may do so as easy as just
-__ follow us [here](https://twitter.com/xoxzotelephony). __
+__ follow us [here](https://twitter.com/xoxzocom). __
 
 __ How to find us: __
 
