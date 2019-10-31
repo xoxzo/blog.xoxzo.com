@@ -83,7 +83,7 @@ Drip の UI も英語ですが、日本語のメールも作成できます。�
 
 ## ツイッター
 
-どのような組織においても、今は主流となっています。こちらが、Xoxzoのツイッターアカウントです。[@xoxzotelephony](https://twitter.com/xoxzotelephony/) <br>
+どのような組織においても、今は主流となっています。こちらが、Xoxzoのツイッターアカウントです。[@xoxzocom](https://twitter.com/xoxzocom/) <br>
 Xoxzoのサービス関連の緊急通知や、普段のマーケティング関連のお知らせ、また、ユーザー様と我々Xoxzoにとって、大切であると考えている信念などについても、配信しています。
 
 ![Twitter screenshot]({filename}/images/tools-of-our-trade/twitter-screenshot.png)
