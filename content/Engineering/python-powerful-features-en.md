@@ -32,7 +32,7 @@ Let’s start with \__init__, since it’s the first one people typically learn:
     In __init__!
     
 
-So you see that \__init__ (an initializer method, often incorrectly called a constructor) is called when I created a new Thing object.
+So you see that \__init__ an initializer method is called when I created a new Thing object.
 
 Suppose I want to add two Thing objects together–it doesn’t work, because my Thing type has not defined what it means to add two Things:
 
@@ -183,28 +183,11 @@ So, this is a illustrative description of a decorator. Read through the comments
 
     # A decorator is a function that expects ANOTHER function as parameter
     def my_shiny_new_decorator(a_function_to_decorate):
-    
-	    # Inside, the decorator defines a function on the fly: the wrapper.
-	    # This function is going to be wrapped around the original function
-	    # so it can execute code before and after it.
 	    def the_wrapper_around_the_original_function():
-		    # Put here the code you want to be executed BEFORE the original
-		    # function is called    
 		    print 'Before the function runs'
-    
-      
+	        a_function_to_decorate()
+	        print 'After the function runs'
 	    
-	    # Call the function here (using parentheses)
-	    a_function_to_decorate()
-    
-	    # Put here the code you want to be executed AFTER the original
-	    # function is called
-	    print 'After the function runs'
-	    
-	    # At this point, `a_function_to_decorate` HAS NEVER BEEN EXECUTED.
-	    # We return the wrapper function we have just created.
-	    # The wrapper contains the function and the code to execute before
-	    # and after. It’s ready to use!
 	    return the_wrapper_around_the_original_function
     
       
@@ -280,44 +263,41 @@ In the code example, we show a built-in iterator on a string. In Python a string
 
   
 
-To understand this better, let’s pretend that we want to create an object that would let us iterate over the Fibonacci sequence. The Fibonacci sequence is a sequence of integer numbers characterized by the fact that every number after the first two is the sum of the two preceding ones. So the sequence starts with 0 and 1 and then each number that follows is just the sum of the two previous numbers in the sequence. So the third number is 1 (0+1), the fourth is 2 (1+1), the fifth is 3 (1+2), the sixth is 5 (2+3) and so on.  
-  
+To understand this better, let’s pretend that we want to create an object that would let us iterate over a linear sequence of numbers(incremented by 1).  
 
-    class fibonacci:
-	    def __init__(self, max=1000000):
-		    self.a, self.b = 0, 1
-		    self.max = max
-    
+class Linear_sequence:
+    def __init__(self):
+            self.initial = 0
+            self.max = 20
 
-	    def __iter__(self):
-		    # Return the iterable object (self)
-		    return self
-	    
-	    def next(self):
-		    # When we need to stop the iteration we just need to raise
-		    # a StopIteration exception
-		    if self.a > self.max:
-			    raise StopIteration
-	    
-	      
-	    
-	    # save the value that has to be returned
-	    value_to_be_returned = self.a
-	    
-	    # calculate the next values of the sequence
-	    self.a, self.b = self.b, self.a + self.b
-	    
-	    return value_to_be_returned
-	    
-	    def __next__(self):
-		    # For compatibility with Python3
-		    return self.next()
-      
-    
-    if __name__ == '__main__':
-	    MY_FIBONACCI_NUMBERS = fibonacci()
-	    for fibonacci_number in MY_FIBONACCI_NUMBERS:
-		    print(fibonacci_number)
+    def __iter__(self):
+            # Return the iterable object (self)
+            return self
+
+    def next(self):
+            # When we need to stop the iteration we just need to raise
+            # a StopIteration exception
+            if self.initial > self.max:
+                    raise StopIteration
+
+
+
+            # save the value that has to be returned
+            value_to_be_returned = self.initial + 1
+
+            # calculate the next values of the sequence
+            self.initial += 1
+
+            return value_to_be_returned
+
+    def __next__(self):
+            # For compatibility with Python3
+            return self.next()
+
+if __name__ == '__main__':
+    seq = Linear_sequence()
+    for number in seq:
+            print(number)
 
 As you can see, all we’ve done is creating a class that implements the iteration protocol. This protocol is contained in two methods: the “iter” method that returns the object we would iterate over and the “next” method that is called automatically on each iteration and that returns the value for the current iteration.
 
@@ -330,51 +310,24 @@ Please note that the protocol in Python 3 is a little different and the “next(
 
 Generators in Python are just another way of creating iterable objects and are usually used when you need to create iterable object quickly, without the need of creating a class and adopting the iteration protocol. To create a generator you just need to define a function and then use the yield keyword instead of return.
 
-So, the Fibonacci sequence in a generator could be something like this:
+So, the Linear sequence in a generator could be something like this:
 
-    def fibonacci(max):
-	    a, b = 0, 1
-	    while a < max:
-		    yield a
-	      
-	    a, b = b, a+b
+    def linear_sequence(max):
+    a = 0
+    while a < max:
+        a += 1
+        yield a
 
-Yes, so simple! Now, if you want to test it just use your new Fibonacci generator function:
+
+Yes, so simple! Now, if you want to test it just use your new linear sequence generator function:
 
     if __name__ == '__main__':
-    
-    # Create a generator of fibonacci numbers smaller than 1 million
-    
-    fibonacci_generator = fibonacci(1000000)
-    
-      
-    
-    # print out all the sequence
-    
-    for fibonacci_number in fibonacci_generator:
-    
-    print(fibonacci_number)
 
-__Output:__
+    linear_generator = linear_sequence(20)
+    # print out all the sequence        
+    for number in linear_generator:
+        print(number)
 
-    0
-    1
-    1
-    2
-    3
-    5
-    8
-    13
-    21
-    34
-    55
-    89
-    144
-    233
-    377
-    610
-    987
-    ......
   
 Every generator is an iterator, but not vice versa. A generator is built by calling a function that has one or more yield expressions (yield statements, in Python 2.5 and earlier), and is an object that meets the previous paragraph's definition of an iterator.
 
