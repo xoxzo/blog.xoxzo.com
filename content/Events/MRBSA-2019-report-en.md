@@ -19,8 +19,8 @@ Trivia: the reason behind the name Rice Bowl
 
 > Rice Bowl
 > noun. an area (as Southeast Asia) in which abundant quantities of rice are grown (Oxford, Merriam Webster)
-> Rice is the staple diet in Asia. It is also a symbol of wealth and resource throughout the region, making the rice bowl an enduring symbol of livelihood and sustenance.
-Apart from the official itinerary, we managed to meet new people and catch up with existing contacts within the Malaysia startup scene, including finalists and volunteers who became panellists or contributed directly to the event. 
+> Rice is the staple diet in Asia. It is also a symbol of wealth and resources throughout the region, making the rice bowl an enduring symbol of livelihood and sustenance.
+Apart from the official itinerary, we managed to meet new people and catch up with existing contacts within the Malaysia startup scene, including finalists and volunteers who became panelists or contributed directly to the event. 
 
 This year was the first year a conference session was added to the awards ceremony. 
 
@@ -32,7 +32,7 @@ Startup founders Nadhir from TheLorry, Jeevan from Zoom and Lennise from Dropee 
 ![Xoxzo at MRBSA 2019](/images/arbsa-2019/MRBSA_Panel1.jpg)
 
 Panel Discussion 2: The Investor Perspective
-The Investor Perspective is a panel-session consist of representatives from VCs, angle investors, crowd-funding experts and funding agencies, this was an informative session divulging insights straight from the investors themselves, sharing what they look for in a prospective investment, how to best prepare for your pitches and what not to do when approaching investors.
+The Investor Perspective is a panel-session consist of representatives from VCs, angel investors, crowd-funding experts and funding agencies, this was an informative session divulging insights straight from the investors themselves, sharing what they look for in a prospective investment, how to best prepare for your pitches and what not to do when approaching investors.
 
 ![Xoxzo at MRBSA 2019](/images/arbsa-2019/MRBSA_Panel2.jpg)
 
@@ -41,7 +41,7 @@ Astro Awani's Kamarul Bahrin posed this question to a panel of agency leaders at
 
 ![Xoxzo at MRBSA 2019](/images/arbsa-2019/MRBSA_Panel3.jpg)
 
-After the panel discussions, Malaysia’s up and coming singer songwriter [Amrita Soon]( http://amritasoon.blogspot.com/) was invited to perform a few numbers, some of which are her own compositions. 
+After the panel discussions, Malaysia’s up and coming singer-songwriter [Amrita Soon]( http://amritasoon.blogspot.com/) was invited to perform a few numbers, some of which are her own compositions. 
 
 ![Xoxzo at MRBSA 2019](/images/arbsa-2019/MRBSA_Performer.jpg)
 
