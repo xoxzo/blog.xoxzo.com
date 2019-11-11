@@ -1,5 +1,7 @@
 > [Rootcon](https://www.rootcon.org) is a security conference held annually in the Philippines and it was on its 13th iteration this year. Josef, one of our engineers, is from the Philippines and aside from Python and Raspberry Pies, security is one of his areas of interest. Rootcon 13 has long been in Josef's calendar and now that the event has concluded, he has some thoughts to share.
 
+![Rootcon]({filename}/images/rootcon/rootcon.JPG "Rootcon")
+
 Security is one of those areas where continuous learning and improvement is essential. it's a domain where the truth in the adage "knowledge is power" is realized in many ways. And when we stop learning, the rest of the world leaves us behind. This is applicable in many places, but it's especially so in security.
 
 Attackers and defenders are always one-upping one another and it's really hard to catch up with everything happening. In the computing landscape where hardware, software and people interact, there are a lot of weaknesses for malicious actors to find and exploit.
@@ -11,6 +13,8 @@ I've been to Rootcon twice, and both times, I feel that the talk topics can vary
 We hear security people say that hardware manufacturers aren't giving enough to secure the devices they create. Let's forget for a moment all the unsecured devices that are connected to the internet, the misconfigured devices or devices with default credentials deployed in a lot of places. Even if security measures have been taken, physical access to a device spells "game over" for many of them. If physical access can't be secured, there's also some that have wireless access, which further opens up a lot of possibilities for others to exploit. Nowadays we see more and more "smart" devices in our homes and offices, increasing the surface area that attackers can take advantage of.
 
 In this year's rootcon, there was a car hacking village demonstrating a device that connects and manipulates a car's dashboard using a game controller. So not only do we think of security in our homes and offices, our methods of transportation are also getting targetted. Aside from the car hacking village, there was a hardware hacking village where people could solder their own badge, and I seem to have spent a little too much time hanging out in the lock-picking village...
+
+![Rootcon 13 Badge]({filename}/images/rootcon_badge.JPG "Badges are a thing in security conferences. Here's the Rootcon 13 Badge!")
 
 # Software
 
@@ -30,3 +34,5 @@ To guard against social engineering, we need to educate ourselves and the averag
 Looking back at these reflections, I seem to have developed a grim outlook on things. And that my solution would be for every person to become half a security professional, especially for those in tech. It's just not possible and not practical.
 
 As for me, I've decided some time ago to dedicate some time to learn more about security and that is the reason why I always try to attend this conference. We should always be learning.
+
+![Rootcon Jeopardy]({filename}/images/rootcon_jeopardy.JPG "Rootcon organizers and attendees know have to have fun. Here's a photo of the participants of after playing Rootcon Jeopardy.")
