@@ -1,3 +1,12 @@
+Title: Attending Rootcon 13
+Date: 2019-10-20
+Author: Josef Monje
+Tags: Security; Conference; Community;
+Slug: rootcon-josef
+Lang: en
+Thumbnail: images/rootcon/rootcon.jpg
+Summary: Josef attended Rootcon a security conference in the Philippines and here's blgo post about it.
+
 > [Rootcon](https://www.rootcon.org) is a security conference held annually in the Philippines and it was on its 13th iteration this year. Josef, one of our engineers, is from the Philippines and aside from Python and Raspberry Pies, security is one of his areas of interest. Rootcon 13 has long been in Josef's calendar and now that the event has concluded, he has some thoughts to share.
 
 ![Rootcon]({filename}/images/rootcon/rootcon.JPG "Rootcon")
@@ -14,7 +23,7 @@ We hear security people say that hardware manufacturers aren't giving enough to 
 
 In this year's rootcon, there was a car hacking village demonstrating a device that connects and manipulates a car's dashboard using a game controller. So not only do we think of security in our homes and offices, our methods of transportation are also getting targetted. Aside from the car hacking village, there was a hardware hacking village where people could solder their own badge, and I seem to have spent a little too much time hanging out in the lock-picking village...
 
-![Rootcon 13 Badge]({filename}/images/rootcon_badge.JPG "Badges are a thing in security conferences. Here's the Rootcon 13 Badge!")
+![Rootcon 13 Badge]({filename}/images/rootcon/rootcon_badge.JPG "Badges are a thing in security conferences. Here's the Rootcon 13 Badge!")
 
 # Software
 
@@ -35,4 +44,4 @@ Looking back at these reflections, I seem to have developed a grim outlook on th
 
 As for me, I've decided some time ago to dedicate some time to learn more about security and that is the reason why I always try to attend this conference. We should always be learning.
 
-![Rootcon Jeopardy]({filename}/images/rootcon_jeopardy.JPG "Rootcon organizers and attendees know have to have fun. Here's a photo of the participants of after playing Rootcon Jeopardy.")
+![Rootcon Jeopardy]({filename}/images/rootcon/rootcon_jeopardy.JPG "Rootcon organizers and attendees know have to have fun. Here's a photo of the participants of after playing Rootcon Jeopardy.")
