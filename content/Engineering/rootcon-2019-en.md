@@ -33,6 +33,7 @@ With all the code we rely on, it may be just a matter of time when a vulnerabili
 
 In the end we have to strive for balance. We need to keep on updating and moving forward with technology, but keep things stable. But we can't slack off, it relies on the choice of software we use and how fast we can keep ourselves updated so that we can also make proper updates or changes to our software, fix bugs and patch holes.
 
+Here's a more thorough article discussing [software dependencies and reuse](https://queue.acm.org/detail.cfm?id=3344149).
 
 # People
 
