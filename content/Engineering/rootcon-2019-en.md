@@ -5,7 +5,7 @@ Tags: Security; Conference; Community;
 Slug: rootcon-josef
 Lang: en
 Thumbnail: images/rootcon/rootcon.jpg
-Summary: Josef attended Rootcon a security conference in the Philippines and here's blgo post about it.
+Summary: Josef attended Rootcon a security conference in the Philippines and here's blog post about it.
 
 > [Rootcon](https://www.rootcon.org) is a security conference held annually in the Philippines and it was on its 13th iteration this year. Josef, one of our engineers, is from the Philippines and aside from Python and Raspberry Pies, security is one of his areas of interest. Rootcon 13 has long been in Josef's calendar and now that the event has concluded, he has some thoughts to share.
 
