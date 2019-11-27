@@ -25,6 +25,8 @@ Summary: Kプレミアムサービスでご利用いただいておりますDoco
 05052128038
 `
 
+_2019年11月27日追記：この番号は、0363881815`または `05052128038` と変更されました。最新の情報は、[ヘルプセンター](https://help.xoxzo.com/ja/xoxzo-cloud-telephony-platform/articles/the-k-premium-service/)にてご確認ください_
+
 お手数ですが、お客様各位に変更のご案内をお願いいたします。
 
 
