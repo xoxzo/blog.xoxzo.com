@@ -4,7 +4,7 @@ Slug: k-premium-parameter-change
 Lang: ja
 Tags: k-premium; parameter; Kプレミアムサービス; パラメーター;
 Author: Aiko Yokoyama
-Summary: [Kプレミアムサービス](https://help.xoxzo.com/ja/xoxzo-cloud-telephony-platform/articles/the-k-premium-service/) でご利用いただいておりますパラメーターの記述にアップデートが行われます。
+Summary: Kプレミアムサービスでご利用いただいておりますパラメーターの記述にアップデートが行われます。
 
 平素は、[Xoxzo-クラウドテレフォニープラットフォーム](https://www.xoxzo.com/ja/)
 をご利用いただきまして、誠にありがとうございます。

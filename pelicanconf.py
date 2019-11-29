@@ -39,7 +39,7 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
-DEFAULT_DATE_FORMAT = "%Y-%m-%d"
+DEFAULT_DATE_FORMAT = "%Y/%m/%d"
 STATIC_PATHS = ['images', 'pdfs', 'extra/CNAME', '_redirects']
 EXTRA_PATH_METADATA = {
         'extra/CNAME': {'path': 'CNAME'},
@@ -49,7 +49,7 @@ EXTRA_PATH_METADATA = {
 #THEME           = 'themes/simple'
 THEME           = 'themes/xoxzo'
 PLUGIN_PATHS    = [os.path.join(PROJECT_ROOT, 'plugins'),]
-PLUGINS         = ['i18n_subsites', 'footer_insert', 'related_posts']
+PLUGINS         = ['i18n_subsites', 'footer_insert', 'related_posts', 'autostatic', 'advthumbnailer',]
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n',]}
 
 I18N_UNTRANSLATED_ARTICLES  = "remove"

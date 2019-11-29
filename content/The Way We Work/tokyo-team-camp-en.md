@@ -4,6 +4,7 @@ Author: Zaki Akhmad
 Tags: teamcamp; tokyo; 2016;
 Lang: en
 Slug: tokyo-team-camp
+Thumbnail: images/tokyo-team-camp-2016/2016-02-15_14-05-00_720-e1457311264540.jpg
 Summary: Report on our Feb 2016 team camp in Tokyo
 
 > There's always people on the other side of the screen.

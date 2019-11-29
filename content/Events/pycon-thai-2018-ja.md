@@ -4,6 +4,7 @@ Slug: pycon-thailand-2018
 Lang: ja
 Tags: 2018; pycon th; pycon; thailand;
 Author: Iqbal Abdullah
+Thumbnail: images/pycon-thai-2018/sponsor-booths.jpg
 Summary: タイで最初のPyConの模様を紹介します。
 
 2018年6月16日と17日、バンコクのナレッジエクスチェンジセンター（KX）にて、PyConがタイで初開催されました。

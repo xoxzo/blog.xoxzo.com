@@ -1,20 +1,27 @@
 {% extends "base.html" %}
 
 {% block hreflang %}
-    <link rel="alternate" href="https://blog.xoxzo.com/tags" hreflang="x-default"/>
-    <link rel="alternate" href="https://blog.xoxzo.com/en/tags" hreflang="en"/>
-    <link rel="alternate" href="https://blog.xoxzo.com/ja/tags" hreflang="ja"/>
+  <link rel="alternate" href="https://blog.xoxzo.com/tags" hreflang="x-default"/>
+  <link rel="alternate" href="https://blog.xoxzo.com/en/tags" hreflang="en"/>
+  <link rel="alternate" href="https://blog.xoxzo.com/ja/tags" hreflang="ja"/>
 {% endblock %}
 
 {% block title %}{{ SITENAME }} - {% trans %}Tags{% endtrans %}{% endblock %}
 
 {% block content %}
-<main class="container pg">
-    <h1>{% trans %}Tags{% endtrans %}</h1>
-    <ul>
-        {%- for tag, articles in tags|sort %}
-        <li><a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a> ({{ articles|count }})</li>
-        {% endfor %}
-    </ul>
+<main>
+  <section class="bg-mid bd-gray">
+    <div class="container featured pt-4 pb-4">
+      <h2 class="mb-0">{% trans %}Tags{% endtrans %}</h2>
+    </div>
+  </section>
+
+  <section class="container pt-4 pb-4">
+    {% for tag, articles in tags|sort %}
+    <a href="{{ SITEURL }}/{{ tag.url }}" class="btn btn-gray mb-2 mr-1">
+      {{ tag }} <span class="badge badge-gray">{{ articles|count }}</span>
+    </a>
+    {% endfor %}
+  </section>
 </main>
 {% endblock %}

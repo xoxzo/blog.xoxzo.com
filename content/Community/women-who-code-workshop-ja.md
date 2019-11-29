@@ -4,6 +4,7 @@ Author: Abdul Rahman Ibrahim
 Tags: python, ワークショップ, Women Who Code
 Lang: ja
 Slug: women-who-code-msia-workshop
+Thumbnail: images/wwc-2017/ws01.jpg
 Summary: Women Who Code Malaysia 向けに、Python のユニットテストに関するワークショップ を行いました。
 
 Xoxzo マレーシアチームは、Women Who Code Malaysiaが7月の最後の土曜に主催したPythonユニットテストに関するワークショップの運営側として招かれました。ワークショップは、クアラルンプールの交通の中心的ハブとなっている、KLセントラルにあるNintexで開催されました。

@@ -4,6 +4,7 @@ Author: Iqbal Abdullah
 Tags: インタビュー; エンジニア; アマゾン; peatix; クックパッド; github; sixapart; yahoo; 2018;
 Lang: ja
 Slug: interview-with-daisuke-horie
+Thumbnail: images/engineer-interviews/daisuke-horie-picture.jpg
 Summary: YahooやAmazon、Githubなどの企業で活躍した後、現在はPeatix に在籍の、堀江大輔氏に、技術分野で活躍することについて、また良いエンジニアであるというのは、どういうことなのか、について、インタビューしました。 
 
 Twitterで [@dice](https://twitter.com/dice)として知られる、堀江大輔氏は現在、チケット販売プラットフォーム 

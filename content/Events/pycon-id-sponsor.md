@@ -4,6 +4,7 @@ Slug: pycon-id-2018
 Lang: en
 Tags: pycon; sponsor; indonesia; jakarta; event; pyconid; community; 2018
 Author: Aiko Yokoyama
+Thumbnail: images/logo-08.png
 Summary: Xoxzo is a sponsoring this year's PyConID to happen in Jakarta 
 
 [![pyconid2018](/images/logo-08.png)](https://pycon.id/)

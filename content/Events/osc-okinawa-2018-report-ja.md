@@ -4,6 +4,7 @@ Slug: osc-okinawa-2018-report
 Lang: ja
 Tags: 2018; osc; 東京; スポンサー; オープンソース;
 Author: Akira Nonaka
+Thumbnail: images/osc-okinawa-2018/IMG_1202.jpg
 Summary: OSC Okinawa 2018の参加報告です
 
 ６月１６日に、沖縄コンベンションセンターで開催された
@@ -17,7 +18,7 @@ Summary: OSC Okinawa 2018の参加報告です
 会場は沖縄コンベンションセンター。眼の前にはきれいなビーチが広がっていました。
 海の色が翠です。湿度は高い！
 
-![ビーチ風景]({filename}/images/osc-okinawa-2018/IMG_1211.jpg )
+![ビーチ風景]({filename}/images/osc-okinawa-2018/IMG_1211.jpg)
 
 
 ![会場風景１]({filename}/images/osc-okinawa-2018/IMG_1202.jpg)

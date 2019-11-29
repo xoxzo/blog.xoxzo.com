@@ -4,7 +4,8 @@ Slug: pycon-us-2019-debrief-meet
 Lang: ja
 Tags: pycon
 Author: Akira Nonaka
-Summary: 
+Thumbnail: images/pycon-us-2019-debrief/DSC_0009.jpg
+Summary: 6/25の夜「US PYCON 2019 Debrief Session」というイベントにに参加しました。
 
 6/25の夜[「US PYCON 2019 Debrief Session」](https://pyconjp.connpass.com/event/132537/)というイベントにに参加しました。今年の5月に
 米国オハイオ州で開催されたUS PYCON 2019に出席してきた人達による

@@ -4,6 +4,7 @@ Date: 2015-08-29 10:33
 Author: Zaki Akhmad
 Tags: django; pycon; pycon au; 2015; Python
 Slug: pycon-au-2015-write-up
+Thumbnail: images/pycon-au-2015/img_6684.jpg
 Summary: A short writeup on PyCon AU 2015
 
 ![PyCon AU 2015 with 440
@@ -105,8 +106,7 @@ at university, I should code using assembler to program a
 microcontroller. With Python as high level programming language, of
 course it will be easier.
 
-![Electronics workshop at PyCon AU
-2015]({filename}/images/pycon-au-2015/img_6684.jpg)
+![Electronics workshop at PyCon AU 2015]({filename}/images/pycon-au-2015/img_6684.jpg)
 
 It was my first time PyCon AU experience. And it was very nice to meet
 people who shares the same interest and enthusiast with you. And in the

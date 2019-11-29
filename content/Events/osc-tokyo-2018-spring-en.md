@@ -4,6 +4,7 @@ Slug: osc-tokyo-2018
 Lang: en
 Tags: 2018; osc; tokyo; sponsorship; open source;
 Author: Aiko Yokoyama
+Thumbnail: images/OSC_logo_sticker.gif
 Summary: Xoxzo will be sponsoring OSC Tokyo which will be held for two days, from 23rd Friday to 24th Sat at Meisei University, Hino Campus.
 
 [![OSC_logo]({filename}/images/OSC_logo_sticker.gif)](https://www.ospn.jp/osc2018-spring/)

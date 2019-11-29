@@ -4,6 +4,7 @@ Slug: pycon-jp-2018-aiko
 Lang: ja
 Tags: pycon; スポンサー; コミュニティー; 2018
 Author: Aiko Yokoyama
+Thumbnail: images/pycon-jp-2018/table_01.jpg
 Summary: 9月17日(月)と18日の PyCon Jp 2018 カンファレンスへ参加しました。
 
 

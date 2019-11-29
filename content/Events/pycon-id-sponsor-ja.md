@@ -4,6 +4,7 @@ Slug: pycon-id-2018
 Lang: ja
 Tags: pycon; スポンサー; インドネシア; ジャカルタ; イベント; pyconid; community; 2018
 Author: Aiko Yokoyama
+Thumbnail: images/logo-08.png
 Summary: Xoxzo は今年、ジャカルタで開催される PyConID のスポンサーです。 
 
 [![pyconid2018](/images/logo-08.png)](https://pycon.id/)

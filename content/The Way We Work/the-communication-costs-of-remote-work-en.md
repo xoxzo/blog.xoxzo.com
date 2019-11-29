@@ -4,6 +4,7 @@ Author: Iqbal Abdullah
 Tags: costs; nomad; remote; tips;
 Slug: the-communication-costs-of-remote-work
 Lang: en
+Thumbnail: images/2015-08-19-21-31-17.jpg
 Summary: The non-neglible costs of communication taking toll on your team from working remotely
 
 We have a distributed team and everyone remotely works from wherever

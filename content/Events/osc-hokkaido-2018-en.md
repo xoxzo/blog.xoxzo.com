@@ -4,6 +4,7 @@ Slug: sponsoring-osc-hokkaido-2018
 Lang: en
 Tags: osc; hokkaido; sponsor; xoxzo; open source;
 Author: Aiko Yokoyama
+Thumbnail: images/osc-banner.gif
 Summary: We Xoxzo are sponsoring and havaing a booth at OSC Hokkaido 2018 on July 6(Fri) & 7(Sat)
 
 ![osc-logo](/images/osc-banner.gif)

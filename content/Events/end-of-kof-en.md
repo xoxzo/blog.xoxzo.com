@@ -5,6 +5,7 @@ Lang: en
 Modified: 2012-11-14 11:00
 Tags: kof; osaka; exhibition;
 Author: Aiko Yokoyama
+Thumbnail: images/kof-2016/kof-booth.jpg
 Summary: We participated in the KOF 2016 and this is what we think
 
 We are happy to announce that our KOF (Kansai Open Forum held on Nov 11 & 12 in

@@ -3,7 +3,7 @@ Date: 2018-03-30 12:00
 Author: Gerald
 Tags: future; people; humans; work; hiring
 Slug: future-workforce2
-Thumbnail: images/futureofwork2.gif
+Thumbnail: images/futurework2.jpg
 Lang: en
 Summary: The necessary skills needed by 2020 to be part of the future workforce.
 

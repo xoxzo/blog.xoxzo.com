@@ -4,7 +4,7 @@ Author: Aiko Yokoyama
 Tags: p2p; a2p; ; api; sms; notification; authentication; developer;  
 Slug: what-is-a2p
 Lang: en
-Thumbnail: images/xoxzo-logo-02.png
+Thumbnail: images/whatisa2p.jpg
 Summary: We have plenty of acronyms such as B2B or E2B, consist with 2 x Alphabet letters that inserts numeric number 2, that is used as the word of 'to'. In our mobile industry, how P2P and A2P could mean?
 
 Recently, not only in business but also among family and friends, '3-letter-acronyms' such as B2B or E2B, that consist of __2 x alphabet letters__ sandwiches a numeric __number 2 (refers to 'to')__ are often used.

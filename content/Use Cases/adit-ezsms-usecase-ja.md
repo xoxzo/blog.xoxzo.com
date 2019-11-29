@@ -4,6 +4,7 @@ Author: Aiko Yokoyama
 Tags: adit, ezsms, use cases, pr
 Slug: adit-ezsms-usecase
 Lang: ja
+Thumbnail: images/client-logos/adit.png
 Summary: ADIT株式会社Xoxzoを利用する
 
 ![ezsms logo]({filename}/images/ezsms_logo1.png)

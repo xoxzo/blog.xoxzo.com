@@ -4,7 +4,7 @@ Author: Ai Sin Chan
 Tags: sms; 技術; 遠隔; ビジネス; 最初の電話; 日本; マレーシア; 2018; 携帯電話; コミュニケーション; 
 Slug: history-of-sms
 Lang: ja
-Thumbnail: images/historysms01.jpg
+Thumbnail: images/smshistory01.jpg
 Summary: SMSの技術はどのように始まり、当初のSMSはどのように送信されていたのでしょうか
 
 1982年にGSMが開発される何年も前から電気通信サービスとしてのテキストメッセージングはすでに何年もの間、[存在していました。（リンク先英語）](http://www.gsmhistory.com/wp-content/uploads/2013/02/SMS-Description-1991-by-K-Holley.pdf) 

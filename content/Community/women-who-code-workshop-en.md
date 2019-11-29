@@ -4,6 +4,7 @@ Author: Abdul Rahman Ibrahim
 Tags: python, workshop, Women Who Code
 Lang: en
 Slug: women-who-code-msia-workshop
+Thumbnail: images/wwc-2017/ws01.jpg
 Summary: Workshop on Python unit testing for Women Who Code Malaysia
 
 We were invited to run a workshop on Python unit testing by Women Who Code Malaysia

@@ -8,7 +8,7 @@ Summary: We apologize for any inconvenience caused by this issue
 
 Thank you for using [Xoxzo, Cloud Telephony Platform](https://www.xoxzo.com/en/).
 
-As we notified [on Twitter](https://twitter.com/xoxzotelephony/status/1105640753466732544), 
+As we notified [on Twitter](https://twitter.com/xoxzocom/status/1105640753466732544),
 our Voice functionality was unavailable from 6AM to 10.31AM (JST) on March 13, 2019.
 
 During this time, our Voice functionalities on both incoming calls and outgoing calls, 

@@ -4,7 +4,9 @@ Slug: ossaj-seminar-2019-02-report
 Lang: ja
 Tags: 2019; ossaj; Django;東京; オープンソース; セミナー
 Author: Akira Nonaka
-Summary: 
+Thumbnail: images/OSSAJ-landscape.png
+Summary: ２月２日、オープンソースソフトウェア協会主催のミニセミナーで、
+Python製WebアプリケーションフレームワークDjangoの紹介をさせて頂きました。
 
 [![OSSAJ_logo](/images/OSSAJ-landscape.png)](https://www.ossaj.org/)
 

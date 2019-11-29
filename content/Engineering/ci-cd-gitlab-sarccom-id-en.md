@@ -4,6 +4,7 @@ Date: 2019-05-31
 Author: Zaki Akhmad
 Tags: 2019, ci, cd, gitlab, sarccom, id
 Slug: workshop-ci-cd-on-gitlab 
+Thumbnail: images/ci-cd-workshop.jpeg
 Summary: Automate as early as possible with CI/CD.
 
 First, let's start with the abbreviations. CI stands for Continuous

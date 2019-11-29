@@ -134,7 +134,7 @@ general public.
 ## Twitter
 
 A staple now for nearly all organizations, our Twitter account
-[@xoxzotelephony](https://twitter.com/xoxzotelephony/) is used to send
+[@xoxzocom](https://twitter.com/xoxzocom/) is used to send
 out short and quick information on our products, general market news, and what
 we believe are important to our customers and us. 
 

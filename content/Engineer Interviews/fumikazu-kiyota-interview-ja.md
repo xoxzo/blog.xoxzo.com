@@ -4,6 +4,7 @@ Author: Akira Nonaka
 Tags: interviews; engineer; vuzz; 2018
 Lang: ja
 Slug: interview-with-fumikazu-kiyota
+Thumbnail: images/engineer-interviews/fumikazu-kiyota-picture.jpg
 Summary: 料理アプリ「SnapDish」等のサービス開発エンジニア業務のみならず、家業の幼稚園や、コーヒー会社の経営も手がける、Xoxzoと親交のある多才なエンジニアで、株式会社VUZZ 取締役CTOを務める、清田史和さんにインタビューしました。
 
 

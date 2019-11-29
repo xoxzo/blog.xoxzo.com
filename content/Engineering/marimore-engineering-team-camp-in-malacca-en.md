@@ -4,6 +4,7 @@ Author: Iqbal Abdullah
 Lang: en
 Tags: hatten hotel, malacca, marimore
 Slug: marimore-engineering-team-camp-in-malacca
+Thumbnail: images/24e92-6a0153916e707f970b01b8d0692672970c-pi.jpg
 Summary: Early September 2014 we had a 2-day team camp for our engineering team in Malacca.
 
 Because all of us work remotely all the time and we usually only communicate via voice, video and/or text, it is great to meetup and discuss targets, issues and ideas face-to-face.

@@ -4,6 +4,7 @@ Slug: tokyo-startup-pitch-night-03-2017
 Lang: ja
 Tags: tokyo-startup-pitch-night
 Author: Akira Nonaka
+Thumbnail: images/tokyo-startup-pitch-night/600_459381579.jpeg
 Summary: Tokyo Startup Pitch Nightでライトニングトーク
 
 3/23の夜、渋谷の[TECH LAB PAAK](http://techlabpaak.com)で開催された 

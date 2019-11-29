@@ -4,7 +4,7 @@ Slug: sponsoring-pycon-kyushu-2018
 Lang: ja
 Tags: PyCon; 九州; 福岡; sponsor; xoxzo; スポンサー; 
 Author: Aiko Yokoyama
-Summary: 6月30日（土）、LINE Fukuoka株式会社にて、[PyCon Kyushu](http://kyushu.pycon.jp/)が開催されます。Xoxzoはスポンサーとして、またスピーカーとして参加します。
+Summary: 6月30日（土）、LINE Fukuoka株式会社にて、PyCon Kyushuが開催されます。Xoxzoはスポンサーとして、またスピーカーとして参加します。
 
 
 [Xoxzo](https://info.xoxzo.com/ja/)は、2018年6月30日土曜日、

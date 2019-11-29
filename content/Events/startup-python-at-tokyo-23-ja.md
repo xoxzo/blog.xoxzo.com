@@ -4,6 +4,7 @@ Slug: startup-python-at-tokyo-23
 Lang: ja
 Tags: python;東京;勉強会;みんなのPython;pycon apac 2017
 Author: Akira Nonaka
+Thumbnail: images/IMG_7820.JPG
 Summary: 「みんなのPython勉強会 #23」参加報告
 
 4/12の夜[「みんなのPython勉強会 #23」](https://startpython.connpass.com/event/49884/)に参加しました。

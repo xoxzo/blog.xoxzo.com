@@ -4,6 +4,7 @@ Author: Kamal Mustafa
 Tags: open source, malaysia, jomlaunch
 Slug: malaysia-open-source-conference-moscmy-and-jomlaunch
 Lang: en
+Thumbnail: images/moscmy-jomlaunch-2016/sumbermanusia.jpg
 Summary: OSC Malaysia attendance report
 
 Last week I've attended one of the biggest open source event in Malaysia

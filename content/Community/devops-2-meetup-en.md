@@ -4,6 +4,7 @@ Author: Abdul Rahman Ibrahim
 Tags: devops; tech; meetup
 Lang: en
 Slug: devops-2-meetup
+Thumbnail: images/devops-2-meetup/bond.jpg
 Summary: The DevOps user group restarted its meetup activity. We got into the second one.
 
 On November 14th, DevOps Malaysia held its second meetup after a long hiatus. I missed out attending the first meetup but I managed to hear about this one and hopped on.

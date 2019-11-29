@@ -4,6 +4,7 @@ Slug: devrel-meetup-30
 Lang: ja
 Tags: Developer Relations;DevRel;2018
 Author: Akira Nonaka
+Thumbnail: images/devrel/devrel-jp-30.jpg
 Summary: DevRel Meetup in Tokyo #30への参加報告です。
 
 [DevRel Meetup in Tokyo #30](https://devrel.connpass.com/event/84475/)

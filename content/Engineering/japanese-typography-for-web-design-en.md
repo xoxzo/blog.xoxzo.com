@@ -4,6 +4,7 @@ Slug: japanese-typography-for-web-design
 Lang: en
 Tags: typography; webdesign; japanese; font;
 Author: Hyejeong Park
+Thumbnail: images/web-typography.jpg
 Summary: Introduce very basic tips for Japanese web typography that I learned from my experience.
 
 Typography is important, as you can find it everywhere. Typography is the art and technique of arranging type to make written language legible, readable, and appealing when displayed. The arrangement of type involves selecting typefaces, point sizes, line lengths, line-spacing, and letter-spacing, and adjusting the space between pairs of letters.[^1]

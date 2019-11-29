@@ -4,6 +4,7 @@ Author: Iqbal Abdullah
 Tags: ezsms, smsのapi配信, ヴィーナスブロードキャスト, 婚ナビ, 本人確認
 Slug: venusbroadcast-ezsms-usecase
 Lang: ja
+Thumbnail: images/client-logos/venusbroadcast.gif
 Summary: 株式会社ヴィーナスブロードキャストがユーザ認証のためEZSMSとの提携について
 
 [株式会社ヴィーナスブロードキャスト](http://venusbroadcast.com/)、(本社:東京都港区、代表取締役

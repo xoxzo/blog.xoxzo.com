@@ -4,6 +4,7 @@ Slug: django-girls-pyconuk
 Lang: en 
 Tags: 2018; pycon; django; django-girls;
 Author: Jenna Kassim
+Thumbnail: images/django-girls-pyconuk/pyconuk.jpg
 Summary: My experience of coaching for Django Girls Workshop during PyCon UK 2018
 
 PyCon UK 2018 which was held on the 15th of September, was my first time coaching a Django Girls workshop. The workshop was held in Cardiff City Hall and ran during Day One of the conference, as it has been done during PyCon UK in the last couple of years.

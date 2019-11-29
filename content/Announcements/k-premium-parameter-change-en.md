@@ -4,7 +4,7 @@ Slug: k-premium-parameter-change
 Lang: en
 Tags: k-premium; parameter;
 Author: Aiko Yokoyama
-Summary: Changes to our [K-Premium services](https://help.xoxzo.com/en/xoxzo-cloud-telephony-platform/articles/the-k-premium-service/) API parameter.
+Summary: Changes to our K-Premium services API parameter.
 
 The parameter name for our
 [K-Premium services](https://help.xoxzo.com/en/xoxzo-cloud-telephony-platform/articles/the-k-premium-service/)

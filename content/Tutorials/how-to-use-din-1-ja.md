@@ -4,6 +4,7 @@ Author: Akira Nonaka
 Tags: din; did; チュートリアル;
 Slug: dialinnumbers-tutorial
 Lang: ja
+Thumbnail: images/Tutorial/din-get-call-ja.jpeg
 Summary: 電話の着信を制御するダイアルインナンバーAPIの概要を解説します
 
 ## 概要

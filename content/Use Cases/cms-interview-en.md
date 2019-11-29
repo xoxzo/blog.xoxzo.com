@@ -15,8 +15,7 @@ __How are you using Xoxzo’s API? __
 
 >We are building a system, with ThreePro Group as the first intended client, that uses Xoxzo’s SMS sending API. We mainly use this API to send out payment request notices by SMS. After receiving a text message, users can visit a web site to look at payment details or instructions, and even settle the payment, hassle-free.
 
-![Terada-san_01](/images/CMSMrTerada01.jpg)
-<div style="text-align: center;">CMS Communications<br>Representative Director Manabu Terada</div>
+![Terada-san_01](/images/CMSMrTerada01.jpg)<span class="caption">CMS Communications. Representative Director Manabu Terada</span>
 
 __How did you find out Xoxzo?__
 

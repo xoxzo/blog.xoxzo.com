@@ -9,8 +9,7 @@ Summary: XOXZO’s SMS delivery API sees active use by Career Mart, a consulting
 
 XOXZO’s SMS delivery API sees active use by Career Mart, a consulting and outsourcing firm that focuses on employment for new graduates and career professionals.  We interviewed Mr. Kinichi Hattori, their general manager in charge of employment outsourcing, and Mr. Kazuya Ogura, technical chief of their employment consulting division, to hear their thoughts on what was behind their decision to use an API as well as the results.
 
-![careermart-01](/images/careermart_01.jpg)
-<div style="text-align: center;">(above) Mr. Kin-ichi Hattori, the General Manager in charge of employment oursourcing at Careermart Co.,Ltd</div>
+![careermart-01](/images/careermart_01.jpg)<span class="caption">(above) Mr. Kin-ichi Hattori, the General Manager in charge of employment oursourcing at Careermart Co.,Ltd</span>
 
 __How are you using XOXZO’s API?__
 
@@ -26,8 +25,7 @@ __What were your criteria when comparing the services provided by other SMS API 
 
 >We were originally considering to link “inputting the data we want distributed into an SMS sending tool,” with our existing management tool for an automation. We actually tried this with another company’s, but we ran into issues such as being unable to read the data or encountering errors, so moving towards automation proved difficult.  However, XOXZO has great compatibility and the link went very smoothly, so we decided to move forward with them.  
 
-![careermart-02](/images/careermart_02.jpg)
-<div style="text-align: center;">(right) Mr.Kazuya Ogura, the Technical Chief of employment consulting at Careermart Co.,Ltd</div>
+![careermart-02](/images/careermart_02.jpg)<span class="caption">(right) Mr.Kazuya Ogura, the Technical Chief of employment consulting at Careermart Co.,Ltd</span>
 
 >We also took a look at the tools we had been using in other departments; the need for up-front fees and the fact that it took several days to start sending were big obstacles.  To that end, XOXZO is a cloud-based service and the fees are based only on how much you use it from day one.  The removal of these barriers was also a large part of our decision to have selected XOXZO.
 

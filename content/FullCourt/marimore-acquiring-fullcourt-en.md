@@ -4,6 +4,7 @@ Author: Aiko Yokoyama
 Lang: en
 Tags: fullcourt, ivr, m&a, marimore, voice and sms api
 Slug: marimore-acquiring-fullcourt
+Thumbnail: images/fcmamo-shake.png
 Summary: MARIMORE Inc. acquiring FullCourt Inc.
 
 ![Marimoreロゴ]({filename}/images/marimore-logo.gif)

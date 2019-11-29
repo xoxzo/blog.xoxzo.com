@@ -24,6 +24,8 @@ The change is made as below.
 05052128038
 `
 
+_an additional note on 2019.11.27: this number is replaced by `0363881815` or `05052128038`. Please check our [Help Center](https://help.xoxzo.com/en/xoxzo-cloud-telephony-platform/articles/the-k-premium-service/) for the latest K-premium service details_
+
 Please inform your end users about this change.
 
 

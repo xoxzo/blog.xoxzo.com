@@ -4,6 +4,7 @@ Author: Iqbal Abdullah
 Tags: kuala lumpur; jomlaunch; jomweb; クアラルンプール;
 Lang: ja
 Slug: iqbal-speaker-jomlaunch-2017
+Thumbnail: images/jomlaunch-sep-2017/IMAG0382.jpg
 Summary: Xoxzoのイクバルが、マレーシア・クアラルンプールにて、JomLaunch 5.0 のゲスト・スピーチを行いました。
 
 2017年8月4日、クアラルンプールのTMコンベンション・センターにて行われた、[JomLaunch 5.0](http://launch.jomweb.my/)より、ゲストスピーカーとして招待され、トークを行いました。

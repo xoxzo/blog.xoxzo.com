@@ -5,6 +5,7 @@ Lang: en
 Modified: 2017-02-01 10:30
 Tags: pycon; sponsor; kumamoto; community; 2017 
 Author: Aiko Yokoyama
+Thumbnail: images/kumamoto.png
 Summary: [Xoxzo]Sponsoring PyCon in Kumamoto
 
 [![mini PyCon Kumamoto 2017]({filename}/images/kumamoto.png)](http://kumamoto.pycon.jp/)

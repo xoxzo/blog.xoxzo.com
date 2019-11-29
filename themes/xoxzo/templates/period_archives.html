@@ -1,12 +1,20 @@
 {% extends "base.html" %}
 
 {% block content %}
-<h1>{% trans %}Archives for{% endtrans %} {{ period | reverse | join(' ') }}</h1>
+<main>
+  <section class="bg-mid bd-gray">
+    <div class="container featured pt-4 pb-4">
+      <h2 class="mb-0">{% trans %}Archives for{% endtrans %} {{ period | reverse | join(' ') }}</h2>
+    </div>
+  </section>
 
-<dl>
+  <section class="container pt-4 pb-4">
     {% for article in dates %}
-    <dt>{{ article.locale_date }}</dt>
-    <dd><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></dd>
+    <b>{{ article.locale_date }}</b>
+    <p>
+      <a href="{{ SITEURL }}/{{ article.url }}" class="link-underline">{{ article.title }}</a>
+    </p>
     {% endfor %}
-</dl>
+  </section>
+</main>
 {% endblock %}

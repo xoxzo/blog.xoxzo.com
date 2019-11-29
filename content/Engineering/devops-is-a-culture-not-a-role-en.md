@@ -4,6 +4,7 @@ Author: Kamal Mustafa
 Tags: 2019, devops, culture
 Slug: devops-is-a-culture-not-a-role
 Lang: en
+Thumbnail: images/devops-culture.jpg
 Summary: There's no specific DevOps role. Instead, we build a culture where Dev and Ops engineer work together to achieve the organization's objective. And that's what is DevOps.
 
 The traditional problem between dev and ops is the conflicting goal that they have in order to achieve organization's objective. Dev need to build and release new features fast in order to support user's need, while Ops need to ensure system reliability by minimizing changes to the system.

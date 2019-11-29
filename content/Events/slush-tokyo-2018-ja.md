@@ -4,6 +4,7 @@ Slug: slush-tokyo-2018
 Lang: ja
 Tags: 2018; slush; tokyo; スタートアップ; 起業家; 東京ビッグサイト;
 Author: Iqbal Abdullah
+Thumbnail: images/slush-tokyo-2018.jpg
 Summary: Xoxzo は、Slush Tokyo 2018に参加し、トップのスタートアップや投資家とお話できました。
 
 ![Slush Tokyo]({filename}/images/slush-tokyo-2018.jpg)[Slush Tokyo](http://tokyo.slush.org/)

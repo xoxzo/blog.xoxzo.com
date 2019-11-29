@@ -1,20 +1,27 @@
 {% extends "base.html" %}
 
 {% block hreflang %}
-    <link rel="alternate" href="https://blog.xoxzo.com/categories" hreflang="x-default"/>
-    <link rel="alternate" href="https://blog.xoxzo.com/en/categories" hreflang="en"/>
-    <link rel="alternate" href="https://blog.xoxzo.com/ja/categories" hreflang="ja"/>
+  <link rel="alternate" href="https://blog.xoxzo.com/categories" hreflang="x-default"/>
+  <link rel="alternate" href="https://blog.xoxzo.com/en/categories" hreflang="en"/>
+  <link rel="alternate" href="https://blog.xoxzo.com/ja/categories" hreflang="ja"/>
 {% endblock %}
 
 {% block title %}{{ SITENAME }} - {% trans %}Categories{% endtrans %}{% endblock %}
 
 {% block content %}
-<main class="container pg">
-    <h1>{% trans %}Categories{% endtrans %}</h1>
-    <ul>
-        {% for category, articles in categories %}
-        <li><a href="{{ SITEURL }}/{{ category.url }}">{{ category }}</a></li>
-        {% endfor %}
-    </ul>
+<main>
+  <section class="bg-mid bd-gray">
+    <div class="container featured pt-4 pb-4">
+      <h2 class="mb-0">{% trans %}Categories{% endtrans %}</h2>
+    </div>
+  </section>
+
+  <section class="container pt-4 pb-4">
+    {% for category, articles in categories %}
+    <a href="{{ SITEURL }}/{{ category.url }}" class="btn btn-gray mb-2 mr-1">
+      {{ category }}
+    </a>
+    {% endfor %}
+  </section>
 </main>
 {% endblock %}

@@ -5,7 +5,7 @@ Author: Iqbal Abdullah
 Tags: asean; ajbm; 日本; 市場; 経済; fintech; eコマース; マーケット;
 Slug: 44-ajbm-meeting-in-bali
 Thumbnail: images/44-ajbm/group-picture.jpg
-Summary: 弊社代表取締役イクバルが、第44回 AJBM へ参加しました。テーマは、***「ASEANと日本におけるコネクティビティとデジタル・エコノミー」***
+Summary: 弊社代表取締役イクバルが、第44回 AJBM へ参加しました。テーマは、「ASEANと日本におけるコネクティビティとデジタル・エコノミー」
 
 # バリ開催のASEAN・日本 経営者会議（AJBM）
 

@@ -4,6 +4,7 @@ Slug:api-meetup-fukuoka-2017-05
 Lang: ja
 Tags: API; Meetup; 福岡; コミュニティー; 2017
 Author: Akira Nonaka
+Thumbnail: images/api-meetup-fukuoka-2017/P1060859.JPG
 Summary: API Meetup in Fukuoka に参加してきました
 
 5/19(金)の夜、福岡のヌーラボさんのオフィスで開催された

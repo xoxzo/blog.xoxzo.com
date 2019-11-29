@@ -4,6 +4,7 @@ Slug: slush-tokyo-2018
 Lang: en
 Tags: 2018; slush; tokyo; startups; entrepreneurship; tokyobigsight;
 Author: Iqbal Abdullah
+Thumbnail: images/slush-tokyo-2018.jpg
 Summary: Xoxzo was at Slush Tokyo 2018, and talked to the top startups and investors.
 
 ![Slush Tokyo]({filename}/images/slush-tokyo-2018.jpg)[Slush Tokyo](http://tokyo.slush.org/)

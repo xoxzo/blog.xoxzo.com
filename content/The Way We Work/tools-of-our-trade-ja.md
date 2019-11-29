@@ -3,6 +3,7 @@ Date: 2017-10-12 15:00
 Author: Iqbal Abdullah
 Tags: people; humans; work; nomad; saas; tools;
 Slug: tools-of-our-trade
+Thumbnail: images/tools-of-our-trade/twitter-screenshot.png
 Lang: ja
 Summary: 100%リモートワーク中の我々Xoxzoが、日本でビジネスを行う上で、利用しているツールをご紹介します。
 
@@ -82,7 +83,7 @@ Drip の UI も英語ですが、日本語のメールも作成できます。�
 
 ## ツイッター
 
-どのような組織においても、今は主流となっています。こちらが、Xoxzoのツイッターアカウントです。[@xoxzotelephony](https://twitter.com/xoxzotelephony/) <br>
+どのような組織においても、今は主流となっています。こちらが、Xoxzoのツイッターアカウントです。[@xoxzocom](https://twitter.com/xoxzocom/) <br>
 Xoxzoのサービス関連の緊急通知や、普段のマーケティング関連のお知らせ、また、ユーザー様と我々Xoxzoにとって、大切であると考えている信念などについても、配信しています。
 
 ![Twitter screenshot]({filename}/images/tools-of-our-trade/twitter-screenshot.png)

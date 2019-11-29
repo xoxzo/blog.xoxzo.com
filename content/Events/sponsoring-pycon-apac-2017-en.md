@@ -4,7 +4,7 @@ Slug: sponsoring-pycon-apac-2017
 Lang: en
 Tags: pycon apac; 2017; sponsor; xoxzo; pycon; kuala lumpur;
 Author: Aiko Yokoyama
-Summary: We [Xoxzo](https://info.xoxzo.com/en/) proudly announce that we are sponsoring [PyCon APAC 2017](https://pycon.my/2017/07/17/announcing-xoxzo-as-our-platinum-sponsor/).
+Summary: We Xoxzo proudly announce that we are sponsoring PyCon APAC 2017.
 
 We [Xoxzo](https://info.xoxzo.com/en/) proudly announce that we are
 [sponsoring](https://pycon.my/2017/07/17/announcing-xoxzo-as-our-platinum-sponsor/)

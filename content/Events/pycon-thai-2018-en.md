@@ -4,6 +4,7 @@ Slug: pycon-thailand-2018
 Lang: en 
 Tags: 2018; pycon th; pycon; thailand;
 Author: Iqbal Abdullah
+Thumbnail: images/pycon-thai-2018/sponsor-booths.jpg
 Summary: Introducing the first PyCon in Thailand
 
 On June 16 and 17 2018, PyCon was first held in Thailand, at the Knowledge
