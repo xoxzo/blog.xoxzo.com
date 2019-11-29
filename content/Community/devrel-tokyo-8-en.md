@@ -99,7 +99,7 @@ to get ideas or help on whatever you're working on.
 
 #### VTuber
 Using Youtube is a popular way to reach out to your audience and explain a
-concept or product.
+concept or product. VTubers - or Virtual YouTubers - is something gaining popularity because the virtual character can be more relatable to a large number of people, while at the same time concealing the true identity of the content creator. 
 
 ## South East and East Asia is HUGE and DIFFERENT
 
@@ -111,7 +111,7 @@ He presented to us the different ways that the communities communicate and get
 together, from the de facto language used, the media which are used often, and
 tools that they use to get together. 
 
-In short, they are al different, slightly among themselves, but more so if we
+In short, they are all different, slightly among themselves, but more so if we
 compare it with what our friends in the US, UK or Australia (e.g the English
 speaking world) are used to. Especially for China, nearly everything will have
 its own domestic version.
@@ -124,7 +124,8 @@ the diversity of SE/E Asia, and he said:
 > Their users in China don't have first name, last name. They only have "name".
 > Just by doing this, we have seen improvement in our signup rates.
 > So we need to be more sensitive to the culture of a particular country.
-> The other thing is to have localized documentation.
+> The other thing is to have localized documentation. Documentation is the true content that, when spread, reaches to the developer
+> audience we are looking for.
 
 I think it makes sense.
 
