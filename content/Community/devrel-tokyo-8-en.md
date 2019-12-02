@@ -1,7 +1,7 @@
 Title: Participating in DevRel/English #8 meetup
 Date: 2019-11-29 10:00
 Author: Iqbal Abdullah
-Tags: 2019; tokyo, meetup, git
+Tags: 2019; tokyo; meetup;
 Lang: en
 Slug: devrel-tokyo-8-meetup
 Thumbnail: images/devrel-8-starting-speaker.jpg
