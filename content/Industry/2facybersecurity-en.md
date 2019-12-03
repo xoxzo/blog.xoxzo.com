@@ -1,7 +1,7 @@
 Title: The Role of SMS and Voice in Cybersecurity
 Date: 2018-4-27 12:00
 Author: Ai Sin Chan
-Tags: api; sms; voice api; cyber security; 2fa; 2 factor authentication; two factor authentication; security token sms; 
+Tags: api; sms; voice api; cyber security; 2fa; 
 Slug: 2fa-cyber-security
 Lang: en
 Thumbnail: images/2facybersecurity.jpg
