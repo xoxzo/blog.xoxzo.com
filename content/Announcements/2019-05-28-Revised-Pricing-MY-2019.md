@@ -2,7 +2,7 @@ Title: Revised pricing for Voice and SMS API in Malaysia market
 Date: 2019-05-21
 Slug: revised-pricing-MY-2019
 Lang: en 
-Tags: announcements
+Tags: 2019; malaysia;
 Thumbnail: 
 Author: Ai Sin Chan 
 Summary: We have a new and more competitive pricing for Malaysia users
