@@ -1,7 +1,7 @@
 Title: Daisuke Horie: "personality is often undervalued"
 Date: 2018-05-15 10:00
 Author: Iqbal Abdullah
-Tags: interviews; engineer; amazon; peatix; cookpad; github; sixapart; yahoo; 2018;
+Tags: 2018;
 Lang: en
 Slug: interview-with-daisuke-horie
 Thumbnail: images/engineer-interviews/daisuke-horie-picture.jpg
