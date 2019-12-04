@@ -2,7 +2,7 @@ Title: [Xoxzo] Mobile authentication is added
 Date: 2019-10-23
 Slug: x4-authentication
 Lang: en
-Tags: Xoxzo; authentication; Mobile-number; Security;
+Tags: 2fa; cyber security; 2019; new feature;
 Author: Aiko Yokoyama
 Summary: Xoxzo started to authenticate the account users with their mobile phones
 
