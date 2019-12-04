@@ -2,7 +2,7 @@ Title: Attending the 44th ASEAN-Japan Business Meeting (AJBM)
 Date: 2018-10-26 18:00
 Lang: en
 Author: Iqbal Abdullah
-Tags: asean; ajbm; japan; market; economy; fintech; ecommerce;
+Tags: asean; japan; market; economy; fintech; indonesia;
 Slug: 44-ajbm-meeting-in-bali
 Thumbnail: images/44-ajbm/group-picture.jpg
 Summary: Iqbal writes about his experience attending the 44th AJBM themed Connectivity and Digital Economy for ASEAN and Japan
