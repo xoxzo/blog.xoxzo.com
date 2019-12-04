@@ -1,7 +1,7 @@
 Title: Barcamp KL 2017: Tiny Little Sparks
 Date: 2017-12-18 22:20
 Author: Abdul Rahman Ibrahim
-Tags: barcamp; community; unconference; ideas; colaboration;
+Tags: 2017; malaysia; asean; remote work; fintech; people;
 Slug:barcampkl-2017
 Thumbnail: images/aman.jpg
 Lang: en
