@@ -1,7 +1,7 @@
 Title: What to expect when you meet your remote team first time
 Date: 2019-03-29 12:01
 Author: Surya Banerjee
-Tags: teamcamp; meeting; bonding; remoteworking; experience; learning; remote; 2019;
+Tags: teamcamp; remote work; 2019; malaysia;
 Slug: expect-meet-team-first-time
 Lang: en
 Thumbnail: images/jb_feb2019/hustle.jpg
