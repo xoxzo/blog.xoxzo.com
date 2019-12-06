@@ -21,33 +21,35 @@ For any questions, please do not hesitate to contact us at helpdesk help@xoxzo.c
 
 ### What's new in K-premium Update?
 
-<table>
-  <tr>
-    <th> </th>
-    <th>Current</th>
-    <th>Update to</th>
-  </tr>
-  <tr>
-    <td>Direct service with designated SenderID</td>
-    <td>AU (KDDI) only</td>
-    <td>AU & NTT Docomo</td>
-  </tr>
-   <tr>
-    <td>SenderID registration</td>
-    <td>Free of charge</td>
-    <td> 50,000 JPY / 1 ID / 30 days</td>
-  </tr>
-  <tr>
-    <td>K-premium Sending Cost</td>
-    <td>13 JPY / SMS</td>
-    <td>11 JPY / SMS</td>
-  </tr>
-   <tr>
-    <td>Registration of a SenderID</td>
-    <td>3 days</td>
-    <td>2 weeks</td>
-  </tr>
-</table>
+<div class="table-responsive">
+  <table border="1" cellpadding="10" cellspacing="1">
+    <tr>
+      <th> </th>
+      <th>Current</th>
+      <th>Update to</th>
+    </tr>
+    <tr>
+      <td>Direct service with designated SenderID</td>
+      <td>AU (KDDI) only</td>
+      <td>AU & NTT Docomo</td>
+    </tr>
+     <tr>
+      <td>SenderID registration</td>
+      <td>Free of charge</td>
+      <td> 50,000 JPY / 1 ID / 30 days</td>
+    </tr>
+    <tr>
+      <td>K-premium Sending Cost</td>
+      <td>13 JPY / SMS</td>
+      <td>11 JPY / SMS</td>
+    </tr>
+     <tr>
+      <td>Registration of a SenderID</td>
+      <td>3 days</td>
+      <td>2 weeks</td>
+    </tr>
+  </table>
+</div>
 
 ### Steps to the renewal
 
