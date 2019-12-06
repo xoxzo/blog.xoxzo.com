@@ -20,33 +20,35 @@ Xoxzoでは、より強固なSMS配信サービスをユーザーの皆様にご
 
 ### 変更内容：
 
-<table>
-  <tr>
-    <th>内容</th>
-    <th>現行</th>
-    <th>変更後</th>
-  </tr>
-  <tr>
-    <td>指定送信元IDでの直収サービス</td>
-    <td>AUのみ</td>
-    <td>AU および NTTドコモ</td>
-  </tr>
-   <tr>
-    <td>送信元IDのご登録</td>
-    <td>無料</td>
-    <td>1IDあたり 50,000円 / 30日ごと</td>
-  </tr>
-  <tr>
-    <td>Kプレミアム送信料金</td>
-    <td>13円 / 送信</td>
-    <td>11円 / 送信</td>
-  </tr>
-   <tr>
-    <td>送信元ID登録期間</td>
-    <td>3日間</td>
-    <td>2週間</td>
-  </tr>
-</table>
+<div class="table-responsive">
+  <table border="1" cellpadding="10" cellspacing="1">
+    <tr>
+      <th>内容</th>
+      <th>現行</th>
+      <th>変更後</th>
+    </tr>
+    <tr>
+      <td>指定送信元IDでの直収サービス</td>
+      <td>AUのみ</td>
+      <td>AU および NTTドコモ</td>
+    </tr>
+     <tr>
+      <td>送信元IDのご登録</td>
+      <td>無料</td>
+      <td>1IDあたり 50,000円 / 30日ごと</td>
+    </tr>
+    <tr>
+      <td>Kプレミアム送信料金</td>
+      <td>13円 / 送信</td>
+      <td>11円 / 送信</td>
+    </tr>
+     <tr>
+      <td>送信元ID登録期間</td>
+      <td>3日間</td>
+      <td>2週間</td>
+    </tr>
+  </table>
+</div>
 
 ### 変更までの流れ：
 
