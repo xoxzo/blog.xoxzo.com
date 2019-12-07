@@ -2,7 +2,7 @@ Title: Porting function based generic views to class based views
 Date: 2011-09-16 12:12
 Lang: en
 Author: Kamal Mustafa
-Tags: class based views, django, django views, generic views, python
+Tags: django; python; 2011;
 Slug: porting-function-based-generic-views-to-class-based-views
 Summary: How to port function based generic views to class based views
 
