@@ -2,7 +2,7 @@ Title: Why you should adopt SMS for your business communication
 Date: 2018-04-06 12:00
 Lang: en
 Author: Ai Sin Chan
-Tags: sms api; developer; market; economy; 
+Tags: sms api; developer; market; economy; 2018;
 Slug: why-adopt-sms
 Thumbnail: images/smsbusiness.jpg
 Summary: Data that shows the importance of using SMS in business
