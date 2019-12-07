@@ -2,7 +2,7 @@ Title: Code of conduct in SMS broadcast
 Date: 2018-05-08 12:00
 Lang: en
 Author: Ai Sin Chan
-Tags: api; developers; market; economy; sms; business; code; conduct; ethics
+Tags: sms api; 2018; tip;
 Slug: code-conduct
 Thumbnail: images/codeconduct.jpg
 Summary: Code of conduct that business must follow with SMS broadcast
