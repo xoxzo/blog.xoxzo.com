@@ -2,7 +2,7 @@ Title: [Client Interview] Deeply impressed by XOXZO’s most pleasant responses.
 Date: 2017-08-15 13:00
 Slug: 3pro-interview
 Lang: en
-Tags: fintech; sms api
+Tags: fintech; sms api; 2017;
 Author: Akira Nonaka
 Thumbnail: images/3proMrOmura01.jpg
 Summary: We sat down with ThreePro Agency's Mr. Ohmura on a fine August day and asked him how they are utilizing XOXZO’s SMS sending API for their Fintech business.
