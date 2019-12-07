@@ -1,7 +1,7 @@
 Title: [Xoxzo] Release of Conference API
 Date: 2017-11-07 00:00
 Author: Aiko Yokoyama
-Tags: press release; conference call; efficiency; api; voice; local caller id; 2017;
+Tags: conference api; voice api; 2017; new feature;
 Thumbnail: images/xoxzo-logo-02.png
 Slug: conference-call-release
 Lang: en
