@@ -2,7 +2,7 @@ Title: Long SMS is no longer SMS
 Date: 2018-07-20 17:00 
 Slug: long-sms-is-not-sms 
 Lang: en 
-Tags: 2018; sms; long-message; SMS; email; 
+Tags: 2018; sms api; 
 Author: Iqbal Abdullah 
 Thumbnail: images/businessman.jpg
 Summary: Why do we send the messages longer than SMS standard still as SMS?
