@@ -1,7 +1,7 @@
 Title: Running command on multiple servers with sup
 Date: 2018-07-11 08:07
 Author: Kamal Mustafa
-Tags: golang, deploy
+Tags: 2018; tool; code;
 Slug: running-command-multiple-servers-sup
 Lang: en
 Summary: Quick look at tools named sup for executing command remotely on multiple servers
