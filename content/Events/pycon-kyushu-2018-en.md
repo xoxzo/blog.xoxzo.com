@@ -2,7 +2,7 @@ Title: [Xoxzo] Sponsoring PyCon Kyushu
 Date: 2018-06-22 16:00
 Slug: sponsoring-pycon-kyushu-2018
 Lang: en
-Tags: pycon; sponsor; kyushu; Fukuoka; community; 2018
+Tags: pycon; sponsor; japan; 2018;
 Author: Aiko Yokoyama
 Summary: [Xoxzo]Sponsoring PyCon in Kyushu, will give a talk too!!
 
