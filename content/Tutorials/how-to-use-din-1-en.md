@@ -1,7 +1,7 @@
 Title: Let's use the dial-in number
 Date: 2017/07/01
 Author: Akira Nonaka
-Tags: din; did; tutorial;
+Tags: dial in number; 2017;
 Slug: dialinnumbers-tutorial
 Lang: en
 Thumbnail: images/Tutorial/din-get-call-en.jpeg
