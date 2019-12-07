@@ -2,7 +2,7 @@ Title: MARIMORE Engineering Team Camp in Malacca
 Date: 2014-09-13 14:32
 Author: Iqbal Abdullah
 Lang: en
-Tags: hatten hotel, malacca, marimore
+Tags: marimore; teamcamp; 2014; malaysia;
 Slug: marimore-engineering-team-camp-in-malacca
 Thumbnail: images/24e92-6a0153916e707f970b01b8d0692672970c-pi.jpg
 Summary: Early September 2014 we had a 2-day team camp for our engineering team in Malacca.
