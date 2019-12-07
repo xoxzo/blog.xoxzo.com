@@ -1,7 +1,7 @@
 Title: 0120 isn’t the only toll-free option for callers!
 Date: 2017-11-02 12:00
 Author: Aiko Yokoyama
-Tags: api user; api; tutorial; mikochan; free-call; freephone; tall-free;
+Tags: voice api; sms api; xoxzo; 2017;
 Slug: freecall-numbers-introduction
 Thumbnail: images/free-dial.png
 Lang: en
