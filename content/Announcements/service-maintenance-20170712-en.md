@@ -3,7 +3,7 @@ Date: 2017-07-13 09:30
 Slug: service-maintenance-20170712
 Lang: en
 Modified: 2017-07-13 09:30
-Tags: downtime; 
+Tags: 2017;
 Author: Aiko Yokoyama
 Summary: Temporary downtime for maintenance notice.
 
