@@ -2,7 +2,7 @@ Title: Coaching Django Girls Workshop
 Date: 2018-09-25 12:10 
 Slug: django-girls-pyconuk
 Lang: en 
-Tags: 2018; pycon; django; django-girls;
+Tags: 2018; pycon; django; python;
 Author: Jenna Kassim
 Thumbnail: images/django-girls-pyconuk/pyconuk.jpg
 Summary: My experience of coaching for Django Girls Workshop during PyCon UK 2018
