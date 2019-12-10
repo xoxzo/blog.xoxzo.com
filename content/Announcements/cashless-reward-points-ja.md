@@ -4,8 +4,10 @@ Slug: cashless-reward-points
 Lang: ja
 Tags: xoxzo; ezsms; consumption-tax; 2019; cashless; reward-points; キャッシュレス; ポイント還元; 消費税;
 Author: Aiko Yokoyama
+Thumbnail: images/cashless_square.jpg
 Summary: 2019年10月1日より消費税率が10%に引き上げられましたが、経済産業省のキャッシュレス・ポイント還元事業に基づき、中小・小規模事業者によるキャッシュレス手段を使ったお支払いに、ポイント還元が行われます。
 
+![cashless_logo](images/cashless_flat.png)
 
 平素は、[Xoxzoクラウドテレフォニープラットフォーム](https://www.xoxzo.com/ja/)、および[SMS配信サービスEZSMS](https://www.ezsms.biz/ja/)をご利用いただき、誠に有難うございます。
 
