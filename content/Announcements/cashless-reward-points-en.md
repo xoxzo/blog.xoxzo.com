@@ -8,7 +8,7 @@ Thumbnail: images/cashless_square.jpg
 Summary: From October 1, 2019, the consumption tax rate has been raised to 10% in Japan. Along with this, the Ministry of Economy, Trade and Industry conducts a consumer return project for the nine months after the increase and will receive a maximum of 5% point return for cashless payment at the target store.
 
 
-![cashless_logo](images/cashless_flat.png)
+![cashless_logo](/images/cashless_flat.png)
 
 From October 1, 2019, the consumption tax rate has been raised to 10% in Japan. Along with this, the Ministry of Economy, Trade and Industry conducts a consumer return project for the nine months after the increase and will receive a maximum of 5% point return for cashless payment at the target store.
 
