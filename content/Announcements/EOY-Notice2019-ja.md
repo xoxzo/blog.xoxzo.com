@@ -1,6 +1,6 @@
 Title: 年末年始休業のお知らせ 
-Date: 2018-12-20 10:00 
-Slug: EOY-Holiday-Notice-2018 
+Date: 2019-12-10 
+Slug: EOY-Holiday-Notice-2019 
 Lang: ja 
 Tags: end of year; 年末年始; 2019; Author: Aiko Yokoyama 
 Summary: 2019年も弊社APIサービスをご利用いただき、誠にありがとうございました。年末年始休業のご案内です。
