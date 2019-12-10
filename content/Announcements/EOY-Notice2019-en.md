@@ -1,23 +1,18 @@
-Title: 年末年始休業のお知らせ 
-Date: 2018-12-20 10:00 
-Slug: EOY-Holiday-Notice-2018 
-Lang: ja Tags: end of year; 年末年始; 2018; Author: Aiko Yokoyama 
-Summary: 2019年も弊社APIサービスをご利用いただき、誠にありがとうございました。年末年始休業のご案内です。
+Title: 2019 &amp; 2020 Seasons Greetings and New Year Holidays
+Date: 2019-12-10
+Slug: EOY-Holiday-Notice-2019
+Lang: en
+Tags: end of year; 2019;
+Author: Aiko Yokoyama
+Summary: Thank you for your support through 2019. 
 
-本年も、弊社株式会社Xoxzoの運営しております[Xoxzo クラウド・テレフォニー・プラットフォーム](https://www.xoxzo.com/ja/)ならびに、
-[EZSMS・ショートメッセージ(SMS)配信サービス](https://www.ezsms.biz/ja/)を ご利用いただきまして、誠にありがとうございました。
+Thank you very much for your continuous support for [Xoxzo Cloud Telephony Platform](https://www.xoxzo.com/en/) and [SMS Delivery Service EZSMS](https://www.ezsms.biz/ja/) throughout this year, 2019.
 
-様々な出来事がある中、無事に過ごせましたのも、皆様の多大なご支援のお陰であり、大変感謝しております。
+Please note that our office will be closed during the following time period for New Year Season.
 
-2019年も、残りわずかとなりました。
-本年の年末年始につきましては、まことに勝手ではございますが、下記の通り休業させていただきますので、ご高配賜りますようお知らせ申し上げます。
+Holiday period: from Saturday December 28, 2019 to Sunday January 5, 2020
 
-記
+All non-urgent inquiries made during the holidays will be responded on January 6, 2020 or after. 
+We apologize for any inconvenience this may cause, and thank you for your consideration in this matter.
 
-年末年始休業日：2019年12月28日（土）～2020年1月5日（日）
-本年最終業務日：2019年12月27日（金）17時
-新年業務開始日：2020年1月6日（月）9時
-なお、サポートメールに関しては、緊急性の低いものについての対応は新年業務開始後にさせていただきます。ご了承ください。
-
-新年には、また元気な姿で皆様とお会いできます事を楽しみにしております。
-2020年の皆々様のさらなるご活躍を祈念いたしまして、年末のご挨拶とさせていただきます。
+Team Xoxzo wishes you and your families all the best and having a great holiday welcoming the 2020.
