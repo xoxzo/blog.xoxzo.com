@@ -1,7 +1,7 @@
 Title: 5% of the purchase will be rewarded as point return on EZSMS
 Date: 2019-12-10
 Slug: cashless-reward-points
-Lang: ja
+Lang: en
 Tags: xoxzo; ezsms; consumption-tax; 2019; cashless; reward-points; 
 Author: Aiko Yokoyama
 Thumbnail: images/cashless_square.jpg
