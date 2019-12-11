@@ -1,7 +1,7 @@
 Title: Tools of our trade
 Date: 2017-10-12 15:00
 Author: Iqbal Abdullah
-Tags: people; humans; work; nomad; saas; tools;
+Tags: people; remote work; tool; 2017;
 Slug: tools-of-our-trade
 Thumbnail: images/tools-of-our-trade/twitter-screenshot.png
 Lang: en
