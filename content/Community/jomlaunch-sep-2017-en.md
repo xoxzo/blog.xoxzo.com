@@ -1,7 +1,7 @@
 Title: Xoxzo's Iqbal at JomLaunch 5.0
 Date: 2017-09-17 10:00
 Author: Iqbal Abdullah
-Tags: kuala lumpur; jomlaunch; jomweb;
+Tags: malaysia; jomlaunch; jomweb; 2017; startup; developer;
 Lang: en
 Slug: iqbal-speaker-jomlaunch-2017
 Thumbnail: images/jomlaunch-sep-2017/IMAG0382.jpg
