@@ -1,7 +1,7 @@
 Title: Michael Kang: Diagnostic skill and logical thinking are the most desirable skills
 Date: 2018-06-08 12:00
 Author: Ai Sin Chan
-Tags: interviews; engineer; michael kang; malasya; myebills; 2018;
+Tags: malaysia; 2018;
 Lang: en
 Slug: interview-with-michael-kang
 Thumbnail: images/michaelkang.jpg
