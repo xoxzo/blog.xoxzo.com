@@ -2,7 +2,7 @@ Title: Helping a local community activity
 Date: 2018-05-10 14:00
 Slug: introduce-popcorn
 Lang: en
-Tags: local community; 
+Tags: 2018; japan;
 Author: Aiko Yokoyama
 Summary: My first popcorn report
 
