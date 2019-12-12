@@ -2,7 +2,7 @@ Title: [Xoxzo] Changes for K-Premium parameters
 Date: 2017-07-31 14:00
 Slug: k-premium-parameter-change
 Lang: en
-Tags: k-premium; parameter;
+Tags: k-premium; 2017;
 Author: Aiko Yokoyama
 Summary: Changes to our K-Premium services API parameter.
 
