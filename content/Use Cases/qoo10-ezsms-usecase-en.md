@@ -1,7 +1,7 @@
 Title: インターネットショッピングモール「Qoo10」が、本人確認のためEZSMSを導入
 Date: 2014-01-15 15:14
 Author: Iqbal Abdullah
-Tags: ezsms, smsのapi配信, qoo10, 本人認証
+Tags: ezsms; 2014; 2fa;
 Slug: qoo10-ezsms-usecase
 Lang: en
 Thumbnail: images/client-logos/qoo10-logo.png
