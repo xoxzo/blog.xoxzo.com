@@ -1,7 +1,7 @@
 Title: How to protect call privacy of your customers
 Date: 2018-6-21 12:00
 Author: Ai Sin Chan
-Tags: api; sms; voice api; cyber security; protect; privacy call; business; 2018; 
+Tags: voice api; cyber security; 2018; tip;
 Slug: protect-call-privacy
 Lang: en
 Thumbnail: images/protectcallprivacy.jpg
