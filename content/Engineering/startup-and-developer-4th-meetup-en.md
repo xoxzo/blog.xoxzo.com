@@ -2,7 +2,7 @@ Title: Startup and Developer 4th Meetup
 Lang: en
 Date: 2016-11-07 17:04
 Author: Kamal Mustafa
-Tags: event, seminar, workshop, tech, malaysia
+Tags: 2016; malaysia; meetup; developer; startup;
 Slug: startup-and-developer-4th-meetup
 Thumbnail: images/startup-developer-4th-meetup/img_20161105_101628.jpg
 Summary: A summary on the startup and developer meetup in KL
