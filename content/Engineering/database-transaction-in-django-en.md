@@ -1,7 +1,7 @@
 Title: Database Transaction in Django
 Date: 2012-06-21 07:54
 Author: Kamal Mustafa
-Tags: django, python, transaction
+Tags: django; python; 2012; tip;
 Slug: database-transaction-in-django
 Lang: en
 Summary: Django tips, simple but important
