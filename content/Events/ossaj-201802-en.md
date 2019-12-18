@@ -2,7 +2,7 @@ Title: Our A.Nonaka is going to speak at OSSAJ (Open Source Software Association
 Date: 2019-01-10
 Slug: ossaj-201802
 Lang: en
-Tags: 2018; 2019; ossaj; Tokyo; OpenSource; Seminar;
+Tags: 2019; japan; django; developer;
 Author: Aiko Yokoyama
 Thumbnail: images/OSSAJ-square.png
 Summary: A mini-seminar for _the first step creating Web-application using Django_ is going to be held with OSSAJ. Everyone interested in Web-application development using Python is welcome.

@@ -3,7 +3,7 @@ Date: 2017-12-04 13:00
 Slug: careermart-interview
 Lang: en
 Thumbnail: images/careermart_01.jpg
-Tags: client interview; careermart; キャリアマート; クライアントインタビュー; SMS配信API
+Tags: sms api; 2017; japan;
 Author: Akira Nonaka
 Summary: XOXZO’s SMS delivery API sees active use by Career Mart, a consulting and outsourcing firm that focuses on employment for new graduates and career professionals.  We interviewed Mr. Kinichi Hattori, their general manager in charge of employment outsourcing, and Mr. Kazuya Ogura, technical chief of their employment consulting division, to hear their thoughts on what was behind their decision to use an API as well as the results.
 

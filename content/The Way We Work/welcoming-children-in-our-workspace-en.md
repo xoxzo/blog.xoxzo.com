@@ -1,7 +1,7 @@
 Title: Welcoming children in our workspace
 Date: 2018-04-09 12:00
 Author: Iqbal Abdullah
-Tags: people; humans; work; family; hiring; onboarding;
+Tags: people; remote work; hiring; 2018;
 Slug: welcoming-children-in-our-workspace
 Thumbnail: images/children-id.jpg
 Lang: en

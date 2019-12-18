@@ -1,7 +1,7 @@
 Title: The Laravel Community of Malaysia: Laravens
 Date: 2017-12-12 09:35
 Author: Abdul Rahman Ibrahim
-Tags: laravel; community; meetups; programming;
+Tags: meetup; developer; 2017; malaysia;
 Slug:the-laravel-community-of-malaysia-laravens
 Thumbnail: images/laravens-2017/lt-11.jpg
 Lang: en

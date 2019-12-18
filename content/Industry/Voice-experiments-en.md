@@ -1,7 +1,7 @@
 Title: Pushing the boundaries with Voice Experiments
 Date: 2017-11-15 12:00
 Author: Gerald
-Tags: google; voice; voice api; voice-based; technlogy; creative; future
+Tags: voice api; 2017; future;
 Slug: Pushing-the-boundaries-with-voice-experiments 
 Lang: en 
 Thumbnail: images/unnamed.png

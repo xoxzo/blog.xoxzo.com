@@ -2,7 +2,7 @@ Title: n-Lambda note (monthly subscription in Japan)
 Lang: en
 Date: 2019-08-30
 Author: Akira Nonaka
-Tags: Python, coroutine, 2019
+Tags: python; 2019;
 Slug: about-n-lambda-note
 Thumbnail: images/lambda-note.png
 Summary: Introducing a monthly magazine called "N Lambda Note", for whom loving computers

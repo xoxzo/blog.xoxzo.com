@@ -1,7 +1,7 @@
 Title: Releasing dev version of your package to PyPI
 Date: 2012-03-20 08:50
 Author: Kamal Mustafa
-Tags: distribute, easy_install, pip, pypi, python, setuptools
+Tags:  python; tool; developer; 2012;
 Slug: releasing-dev-version-of-your-package-to-pypi
 Lang: en
 Summary: release dev version of your package to PyPI

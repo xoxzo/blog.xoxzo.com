@@ -1,7 +1,7 @@
 Title: Making a Simple Playback Call
 Date: 2017-11-28 08:00
 Author: Miko-chan
-Tags: voice; call; recording; api; tutorial; mikochan;
+Tags: voice api; 2017; mikochan;
 Slug: making-a-simple-playback-call
 Thumbnail: images/xoxtan.png
 Lang: en

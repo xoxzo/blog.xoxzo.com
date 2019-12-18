@@ -2,7 +2,7 @@ Title: What to consider when designing an IVR flow?
 Date: 2018-05-23 12:00
 Lang: en
 Author: Ai Sin Chan
-Tags: api; developers; market; sms; business; 2018; voice; interactive
+Tags: voice api; developer; market; 2018; ivr;
 Slug: ivrflow
 Thumbnail: images/ivrflow.jpg
 Summary: What to consider when you are designing the flow of your Interactive Voice Response (IVR) script?

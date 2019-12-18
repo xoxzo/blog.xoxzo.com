@@ -1,7 +1,7 @@
 Title: What can Interactive Voice Response be used for?
 Date: 2018-05-18 12:00
 Author: Ai Sin Chan
-Tags: 2018; voice; voice api; voice-based; technology; interactive; customer;
+Tags: 2018; voice api; ivr; tip;
 Slug: Interactive-voice-response 
 Lang: en 
 Thumbnail: images/interactivevoice.jpg

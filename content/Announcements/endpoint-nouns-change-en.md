@@ -2,7 +2,7 @@ Title: [Xoxzo] Changes to our API endpoints
 Date: 2017-11-24 
 Slug: endpoint-nouns-change
 Lang: en
-Tags: endpoint, nouns
+Tags: 2017; voice api;
 Author: Akira Nonaka
 Summary: XOXZO has changed some endpoints in order to improve usability. 
 

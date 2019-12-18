@@ -1,7 +1,7 @@
 Title: Participated in Bootstrap Night! vol. 4 
 Date: 2018-12-24 10:00
 Author: Iqbal Abdullah
-Tags: bootstrap; startup; community; 2018;
+Tags: meetup; startup; 2018; japan;
 Lang: en
 Slug: bootstrap-night-tokyo-vol-4
 Thumbnail: images/bootstrap-night-people.jpg

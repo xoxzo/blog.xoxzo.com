@@ -2,7 +2,7 @@ Title: MWC 2019 in Shanghai
 Date: 2019-07-01 10:00
 Slug: mwc-2019-shanghai
 Lang: en
-Tags: 2019; mwc; 5g; shanghai;
+Tags: 2019; mwc; 5g; asia;
 Author: Iqbal Abdullah
 Thumbnail: images/mwc19-pvg/mwc19-pvg-entrance.jpg
 Summary: Iqbal went to Shanghai at the end of June to attend MWC19

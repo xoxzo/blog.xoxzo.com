@@ -1,7 +1,7 @@
 Title: The communication costs of remote work
 Date: 2016-04-22 23:25
 Author: Iqbal Abdullah
-Tags: costs; nomad; remote; tips;
+Tags: remote work; tip; tool; 2016; 
 Slug: the-communication-costs-of-remote-work
 Lang: en
 Thumbnail: images/2015-08-19-21-31-17.jpg

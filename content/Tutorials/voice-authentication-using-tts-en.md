@@ -1,7 +1,7 @@
 Title: Voice authentication using Text To Speech (TTS)
 Date: 2018-03-09 10:00
 Author: Miko-chan
-Tags: voice; call; tts; api; tutorial; mikochan; authentication;
+Tags: voice api; text to speech tts; mikochan; 2fa; 2018;
 Slug: making-a-voice-authentication-call-with-tts
 Thumbnail: images/xoxtan.png
 Lang: en

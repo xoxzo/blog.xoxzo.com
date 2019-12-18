@@ -2,7 +2,7 @@ Title: New release: Logs download feature
 Date: 2019-08-13
 Slug: logs-download-feature-new-release
 Lang: en
-Tags: download logs; new release; 2019;
+Tags: new feature; 2019;
 Thumbnail: images/freepik/young-females-download-icon.jpg
 Author: Iqbal Abdullah
 Summary: You can now download your usage logs from the dashboard directly.

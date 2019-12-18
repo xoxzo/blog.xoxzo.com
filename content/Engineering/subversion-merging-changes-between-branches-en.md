@@ -2,7 +2,7 @@ Title: Subversion merging changes between branches
 Lang: en
 Date: 2011-09-24 08:04
 Author: Kamal Mustafa
-Tags: scm, subversion, svn, version control
+Tags: 2011; tip; developer; code;
 Slug: subversion-merging-changes-between-branches
 Summary: let's talk about svn branching strategy
 

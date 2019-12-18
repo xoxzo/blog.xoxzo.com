@@ -3,7 +3,7 @@ Date: 2017-02-01 10:30
 Slug: pycon-kumamoto-2017
 Lang: en
 Modified: 2017-02-01 10:30
-Tags: pycon; sponsor; kumamoto; community; 2017 
+Tags: pycon; sponsor; japan; 2017;
 Author: Aiko Yokoyama
 Thumbnail: images/kumamoto.png
 Summary: [Xoxzo]Sponsoring PyCon in Kumamoto

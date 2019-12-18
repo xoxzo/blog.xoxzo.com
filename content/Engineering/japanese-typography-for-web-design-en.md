@@ -2,7 +2,7 @@ Title: Basic Japanese typography tips for web design
 Date: 2018-12-19 13:00
 Slug: japanese-typography-for-web-design
 Lang: en
-Tags: typography; webdesign; japanese; font;
+Tags: tip; 2018;
 Author: Hyejeong Park
 Thumbnail: images/web-typography.jpg
 Summary: Introduce very basic tips for Japanese web typography that I learned from my experience.

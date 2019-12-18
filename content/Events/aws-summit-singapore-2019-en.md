@@ -2,7 +2,7 @@ Title: AI/ML and Robot in Cloud at AWS Summit Singapore 2019
 Date: 2019-04-25 05:00
 Slug: aws-summit-singapore-2019
 Lang: en
-Tags: 2019; aws-summit; singapore; cloud; robot;
+Tags: 2019; aws; singapore; asean;
 Author: Zaki Akhmad
 Thumbnail: images/aws-sg-2019/id.jpg
 Summary: Zaki went to AWS Summit Singapore 2019 and shared his first experience attending this summit.

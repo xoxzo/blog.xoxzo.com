@@ -1,7 +1,7 @@
 Title: Dr. Chua Ming Yam: Practice is the key
 Date: 2018-07-11 12:00
 Author: Ai Sin Chan
-Tags: interviews; engineer; 2018; chua ming yam; airplanes; remote sensing; surveillance; 
+Tags: 2018; 
 Lang: en
 Thumbnail: images/drchuamingyam.jpg
 Slug: interview-with-dr-chua-ming-yam

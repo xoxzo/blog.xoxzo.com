@@ -2,7 +2,7 @@ Title: PHP execution model vs Python web
 Date: 2012-05-02 16:48
 Lang: en
 Author: Kamal Mustafa
-Tags: php, python
+Tags: python; 2012; tip; django;
 Slug: php-execution-model-vs-python-web
 Thumbnail: images/5e422-6a0153916e707f970b0168eaaad5df970c-pi.png
 Summary: A comparison on how php and python executes it's web applications

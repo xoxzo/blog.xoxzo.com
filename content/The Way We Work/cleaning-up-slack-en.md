@@ -1,7 +1,7 @@
 Title: Cleaning up Slack: Regaining back our sanity
 Date: 2019-04-17 10:00
 Author: Iqbal Abdullah
-Tags: slack; cleanup; remotework; 2019;
+Tags: tool; remote work; 2019;
 Slug: cleaning-up-slack-and-regaining-our-sanity
 Lang: en
 Thumbnail: images/library-clutter.jpg

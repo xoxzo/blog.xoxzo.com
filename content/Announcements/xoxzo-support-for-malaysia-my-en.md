@@ -1,7 +1,7 @@
 Title: [Xoxzo] API now supports Malaysia (MY)
 Date: 2016-08-26 17:05
 Author: Aiko Yokoyama
-Tags: malaysia, my, telephony, xoxzo
+Tags: malaysia; 2016; xoxzo; sms api; voice api;
 Slug: xoxzo-support-for-malaysia-my
 Summary: Xoxzo API now supports Malaysia (MY)
 Lang: en

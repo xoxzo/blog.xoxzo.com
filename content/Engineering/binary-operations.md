@@ -1,7 +1,7 @@
 Title: Binary operations
 Date: 2018-11-22 12:00
 Author: Arthur Sultanbekov
-Tags: binary, operations;
+Tags: 2018; tip;
 Slug: binary-operations
 Lang: en
 Summary: Binary operations

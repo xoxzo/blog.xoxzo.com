@@ -2,7 +2,7 @@ Title: Workshop CI/CD on gitlab by SARCCOM Indonesia
 Lang: en
 Date: 2019-05-31
 Author: Zaki Akhmad
-Tags: 2019, ci, cd, gitlab, sarccom, id
+Tags: 2019; indonesia; asean; git;
 Slug: workshop-ci-cd-on-gitlab 
 Thumbnail: images/ci-cd-workshop.jpeg
 Summary: Automate as early as possible with CI/CD.

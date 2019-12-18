@@ -2,7 +2,7 @@ Title: MWC 2019 in Barcelona
 Date: 2019-03-04 10:00
 Slug: mwc-2019-barcelona
 Lang: en
-Tags: 2019; mwc; rcs; 5g; barcelona;
+Tags: 2019; mwc; rcs; 5g; europe;
 Author: Iqbal Abdullah
 Thumbnail: images/mwc19/keynote_ai_innovation_gurria.jpg
 Summary: Iqbal went to Barcelona at the end of February to attend MWC19, and he wrote what he saw.

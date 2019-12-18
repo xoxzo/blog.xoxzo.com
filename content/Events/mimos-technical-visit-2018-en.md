@@ -3,7 +3,7 @@ Date: 2018-08-02 12:00
 Slug: mimos-tech-visit
 Lang: en
 Modified: 2018-08-02 12:00
-Tags: 2018; MIMOS; malaysia; innovation; technology
+Tags: 2018; malaysia; 
 Author: Jenna Kassim
 Thumbnail: images/mimos-tech-visit-2018/image_5.jpg
 Summary: A Technical Visit to MIMOS and a glimpse of their latest involvement with technology
