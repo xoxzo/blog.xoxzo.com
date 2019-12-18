@@ -2,7 +2,7 @@ Title: A brief history of electric telegraph
 Date: 2018-11-15
 Slug: history-of-telegraph
 Lang: en
-Tags: history, telegraph
+Tags: history, 2018;
 Thumbnail: images/telegraph02.jpg
 Author: Ai Sin Chan
 Summary: Look back on how the electric telegraph came about and lasted more than a century before its decline

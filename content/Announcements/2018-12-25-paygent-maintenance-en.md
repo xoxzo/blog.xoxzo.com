@@ -2,7 +2,7 @@ Title: 【EZSMS】Netbank payment will be paused
 Date: 2018-12-25
 Slug: paygent-maintenance-20181225
 Lang: en
-Tags: EZSMS; Paygent; 2018;
+Tags: 2018;
 Thumbnail: images/ezsms_logo_new.png
 Author: Aiko Yokoyama
 Summary: Netbank payment on EZSMS will be paused during the New Year for the maintenance.

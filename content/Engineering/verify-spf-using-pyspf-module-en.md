@@ -3,7 +3,7 @@ Date: 2012-12-03 06:34
 Lang: en
 Author: Kamal Mustafa
 Category: Engineering
-Tags: dns, email, spf, python, authentication
+Tags: python; 2fa; 2012;
 Slug: verify-spf-using-pyspf-module
 Summary: Short introduction to using pyspf to verify SPF records
 

@@ -1,7 +1,7 @@
 Title: Ee Teck Chai: Making changes on a live system is a challenge to developers
 Date: 2018-07-05 12:00
 Author: Ai Sin Chan
-Tags: interviews; engineer; github; live system; 2018;
+Tags: 2018; developer;
 Lang: en
 Slug: interview-with-ee-teck-chai
 Thumbnail: images/eeteckchai.jpg

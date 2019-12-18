@@ -2,7 +2,7 @@ Title: A way to improve productivity for remote working
 Date: 2017-06-06
 Slug: fifteen-minutes-rule
 Lang: en
-Tags: RemoteWork; 15 min rule 
+Tags: remotework;
 Author: Akira Nonaka
 Summary: Here is one of the golden rules we follow at Xoxzo to keep up good productivity within a team that works remotely
 

@@ -1,7 +1,7 @@
 Title: Global Economic Community Summit 2017: Opening Eyes to an Even Bigger World
 Date: 2017-12-18 09:30
 Author: Abdul Rahman Ibrahim
-Tags: GEC; community; event; entrepreneurship; summit;
+Tags: 2017; economy; future;
 Slug:gec-summit-2017
 Thumbnail: images/gec2017/opening.jpg
 Lang: en

@@ -1,7 +1,7 @@
 Title: Our Annual Open Source grant for 2019
 Date: 2019-06-06 11:00
 Author: Iqbal Abdullah
-Tags: grant; open source; annual grant; community; oss; giving back; 2019;
+Tags: annual open source grant; python; 2019;
 Lang: en
 Slug: annual-opensource-grant-for-2019
 Thumbnail: images/grantspayments/open-source-your-love.jpg

@@ -1,7 +1,7 @@
 Title: Understanding Python Import
 Date: 2017/06/21 09:52
 Author: Kamal Mustafa
-Tags: python; import; sys.path;
+Tags: python; tip; developer; 2017;
 Slug: understanding-python-import-1
 Lang: en
 Summary: Let’s learn more about search path for Python import

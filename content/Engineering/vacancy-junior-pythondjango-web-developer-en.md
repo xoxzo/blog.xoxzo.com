@@ -1,7 +1,7 @@
 Title: Vacancy: Full-time Junior Python/Django Web Developer
 Date: 2011-09-19 08:09
 Author: Kamal Mustafa
-Tags: developer, django, python, vacancy
+Tags: developer; django; python; 2011;
 Slug: vacancy-junior-pythondjango-web-developer
 Lang: en
 Summary: Yes, we are hiring

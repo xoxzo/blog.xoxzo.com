@@ -2,7 +2,7 @@ Title: [Xoxzo] My trip to PyCon APAC 2017
 Date: 2017-09-11 13:00 
 Slug: pycon-apac-2017 
 Lang: en 
-Tags: 2017; pycon apac; MY;
+Tags: 2017; pycon; malaysia;
 Author: Akira Nonaka 
 Thumbnail: images/pycon-apac-2017/IMG_7215.jpg
 Summary: This is my memory of attending PyCon APAC 2017, held on August 26 & 27, 2017 in Kuala Lumpur, Malaysia.

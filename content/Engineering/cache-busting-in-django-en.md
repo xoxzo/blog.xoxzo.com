@@ -2,7 +2,7 @@ Title: Cache busting in Django
 Date: 2018-08-22
 Slug: cache-busting-in-django
 Lang: en
-Tags: python; django; css; cache; 
+Tags: python; django; 2018; tip;
 Author: Hyejeong Park
 Summary: How to cache bust in Django using ManifestStaticFilesStorage.
 

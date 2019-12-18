@@ -1,7 +1,7 @@
 Title: KEIZOKU KAIZEN in Kpremium history
 Date: 2019-02-03 
 Author: Aiko Yokoyama
-Tags: Xoxzo; EZSMS; K-premium; Keizoku-kaizen;
+Tags: xoxzo; ezsms; k-premium; 2019;
 Slug: K-premium-history
 Lang: en
 Thumbnail: images/delight_phone.jpg

@@ -1,7 +1,7 @@
 Title: DevOps #2 Meetup
 Date: 2017-11-15 13:50
 Author: Abdul Rahman Ibrahim
-Tags: devops; tech; meetup
+Tags: devops; 2017; meetup; malaysia;
 Lang: en
 Slug: devops-2-meetup
 Thumbnail: images/devops-2-meetup/bond.jpg

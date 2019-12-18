@@ -1,7 +1,7 @@
 Title: Malaysia Open Source Conference (MOSCMY) and JomLaunch
 Date: 2016-06-03 10:02
 Author: Kamal Mustafa
-Tags: open source, malaysia, jomlaunch
+Tags: malaysia; jomlaunch; jomweb; 2016; startup; developer;
 Slug: malaysia-open-source-conference-moscmy-and-jomlaunch
 Lang: en
 Thumbnail: images/moscmy-jomlaunch-2016/sumbermanusia.jpg

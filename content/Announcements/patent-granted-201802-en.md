@@ -2,7 +2,7 @@ Title: Patent granted for Xoxzo's Outgoing Call System & Control technology
 Date: 2018-03-16 14:00
 Slug: patent-granted-for-outgoing-call-system-control-technology
 Lang: en
-Tags: Patent; Xoxzo;　Outgoing-call; Server-system-control; Server-system;
+Tags: patent; xoxzo; 2018; voice api; 
 Author: Aiko Yokoyama
 Summary: Xoxzo was granted a patent for the system to process outgoing calls.
 

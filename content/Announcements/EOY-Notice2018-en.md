@@ -2,7 +2,7 @@ Title: 2018 &amp; 2019 Seasons Greetings and New Year Holidays
 Date: 2018-12-20 10:00
 Slug: EOY-Holiday-Notice-2018
 Lang: en
-Tags: end of year; 2018;
+Tags: 2018;
 Author: Aiko Yokoyama
 Summary: Thank you for your support through 2018. 
 

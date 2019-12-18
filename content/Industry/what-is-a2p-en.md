@@ -1,7 +1,7 @@
 Title: What do P2P and A2P stand for？
 Date: 2017-12-6 15:00
 Author: Aiko Yokoyama
-Tags: p2p; a2p; ; api; sms; notification; authentication; developer;  
+Tags: sms api; 2fa; developer; 2017;
 Slug: what-is-a2p
 Lang: en
 Thumbnail: images/whatisa2p.jpg

@@ -3,7 +3,7 @@ Lang: en
 Date: 2015-05-29 09:19
 Author: Kamal Mustafa
 Category: Engineering
-Tags: open source, oss, talk
+Tags: malaysia; 2015; developer; jomweb;
 Slug: talk-at-uthm
 Thumbnail: images/imBJVxY.png
 Summary:I was invited by Universiti Tun Hussein Onn (UTHM) student to give a talk on their 1 day seminar for the students in the Computer Science and Information Technology (FSKTM) faculty. 

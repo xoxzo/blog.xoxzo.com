@@ -2,7 +2,7 @@ Title: ASEAN Rice Bowl Startup Awards 2019
 Date: 2019-07-17
 Slug: ASEAN-Rice-Bowl-Startup-Awards-2019 
 Lang: en
-Tags: asean; startup; award; ambassador; 2019;
+Tags: asean; startup; 2019;
 Thumbnail: images/arbsa-2019/ARBSA_thumbnail.jpg
 Author: Ai Sin Chan 
 Summary: Iqbal appointed Abassador for ASEAN Rice Bowl Startup Awards 2019

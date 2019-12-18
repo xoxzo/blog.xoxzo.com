@@ -2,7 +2,7 @@ Title: [Xoxzo] SecondLife uses Xoxzo APIs for better assurance of customer notif
 Date: 2018-01-22 15:00
 Slug: secondlife-xoxzo-usecase
 Lang: en
-Tags: use-cases; secondlife; 
+Tags: 2018; japan; sms api;
 Author: Aiko Yokoyama
 Thumbnail: images/secondlife-logo.png
 Summary: SecondLife, an ecology company that target 100％ recycle has installed Xoxzo SMS API for customer notification that improves awareness on their contact.

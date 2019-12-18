@@ -2,7 +2,7 @@ Title: [FullCourt] End of Service Announcement
 Date: 2015-12-03 11:01
 Author: Iqbal Abdullah
 Lang: en
-Tags: endofservice, fullcourt, xoxzo
+Tags: fullcourt; xoxzo; 2015;
 Slug: fullcourt-end-of-service-announcement
 Thumbnail: images/fullcourt-logo.png
 Summary: FullCourt end of service annoucement

@@ -2,7 +2,7 @@ Title: AWS Summit KL 2015
 Date: 2015-05-28 23:07
 Lang: en
 Author: Abdul Rahman Ibrahim
-Tags: python; aws; kuala lumpur; connexion@nexus
+Tags: python; aws; malaysia; 2015;
 Slug: aws-summit-kl-2015
 Thumbnail: images/5c468-6a0153916e707f970b01b8d11b4dc4970c-pi.jpg
 Summary: On the 21st of May, the first AWS Summit was held at Connexion@Nexus, located in Kuala Lumpur. A total of 1075 participants turned up that day which lasted from 7.30am till 6pm.

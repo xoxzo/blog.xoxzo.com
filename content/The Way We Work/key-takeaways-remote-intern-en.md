@@ -1,7 +1,7 @@
 Title: My key takeaways as a remote intern
 Date: 2019-01-02 12:01
 Author: Surya Banerjee
-Tags: intern; internship; remoteworking; experience; learning; remote;
+Tags: remote work; 2019; hiring; developer;
 Slug: key-takeaways-remote-intern
 Lang: en
 Thumbnail: images/interntakeaway.jpg

@@ -1,7 +1,7 @@
 Title: Our people philosophy
 Date: 2017-07-12 12:00
 Author: Iqbal Abdullah
-Tags: people; humans; work; hiring; onboarding;
+Tags: people; remote work; hiring; 2917;
 Slug: our-people-philosophy
 Lang: en
 Thumbnail: images/team-pic-mtg.jpg

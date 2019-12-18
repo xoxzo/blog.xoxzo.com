@@ -1,7 +1,7 @@
 Title: A brief history of 1G mobile communication technology
 Date: 2018-7-24 12:00
 Author: Ai Sin Chan
-Tags: 1g; technology; history; commercial; military; first phones; japan; malaysia; 2018; mobile; communication; 
+Tags: mobile technology; history; japan; malaysia; 2018; 
 Slug: history-of-1g
 Lang: en
 Thumbnail: images/1g03.gif

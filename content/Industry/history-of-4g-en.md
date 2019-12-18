@@ -1,7 +1,7 @@
 Title: A brief overview of 4G mobile communication technology
 Date: 2018-8-15 12:00
 Author: Ai Sin Chan
-Tags: 4g; technology; history; commercial; military; first phones; japan; malaysia; 2018; mobile; communication; 
+Tags: mobile technology; history; japan; malaysia; 2018; 
 Slug: history-of-4g
 Lang: en
 Thumbnail: images/history4g01.jpg

@@ -2,7 +2,7 @@ Title: Termination on providing DIN service with +813 prefix numbers
 Date: 2019-03-06 
 Slug: 03-number-termination
 Lang: en
-Tags: Xoxzo; DIN; 2019; 03-prefix;
+Tags: Xoxzo; dial in number; 2019;
 Author: Aiko Yokoyama
 Summary: The prefix +813 number provision will be terminated in our DIN service. 
 

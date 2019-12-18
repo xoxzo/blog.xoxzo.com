@@ -2,7 +2,7 @@ Title: API empowering developers: The API Market and Economy
 Date: 2017-04-29 10:00
 Lang: en
 Author: Iqbal Abdullah
-Tags: api; developers; japan; market; economy; twilio; aws; facebook
+Tags: developer; japan; market; economy; twilio alternative; aws; 2017;
 Slug: the-api-market-empowering-developers
 Thumbnail: images/api-empowering.jpg
 Summary: In this post, Iqbal writes about the growing API market which is more and more empowering developers everywhere.
