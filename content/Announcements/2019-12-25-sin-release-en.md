@@ -1,55 +1,64 @@
-Title: 【Xoxzo】SMS受信API リリースのお知らせ
+Title: Xoxzo releases Receiving SMS API
 Date: 2019-12-25
 Slug: x4-sin-release
 Lang: en
 Tags: x4; new release; 2019;
 Thumbnail: images/sin.png
 Author: Aiko Yokoyama
-Summary: ご要望を受け、ついにXoxzoにもSMS受信APIが登場しました。
+Summary: Our new release SIN (SMS IN number) is launched to answer users' request.
 
 ![SIN](/images/sin.png)
 
-平素は、[Xoxzo-クラウドテレフォニープラットフォーム](https://www.xoxzo.com/ja/)をご利用いただき、誠に有難うございます。
+Thank you for using [Xoxzo Cloud Telephony Platform](https://www.xoxzo.com/en/).
 
-2019年12月20日、SMS受信API (SIN）がリリースとなりました。
+We are pleased to announce that Xoxzo has released **SIN**, an API to receive SMS on December 20, 2019.
 
-## SMS受信API (SIN）とは？
-SMS受信API（SIN = SMS-IN-Number)では、APIを使って電話番号を契約することにより、
-SMS受信のための携帯電話・スマホ・その他のデバイスがなくてもインターネット上でSMSの受信が可能になります。
+## What is SIN (SMS IN Number) API?
+Receiving SMS API（SIN = SMS-IN-Number) will enable you to search a mobile phone number available to subscribe 
+and you can receive SMS messages on internet without the device to receive SMS such as Mobile phones, Smart Phones
+or etc., once you subscribed one via our API.
 
-## SMS受信API (SIN）を使うメリットは？
-+ SMSの送信者の電話番号を自動でリストに追加したい
-+ SMSの送信者に自動で決まった返信を送信できるようにしたい
-+ 複数の電話番号に届くSMSを一括して管理したい
-+ 届いたSMSの内容に応じて、受診したメッセージを自動で振り分けたい
-など、SMS受信APIを使ってできることは、無限大です。
 
-## SMS受信API (SIN）の使い方は？
-[ドキュメンテーション](https://docs.xoxzo.com/ja/sms.html#receive-sms-messages-api)
-および[ヘルプページ](https://help.xoxzo.com/xoxzo-cloud-telephony-platform/)をご参照ください。
+## What is the benefit to use SIN (SMS IN Number) API？
+There are unlimited things you can do with this API:
 
-概要としては、
++ Create the list of SMS Senders
++ Prepare an auto response to the SMS senders
++ Manage the received SMS on multiple numbers in one place
++ Automatically sort the received SMS according the message content 
 
-1. 受信用の番号を契約する
 
-2. 契約した番号へWebhookを関連付ける
+## How to use SIN (SMS IN Number) API？
+Please refer [Documentation](https://docs.xoxzo.com/en/sms.html#receive-sms-messages-api)
+and [Help page](https://help.xoxzo.com/xoxzo-cloud-telephony-platform/) for details.
 
-これで、受信の準備は完了です。
+Here shows the easy steps to start,
 
-3. SMSを受信すると、Webhookへメッセージの送信者、受信した契約中の番号、メッセージの内容と受信時刻が送られる
+1. Subscribe to a receiving SMS number
 
-## SMS受信API (SIN）の料金は？
+2. Define a Webhook to the subscribed number
 
-SMS受信API (SIN）のご利用には、
+Now, you are ready to receive SMS.
 
-1. 番号のご契約料金（30日ごと）
+Upon the receipt of incoming SMS, the sender, the number you received the message, the message body and the time & date of the receipt are sent to webhook.
 
-2. メッセージの受信料金（SMS受信ごと）
+It depends on your idea how to use the incoming SMS!!
+We hope this helps you a lot.
 
-が必要です。
 
-詳しくは、[料金ページ](https://www.xoxzo.com/ja/about/pricing/)にてご確認ください。
+## What is the cost of using SIN (SMS IN Number) API？
 
-ご不明な点がございましたら、ヘルプデスク (help@xoxzo.com)までご連絡ください。
+The cost of using SIN (SMS IN Number) API are as below.
+
+1. Initial Subscription Cost (once and only)
+
+2. Monthly Subscription (every 30 days)
+
+3. SMS receiving Cost (per incoming message received）
+
+
+For the detailed cost, please visit [Price Page](https://www.xoxzo.com/en/about/pricing/).
+
+Please contact Help Desk ( help@xoxzo.com ) for any questions.
 
 
