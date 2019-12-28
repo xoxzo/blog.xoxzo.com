@@ -5,7 +5,7 @@ Lang: ja
 Tags: x4; new release; 2019;
 Thumbnail: images/sin.png
 Author: Aiko Yokoyama
-Summary: ご要望を受け、ついにXoxzoにもSMS受信APIが登場しました。
+Summary: ご要望を受け、ついにXoxzoにSMS受信APIが登場しました。
 
 ![SIN](/images/sin.png)
 
