@@ -1,25 +1,25 @@
-Title: Xoxzo releases Receive SMS messages API
+Title: Xoxzo releases Receive SMS Messages API
 Date: 2019-12-25
 Slug: x4-sin-release
 Lang: en
 Tags: x4; new release; 2019;
 Thumbnail: images/sin.png
 Author: Aiko Yokoyama
-Summary: Our new release Receive SMS messages API is launched to answer users' request.
+Summary: Our new release Receive SMS Messages API is launched to answer users' request.
 
 ![SIN](/images/sin.png)
 
 Thank you for using [Xoxzo Cloud Telephony Platform](https://www.xoxzo.com/en/).
 
-We are pleased to announce that Xoxzo has released **Receive SMS messages API** on December 20, 2019.
+We are pleased to announce that Xoxzo has released **Receive SMS Messages API** on December 20, 2019.
 
-## What is Receive SMS messages API?
+## What is Receive SMS Messages API?
 Receive SMS messages API will enable you to search a mobile phone number available to subscribe 
 and you can receive SMS messages on internet without the device to receive SMS such as Mobile phones, Smart Phones
 or etc., once you subscribed one via our API.
 
 
-## What is the benefit to use Receive SMS messages API？
+## What is the benefit to use Receive SMS Messages API？
 There are unlimited things you can do with this API:
 
 + Create the list of SMS Senders
@@ -28,7 +28,7 @@ There are unlimited things you can do with this API:
 + Automatically sort the received SMS according the message content 
 
 
-## How to use Receive SMS messages API？
+## How to use Receive SMS Messages API？
 Please refer [Documentation](https://docs.xoxzo.com/en/sms.html#receive-sms-messages-api)
 and [Help page](https://help.xoxzo.com/en/xoxzo-cloud-telephony-platform/articles/what-is-sin/) for details.
 
@@ -46,7 +46,7 @@ It depends on your idea how to use the incoming SMS!!
 We hope this helps you a lot.
 
 
-## What is the cost of using Receive SMS messages API？
+## What is the cost of using Receive SMS Messages API？
 
 The cost of using Receive SMS messages API are as below.
 
