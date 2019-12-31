@@ -14,7 +14,7 @@ Thank you for using [Xoxzo Cloud Telephony Platform](https://www.xoxzo.com/en/).
 We are pleased to announce that Xoxzo has released **Receive SMS Messages API** on December 20, 2019.
 
 ## What is Receive SMS Messages API?
-Receive SMS messages API will enable you to search a mobile phone number available to subscribe 
+Receiving SMS API will enable you to search a mobile phone number（SIN = SMS-IN-Number) available to subscribe 
 and you can receive SMS messages on internet without the device to receive SMS such as Mobile phones, Smart Phones
 or etc., once you subscribed one via our API.
 
