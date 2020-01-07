@@ -44,7 +44,12 @@ like messaging and voice calls. We have been following a strategy of making it
 easy to integrate to our customers systems while maintaing a quality service
 with competetive pricing, but now lacking a strong differentiator, this easy
 integration method has also proved to allow our customers to move away
-relatively easily.
+relatively easily to much cheaper but very similar solutions.
+
+We believe that a race to the bottom lacking innovation and
+added value doesn't benefit anybody, most of all our customers as quality
+stagnate. We need to pave a new way forward adding more value through our
+solutions. More about that below:
 
 Another challenge is **staying relevant**: With all the new competition
 accesibility to an easier means of communication has become more and more
