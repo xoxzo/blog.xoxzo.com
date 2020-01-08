@@ -17,10 +17,10 @@ Summary: 10年間という一区切りが、また新たに始まります。そ
 # Xoxzo の当為
 
 ここ10年間のXoxzoの使命は、多くの人へ **コミュニケーションをシンプルでより良いものへ** でした。 
-これは、本質的には変わりませんが、_どのように_ については _さらなる改善_を、
-_どのような人々にとって_ Xoxzoが力になり、ご奉仕するかについては、進化しています。
+この本質は変わりませんが、_どのように_ については _さらなる改善_ を、
+_どのような人々にとって_ Xoxzoが力になりご奉仕するか、については進化しています。
 
-実際のところ、Xoxzoのサービスが役立つとみなし、ともに働いてきた人々も、年を経るにつれ、
+実際のところ、Xoxzoのサービスが役立つとみなしともに働いてきた人々も、年を経るにつれ、
 日本在住の外国人顧客から国外の顧客へと、またマーケティング代理店などの企業から
 アプリ制作会社などへと変わってきました。
 
@@ -29,7 +29,7 @@ _どのような人々にとって_ Xoxzoが力になり、ご奉仕するかに
 次に、シンプルなAPIを介して企業がアクセスできるようにし、
 現在、発信または着信音声やSMSなどのさまざまなチャネルで利用できるようにし、
 [EZSMS](https://www.ezsms.biz/en/)や
-[Xoxzo](https://www.xoxzo.com/en/）といったサービスを介して、顧客の皆様と密接につながっています。
+[Xoxzo](https://www.xoxzo.com/en/) といったサービスを介して、顧客の皆様と密接につながっています。
 
 
 ## 2020年に向けて
@@ -49,14 +49,6 @@ _どのような人々にとって_ Xoxzoが力になり、ご奉仕するかに
 Xoxzoは、ソリューションを通してより多くの価値を作り続けるために、新たなる道を切り開いていく必要があると考えました。
 その詳細は、下記に記します。
 
-Another challenge is **staying relevant**: With all the new competition
-accessibility to an easier means of communication has become more and more
-available. We cannot stick to the previous definition of _easier and better communication_
-as being a service to reduce the technical and monetary hurdles allowing bytes
-to move from point A to point B anymore but move to a new definition of easier
-and better communication that means _clarity_ and _more value_. Communications
-that are clear and bring visible value are easier to receive and better
-valued.
 
 もう1つの課題は**関連性の維持**です。
 
@@ -66,21 +58,19 @@ _シンプルでより良いコミュニケーション_ という、これま�
 _明快_ で _より価値の高い_ という新しい定義をもった _シンプルでより良いコミュニケーション_ へと移行することになります。
 明確で、目に見える価値をもたらすコミュニケーションは、受け入れられやすく、より高く評価されます。
 
-Finally, we need to **improve and strengthen our culture**: In the context of our work culture,
-the 20s will be a decade of remote, async-non-blocking, distributed and freedom.
 最後に、Xoxzoに必要なのは **我々の文化の改善と強化** です。
 
 Xoxzoの職場文化という意味で、2020年代は、リモートと非同期的ノンブロッキング、分散、自由の10年となるでしょう。
 
-わたしたちが通常、同じ時空でともにしていたことが、昨今では別々のスレッドに解きほぐされ、繋がれていた鎖も外れて、理想を追い求める個人的な自由が可能となっていますが、それぞれのスレッドを適切なポイントに結びつけておき、それでもなお理にかなっていられるかという新たな課題を生み出しています。
+わたしたちが通常、同じ時空でともにしていたことが、昨今では別々のスレッドに解きほぐされ、繋がれていた鎖も外れて、理想を追い求める個人的な自由が可能となっていますが、それぞれのスレッドを適切なポイントに結びつけておき、それでもなお理にかなっていられるかという新たな課題を生み出しているのです。
 
 # 終わりに
 
 顧客の皆様、Xoxzoは皆様の日頃感じておられる困難な部分を見つけ出し、理解を深めた上で、
 ビジネスをよりよく推進できる方法をご提案しますので、2020年もよろしくお願い致します。
 
-チームXoxzoは、今年も荒波を超えていくことになりそうですが（そうでなかった時があったのか、疑問ですが）
-成長し、新しいことへ適合し続けるチームの力はいまや、Xoxzo流とも呼ぶべく定着し、わたしの驚きと喜び止まぬチームとなっています。
+チームXoxzoは、今年も荒波を超えていくことになりそうですが（う〜ん、そうでなかった時があったのか、疑問ですが）
+成長し、新しいことへ適合し続けるチームの力はいまや、Xoxzo流とも呼ぶべく定着し、わたしの驚きと喜びの止まぬチームとなっています。
 
 
 そして、一等おしまいに、その他の方々、
