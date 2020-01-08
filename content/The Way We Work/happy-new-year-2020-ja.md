@@ -7,46 +7,49 @@ Lang: ja
 Thumbnail: images/new-year-2020-greeting/group-photo-okinawa.jpg
 Summary: 10年間という一区切りが、また新たに始まります。その起点に立ち、Xoxzoの今とこれからについて。
 
-1月6日
-We start work in Japan officially yesterday, so I would like to wish everyone
-We start work in Japan officially yesterday, so I would like to wish everyone
+1月6日より、日本チームも仕事始めとなりましたので、新年のご挨拶を申し上げます。
+明けましておめでとうございます！
+
+2020年の始まりに置いて、Xoxzoの今後少なくとも1年間に起こりそうなことや、わたしの考えなどを共有したいと思います。
 
 ![Xoxzo team collage]({filename}/images/new-year-2020-greeting/2020-team-collage.jpg)
 
-# Our Mission
+# Xoxzo の当為
 
-Our mission for the past decade has been to **make communications easier and
-better** for many. This, in essence, will not change, but _how_ the communication
-can be better and _which group of people_ we will help and serve will.
+ここ10年間のXoxzoの使命は、多くの人へ **コミュニケーションをシンプルでより良いものへ** でした。 
+これは、本質的には変わりませんが、_どのように_ については _さらなる改善_を、
+_どのような人々にとって_ Xoxzoが力になり、ご奉仕するかについては、進化しています。
 
-The fact is, the groups of people that have found us useful and we have worked with
-have changed over the years, from consumers like foreigners living in Japan to
-people outside of the country, and from companies that are marketing agencies
-to companies that are deploying apps.
+実際のところ、Xoxzoのサービスが役立つとみなし、ともに働いてきた人々も、年を経るにつれ、
+日本在住の外国人顧客から国外の顧客へと、またマーケティング代理店などの企業から
+アプリ制作会社などへと変わってきました。
 
-_How_ we can make communications easier has also evolved. First, it was to make
-it accessible and affordable for consumers, then it was to make it accessible
-for companies through simple APIs, and now making it available on different
-channels such as outgoing or incoming voice or SMS for companies to stay in
-touch with their customers via our [EZSMS](https://www.ezsms.biz/en/) and
-[Xoxzo](https://www.xoxzo.com/en/) products.
+コミュニケーションのシンプル化の _方法_ も、進化しました。
+まず、消費者がアクセスしやすく手頃な価格にすることでした。
+次に、シンプルなAPIを介して企業がアクセスできるようにし、
+現在、発信または着信音声やSMSなどのさまざまなチャネルで利用できるようにし、
+[EZSMS](https://www.ezsms.biz/en/)や
+[Xoxzo](https://www.xoxzo.com/en/）といったサービスを介して、顧客の皆様と密接につながっています。
 
-## Heading into 2020
 
-As we head into 2020, we will be facing challenges that will require us to adapt
-and execute. 
+## 2020年に向けて
 
-An immediate one is **competition and pricing**: We have seen many competitors
-pop up within the last two years offering crazy pricing commoditizing services
-like messaging and voice calls. We have been following a strategy of making it
-easy to integrate to our customers' systems while maintaining a quality service
-with competitive pricing, but now lacking a strong differentiator, this easy
-integration method has also proved to allow our customers to move away
-relatively easily to much cheaper but very similar solutions.
+2020年という年に向けて、Xoxzoは、適応し実践する必要のある課題に直面しています。
+
+直近の課題として、**競争と価格設定**があります。
+
+ここ2年ほどの間に、メッセージングや音声通話などを、驚くような価格設定にてサービスを提供する
+競合他社が多く出現しました。
+競争力のある価格設定で質の高いサービスを維持しながら、お客様のシステムに簡単に統合できる戦略に従っていますが、
+強力な差別化要素がないため、簡単な統合方法だけでは、顧客は、はるかに安価でありながら、非常によく似たソリューションへと、
+比較的簡単に離れることが可能であることも証明されています。
 
 We believe that a race to the bottom lacking innovation and
 added value doesn't benefit anybody, most of all our customers as quality
 stagnate. We need to pave a new way forward adding more value through our
+solutions. More about that below:
+イノベーションに
+solutions. More about that below:かき
 solutions. More about that below:
 
 Another challenge is **staying relevant**: With all the new competition
