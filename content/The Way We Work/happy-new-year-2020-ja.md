@@ -44,13 +44,10 @@ _どのような人々にとって_ Xoxzoが力になり、ご奉仕するかに
 強力な差別化要素がないため、簡単な統合方法だけでは、顧客は、はるかに安価でありながら、非常によく似たソリューションへと、
 比較的簡単に離れることが可能であることも証明されています。
 
-We believe that a race to the bottom lacking innovation and
-added value doesn't benefit anybody, most of all our customers as quality
-stagnate. We need to pave a new way forward adding more value through our
-solutions. More about that below:
-イノベーションに
-solutions. More about that below:かき
-solutions. More about that below:
+イノベーションや付加価値に欠いた、底辺を競う争いなんて誰のためにもならないと考えています。
+ほとんどの顧客は、品質から流れ去ることはありません。
+Xoxzoは、ソリューションを通してより多くの価値を作り続けるために、新たなる道を切り開いていく必要があると考えました。
+その詳細は、下記に記します。
 
 Another challenge is **staying relevant**: With all the new competition
 accessibility to an easier means of communication has become more and more
@@ -61,26 +58,33 @@ and better communication that means _clarity_ and _more value_. Communications
 that are clear and bring visible value are easier to receive and better
 valued.
 
+もう1つの課題は**関連性の維持**です。
+
+新しい競争により、簡単なコミュニケーション手段へのアクセスが、ますます身近になってきました。 
+バイト単位をA地点からB地点へ動かすような、技術的にも金銭的にもハードルを軽減するサービスとして
+_シンプルでより良いコミュニケーション_ という、これまでのサービスの定義に固執することはできず、
+_明快_ で _より価値の高い_ という新しい定義をもった _シンプルでより良いコミュニケーション_ へと移行することになります。
+明確で、目に見える価値をもたらすコミュニケーションは、受け入れられやすく、より高く評価されます。
+
 Finally, we need to **improve and strengthen our culture**: In the context of our work culture,
 the 20s will be a decade of remote, async-non-blocking, distributed and freedom.
+最後に、Xoxzoに必要なのは **我々の文化の改善と強化** です。
 
-What we usually did together in the same space-time is now unraveled into different
-threads, which while has removed shackles from ourselves and allowed more personal
-freedom to pursue ideals, is creating a challenge to keep these independent threads
-tied at the right points and still making sense of it all.
+Xoxzoの職場文化という意味で、2020年代は、リモートと非同期的ノンブロッキング、分散、自由の10年となるでしょう。
 
-# To summarize
+わたしたちが通常、同じ時空でともにしていたことが、昨今では別々のスレッドに解きほぐされ、繋がれていた鎖も外れて、理想を追い求める個人的な自由が可能となっていますが、それぞれのスレッドを適切なポイントに結びつけておき、それでもなお理にかなっていられるかという新たな課題を生み出しています。
 
-To our customers, we hope that you stick with us too in 2020, while we go
-through your pain points, try to understand them better, and offer better ways
-to make your business strive.
+# 終わりに
 
-To our team in Xoxzo, it's going to be a rough year ahead (well, when has it
-never been rough anyway?) but your continuous ability to grow and adapt to new stuff that
-comes our way has never ceased to surprise and delight me.
+顧客の皆様、Xoxzoは皆様の日頃感じておられる困難な部分を見つけ出し、理解を深めた上で、
+ビジネスをよりよく推進できる方法をご提案しますので、2020年もよろしくお願い致します。
 
-And finally to everyone else: Stay connected on [Twitter](https://twitter.com/xoxzocom/) or signup to
-our [mailing list](https://info.xoxzo.com/en/exchange-mailing-list/) and we'll surprise
-you with new stuff that we'll roll out in 2020!
+チームXoxzoは、今年も荒波を超えていくことになりそうですが（そうでなかった時があったのか、疑問ですが）
+成長し、新しいことへ適合し続けるチームの力はいまや、Xoxzo流とも呼ぶべく定着し、わたしの驚きと喜び止まぬチームとなっています。
 
-Until next time, take it easy and take care!
+
+そして、一等おしまいに、その他の方々、
+
+[Twitter](https://twitter.com/xoxzocom/) で寄り添っていただいたり、Xoxzoのメイリングリスト・[エクスチェンジ](https://info.xoxzo.com/ja/exchange-mailing-list/)へご購読をいただき、2020年に登場するXoxzoの新産物に驚いていただければ幸いです。
+
+では次回お会いするときまで、お元気で！
