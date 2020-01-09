@@ -17,6 +17,6 @@ customers.
 
 Please find the TTS function details on the [website](https://www.xoxzo.com/en/about/utilities-api/)
 and on the [documentation](http://docs.xoxzo.com/en/utilsapi.html#text-to-speech-api-ref), as well
-as the revised cost on the [price page](https://www.xoxzo.com/en/about/pricing/).
+as the revised cost on the [price page](https://www.xoxzo.com/en/about/pricing/utils).
 
 Thank you for your continuous support from the team Xoxzo.

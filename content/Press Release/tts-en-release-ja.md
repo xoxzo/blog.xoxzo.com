@@ -16,6 +16,6 @@ Xoxzo−クラウドテレフォニープラットフォーム](https://www.xoxz
 今回のTTS機能では標準の音声APIに対してオプション機能として提供させていただいています。 
 TTSの機能の詳細については、[ドキュメンテーション](http://docs.xoxzo.com/ja/utilsapi.html#text-to-speech-api-ref) と[ウェブサイト](https://www.xoxzo.com/ja/about/utilities-api/) をご確認ください。
 
-ご利用料金は、[料金ページ](https://www.xoxzo.com/ja/about/pricing/)よりご参照ください。
+ご利用料金は、[料金ページ](https://www.xoxzo.com/ja/about/pricing/utils)よりご参照ください。
 
 今後もXoxzoをどうぞよろしくお願いします。

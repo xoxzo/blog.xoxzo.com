@@ -35,7 +35,7 @@ IVRスクリプトを事前に確定する必要がありました。
 IVRまたは[**クラウドベースのIVRサービス**](https://www.xoxzo.com/ja/about/dial-in-api/)が登場した現在、
 組織内でIVRソリューションを採用することは、これまでになく容易になりました。
 
-スクリプトをいつでも編集できる[テキスト読み上げ技術](https://www.xoxzo.com/ja/about/utilities-api/)を使用して、着信した電話を[サブスクリプションベース](https://www.xoxzo.com/ja/about/pricing/#din)およびペイパーユースなどの価格モデルで、[別の番号へ転送できる機能](https://blog.xoxzo.com/ja/2017/07/01/dialinnumbers-tutorial/) があり、直通電話番号も電話会社へ連絡などの面倒もなく、[フリーダイヤルでも発信者払いの番号でも](https://www.xoxzo.com/eja/about/dial-in-api/)取得でき、文字通り指先ひとつで、IVRを設定することができるのです。
+スクリプトをいつでも編集できる[テキスト読み上げ技術](https://www.xoxzo.com/ja/about/utilities-api/)を使用して、着信した電話を[サブスクリプションベース](https://www.xoxzo.com/ja/about/pricing/voice#din)およびペイパーユースなどの価格モデルで、[別の番号へ転送できる機能](https://blog.xoxzo.com/ja/2017/07/01/dialinnumbers-tutorial/) があり、直通電話番号も電話会社へ連絡などの面倒もなく、[フリーダイヤルでも発信者払いの番号でも](https://www.xoxzo.com/eja/about/dial-in-api/)取得でき、文字通り指先ひとつで、IVRを設定することができるのです。
 
 このIVRを、あなたなら何に使いますか？溢れるようなアイディアを、集めてみました。
 

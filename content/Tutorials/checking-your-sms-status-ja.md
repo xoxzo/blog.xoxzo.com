@@ -52,7 +52,7 @@ Content-Type: application/json
 ```
 
 もちろん、`cost`の部分は、送信したメッセージの数によるわね。
-Xoxzoの[SMS送信料金](https://www.xoxzo.com/ja/about/pricing/#sms)を見て、確認してね！
+Xoxzoの[SMS送信料金](https://www.xoxzo.com/ja/about/pricing/sms)を見て、確認してね！
 
 送信したメッセージのステータスは、`DELIVERED（配信成功）`ばかりじゃないわよ。
 下のリストにまとめてみたから、参考にしてね。

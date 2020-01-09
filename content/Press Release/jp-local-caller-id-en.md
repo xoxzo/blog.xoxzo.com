@@ -16,6 +16,6 @@ This functionality will delight all the call center builders who wants to displa
 
 To use this function, you will firstly need to subscribe at least one number from our [DIN (Dial In Number) ](https://www.xoxzo.com/en/about/dial-in-api/) then use the special parameter to make calls.
 
-For more details, please see [API documentation](http://docs.xoxzo.com/en/voice.html). For pricing for this function, please visit our [Pricing Page](https://www.xoxzo.com/en/about/pricing/#voice).
+For more details, please see [API documentation](http://docs.xoxzo.com/en/voice.html). For pricing for this function, please visit our [Pricing Page](https://www.xoxzo.com/en/about/pricing/voice#outbound-call).
 
 Thank you for your continuous support from the team Xoxzo.

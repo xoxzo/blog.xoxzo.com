@@ -68,7 +68,7 @@ curl -u <API SID>:<Auth Token> https://api.xoxzo.com/voice/simple/conferences/b6
 [新規アカウント作成](https://www.xoxzo.com/ja/accounts/signup/)時に、無料で付与されるお試し用 50クレジットは、
 1通話やSMS数通、キャリア検索を数回試すのにちょうどいい量です。
 ですから、音声通話やオーディオファイルの再生、テキスト/音声通話、または会議通話のどれを試すのかを選んでください。
-また、[毎分の通話料金](https://www.xoxzo.com/ja/about/pricing/)は 40クレジット未満ですが、
+また、[毎分の通話料金](https://www.xoxzo.com/ja/about/pricing/voice#outbound-call)は 40クレジット未満ですが、
 音声通話の最小要件であるクレジットが40を超えている間に、行う必要があります。
 これは、クレジットが足りなくなる前に、通話に少なくとも数分かかることは確実だとして、こうなっているのでしょう。
 もちろん、クレジットを購入し、より多くの機能を使用し、より多くの通話を行うことができます。

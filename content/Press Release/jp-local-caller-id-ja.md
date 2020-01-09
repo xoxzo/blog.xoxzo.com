@@ -17,6 +17,6 @@ Summary: 簡潔なHTTPエンドポイントで電話につながる、Xoxzoの�
 
 この機能のご利用には、まず[DIN：ダイアルイン番号](https://www.xoxzo.com/ja/about/dial-in-api/)より着信番号をひとつ、ご契約ください。その後、電話発信の歳、追加のパラメーターを設定すると、ご利用可能です。
 
-さらなる詳細は、[API ドキュメンテーション](http://docs.xoxzo.com/ja/voice.html)を、料金については、[料金ページ](https://www.xoxzo.com/ja/about/pricing/#voice)をご参照ください。
+さらなる詳細は、[API ドキュメンテーション](http://docs.xoxzo.com/ja/voice.html)を、料金については、[料金ページ](https://www.xoxzo.com/ja/about/pricing/voice#outbound-call)をご参照ください。
 
 今後共、[Xoxzoークラウドテレフォニープラットフォーム](https://www.xoxzo.com/ja/)をどうぞよろしくお願いします。
