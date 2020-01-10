@@ -2,7 +2,7 @@ Title: PyCon Malaysia 2018
 Date: 2018-09-05 12:00 
 Slug: pycon-my-2018
 Lang: en 
-Tags: 2018; pycon; MY;
+Tags: 2018; pycon; malaysia;
 Author: Jenna Kassim
 Thumbnail: images/pycon-my-2018/IMG_9679.JPG
 Summary: PyCon Malaysia 2018

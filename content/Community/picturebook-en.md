@@ -2,7 +2,7 @@ Title: Community service at picture book read aloud session
 Date: 2018-05-29 12:00
 Lang: en
 Author: Ai Sin Chan
-Tags: community; culture; reading; books; 2018; children; work;
+Tags: japan; 2018; asia;
 Slug: picture-book-read-aloud
 Thumbnail: images/picturebook01.jpg
 Summary: Community service at picture book read aloud session

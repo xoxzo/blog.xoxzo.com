@@ -2,7 +2,7 @@ Title: Django Girls One Day Workshop in Tokyo
 Date: 2015-08-06 14:17
 Lang: en
 Author: Aiko Yokoyama
-Tags: djangogirls, 東京
+Tags: django; 2015; japan;
 Slug: django-girls-one-day-workshop-in-tokyo
 Thumbnail: images/django-girls-workshop/20278115621_c87c785323_z.jpg
 Summary: Django One day work shop at TECH LAB PAAK in Tokyo, July 26, 2015 for female who wants to start Django. The participants were not asked any background knowledge in programming.

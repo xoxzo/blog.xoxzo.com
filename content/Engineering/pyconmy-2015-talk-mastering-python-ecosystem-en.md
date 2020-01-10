@@ -2,7 +2,7 @@ Title: PyconMY 2015 Talk - Mastering Python Ecosystem
 Date: 2015-08-28 17:04
 Lang: en
 Author: Kamal Mustafa
-Tags: pycon, python, talk
+Tags: pycon; python; 2015; malaysia;
 Slug: pyconmy-2015-talk-mastering-python-ecosystem
 Thumbnail: images/pycon1.jpg
 Summary: A talk given to the very first PyCon in Malaysia

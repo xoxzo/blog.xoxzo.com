@@ -1,7 +1,7 @@
 Title: A brief history of 3G mobile communication technology
 Date: 2018-8-10 12:00
 Author: Ai Sin Chan
-Tags: 3g; technology; history; commercial; military; first phones; japan; malaysia; 2018; mobile; communication; 
+Tags: mobile technology; history; japan; malaysia; 2018; 
 Slug: history-of-3g
 Lang: en
 Thumbnail: images/3g04.jpg

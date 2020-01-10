@@ -2,7 +2,7 @@ Title: New parameter "tags" released
 Date: 2019-03-15
 Slug: tags-with-xoxzo-api
 Lang: en
-Tags: xoxzo; new release; 2019; tags;
+Tags: xoxzo; new feature; 2019; 
 Author: Iqbal Abdullah
 Summary: You can now categorize your API calls with the tags parameter
 

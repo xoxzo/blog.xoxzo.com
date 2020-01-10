@@ -2,7 +2,7 @@ Title: How to use SMS to boost your business
 Date: 2018-04-23 12:00
 Lang: en
 Author: Ai Sin Chan
-Tags: api; developers; market; economy; sms; business;
+Tags: sms api; developer; market; economy; 2018;
 Slug: boost-your-business
 Thumbnail: images/boostyourbusiness.jpg
 Summary: How SMS can be used to leverage your business in the current market

@@ -2,7 +2,7 @@ Title: Happy Birthday! We are 10 years old.
 Date: 2017-03-01 10:00
 Lang: en
 Author: Iqbal Abdullah
-Tags: 10 years; happy birthday;
+Tags: 2017; teamcamp; people;
 Slug: we-are-ten-years-old
 Thumbnail: images/company-retreat-10th/group-photo.jpg
 Summary: In Feb 2017, Xoxzo is 10 years old. We got together in Langkawi to celebrate

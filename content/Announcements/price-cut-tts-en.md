@@ -3,7 +3,7 @@ Date: 2017-03-28 14:00
 Slug: price-cut-tts
 Lang: en
 Modified: 2017-03-28 14:00
-Tags: Price Review; TTS;  
+Tags: text to speech tts; 2017;
 Author: Aiko Yokoyama
 Summary: Text-to-speech function on Xoxzo is even easier! Lower pricing for TTS.
 

@@ -1,7 +1,7 @@
 Title: Django vs Flask, which one is better?
 Date: 2019-04-3 12:01
 Author: Surya Banerjee
-Tags: django; webframework; flask; python; development;
+Tags: django; python; developer; 2019; tool; tip;
 Slug: django-vs-flask
 Lang: en
 Thumbnail: images/djangoflask/so_questions.png

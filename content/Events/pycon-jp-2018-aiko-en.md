@@ -2,7 +2,7 @@ Title: 【Xoxzo】My PyCon JP 2018
 Date: 2018-09-26
 Slug: pycon-jp-2018-aiko
 Lang: en
-Tags: pycon; sponsor; community; 2018
+Tags: pycon; sponsor; 2018;
 Author: Aiko Yokoyama
 Thumbnail: images/pycon-jp-2018/table_01.jpg
 Summary: My report of attendance for PyCon Jp 2018 on Sep/17(Mon) & 18(Tue)

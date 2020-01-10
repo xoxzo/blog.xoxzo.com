@@ -2,7 +2,7 @@ Title: Why use CLI framework ?
 Lang: en
 Date: 2017-06-18 06:04
 Author: Kamal Mustafa
-Tags: python, cli
+Tags: python, 2017; tip;
 Slug: why-use-cli-framework
 Summary: A brief look into the different approaches in how one can build cli application.
 

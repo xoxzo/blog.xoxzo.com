@@ -3,7 +3,7 @@ Date: 2016-11-14 11:00
 Slug: kof-2016-report
 Lang: en
 Modified: 2012-11-14 11:00
-Tags: kof; osaka; exhibition;
+Tags: 2016; japan;
 Author: Aiko Yokoyama
 Thumbnail: images/kof-2016/kof-booth.jpg
 Summary: We participated in the KOF 2016 and this is what we think

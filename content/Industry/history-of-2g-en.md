@@ -1,7 +1,7 @@
 Title: A brief history of 2G mobile communication technology
 Date: 2018-8-1 12:00
 Author: Ai Sin Chan
-Tags: 2g; technology; history; commercial; military; first phones; japan; malaysia; 2018; mobile; communication; 
+Tags: mobile technology; history; japan; malaysia; 2018; 
 Slug: history-of-2g
 Lang: en
 Thumbnail: images/history2g2.gif

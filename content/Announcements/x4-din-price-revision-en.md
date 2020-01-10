@@ -1,7 +1,7 @@
 Title: [Xoxzo] Price revision for Dial In Numbers
 Date: 2016-07-28 10:00
 Author: Aiko Yokoyama
-Tags: dial in numbers, price, xoxzo
+Tags: dial in number; xoxzo; 2016;
 Lang: en
 Slug: xoxzoprice-revision-for-dial-in-numbers
 Summary: We're revising our prices for our Japan toll-free and 03 Dial In Numbers

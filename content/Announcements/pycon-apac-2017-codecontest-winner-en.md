@@ -2,7 +2,7 @@ Title: PyCon APAC 2017 XOXZO code contest winner
 Date: 2017-09-11
 Slug: pycon-apac-2017-code-contest-winner
 Lang: en
-Tags: pycon apac; code; contest;  
+Tags: pycon; apac; 2017; voice api; git;
 Author: Akira Nonaka
 Summary: Announcing PyCon APAC 2017 XOXZO code contest winner
 

@@ -2,7 +2,7 @@ Title: 2017 &amp; 2018 Seasons Greetings and New Year Holidays
 Date: 2017-12-15 10:00
 Slug: EOY-Holiday-Notice-2017
 Lang: en
-Tags: end of year; 2017;
+Tags: 2017;
 Author: Aiko Yokoyama
 Summary: End of Year Holiday Notice
 

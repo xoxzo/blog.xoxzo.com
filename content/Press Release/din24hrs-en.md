@@ -3,7 +3,7 @@ Date: 2017-02-16 10:00
 Slug: din24hrs
 Lang: en
 Modified: 2017-02-16 10:00
-Tags: din; 24 hours; credits 
+Tags: dial in number; 
 Author: Aiko Yokoyama
 Summary: Xoxzo released a new rebate function for DIN 24 hours only subscription.
 

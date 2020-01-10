@@ -2,7 +2,7 @@ Title: Use git pre-commit hook to Maintain Code Quality
 Lang: en
 Date: 2019-02-22 09:00
 Author: Zaki Akhmad
-Tags: code, quality, git, pre-commit, hook 
+Tags: code; git; tip; 2019;
 Slug: use-git-pre-commit-hook-to-maintain-code-quality
 Summary: Automate checking code before committing it
 

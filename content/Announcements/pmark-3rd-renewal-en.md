@@ -2,7 +2,7 @@ Title: Our Privacy mark third renewal
 Date: 2017-08-02 10:00
 Slug: privacy-mark-3rd-renewal
 Lang: en
-Tags: PrivacyMark; xoxzo;
+Tags: privacymark; xoxzo; 2017;
 Author: Aiko Yokoyama
 Summary: Our Privacy mark has been renewed for the third time this year.
 

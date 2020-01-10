@@ -2,7 +2,7 @@ Title: The state of the communications market in 2017
 Date: 2017-11-15 12:00
 Lang: en
 Author: Iqbal Abdullah
-Tags: api; developers; market; economy; twilio; aws; 2017; cpaas; south asia; south east asia;
+Tags: sms api; market; economy; twilio alternative; aws; 2017; asia; asean;
 Slug: state-of-the-communication-market-2017
 Thumbnail: images/telecommunications.jpg
 Summary: In this post, Iqbal reflects on the state of the communications market as the end of 2017 grows closer

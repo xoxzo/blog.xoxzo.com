@@ -2,7 +2,7 @@ Title: Innofaire GeekSummit 2019
 Date: 2019-06-30 12:00
 Slug: innofaire-geeksummit-2019
 Lang: en
-Tags: 2019; innofaire; python; kl
+Tags: 2019; python; malaysia;
 Author: Kamal Mustafa
 Thumbnail: images/innofaire-2019/james-python-android.jpg
 Summary: InnoFaire is an event for tech enthusiast, innovators and makers to showcase their work, and share knowledge. I decided to join this event over the weekend after a long hiatus from joining any tech events this year ;)

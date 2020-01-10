@@ -2,7 +2,7 @@ Title: Now you can lookup your credit balance using an API
 Date: 2018-08-27 12:00
 Slug: accountapi-credit-balance
 Lang: en
-Tags: xoxzo; new release; account api; 2018;
+Tags: new feature; 2018;
 Author: Akira Nonaka
 Summary: On August 28, 2018, Lookup API for Credit Balance in your account is released.
 

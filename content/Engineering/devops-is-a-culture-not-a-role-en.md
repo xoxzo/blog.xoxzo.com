@@ -1,7 +1,7 @@
 Title: DevOps is a culture, not a role
 Date: 2019-05-12 08:45
 Author: Kamal Mustafa
-Tags: 2019, devops, culture
+Tags: 2019; devops;
 Slug: devops-is-a-culture-not-a-role
 Lang: en
 Thumbnail: images/devops-culture.jpg

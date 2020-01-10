@@ -2,7 +2,7 @@ Title: Automate Browsing to Free Up Browser Tabs, Save Time and be Productive
 Date: 2018-12-21 20:00
 Slug: automate-browsing-free-tabs-save-time-be-productive-en
 Lang: en
-Tags: python; automation; lifehack; requests; beautifulsoup; xoxzo.cloudpy;
+Tags: python; 2018; tip;
 Author: Josef Monje
 Summary: We spend a lot of time in our browser. Sometimes we dedicate a few browser tabs for some simple activity like monitoring a page for changes. But these seemingly small activities eventually end up occupying a lot of our browser's tabs, and in turn distracts us from doing more important things and maintaining our productivity. In this post, I'll walk through the process of creating a simple script to watch a Kickstarter project for deals. This is aimed at beginners or non-programmers.
 

@@ -1,7 +1,7 @@
 Title: Interview with Berkshire Media's Shahid Shayaa
 Date: 2017-10-09 12:00
 Author: Gerald
-Tags: business; voice; voice api; social media, analytics; sentiment; future; technology; 
+Tags: voice api; future; 2017;
 Slug: Interview-with-shahid-shayaa
 Lang: en
 Thumbnail: images/youtubeshahid.png

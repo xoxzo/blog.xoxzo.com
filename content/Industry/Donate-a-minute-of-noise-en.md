@@ -1,7 +1,7 @@
 Title: Donate a Minute of Noise
 Date: 2017-10-03 12:00
 Author: Gerald
-Tags: engineer; noise; noise supression; voice; voice api; webrtc
+Tags: voice api; 2017;
 Slug: Donate-a-minute-of-noise
 Lang: en
 Thumbnail: images/after.jpg

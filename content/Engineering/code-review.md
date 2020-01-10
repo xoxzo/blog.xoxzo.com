@@ -2,7 +2,7 @@ Title: Code Review is not only LGTM!
 Lang: en
 Date: 2018-11-09
 Author: Zaki Akhmad
-Tags: code, review
+Tags: code; 2018; tip; 
 Slug: code-review-is-not-only-lgtm
 Summary: Doing code review is not as simple as it seems.
 

@@ -1,7 +1,7 @@
 Title: Asizeof module usage
 Date: 2018-08-08 06:00
 Author: Arthur Sultanbekov
-Tags: asizeof; memory; tools; python; pympler;
+Tags: tool; python; 2018;
 Slug: asizeof-usage
 Lang: en
 Summary: Using asizeof module to investigate memory leaks

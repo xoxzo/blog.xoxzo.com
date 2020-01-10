@@ -1,7 +1,7 @@
 Title: Supporting HTML5 features in browsers using polyfill
 Date: 2012-04-23 11:23
 Author: Muhammad Juwaini
-Tags: html5, browsers, audio
+Tags: 2012;
 Slug: polyfilling-the-future
 Lang: en
 Thumbnail: images/860d2-6a0153916e707f970b0168ea921382970c-pi.jpg

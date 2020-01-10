@@ -2,7 +2,7 @@ Title: Japanese consumption tax will be raised to 10%
 Date: 2019-09-06
 Slug: tax-raise-10
 Lang: en
-Tags: tax; 2019;
+Tags: japan; 2019;
 Author: Aiko Yokoyama
 Summary: As Japanese consumption tax rate is going to be 10% on October 1, we will apply this to our services as well.
 

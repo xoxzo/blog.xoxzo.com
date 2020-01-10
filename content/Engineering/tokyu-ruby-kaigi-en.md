@@ -1,7 +1,7 @@
 Title: Tokyu Ruby Kaigi
 Date: 2016-06-09 10:00
 Author: Akira Nonaka
-Tags: ruby, open source
+Tags: 2016; developer; tool; open source;
 Slug: tokyu-ruby-kaigi
 Lang: en
 Thumbnail: images/tokyu-ruby-kaigi-2016/img_3913.jpg

@@ -2,7 +2,7 @@ Title: [MARITEX] End Of Service Announcement
 Date: 2016-02-01 11:30
 Slug: maritex-end-of-service-announcement
 Lang: en
-Tags: maritex; eol; goodbye; 2016;
+Tags: marimore; 2016; voice api; sms api; xoxzo; ezsms;
 Author: Iqbal Abdullah
 Summary: Goodbye from MARITEX
 

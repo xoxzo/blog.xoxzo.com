@@ -1,7 +1,7 @@
 Title: Security in Software Development Life Cycle (SDLC) - Guest Lecture at University of Indonesia
 Date: 2017-04-20 06:30
 Author: Zaki Akhmad
-Tags: security, sdlc, university of indonesia, computer science
+Tags: cyber security; indonesia; 2017;
 Lang: en
 Slug: security-in-sdlc
 Thumbnail: images/security-in-sdlc-2017.jpg

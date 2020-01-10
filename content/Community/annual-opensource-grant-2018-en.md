@@ -1,7 +1,7 @@
 Title: Our Annual Open Source grant for 2018
 Date: 2018-05-02 10:00
 Author: Iqbal Abdullah
-Tags: grant; open source; annual grant; community; oss; Python; pypi; giving back; requests; drf; 2018;
+Tags: annual open source grant; python; 2018;
 Lang: en
 Slug: annual-opensource-grant-for-2018
 Thumbnail: images/grantspayments/open-source-your-love.jpg
