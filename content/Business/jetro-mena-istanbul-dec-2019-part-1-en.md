@@ -1,11 +1,11 @@
-Title: Learning about startups with JETRO in Cairo and Istanbul (Part 1)
-Date: 2019-12-25 10:00
+Title: Part 1: Learning about startups with JETRO in Cairo and Istanbul
+Date: 2019-12-27 10:00
 Lang: en
 Author: Iqbal Abdullah
 Tags: 2019; market; startups; tech; economy; egypt; turkey; mena;
 Slug: jetro-startup-tour-to-cairo-istanbul-part-1
 Thumbnail: images/jetro-mena-ist-dec2019/pitch-by-the-pyramids.jpg
-Summary: Iqbal joined a study tour on MENA startups and the Turkey tech scene organized by JETRO
+Summary: Iqbal joined a study tour on MENA startups and the Turkey tech scene organized by JETRO. This is part 1 of a 2 part blog series.
 
 # MENA startups, Turkey tech scene and JETRO
 
