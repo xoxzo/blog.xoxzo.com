@@ -10,7 +10,7 @@ Summary: XoxzoのAPIに、「電話会議」が加わりました。一斉通知
 いつも、[Xoxzo-クラウド・テレフォニー・プラットフォーム](https://www.xoxzo.com/ja/)をご利用いただき、
 有難うございます。
 
-2017年11月1日、Xoxzoは[電話会議API](https://www.xoxzo.com/ja/about/voice-api/)をリリースしました。
+2017年11月1日、Xoxzoは[電話会議API](https://www.xoxzo.com/ja/about/voice-api/#conference)をリリースしました。
 
 複数での面会の設定をする際、参加者の予定のすり合わせに電話を何度も掛け直し、
 苦労した末に、「この電話、3人で同時に話せれば、どんなに効率がいいか…」と、切望したことはありませんか？

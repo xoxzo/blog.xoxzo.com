@@ -10,7 +10,7 @@ Summary: Xoxzo released a new rebate function for DIN 24 hours only subscription
 Thank you for your continuous support for [Xoxzo Cloud Telephony Platform](https://www.xoxzo.com/en/).
 
 On February 16, 2017, Xoxzo released a new rebate function for [DIN
-(Dial-in-Numbers)](https://www.xoxzo.com/en/about/dial-in-api/) for subscribed
+(Dial-in-Numbers)](https://www.xoxzo.com/en/about/voice-api/#din) for subscribed
 numbers released within 24 hours of subscription.
 
 The Dial In Number standard subscription plan has up until now only supported a
@@ -24,7 +24,7 @@ DINs during their development phase to integrate DINs to their system, or for
 specific use cases like authentication where the DINs are only used for a short
 period of time.
 
-The details of the rebates and it's amount can be found [here](https://www.xoxzo.com/en/about/dial-in-pricing/)
+The details of the rebates and it's amount can be found [here](https://www.xoxzo.com/en/about/pricing/voice/#din)
 
 Detailed instructions on how to use DIN can be found in the [API documentation](http://docs.xoxzo.com/en/din.html#)
 

@@ -43,7 +43,7 @@ curl -u <API SID>:<Auth Token> https://api.xoxzo.com/voice/calls/7142d264-a945-4
 
 ![apiexp2](/images/apiexp22.jpg)
 
-テキスト音声変換に満足した後、私は [会議APIウェブ](https://www.xoxzo.com/ja/about/voice-api/)から発信する電話を2つの番号に発信しました。
+テキスト音声変換に満足した後、私は [会議APIウェブ](https://www.xoxzo.com/ja/about/voice-api/#conference)から発信する電話を2つの番号に発信しました。
 両方の受信者が応答すると、その通話はブリッジされ、お互いに話すことができました。
 以下が、私の使用したコマンドとスクリーンショットです。
 
@@ -68,7 +68,7 @@ curl -u <API SID>:<Auth Token> https://api.xoxzo.com/voice/simple/conferences/b6
 [新規アカウント作成](https://www.xoxzo.com/ja/accounts/signup/)時に、無料で付与されるお試し用 50クレジットは、
 1通話やSMS数通、キャリア検索を数回試すのにちょうどいい量です。
 ですから、音声通話やオーディオファイルの再生、テキスト/音声通話、または会議通話のどれを試すのかを選んでください。
-また、[毎分の通話料金](https://www.xoxzo.com/ja/about/pricing/voice#outbound-call)は 40クレジット未満ですが、
+また、[毎分の通話料金](https://www.xoxzo.com/ja/about/pricing/voice/#outbound-call)は 40クレジット未満ですが、
 音声通話の最小要件であるクレジットが40を超えている間に、行う必要があります。
 これは、クレジットが足りなくなる前に、通話に少なくとも数分かかることは確実だとして、こうなっているのでしょう。
 もちろん、クレジットを購入し、より多くの機能を使用し、より多くの通話を行うことができます。

@@ -14,8 +14,8 @@ This functionality will delight all the call center builders who wants to displa
 *Call receivers will better know that who’s calling
 *Able to set one phone number to receive any call backs from the call receiver.
 
-To use this function, you will firstly need to subscribe at least one number from our [DIN (Dial In Number) ](https://www.xoxzo.com/en/about/dial-in-api/) then use the special parameter to make calls.
+To use this function, you will firstly need to subscribe at least one number from our [DIN (Dial In Number) ](https://www.xoxzo.com/en/about/voice-api/#din) then use the special parameter to make calls.
 
-For more details, please see [API documentation](http://docs.xoxzo.com/en/voice.html). For pricing for this function, please visit our [Pricing Page](https://www.xoxzo.com/en/about/pricing/voice#outbound-call).
+For more details, please see [API documentation](http://docs.xoxzo.com/en/voice.html). For pricing for this function, please visit our [Pricing Page](https://www.xoxzo.com/en/about/pricing/voice/#outbound-call).
 
 Thank you for your continuous support from the team Xoxzo.

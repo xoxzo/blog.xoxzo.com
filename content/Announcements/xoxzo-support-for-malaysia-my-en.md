@@ -16,7 +16,7 @@ functionality for their application or web services, [Xoxzo - Cloud
 Telephony Platform](https://www.xoxzo.com/en/) now also provide the same
 beautiful APIs for [SMS
 Sending](https://www.xoxzo.com/en/about/sms-api/), [Voice](https://www.xoxzo.com/en/about/voice-api/)
-and [Dial In Numbers](https://www.xoxzo.com/en/about/dial-in-api/) to
+and [Dial In Numbers](https://www.xoxzo.com/en/about/voice-api/#din) to
 developers and businesses in Malaysia
 
 The details of each feature can be found in the linked pages, or you may

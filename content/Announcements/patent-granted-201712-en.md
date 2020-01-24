@@ -24,6 +24,6 @@ While the patent system allows inventors to monopolize inventions,
 it is a system to promote new technological development with hints as it publishes its invention instead.
 Indeed, it can be said that the patent system is one of the pillars supporting Japan's economic growth.
 
-Xoxzo hopes Xoxzo's [DIN API](https://www.xoxzo.com/en/about/dial-in-api/) 
+Xoxzo hopes Xoxzo's [DIN API](https://www.xoxzo.com/en/about/voice-api/#din)
 that is based on this technology are to be used for various purposes, 
 and it will help to revitalize the current and the future application development.
