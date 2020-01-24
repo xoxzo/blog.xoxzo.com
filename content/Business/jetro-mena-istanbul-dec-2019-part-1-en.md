@@ -164,3 +164,5 @@ investments in the sectors above.
 
 In the morning of the third day, we checked out of our hotel and took the 9:35AM
 flight out of Cairo heading to Istanbul for then second leg of our study tour.
+
+Continue reading about the trip on our second part of the series: [Part 2: Learning about startups with JETRO in Cairo and Istanbul]({filename}/Business/jetro-mena-istanbul-dec-2019-part-2-en.md)
