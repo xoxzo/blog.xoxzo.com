@@ -44,7 +44,7 @@ Content-Type: application/json
 }
 ```
 
-Of course, the cost will depend on which number you are sending too. You can get the pricing details here: [SMS Pricing](https://www.xoxzo.com/en/about/pricing/#sms)
+Of course, the cost will depend on which number you are sending too. You can get the pricing details here: [SMS Pricing](https://www.xoxzo.com/en/about/pricing/sms)
 
 The SMS statuses are in this list:
 <table class="table table-striped">

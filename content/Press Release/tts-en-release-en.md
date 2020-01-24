@@ -17,6 +17,6 @@ For more details on using TTS with our voice API, please refer to
 [the documentation](http://docs.xoxzo.com/en/utilsapi.html#text-to-speech-api-ref) and
 [the website](https://www.xoxzo.com/en/about/utilities-api/).
 
-Please find the prices on our [price page](https://www.xoxzo.com/en/about/pricing/).
+Please find the prices on our [price page](https://www.xoxzo.com/en/about/pricing/utils/).
 
 Thank you for your continuous support from the team Xoxzo.

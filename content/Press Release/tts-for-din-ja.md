@@ -14,9 +14,9 @@ Summary: テキスト読み上げ機能（TTS）が着信電話(DIN)にも加わ
 
 今回のリリースでは、これまでご利用いただいておりました、VOICE（音声）API上でのテキスト読み上げ機能に加え、着信電話サービスAPI上でも、テキスト読み上げ機能（TTS）がご利用いただけるようになったことで、電話をかけるだけでなく、DIN用に取得いただいた専用電話番号にて着信を受けた電話にて、お好みの内容の通知文を、音声にて読み上げることが可能になりました。
 
-DINの機能の詳細については、[ドキュメンテーション](http://docs.xoxzo.com/ja/din.html) と[ウェブサイト](https://www.xoxzo.com/ja/about/dial-in-api/) をご確認ください。
+DINの機能の詳細については、[ドキュメンテーション](http://docs.xoxzo.com/ja/din.html) と[ウェブサイト](https://www.xoxzo.com/ja/about/voice-api/#din) をご確認ください。
 
-ご利用料金は、[料金ページ](https://www.xoxzo.com/ja/about/dial-in-pricing/)よりご参照ください。
+ご利用料金は、[料金ページ](https://www.xoxzo.com/ja/about/pricing/voice/#din)よりご参照ください。
 
 今後も[Xoxzo](https://info.xoxzo.com/ja/)をどうぞよろしくお願いします。
 

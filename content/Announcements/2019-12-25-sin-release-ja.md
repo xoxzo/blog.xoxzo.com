@@ -55,7 +55,7 @@ SMS受信APIのご利用には、
 
 が必要です。
 
-詳しくは、[料金ページ](https://www.xoxzo.com/ja/about/pricing/#sms)にてご確認ください。
+詳しくは、[料金ページ](https://www.xoxzo.com/ja/about/pricing/sms)にてご確認ください。
 
 ご不明な点がございましたら、ヘルプデスク (help@xoxzo.com)までご連絡ください。
 

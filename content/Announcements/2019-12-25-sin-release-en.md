@@ -57,7 +57,7 @@ The cost of using Receive SMS messages API are as below.
 3. SMS receiving Cost (per incoming message received）
 
 
-For the detailed cost, please visit [Price Page](https://www.xoxzo.com/en/about/pricing/#sms).
+For the detailed cost, please visit [Price Page](https://www.xoxzo.com/en/about/pricing/sms).
 
 Please contact Help Desk ( help@xoxzo.com ) for any questions.
 

@@ -12,7 +12,7 @@ Summary: 株式会社キャリアマート （Career Mart inc. ）は、顧客�
 
 以下は株式会社キャリアマート様のコメントです。
 
-> 顧客様へのサービスの一環として、EZSMSのWebインターフェースを使ったSMS送信機能を利用しています。将来的に、別サービスとなっている[XoxzoのDIN着信機能](https://www.xoxzo.com/ja/about/dial-in-api/)を使ったサービスを追加して行きたいです。
+> 顧客様へのサービスの一環として、EZSMSのWebインターフェースを使ったSMS送信機能を利用しています。将来的に、別サービスとなっている[XoxzoのDIN着信機能](https://www.xoxzo.com/ja/about/voice-api/#din)を使ったサービスを追加して行きたいです。
 
 【株式会社キャリアマートについて】
 
