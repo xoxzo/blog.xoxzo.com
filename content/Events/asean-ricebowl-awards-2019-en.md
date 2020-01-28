@@ -1,12 +1,13 @@
 Title: ASEAN Rice Bowl Startup Awards 2019
 Date: 2020-01-21 18:00
 Slug: asean-ricebowl-awards-2019
+Thumbnail: images/arbsa-2019/ARBSA_thumbnail.jpg 
 Lang: en
 Tags: asean; 2019; startup;
 Author: Abdul Rahman Ibrahim
 Summary: Xoxzo visits an awards for acknowledging the best of South East Asian's startups
 
-![The Group of 2019](images/asean/group.jpg)
+![The Group of 2019](images/arbsa-2019/asean/group.jpg)
 On the 15th and 16th of January 2020, the ASEAN Rice Bowl Startup Awards (ARBSA) 2019 was held in Sasana Kijang, a convention center for Bank Negara Malaysia in the heart of Malaysia's capital, Kuala Lumpur.
 
 Taking cue from the Malaysian Rice Bowl Awards held earlier, the two day event was preceded by panel talks, keynotes and even one debate. 
@@ -22,10 +23,10 @@ The debate on "Are Malaysian Startups Worth Investing In?" drew in some heated d
 
 More women CEO's and founders are being brought forwards and center, which inspires and promote the diversity of featured leaders that ARBSA is aiming for.
 
-![Panel talk](images/asean/arbsa01.jpg)
-![Panel talk](images/asean/arbsa02.jpg)
-![Keynote](images/asean/arbsa03.jpg)
-![Winners](images/asean/arbsa04.jpg)
+![Panel talk](images/arbsa-2019/asean/arbsa01.jpg)
+![Panel talk](images/arbsa-2019/asean/arbsa02.jpg)
+![Keynote](images/arbsa-2019/asean/arbsa03.jpg)
+![Winners](images/arbsa-2019/asean/arbsa04.jpg)
 
 Here's a list of regional champions for ARBSA 2019:
 
@@ -51,6 +52,6 @@ Congratulations to all the winners of 2019!
 Bonus side trip:
 While the talks and keynotes are the main draws of the event, the audience was also drawn to the attention of the adjoining museum which even featured an art gallery on the rooftop. There was roughly an hour before it closes after the talks of Day 1 so I made a short visit and took a few pictures as well.
 
-![Coin press](images/asean/museum01.jpg)
-![Coin tree](images/asean/museum02.jpg)
-![Tokens](images/asean/museum03.jpg)
+![Coin press](images/arbsa-2019/asean/museum01.jpg)
+![Coin tree](images/arbsa-2019/asean/museum02.jpg)
+![Tokens](images/arbsa-2019/asean/museum03.jpg)
