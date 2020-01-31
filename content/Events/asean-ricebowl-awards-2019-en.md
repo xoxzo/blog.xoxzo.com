@@ -22,10 +22,7 @@ The debate on "Are Malaysian Startups Worth Investing In?" drew in some heated d
 
 More women CEO's and founders are being brought forwards and center, which inspire and promote the diversity of featured leaders that ARBSA is aiming for.
 
-![Panel talk](images/asean/arbsa01.jpg)
-![Panel talk](images/asean/arbsa02.jpg)
-![Keynote](images/asean/arbsa03.jpg)
-![Winners](images/asean/arbsa04.jpg)
+![Event pictures](images/asean/arbsacollage.jpg)
 
 Here's a list of regional champions for ARBSA 2019:
 
@@ -51,6 +48,4 @@ Congratulations for all the winners of 2019!
 Bonus side trip:
 While the talks and keynotes are the main draw of the event, the audience was also drawn to the attention of the adjoining museum which even featured an art gallery on the rooftop. There was roughly an hour before it closes after the talks of Day 1 so I made a short visit and took a few pictures as well.
 
-![Coin press](images/asean/museum01.jpg)
-![Coin tree](images/asean/museum02.jpg)
-![Tokens](images/asean/museum03.jpg)
+![National Bank Museum](images/asean/museumcollage.jpg)
