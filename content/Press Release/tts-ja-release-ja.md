@@ -21,7 +21,7 @@ Summary: Xoxzoクラウドテレフォニープラットフォームでは、テ
 TTSの機能の詳細について[ドキュメンテーション](http://docs.xoxzo.com/ja/utilsapi.html#text-to-speech)
 と[ウェブサイト](https://www.xoxzo.com/ja/about/utilities-api/)をご確認ください。
 
-ご利用料金は、[料金ページ](https://www.xoxzo.com/ja/about/utilities-pricing/)よりご参照ください。
+ご利用料金は、[料金ページ](https://www.xoxzo.com/ja/about/pricing/utils/)よりご参照ください。
 
 今後もXoxzoをどうぞよろしくお願いします。
 

@@ -10,7 +10,7 @@ Summary: Conference-call API is now available at Xoxzo!! On top of our already c
 Thank you for using [Xoxzo, Cloud Telephony Platform](https://www.xoxzo.com/en/).
 
 On November 1, 2017, Xoxzo has made another release of function called
-[Conference Call API](https://www.xoxzo.com/en/about/voice-api/).
+[Conference Call API](https://www.xoxzo.com/en/about/voice-api/#conference).
 
 Have you ever struggled with setting up a meeting of 3 people, to call this
 person and another for confirming their availabilities? Have you dreamt for
