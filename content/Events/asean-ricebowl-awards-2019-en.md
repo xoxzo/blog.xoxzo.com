@@ -27,22 +27,22 @@ More women CEO's and founders are being brought forwards and center, which inspi
 
 Here's a list of regional champions for ARBSA 2019:
 
-Best e-Commerce & Supply Chain Startup: EasyParcel (Malaysia)
-Best AI/Machine Learning Startup: Kata.ai (Indonesia)
-Best Coworking Space: Common Ground (Malaysia)
-Best Fintech Startup: YouTrip (Singapore)
-Best FoodTech/AgriTech Startup: VillageLink (Myanmar)
-Best IoT Startup: Qlue (Indonesia)
-Best Life Helper: Fixzy (Thailand)
-People's Choice Award: BIG Agent (Indonesia)
-Best Newcomer: Teky (Vietnam)
-Best Accelerator or Incubator Program: 1337 Ventures (Malaysia)
-Founder of the Year: Kengo Kitaura of Agribuddy (Cambodia)
-Investor of the Year: Gobi Partners (Malaysia)
+Best e-Commerce & Supply Chain Startup: **EasyParcel** (Malaysia)<br>
+Best AI/Machine Learning Startup: **Kata.ai** (Indonesia)<br>
+Best Coworking Space: **Common Ground** (Malaysia)<br>
+Best Fintech Startup: **YouTrip** (Singapore)<br>
+Best FoodTech/AgriTech Startup: **VillageLink** (Myanmar)<br>
+Best IoT Startup: **Qlue** (Indonesia)<br>
+Best Life Helper: **Fixzy** (Thailand)<br>
+People's Choice Award: **BIG Agent** (Indonesia)<br>
+Best Newcomer: **Teky** (Vietnam)<br>
+Best Accelerator or Incubator Program: **1337 Ventures** (Malaysia)<br>
+Founder of the Year: **Kengo Kitaura** of Agribuddy (Cambodia)<br>
+Investor of the Year: **Gobi Partners** (Malaysia)<br>
 
 and finally:
 
-ASEAN's Startup of the Year: YouTrip (Singapore)
+ASEAN's Startup of the Year: **YouTrip** (Singapore)
 
 Congratulations to all the winners of 2019!
 
