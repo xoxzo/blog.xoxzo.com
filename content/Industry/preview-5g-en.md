@@ -48,3 +48,7 @@ In Japan, NTT DOCOMO had conducted [numerous trials in 2018](https://www.nttdoco
 •	Device to device communication (D2D)
 
 Research and development on 5G is still under way, and many developments will continue to unfold in the years to come. 
+
+[LiveTiles](https://www.livetiles.nyc/5g-the-returns-the-risks-and-rosey-the-robot) also prepared a nice infographic explaining the potential - and the pitfalls - of 5G. Take a look!
+
+![5g](/images/LiveTiles-FINAL-Infographic-1.jpg)
