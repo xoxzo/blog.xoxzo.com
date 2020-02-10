@@ -5,7 +5,7 @@ Author: Iqbal Abdullah
 Tags: 2020; market; startups; tech; economy; turkey; jetro;
 Slug: jetro-startup-tour-to-cairo-istanbul-part-2
 Thumbnail: images/jetro-mena-ist-dec2019/istanbul-skyline.jpg
-Summary: Iqbal joined a study tour on MENA startups and the Turkey tech scene organized by JETRO. This is part 2 of a 2 part blog series.
+Summary: Xoxzo代表のイクバルは、MENA（中東・北アフリカ）地域のスタートアップとトルコのテックシーンを学ぶJetro主催の研修旅行に参加しました。2部ブログの第2部です。
 
 このシリーズのパート1をまだお読みでなければ、以下よりご覧いただけます。
 [Part 1: カイロとイスタンブールでJETROと共にスタートアップについて学ぶ]({filename}/Business/jetro-mena-istanbul-dec-2019-part-1-ja.md)
