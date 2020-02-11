@@ -11,6 +11,8 @@ Every March all of us get together for around one week, for what we call the
 Spring Team Camp.
 ![Xoxzo People at GWave]({filename}/images/oka-teamcamp-2019/IMG_9166-gwave-group-picture.jpg)
 
+Last year [we all gathered in Jeju island for a few days]({filename}/The Way We Work/cju-team-camp-2018-en.md).
+
 # Spring 2019 is here
 
 The Spring Team Camp is an important occassion for Xoxzo. It is a time when we
