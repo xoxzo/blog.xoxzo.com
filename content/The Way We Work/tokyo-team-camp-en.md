@@ -102,3 +102,5 @@ Last but not least, to close our team camp, we had our team dinner at
 Japanese restaurant. But unfortunately we missed the karaoke part. After
 all, it was an amazing week: working and spending time with your
 colleagues and their families.
+
+See you again [next year]({filename}/Events/we-are-10-years-old-en.md)!
