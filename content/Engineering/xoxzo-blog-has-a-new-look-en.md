@@ -29,8 +29,8 @@ PLUGINS = [..., 'advthumbnailer']
 ```
 
 ##### 2. Add `Thumbnail` metadata to your blog post
-```markdown
-# new_blog_content.md
+```html
+<!-- new_blog_content.md -->
 Title: Xoxzo blog has a new look!
 Date: 2020-02-10 13:00 
 Slug: xoxzo-blog-has-a-new-look
@@ -42,6 +42,7 @@ Thumbnail: images/blog_thumbnail.png
 
 ##### 3. Put `article.thumbnail` in `<img>` tag and set image size. Also, don't forget to add a default thumbnail image.
 ```html
+<!-- index.html -->
 <a href="{{ SITEURL }}/{{ article.url }}">
   {% if article.thumbnail %}
   <img src="{{ SITEURL }}/{{ article.thumbnail | thumbnail('350x_') }}">
