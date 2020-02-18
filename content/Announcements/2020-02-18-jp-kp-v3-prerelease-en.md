@@ -1,6 +1,6 @@
 Title: [Xoxzo] K-premium service v3 release!!
 Date: 2020-02-18
-Slug: jp-kp-v3-notice
+Slug: jp-kp-v3-prerelease
 Lang: en
 Tags: Xoxzo; 2020; k-premium;
 Author: Aiko Yokoyama
