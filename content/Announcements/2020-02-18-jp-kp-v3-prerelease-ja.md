@@ -1,6 +1,6 @@
 Title: 【Xoxzo】Kプレミアムサービス・v3 開始のお知らせ
 Date: 2020-02-18
-Slug: jp-kp-v3-notice
+Slug: jp-kp-v3-prerelease
 Lang: ja
 Tags: Xoxzo; Kプレミアム; 2020; k-premium;
 Author: Aiko Yokoyama
