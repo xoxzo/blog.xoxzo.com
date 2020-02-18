@@ -61,5 +61,5 @@ every 30 days until you cancel.
 - Other than the SenderID registered as of January 31 are not available to use any longer without additional registration.
 In case of the additional registration, please note that the service will start after 2 weeks.
 
-For more details, please visit [Service introduction](https://www.xoxzo.com/ja/about/sms-api/#k-premium) or/and
-[Xoxzo Help Center](https://help.xoxzo.com/ja/xoxzo-cloud-telephony-platform/articles/the-k-premium-service/).
+For more details, please visit [Service introduction](https://www.xoxzo.com/en/about/sms-api/#k-premium) or/and
+[Xoxzo Help Center](https://help.xoxzo.com/en/xoxzo-cloud-telephony-platform/articles/the-k-premium-service/).
