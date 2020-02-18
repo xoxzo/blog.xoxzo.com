@@ -1,62 +1,65 @@
-Title: 【Xoxzo】Kプレミアムサービス・v3 開始のお知らせ
+Title: [Xoxzo] K-premium service v3 release!!
 Date: 2020-02-18
 Slug: jp-kp-v3-notice
-Lang: ja
-Tags: Xoxzo; Kプレミアム; 2020; k-premium;
+Lang: en
+Tags: Xoxzo; 2020; k-premium;
 Author: Aiko Yokoyama
-Summary: ご愛顧いただいております Kプレミアムサービスのアップグレードが開始となります。
+Summary: Further enhanced K-premium service version 3 is going to be released on 2020/02/20.
 
-平素は、[Xoxzo クラウド・テレフォニー・プラットフォーム](https://www.xoxzo.com/ja/)をご利用いただき、誠にありがとうございます。
+Thank you for using [Xoxzo Cloud Telephony Platform](https://www.xoxzo.com/en/).
 
-2020年2月20日、カスタマイズ可能な送信元IDのご利用いただけるAU（KDDI）キャリア直収サービスを
-メインとした [Kプレミアムサービス](https://help.xoxzo.com/ja/xoxzo-cloud-telephony-platform/articles/the-k-premium-service/) が
-バージョン3にアップグレードされますので、下記の通りお知らせ申し上げます。
+[K-premium Service](https://help.xoxzo.com/en/xoxzo-cloud-telephony-platform/articles/the-k-premium-service/),
+AU(KDDI) carrier direct service that can use customizable senderID will enhance and expand its reach and reborn as K-premium service version 3.
 
-ご不明な点等ございましたら、ヘルプデスク help@xoxzo.com まで、お気軽にお問い合わせをいただけますよう、よろしくお願い致します。
+Please find the details of this updates as below.
+For any questions, please do not hesitate to contact us at helpdesk help@xoxzo.com.
 
-## Kプレミアムサービス・リニューアル詳細
-
-### 変更内容：
+### What's new in K-premium service version 3?
 
 <div class="table-responsive">
   <table border="1" cellpadding="10" cellspacing="1">
     <tr>
-      <th>内容</th>
-      <th>現行</th>
-      <th>変更後</th>
+      <th> </th>
+      <th>Current</th>
+      <th>Update to</th>
     </tr>
     <tr>
-      <td>指定送信元IDでの直収サービス</td>
-      <td>AUのみ</td>
-      <td>AU および NTTドコモ</td>
+      <td>Direct service with designated SenderID</td>
+      <td>AU (KDDI) only</td>
+      <td>AU & NTT Docomo</td>
     </tr>
      <tr>
-      <td>送信元IDのご登録</td>
-      <td>無料</td>
-      <td>1IDあたり 50,000円 / 30日ごと</td>
+      <td>SenderID registration</td>
+      <td>Free of charge</td>
+      <td> 50,000 JPY / 1 ID / 30 days</td>
     </tr>
     <tr>
-      <td>Kプレミアム送信料金</td>
-      <td>13円 / 送信</td>
-      <td>11円 / 送信</td>
+      <td>K-premium Sending Cost</td>
+      <td>13 JPY / SMS</td>
+      <td>11 JPY / SMS</td>
     </tr>
      <tr>
-      <td>送信元ID登録期間</td>
-      <td>3日間</td>
-      <td>2週間</td>
+      <td>Registration of a SenderID</td>
+      <td>3 days</td>
+      <td>2 weeks</td>
     </tr>
   </table>
 </div>
-＊ソフトバンク向けの配信は、固定番号での直収サービスとなります。
+- the sendings to SoftBank numbers will be direct routing with fixed senderID.
 
 
-- 1月31日（金）時点でご利用の送信元IDにつきまして、30日ごとのご登録料金のご請求が始まります。
+- For the sender ID used as of January 31 (Fri), billing for registration fee every 30 days will start.
 
-- Kプレミアム送信の料金が、SMS1通あたり11円となります。AU（KDDI）およびNTTドコモ宛の送信に対し直収サービスとなり、ご指定いただいた送信元IDにてエンドユーザー様へのSMS配信が行われます。（ソフトバンクへの配信は、通常送信となります）
+- The K-premium sending fee becomes 11 yen per SMS. 
+It is a direct collection service for sending to AU (KDDI) and NTT DOCOMO, 
+and SMS will be delivered to the recipients using the specified SenderID. (Sending to SoftBank will be unchanged)
 
-- 今後の、送信元IDの新規ご登録は、2週間を要しますので、余裕を持ってご連絡ください。登録されましたら登録料金が発生し、ご解約いただくまで30日ごとに月額登録料をご請求させていただきます。
+- Subsequent registration of the additional SenderID will take 2 weeks, so please contact us with a margin. 
+Once you have registered, you will be charged a registration fee, and you will be charged a monthly registration fee 
+every 30 days until you cancel.
 
-- 1月31日時点で登録されていた送信元ID以外は、ご利用不可となり、追加の申込みが必要となります。その場合、ご利用開始は2週間後からとなりますのでご注意ください。
+- Other than the SenderID registered as of January 31 are not available to use any longer without additional registration.
+In case of the additional registration, please note that the service will start after 2 weeks.
 
-詳しくは、[サービスページ](https://www.xoxzo.com/ja/about/sms-api/#k-premium) および
-[ヘルプセンター](https://help.xoxzo.com/ja/xoxzo-cloud-telephony-platform/articles/the-k-premium-service/) をご参照ください。
+For more details, please visit [Service introduction](https://www.xoxzo.com/ja/about/sms-api/#k-premium) or/and
+[Xoxzo Help Center](https://help.xoxzo.com/ja/xoxzo-cloud-telephony-platform/articles/the-k-premium-service/).
