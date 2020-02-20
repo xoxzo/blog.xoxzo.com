@@ -1,5 +1,6 @@
 Title: [Xoxzo] K-premium service v3 release!!
 Date: 2020-02-18
+Modified: 2020-02-20
 Slug: jp-kp-v3-prerelease
 Lang: en
 Tags: Xoxzo; 2020; k-premium;
@@ -52,7 +53,7 @@ For any questions, please do not hesitate to contact us at helpdesk help@xoxzo.c
 
 - The K-premium sending fee becomes 11 yen per SMS. 
 It is a direct collection service for sending to AU (KDDI) and NTT DOCOMO, 
-and SMS will be delivered to the recipients using the specified SenderID. (Sending to SoftBank will be unchanged)
+and SMS will be delivered to the recipients using the specified SenderID. (Sending to SoftBank will be unchanged, direct routing with fixed senderID)
 
 - Subsequent registration of the additional SenderID will take 2 weeks, so please contact us with a margin. 
 Once you have registered, you will be charged a registration fee, and you will be charged a monthly registration fee 
