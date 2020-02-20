@@ -46,7 +46,7 @@ For any questions, please do not hesitate to contact us at helpdesk help@xoxzo.c
     </tr>
   </table>
 </div>
-* the sendings to SoftBank numbers will be direct routing with fixed senderID.
+<span>*</span> The sendings to SoftBank numbers will be direct routing with fixed senderID.
 
 - For the sender ID used as of January 31 (Fri), billing for registration fee every 30 days will start.
 
