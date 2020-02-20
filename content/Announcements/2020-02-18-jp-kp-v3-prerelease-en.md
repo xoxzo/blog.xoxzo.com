@@ -17,7 +17,7 @@ For any questions, please do not hesitate to contact us at helpdesk help@xoxzo.c
 
 ### What's new in K-premium service version 3?
 
-<div class="table-responsive">
+<div class="table-responsive mb-4">
   <table border="1" cellpadding="10" cellspacing="1">
     <tr>
       <th> </th>
@@ -46,8 +46,8 @@ For any questions, please do not hesitate to contact us at helpdesk help@xoxzo.c
     </tr>
   </table>
 </div>
-- the sendings to SoftBank numbers will be direct routing with fixed senderID.
 
+- the sendings to SoftBank numbers will be direct routing with fixed senderID.
 
 - For the sender ID used as of January 31 (Fri), billing for registration fee every 30 days will start.
 
