@@ -10,7 +10,7 @@ Summary: Looking back how Kpremium service kept updated till today along with ou
 As you use Xoxzo APIs, do you have any worries or wishes if something could be done in this way, etc? 
 We Xoxzo are always looking at the upgrading of our service, with the base philosophy of **Keizoku Kaizen**.
 
-For example, our [K-premium service](https://help.xoxzo.com/en/xoxzo-cloud-telephony-platform/articles/the-k-premium-service/) 
+For example, our [K-premium service](https://help.xoxzo.com/en/xoxzo-cloud-telephony/articles/the-k-premium-service/) 
 has been evolving from time to time with continuous improvement. 
 This is an optional service that can be applied to the sending directly to the Japanese domestic carriers.
 

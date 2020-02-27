@@ -9,7 +9,7 @@ Summary: EZSMS is now available in English. Send Bulk/Marketing/Reminder/customi
 
 
 Thank for using [EZSMS, international SMS delivery service](https://www.ezsms.biz/ja/) & 
-[Xoxzo - Cloud Telephony platform](https://www.xoxzo.com/en/).
+[Xoxzo - Cloud Telephony](https://www.xoxzo.com/en/).
 
 We are glad to announce that on at around 8.00 pm on December 18, 2018, our EZSMS, which has been loved and demanded for 7 years since its launch, comes up to a new stage.
 

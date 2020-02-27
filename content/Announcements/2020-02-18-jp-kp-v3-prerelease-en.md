@@ -9,7 +9,7 @@ Summary: Further enhanced K-premium service version 3 is going to be released on
 
 Thank you for using [Xoxzo Cloud Telephony Platform](https://www.xoxzo.com/en/).
 
-[K-premium Service](https://help.xoxzo.com/en/xoxzo-cloud-telephony-platform/articles/the-k-premium-service/),
+[K-premium Service](https://help.xoxzo.com/en/xoxzo-cloud-telephony/articles/the-k-premium-service/),
 AU(KDDI) carrier direct service that can use customizable senderID will enhance and expand its reach and reborn as K-premium service version 3.
 
 Please find the details of this updates as below.
@@ -62,4 +62,4 @@ every 30 days until you cancel.
 In case of the additional registration, please note that the service will start after 2 weeks.
 
 For more details, please visit [Service introduction](https://www.xoxzo.com/en/about/sms-api/#k-premium) or/and
-[Xoxzo Help Center](https://help.xoxzo.com/en/xoxzo-cloud-telephony-platform/articles/the-k-premium-service/).
+[Xoxzo Help Center](https://help.xoxzo.com/en/xoxzo-cloud-telephony/articles/the-k-premium-service/).

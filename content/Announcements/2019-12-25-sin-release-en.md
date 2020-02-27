@@ -30,7 +30,7 @@ There are unlimited things you can do with this API:
 
 ## How to use Receive SMS Messages API？
 Please refer [Documentation](https://docs.xoxzo.com/en/sms.html#receive-sms-messages-api)
-and [Help page](https://help.xoxzo.com/en/xoxzo-cloud-telephony-platform/articles/what-is-sin/) for details.
+and [Help page](https://help.xoxzo.com/en/xoxzo-cloud-telephony/articles/what-is-sin/) for details.
 
 Here shows the easy steps to start,
 

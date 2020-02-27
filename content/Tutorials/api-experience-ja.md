@@ -63,7 +63,7 @@ curl -u <API SID>:<Auth Token> https://api.xoxzo.com/sms/messages/
 ですから、次に、[SMSの送信](https://blog.xoxzo.com/ja/2017/10/31/sending-your-first-sms/) を試したのです。こちらが、私の使ったコマンドで、続いてコマンドプロンプトのスクリーンショットです：
 
 ```
-curl -u <API SID>:<Auth Token> --data-urlencode "sender=XoxzoBlog" --data-urlencode "recipient=+81yyyyyyyy" --data-urlencode "message=これは初めてのSMSです。Xoxzoプラットフォームから送っています。" https://api.xoxzo.com/sms/messages/
+curl -u <API SID>:<Auth Token> --data-urlencode "sender=XoxzoBlog" --data-urlencode "recipient=+81yyyyyyyy" --data-urlencode "message=これは初めてのSMSです。Xoxzoから送っています。" https://api.xoxzo.com/sms/messages/
 ```
 
 ![apiexp8](/images/apiexp8.jpg)

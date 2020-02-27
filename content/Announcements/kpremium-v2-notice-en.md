@@ -13,14 +13,14 @@ We are excited to announce that our K-Premium service will be upgraded on **5th 
 
 ![k-premium-logo](/images/k-v2-s.png)
 
-Originally, the current [K-Premium service](https://help.xoxzo.com/en/xoxzo-cloud-telephony-platform/articles/the-k-premium-service/) was released in 2013, as an optional feature for our sister
+Originally, the current [K-Premium service](https://help.xoxzo.com/en/xoxzo-cloud-telephony/articles/the-k-premium-service/) was released in 2013, as an optional feature for our sister
 SMS API service [SMS Delivery Service, EZSMS](https://www.ezsms.biz/ja/).
 
 Although requiring registration and an approval before use,
 K-Premium has been a popular optional service because it allows you to set the
 sender id and uses a direct route for KDDI recipients.
 
-The upgrade to be released for [K-Premium service](https://help.xoxzo.com/en/xoxzo-cloud-telephony-platform/articles/the-k-premium-service/) will allow direct connections to all Japanese operators,
+The upgrade to be released for [K-Premium service](https://help.xoxzo.com/en/xoxzo-cloud-telephony/articles/the-k-premium-service/) will allow direct connections to all Japanese operators,
 and not only limited to KDDI.
 
 The major points of this upgrade are:
