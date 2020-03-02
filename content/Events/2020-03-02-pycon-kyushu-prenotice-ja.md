@@ -24,6 +24,7 @@ _PyCon Kyushu ウェブサイトより_
 
 - [2017年のPyCon mini 熊本](https://blog.xoxzo.com/ja/2017/04/27/pycon-kumamoto-2017-report/)
 - [2018年のPyCon Kyushu](https://blog.xoxzo.com/ja/2018/07/11/pycon-kyushu-2018-report/)
+
 そして、2020年の PyCon Kyushu 参加となるXoxzoは、12:50よりスポンサーLTを行います。
 
 当日会場でお会いできますのを、楽しみにしております。
