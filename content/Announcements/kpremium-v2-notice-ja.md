@@ -13,7 +13,7 @@ Summary: これまで KDDI(au)向けの送信をより確かな到達率でサ�
 
 ![k-premium-logo](/images/k-v2-s.png)
 
-元を辿ると、2013年にSMS配信サービス・EZSMS上でリリースされ、ご好評を頂いております[Kプレミアムサービス](https://help.xoxzo.com/ja/xoxzo-cloud-telephony-platform/articles/the-k-premium-service/)は、
+元を辿ると、2013年にSMS配信サービス・EZSMS上でリリースされ、ご好評を頂いております[Kプレミアムサービス](https://help.xoxzo.com/ja/xoxzo-cloud-telephony/articles/the-k-premium-service/)は、
 日本のauのエンドユーザ様にショートメッセージを配信するために特化した、オプションのサービスです。
 ご利用には、事前の登録と審査が必要ですが、配信元IDが固定できたり、KDDIとの直収となるため、メリットを感じていただけるサービスとなっております。
 

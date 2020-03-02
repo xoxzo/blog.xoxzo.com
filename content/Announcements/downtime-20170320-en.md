@@ -7,7 +7,7 @@ Tags: downtime;
 Author: Aiko Yokoyama
 Summary: Xoxzo will have 10 minutes downtime for maintenance on 2017-03-20 from 2200 (JST) 
 
-The upcoming Monday, March 20, 2017 Xoxzo Cloud Telephony platform will be
+The upcoming Monday, March 20, 2017 Xoxzo Cloud Telephony will be
 performing maintenance on it's database. The necessary downtime for this purpose
 will start 2200 (JST) for about 10 minutes. During this time users will not be able
 to use any part of our service of Xoxzo.

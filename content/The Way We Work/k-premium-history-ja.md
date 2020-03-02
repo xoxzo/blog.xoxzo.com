@@ -11,7 +11,7 @@ Summary: Xoxzoの企業理念のひとつ「継続改善」により、進化し
 Xoxzoのご利用において、ちょっと気になったり、「こうだったら、いいのにな」と思うことはありませんか。
 Xoxzoの企業理念に「継続改善」がある通り、Xoxzoではサービス向上のため、日々、機能やサービスの向上に努めています。
 
-例えば、国内キャリアへの配信に特化したオプションサービス、[【Kプレミアムサービス】](https://help.xoxzo.com/ja/xoxzo-cloud-telephony-platform/articles/the-k-premium-service/)。このサービスも常に進化し、向上を続けてきました。
+例えば、国内キャリアへの配信に特化したオプションサービス、[【Kプレミアムサービス】](https://help.xoxzo.com/ja/xoxzo-cloud-telephony/articles/the-k-premium-service/)。このサービスも常に進化し、向上を続けてきました。
 
 もともとは、EZSMSでも現在お使いいただけるように、au（KDDI）宛の送信時に、キャリア側の制限や昨今の激化するMNP事情などにより、配信したSMSが届きにくかったり、受信したメッセージに設定通りのSender IDが表示されなかったりするのを防ぐため、予め設定した送信元IDにて送信が可能となるサービスでした。
 

@@ -10,7 +10,7 @@ Summary: ご愛顧いただいております Kプレミアムサービスのア
 平素は、[Xoxzo クラウド・テレフォニー・プラットフォーム](https://www.xoxzo.com/ja/)をご利用いただき、誠にありがとうございます。
 
 2020年2月20日、カスタマイズ可能な送信元IDのご利用いただけるAU（KDDI）キャリア直収サービスを
-メインとした [Kプレミアムサービス](https://help.xoxzo.com/ja/xoxzo-cloud-telephony-platform/articles/the-k-premium-service/) が
+メインとした [Kプレミアムサービス](https://help.xoxzo.com/ja/xoxzo-cloud-telephony/articles/the-k-premium-service/) が
 バージョン3にアップグレードされますので、下記の通りお知らせ申し上げます。
 
 ご不明な点等ございましたら、ヘルプデスク help@xoxzo.com まで、お気軽にお問い合わせをいただけますよう、よろしくお願い致します。
@@ -60,4 +60,4 @@ Summary: ご愛顧いただいております Kプレミアムサービスのア
 - 1月31日時点で登録されていた送信元ID以外は、ご利用不可となり、追加の申込みが必要となります。その場合、ご利用開始は2週間後からとなりますのでご注意ください。
 
 詳しくは、[サービスページ](https://www.xoxzo.com/ja/about/sms-api/#k-premium) および
-[ヘルプセンター](https://help.xoxzo.com/ja/xoxzo-cloud-telephony-platform/articles/the-k-premium-service/) をご参照ください。
+[ヘルプセンター](https://help.xoxzo.com/ja/xoxzo-cloud-telephony/articles/the-k-premium-service/) をご参照ください。

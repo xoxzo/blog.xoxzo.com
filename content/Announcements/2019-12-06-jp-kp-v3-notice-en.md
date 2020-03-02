@@ -11,7 +11,7 @@ Thank you for using [Xoxzo Cloud Telephony Platform](https://www.xoxzo.com/en/).
 Xoxzo strives to improve the service on a daily basis so that users can utilize more and more powerful SMS delivery service.
 
 AU (KDDI) carrier direct service that can use customizable sender ID has been the main
-[K Premium Service](https://help.xoxzo.com/en/xoxzo-cloud-telephony-platform/articles/the-k-premium-service/)
+[K Premium Service](https://help.xoxzo.com/en/xoxzo-cloud-telephony/articles/the-k-premium-service/)
 so far, but we are pleased to inform you that this service is going to be renewed.
 
 Please find the details of this updates as below.

@@ -7,10 +7,10 @@ Author: Aiko Yokoyama
 Summary: Changes to our K-Premium services API parameter.
 
 The parameter name for our
-[K-Premium services](https://help.xoxzo.com/en/xoxzo-cloud-telephony-platform/articles/the-k-premium-service/)
+[K-Premium services](https://help.xoxzo.com/en/xoxzo-cloud-telephony/articles/the-k-premium-service/)
 has been updated to reduce the exceptions and have more consistency with all our other API parameters.
 
-The parameter name for our [K-Premium services](https://help.xoxzo.com/en/xoxzo-cloud-telephony-platform/articles/the-k-premium-service/) is now:
+The parameter name for our [K-Premium services](https://help.xoxzo.com/en/xoxzo-cloud-telephony/articles/the-k-premium-service/) is now:
 
 ```
 jp_kp
