@@ -10,6 +10,7 @@ Summary: 5月23日（土）熊本城ホールにて、PyCon Kyushu 2020 が開�
 [Xoxzo](https://info.xoxzo.com/ja/)は、2020年5月23日土曜日、
 [熊本城ホール](https://www.kumamoto-jo-hall.jp/)にて開催されます
 [PyCon Kyushu 2020](https://kyushu.pycon.jp/2020/)へスポンサーとして参加します。
+ブースでは、SMSの発信や受信、音声通話のAPIのデモを行います。
 
 ### テーマは GROW!!
 _PyCon Kyushu ウェブサイトより_
@@ -23,15 +24,8 @@ _PyCon Kyushu ウェブサイトより_
 
 - [2017年のPyCon mini 熊本](https://blog.xoxzo.com/ja/2017/04/27/pycon-kumamoto-2017-report/)
 - [2018年のPyCon Kyushu](https://blog.xoxzo.com/ja/2018/07/11/pycon-kyushu-2018-report/)
-そして、
-2020年
-
-
-
-
-当日は、弊社の[エバンジェリスト、野中](https://info.xoxzo.com/ja/aboutus/)が
-**Pythonによる競馬データ分析入門** と題するトークを行います。
+そして、2020年の PyCon Kyushu 参加となるXoxzoは、12:50よりスポンサーLTを行います。
 
 当日会場でお会いできますのを、楽しみにしております。
 
-PyCon Kyushuの詳細は、[こちら](http://kyushu.pycon.jp/)からどうぞ。
+PyCon Kyushuの詳細は、[こちら](http://kyushu.pycon.jp/2020/)からどうぞ。
