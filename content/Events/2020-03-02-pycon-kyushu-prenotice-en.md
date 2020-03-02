@@ -1,4 +1,4 @@
-Title: [Xoxzo] We are a Gold sponcor for PyCon Kyushu 2020
+Title: [Xoxzo] We are a Gold sponsor for PyCon Kyushu 2020
 Date: 2020-03-02
 Slug: sponsoring-pycon-kyushu-2020
 Lang: en
@@ -8,7 +8,7 @@ Summary: Xoxzo Inc will attend PyCon Kyushu as a sponcor at Kumamoto-Jo Hall on 
 
 
 On Saturday May 23 2020, [Xoxzo Inc.](https://info.xoxzo.com/) is going to have a booth exhibition at [PyCon Kyushu 2020](https://kyushu.pycon.jp/2020/)
-at [Kumamoto-jo Hall](https://www.kumamoto-jo-hall.jp/en/) as a sponcor.
+at [Kumamoto-jo Hall](https://www.kumamoto-jo-hall.jp/en/) as a sponsor.
 Our SMS and Voice Call APIs demo will be presented at the booth.
 
 ### GROW!! is the theme for this PyCon Kyushu 2020
