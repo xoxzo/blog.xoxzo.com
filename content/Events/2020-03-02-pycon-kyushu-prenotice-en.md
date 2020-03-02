@@ -23,6 +23,7 @@ _From the PyCon Kyushu Website_
 Following these attendance in PyCon Kyushu below,
 - [PyCon mini in Kumamoto](https://blog.xoxzo.com/ja/2017/04/27/pycon-kumamoto-2017-report/)
 - [PyCon Kyushu 2018](https://blog.xoxzo.com/ja/2018/07/11/pycon-kyushu-2018-report/)
+
 we will have a sponcor LT at 12:50 in this PyCon Kyushu 2020.
 
 We are looking forward to be seeing you at the PyCon in May!!
