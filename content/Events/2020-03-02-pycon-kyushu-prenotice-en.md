@@ -28,6 +28,6 @@ Following these attendance in PyCon Kyushu below,
 
 we will have a sponcor LT at 12:50 in this PyCon Kyushu 2020.
 
-We are looking forward to be seeing you at the PyCon in May!!
+We are looking forward to seeing you at the PyCon in May!!
 
 For more details, please visit PyCon Kyushu 2020 [website](http://kyushu.pycon.jp/2020/).
