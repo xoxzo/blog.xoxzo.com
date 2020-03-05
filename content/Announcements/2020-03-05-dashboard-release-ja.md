@@ -10,7 +10,7 @@ Summary: ダッシュボードで、直近の使用量がグラフ化されて�
 [Xoxzo](https://www.xoxzo.com/ja/)のアカウントにログインすると、一番に目にするダッシュボード。
 ここで、直近のご使用量などが一覧できると良い、との、多くのご要望にお応えした新しいダッシュボード（SMS配信用）がリリースとなりました。
 
-![dashboard image](/image/dashboard-blog.jpg)
+![dashboard image](/images/dashboard-blog.jpg)
 
 - ご使用になった一日ごとのクレジットや配信のSMS数が、ひとつのグラフでわかり易く表示
 - 確認したい期間を、お好みで設定可
