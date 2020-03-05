@@ -17,8 +17,7 @@ Xoxzoの春のチームキャンプは、毎年3月に行われ、チーム全�
 [こちらの記事](https://digitalnomad.blog/jeju-island-south-korea/)のように、
 済州島ではデジタル・ノマドたちを魅了する試みを行っていると聞きつけ、この島の提議するものを自ら確かめようと、決めました。
 
-済州島は、[年間1500万人もの旅行者が訪れる]
-(https://en.yna.co.kr/view/AEN20191202007100315)美しい島です。
+済州島は、[年間1500万人もの旅行者が訪れる](https://en.yna.co.kr/view/AEN20191202007100315) 美しい島です。
 ![Hillside view of Jeju]({filename}/images/cju-team-camp-2018/jeju-hillside-view.jpg)
 
 韓国政府とカカオ社の維持する無料コワーキングスペース[J-Space](https://www.coworker.com/south-korea/jeju-city/j-space)
@@ -90,4 +89,4 @@ Xoxzoの春のチームキャンプは、毎年3月に行われ、チーム全�
 各自のアイディアや経験を躊躇なく交換するということに、集中すべきです。
 そして、これは今後のチームキャンプでも、注意して進めるべき点かも知れません。
 
-また [来年まで]({filename}/The Way We Work/oka-team-camp-2019-en.md)!
+また [来年まで]({filename}/The Way We Work/oka-team-camp-2019-ja.md)!
