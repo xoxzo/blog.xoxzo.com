@@ -10,7 +10,7 @@ When you log in to [Xoxzo](https://www.xoxzo.com/en/) account, the first thing i
 
 A new look of the dashboard that responds to the many request of **Recent Usage at a glance**.
 
-[image]
+![dashboard image](/images/dashboard-blog.jpg)
 
 - Daily Usage of credits and SMS sent are in a chart
 - Set the period of the chart as you like
