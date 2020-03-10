@@ -1,21 +1,27 @@
-Title: Our Dashboard has a new look!!
+Title: Our Dashboard has a new look!
 Date: 2020-03-05
 Slug: new-x4-dashboard
 Lang: en
 Tags: xoxzo; release; 2020; dashboard;
 Author: Aiko Yokoyama
-Summary: One-glance usage check with chart is now enabled on Xoxzo Dashboard.
+Summary: You can now check your API usage in a glance via our new Dashboard
 
-When you log in to [Xoxzo](https://www.xoxzo.com/en/) account, please click on **Usage Dashboard** from the side menu.
+One of the most requested functionality that we have been having for the past
+few months is a dashboard that allows our customers to check their usage at a
+glance. We're happy to announce that you can finally do that.
+
+When you log in to [Xoxzo](https://www.xoxzo.com/en/) account, click on **Usage Dashboard** from the side menu.
 
 ![dashboard image](/images/dashboard-en.jpg)
 
-A new look of the dashboard that responds to the many request of **Recent Usage at a glance**.
+Some of the things you can do:
 
-- Daily Usage of credits and SMS sent are in a chart
-- Set the period of the chart as you like
-- Pie chart that shows the usage proportion of each API Users
+- Set the period of the chart as you like, for example, you can look at last
+  week's usage, last month's or a custom date range.
+- See individual API User's usage. Most of us use different API Users for
+  different types of calls or messages or even customers. You can deep dive
+  based on the different API User data from the dashboard.
 
-Xoxzo Dashboard continue evolving to show more contents to be more and more convenient and loveable dashboard.
-Your requests will help this, please contact to share your opinion with the helpdesk.
-
+The Xoxzo Dashboard will continue to evolve to show more data. Your opinion and
+requests will really help us build a better dashboard, so don't be shy and contact us
+at help@xoxzo.com with your thoughts.
