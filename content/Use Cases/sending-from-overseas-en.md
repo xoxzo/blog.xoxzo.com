@@ -30,19 +30,6 @@ If you are running an online business for your Japanese client and want to send 
 You can register your Japanese client's phone number to use as the SMS Sender to reach out their end users.
 
 Please do not hesitate to consult Xoxzo Help Desk help@xoxzo.com for more details.
-If you are running an online
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 Thumnail Photo by <a href="/photographer/jeinny-46342">jess lis</a> from <a href="https://freeimages.com/">FreeImages</a>
