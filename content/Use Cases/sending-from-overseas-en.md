@@ -12,7 +12,7 @@ Summary: Globalized world needs flexibilities and Xoxzo takes care of this
 
 Business, service, platform, personal channels and sites... the internet has made the digital contents of all sorts available to be accessed globally. 
 
-[globe](/images/global-sms.jpg)
+![globe](/images/global-sms.jpg)
 
 There are many ways to send notification & campaign messages to the users of those website and service. **SMS** can be one of the options as you see the reasons in our other article [Why you should adopt SMS for your business communication](https://blog.xoxzo.com/ja/2018/04/06/why-adopt-sms/), but there is some hurdles for **Sending Global SMS**.
 
