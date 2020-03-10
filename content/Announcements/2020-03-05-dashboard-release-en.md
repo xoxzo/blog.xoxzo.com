@@ -19,9 +19,11 @@ Some of the things you can do:
 - Set the period of the chart as you like, for example, you can look at last
   week's usage, last month's or a custom date range.
 - See individual API User's usage. Most of us use different API Users for
-  different types of calls or messages or even customers. You can deep dive
-  based on the different API User data from the dashboard.
+  different types of calls or messages or even customers. You can see at a
+  glance the usage by the different API Users from the pie-chart in the dashboard.
+- Deep dive into specific API Users usage, by choosing them from the pulldown.
+  By doing this, you'll be shown only the usage of that API User
 
-The Xoxzo Dashboard will continue to evolve to show more data. Your opinion and
+The Xoxzo Dashboard will continue to evolve to show more data types. Your opinion and
 requests will really help us build a better dashboard, so don't be shy and contact us
-at help@xoxzo.com with your thoughts.
+at help@xoxzo.com with your thoughts and requests.
