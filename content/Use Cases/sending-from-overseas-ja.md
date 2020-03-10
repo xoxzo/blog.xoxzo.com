@@ -1,11 +1,11 @@
-Title: Send SMS to Japan from overseas
+Title: 海外から日本へSMSを送る
 Date: 2020-03-10
 Slug: sending-from-overseas
 Lang: ja
 Tags: sms api; japan; 2020; 
 Author: Aiko Yokoyama
 Thumbnail: images/global-sms.jpg
-Summary: Globalized world needs flexibilities and Xoxzo takes care of this
+Summary: グローバリゼーションへの対応は、柔軟性が必要。Xoxzoなら海外から日本へのSMS配信もサポートします。
 
 
 ## Contact users on Global Service
@@ -30,19 +30,5 @@ If you are running an online business for your Japanese client and want to send 
 You can register your Japanese client's phone number to use as the SMS Sender to reach out their end users.
 
 Please do not hesitate to consult Xoxzo Help Desk help@xoxzo.com for more details.
-If you are running an online
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Thumnail Photo by <a href="/photographer/jeinny-46342">jess lis</a> from <a href="https://freeimages.com/">FreeImages</a>
