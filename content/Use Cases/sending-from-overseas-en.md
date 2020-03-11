@@ -14,7 +14,7 @@ Business, service, platform, personal channels and sites... the internet has mad
 
 ![globe](/images/global-sms.jpg)
 
-There are many ways to send notification & campaign messages to the users of those website and service. **SMS** can be one of the options as you see the reasons in our other article [Why you should adopt SMS for your business communication](https://blog.xoxzo.com/ja/2018/04/06/why-adopt-sms/), but there is some hurdles for **Sending Global SMS**.
+There are many ways to send notification & campaign messages to the users of those website and service. **SMS** can be one of the options as you see the reasons in our other article [Why you should adopt SMS for your business communication](https://blog.xoxzo.com/en/2018/04/06/why-adopt-sms/), but there is some hurdles for **Sending Global SMS**.
 
 ## Hurdles on sending Global SMS
 
@@ -32,4 +32,4 @@ You can register your Japanese client's phone number to use as the SMS Sender to
 Please do not hesitate to consult Xoxzo Help Desk help@xoxzo.com for more details.
 
 
-Thumnail Photo by <a href="/photographer/jeinny-46342">jess lis</a> from <a href="https://freeimages.com/">FreeImages</a>
+Thumnail Photo by <a href="https://www.freeimages.com/photographer/jeinny-46342">jess lis</a> from <a href="https://freeimages.com/">FreeImages</a>
