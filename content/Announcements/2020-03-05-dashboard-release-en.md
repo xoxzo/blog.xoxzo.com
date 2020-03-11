@@ -24,6 +24,8 @@ Some of the things you can do:
 - Deep dive into specific API Users usage, by choosing them from the pulldown.
   By doing this, you'll be shown only the usage of that API User
 
+**Up to the past 45 days data can be shown**
+
 The Xoxzo Dashboard will continue to evolve to show more data types. Your opinion and
 requests will really help us build a better dashboard, so don't be shy and contact us
 at help@xoxzo.com with your thoughts and requests.
