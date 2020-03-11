@@ -13,7 +13,7 @@ Summary: ダッシュボードで、直近の使用量がグラフ化されて�
 このご要望にお応えした 真新しいダッシュボード（SMS配信用）の第一弾が、リリースとなりましたのでお知らせいたします。
 [Xoxzo](https://www.xoxzo.com/ja/)のアカウントにログイン時、サイドメニューから **ご利用内容一覧** をクリックしてください。
 
-![dashboard image](/images/dashboard_ja.jpg)
+![dashboard image](/images/dashboard_ja.png)
 
 このダッシュボードでできることは：
 
