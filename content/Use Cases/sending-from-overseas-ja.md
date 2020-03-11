@@ -17,21 +17,22 @@ Summary: グローバリゼーションへの対応は、柔軟性が必要。Xo
 [globe](/images/global-sms.jpg)
 
 このようなウェブやサービスのユーザー様へ、通知事項や、キャンペーンなどのメッセージを送信する方法はいくつもあります。
-There are many ways to send notification & campaign messages to the users of those website and service. **SMS** can be one of the options as you see the reasons in our other article [Why you should adopt SMS for your business communication](https://blog.xoxzo.com/ja/2018/04/06/why-adopt-sms/), but there is some hurdles for **Sending Global SMS**.
+理由は[こちらのブログ](https://blog.xoxzo.com/ja/2018/04/06/why-adopt-sms/)からもお読み頂けるように、**SMSを使う** のもひとつのオプションですが、**国境を超えた SMS配信** は、実は敷居が高いこともあるのです。
 
-## Hurdles on sending Global SMS
+## 国境を超えた SMS配信のハードルとは
 
-What can be the hurdles on _Sending Global SMS_?
+_国境を超えた SMS配信_　における、ハードルとはなんでしょうか？
 
-Many mobile phones were preset not to receive anonymous SMS specially from the other countries.
-It is useless to send important messages via SMS which occurs cost for not reaching. 
-The best way is to send SMS using a Japanese Phone number to send to the Japanese recipients.
+多くの携帯電話は、不明な相手先からのSMSや国外から届くSMSを受信しないように、前もって設定されています。
+ブロックされて届かない、とわかっているSMSを使って、重要通知を配信するのは意味がありません。
+日本の携帯電話へのSMS配信は、国内の電話番号から配信するのが一番です。
 
-## Xoxzo is a solution for Sending SMS to Japanese Mobile phones
+## Xoxzo のAPIは、国外からでも、日本の携帯電話へSMSを送る ソリューション！
 
-If you are running an online business for your Japanese client and want to send SMS to Japanese end users, use [Xoxzo Telephony APIs](https://www.xoxzo.com/en/) with [K-premium Service](https://help.xoxzo.com/en/xoxzo-cloud-telephony/articles/the-k-premium-service/) that gives you **Direct connection** to the Japanese mobile carriers. 
-You can register your Japanese client's phone number to use as the SMS Sender to reach out their end users.
+オンラインビジネスを営んでいる方、日本のクライアントのためにそのようなビジネスを行っていて、日本のエンドユーザーへSMSを配信している方、
+ [XoxzoのSMS配信API](https://www.xoxzo.com/ja/) で [Kプレミアムサビス](https://help.xoxzo.com/ja/xoxzo-cloud-telephony/articles/the-k-premium-service/) を使うと、**直収ルート** で日本の携帯電話キャリアから配信ができます。
+SMSの送信者としての番号を、あなたやあなたの日本のクライアント様の電話番号を使って前もって登録し、配信を行うことができるのです。
 
-Please do not hesitate to consult Xoxzo Help Desk help@xoxzo.com for more details.
+さらなる詳細は、ヘルプデスクまで help@xoxzo.com 日本語でも英語でもご連絡ください。
 
-Thumnail Photo by <a href="/photographer/jeinny-46342">jess lis</a> from <a href="https://freeimages.com/">FreeImages</a>
+サムネイル画像は <a href="/photographer/jeinny-46342">jess lis</a> from <a href="https://freeimages.com/">FreeImages</a>　よりいただきました。
