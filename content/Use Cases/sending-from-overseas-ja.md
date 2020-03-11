@@ -35,4 +35,4 @@ SMSの送信者としての番号を、あなたやあなたの日本のクラ�
 
 さらなる詳細は、ヘルプデスクまで help@xoxzo.com 日本語でも英語でもご連絡ください。
 
-サムネイル画像は <a href="/photographer/jeinny-46342">jess lis</a> from <a href="https://freeimages.com/">FreeImages</a>　よりいただきました。
+サムネイル画像は <a href="https://www.freeimages.com/photographer/jeinny-46342">jess lis</a> from <a href="https://freeimages.com/">FreeImages</a>　よりいただきました。
