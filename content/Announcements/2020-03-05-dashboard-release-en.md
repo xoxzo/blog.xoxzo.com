@@ -12,7 +12,7 @@ glance. We're happy to announce that you can finally do that.
 
 When you log in to [Xoxzo](https://www.xoxzo.com/en/) account, click on **Usage Dashboard** from the side menu.
 
-![dashboard image](/images/dashboard-en.jpg)
+![dashboard image](/images/dashboard_en.png)
 
 Some of the things you can do:
 
