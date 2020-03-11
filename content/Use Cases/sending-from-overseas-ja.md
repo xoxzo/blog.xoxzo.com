@@ -8,12 +8,15 @@ Thumbnail: images/global-sms.jpg
 Summary: グローバリゼーションへの対応は、柔軟性が必要。Xoxzoなら海外から日本へのSMS配信もサポートします。
 
 
-## Contact users on Global Service
+## グローバル・サービスでのユーザー連絡手段
 
-Business, service, platform, personal channels and sites... the internet has made the digital contents of all sorts available to be accessed globally. 
+ビジネス、サービス、プラットフォーム。
+個人チャンネルにウェブサイト…。
+インターネットは、あらゆる種類のコンテンツに世界中からアクセスすることを可能にしてきました。
 
 [globe](/images/global-sms.jpg)
 
+このようなウェブやサービスのユーザー様へ、通知事項や、キャンペーンなどのメッセージを送信する方法はいくつもあります。
 There are many ways to send notification & campaign messages to the users of those website and service. **SMS** can be one of the options as you see the reasons in our other article [Why you should adopt SMS for your business communication](https://blog.xoxzo.com/ja/2018/04/06/why-adopt-sms/), but there is some hurdles for **Sending Global SMS**.
 
 ## Hurdles on sending Global SMS
