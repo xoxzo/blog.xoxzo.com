@@ -2,7 +2,7 @@ Title: The health benefits of remote working
 Date: 2018-11-23
 Slug: health-benefit-remote-work
 Lang: en
-Tags: remote
+Tags: remote work; 2018; 
 Thumbnail: images/HealthBenefit.jpg
 Author: Ai Sin Chan
 Summary: What are the personal gains of the employees from remote working? Read on
