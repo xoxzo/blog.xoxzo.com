@@ -25,7 +25,7 @@ Summary: 7月6日（金）7日（土）の二日間、札幌コンベンショ�
 
 また、会場では、7月7日土曜日 14時より14時45分まで、
 [Railsだけじゃない！ DjangoによるWebアプリケーション開発入門](https://www.ospn.jp/osc2018-do/modules/eguide/event.php?eid=51)
-と称するセミナーを、弊社の[エバンジェリスト、野中](https://info.xoxzo.com/ja/aboutus/)が行います。
+と称するセミナーを、弊社の[エバンジェリスト、野中](https://info.xoxzo.com/ja/team/)が行います。
 
 ##セミナー概要
 

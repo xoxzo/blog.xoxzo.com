@@ -16,7 +16,7 @@ Summary: Xoxzo is going to exhibit at OSC Hamanako on February 12.
 
 [Xoxzo](https://info.xoxzo.com/ja/) will have a booth to show the demonstration of our WebAPIs, Sending SMS, Call to the landlines, multi factor authentication and number confirmation.
 
-Our Evengelist [A.Nonaka](https://info.xoxzo.com/en/aboutus/) will have a seminar 'Telephony for beginners' at 12 noon （ http://bit.ly/2jDSAjZ ）. Please spare your Sunday to visit us at OSC-Hamanako. We are looking forward to your coming.
+Our Evengelist [A.Nonaka](https://info.xoxzo.com/en/team/) will have a seminar 'Telephony for beginners' at 12 noon （ http://bit.ly/2jDSAjZ ）. Please spare your Sunday to visit us at OSC-Hamanako. We are looking forward to your coming.
 
 More details about OSC 2017 Hamanako is [Here](https://www.ospn.jp/osc2017-hamanako/) (Japanese Language only)
 

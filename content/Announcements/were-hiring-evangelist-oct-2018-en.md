@@ -81,7 +81,7 @@ cultures, delivering our products to our customers in the best way possible.
 Xoxzo builds products that are developer centric, helping businesses get things
 done in an easier, quicker and more economical way.
 
-We're proud of our [culture of responsibility, respect and diversity.](https://info.xoxzo.com/en/hiring/)
+We're proud of our [culture of responsibility, respect and diversity.](https://info.xoxzo.com/en/careers/)
 We have never received any outside funding, and we are a profitable business.
 
 ## Working Remotely

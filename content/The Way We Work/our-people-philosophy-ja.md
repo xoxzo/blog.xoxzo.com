@@ -24,5 +24,5 @@ Xoxzoの一員である素敵な人物が、素敵な仕事をし、そしてそ
 Xoxzoは、この信念と価値観を公開し、また我々自らをそこに委ねていくことが大切だと考えています。
 この原則に基づき、私達Xoxzoはお互いを思いやり、接していきますが、もちろん、チームXoxzoへの新参者も、同じことです。
 
-Xoxzoでは、これを[「Xoxzoの人物哲学」](https://info.xoxzo.com/ja/hiring/)と呼び、
-[こちら](https://info.xoxzo.com/ja/hiring/)より、より詳しくお読みいただけます。
+Xoxzoでは、これを[「Xoxzoの人物哲学」](https://info.xoxzo.com/ja/careers/)と呼び、
+[こちら](https://info.xoxzo.com/ja/careers/)より、より詳しくお読みいただけます。

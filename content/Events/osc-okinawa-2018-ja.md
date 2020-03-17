@@ -25,7 +25,7 @@ Summary: 6月16日（土）、沖縄コンベンションセンターにて、Xo
 
 >XOXZOテレフォニーAPIのデモを体感して頂きます。 たった数行のコードを書くだけで、あっと驚くほど簡単に、 SMS送信や電話の発信、着信が実現できます！！！ ([展示内容紹介](https://www.ospn.jp/osc2018-do/modules/article/article.php?articleid=1)より)
 
-また、会場では、弊社の[エバンジェリスト、野中](https://info.xoxzo.com/ja/aboutus/)が
+また、会場では、弊社の[エバンジェリスト、野中](https://info.xoxzo.com/ja/team/)が
 [Railsだけじゃない！ DjangoによるWebアプリケーション開発入門](https://www.ospn.jp/osc2018-okinawa/modules/eguide/event.php?eid=13)
 と称するセミナーを行います。Pythonを使った、Webアプリケーションの開発に興味がある方ならどなたでも、前提知識の有無や程度を問わず、お気軽にご参加いただけます。
 

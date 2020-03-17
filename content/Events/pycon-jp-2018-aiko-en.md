@@ -16,7 +16,7 @@ As my residence is in Kyoto I usually take Shinkansen Trains to Tokyo.
 But I flew this time as this site situated very close to Keikyu Kamata station, which is a couple of station from Haneda Airport.
 
 I was looking forward to seeing my collegues whom I don't usually see each other as Xoxzo is 
-[100% remote-work](https://info.xoxzo.com/en/aboutus/).
+[100% remote-work](https://info.xoxzo.com/en/team/).
 
 It was 30 min before the conference opening when I arrived, but there were good number of visitors waiting outside the venue.
 They all rushed in at the gate opening towards the catered table. This table always was well-attended and filled with nice-looking and tasty foods duriing the conference, breakfast, lunch and 3pm-snack-time!!

@@ -21,7 +21,7 @@ _This is what we can find on [Pycon Kyushu 2018](http://kyushu.pycon.jp/) websit
 >The event volunteer staff are working hard to to create an event where everybody, from Python beginners to Python experts, >can be inspired by the idea of a Prologue; of a beginning.
 
 We [Xoxzo](https://www.xoxzo.com/en/) will attend as a Gold Sponsor. 
-On the day our [Evangelist Akira Nonaka](https://info.xoxzo.com/en/aboutus/
+On the day our [Evangelist Akira Nonaka](https://info.xoxzo.com/en/team/
 )will give a talk about **HORSE RACE DATA Analysis with python**.
 (the speech language is Japanese)
 
