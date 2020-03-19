@@ -22,7 +22,7 @@ wave of negativity and uncertainty.
 ## Thank you to our social and public workers
 
 We are genuinely inspired and thankful to the selfless healthcare, social and public workers
-on the front lines, such as nurses, doctors, janitors and garbage collectors, and everyone else 
+on the front lines, such as nurses, teachers, doctors, janitors, carers, bin men, shelf stackers and everyone else 
 that are working tireslessly to care for people in need and to keep our public services running
 while most of us are staying home. 
 We humbly realize that these are the people that during other times are mostly taken from granted
