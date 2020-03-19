@@ -26,7 +26,7 @@ on the front lines, such as nurses, teachers, doctors, carers, janitors, bin men
 that is working tirelessly to care for people in need and to keep our public services running
 while most of us are staying home. 
 We humbly realize that these are the people that during other times are mostly taken from granted
-by most of us, but are in fact supports the very foundation of the society that lives in.
+by most of us, but are in fact supports the very foundation of the society that we live in.
 
 ## Health of our employees, customers and vendors
 
@@ -44,7 +44,7 @@ and we have always put efforts to constantly monitor and alleviate this stress.
 These efforts, of course, are continuous and did not start and will not stop with the COVID-19 crisis.
 
 Due to our remote nature, we also have minimal physical contact with our
-customers or vendors. All necessary meetings have all been rescheduled to be
+customers and vendors. All necessary meetings have all been rescheduled to be
 done online.
 
 ## Our business, our community and our economy
@@ -81,5 +81,7 @@ During this time of uncertainty, we want to acknowledge the incredible support w
 and the resilience that is shown by our staff.
 
 We will continue to monitor the situation and will post notifications as the
-need arises here on our blog and also on our [Twitter account](https://twitter.com/xoxzocom). You can also reach
-us at [help@xoxzo.com](mailto:help@xoxzo.com)
+need arises here on our blog and also on our [Twitter account](https://twitter.com/xoxzocom).
+
+We are also more than happy to help your organization to implement remote
+working. You can always reach us at [help@xoxzo.com](mailto:help@xoxzo.com).
