@@ -26,5 +26,5 @@ It is important that we make these believes and values public and commit to it.
 These are our guiding principles on how we treat and value each other, and also
 welcome new members into our team.
 
-We call this our [People Philosophy](https://info.xoxzo.com/en/hiring/) and I
-welcome you to read it [here](https://info.xoxzo.com/en/hiring/).
+We call this our [People Philosophy](https://info.xoxzo.com/en/careers/) and I
+welcome you to read it [here](https://info.xoxzo.com/en/careers/).

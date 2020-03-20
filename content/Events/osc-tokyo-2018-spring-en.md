@@ -19,7 +19,7 @@ We [Xoxzo](https://info.xoxzo.com/en/) are participating as both sponsor and exh
 
 At thhis OSC Tokyo 2018 Spring, [Xoxzo](https://info.xoxzo.com/en/) welcome you to API-demo to show how multi-factor authentication and SMS marketing work.
 
-Also, our evangelist [Akira Nonaka](https://info.xoxzo.com/en/aboutus/) will give a lecture titled as "How to utilize the Telephony APIs to support Multi-Factor Authentication and SMS Marketing for beginners" from 17.15 to 18.00 on Feb/23 (Fri).
+Also, our evangelist [Akira Nonaka](https://info.xoxzo.com/en/team/) will give a lecture titled as "How to utilize the Telephony APIs to support Multi-Factor Authentication and SMS Marketing for beginners" from 17.15 to 18.00 on Feb/23 (Fri).
 There will be a reception organized by the OSC from 18.20, you will need a pre-booking through [their website](https://www.ospn.jp/osc2018-spring/modules/eguide/event.php?eid=1).
 
 We are looking forward to you all coming and meeting Xoxzo there!! 
