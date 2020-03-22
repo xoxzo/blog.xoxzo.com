@@ -79,6 +79,4 @@ Xoxzoでは、引き続き状況を見極めた上で、必要に応じてブロ
 
 [help@xoxzo.com](mailto:help@xoxzo.com)へもご連絡をいただけます。
 
-You can also reach
-リモートWe are also more than happy to help your organization to implement remote
-working. You can always reach us at [help@xoxzo.com](mailto:help@xoxzo.com).
+組織のリモートワークを実装できるように、支援させていただきます。 [help@xoxzo.com]（mailto：help@xoxzo.com）でいつでもご連絡いただけます。
