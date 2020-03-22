@@ -37,48 +37,48 @@ Xoxzoは、従業員、顧客、そしてベンダーの健康を最優先に考
 
 また、すべての従業員に、現地の法律および現地当局からの指示を遵守し、ウイルスの拡散を阻止するよう指示しています。
 
-Having said that, the mental health of our employees cannot be forgotten or even
-understated. Working remotely puts a [unique mental stresses on remote workers]({filename}/The Way We Work/Pitfalls-Remote-Work-en.md),
-and we have always put efforts to constantly monitor and alleviate this stress.
-These efforts, of course, are continuous and did not start and will not stop with the COVID-19 crisis.
+そうは言っても、従業員のメンタルヘルスは忘れられず、控えめに考えることもできません。 
+リモートで作業するリモートワーカーには、[固有の精神的ストレスがかかります]({filename}/The Way We Work/Pitfalls-Remote-Work-ja.md)。
 
-Due to our remote nature, we also have minimal physical contact with our
-customers or vendors. All necessary meetings have all been rescheduled to be
-done online.
+Xoxzoはこれまでも、常にこのストレスを常に監視し、軽減する努力をしてきました。
+もちろん、努力は継続的であり、COVID-19危機で止まることもなく、今後も止まらないでしょう。
 
-## Our business, our community and our economy
+また、リモートという環境のもと、顧客やベンダーとの物理的な接触は最小限に抑えられています。 
+必要な会議は、すべてオンラインで実施するよう、スケジュールを見直しました。
 
-Xoxzo Inc. and its sister companies have always been working remotely since
-inception in 2007. In that sense, the current lockdown situation in nearly all the
-cities our staff is currently in does not have much impact on our business
-processes.
+## ビジネス・コミュニティ・経済
 
-Since the start of the COVID-19 crisis, we do not see any significant changes to
-our business and operation metrics. We are available to our customers as per
-normal.
+Xoxzoとその姉妹企業は、2007年の創業以来、常にリモートで働いています。
+その意味で、ほぼすべてのスタッフ居住都市での閉鎖状況は、ビジネスプロセスに大した影響を与えることがありません。
 
-Unfortunately, the same cannot be said for everyone around us. The Python
-Software Foundation (PSF) which we rely on to safeguard and continue improving
-the core technology that we use in our products are [being affected by the
-outbreak in the United States](https://pycon.blogspot.com/2020/03/march-12-update-on-covid-19.html).
-As a sign of support, we have committed to donating USD1,000 to the PSF in the
-event that PyCon 2020 conference is canceled.
+COVID-19危機が広がってからも、Xoxzoのビジネスと運用のメトリックに大きな変化は見られません。 
+通常どおりお客様にご利用いただけます。
+
+ただ残念ながら、周囲の人全員が同様だとは言えません。 
+Xoxzoのサービスで使用するコアテクノロジーの保護と改善の継続に依存している
+Python Software Foundation（PSF）は、米国でのコロナウィする流行の影響を受けています。
+
+Xoxzoでは、サポートの印として、PyCon 2020カンファレンスが中止となった場合、PSFに1,000米ドルを寄付することを約束しました。
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/ewa_jodlowska?ref_src=twsrc%5Etfw">@ewa_jodlowska</a> <a href="https://twitter.com/NaomiCeder?ref_src=twsrc%5Etfw">@NaomiCeder</a> If <a href="https://twitter.com/hashtag/pycon2020?src=hash&amp;ref_src=twsrc%5Etfw">#pycon2020</a> gets cancelled, our company will donate USD1000 to the PSF. Not much but I hope it makes it easier for you folks. You folks have always helped us on this side of the world. <a href="https://t.co/txLy9yrBDw">https://t.co/txLy9yrBDw</a></p>&mdash; Iqbal Abdullah 🇯🇵 🇲🇾 🇪🇪 / Xoxzo Telephony (@iqbalabd) <a href="https://twitter.com/iqbalabd/status/1238477812077441024?ref_src=twsrc%5Etfw">March 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-We're encouraging our staff to make purchases from local businesses and actively
-support the economy of the community they are in.
+Xoxzoでは、地元の企業からの購入を推進し、スタッフの居住する地域の経済を積極的にサポートするよう奨励しています。
 
 Other than business travel, we also do not have any plans to reduce our business
 expenditure from what we have on the budget. We hope with these small actions of ours,
 we will not contribute to any negative impact that our vendors and other parties
 that we do business with are facing.
 
-## Thank you to you
+ビジネス上の外出以外には、予算外の事業支出削減は、見込んでいません。Xoxzoの小さな行動であれども ご利用中のベンダーやビジネス運用上の関係者の方々が今現在直面している負の脅威への加重とはならぬことを願っています。
 
-During this time of uncertainty, we want to acknowledge the incredible support we have received from you, our customers,
-and the resilience that is shown by our staff.
+## 感謝の思い
 
-We will continue to monitor the situation and will post notifications as the
-need arises here on our blog and also on our [Twitter account](https://twitter.com/xoxzocom). You can also reach
-us at [help@xoxzo.com](mailto:help@xoxzo.com)
+この不確かなことの多い今日このごろに、Xoxzoとして、弊社顧客から受けた信じられないほどのサポートと、Xoxzoスタッフの示す回復力を認識しました。
+
+Xoxzoでは、引き続き状況を見極めた上で、必要に応じてブログや[Twitterアカウント](https://twitter.com/xoxzocom)に通知を投稿いたします。
+
+[help@xoxzo.com](mailto:help@xoxzo.com)へもご連絡をいただけます。
+
+You can also reach
+リモートWe are also more than happy to help your organization to implement remote
+working. You can always reach us at [help@xoxzo.com](mailto:help@xoxzo.com).
