@@ -62,6 +62,7 @@ Xoxzoでは、サポートの印として、PyCon 2020カンファレンスが�
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/ewa_jodlowska?ref_src=twsrc%5Etfw">@ewa_jodlowska</a> <a href="https://twitter.com/NaomiCeder?ref_src=twsrc%5Etfw">@NaomiCeder</a> If <a href="https://twitter.com/hashtag/pycon2020?src=hash&amp;ref_src=twsrc%5Etfw">#pycon2020</a> gets cancelled, our company will donate USD1000 to the PSF. Not much but I hope it makes it easier for you folks. You folks have always helped us on this side of the world. <a href="https://t.co/txLy9yrBDw">https://t.co/txLy9yrBDw</a></p>&mdash; Iqbal Abdullah 🇯🇵 🇲🇾 🇪🇪 / Xoxzo Telephony (@iqbalabd) <a href="https://twitter.com/iqbalabd/status/1238477812077441024?ref_src=twsrc%5Etfw">March 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
 Xoxzoでは、地元の企業からの購入を推進し、スタッフの居住する地域の経済を積極的にサポートするよう奨励しています。
 
 ビジネス上の外出以外には、予算外の事業支出削減は、見込んでいません。Xoxzoの小さな行動であれども ご利用中のベンダーやビジネス運用上の関係者の方々が今現在直面している負の脅威への加重とはならぬことを願っています。
