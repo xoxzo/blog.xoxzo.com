@@ -17,7 +17,7 @@ Summary: エバンジェリスト・野中が、Django を使った Web アプ�
 [オープンソースソフトウェア協会](https://www.ossaj.org/about-us)は、全国各地で活動を行う、特定非営利活動法人です。
 
 今回のセミナーでは、[「Railsだけじゃない！ DjangoによるWebアプリケーション開発入門」](https://www.ossaj.org/archives/585)と題して、
-開発プロジェクトに Django を採用している弊社の[エバンジェリスト、野中](https://info.xoxzo.com/ja/aboutus/)が、
+開発プロジェクトに Django を採用している弊社の[エバンジェリスト、野中](https://info.xoxzo.com/ja/team/)が、
 Pythonで実装され豊富な実績をもつ Webアプリケーションフレームワークである Django を使った、Webアプリケーション開発の最初の一歩について
 話します。高速な開発、セキュア、スケーラブルといった特長をもち、最近人気が高くなっている Django に興味をお持ちの皆様のご参加をお待ちしております。
 
