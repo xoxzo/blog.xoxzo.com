@@ -9,13 +9,16 @@ Summary: Xoxzoのチームが、リモートワーキングで直面しがちな
 
 Xoxzoは100%リモートワーク企業ですので、実際の白熱したおしゃべりではなく、
 コミュニケーションツール [slack](https://slack.com/)を通じたものだったのですが、
-リモートワーキングの健康上の利点について
+リモートワーキングの健康上の利点についての誰かの投稿に、そのストーリーから離れた活発な議論を引き起こしました。
+Xoxzoチームメンバーは、それぞれの視点から「自宅で仕事をすることによる、容赦ない副作用」についてどんどん意見を述べました。
+
+さて、リモートワーキングで、私達を悩ませているのは一体何でしょうか？
 
 ![pitfall](/images/Pitfall.jpg)<a class="caption" href="https://unsplash.com/photos/i5iIhHSAtp4">Image credit</a>
 
-##### 1. Problem: No division of space between home and office
+##### 1. 問題点：家とオフィスの境界線がない！
 
-* Expectations from family members
+* 家族からの期待
 
 Newcomers to remote working might find issues in gaining understanding from family members or partners when they see that we are home all the time and tend to ask us to do chores. It is still normal for people to associate being present at home with “not at work”. 
 
