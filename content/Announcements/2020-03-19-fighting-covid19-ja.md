@@ -58,7 +58,7 @@ COVID-19危機が広がってからも、Xoxzoのビジネスと運用のメト�
 Xoxzoのサービスで使用しているコアテクノロジーの保護と改善の継続に依存している
 Python Software Foundation（PSF）は、米国での新型コロナウィルス流行の影響を受けています。
 
-Xoxzoでは、サポートの印として、PyCon 2020カンファレンスが中止となった場合、PSFに1,000米ドルを寄付することを約束しました。
+Xoxzoでは、サポートの印として、PyCon 2020カンファレンスが中止となった場合、PSFに1,000米ドルを寄付することを表明しました。
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/ewa_jodlowska?ref_src=twsrc%5Etfw">@ewa_jodlowska</a> <a href="https://twitter.com/NaomiCeder?ref_src=twsrc%5Etfw">@NaomiCeder</a> If <a href="https://twitter.com/hashtag/pycon2020?src=hash&amp;ref_src=twsrc%5Etfw">#pycon2020</a> gets cancelled, our company will donate USD1000 to the PSF. Not much but I hope it makes it easier for you folks. You folks have always helped us on this side of the world. <a href="https://t.co/txLy9yrBDw">https://t.co/txLy9yrBDw</a></p>&mdash; Iqbal Abdullah 🇯🇵 🇲🇾 🇪🇪 / Xoxzo Telephony (@iqbalabd) <a href="https://twitter.com/iqbalabd/status/1238477812077441024?ref_src=twsrc%5Etfw">March 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -69,7 +69,7 @@ Xoxzoでは、スタッフの居住する地域の経済を積極的にサポー
 
 ## 感謝の思い
 
-この不確かなことの多い今日このごろに、Xoxzoとして、弊社顧客から受けた信じられないほどのサポートと、Xoxzoスタッフの示逆境への対峙する力を認識しました。
+この不確かなことの多い今日このごろに、Xoxzoとして、弊社顧客から受けた信じられないほどのサポートと、Xoxzoスタッフの逆境への対峙する力を認識しました。
 
 Xoxzoでは、引き続き状況を見極めた上で、必要に応じてブログや[Twitterアカウント](https://twitter.com/xoxzocom)に通知を投稿いたします。
 
