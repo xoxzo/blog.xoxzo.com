@@ -1,4 +1,4 @@
-Title: A Recap of My Internship Experience
+Title: A recap of my internship experience
 Date: 2020-04-01 11:00
 Author: Emily Achieng
 Tags: internship; remoteworking; 2020;
