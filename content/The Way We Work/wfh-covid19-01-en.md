@@ -11,7 +11,7 @@ Summary: The Xoxzo team shows what kind of setup do they have working from home 
 
 The COVID19 pandemic crisis has affected millions of people worldwide.
 
-All our team members in over 8 different cities worldwide are experiencing
+All our team members in over 8 different cities around the world are experiencing
 some sort of lockdown or restriction of movement orders which have affected how
 we live and work.
 
@@ -26,8 +26,8 @@ working on right now.
 
 ## Our Working Setup
 
-Some of us has started beefing up our workstation setup at home. Here is a
-sneakpeak of how they look like:
+Some of us have started beefing up our workstation setup at home. Here is a
+sneak peak of how they look like:
 
 ### Kamal and Josef
 
@@ -42,8 +42,8 @@ Comment by Josef explaining his setup:
 > (well nowadays, not anymore), I still use the MBA.
 
 Comment by Kamal:
-> The external monitor is my favorite setup now, using multi-head so I can move some windows
-> to the second monitor. I used to work everywhere - couch, bed, kitchen etc, but now I mostly
+> The external monitor is my favorite setup now, using a multi-head so I can move some windows
+> to the second monitor. I used to work everywhere - couch, bed, kitchen, etc, but now I mostly
 > working from this desk.
 
 ### Geraldo and Iqbal
@@ -56,13 +56,13 @@ Comment by Geraldo explaining his setup:
 > My idea for creating a working corner at home is to make something sellable.
 > For example, if I'm looking for a coworking space or coffee shop to work outside I try aiming for
 > the ones that offer a nice experience where all I need is my laptop. So I tried surrounding myself
-> with nice objects like plants, nice coffee machine and good lights. And yes, a proper
+> with nice objects like plants, nice coffee machine, and good lights. And yes, a proper
 > comfortable chair that won't destroy my back. 
 
 My comments on my setup:
 > My work place at home is actually an installed cabinet in the wall which was taken out
 > and its place is now a makeshift cubicle with a desk.
-> I have not been using a 2nd monitor for the past 5 years as I usually work
+> I have not been using the 2nd monitor for the past 5 years as I usually work
 > outside of home, but now I find it helpful to have a bigger monitor and more
 > screens to see at the same time.
 
