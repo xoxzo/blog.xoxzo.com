@@ -1,18 +1,18 @@
-Title: Xoxzoの2019年度オープンソース助成金
-Date: 2019-06-06 11:00
+Title: Xoxzoの2020年度オープンソース助成金
+Date: 2020-04-22 16:00
 Author: Iqbal Abdullah
-Tags: 助成金; オープンソース; 年次助成金; コミュニティ; oss; giving back; 2019;
+Tags: 助成金; オープンソース; 年次助成金; コミュニティ; oss; giving back; 2020;
 Lang: ja
-Slug: annual-opensource-grant-for-2019
+Slug: annual-opensource-grant-for-2020
 Thumbnail: images/grantspayments/open-source-your-love.jpg
-Summary: 2019年度 Xoxzo 年次オープンソース助成金の受賞者を発表します。
+Summary: 2020年度 Xoxzo 年次オープンソース助成金の受賞者を発表します。
 
 # オープンソース助成金
 
 今年も、春はやってきたと思ったら駆け抜けていき、2019年度の助成金受賞者の発表の時がやってきました。
 
 Xoxzoの **年次オープンソース助成金** って何？ とおっしゃる方は、
-昨年の[助成金開始のブログ]({filename}/Community/annual-opensource-grant-2018-ja.md)をぜひご一読ください。
+昨年の[助成金開始のブログ]({filename}/Community/annual-opensource-grant-2019-ja.md)をぜひご一読ください。
 
 ## 2019年度の 助成金付与者
 
@@ -96,7 +96,5 @@ Xoxzoチームが助成先候補にしていたプロジェクトがあと数箇
 - baker
 
 ではまた来年。
-
-[2020年の助成金受賞者]({filename}/Community/annual-opensource-grant-2020-ja.md)もぜひご一読ください。
 
 P.S: [Beth Kanter](https://www.flickr.com/photos/cambodia4kidsorg/2265381560/in/photolist-4sbF1L-ar78tZ-SNGH5k-ar79ug-7GLMMJ-7auyvr-ar9ZuW-ar7icH-7EbFm8-77iC2j-oZNUt1-YoqUGr-7auzAZ-77iLXu-ara183-4vbuEU-pKkoXm-77eCxx-2WUBnD-ar9VGm-7TT3jY-by7HPM-6ymtsa-7ayps3-77ePoH-874G8Z-4VguA1-6G4JuU-77eAQF-ar7dxc-EDyr4-77iKd5-8yZZmV-rDGuZy-77iLM5-bbBEV8-e3okg3-DLbcqc-77ezLa-69ykkm-7aysgQ-72ePxc-ar7dt4-XZTS3m-e6eDqU-bbBC66-bbBCjr-RYrLD2-e693vi-9ULwL) のオープンソースサムネイルに感謝。
