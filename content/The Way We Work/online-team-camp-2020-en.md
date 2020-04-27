@@ -21,8 +21,8 @@ So we decided to have our Spring Team Camp(?) online instead.
 ![Xoxzo People on Whereby]({filename}/images/team-camp-2020-group-picture.png)
 
 We split the Camp into 2 days. One issue we have by having the camp online is
-the timezone differences of each of our colleagues. We have formal a core time of four
-hours each day (between 1 PM to 5 PM) where everyone overlaps, so we the time
+the timezone differences of each of our colleagues. We have a formal core time of four
+hours each day (between 1 PM to 5 PM) where everyone overlaps, so the time
 where we can have *"everyone present"* is limited.
 
 ## Day 1
@@ -42,7 +42,10 @@ official blog and the blog posts which received many views are mostly posts whic
 All of our team members write on the blog, and it has shown that the time spent
 writing and giving a peak to the outside world on how we think and do our work
 is giving a positive effect in the context of promoting the company brand and
-believes.
+values.
+
+*Blog access statistics YoY 2019 (hard blue line) vs 2018 (dotted blue line)*
+![Xoxzo blog statistics]({filename}/images/team-camp-2020-blog-stats.png)
 
 ### UI/UX
 
