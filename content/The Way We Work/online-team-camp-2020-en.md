@@ -44,7 +44,7 @@ writing and giving a peak to the outside world on how we think and do our work
 is giving a positive effect in the context of promoting the company brand and
 values.
 
-*Blog access statistics YoY 2019 (hard blue line) vs 2018 (dotted blue line)*
+*Blog access statistics YoY 2019 (solid blue line) vs 2018 (dotted blue line)*
 ![Xoxzo blog statistics]({filename}/images/team-camp-2020-blog-stats.png)
 
 ### UI/UX
