@@ -48,7 +48,7 @@ Comment by Kamal:
 
 ### Geraldo and Iqbal
 
-![Geraldo and Iqbal's setup]({filename}/images/wfh-series/wfh-01-setup-geraldo-iqbal.jpg)
+![Geraldo and Iqbal's work setup]({filename}/images/wfh-series/wfh-01-setup-geraldo-iqbal.jpg)
 
 [Geraldo](/author/gerald.html)'s (L) and [Iqbal](/author/iqbal-abdullah.html)'s (R) setups
 
@@ -66,5 +66,5 @@ My comments on my setup:
 > outside of home, but now I find it helpful to have a bigger monitor and more
 > screens to see at the same time.
 
-That's it from four of our team members. We'll continue with the series in our next post with
-other examples from the rest of our team.
+That's it from four of our team members. Continue reading [part 2]({filename}/The Way We Work/wfh-covid19-02-en.md)
+of this episode for more examples from the team.
