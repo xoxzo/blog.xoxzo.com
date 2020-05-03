@@ -1,4 +1,4 @@
-Title: [WFH Series] Our work from home setup: Episode 1, Part 1
+Title: [WFH Series] Episode 01, Part 1: Our work from home setup
 Date: 2020-04-20 11:00
 Author: Iqbal Abdullah
 Tags: covid19; remotework; 2020; workfromhome;
