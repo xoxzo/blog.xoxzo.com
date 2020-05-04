@@ -153,6 +153,8 @@ see a how the recording looks like [here](https://www.youtube.com/watch?v=Rb2IkT
 
 Zoom also has a [client for Linux](https://support.zoom.us/hc/en-us/articles/204206269-Installing-or-updating-Zoom-on-Linux)
 
+![How Zoom meetings look like]({filename}/images/video-conferencing-review/zoom-screenshot.png)
+
 Zoom also has the famous virtual background funtionality that allows you to
 change your background to an image of your choice.
 
