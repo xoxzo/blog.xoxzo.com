@@ -1,13 +1,13 @@
-Title: [WFH Series] Episode 02: Video conferencing tools that we tried: A short review
-Date: 2020-05-01 11:00
+Title: [WFH Series] Episode 2: Video conferencing tools that we tried: A short review
+Date: 2020-05-04 11:00
 Author: Iqbal Abdullah
 Tags: covid19; remotework; 2020; workfromhome;
 Slug: wfh-series-video-conferencing-tools-review-2
 Lang: en
-Thumbnail: images/recruit-works-image.jpg
+Thumbnail: images/video-conferencing-review/meet-screenshot.png
 Summary: A short review on video conferencing tools that we tried. Maybe you'll find the one that fits your needs here.
 
-# Reviewing video conferencing tools
+# WFH Series: Episode 2: Reviewing video conferencing tools
 
 We tried out a few video conferencing tools to see if they fit with how we work
 and our environment. Below is a simple review of the tools that we tried out and
@@ -88,6 +88,8 @@ If you're using Meet from G Suite though, you'll get access to a [Meet quality
 tool dashboard](https://support.google.com/a/answer/9204857?hl=en) which shows
 data that can help debug issues with your meetings.
 
+![How Meet looks like]({filename}/images/video-conferencing-review/meet-screenshot.png)
+
 Like other web-browser based solution, Meet puts a significant amount of stress
 on your computer, and some of our team members complained that after a short
 while joining a call, their laptops become hot. The Meet quality tool dashboard
@@ -97,7 +99,7 @@ same time the dashboard says that if it's under 80% (?) it's normal.
 You can also record your video conferences on Meet, but you'd have to [subscribe
 to the G Suite Enterprise edition](https://support.google.com/a/answer/7557052?hl=en), which is too expensive for us.
 
-**In terms of call quality and user experience, we would give it around a 3.67 out of 5.**
+**In terms of call quality and user experience, we give it 3.67 out of 5.**
 This is very subjective though, and is based on user feedback after each meeting:
 We don't have hard numbers such as data drop rate and jitter to compare the quality for each of
 the services that we tried, and to be fair, there are too many moving parts (such as WiFi interference)
@@ -132,7 +134,7 @@ notification (like an incoming phone call) on her mobile app or desktop.
 You can't do much with your calls on Slack though, like recording it. But since [Slack
 can be used for free](https://www.theverge.com/2020/3/30/21194567/slack-account-set-up-instant-direct-messaging-channels-work-from-home-remote-office), this means your video calls will also be free.
 
-**In terms of call quality and user experience, we would give it around a 3 out of 5.**
+**In terms of call quality and user experience, we give it 3 out of 5.**
 
 ### [Zoom](https://www.zoom.us/)
 
@@ -181,7 +183,7 @@ between rooms, but the participants can't and will only be able to talk to those
 in the same room as them. As host, you can then join all of them back into one
 big conference.
 
-**In terms of call quality and user experience, we would give it around a 3.5 out of 5.**
+**In terms of call quality and user experience, we give it 3.5 out of 5.**
 
 ### [Whereby](https://whereby.com/)
 
@@ -265,7 +267,7 @@ and during our Whereby calls my system load average was 8. It was the highest
 between all the tools that we tried. I did not see the same issue for smaller
 calls like two or four people.
 
-**In terms of call quality and user experience, we would give it around a 2.6 out of 5.**
+**In terms of call quality and user experience, we give it 2.6 out of 5.**
 
 ### [BlueJeans](https://www.bluejeans.com/)
 
@@ -294,7 +296,7 @@ participants (there was the typical talking-under-water issue) and some of the
 participants took longer-than-usual to join the conference call from the link
 through their browser.
 
-**In terms of call quality and user experience, we would give it around a 2 out of 5.**
+**In terms of call quality and user experience, we give it 2 out of 5.**
 
 ## In Summary
 
