@@ -40,16 +40,17 @@ DEFAULT_PAGINATION = 10
 RELATIVE_URLS = True
 
 DEFAULT_DATE_FORMAT = "%Y/%m/%d"
-STATIC_PATHS = ['images', 'pdfs', 'extra/CNAME', '_redirects']
+STATIC_PATHS = ['images', 'pdfs', 'extra/CNAME', '_redirects', 'extra/robots.txt']
 EXTRA_PATH_METADATA = {
         'extra/CNAME': {'path': 'CNAME'},
+        'extra/robots.txt': {'path': 'robots.txt'},
         '_redirects': {'path': '_redirects'},
     }
 
 #THEME           = 'themes/simple'
 THEME           = 'themes/xoxzo'
 PLUGIN_PATHS    = [os.path.join(PROJECT_ROOT, 'plugins'),]
-PLUGINS         = ['i18n_subsites', 'footer_insert', 'related_posts', 'autostatic', 'advthumbnailer',]
+PLUGINS         = ['i18n_subsites', 'footer_insert', 'related_posts', 'autostatic', 'advthumbnailer', 'sitemap',]
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n',]}
 
 I18N_UNTRANSLATED_ARTICLES  = "remove"
@@ -91,3 +92,17 @@ FOOTER_INSERT_HTML = 'profile/%(author)s.html'
 DISQUS_SITENAME = 'https://xoxzo-blog.disqus.com/'
 
 RELATED_POSTS_MAX = 3
+
+SITEMAP = {
+    'format': 'xml',
+    'priorities': {
+        'articles': 0.5,
+        'indexes': 0.5,
+        'pages': 0.5
+    },
+    'changefreqs': {
+        'articles': 'monthly',
+        'indexes': 'daily',
+        'pages': 'monthly'
+    }
+}
