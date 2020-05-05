@@ -546,6 +546,11 @@ footer .fa-instagram {
   color: #aaa;
 }
 
+.paginator .page-num {
+  cursor: auto!important;
+  color: inherit;
+}
+
 .curated-post h2 {
   font-size: 1.25rem;
   font-weight: bold;
