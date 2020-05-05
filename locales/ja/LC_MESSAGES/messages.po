@@ -29,6 +29,11 @@ msgstr "Xoxzoの公式ブログ"
 msgid "You May Like"
 msgstr "こちらもオススメ"
 
+#: themes/xoxzo/templates/article.html:95 themes/xoxzo/templates/base.html:48
+#: themes/xoxzo/templates/index.html:35
+msgid "Xoxzo Logo"
+msgstr "Xoxzoのロゴ"
+
 #: themes/xoxzo/templates/author.html:11
 msgid "Articles by"
 msgstr "記事投稿："

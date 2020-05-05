@@ -1,14 +1,14 @@
 # Translations template for PROJECT.
-# Copyright (C) 2019 ORGANIZATION
+# Copyright (C) 2020 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-17 01:16+0900\n"
+"POT-Creation-Date: 2020-05-05 17:51+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -27,6 +27,11 @@ msgstr ""
 
 #: themes/xoxzo/templates/article.html:88
 msgid "You May Like"
+msgstr ""
+
+#: themes/xoxzo/templates/article.html:95 themes/xoxzo/templates/base.html:48
+#: themes/xoxzo/templates/index.html:35
+msgid "Xoxzo Logo"
 msgstr ""
 
 #: themes/xoxzo/templates/author.html:11
@@ -57,8 +62,10 @@ msgstr ""
 msgid "Xoxzo Telephony API"
 msgstr ""
 
-#: themes/xoxzo/templates/base.html:89
-msgid "Xoxzo Inc. All rights reserved."
+#: themes/xoxzo/templates/base.html:90
+msgid ""
+"Xoxzo Inc. All rights reserved.<br>Powered by <a "
+"href=\"http://getpelican.com/\">Pelican</a>"
 msgstr ""
 
 #: themes/xoxzo/templates/categories.html:9

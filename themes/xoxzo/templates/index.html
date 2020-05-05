@@ -32,7 +32,7 @@
                 {% if article.thumbnail %}
                 <img src="{{ SITEURL }}/{{ article.thumbnail | thumbnail('350x_') }}">
                 {% else %}
-                <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/xoxzo_thumbnail.png">
+                <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/xoxzo_thumbnail.png" alt="{% trans %}Xoxzo Logo{% endtrans %}">
                 {% endif %}
               </a>
             </div>
