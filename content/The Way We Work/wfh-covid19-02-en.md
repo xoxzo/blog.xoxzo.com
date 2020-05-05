@@ -15,7 +15,7 @@ go to the working setup of another four members of our team.
 ## Our Working Setup
 
 Some of us have started beefing up our workstation setup at home. Here is a
-sneak peak of how they look like:
+sneak peek of how they look like:
 
 ### Arthur and Zaki
 
@@ -26,11 +26,11 @@ sneak peak of how they look like:
 Comment by Arthur explaining his setup:
 > I use only one display, usually external monitor, because it's big enough to work comfortably.
 > I like to keep my table clean, without anything on it distracting my attention.
-> I use laptop when I want to move to another place, or when I have a video conference.
+> I use a laptop when I want to move to another place, or when I have a video conference.
 
 Comment by Zaki:
 > Mainly I turn off my laptop monitor and only using the external monitor. I use a simple laptop
-> stand and it makes me better on typing. I also use USB mouse which makes it easier for
+> stand and it makes me better on typing. I also use a USB mouse which makes it easier for
 > moving the cursor.
 
 ### Jeong and Fathur
@@ -45,8 +45,8 @@ Jeong comments on her setup:
 
 Comment by Fathur explaining his setup:
 > I prefer ample space for hand rest. Coding mainly done at Macbook because of the sharpness
-> of Retina screen, and secondary monitor serve as the preview. I can only work properly
-> when I have proper desk and chair available.
+> of Retina screen, and secondary monitor serves as the preview. I can only work properly
+> when I have a proper desk and chair available.
 
 That's it from four more of our team members. We'll continue with the series in our next post with
 other examples from the rest of our team.
