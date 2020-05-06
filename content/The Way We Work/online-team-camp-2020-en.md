@@ -8,9 +8,9 @@ Thumbnail: images/team-camp-2020-group-picture.png
 Summary: We did our annual Spring Team Camp in April this year, but it was done entirely online.
 
 Every March all of us get together for around one week, for what we call the
-Spring Team Camp. Last year [we all gathered on Jeju island for a few days]({filename}/The Way We Work/cju-team-camp-2018-en.md).
+Spring Team Camp. Last year [we all gathered in Okinawa for a week]({filename}/The Way We Work/oka-team-camp-2019-en.md).
 
-# Spring 2019 is here
+# Spring 2020 is here
 
 For this year, we initially planned to have our camp in [Da Nang, Vietnam](https://en.wikipedia.org/wiki/Da_Nang)
 in March. Unfortunately, COVID19 broke out in February and now has affected movement and travel in
