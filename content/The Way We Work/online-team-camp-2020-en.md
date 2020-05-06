@@ -8,7 +8,7 @@ Thumbnail: images/team-camp-2020-group-picture.png
 Summary: We did our annual Spring Team Camp in April this year, but it was done entirely online.
 
 Every March all of us get together for around one week, for what we call the
-Spring Team Camp. Last year [we all gathered in Okinawa for a week]({filename}/The Way We Work/oka-team-camp-2019-en.md).
+Spring Team Camp. Last year [we all gathered in Okinawa for a few days]({filename}/The Way We Work/oka-team-camp-2019-en.md).
 
 # Spring 2020 is here
 

@@ -129,4 +129,4 @@ visa requirements. As most of our team members are South East Asia and South Asi
 we hired a judicial scrivener specializing in immigration regulations to help us arrange visas
 for our team members. This helped a lot to reduce the stress and smoothing out the process.
 
-We'll see you again at our next team camp, somewhere else on the planet!
+We'll see you again [next year]({filename}/The Way We Work/online-team-camp-2020-en.md)!
