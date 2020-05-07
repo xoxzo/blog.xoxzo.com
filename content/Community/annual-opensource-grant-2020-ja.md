@@ -9,16 +9,31 @@ Summary: 2020年度 Xoxzo 年次オープンソース助成金の受賞者を発
 
 # オープンソース助成金
 
-今年も、春はやってきたと思ったら駆け抜けていき、2019年度の助成金受賞者の発表の時がやってきました。
+今年も、春はやってきたと思ったら駆け抜けていき、2020年度の助成金受賞者の発表の時がやってきました。
 
 Xoxzoの **年次オープンソース助成金** って何？ とおっしゃる方は、
 昨年の[助成金開始のブログ]({filename}/Community/annual-opensource-grant-2019-ja.md)をぜひご一読ください。
 
-## 2019年度の 助成金付与者
+## 2020年度の 助成金付与者
 
 2019年度は、Xoxzoのエンジニアチームが選ぶこのオープンソースプロジェクト助成金に
-2,000米ドルを予算計上しました。結果、総額1,980ドルを付与することができました。
+2,584米ドルを予算計上しました。
+内訳は、エンジニアチームの選んだプロジェクトへ 1,584ドル、Python ソフトウェアファウンデーション(PSF) への特別助成が 1,000ドルとなっています。
 
+### [Python Software Foundation (PSF)](https://www.python.org/psf/donations/)
+
+[PyCon 2020 が、](https://pycon.blogspot.com/2020/03/pycon-us-2020-in-pittsburgh.html) アメリカ国内での新型コロナウィルスの感染拡大を受けて取りやめとなりました。
+
+おしまいに、[Django Software Foundation](https://www.djangoproject.com/fundraising/)へ　
+750米ドルの寄付を行いました。
+
+*Django は、ハイレベルな Python ウェブフレームワークで、素早い開発と、整ったプログラム的デザインを
+促進します。
+Xoxzoでは、設立当初から Django を使い続けて10年以上を数えます。進化を続け、どんなウェブ開発プロジェクトにも
+強固な基盤を築いてくれる、実用的なフレームワークであることを実証しています。*
+
+![DSF donation]({filename}/images/grantspayments/2019-dsf-payment-proof-01.png)
+![DSF donation]({filename}/images/grantspayments/2019-dsf-payment-proof-02.png)
 
 ### [Fabric](https://github.com/fabric/fabric)
 
@@ -67,18 +82,7 @@ Xoxzoのエンジニアが、APIのエンドポイントのテストをしたり
 ![Pelican donation]({filename}/images/grantspayments/2019-payment-pelican.png)
 
 
-### [Django Software Foundation (DSF)](https://www.djangoproject.com/foundation/)
 
-おしまいに、[Django Software Foundation](https://www.djangoproject.com/fundraising/)へ　
-750米ドルの寄付を行いました。
-
-*Django は、ハイレベルな Python ウェブフレームワークで、素早い開発と、整ったプログラム的デザインを
-促進します。
-Xoxzoでは、設立当初から Django を使い続けて10年以上を数えます。進化を続け、どんなウェブ開発プロジェクトにも
-強固な基盤を築いてくれる、実用的なフレームワークであることを実証しています。*
-
-![DSF donation]({filename}/images/grantspayments/2019-dsf-payment-proof-01.png)
-![DSF donation]({filename}/images/grantspayments/2019-dsf-payment-proof-02.png)
 
 ## その他、助成を行いたかったにもかかわらず、出来なかったもの
 
