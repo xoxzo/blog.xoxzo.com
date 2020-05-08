@@ -20,7 +20,7 @@ and even a brand change,
 how we treat each other and who we are when we're at work change more slowly and
 adheres to a certain character.
 
-In the end, this is the core or the so-called DNA of the company. But unlike Automattic,
+In the end, this is the core or the so-called DNA of the company. But, unlike Automattic,
 we did not write it down, and I think it's about time we do.
 
 The aim is to put our culture and values in writing, codify, and publicize them as a
