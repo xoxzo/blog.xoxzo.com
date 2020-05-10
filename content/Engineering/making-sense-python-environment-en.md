@@ -5,7 +5,7 @@ Lang: en
 Tags: python; venv; virtualenv; pyenv; conda
 Author: Kamal Mustafa
 Thumbnail: /images/python-env.png
-Summary: Let try to understand all the tools in setting up python development environment.
+Summary: Let try to understand all the tools in setting up python development environment. Venv, pip, pyenv, we got it covered.
 
 It has become a joke among Python newcomer on the plethora of tools needed to 
 setup your python environment. You probably has heard about virtualenv, venv, 
