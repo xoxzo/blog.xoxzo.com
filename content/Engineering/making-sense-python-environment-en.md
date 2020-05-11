@@ -37,7 +37,7 @@ Then installing packages from PyPI is as simple as:-
 
 While look simple, newcomer already facing a lot of problem here. The thing is, `python` the command used to install pip above, must come from somewhere. Many tutorials assume `python` is there and in most cases it is. But even it is there, it not necessarily the "python" that you want.
 
-On Linux system, when you type the command `python` (or any command for that matter), the shell that executing your command must look in somewhere. The place to look for the command is defined in environment variables call `PATH`. This basically a list of directories where the shell will look for the command to execute. Below is example of PATH values on my system:-
+On Linux system, when you type the command `python` (or any command for that matter), the shell that executing your command must look in somewhere. The place to look for the command is defined in environment variables called `PATH`. This basically a list of directories where the shell will look for the command to execute. Below is example of PATH values on my system:-
 
 ```
 echo $PATH
@@ -124,12 +124,12 @@ So we have done  with venv, what about pyenv? Most of the time you don't really 
 2. You need to use multiple version of python. For example your project must be tested against python2.7, python3.4, python3.6, python3.7 and python3.8. In this situation, pyenv can be helpful.
 
 
-In short, pyenv give you different version of python. But do you still need venv if you already use pyenv? In general yes. As we can see above, pyenv only give different version of python. Back to lesson #2 above, you should always use separate venv for your project. The different is that now the python that will be used to create the venv "probably" come from pyenv instead of the system python. I put "probably" in quote because you have to very certain here. So go back to the first lesson. This is one area that trip many people off. They don't really know which python they're using, once they have started using pyenv.
+In short, pyenv give you different version of python. But do you still need venv if you already use pyenv? In general yes. As we can see above, pyenv only give different version of python. Back to lesson #2 above, you should always use separate venv for your project. The different is that now the python that will be used to create the venv "probably" come from pyenv instead of the system python. I put "probably" in quote because you have to be very certain here. So go back to the first lesson. This is one area that trip many people off. They don't really know which python they're using, once they have started using pyenv.
 
 ## Summary
 We have come to an end and hopefully you have better idea now how to setup your python environment. Let's recap what we have learned so far:-
 
-1. Always make sure you know which python you're currently using. Check and double check again, always. Follow the path mentioned in the error message that should bring you to the actual python being used.
+1. Always make sure you know which python you're currently using. Check, re-check and double check again, always. Follow the path mentioned in the error message that should bring you to the actual python being used.
 2. Always use separate venv for each of your project or application that you want to install.
 3. You might want to use multiple versions of python. In this case you can use pyenv, or deadsnake ppa if you're on ubuntu.
 
