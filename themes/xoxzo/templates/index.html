@@ -32,7 +32,7 @@
                 {% if article.thumbnail %}
                 <img src="{{ SITEURL }}/{{ article.thumbnail | thumbnail('350x_') }}">
                 {% else %}
-                <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/xoxzo_thumbnail.png">
+                <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/xoxzo_thumbnail.png" alt="{% trans %}Xoxzo Logo{% endtrans %}">
                 {% endif %}
               </a>
             </div>
@@ -77,10 +77,10 @@
   {% endif %}
 
   {% block footer_category %}
-  <section class="sidebar-menu d-lg-none pt-5 br-0">
+  <section class="sidebar-menu d-lg-none pt-5 pb-5 br-0">
     <div class="container">
       <h3>{% trans %}CATEGORIES{% endtrans %}</h3>
-      <ul>
+      <ul class="mb-3 mb-sm-1">
         {% for category, articles in categories %}
         <li><a href="{{ SITEURL }}/{{ category.url }}">{{ category }}</a></li>
         {% endfor %}
