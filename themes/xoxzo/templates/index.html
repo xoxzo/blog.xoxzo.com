@@ -77,10 +77,10 @@
   {% endif %}
 
   {% block footer_category %}
-  <section class="sidebar-menu d-lg-none pt-5 br-0">
+  <section class="sidebar-menu d-lg-none pt-5 pb-5 br-0">
     <div class="container">
       <h3>{% trans %}CATEGORIES{% endtrans %}</h3>
-      <ul>
+      <ul class="mb-3 mb-sm-1">
         {% for category, articles in categories %}
         <li><a href="{{ SITEURL }}/{{ category.url }}">{{ category }}</a></li>
         {% endfor %}
