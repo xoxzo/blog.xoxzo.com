@@ -9,8 +9,6 @@
 {% endblock %}
 
 {% block head %}
-  {{ super() }}
-
   {% for tag in article.tags %}
   <meta name="tags" content="{{ tag }}">
   {% endfor %}
@@ -34,9 +32,11 @@
   {% else %}
   <meta name="twitter:image" content="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/xoxzo_twcard.png">
   {% endif %}
-{% endblock %}
+{% endblock head %}
 
 {% block title %}{{ article.title }} | {% trans %}Xoxzo Official Blog{% endtrans %}{% endblock title %}
+
+{% block page_description %}{{ article.summary|striptags }}{% endblock page_description %}
 
 {% block content %}
 <main class="content">

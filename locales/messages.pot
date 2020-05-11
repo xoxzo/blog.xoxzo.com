@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-05 17:51+0900\n"
+"POT-Creation-Date: 2020-05-11 17:52+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,7 +21,7 @@ msgstr ""
 msgid "Archives"
 msgstr ""
 
-#: themes/xoxzo/templates/article.html:39
+#: themes/xoxzo/templates/article.html:37
 msgid "Xoxzo Official Blog"
 msgstr ""
 
@@ -29,7 +29,7 @@ msgstr ""
 msgid "You May Like"
 msgstr ""
 
-#: themes/xoxzo/templates/article.html:95 themes/xoxzo/templates/base.html:48
+#: themes/xoxzo/templates/article.html:95 themes/xoxzo/templates/base.html:66
 #: themes/xoxzo/templates/index.html:35
 msgid "Xoxzo Logo"
 msgstr ""
@@ -42,27 +42,34 @@ msgstr ""
 msgid "Authors"
 msgstr ""
 
-#: themes/xoxzo/templates/base.html:49
+#: themes/xoxzo/templates/base.html:15 themes/xoxzo/templates/base.html:23
+#: themes/xoxzo/templates/base.html:27
+msgid ""
+"Xoxzo posts web telephony and cloud communication trends, news, events, "
+"new releases and engineering tips to build voice and SMS applications."
+msgstr ""
+
+#: themes/xoxzo/templates/base.html:67
 msgid "BLOG"
 msgstr ""
 
-#: themes/xoxzo/templates/base.html:57
+#: themes/xoxzo/templates/base.html:75
 msgid "https://info.xoxzo.com/en/"
 msgstr ""
 
-#: themes/xoxzo/templates/base.html:57
+#: themes/xoxzo/templates/base.html:75
 msgid "Who We Are"
 msgstr ""
 
-#: themes/xoxzo/templates/base.html:68
+#: themes/xoxzo/templates/base.html:86
 msgid "https://www.xoxzo.com/en/"
 msgstr ""
 
-#: themes/xoxzo/templates/base.html:68
+#: themes/xoxzo/templates/base.html:86
 msgid "Xoxzo Telephony API"
 msgstr ""
 
-#: themes/xoxzo/templates/base.html:90
+#: themes/xoxzo/templates/base.html:108
 msgid ""
 "Xoxzo Inc. All rights reserved.<br>Powered by <a "
 "href=\"http://getpelican.com/\">Pelican</a>"

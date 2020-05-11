@@ -42,37 +42,38 @@ msgstr "記事投稿："
 msgid "Authors"
 msgstr "投稿者"
 
-#: themes/xoxzo/templates/base.html:49
+#: themes/xoxzo/templates/base.html:15 themes/xoxzo/templates/base.html:23
+#: themes/xoxzo/templates/base.html:27
+msgid ""
+"Xoxzo posts web telephony and cloud communication trends, news, events, "
+"new releases and engineering tips to build voice and SMS applications."
+msgstr "Xoxzoはウェブテレフォニーやクラウド・コミュニケーションの動向、ニュース、イベント、新規リリースや技術者向けのヒントを発信しています。"
+
+#: themes/xoxzo/templates/base.html:67
 msgid "BLOG"
 msgstr "ブログ"
 
-#: themes/xoxzo/templates/base.html:57
+#: themes/xoxzo/templates/base.html:75
 msgid "https://info.xoxzo.com/en/"
 msgstr "https://info.xoxzo.com/ja/"
 
-#: themes/xoxzo/templates/base.html:57
+#: themes/xoxzo/templates/base.html:75
 msgid "Who We Are"
 msgstr "Xoxzoについて"
 
-#: themes/xoxzo/templates/base.html:60
-msgid "Twitter"
-msgstr "ツイッター"
-
-#: themes/xoxzo/templates/base.html:64
-msgid "Blog Feed"
-msgstr "ブログフィード"
-
-#: themes/xoxzo/templates/base.html:68
+#: themes/xoxzo/templates/base.html:86
 msgid "https://www.xoxzo.com/en/"
 msgstr "https://www.xoxzo.com/ja/"
 
-#: themes/xoxzo/templates/base.html:68
+#: themes/xoxzo/templates/base.html:86
 msgid "Xoxzo Telephony API"
 msgstr "XoxzoテレフォニーAPI"
 
-#: themes/xoxzo/templates/base.html:89
-msgid "Xoxzo Inc. All rights reserved."
-msgstr "Xoxzo Inc. All rights reserved."
+#: themes/xoxzo/templates/base.html:108
+msgid ""
+"Xoxzo Inc. All rights reserved.<br>Powered by <a "
+"href=\"http://getpelican.com/\">Pelican</a>"
+msgstr ""
 
 #: themes/xoxzo/templates/categories.html:9
 #: themes/xoxzo/templates/categories.html:15
