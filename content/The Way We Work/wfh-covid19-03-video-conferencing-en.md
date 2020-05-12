@@ -1,5 +1,5 @@
 Title: [WFH Series] Episode 2: Video conferencing tools that we tried: A short review
-Date: 2020-05-04 11:00
+Date: 2020-05-12 11:00
 Author: Iqbal Abdullah
 Tags: covid19; remotework; 2020; workfromhome;
 Slug: wfh-series-video-conferencing-tools-review-2
