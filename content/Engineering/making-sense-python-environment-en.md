@@ -7,9 +7,7 @@ Author: Kamal Mustafa
 Thumbnail: /images/python-env.png
 Summary: Let try to understand all the tools in setting up python development environment. Venv, pip, pyenv, we got it covered.
 
-It has become a joke among Python newcomer on the plethora of tools needed to 
-setup your python environment. You probably has heard about virtualenv, venv, 
-pip, pyenv, conda and few others.
+It has become a [joke](https://xkcd.com/1987/) among Python newcomer on the plethora of tools needed to setup your python environment. You probably has heard about virtualenv, venv, pip, pyenv, conda and few others.
 
 It is quite understandable why this is overwhelming to newcomer, although I 
 personally think it's not as bad as in JS land ;)
