@@ -2,18 +2,36 @@
 <html lang="{{ DEFAULT_LANG }}" prefix="og: http://ogp.me/ns#">
 <head>
   <meta charset="utf-8">
+  <meta http-equiv="Pragma" CONTENT="no-cache">
+  <meta http-equiv="Expires" CONTENT="-1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="google-site-verification" content="t4rlWAOKliFFgziLhYYxEpNtIh_W-794Po7iuYIL__Q" />
 
   {% block head %}
-  {% endblock %}
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ SITENAME }}">
+  <meta property="og:description" content="{% trans %}Xoxzo posts web telephony and cloud communication trends, news, events, new releases and engineering tips to build voice and SMS applications.{% endtrans %}">
+  <meta property="og:url" content="{{ SITEURL }}">
+  <meta property="og:site_name" content="{{ SITENAME }}">
+  <meta property="og:image" content="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/xoxzo_opengraph.png">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@xoxzocom">
+  <meta name="twitter:title" content="{{ SITENAME }}">
+  <meta name="twitter:description" content="{% trans %}Xoxzo posts web telephony and cloud communication trends, news, events, new releases and engineering tips to build voice and SMS applications.{% endtrans %}">
+  <meta name="twitter:image" content="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/xoxzo_twcard.png">
+  {% endblock head %}
+
+  <meta name="description" content="{% block page_description %}{% trans %}Xoxzo posts web telephony and cloud communication trends, news, events, new releases and engineering tips to build voice and SMS applications.{% endtrans %}{% endblock page_description %}">
 
   <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
   <link rel="icon" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/xoxzo_16x16_favicon.png">
 
   <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/bootstrap.min.css">
   <link href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/font-awesome/css/fontawesome-all.min.css" rel="stylesheet" type="text/css">
-  <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/main.css">
+  <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/main.min.css">
   <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/pygment.css">
 
   {% if FEED_ALL_RSS %}
@@ -45,7 +63,7 @@
   <nav class="navbar fixed-top navbar-expand-md main-nav navbar-dark">
     <div class="container">
       <a class="navbar-brand brand-name" href="{{ SITEURL }}">
-        <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/xoxzo_navbar_logo_w_trans.png">
+        <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/xoxzo_navbar_logo_w_trans.png" alt="{% trans %}Xoxzo Logo{% endtrans %}">
           <span>{% trans %}BLOG{% endtrans %}</span>
       </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -94,6 +112,20 @@
   <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/jquery.min.js"></script>
   <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/tether.min.js"></script>
   <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/bootstrap.min.js"></script>
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Blog",
+      "name": "Xoxzo Blog”,
+      "url": "https://blog.xoxzo.com/",
+      "sameAs": [
+        "https://twitter.com/xoxzocom",
+        "https://www.instagram.com/lifeatxoxzo/",
+        "https://www.linkedin.com/company/xoxzo-inc-/"
+      ]
+    }
+  </script>
 
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
