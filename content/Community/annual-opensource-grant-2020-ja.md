@@ -12,9 +12,9 @@ Summary: 2020年度 Xoxzo 年次オープンソース助成金の受賞者を発
 今年も、春はやってきたと思ったら駆け抜けていき、2020年度の助成金受賞者の発表の時がやってきました。
 
 Xoxzoの **年次オープンソース助成金** って何？ とおっしゃる方は、
-昨年の[助成金開始のブログ]({filename}/Community/annual-opensource-grant-2018-ja.md)をぜひご一読ください。
+[助成金開始のブログ]({filename}/Community/annual-opensource-grant-2018-ja.md)をぜひご一読ください。
 
-昨年の **年次オープンソース助成金** については、[こちら]({filename}/Community/annual-opensource-grant-2019-ja.md)をお読みください。
+昨年の年次オープンソース助成金については、[こちら]({filename}/Community/annual-opensource-grant-2019-ja.md)をお読みください。
 
 ## 2020年度の 助成金付与者
 
