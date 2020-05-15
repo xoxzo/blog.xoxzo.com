@@ -34,44 +34,43 @@ _我々は、このサービス全てにおいてPythonを用いており、PSF�
 
 [Matt Holts's GitHub Sponsors](https://github.com/sponsors/mholt) プログラムを通じて、300米ドルを (25ドル x 12ヶ月) を、Caddy webserver へ寄付しました。
 
-*Caddy は、is an exciting open source project. Taking a new look at a decade-old paradigm on how webserver supposed to work.
-The config file syntax is refreshing and automatic https is super handy. While we’re not using it in production yet,
-we wish the time will come soon, especially with the new caddy2 release. For now, we use it to help in our development environment.
-Try to search "poor man ngrok"*
+*Caddy は、大変面白いオープンソースプロジェクトです。 ウェブサーバーの本来の働きを、10年もののパラダイムにて見た目も新たにします。
+設定ファイルの構文は更新され、自動の https は非常に便利です。
+Xoxzoでは、本番環境ではまだ使用していないのですが、caddy2 のリリース時こそ、使えると良いなと思っています。
+現在は、開発環境のみで使用中です。 "poor man ngrok"で検索してみてください。*
 
 ![Donation to Caddy via Matt Holts]({filename}/images/grantspayments/2020-caddy-mholt-sponsorship.png)
 
 ### [Pelican](https://blog.getpelican.com/)
 
-We have contributed USD300 through Justin Mayer for the [Pelican Dev Team](https://donate.getpelican.com/)
-who is maintaining the project. 
+[Pelican Dev Team](https://donate.getpelican.com/) プロジェクトの保守管理を行う Justin Mayer さんを通じて、300米ドルを寄付しました。
 
-
-*Well, Pelican is the reason you’re reading this very blog post. We think it's instrumental to try to make the donation an annual ritual.*
+*今まさにお読みいただいている、Xoxzoのブログ投稿は、ペリカンによるものです。
+毎年の習慣としてこの寄付を行うことが、助けになるのでは、と考えています。*
 
 ![Donation to Pelican via Justin Mayer]({filename}/images/grantspayments/2020-payment-pelican.png)
 
 ### [psycopg](https://www.psycopg.org/)
 
-We donated a total of USD384 (USD32 x 12 months) to the project through [Daniele Varrazzo's GitHub
-Sponsors](https://github.com/sponsors/dvarrazzo/) program.
+[Daniele Varrazzo's GitHub
+Sponsors](https://github.com/sponsors/dvarrazzo/) プログラムを通じて、
+384米ドル (32ドル x 12ヶ月) 寄付しました。
 
 
-*For any application out there that uses postgresql (with python), then psycopg doesn’t need any introduction.
-It’s what connecting python to the most advance open source RDBMS in the world.
-We use psycopg to implement a queue system based on postgresql.*
+*postgresql（pythonを使用）を使用しているアプリケーションの場合、psycopgを導入する必要はありません。
+これは、Pythonを世界で最も先進的なオープンソースRDBMSに接続するものです。
+Xoxzoでは、psycopgを使用して、postgresqlに基づくキューシステムを実装しています。*
 
 ![Donation to psycopg via Daniele Varrazzo]({filename}/images/grantspayments/2020-psycopg-dvarrazo-sponsorship.png)
 
 ### [Django REST Framework (DRF)](https://fund.django-rest-framework.org/topics/funding/)
 
-We have allocated USD600 (USD50 x 12 months) for [Django REST Framework (DRF)](https://fund.django-rest-framework.org/topics/funding/)
-by subscribing to their basic plan for the whole year. 
+[Django REST Framework (DRF)](https://fund.django-rest-framework.org/topics/funding/)には、
+基本プランを一年間契約することにより、600米ドル (50ドル x 12 ヶ月) を計上しました。
 
 
-*We donated to DRF in 2018 and we still actively using it, so it's time for another round of showing
-support to this magnificent open-source project.*
+*Xoxzoでは、2018年にも、オープンソース助成金にて、DRFに寄付を行い、現在も積極的に使用しています。そのため、この素晴らしいオープンソースプロジェクトへのサポートを再び示すときが来たと思っています。.*
 
 ![Donation to Django REST Framework]({filename}/images/grantspayments/2020-donation-for-rest.png)
 
-P.S: Thank you to [Beth Kanter](https://www.flickr.com/photos/cambodia4kidsorg/2265381560/in/photolist-4sbF1L-ar78tZ-SNGH5k-ar79ug-7GLMMJ-7auyvr-ar9ZuW-ar7icH-7EbFm8-77iC2j-oZNUt1-YoqUGr-7auzAZ-77iLXu-ara183-4vbuEU-pKkoXm-77eCxx-2WUBnD-ar9VGm-7TT3jY-by7HPM-6ymtsa-7ayps3-77ePoH-874G8Z-4VguA1-6G4JuU-77eAQF-ar7dxc-EDyr4-77iKd5-8yZZmV-rDGuZy-77iLM5-bbBEV8-e3okg3-DLbcqc-77ezLa-69ykkm-7aysgQ-72ePxc-ar7dt4-XZTS3m-e6eDqU-bbBC66-bbBCjr-RYrLD2-e693vi-9ULwL) for the open-source your love thumbnail.
+P.S: [Beth Kanter](https://www.flickr.com/photos/cambodia4kidsorg/2265381560/in/photolist-4sbF1L-ar78tZ-SNGH5k-ar79ug-7GLMMJ-7auyvr-ar9ZuW-ar7icH-7EbFm8-77iC2j-oZNUt1-YoqUGr-7auzAZ-77iLXu-ara183-4vbuEU-pKkoXm-77eCxx-2WUBnD-ar9VGm-7TT3jY-by7HPM-6ymtsa-7ayps3-77ePoH-874G8Z-4VguA1-6G4JuU-77eAQF-ar7dxc-EDyr4-77iKd5-8yZZmV-rDGuZy-77iLM5-bbBEV8-e3okg3-DLbcqc-77ezLa-69ykkm-7aysgQ-72ePxc-ar7dt4-XZTS3m-e6eDqU-bbBC66-bbBCjr-RYrLD2-e693vi-9ULwL) さんの、大好きなオープンソースのサムネイルに、感謝。
