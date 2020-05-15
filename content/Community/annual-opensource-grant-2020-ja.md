@@ -12,7 +12,9 @@ Summary: 2020年度 Xoxzo 年次オープンソース助成金の受賞者を発
 今年も、春はやってきたと思ったら駆け抜けていき、2020年度の助成金受賞者の発表の時がやってきました。
 
 Xoxzoの **年次オープンソース助成金** って何？ とおっしゃる方は、
-昨年の[助成金開始のブログ]({filename}/Community/annual-opensource-grant-2019-ja.md)をぜひご一読ください。
+昨年の[助成金開始のブログ]({filename}/Community/annual-opensource-grant-2018-ja.md)をぜひご一読ください。
+
+昨年の **年次オープンソース助成金** については、[こちら]({filename}/Community/annual-opensource-grant-2019-ja.md)をお読みください。
 
 ## 2020年度の 助成金付与者
 
@@ -22,7 +24,14 @@ Xoxzoの **年次オープンソース助成金** って何？ とおっしゃ�
 
 ### [Python Software Foundation (PSF)](https://www.python.org/psf/donations/)
 
-[PyCon 2020 が、](https://pycon.blogspot.com/2020/03/pycon-us-2020-in-pittsburgh.html) アメリカ国内での新型コロナウィルスの感染拡大を受けて取りやめとなりました。
+[PyCon 2020](https://pycon.blogspot.com/2020/03/pycon-us-2020-in-pittsburgh.html) が、アメリカ国内での新型コロナウィルスの感染拡大を受けて取りやめとなりました。毎年の PyConは、私達が依存しているPythonの、インフラ企画への助成金を含めたPSFの運営に相当な貢献となっています。PyCon 2020の取りやめは、[PSFの動きに直接的な影響を及ぼすのです](http://pyfound.blogspot.com/2020/03/psfs-projected-2020-financial-outcome.html)。
+
+_我々は、このサービス全てにおいてPythonを用いており、PSFを含めたPythonコミュニティに、13年前のXoxzoのスタート時より、支えられてきたのです。PSFの活動の重要性を指示していることを評したいと、[XoxzoはPSF救済のため、この大変な時勢には少なくも思える 1,000米ドルの寄付を行いました](https://twitter.com/iqbalabd/status/1238477812077441024?s=19)。
+
+
+
+
+
 
 おしまいに、[Django Software Foundation](https://www.djangoproject.com/fundraising/)へ　
 750米ドルの寄付を行いました。
