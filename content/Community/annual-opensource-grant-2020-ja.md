@@ -26,88 +26,52 @@ Xoxzoの **年次オープンソース助成金** って何？ とおっしゃ�
 
 [PyCon 2020](https://pycon.blogspot.com/2020/03/pycon-us-2020-in-pittsburgh.html) が、アメリカ国内での新型コロナウィルスの感染拡大を受けて取りやめとなりました。毎年の PyConは、私達が依存しているPythonの、インフラ企画への助成金を含めたPSFの運営に相当な貢献となっています。PyCon 2020の取りやめは、[PSFの動きに直接的な影響を及ぼすのです](http://pyfound.blogspot.com/2020/03/psfs-projected-2020-financial-outcome.html)。
 
-_我々は、このサービス全てにおいてPythonを用いており、PSFを含めたPythonコミュニティに、13年前のXoxzoのスタート時より、支えられてきたのです。PSFの活動の重要性を指示していることを評したいと、[XoxzoはPSF救済のため、この大変な時勢には少なくも思える 1,000米ドルの寄付を行いました](https://twitter.com/iqbalabd/status/1238477812077441024?s=19)。
+_我々は、このサービス全てにおいてPythonを用いており、PSFを含めたPythonコミュニティに、13年前のXoxzoのスタート時より、支えられてきたのです。PSFの活動の重要性を指示していることを評したいと、[XoxzoはPSF救済のため、この大変な時勢には少なくも思える 1,000米ドルの寄付を行いました](https://twitter.com/iqbalabd/status/1238477812077441024?s=19)。_
 
+![Donation to the PSF]({filename}/images/grantspayments/2020-donation-to-psf.png)
 
+### [Caddy webserver](https://caddyserver.com/)
 
+[Matt Holts's GitHub Sponsors](https://github.com/sponsors/mholt) プログラムを通じて、300米ドルを (25ドル x 12ヶ月) を、Caddy webserver へ寄付しました。
 
+*Caddy は、is an exciting open source project. Taking a new look at a decade-old paradigm on how webserver supposed to work.
+The config file syntax is refreshing and automatic https is super handy. While we’re not using it in production yet,
+we wish the time will come soon, especially with the new caddy2 release. For now, we use it to help in our development environment.
+Try to search "poor man ngrok"*
 
-
-おしまいに、[Django Software Foundation](https://www.djangoproject.com/fundraising/)へ　
-750米ドルの寄付を行いました。
-
-*Django は、ハイレベルな Python ウェブフレームワークで、素早い開発と、整ったプログラム的デザインを
-促進します。
-Xoxzoでは、設立当初から Django を使い続けて10年以上を数えます。進化を続け、どんなウェブ開発プロジェクトにも
-強固な基盤を築いてくれる、実用的なフレームワークであることを実証しています。*
-
-![DSF donation]({filename}/images/grantspayments/2019-dsf-payment-proof-01.png)
-![DSF donation]({filename}/images/grantspayments/2019-dsf-payment-proof-02.png)
-
-### [Fabric](https://github.com/fabric/fabric)
-
-[Fabric](https://github.com/fabric/fabric) へは、管理を行っている
-[Jeff Forcier](http://bitprophet.org/projects/#giving-back)の、寄付金ページより、
-350米ドルを寄付しました。
-
-*[Fabric](https://github.com/fabric/fabric) は、ハイレベル Python (2.7, 3.4+) ライブラリで、
-SSHからリモートでシェルコマンドを実行できるように設計されています。
-Xoxzoでは、スクリプトのデプロイ時に、[Fabric](https://github.com/fabric/fabric)を広く利用しています。*
-
-![Fabric donation]({filename}/images/grantspayments/2019-payment-fabric.png)
-
-### [Sphinx](http://www.sphinx-doc.org/ja/master/)
-
-現在、Sphinxのメイン管理者である [tk0miya](https://gist.github.com/tk0miya/de06a9239502543aea916c925eb1e3c6) 
-さんへ、日本円で30,000円を寄付しました。
-
-*Sphinx は気の利いた美しいドキュメンテーションんを簡単に作成できるツールです。
-もともとは、Python community から始まっており、今では様々な他プロジェクトへと用途が広がっています。
-[XoxzoのAPIドキュメンテーション](https://docs.xoxzo.com/ja/) の生成に使われており、その能力は実証済みです。*
-
-![Sphinx donation]({filename}/images/grantspayments/2019-payment-sphinx.png)
-
-### [httpie](https://httpie.org/)
-
-このプロジェクトを運営している [Jakub Roztočil](https://www.paypal.me/roztocil)さんへ、
-350米ドルを寄付しました。
-
-*HTTPie は、たやすくデバッグしたりHTTPサーバーやRESful APIs、ウェブサービスへのインタラクトが行えるよう、
-ひとつの http command で構成されています。
-Xoxzoのエンジニアが、APIのエンドポイントのテストをしたり、HTTP接続関連のトラブルシューティングに
-広く活用しています。*
-
-![httpie donation]({filename}/images/grantspayments/2019-payment-httpie.png)
+![Donation to Caddy via Matt Holts]({filename}/images/grantspayments/2020-caddy-mholt-sponsorship.png)
 
 ### [Pelican](https://blog.getpelican.com/)
 
-プロジェクトを管理している、Justin Mayer さんを通じて、250米ドルを [Pelican Dev Team](https://donate.getpelican.com/)
-へ寄付しました。
-
-*Xoxzoでは、[本ブログ](https://blog.xoxzo.com/en/)にて Pelicanを使っています。
-というのも、データベース不要でメンテナンス労力を減らす、サーバーのサイドロジックが
-使いやすいからです。*
-
-![Pelican donation]({filename}/images/grantspayments/2019-payment-pelican.png)
+We have contributed USD300 through Justin Mayer for the [Pelican Dev Team](https://donate.getpelican.com/)
+who is maintaining the project. 
 
 
+*Well, Pelican is the reason you’re reading this very blog post. We think it's instrumental to try to make the donation an annual ritual.*
+
+![Donation to Pelican via Justin Mayer]({filename}/images/grantspayments/2020-payment-pelican.png)
+
+### [psycopg](https://www.psycopg.org/)
+
+We donated a total of USD384 (USD32 x 12 months) to the project through [Daniele Varrazzo's GitHub
+Sponsors](https://github.com/sponsors/dvarrazzo/) program.
 
 
-## その他、助成を行いたかったにもかかわらず、出来なかったもの
+*For any application out there that uses postgresql (with python), then psycopg doesn’t need any introduction.
+It’s what connecting python to the most advance open source RDBMS in the world.
+We use psycopg to implement a queue system based on postgresql.*
 
-Xoxzoチームが助成先候補にしていたプロジェクトがあと数箇所あるのですが、
-残念ながら、ウェブサイト上に寄付の受付窓口が明白に示されていなかったり、
-管理者へ連絡するも、お返事をいただけなかったものがありました。
+![Donation to psycopg via Daniele Varrazzo]({filename}/images/grantspayments/2020-psycopg-dvarrazo-sponsorship.png)
 
-その中には、こういったものがありました。
+### [Django REST Framework (DRF)](https://fund.django-rest-framework.org/topics/funding/)
 
-- django-queue
-- SwitchIO
-- django-nose
-- nose
-- mysqlclient
-- baker
+We have allocated USD600 (USD50 x 12 months) for [Django REST Framework (DRF)](https://fund.django-rest-framework.org/topics/funding/)
+by subscribing to their basic plan for the whole year. 
 
-ではまた来年。
 
-P.S: [Beth Kanter](https://www.flickr.com/photos/cambodia4kidsorg/2265381560/in/photolist-4sbF1L-ar78tZ-SNGH5k-ar79ug-7GLMMJ-7auyvr-ar9ZuW-ar7icH-7EbFm8-77iC2j-oZNUt1-YoqUGr-7auzAZ-77iLXu-ara183-4vbuEU-pKkoXm-77eCxx-2WUBnD-ar9VGm-7TT3jY-by7HPM-6ymtsa-7ayps3-77ePoH-874G8Z-4VguA1-6G4JuU-77eAQF-ar7dxc-EDyr4-77iKd5-8yZZmV-rDGuZy-77iLM5-bbBEV8-e3okg3-DLbcqc-77ezLa-69ykkm-7aysgQ-72ePxc-ar7dt4-XZTS3m-e6eDqU-bbBC66-bbBCjr-RYrLD2-e693vi-9ULwL) のオープンソースサムネイルに感謝。
+*We donated to DRF in 2018 and we still actively using it, so it's time for another round of showing
+support to this magnificent open-source project.*
+
+![Donation to Django REST Framework]({filename}/images/grantspayments/2020-donation-for-rest.png)
+
+P.S: Thank you to [Beth Kanter](https://www.flickr.com/photos/cambodia4kidsorg/2265381560/in/photolist-4sbF1L-ar78tZ-SNGH5k-ar79ug-7GLMMJ-7auyvr-ar9ZuW-ar7icH-7EbFm8-77iC2j-oZNUt1-YoqUGr-7auzAZ-77iLXu-ara183-4vbuEU-pKkoXm-77eCxx-2WUBnD-ar9VGm-7TT3jY-by7HPM-6ymtsa-7ayps3-77ePoH-874G8Z-4VguA1-6G4JuU-77eAQF-ar7dxc-EDyr4-77iKd5-8yZZmV-rDGuZy-77iLM5-bbBEV8-e3okg3-DLbcqc-77ezLa-69ykkm-7aysgQ-72ePxc-ar7dt4-XZTS3m-e6eDqU-bbBC66-bbBCjr-RYrLD2-e693vi-9ULwL) for the open-source your love thumbnail.
