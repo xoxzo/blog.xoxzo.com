@@ -34,9 +34,11 @@ _我々は、このサービス全てにおいてPythonを用いており、PSF�
 
 [Matt Holts's GitHub Sponsors](https://github.com/sponsors/mholt) プログラムを通じて、300米ドルを (25ドル x 12ヶ月) を、Caddy webserver へ寄付しました。
 
-*Caddy は、大変面白いオープンソースプロジェクトです。 ウェブサーバーの本来の働きを、10年もののパラダイムにて見た目も新たにします。
-設定ファイルの構文は更新され、自動の https は非常に便利です。
-Xoxzoでは、本番環境ではまだ使用していないのですが、caddy2 のリリース時こそ、使えると良いなと思っています。
+*Caddy は、大変ワクワクするオープンソースプロジェクトです。 
+ウェブサーバがどのように動作するかについての10年来のパラダイムを、新しい視点で見ています。
+設定ファイルの構文はリフレッシュされ、自動の https は非常に便利です。
+Xoxzoでは、本番環境ではまだ使用していないのですが、
+ 特に caddy2 もリリースされたので、すぐに使える日が来ることを願っています。
 現在は、開発環境のみで使用中です。 "poor man ngrok"で検索してみてください。*
 
 ![Donation to Caddy via Matt Holts]({filename}/images/grantspayments/2020-caddy-mholt-sponsorship.png)
