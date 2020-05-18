@@ -1,52 +1,43 @@
-Title: Our Company Creed
+Title: Xoxzoの社是(シャゼ)
 Date: 2020-05-08 12:00
 Slug: xoxzo-our-company-creed
 Lang: ja
 Tags: xoxzo; 2020; ourvalues;
 Author: Iqbal Abdullah
 Thumbnail: /images/oka-teamcamp-2019/IMG_9071-syuri-jo.jpg
-Summary: We're codifying and publicizing our values, summed up as our Company Creed
+Summary: Xoxzoの価値観を、社是としてまとめ、成文化して公表します。
 
-[Automattic](https://automattic.com/), the company that built Wordpress, has a
-[company creed](https://ma.tt/2011/09/automattic-creed/), something that they
-write down that codifies their culture and their values as a company.
+[Wordpress](https://ja.wordpress.com/)を構築した会社である [Automattic](https://automattic.com/) には、[社是(シャゼ)](https://ma.tt/2011/09/automattic-creed/)があります。これは、会社としての文化と価値観を成文化したものです。
 
-We've been around since 2007, and we've gone through a few cycles of products
-and even a brand change,
-([this]({filename}/Announcements/EOL-maritex-en.md), [this]({filename}/Press Release/marimore-acquiring-fullcourt-en.md),
-[this]({filename}/Press Release/change-of-corporate-identity-en.md),
-[this]({filename}/Press Release/fullcourt-end-of-service-announcement-en.md), and
-[this]({filename}/Announcements/ezsms-api-shutting-down-ja.md)) but our people,
-how we treat each other and who we are when we're at work change more slowly and
-adheres to a certain character.
+Xoxzoは2007年の創立以来、製品においては数回に渡る変更・更新があり、ブランドの変更も行いました。
+([こちら]({filename}/Announcements/EOL-maritex-ja.md)や [こちら]({filename}/Press Release/marimore-acquiring-fullcourt-ja.md)、
+[こちら]({filename}/Press Release/change-of-corporate-identity-ja.md)、
+[こちら]({filename}/Press Release/fullcourt-end-of-service-announcement-ja.md)、それに
+[こちら]({filename}/Announcements/ezsms-api-shutting-down-ja.md))
+しかし、Xoxzoの従業員、お互いへの配慮や、存在意義、作業時間帯などの変化に関してはゆるやかで、ある一定の特性に
+固執してきました。
 
-In the end, this is the core or the so-called DNA of the company. But, unlike Automattic,
-we did not write it down, and I think it's about time we do.
+つまり、これは会社の中核、またはいわゆるDNAです。しかし、Automattic社と違うのは、Xoxzoではそれを整えて見える化していないところでした。
+今こそ、その時です。
 
-The aim is to put our culture and values in writing, codify, and publicize them as a
-group of people in a company working towards a particular goal. The creed doesn’t
-identify us with our products per se, but identifies on the philosophies
-and attitudes that we constantly and consciously follow and take while we carry on with
-our jobs and serve our customers.
+Xoxzoの文化と価値観を書面にして、体系化し、特定の目標に向けて取り組む企業メンバーのまとまりとして公表することを目的としています。
+社是は、製品自体と従業員を一体化するものではありませんが、顧客へのサービス提供やその他の作業時間、従業員が常に、そして意識的に従い、取っている哲学と態度と重ね合わさるものなのです。
 
-So after reflecting on the years we’ve been in business and the qualities that we've
-naturally pursued, we've decided on our own company creed. Some of them are
-similar to Automattic, as we feel that the values and their culture are similar
-to ours (a distributed and remote team where communication is important).
+Xoxzoでは、ビジネスに携わってきた年月、そして自然と追求してきた資質を振り返った後、自社の社是を決定しました。
+Automattic社の Company Creed に似ているものもあります。それは、Automattic社の価値観と文化が、Xoxzo（コミュニケーションが重要な分散型のリモートチーム）のものと似ていると感じているからです。
 
-I present to you our **Company Creed**:-
 
-- I will always be curious and I will never stop learning. 
-- I value progress over perfection. 
-- I am in a marathon, not a sprint, and no matter how far our goal is, I will reach it one step at a time, one day at a time.
-- I will not shy away from sharing responsibility with my colleagues and working together towards solutions. Their problem is my problem.
-- I will challenge the best of my ability to solve problems that we face, because that is why we are here. 
-- I empower my colleagues, our customers and our community, and, likewise, I'm empowered by them.
-- I will communicate as much as possible, because this is the first step of empowerment as a distributed company.
-- I will invest heavily in building tools: tools to make us work better, and tools to make the customer happier since these are the means to empower.
+株式会社Xoxzoの **社是** を公表します。
 
-Although we change at a much slower pace than our products do, we humans as
-living beings grow, change and adapt to the circumstances around us. The creed is also
-a living thing, and will keep evolving just as we do.
+- 常に好奇心を持ち、学び止めることはありません。
+- 完成よりも進歩を大切にします。
+- 参加しているのは、スプリントではなくマラソン。目標がどれほど遠くにあるとしても、一度に1歩ずつ、1日ずつ達成する。
+- 同僚と責任を分かち合い、解決策に向けて、ためらうことなく共に働きます。同僚の問題は自分の問題です。
+- 直面している問題を解決するため、自分の能力を最大限に発揮します。それこそが、自分の存在理由です。
+- 同僚、お客様、コミュニティに自分が力を与えているのと同様に、力を得てもいます。
+- 分散型企業としてのエンパワーメントの基本として、できる限り多くのコミュニケーションを行います。
+- 自らの生産性を上げるツール、顧客をより幸せにするツール。こういったツールこそがエンパワーメントであるため、構築への努力は怠りません。
 
-Our Company Creed will be included in our hiring contracts going forward.
+Xoxzoの従業員における変化のペースは、製品における変化よりもはるかに遅いのですが、人間はとりまく環境に適応しながら人間として成長します。社是もそういった意味では生きているものであり、同様に進化し続けていきます。
+
+当社の社是は、今後の採用契約に含まれます。
