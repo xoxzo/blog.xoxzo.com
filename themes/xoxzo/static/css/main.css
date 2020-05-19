@@ -485,14 +485,19 @@ footer .fa-instagram {
 
 .author-profile {
   padding: 40px 15px;
-  margin-top: 40px;
+  margin: 40px 0;
   border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
   text-align: center;
 }
 
 .author-profile .profile-content {
   text-align: left;
   font-size: 0.9rem;
+}
+
+.author-profile .profile-content p {
+  margin-bottom: 0;
 }
 
 .author-profile img {
@@ -527,10 +532,6 @@ footer .fa-instagram {
   color: white;
   background-color: #bbb;
   border-color: #bbb;
-}
-
-#disqus_thread {
-  border-top: 1px solid #ddd;
 }
 
 .pagination {
