@@ -15,7 +15,7 @@ myself didn't really use the word of `Work-from-home` but `SOHO`.
 
 What images I had in `SOHO` that time were **Working-From-Home SAVES!**
 
-![wfh image](images/wfh-7years.jpg)
+![wfh image](/images/wfh-7years.jpg)
 
 What can we save?
 
@@ -75,6 +75,6 @@ Although it is hard to focus on my work due to the stay-home children, we stay i
 
 P.S. My child didn't allow me to dump the L-shaped desk. It is sitting in her room happily ever after.
 
-![l-shaped-desk](images/l-shaped-desk.jpg)
+![l-shaped-desk](/images/l-shaped-desk.jpg)
 
 photo credit: shixart1985 <a href="http://www.flickr.com/photos/156445661@N02/49700781533">Cup of coffee near the Macbook closeup.</a> via <a href="http://photopin.com">photopin</a> <a href="https://creativecommons.org/licenses/by/2.0/">(license)</a>
