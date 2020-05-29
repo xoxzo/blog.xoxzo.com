@@ -18,7 +18,7 @@ Python Pandas documentation. The event was held on February 15, 2020 at
 [Mozilla Community Space, Jakarta](https://mozilla.or.id/).
 [Marc Garcia](https://datapythonista.me/), one of pandas core contributor was there on sprint.
 
-![Jakarta Pandas Documentation Sprint]({filename}/images/jkt-pandas-doc-sprint.jpg)
+![Jakarta Pandas Documentation Sprint Situation]({filename}/images/jkt-pandas-doc-sprint-situation.jpg)
 
 I could say, the event was very well-organized.
 Python ID announced it on [twitter](https://twitter.com/id_python/status/1226677637738721280?s=20).
@@ -39,6 +39,8 @@ that Galuh is really keen on contributing to open source.
 So, Galuh presented how we're gonna do the sprint. From setting up the environment, forking the repo,
 finding which pandas documentation that is easy to improve for a beginners, and finally making
 the pull request.
+
+![Jakarta Pandas Documentation Sprint Photo Group]({filename}/images/jkt-pandas-doc-sprint.jpg)
 
 I managed to created few [pull requests](https://github.com/pandas-dev/pandas/pulls?q=is%3Apr+is%3Aclosed+author%3Aza)
 and have it merged. Since I don't use Python Pandas on my daily
