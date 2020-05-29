@@ -18,7 +18,9 @@ Python Pandas documentation. The event was held on February 15, 2020 at
 [Mozilla Community Space, Jakarta](https://mozilla.or.id/).
 [Marc Garcia](https://datapythonista.me/), one of pandas core contributor was there on sprint.
 
-I could say, the event was properly organized.
+![Jakarta Pandas Documentation Sprint]({filename}/images/jkt-pandas-doc-sprint.jpg)
+
+I could say, the event was very well-organized.
 Python ID announced it on [twitter](https://twitter.com/id_python/status/1226677637738721280?s=20).
 There were some information and requirements about
 [the sprint](https://github.com/pandanistas/pandanistas_sprint_jakarta2020). After that,
