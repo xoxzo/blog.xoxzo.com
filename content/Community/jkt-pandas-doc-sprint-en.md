@@ -1,5 +1,5 @@
 Title: Pandas Documentation Sprint in Jakarta
-Date: 2020-06-02 00:00
+Date: 2020-05-29 16:00
 Author: Zaki Akhmad
 Tags: pandas, sprint, Jakarta
 Lang: en
