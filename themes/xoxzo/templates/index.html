@@ -30,7 +30,7 @@
             <div class="col-6 col-md-3 article-thumbnail ml-auto mr-auto">
               <a href="{{ SITEURL }}/{{ article.url }}">
                 {% if article.thumbnail %}
-                <img src="{{ SITEURL }}/{{ article.thumbnail | thumbnail('350x_') }}">
+                <img src="{{ SITEURL }}/{{ article.thumbnail | thumbnail('350x_') }}" alt="{{ article.title }}">
                 {% else %}
                 <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/xoxzo_thumbnail.png" alt="{% trans %}Xoxzo Logo{% endtrans %}">
                 {% endif %}
