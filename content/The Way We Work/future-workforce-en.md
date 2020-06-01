@@ -18,16 +18,16 @@ Since we’re just 2 years shy of “the future”, maybe it’s time to pause a
 
 How many of those skills do you think you have?
 
-1.       Sense-making: in a world where machines are evolving in a much faster rate, and hundreds of tasks are being handled by artificial intelligence, it’s a given that the future worker develops a high ability to determine the significance of what is being expressed. Think of this more as critical thinking instead of brute knowledge acquisition.
+1.       Sense-making: in a world where machines are evolving at a much faster rate, and hundreds of tasks are being handled by artificial intelligence, it’s a given that the future worker develops a high ability to determine the significance of what is being expressed. Think of this more as critical thinking instead of brute knowledge acquisition.
 
 
-2.       Social intelligence: just like sense-making, feeling is far from being tackled by artificial intelligence. Social intelligent workers are able to quickly assess emotions of those around them, which leads to fast adaptation of words, tone, and gestures. It’s a key skill for smooth collaboration and relationship development.
+2.       Social intelligence: just like sense-making, feeling is far from being tackled by artificial intelligence. Social intelligent workers are able to quickly assess the emotions of those around them, which leads to fast adaptation of words, tone, and gestures. It’s a key skill for smooth collaboration and relationship development.
 
 
-3.       Novel & adaptive thinking: as the world shifts for opportunities in the middle-skill white-collar and blue-collar jobs – due to global offshoring and increase in automation -, jobs are concentrating in both ends of the spectrum: high-skill high-wage technical and management occupations on one side, and low-skill, low-wage manual jobs such as food service and personal care. What both those opposite sides of the scale have in common is the need for situational adaptation – the ability to quickly adapt and respond to the moment. Writing a convincing legal argument and creating a new dish out of few ingredients both require novel thinking and adaptability.
+3.       Novel & adaptive thinking: as the world shifts for opportunities in the middle-skill white-collar and blue-collar jobs – due to global offshoring and increase in automation -, jobs are concentrating in both ends of the spectrum: high-skill high-wage technical and management occupations on one side, and low-skill, low-wage manual jobs such as food service and personal care. What both those opposite sides of the scale have in common is the need for situational adaptation – the ability to quickly adapt and respond to the moment. Writing a convincing legal argument and creating a new dish out of a few ingredients both require novel thinking and adaptability.
 
 
-4.       Cross-cultural competency: the rise of remote work and global connected corporations tend to clash extremely different culture environments into one another. The ability to operate in ever-changing cultural settings is a skill necessary for the future worker to freely roam wherever his abilities are best suited at the moment, as well as flawlessy interacting with an ever more diverse team.
+4.       Cross-cultural competency: the rise of remote work and global connected corporations tend to clash extremely different cultural environments into one another. The ability to operate in ever-changing cultural settings is a skill necessary for the future worker to freely roam wherever his abilities are best suited at the moment, as well as flawlessly interacting with an ever more diverse team.
 
 
 5.       Computational thinking: remember the sudden increase in artificial intelligence? This means an exponential increase in available data, which then requires more computational thinking skills in order to make sense of this information. Once again, it’s the shift from brute force to analytical skills.
