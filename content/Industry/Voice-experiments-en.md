@@ -7,7 +7,7 @@ Lang: en
 Thumbnail: images/unnamed.png
 Summary: New experiments that Google is doing based on voice-activated commands
 
-Google once again jumps forward with another push for technological advancement along with creative uses. We at Xoxzo are open fans of any kind of experiments that companies try with voice-based application, so of course, we are always happy with initiatives such as Voice Experiments.
+Google once again jumps forward with another push for technological advancement along with creative uses. We at Xoxzo are open fans of any kind of experiment that companies try with voice-based applications, so of course, we are always happy with initiatives such as Voice Experiments.
 
 Currently, the project tackles different ways to explore music, games, storytelling, and even a meme creator. The one that really caught my attention though was MixLab.
 
