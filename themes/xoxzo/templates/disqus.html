@@ -2,6 +2,8 @@
 <script>
 var disqus_config = function () {
   this.language = "{{ DEFAULT_LANG }}";
+  this.page.url = "{{ SITEURL }}";
+  this.page.identifier = "{{ article.url }}";
 };
 
 (function() { // DON'T EDIT BELOW THIS LINE
