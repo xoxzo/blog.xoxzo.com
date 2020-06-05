@@ -10,7 +10,7 @@ Summary: The Xoxzo team shows what kind of setup do they have working from home 
 # WFH Series: Episode 1, Part 3
 
 Continuing from [Part 2]({filename}/The Way We Work/wfh-covid19-02-en.md), we'll
-go to the working setup of the last three members of our team.
+go to the working setup of the last four members of our team.
 
 ## Our Working Setup
 
