@@ -48,5 +48,4 @@ Comment by Fathur explaining his setup:
 > of Retina screen, and secondary monitor serves as the preview. I can only work properly
 > when I have a proper desk and chair available.
 
-That's it from four more of our team members. We'll continue with the series in our next post with
-other examples from the rest of our team.
+That's it from four more of our team members. We'll continue with the series in [our last part]({filename}/The Way We Work/wfh-covid19-04-en.md) with more examples from the rest of our team.
