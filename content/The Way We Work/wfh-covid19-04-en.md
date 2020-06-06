@@ -26,12 +26,12 @@ homes to work, while others work at the dining or kitchen table.
 
 Comment by Aiko explaining her setup:
 > I work with just one laptop. I also keep 4-5 mobile phones in handy for the frequent test of our APIs.
-> Regularly working in the lounge sofa then moving into the car for the kids' after-school activities.
+> Regularly working on the lounge sofa then moving into the car for the kids' after-school activities.
 > As the lounge is now occupied by kids since the school closure started, I work on the dining table. 
 
 Comment by Akira:
-> This my WFH setup. I usually close my MacBook at home when external display is connected due to
-> the space on my desk. When I  have video meeting, I will open the MacBook or use mobile phone to send video.
+> This my WFH setup. I usually close my MacBook at home when an external display is connected due to
+> the space on my desk. When I a have video meeting, I will open the MacBook or use a mobile phone to send video.
 
 ### Surya and Jules
 
@@ -42,13 +42,13 @@ Comment by Akira:
 Surya's comments on his setup:
 > I have a thing or two for large displays, so I like having a large display attached to my computer.
 > I tend to divide the screen into multiple small screens when working, while it doubles down as a part
-> of my gaming rig on lazy evenings. However for complete concentration, the laptop screen serves best
+> of my gaming rig on lazy evenings. However, for complete concentration, the laptop screen serves best
 > with its limited screen real estate to keep your mind in one place.
 
 Comment from Jules explaining his setup:
-> I work inside my room and it's really helped me boost my productivity. I am a morning person,
-> so when I wake up, I just go to my desk, sit down, relax, listen a bit of my music then start away with coding.
+> I work inside my room and it really helped me boost my productivity. I am a morning person,
+> so when I wake up, I just go to my desk, sit down, relax, listen to a bit of my music then start away with coding.
 
-That's it from four more of our team members. This is the last part of this
-episode, but we'll continue writing about the different things we're doing
+That's it from the last four of our team members. This is the last part of this
+episode but we'll continue writing about the different things we're doing
 during this WFH period.
