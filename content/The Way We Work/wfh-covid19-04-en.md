@@ -1,7 +1,7 @@
 Title: [WFH Series] Episode 1, Part 3: Our work from home setup
 Date: 2020-06-02 11:00
 Author: Iqbal Abdullah
-Tags: covid19; remotework; 2020; workfromhome;
+Tags: covid19; remotework; 2020; workfromhome; wfh series;
 Slug: wfh-series-working-setup-3
 Lang: en
 Thumbnail: images/wfh-series/wfh-02-setup-arthur-zaki.jpg
