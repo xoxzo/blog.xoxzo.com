@@ -16,7 +16,7 @@ It is nice to have your logs and usage data in visualized chart.
 But it is always nice to see some text data beside it. 
 Our update this time is to show the figures of SMS sending status, as well as the credits used by each API user.
 
-
+![dashboard image](/images/usagedashboard-20200629en.jpg)
 
 Please visit _Usage Dashboard_ from the side menu after log into your account to find this change, and make sure to contact us for any questions.
 
