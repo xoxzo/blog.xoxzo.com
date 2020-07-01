@@ -6,7 +6,7 @@ Tags: xoxzo; release; 2020; dashboard; update;
 Author: Aiko Yokoyama
 Summary: Usage Dashboard can show you more details!
 
-Our [usage dashboard has been released](/2020-03-05-dashboard-release-en.md) this year, as this is one of the most desired feature of our users on our API service.
+Our [usage dashboard has been released](https://blog.xoxzo.com/en/2020/03/05/new-x4-dashboard/) this year, as this is one of the most desired feature of our users on our API service.
 
 We are pleased to announce an update on this Dashboard, this is an additional feature requested from our users.
 
