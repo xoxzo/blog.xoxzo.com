@@ -6,7 +6,7 @@ Tags: xoxzo; release; 2020; dashboard; update;
 Author: Aiko Yokoyama
 Summary: ご活用いただいております「ご利用内容一覧」ですが、ひと目で確認いただける情報が増え、より便利になりました。
 
-Xoxzoのユーザー様よりリクエストを頂くのが、[API利用量の見える化](/2020-03-05-dashboard-release-ja.md) で、その声にお答えして、
+Xoxzoのユーザー様よりリクエストを頂くのが、[API利用量の見える化](https://blog.xoxzo.com/ja/2020/03/05/new-x4-dashboard/) で、その声にお答えして、
 本年3月に「ご利用内容一覧」がアカウントページでご確認いただけるようになりました。
 
 この度、ご利用内容一覧にアップデートがございますので、お知らせいたします。
