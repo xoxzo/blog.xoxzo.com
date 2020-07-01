@@ -6,9 +6,9 @@ Tags: xoxzo; release; 2020; dashboard; update;
 Author: Aiko Yokoyama
 Summary: Usage Dashboard can show you more details!
 
-Our [usage dashboard has been released](/2020-03-05-dashboard-release-en.md) this year, as this is one of the most desired feature on our API service.
+Our [usage dashboard has been released](/2020-03-05-dashboard-release-en.md) this year, as this is one of the most desired feature of our users on our API service.
 
-We are pleased to announce an update on this Dashboard, this is also a requested feature from our users.
+We are pleased to announce an update on this Dashboard, this is an additional feature requested from our users.
 
 ## text data is shown
 
@@ -20,7 +20,7 @@ Our update this time is to show the figures of SMS sending status, as well as th
 
 Please visit _Usage Dashboard_ from the side menu after log into your account to find this change, and make sure to contact us for any questions.
 
-## do you have any wish?
+## do you have any wish on Xoxzo?
 
 _keizoku kaizen_ is one of our policy and we believe that it often comes with users' wishes. 
 Please contact us with what you think would make our service better, we will be happy to hear from you.
