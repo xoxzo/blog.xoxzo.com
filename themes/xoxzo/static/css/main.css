@@ -661,6 +661,14 @@ a.caption:hover {
   visibility: hidden;
 }
 
+.anchor-link:before {
+  display: block;
+  content: " ";
+  margin-top: -70px;
+  height: 70px;
+  visibility: hidden;
+}
+
 @media (min-width: 576px) {
   body {
     margin-bottom: 140px;
