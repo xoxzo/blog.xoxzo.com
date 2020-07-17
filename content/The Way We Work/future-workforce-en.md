@@ -1,6 +1,6 @@
 Title: Are you part of the future workforce?
 Date: 2018-03-23 12:00
-Author: Gerald
+Author: Geraldo Figueras
 Tags: future; people; humans; work; hiring
 Slug: future-workforce
 Thumbnail: images/futureofwork.gif

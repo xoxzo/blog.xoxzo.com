@@ -1,6 +1,6 @@
 Title: Berkshire Mediaの Shahid Shayaa氏にインタビューしました
 Date: 2017-10-09 12:00
-Author: Gerald
+Author: Geraldo Figueras
 Tags: ビジネス; 音声; 音声api; ソーシャルメディア, 分析; 感情; 将来; テクノロジー; 
 Slug: Interview-with-shahid-shayaa
 Lang: ja

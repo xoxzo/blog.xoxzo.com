@@ -1,6 +1,6 @@
 Title: The 5 challenges of remote meetings
 Date: 2017-09-28 12:00
-Author: Gerald
+Author: Geraldo Figueras
 Tags: remote work; 2017; people;
 Slug: 5-challenges-of-remote-meetings
 Lang: en

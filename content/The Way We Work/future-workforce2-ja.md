@@ -1,6 +1,6 @@
 Title: 未来の労働力　part 2
 Date: 2018-03-30 12:00
-Author: Gerald
+Author: Geraldo Figueras
 Tags: 未来; people; humans; work; hiring
 Slug: future-workforce2
 Thumbnail: images/futurework2.jpg

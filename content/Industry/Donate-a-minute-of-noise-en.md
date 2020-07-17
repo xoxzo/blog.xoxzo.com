@@ -1,6 +1,6 @@
 Title: Donate a Minute of Noise
 Date: 2017-10-03 12:00
-Author: Gerald
+Author: Geraldo Figueras
 Tags: voice api; 2017;
 Slug: Donate-a-minute-of-noise
 Lang: en

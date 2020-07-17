@@ -1,6 +1,6 @@
 Title: How can the design of everyday things help technology advancements?
 Date: 2017-10-05 12:00
-Author: Gerald
+Author: Geraldo Figueras
 Tags: voice api; 2017; 
 Slug: design-of-everyday-things
 Lang: en
