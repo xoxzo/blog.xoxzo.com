@@ -1,6 +1,6 @@
 Title: Voice or Text: which one is the most efficient form of communication?
 Date: 2017-10-12 12:00
-Author: Gerald
+Author: Geraldo Figueras
 Tags: voice api; sms api; text to speech tts;
 Slug: voice-or-text
 Lang: en

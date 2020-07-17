@@ -1,6 +1,6 @@
 Title: The future workforce, Part 2
 Date: 2018-03-30 12:00
-Author: Gerald
+Author: Geraldo Figueras
 Tags: future; people; humans; work; hiring
 Slug: future-workforce2
 Thumbnail: images/futurework2.jpg

@@ -1,6 +1,6 @@
 Title: 日々使うもののデザインが、テクノロジーの進歩に役立っています
 Date: 2017-10-05 12:00
-Author: Gerald
+Author: Geraldo Figueras
 Tags: design; technology, api; voice api; voice appointments; 
 Slug: design-of-everyday-things
 Lang: ja
