@@ -17,7 +17,7 @@ This tutorial is divided into three parts, feel free to choose the parts where y
 - <a href="#using_https">Using Https</a>
 
 
-<h3><a id="assumptions"></a>Set up assumptions</h3>
+<h3 id="assumptions" class="anchor-link">Set up assumptions</h3>
 In order for this tutorial to be effective, I have shared my underlying assumptions below:
 
 1. You are using an Application load balancer (ALB) routing setup, which just means that all traffic is handled by ALB. Classic load balancers do not support WebSockets, while Network load balancers were not used for this tutorial;
@@ -29,7 +29,7 @@ In order for this tutorial to be effective, I have shared my underlying assumpti
 4. lastly, you already have the EB Command Line Interface (CLI) installed, if not, you can follow the instructions <a href="https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install.html" target="_blank">here</a> 
 
 
-<h3><a id="deployment"></a>Deploying your application</h3>
+<h3 id="deployment" class="anchor-link">Deploying your application</h3>
 Once everything is set up, let’s deploy! If you don’t yet have a .ebextensions folder, please do create it in your root directory. Inside, create a config file `01_<your_custom_name>.config` and paste the entries below:
 
     option_settings:
@@ -62,7 +62,7 @@ Make sure you change `<your_app>` to point to your application. Also, note that 
 You can learn more on using Procfiles and other means to extend your EB Linux platform <a href="https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/platforms-linux-extend.html" target="_blank">here</a> and <a href="(https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/python-configuration-procfile.html" target="_blank">here</a> 
 
 
-<h3><a id="using_https"></a>Using https</h3>
+<h3 id="using_https" class="anchor-link">Using https</h3>
 Once you enabled https for your application, you would just need to do a minor tweak in your configuration file to listen for `wss` connections and pass them accordingly. In the config file you have created previously, just edit the code to look like the following:
 
     option_settings:
@@ -97,9 +97,14 @@ There you have it, folks! Hope this guide helped.
 
 References:
 
-https://medium.com/@elspanishgeek/how-to-deploy-django-channels-2-x-on-aws-elastic-beanstalk-8621771d4ff0
-https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.migration-al.html
-https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install.html
-https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/command-options-general.html
-https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/platforms-linux-extend.html
-https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/python-configuration-procfile.html
+[https://medium.com/@elspanishgeek/how-to-deploy-django-channels-2-x-on-aws-elastic-beanstalk-8621771d4ff0](https://medium.com/@elspanishgeek/how-to-deploy-django-channels-2-x-on-aws-elastic-beanstalk-8621771d4ff0)
+
+[https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.migration-al.html](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.migration-al.html)
+
+[https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install.html](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install.html)
+
+[https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/command-options-general.html](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/command-options-general.html)
+
+[https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/platforms-linux-extend.html](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/platforms-linux-extend.html)
+
+[https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/python-configuration-procfile.html](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/python-configuration-procfile.html)
