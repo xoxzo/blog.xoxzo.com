@@ -59,7 +59,7 @@ Next, we use a `Procfile` to run our processes. Create a file named `Procfile` a
 
 Make sure you change `<your_app>` to point to your application. Also, note that we have configured our wsgi entry point here rather than in the config file we did above. Lastly, the daphne server port we’re binding should coincide with the one you specified in your ALB config file as this would receive the requests from WebSockets.
 
-You can learn more on using Procfiles and other means to extend your EB linux platform <a href="https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/platforms-linux-extend.html" target="_blank">here</a> and <a href="(https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/python-configuration-procfile.html" target="_blank">here</a> 
+You can learn more on using Procfiles and other means to extend your EB Linux platform <a href="https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/platforms-linux-extend.html" target="_blank">here</a> and <a href="(https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/python-configuration-procfile.html" target="_blank">here</a> 
 
 
 <h3><a id="using_https"></a>Using https</h3>
