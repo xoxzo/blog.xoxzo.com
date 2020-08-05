@@ -8,19 +8,19 @@ Summary: Learn how to integrate Vue with Django
 
 When I switched from Ruby On Rails to Django, the first thing I notice is the lack of official integration for Webpack.
 
-Webpack is the defacto tools to manage and compile your front end assets.
+Webpack is the defacto tool to manage and compile your front end assets.
 
-Due to lacking of official integration of Webpack, I try countless tutorials with not satisfying result due to several shortcomings
+Due to lacking official integration of Webpack, I try countless tutorials with no satisfying result due to several shortcomings
 
 ### Some of the shortcomings are
 
-1. Most tutorial cater for developer who want to build SPA based web application, so they seperate Vue from Django and Django only served as REST API provider
+1. Most tutorials cater for developers who wants to build SPA based web application, so they separate Vue from Django and Django only served as REST API provider
 
-2. Some tutorial cater for Django coupled with Vue to replace jQuery, however the setup is not suitable for complex Vue component and Vuex state management.
+2. Some tutorials cater for Django coupled with Vue to replace jQuery, however the setup is not suitable for complex Vue component and Vuex state management.
 
 ### What we want to achieve in this tutorial
 
-1. We want to tighthly coupled Vue with Django, so we can utilize the power of Django routing and template syntax
+1. We want to tightly couple Vue with Django, so we can utilize the power of Django routing and template syntax
 
 2. We want to utilize the power of Vue Single File Component (SFC) to build our application
 
@@ -32,9 +32,9 @@ So in this tutorial, I will share on how to setup Vue with Django to achieve our
 
 2. Configure Laravel Mix to compiled assets into our application directory
 
-3. Django template refer to the assets that was compiled by Laravel Mix
+3. Django template refer to the assets that were compiled by Laravel Mix
 
-So when you first read about Laravel Mix, you must be wondering why should we use others framework component in Django project?
+So when you first read about Laravel Mix, you must be wondering why should we use other framework components in Django project?
 
 Contrary to the naming, Laravel Mix is actually a framework-agnostic wrapper for Webpack, which makes the webpack integration becomes really easy.
 
@@ -44,7 +44,7 @@ So we can use Laravel Mix to easily manage our front end assets no matter what f
 
 1. Let assume we have basic Django project setup based on Django tutorial
 
-2. To install Laravel Mix into Django, lets follow the official documentation for Laravel Mix https://laravel-mix.com/docs/5.0/installation
+2. To install Laravel Mix into Django, let's follow the official documentation for Laravel Mix https://laravel-mix.com/docs/5.0/installation
 
 3. At the installation page, scroll down to the section of Stand-Alone Project. We will follow the steps provided here
 
@@ -69,7 +69,7 @@ mkdir src && touch src/app.{js,scss}
 
 ![Default directory for JS and CSS]({filename}/images/vue-django/js-css-default-dir.png)
 
-5. Lets run our first compile using Laravel Mix
+5. Let's run our first compile using Laravel Mix
 
 ```
 node_modules/.bin/webpack --config=node_modules/laravel-mix/setup/webpack.config.js
@@ -151,7 +151,7 @@ touch resources/js/poll.js
 touch resources/sass/poll.scss
 ```
 
-3. If the folder havent exist, create static folder, and inside static folder, create build folder
+3. If the folder hasn't existed, create a static folder, and inside the static folder, create a build folder
 
 ```
 mkdir -p static/build
@@ -191,7 +191,7 @@ npm run dev
 
 ## Install Vue
 
-1. Lets install Vue and start using it inside our Django app. Navigate to the root of our project mysite and run this command to install Vue
+1. Let's install Vue and start using it inside our Django app. Navigate to the root of our project mysite and run this command to install Vue
 
 ```
 npm i vue
@@ -221,7 +221,7 @@ npm run watch
 
 ## Setup Django html to use compiled assets by Laravel Mix
 
-1. Since we dont have any html page yet, we will create a basic html page inside templates/polls directory
+1. Since we don't have any html page yet, we will create a basic html page inside templates/polls directory
 
 ```
 mkdir templates/polls
@@ -273,14 +273,14 @@ touch templates/polls/index.html
 {% endblock %}
 ```
 
-5. Lets update our views.py to use the index.html
+5. Let's update our views.py to use the index.html
 
 ```
 def index(request):
     return render(request, 'polls/index.html')
 ```
 
-6. Lets navigate to http://127.0.0.1:8000/polls/
+6. Let's navigate to http://127.0.0.1:8000/polls/
 
 To verify Vue instance exist and make our development easier, we can install this extension:
 
@@ -292,7 +292,7 @@ If the Vue instance is working, we can see the Vue panel is activated
 
 ## Use Vue Single File Component at Django html
 
-1. To started using Vue in our project, lets create a Single File component. Inside the polls directory, run this
+1. To start using Vue in our project, let's create a Single File component. Inside the polls directory, run this
 
 ```
 mkdir resources/js/components
@@ -364,8 +364,8 @@ We should see the Welcome to Vue at the page. We also can inspect the component 
 
 ## Wrapping Up
 
-If you have made this far, congratulations you have succesfully integrate Vue with Django.
+If you have made this far, congratulations you have successfully integrate Vue with Django.
 
-In next post, we will learn How to pass data from Django into Vue component.
+In the next post, we will learn How to pass data from Django into the Vue component.
 
 Stay tuned and happy coding!
