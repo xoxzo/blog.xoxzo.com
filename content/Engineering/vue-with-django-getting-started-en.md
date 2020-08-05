@@ -44,148 +44,148 @@ So we can use Laravel Mix to easily manage our front end assets no matter what f
 
 - Let assume we have basic Django project setup based on Django tutorial
 
-- To install Laravel Mix into Django, let's follow the official documentation for Laravel Mix https://laravel-mix.com/docs/5.0/installation
+- To install Laravel Mix into Django, let's follow [the official documentation for Laravel Mix](https://laravel-mix.com/docs/5.0/installation)
 
 - At the installation page, scroll down to the section of Stand-Alone Project. We will follow the steps provided here
 
-    ```
-    cd mysite
-    npm init -y
-    npm install laravel-mix --save-dev
-    cp node_modules/laravel-mix/setup/webpack.mix.js ./
-    ```
+```
+cd mysite
+npm init -y
+npm install laravel-mix --save-dev
+cp node_modules/laravel-mix/setup/webpack.mix.js ./
+```
 
-- Open webpack.mix.js and we can see the default configuration where our JS and SASS will be compiled. We will update this configuration later to match our Django project
+- Open `webpack.mix.js` and we can see the default configuration where our JS and SASS will be compiled. We will update this configuration later to match our Django project
 
-    ```
-    mix.js('src/app.js', 'dist/').sass('src/app.scss', 'dist/');
-    ```
+```
+mix.js('src/app.js', 'dist/').sass('src/app.scss', 'dist/');
+```
 
 - Setup default directory and file
 
-    ```
-    mkdir src && touch src/app.{js,scss}
-    ```
+```
+mkdir src && touch src/app.{js,scss}
+```
 
 ![Default directory for JS and CSS]({filename}/images/vue-django/js-css-default-dir.png)
 
 - Let's run our first compile using Laravel Mix
 
-    ```
-    node_modules/.bin/webpack --config=node_modules/laravel-mix/setup/webpack.config.js
-    ```
+```
+node_modules/.bin/webpack --config=node_modules/laravel-mix/setup/webpack.config.js
+```
 
 ![Success compiling assets]({filename}/images/vue-django/success-compiled.png)
 
 - After compile, we can find the compiled assets here
 
-    ```
-    dist/app.css
-    dist/app.js
-    dist/mix-manifest.json
-    ```
+```
+dist/app.css
+dist/app.js
+dist/mix-manifest.json
+```
 
 ![Compiled assets in dist directory]({filename}/images/vue-django/compiled-dist.png)
 
-- Edit package.json and add NPM scripts
+- Edit `package.json` and add NPM scripts
 
-    ```
-    "scripts": {
-        "dev": "npm run development",
-        "development": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
-        "watch": "npm run development -- --watch",
-        "hot": "cross-env NODE_ENV=development node_modules/webpack-dev-server/bin/webpack-dev-server.js --inline --hot --config=node_modules/laravel-mix/setup/webpack.config.js",
-        "prod": "npm run production",
-        "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --no-progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
+```
+"scripts": {
+    "dev": "npm run development",
+    "development": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
+    "watch": "npm run development -- --watch",
+    "hot": "cross-env NODE_ENV=development node_modules/webpack-dev-server/bin/webpack-dev-server.js --inline --hot --config=node_modules/laravel-mix/setup/webpack.config.js",
+    "prod": "npm run production",
+    "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --no-progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
 }
-    ```
+```
 
-- Install cross-env
+- Install `cross-env`
 
-    ```
-    npm install cross-env --save-dev
-    ```
+```
+npm install cross-env --save-dev
+```
 
 - Now you can easily compile your assets by running
 
-    ```
-    npm run dev
-    ```
+```
+npm run dev
+```
 
 - To always listen to asset changes
 
-    ```
-    npm run watch
-    ```
+```
+npm run watch
+```
 
-- Since we started using NPM, we should ignore node_modules directory. 
+- Since we started using NPM, we should ignore `node_modules` directory. 
 
-- Create new .gitignore at the root of the project
+- Create new `.gitignore` at the root of the project
 
-    ```
-    touch .gitignore
-    ```
+```
+touch .gitignore
+```
 
-- Ignore the node_modules
+- Ignore the `node_modules`
 
-    ```
-    # node modules
-    /node_modules
-    ```
+```
+# node modules
+/node_modules
+```
 
 ## Configure Laravel Mix for Django apps
 
-- We gonna create resources folder in our Poll app
+- We gonna create `resources` folder in our Poll app
 
-    ```
-    cd polls
-    mkdir resources
-    mkdir resources/js
-    mkdir resources/sass
-    ```
+```
+cd polls
+mkdir resources
+mkdir resources/js
+mkdir resources/sass
+```
 
 - Create empty js file and scss file for our Poll app
 
-    ```
-    touch resources/js/poll.js
-    touch resources/sass/poll.scss
-    ```
+```
+touch resources/js/poll.js
+touch resources/sass/poll.scss
+```
 
-- If the folder hasn't existed, create a static folder, and inside the static folder, create a build folder
+- If the folder hasn't existed, create a `static` folder, and inside the `static` folder, create a `build` folder
 
-    ```
-    mkdir -p static/build
-    ```
+```
+mkdir -p static/build
+```
 
-- We need to update webpack.mix.js configuration
+- We need to update `webpack.mix.js` configuration
 
-    ```
-    let staticPath = "polls/static/build";
-    let resourcesPath = "polls/resources";
+```
+let staticPath = "polls/static/build";
+let resourcesPath = "polls/resources";
 
-    mix.setResourceRoot("/static/build"); // setResroucesRoots add prefix to url() in scss on example: from /images/close.svg to /static/images/close.svg
-    mix.setPublicPath("polls/static"); // Path where mix-manifest.json is created
+mix.setResourceRoot("/static/build"); // setResroucesRoots add prefix to url() in scss on example: from /images/close.svg to /static/images/close.svg
+mix.setPublicPath("polls/static"); // Path where mix-manifest.json is created
 
-    // if you don't need browser-sync feature you can remove this lines
-    if (process.argv.includes("--browser-sync")) {
-      mix.browserSync("localhost:8000");
-    }
+// if you don't need browser-sync feature you can remove this lines
+if (process.argv.includes("--browser-sync")) {
+  mix.browserSync("localhost:8000");
+}
 
-    // Now you can use full mix api
-    // Refer the file that was created in Step 2 to be compile
-    mix.js(`${resourcesPath}/js/poll.js`, `${staticPath}/`);
-    mix.sass(`${resourcesPath}/sass/poll.scss`, `${staticPath}/`);
-    ```
+// Now you can use full mix api
+// Refer the file that was created in Step 2 to be compile
+mix.js(`${resourcesPath}/js/poll.js`, `${staticPath}/`);
+mix.sass(`${resourcesPath}/sass/poll.scss`, `${staticPath}/`);
+```
 
 - Run the command to compile
 
-    ```
-    npm run dev
-    ```
+```
+npm run dev
+```
 
 ![Compile Poll assets in dist directory]({filename}/images/vue-django/compile-poll-assets.png)
 
-- After successfully compiled, we can see the compiled assets inside the static/build folder
+- After successfully compiled, we can see the compiled assets inside the `static/build` folder
 
 ![Compiled Poll assets in build directory]({filename}/images/vue-django/poll-build-assets.png)
 
@@ -193,94 +193,94 @@ So we can use Laravel Mix to easily manage our front end assets no matter what f
 
 - Let's install Vue and start using it inside our Django app. Navigate to the root of our project mysite and run this command to install Vue
 
-    ```
-    npm i vue
-    ```
+```
+npm i vue
+```
 
-- After installed Vue, we can start using Vue inside our JS file. Lets edit poll.js
+- After installed Vue, we can start using Vue inside our JS file. Lets edit `poll.js`
 
-    ```
-    import Vue from 'vue'
+```
+import Vue from 'vue'
 
-    let vue = new Vue({
-      //
-    }).$mount('#app')
-    ```
+let vue = new Vue({
+  //
+}).$mount('#app')
+```
 
 - Compile again by running
 
-    ```
-    npm run dev
-    ```
+```
+npm run dev
+```
 
 or to automatically recompile by running
 
-    ```
-    npm run watch
-    ```
+```
+npm run watch
+```
 
 ## Setup Django html to use compiled assets by Laravel Mix
 
-- Since we don't have any html page yet, we will create a basic html page inside templates/polls directory
+- Since we don't have any html page yet, we will create a basic html page inside `templates/polls` directory
 
-    ```
-    mkdir templates/polls
-    ```
+```
+mkdir templates/polls
+```
 
-- Create new base_layout.html and index.html file
+- Create new `base_layout.html` and `index.html` file
 
-    ```
-    touch templates/polls/base_layout.html
-    touch templates/polls/index.html
-    ```
+```
+touch templates/polls/base_layout.html
+touch templates/polls/index.html
+```
 
-- Edit base_layout.html. Notice that we use div with id app, to mount Vue instance that was declare in poll.js
+- Edit `base_layout.html`. Notice that we use div with id app, to mount Vue instance that was declare in `poll.js`
 
-    ```
-    {% load static %}
-    <html>
+```
+{% load static %}
+<html>
 
-    <head>
+<head>
 
-    <!-- refer to CSS that was compiled by Laravel Mix -->
+<!-- refer to CSS that was compiled by Laravel Mix -->
 
-    <link rel="stylesheet" type="text/css" href="{% static 'build/poll.css' %}">
-    </head>
+<link rel="stylesheet" type="text/css" href="{% static 'build/poll.css' %}">
+</head>
 
-    <body>
-    <div id="app">
-        {% block main_content %}
-
-        {% endblock %}
-    </div>
-
-    <!-- refer to JS that was compiled by Laravel Mix -->
-    <script type="text/javascript" src="{% static 'build/poll.js' %}"></script>
-    </body>
-
-    </html>
-    ```
-
-- Edit index.html
-
-    ```
-    {% extends 'polls/base_layout.html' %}
-
+<body>
+<div id="app">
     {% block main_content %}
 
-    <h1>Hello, world. You're at the polls index.</h1>
-
     {% endblock %}
-    ```
+</div>
 
-- Let's update our views.py to use the index.html
+<!-- refer to JS that was compiled by Laravel Mix -->
+<script type="text/javascript" src="{% static 'build/poll.js' %}"></script>
+</body>
 
-    ```
-    def index(request):
-        return render(request, 'polls/index.html')
-    ```
+</html>
+```
 
-- Let's navigate to http://127.0.0.1:8000/polls/
+- Edit `index.html`
+
+```
+{% extends 'polls/base_layout.html' %}
+
+{% block main_content %}
+
+<h1>Hello, world. You're at the polls index.</h1>
+
+{% endblock %}
+```
+
+- Let's update our `views.py` to use the `index.html`
+
+```
+def index(request):
+    return render(request, 'polls/index.html')
+```
+
+- Let's navigate to `http://127.0.0.1:8000/polls/`
 
 - To verify Vue instance exist and make our development easier, we can install this extension:
 
@@ -292,71 +292,70 @@ https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanh
 
 ## Use Vue Single File Component at Django html
 
-- To start using Vue in our project, let's create a Single File component. Inside the polls directory, run this
+- To start using Vue in our project, let's create a Single File component. Inside the `polls` directory, run this
 
-    ```
-    mkdir resources/js/components
-    ```
+```
+mkdir resources/js/components
+```
 
 - Create a new Vue Single File Component
 
-    ```
-    touch resources/js/components/DemoComponent.vue
-    ```
+```
+touch resources/js/components/DemoComponent.vue
+```
 
-- Edit DemoComponent.vue
+- Edit `DemoComponent.vue`
 
-    ```
-    <template>
-      <h1>{{ message }}</h1>
-    </template>
+```
+<template>
+  <h1>{{ message }}</h1>
+</template>
 
-    <script>
-    export default {
-      data() {
-        return {
-          message: "Welcome to Vue!",
-        };
-      },
+<script>
+export default {
+  data() {
+    return {
+      message: "Welcome to Vue!",
     };
-    </script>
-    ```
+  },
+};
+</script>
+```
 
-- Register the new component inside poll.js
+- Register the new component inside `poll.js`
 
-    ```
-    import Vue from "vue";
+```
+import Vue from "vue";
 
-    // import components
+// import components
 
-    Vue.component(
-      "demo-component",
-      require("./components/DemoComponent.vue").default
-    );
+Vue.component(
+  "demo-component",
+  require("./components/DemoComponent.vue").default
+);
 
-    let vue = new Vue({
-      //
-    }).$mount("#app");
+let vue = new Vue({
+  //
+}).$mount("#app");
+```
 
-    ```
+- Edit the `polls/index.html`
 
-- Edit the polls/index.html
+```
+{% extends 'polls/base_layout.html' %}
 
-    ```
-    {% extends 'polls/base_layout.html' %}
+{% block main_content %}
 
-    {% block main_content %}
+<h1>Hello, world. You're at the polls index.</h1>
 
-    <h1>Hello, world. You're at the polls index.</h1>
+<!-- load the Vue component -->
 
-    <!-- load the Vue component -->
+<demo-component></demo-component>
 
-    <demo-component></demo-component>
+{% endblock %}
+```
 
-    {% endblock %}
-    ```
-
-- To verify it is working, refresh http://127.0.0.1:8000/polls/
+- To verify it is working, refresh `http://127.0.0.1:8000/polls/`
 
 - We should see the Welcome to Vue at the page. We also can inspect the component at Vue panel
 
