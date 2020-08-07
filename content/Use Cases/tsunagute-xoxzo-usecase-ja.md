@@ -1,10 +1,10 @@
-Title: 【Xoxzo】TSUNAGUTEが telesa-reserve(テレサリザーブ)に Xoxzoの音声電話APIを導入
+Title: 【Xoxzo】株式会社TSUNAGUTEがXoxzoの音声電話APIを導入
 Date: 2020-08-07
 Slug: tsunagute-xoxzo-usecase
 Lang: ja
 Tags: use-cases; secondlife; 
 Author: Aiko Yokoyama
-Thumbnail: images/secondlife-logo.png
+Thumbnail: /images/tsunagute-logo.png
 Summary: クラウド型のバース予約サービスtelesa-reserve(テレサリザーブ)を提供する、株式会社TSUNAGUTE（本社：東京都千代田区）が、Xoxzoの音声通話APIを導入しました。
 
 物流センターでの車両平準化と荷待ち時間削減を実現する、
