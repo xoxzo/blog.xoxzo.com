@@ -1,4 +1,4 @@
-Title: 【Xoxzo】TSUNAGUTE Co.,Ltd uses Xoxzo's Voice API on their Cloud Berth Reservation System "telesa-reserve"
+Title: 【Xoxzo】TSUNAGUTE Co.,Ltd uses Xoxzo's Voice API on "telesa-reserve"
 Date: 2020-08-07
 Slug: tsunagute-xoxzo-usecase
 Lang: en
@@ -30,9 +30,9 @@ _We are looking forward to further functional improvements in the future._
 
 ![tsunagute-logo](/images/tsunagute-logo.png)
 
-企業名：株式会社TSUNAGUTE<br>
-所在地：東京都千代田区大手町1-1-3　大手センタービル<br>
-創業：　2018年9月<br>
+Corporate Name：TSUNAGUTE Co.,Ltd<br>
+Address：Otemachi Building, 1-1-3 Otemachi, Chiyoda-ku, Tokyo<br>
+Founded：　2018/09<br>
 URL: https://www.tsunagute.co.jp/ <br>
 URL：https://www.lo-zine.net/ <br>
 YouTube: https://www.youtube.com/watch?v=YKcKheZKqyo <br>
