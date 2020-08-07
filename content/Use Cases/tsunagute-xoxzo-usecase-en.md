@@ -1,10 +1,10 @@
-Title: 【Xoxzo】TSUNAGUTE Co.,Ltd uses Xoxzo's Voice API on "telesa-reserve"
+Title: 【Xoxzo】TSUNAGUTE uses Xoxzo's Voice API on "telesa-reserve"
 Date: 2020-08-07
 Slug: tsunagute-xoxzo-usecase
 Lang: en
-Tags: use-cases; secondlife; 
+Tags: use-cases; tsunagute; 
 Author: Aiko Yokoyama
-Thumbnail: images/secondlife-logo.png
+Thumbnail: images/tsunagute-logo.png
 Summary: TSUNAGUTE Co.,Ltd, produced and operates Cloud Berth Reservation System "telesa-reserve" uses Xoxzo's Voice API.
 
 [Tsunagute Co.,Ltd](https://www.tsunagute.co.jp/) started to use [Xoxzo's Voice API](https://www.xoxzo.com/en/about/voice-api/) 
