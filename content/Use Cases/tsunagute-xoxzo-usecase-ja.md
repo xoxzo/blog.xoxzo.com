@@ -1,4 +1,4 @@
-Title: 【Xoxzo】TSUNAGUTEがクラウド型バース予約サービスtelesa-reserve(テレサリザーブ)にXoxzoの音声電話APIを導入
+Title: 【Xoxzo】TSUNAGUTEが telesa-reserve(テレサリザーブ)に Xoxzoの音声電話APIを導入
 Date: 2020-08-07
 Slug: tsunagute-xoxzo-usecase
 Lang: ja
