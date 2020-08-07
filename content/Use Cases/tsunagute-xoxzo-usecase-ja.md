@@ -9,7 +9,7 @@ Summary: クラウド型のバース予約サービスtelesa-reserve(テレサ�
 
 物流センターでの車両平準化と荷待ち時間削減を実現する、
 __クラウド型のバース予約サービス[telesa-reserve(テレサリザーブ)](https://www.tsunagute.co.jp/reserve/)__ を提供する[株式会社TSUNAGUTE](https://www.tsunagute.co.jp/)(本社：東京都千代田区)が、
-トラックドライバーの呼び出しに、Xoxzoの音声通話APIを導入しました。
+トラックドライバーの呼び出しに、[Xoxzoの音声通話API](https://www.xoxzo.com/ja/about/voice-api/)を導入しました。
 
 以下、[株式会社TSUNAGUTE](https://www.tsunagute.co.jp/)様のコメントです。_
 
