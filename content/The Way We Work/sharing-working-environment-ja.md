@@ -8,7 +8,7 @@ Thumbnail: images/kl-team-camp-2018.jpg
 Summary: 生産力向上のため、チームキャンプでメンバーの仕事環境を覗いてみました。
 
 2018年7月、チームキャンプがありました。
-今回は、クアラルンプールです。Xoxzoは、[100％リモートワーク](https://info.xoxzo.com/ja/aboutus/)の会社なので、
+今回は、クアラルンプールです。Xoxzoは、[100％リモートワーク](https://info.xoxzo.com/ja/team/)の会社なので、
 同僚と一緒の場所で顔を合わせて仕事ができる時間は、いつも面白くて盛り上がります。
 
 ![KL team camp 2018](/images/kl-team-camp-2018.jpg)

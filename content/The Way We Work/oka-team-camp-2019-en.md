@@ -11,6 +11,8 @@ Every March all of us get together for around one week, for what we call the
 Spring Team Camp.
 ![Xoxzo People at GWave]({filename}/images/oka-teamcamp-2019/IMG_9166-gwave-group-picture.jpg)
 
+Last year [we all gathered in Jeju island for a few days]({filename}/The Way We Work/cju-team-camp-2018-en.md).
+
 # Spring 2019 is here
 
 The Spring Team Camp is an important occassion for Xoxzo. It is a time when we
@@ -127,4 +129,4 @@ visa requirements. As most of our team members are South East Asia and South Asi
 we hired a judicial scrivener specializing in immigration regulations to help us arrange visas
 for our team members. This helped a lot to reduce the stress and smoothing out the process.
 
-We'll see you again at our next team camp, somewhere else on the planet!
+We'll see you again [next year]({filename}/The Way We Work/online-team-camp-2020-en.md)!

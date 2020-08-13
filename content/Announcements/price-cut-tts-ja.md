@@ -19,6 +19,6 @@ Summary: テキスト読み上げ（TTS）機能が、より身近にご利用�
 [ドキュメンテーション](http://docs.xoxzo.com/ja/utilsapi.html#text-to-speech-api-ref)
 と[ウェブサイト](https://www.xoxzo.com/ja/about/utilities-api/) をご確認ください。
 
-改定後のご利用料金は、[料金ページ](https://www.xoxzo.com/ja/about/pricing/)よりご参照ください。
+改定後のご利用料金は、[料金ページ](https://www.xoxzo.com/ja/about/pricing/utils)よりご参照ください。
 
 今後も[Xoxzo](https://www.xoxzo.com/ja/)をどうぞよろしくお願いします。

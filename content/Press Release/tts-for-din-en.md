@@ -15,8 +15,8 @@ with our Dial in Numbers (DIN).
 
 Dial In Numbers (DIN) are numbers which you can subscribe and receive calls with. When a call is received at one of these numbers, we'll make a GET request to a URL you specify that will contain commands on how to process the call (i.e transfer it to another number, play a music file or read something from text via Text-to-Speech).
 
-For more details on using TTS with our DIN API, please refer to the [documentation](http://docs.xoxzo.com/en/din.html#available-actions) and the [website](https://www.xoxzo.com/en/about/dial-in-api/).
+For more details on using TTS with our DIN API, please refer to the [documentation](http://docs.xoxzo.com/en/din.html#available-actions) and the [website](https://www.xoxzo.com/en/about/voice-api/#din).
 
-Please find the prices on our [price page](https://www.xoxzo.com/en/about/dial-in-pricing/).
+Please find the prices on our [price page](https://www.xoxzo.com/en/about/pricing/voice/#din).
 
 Thank you for your continuous support from the team Xoxzo.

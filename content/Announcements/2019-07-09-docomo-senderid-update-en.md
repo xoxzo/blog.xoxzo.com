@@ -9,7 +9,7 @@ Summary: The senderID display for docomo using K-premium service has been update
 Thank you for using [Xoxzo Cloud Telephony Platform](https://www.xoxzo.com/en/).
 
 Please let us inform you that the SenderID display when sending to NTT Docomo numbers
-via [K-premium service](https://help.xoxzo.com/en/xoxzo-cloud-telephony-platform/articles/the-k-premium-service/) 
+via [K-premium service](https://help.xoxzo.com/en/xoxzo-cloud-telephony/articles/the-k-premium-service/) 
 has been updated.
 
 The change is made as below.
@@ -24,7 +24,7 @@ The change is made as below.
 05052128038
 `
 
-_an additional note on 2019.11.27: this number is replaced by `0363881815` or `05052128038`. Please check our [Help Center](https://help.xoxzo.com/en/xoxzo-cloud-telephony-platform/articles/the-k-premium-service/) for the latest K-premium service details_
+_an additional note on 2019.11.27: this number is replaced by `0363881815` or `05052128038`. Please check our [Help Center](https://help.xoxzo.com/en/xoxzo-cloud-telephony/articles/the-k-premium-service/) for the latest K-premium service details_
 
 Please inform your end users about this change.
 

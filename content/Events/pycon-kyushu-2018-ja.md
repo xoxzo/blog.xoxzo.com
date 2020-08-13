@@ -23,7 +23,7 @@ _PyCon Kyushu ウェブサイトより_
 [昨年9月のPyCon JP](https://blog.xoxzo.com/ja/2017/10/12/pycon-jp-2017/)に続いての、協賛・参加となります。
 
 
-当日は、弊社の[エバンジェリスト、野中](https://info.xoxzo.com/ja/aboutus/)が
+当日は、弊社の[エバンジェリスト、野中](https://info.xoxzo.com/ja/team/)が
 **Pythonによる競馬データ分析入門** と題するトークを行います。
 
 当日会場でお会いできますのを、楽しみにしております。

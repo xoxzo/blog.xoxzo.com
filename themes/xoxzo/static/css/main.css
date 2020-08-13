@@ -485,14 +485,19 @@ footer .fa-instagram {
 
 .author-profile {
   padding: 40px 15px;
-  margin-top: 40px;
+  margin: 40px 0;
   border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
   text-align: center;
 }
 
 .author-profile .profile-content {
   text-align: left;
   font-size: 0.9rem;
+}
+
+.author-profile .profile-content p {
+  margin-bottom: 0;
 }
 
 .author-profile img {
@@ -529,10 +534,6 @@ footer .fa-instagram {
   border-color: #bbb;
 }
 
-#disqus_thread {
-  border-top: 1px solid #ddd;
-}
-
 .pagination {
   margin-top: 2rem;
   margin-bottom: 2rem;
@@ -544,6 +545,11 @@ footer .fa-instagram {
 
 .paginator .disabled span {
   color: #aaa;
+}
+
+.paginator .page-num {
+  cursor: auto!important;
+  color: inherit;
 }
 
 .curated-post h2 {
@@ -652,6 +658,14 @@ a.caption:hover {
   height: 75px;
   width: 10px;
   margin-left: -10px;
+  visibility: hidden;
+}
+
+.anchor-link:before {
+  display: block;
+  content: " ";
+  margin-top: -70px;
+  height: 70px;
   visibility: hidden;
 }
 

@@ -1,6 +1,6 @@
 Title: Voice or Text: which one is the most efficient form of communication?
 Date: 2017-10-12 12:00
-Author: Gerald
+Author: Geraldo Figueras
 Tags: voice api; sms api; text to speech tts;
 Slug: voice-or-text
 Lang: en
@@ -40,7 +40,7 @@ _"Of course I'm paying attention to everything you say"_
  
 ## Impaired discussions
  
-Text is a good way for delivering a series of responses cascading from each other, but it’s hardly ideal for achieving a high level of discussion with more than two parties. The rhythm of the conversation over [voice](https://www.xoxzo.com/en/about/voice-api/) incentivize more varied inputs than [text](https://www.xoxzo.com/en/about/sms-api/), where even in the (dreaded by some) group chats it’s hard to achieve a productive discussion.
+Text is a good way for delivering a series of responses cascading from each other, but it’s hardly ideal for achieving a high level of discussion with more than two parties. The rhythm of the conversation over [voice](https://www.xoxzo.com/en/about/voice-api/) incentivizes more varied inputs than [text](https://www.xoxzo.com/en/about/sms-api/), where even in the (dreaded by some) group chats it’s hard to achieve a productive discussion.
 
 ## So, who wins?
 

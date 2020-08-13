@@ -30,7 +30,7 @@ There are unlimited things you can do with this API:
 
 ## How to use Receive SMS Messages API？
 Please refer [Documentation](https://docs.xoxzo.com/en/sms.html#receive-sms-messages-api)
-and [Help page](https://help.xoxzo.com/en/xoxzo-cloud-telephony-platform/articles/what-is-sin/) for details.
+and [Help page](https://help.xoxzo.com/en/xoxzo-cloud-telephony/articles/what-is-sin/) for details.
 
 Here shows the easy steps to start,
 
@@ -57,7 +57,7 @@ The cost of using Receive SMS messages API are as below.
 3. SMS receiving Cost (per incoming message received）
 
 
-For the detailed cost, please visit [Price Page](https://www.xoxzo.com/en/about/pricing/#sms).
+For the detailed cost, please visit [Price Page](https://www.xoxzo.com/en/about/pricing/sms).
 
 Please contact Help Desk ( help@xoxzo.com ) for any questions.
 

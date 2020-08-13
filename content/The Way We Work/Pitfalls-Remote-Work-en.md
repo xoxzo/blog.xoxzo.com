@@ -2,7 +2,7 @@ Title: The pitfalls of remote working
 Date: 2018-11-30
 Slug: pitfalls-remote-work 
 Lang: en 
-Tags: remote 
+Tags: remote work; 2018; 
 Thumbnail: images/Pitfall.jpg 
 Author: Ai Sin Chan 
 Summary: This week the team shares the problems we face in remote working, and the solutions that we use. Read on

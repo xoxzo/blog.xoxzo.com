@@ -8,7 +8,9 @@ Thumbnail: images/company-retreat-10th/group-photo.jpg
 Summary: In Feb 2017, Xoxzo is 10 years old. We got together in Langkawi to celebrate
 
 In Feb 2017, Xoxzo celebrates it's 10th year. To celebrate, the whole team
-except for Aiko and Arthur came to Langkawi and spent 3 days in the sun.
+except for Aiko and Arthur came to Langkawi and spent 3 days in the sun. For
+last year, [we all gathered in Tokyo to work together]({filename}/The Way We Work/tokyo-team-camp-en.md).
+
 
 ![How the beach looked like in
 Langkawi]({filename}/images/company-retreat-10th/beach.jpg)
@@ -85,6 +87,6 @@ After 10 years of surviving, we all at least deserved some days in the sun.
 
 ![Before heading back to the airport]({filename}/images/company-retreat-10th/group-photo.jpg)
 
-See you again!
+See you again [next year]({filename}/The Way We Work/cju-team-camp-2018-en.md)!
 
 

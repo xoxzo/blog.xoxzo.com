@@ -10,7 +10,7 @@ Summary: ご愛顧いただいておりますKプレミアムサービスが、�
 
 Xoxzoでは、より強固なSMS配信サービスをユーザーの皆様にご活用いただけるよう、日々サービス改善に努めております。
 
-これまで、カスタマイズ可能な送信元IDのご利用いただけるAU（KDDI）キャリア直収サービスをメインとした [Kプレミアムサービス](https://help.xoxzo.com/ja/xoxzo-cloud-telephony-platform/articles/the-k-premium-service/) をご提供しておりましたが、この度サービス内容をリニューアルさせていただくこととなりましたので、下記の通りお知らせ申し上げます。
+これまで、カスタマイズ可能な送信元IDのご利用いただけるAU（KDDI）キャリア直収サービスをメインとした [Kプレミアムサービス](https://help.xoxzo.com/ja/xoxzo-cloud-telephony/articles/the-k-premium-service/) をご提供しておりましたが、この度サービス内容をリニューアルさせていただくこととなりましたので、下記の通りお知らせ申し上げます。
 
 ご不明な点等ございましたら、ヘルプデスク help@xoxzo.com まで、お気軽にお問い合わせをいただけますよう、よろしくお願い致します。
 

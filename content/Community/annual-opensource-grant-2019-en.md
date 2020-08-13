@@ -90,4 +90,6 @@ Among them are:
 - mysqlclient
 - baker
 
+You can also check out our 2020 Open Source grant recipients [here]({filename}/Community/annual-opensource-grant-2020-en.md)
+
 P.S: Thank you to [Beth Kanter](https://www.flickr.com/photos/cambodia4kidsorg/2265381560/in/photolist-4sbF1L-ar78tZ-SNGH5k-ar79ug-7GLMMJ-7auyvr-ar9ZuW-ar7icH-7EbFm8-77iC2j-oZNUt1-YoqUGr-7auzAZ-77iLXu-ara183-4vbuEU-pKkoXm-77eCxx-2WUBnD-ar9VGm-7TT3jY-by7HPM-6ymtsa-7ayps3-77ePoH-874G8Z-4VguA1-6G4JuU-77eAQF-ar7dxc-EDyr4-77iKd5-8yZZmV-rDGuZy-77iLM5-bbBEV8-e3okg3-DLbcqc-77ezLa-69ykkm-7aysgQ-72ePxc-ar7dt4-XZTS3m-e6eDqU-bbBC66-bbBCjr-RYrLD2-e693vi-9ULwL) for the open source your love thumbnail.

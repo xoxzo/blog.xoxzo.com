@@ -16,7 +16,7 @@ Summary: Xoxzoは、来たる2月12日日曜日、浜松市市民協働センタ
 
 [Xoxzo](https://info.xoxzo.com/ja/)の展示ブースでは、多要素認証、電話番号確認、リマインダの送信などの分野に応用されている、WebAPIによるSMSの送信、公衆電話回線網への電話発信、着信のデモを行います.
 
-12時からは、「テレフォニーAPI入門」と称するセミナーを、弊社の[エバンジェリスト、野中](https://info.xoxzo.com/ja/aboutus/)が行います。（ http://bit.ly/2jDSAjZ ）浜松市周辺の皆様、ぜひこぞってご来場頂けますよう、楽しみにお待ち申し上げております。
+12時からは、「テレフォニーAPI入門」と称するセミナーを、弊社の[エバンジェリスト、野中](https://info.xoxzo.com/ja/team/)が行います。（ http://bit.ly/2jDSAjZ ）浜松市周辺の皆様、ぜひこぞってご来場頂けますよう、楽しみにお待ち申し上げております。
 
 OSC2017 Hamanakoの詳細は、[こちら](https://www.ospn.jp/osc2017-hamanako/)からどうぞ。
 

@@ -1,6 +1,6 @@
 Title: あなたはこの先も、労働力であり続けることが、できますか?
 Date: 2018-03-23 12:00
-Author: Gerald
+Author: Geraldo Figueras
 Tags: 将来; 人々; 職業; 労働力; 雇用
 Slug: future-workforce
 Thumbnail: images/futureofwork-ja.gif

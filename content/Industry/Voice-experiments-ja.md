@@ -1,6 +1,6 @@
 Title: 音声を使った実験で、限界をも押し広げよう
 Date: 2017-11-15 12:00
-Author: Gerald
+Author: Geraldo Figueras
 Tags: google; 未来; 音声; 音声API; 音声ベース; 技術; クリエイティブ;
 Slug: Pushing-the-boundaries-with-voice-experiments 
 Lang: ja 

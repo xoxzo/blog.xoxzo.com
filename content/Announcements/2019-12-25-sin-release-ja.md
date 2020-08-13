@@ -27,7 +27,7 @@ SMS受信のための携帯電話・スマホ・その他のデバイスがな�
 
 ## SMS受信APIの使い方は？
 [ドキュメンテーション](https://docs.xoxzo.com/ja/sms.html#receive-sms-messages-api)
-および[ヘルプページ](https://help.xoxzo.com/ja/xoxzo-cloud-telephony-platform/articles/what-is-sin/)をご参照ください。
+および[ヘルプページ](https://help.xoxzo.com/ja/xoxzo-cloud-telephony/articles/what-is-sin/)をご参照ください。
 
 概要としては、
 
@@ -55,7 +55,7 @@ SMS受信APIのご利用には、
 
 が必要です。
 
-詳しくは、[料金ページ](https://www.xoxzo.com/ja/about/pricing/#sms)にてご確認ください。
+詳しくは、[料金ページ](https://www.xoxzo.com/ja/about/pricing/sms)にてご確認ください。
 
 ご不明な点がございましたら、ヘルプデスク (help@xoxzo.com)までご連絡ください。
 

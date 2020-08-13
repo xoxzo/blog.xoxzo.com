@@ -1,6 +1,6 @@
 Title: The 5 challenges of remote meetings
 Date: 2017-09-28 12:00
-Author: Gerald
+Author: Geraldo Figueras
 Tags: remote work; 2017; people;
 Slug: 5-challenges-of-remote-meetings
 Lang: en
@@ -31,17 +31,17 @@ Keeping a nice rhythm in meetings is hard. Keeping this and having to deal with 
 
 ## The Mute Button effect:
 
-Sometimes is necessary to use the mute button so your environment audio doesn’t disrupt the meeting. This could be traffic, a barking dog, a baby crying, music from a cafe, anything else. But this also creates a kind of escapism for the muted individual, since it’s possible to get all kinds of distractions while still listening to whoever’s talking on the meeting.
+Sometimes is necessary to use the mute button so your environment audio doesn’t disrupt the meeting. This could be traffic, a barking dog, a baby crying, music from a cafe, anything else. But this also creates a kind of escapism for the muted individual, since it’s possible to get all kinds of distractions while still listening to whoever’s talking at the meeting.
 
 ![remote](/images/work_from_home_jedi_council.jpg)
  
 ## Lack of small talk:
 
-It’s absolutely natural to have a certain degree of small talk, especially in the beginning of every meeting where people can exchange pleasantries while getting acquainted. Influenced by what we discussed in number 1, it’s hard to have a natural small talk in the remote meeting, and people tend to jump straight to the topic. This could be seen as helping the effectiveness of meetings, but the lack of daily camaraderie hurts to overall interaction of the whole team, which could contribute to lack of participation due to people not feeling comfortable with each other.
+It’s absolutely natural to have a certain degree of small talk, especially at the beginning of every meeting where people can exchange pleasantries while getting acquainted. Influenced by what we discussed in number 1, it’s hard to have a natural small talk in the remote meeting, and people tend to jump straight to the topic. This could be seen as helping the effectiveness of meetings, but the lack of daily camaraderie hurts to overall interaction of the whole team, which could contribute to a lack of participation due to people not feeling comfortable with each other.
 
 ## Skipping necessary details
 
-The natural structure for meetings leans towards broader topics and general discussions around them. But the remote environment requires much richer detailed to be further discussed since there’s no possibility of a quick conversation at your coworker’s desk. This contributes to meetings that don’t clarify all the necessary points regarding the topics, and as a consequence could disengage a lot of the team members since they might not feel the need to jump in without being questioned.
+The natural structure for meetings leans towards broader topics and general discussions around them. But the remote environment requires much richer details to be further discussed since there’s no possibility of a quick conversation at your coworker’s desk. This contributes to meetings that don’t clarify all the necessary points regarding the topics, and as a consequence could disengage a lot of the team members since they might not feel the need to jump in without being questioned.
 
 Next time, we’ll try to come up with solutions to each one of those 5 challenges.
 

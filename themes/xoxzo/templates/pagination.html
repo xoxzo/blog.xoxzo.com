@@ -15,7 +15,7 @@
     </li>
     {% endif %}
     <li class="page-item current">
-      <a class="page-link page-num">{{ articles_page.number }} / {{ articles_paginator.num_pages }}</a>
+      <span class="page-link page-num">{{ articles_page.number }} / {{ articles_paginator.num_pages }}</span>
     </li>
     {% if articles_page.has_next() %}
     <li class="page-item">
