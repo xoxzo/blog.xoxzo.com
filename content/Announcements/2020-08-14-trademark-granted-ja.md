@@ -12,16 +12,33 @@ Summary: 「Xoxzo®」が、2020年7月17日付で経済産業省特許庁より
 
 ## 商標登録概要
 
-➢ 商標：「Xoxzo®」
-➢ 登録日：2020年7月17日
-➢ 登録番号：第6270937号
-➢ 商願：2019-072139
-➢ 区分：第9類、35類、38類、41類、42類
+- 商標：「Xoxzo®」
+- 登録日：2020年7月17日
+- 登録番号：第6270937号
+- 商願：2019-072139
+- 区分：第9類、35類、38類、41類、42類
+
+
 
 ## 「Xoxzo®」とは？
-株式会社Xoxzo
+[株式会社Xoxzo](https://www.xoxzo.com/ja/)は、__スッキリ簡潔で使いやすいウェブAPI__ を提供しています。
 
+SMS・音声通話の両方がお使いいただける [二要素認証](https://www.xoxzo.com/ja/about/use-cases/two-factor-authentication/)や、
+医療機関の診察予約から飲食店のテーブル予約、不動産の内覧予約など、あらゆる予約をより確実にする [予約のリマインダー](https://www.xoxzo.com/ja/about/use-cases/appointment-reminder/)、顧客への通知、マーケテイングに始まり、
+マンパワーを使うと人と人とのコミュニケーションが難しい催促や、
+企業内や教育機関などの通知先の多い団体への、緊急時や重要事項の[一斉通知](https://www.xoxzo.com/ja/about/use-cases/customer-alert-and-notification/)、さらには[選挙活動](https://www.xoxzo.com/ja/about/use-cases/election-campaign-message/) のメッセージの
+お届けなど、ありとあらゆるシーンで、お使いいただいております。
 
+【クライアント・インタビュー】
+[XOXZOのAPIはすっきりしていて使いやすいです](https://blog.xoxzo.com/ja/2017/10/03/cms-interview/)
+[SMS配信APIで高頻度のコンタクトを実現、採用現場で活用されています](https://blog.xoxzo.com/ja/2017/12/04/careermart-interview/)
+[XOXZOの気持ち良い対応に感銘を受けました](https://blog.xoxzo.com/ja/2017/08/15/3pro-interview/)
+
+まずは、オンライン完結・5分でご利用のお試しください。アカウント作成・維持には請求は発生いたしません。[こちら](https://www.xoxzo.com/ja/accounts/signup/)からメールアドレスでアカウントを作成してください。
+
+導入前のご相談は、help@xoxzo.com までご連絡ください。
+
+「開発はできないけど、ウェブから一斉SMS送信したい」方は、[EZSMS](https://www.ezsms.biz/ja/)をご利用ください。お申込みからご利用まで、オンライン完結。24時間いつでもご利用いただけます。
 
 ## ご要望はございませんか？
 
