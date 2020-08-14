@@ -1,4 +1,4 @@
-Title: 【商標登録のお知らせ】「XoxzoⓇ」（ゾクゾー）
+Title: 【商標登録】「XoxzoⓇ」（ゾクゾー）
 Date: 2020-08-14
 Slug: x4-trademark-granted
 Lang: ja
@@ -22,15 +22,14 @@ Summary: 「Xoxzo®」が、2020年7月17日付で経済産業省特許庁より
 ![trademark-image](/images/trademark_Page_2.png)
 
 ## 「Xoxzo®」とは？
-[株式会社Xoxzo](https://www.xoxzo.com/ja/)は、__スッキリ簡潔で使いやすいウェブAPI__ を提供しています。
+[株式会社Xoxzo](https://info.xoxzo.com/ja/)は、[__スッキリ簡潔で使いやすいウェブAPI__](https://docs.xoxzo.com/) を提供しています。
 
 SMS・音声通話の両方がお使いいただける [二要素認証](https://www.xoxzo.com/ja/about/use-cases/two-factor-authentication/)や、
 医療機関の診察予約から飲食店のテーブル予約、不動産の内覧予約など、あらゆる予約をより確実にする [予約のリマインダー](https://www.xoxzo.com/ja/about/use-cases/appointment-reminder/)、顧客への通知、マーケテイングに始まり、
 マンパワーを使うと人と人とのコミュニケーションが難しい催促や、
-企業内や教育機関などの通知先の多い団体への、緊急時や重要事項の[一斉通知](https://www.xoxzo.com/ja/about/use-cases/customer-alert-and-notification/)、さらには[選挙活動](https://www.xoxzo.com/ja/about/use-cases/election-campaign-message/) のメッセージの
-お届けなど、ありとあらゆるシーンで、お使いいただいております。
+企業内や教育機関などの通知先の多い団体への、緊急時や重要事項の[一斉通知](https://www.xoxzo.com/ja/about/use-cases/customer-alert-and-notification/)、さらには[選挙活動](https://www.xoxzo.com/ja/about/use-cases/election-campaign-message/) のメッセージのお届けなど、ありとあらゆるシーンで、お使いいただいております。
 
-【クライアント・インタビューに見るXoxzo】
+__【クライアント・インタビューに見るXoxzo】__
 
 - [XOXZOのAPIはすっきりしていて使いやすいです](https://blog.xoxzo.com/ja/2017/10/03/cms-interview/)
 
@@ -44,7 +43,7 @@ SMS・音声通話の両方がお使いいただける [二要素認証](https:/
 
 導入前のご相談は、help@xoxzo.com までご連絡ください。
 
-__「開発はできないけど、ウェブから一斉SMS送信したい」__
+「開発はできないけど、ウェブから一斉SMS送信したい」
 
 [EZSMS](https://www.ezsms.biz/ja/)をご利用ください。
 お申込みからご利用まで、オンライン完結。24時間いつでもご利用いただけます。
