@@ -1,4 +1,4 @@
-Title: [Trademark registered] "Xoxzo"
+Title: Trademark "Xoxzo" is registered 
 Date: 2020-08-14
 Slug: x4-trademark-granted
 Lang: en
@@ -27,7 +27,7 @@ Please let us announce that Xoxzo Co., Ltd. (Taito-ku, Tokyo, President: Iqbal A
 [appointment reminder](https://www.xoxzo.com/en/about/use-cases/appointment-reminder/) for medical appointments, restaurant table reservations, real estate viewing reservations and more,
 [mass notification](https://www.xoxzo.com/en/about/use-cases/customer-alert-and-notification/) such as notifications to customers, marketing messages, notification that is difficult to use manpower to communicate with other people on debt reminders and notifications of emergencies and important matters that are sent to large groups  such as companies and educational institutions, and even [messages of election campaigns](https://www.xoxzo.com/en/about/use-cases/election-campaign-message/). 
 
-[Xoxzo in client interviews]
+__Xoxzo in client interviews__
 - [Xoxzo's API is Well-Designed and Easy to Use](https://blog.xoxzo.com/en/2017/10/03/cms-interview/)
 - [High-frequency contacts established through the use of an SMS delivery API and its use in the hiring arena](https://blog.xoxzo.com/en/2017/12/04/careermart-interview/)
 - [Deeply impressed by XOXZO’s most pleasant responses](https://blog.xoxzo.com/en/2017/08/15/3pro-interview/)
@@ -39,11 +39,9 @@ You will not be charged for account creation and maintenance. Please prepare you
 
 Please contact help@xoxzo.com for pre-use consultation.
 
-__"I can't develop it, but I want to send simultaneous SMS from the web."__
+"I can't develop it, but I want to send simultaneous SMS from the web."
 
-Please use [EZSMS](https://www.ezsms.biz/en/).
-
-Complete from application to use online. Available 24 hours a day.
+Please use [EZSMS](https://www.ezsms.biz/en/). Complete from application to use online. Available 24 hours a day.
 
 ## Do you have any requests?
 
