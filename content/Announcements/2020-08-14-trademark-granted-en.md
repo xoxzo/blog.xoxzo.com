@@ -28,8 +28,11 @@ Please let us announce that Xoxzo Co., Ltd. (Taito-ku, Tokyo, President: Iqbal A
 [mass notification](https://www.xoxzo.com/en/about/use-cases/customer-alert-and-notification/) such as notifications to customers, marketing messages, notification that is difficult to use manpower to communicate with other people on debt reminders and notifications of emergencies and important matters that are sent to large groups  such as companies and educational institutions, and even [messages of election campaigns](https://www.xoxzo.com/en/about/use-cases/election-campaign-message/). 
 
 __Xoxzo in client interviews__
+
 - [Xoxzo's API is Well-Designed and Easy to Use](https://blog.xoxzo.com/en/2017/10/03/cms-interview/)
+
 - [High-frequency contacts established through the use of an SMS delivery API and its use in the hiring arena](https://blog.xoxzo.com/en/2017/12/04/careermart-interview/)
+
 - [Deeply impressed by XOXZO’s most pleasant responses](https://blog.xoxzo.com/en/2017/08/15/3pro-interview/)
 
 
