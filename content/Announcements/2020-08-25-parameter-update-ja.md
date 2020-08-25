@@ -15,13 +15,14 @@ APIからのSMS配信で重要な要素のひとつとなるのが、送信元ID
 この度、送信に使うパラメーターが変更されましたので、通知させていただきます。
 
 旧パラメーター： `jp_kddi_sender`
+
 新パラメーター： `jp_kp_sender`
 
 [ドキュメンテーション](https://docs.xoxzo.com/ja/sms.html#jp-specific-optional-parameters)にてご確認いただけます通り、
 
--[Kプレミアムサービス](https://help.xoxzo.com/ja/xoxzo-cloud-telephony/articles/the-k-premium-service/)では `jp_kp` 
+[Kプレミアムサービス](https://help.xoxzo.com/ja/xoxzo-cloud-telephony/articles/the-k-premium-service/)では `jp_kp` 
 
--[Kプレミアム Lite](https://help.xoxzo.com/ja/xoxzo-cloud-telephony/articles/the-k-premium-lite/)では、`jp_kpl` 
+[Kプレミアム Lite](https://help.xoxzo.com/ja/xoxzo-cloud-telephony/articles/the-k-premium-lite/)では、`jp_kpl` 
 
 の各パラメーターと併せて、ご登録の番号を指定する際にお使いください。
 
