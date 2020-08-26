@@ -10,12 +10,10 @@ Summary: ダッシュボードより、音声APIのご利用ログファイル�
 
 Xoxzoのダッシュボードに、[音声API](https://www.xoxzo.com/ja/about/voice-api/)ご利用のログファイルダウンロード機能が追加されましたので、通知させていただきます。
 
-[Xoxzoのログダウンロード](https://blog.xoxzo.com/ja/2019/08/13/logs-download-feature-new-release/)は、ユーザー様のリクエストから生まれた機能です。
-リリース時には、SMSのご利用ダウンロードのみが可能でした。
-
 この度、[音声プレイバックの配信状況を確認するAPI](https://docs.xoxzo.com/ja/voice.html#checking-call-status)を使わずとも、
 アカウントにログインすれば、お好みの期間のご利用について、csv ファイルを直接ダウンロードできるようになりました。
-[ダイヤル・イン・ナンバー](https://docs.xoxzo.com/ja/din.html)についても同様です。
+
+[ダイヤル・イン・ナンバー](https://docs.xoxzo.com/ja/din.html)についても同様にダウンロードが可能です。
 
 ダウンロードできる csv ファイル内の項目は、下記のとおりです。
 
@@ -52,6 +50,7 @@ Xoxzoのダッシュボードに、[音声API](https://www.xoxzo.com/ja/about/vo
     </tr>
 </table>
 
+
 ダウンロードいただけるログは、 **過去42日まで、遡ることができます。**
 
 ## ダウンロードの方法
@@ -69,7 +68,10 @@ Xoxzoのダッシュボードに、[音声API](https://www.xoxzo.com/ja/about/vo
 
 下方の表にて「生成状況」が「生成完了」となりましたら、ログファイル名をクリックしてダウンロードしてください。
 
+## ユーザーリクエストにお応えして生まれました
 
+[Xoxzoのログダウンロード](https://blog.xoxzo.com/ja/2019/08/13/logs-download-feature-new-release/)は、ユーザー様のリクエストから生まれた機能です。
+リリース時には、SMSのご利用ダウンロードのみが可能でした。
 
 Thank you to rawpixel.com for the thumbnail:
 [Background photo created by rawpixel.com - www.freepik.com](https://www.freepik.com/free-photos-vectors/background)
