@@ -17,25 +17,40 @@ Xoxzoのダッシュボードに、[音声API](https://www.xoxzo.com/ja/about/vo
 アカウントにログインすれば、お好みの期間のご利用について、csv ファイルを直接ダウンロードできるようになりました。
 [ダイヤル・イン・ナンバー](https://docs.xoxzo.com/ja/din.html)についても同様です。
 
-ダウンロードした csv ファイル内の項目は、
+ダウンロードできる csv ファイル内の項目は、下記のとおりです。
 
-ダウンロードした csv ファイル内の項目は、
-（音声API）
-- call_type
-- caller
-- callid
-- cost
-- direction
-- start_time(UTC)
-- end_time(UTC)
-- duration(Secs)
-- recipient
-- status
-- tags
-- url
-- apiuser
-
-です。
+<table>
+  <tr>
+    <th>音声API</th>
+    <th>ダイヤル・イン・ナンバー</th>
+  </tr>
+  <tr>
+    <td>call_type<br>
+        caller<br>
+        callid<br>
+        cost<br>
+        direction<br>
+        start_time(UTC)<br>
+        end_time(UTC)<br>
+        duration(secs)<br>
+        recipient<br>
+        status<br>
+        tags<br>
+        url<br>
+        apiuser</td>
+    <td>caller<br>
+        cost<br>
+        direction<br>
+        recipient<br>
+        start_time(UTC)<br>
+        end_time(UTC)<br>
+        duration(secs)<br>
+        status<br>
+        apiuser<br>
+        uuid<br>
+        actionurl<br></td>
+    </tr>
+</table>
 
 ダウンロードいただけるログは、 **過去42日まで、遡ることができます。**
 
@@ -47,7 +62,7 @@ Xoxzoのダッシュボードに、[音声API](https://www.xoxzo.com/ja/about/vo
 
 ![Download dashboard](/images/logs-download-feature-screenshot-ja.png)
 
-ダウンロードしたいログの日付を選択することも可能ですし、「過去7日間」「過去30日間」と言った、既定の選択肢もご用意しております。
+ダウンロードしたいログの日付を選択することも可能ですが、「過去7日間」「過去30日間」と言った、既定の選択肢もご用意しております。
 
 ダウンロードのプロセスは、バックグランドで行われます。
 ダウンロードファイルの生成にお時間が掛かりそうであれば、後ほどお戻りいただき、出来上がったファイルを確認していただくことができます。
