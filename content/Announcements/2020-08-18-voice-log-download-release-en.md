@@ -74,7 +74,7 @@ It is super simple!
 
 ## Did you know?
 
-[Xoxzo's direct log download](https://blog.xoxzo.com/en/2019/08/13/logs-download-feature-new-release/) was develooped 
+[Xoxzo's direct log download](https://blog.xoxzo.com/en/2019/08/13/logs-download-feature-new-release/) was developed 
 to respond to the users' request. The first release started with the SMS usage download.
 
 
