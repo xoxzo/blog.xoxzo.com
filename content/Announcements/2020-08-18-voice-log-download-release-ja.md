@@ -17,8 +17,8 @@ Xoxzoのダッシュボードに、[音声API](https://www.xoxzo.com/ja/about/vo
 
 ダウンロードできる csv ファイル内の項目は、下記のとおりです。
 
-<table>
-  <tr>
+<table style="width:100%" "border:1px">
+  <tr style="padding:15px">
     <th>音声API</th>
     <th>ダイヤル・イン・ナンバー</th>
   </tr>
@@ -49,8 +49,7 @@ Xoxzoのダッシュボードに、[音声API](https://www.xoxzo.com/ja/about/vo
         actionurl<br></td>
     </tr>
 </table>
-
-
+<br>
 ダウンロードいただけるログは、 **過去42日まで、遡ることができます。**
 
 ## ダウンロードの方法
