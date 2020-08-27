@@ -59,7 +59,7 @@ Xoxzoのダッシュボードに、[音声API](https://www.xoxzo.com/ja/about/vo
 
 ダッシュボードへログインし、左側のメニューより、_ご利用ログダウンロード_ をクリックしてください。
 
-![Download dashboard](/images/logs-download-feature-screenshot-ja.png)
+![Download dashboard](/images/voice-download-ss-ja.jpg)
 
 ダウンロードしたいログの日付を選択することも可能ですが、「過去7日間」「過去30日間」と言った、既定の選択肢もご用意しております。
 
