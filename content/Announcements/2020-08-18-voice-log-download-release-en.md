@@ -61,17 +61,15 @@ The downloadable data is up to **42 days before the current date**.
 
 It is super simple!
 
-Please log in your account dashboard, choose _Download Usage Logs_ from the left side menu.
-
 ![Download dashboard](/images/voice-download-ss-en.jpg)
 
-Although you can select the dates of the data period as you like, 
-why don't you use the convenient preset selection of "Last 7 days" or "Last month" prepared for you.
+# Please log in your account dashboard, choose _Download Usage Logs_ from the left side menu.
 
-The process of the download file generation is to be done background.
-If you do not wish to wait, please come back to collect your file later.
+# Although you can select the dates of the data period as you like, why don't you use the convenient preset selection of "Last 7 days" or "Last month" prepared for you? Please do not forget to select the API that you are going to get the log data.
 
-Download can be done by clicking the _LOG FILE_ name in the table at the bottom.
+# Click on _Generate_ button. The process of the download file generation is to be done background. If you do not wish to wait, please come back to collect your file later.
+
+# Download can be done by clicking the _LOG FILE_ name in the table at the bottom.
 
 
 ## Did you know?
