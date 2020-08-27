@@ -63,7 +63,7 @@ It is super simple!
 
 Please log in your account dashboard, choose _Download Usage Logs_ from the left side menu.
 
-![Download dashboard](/images/logs-download-feature-screenshot-en.png)
+![Download dashboard](/images/voice-download-ss-en.jpg)
 
 Although you can select the dates of the data period as you like, 
 why don't you use the convenient preset selection of "Last 7 days" or "Last month" prepared for you.
