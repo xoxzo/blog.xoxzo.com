@@ -42,28 +42,28 @@ Google Code-Inを使用して、私は最初にオープンソースプロジェ
 
 短く切り詰めた期間に学んだことがいくつかあります。まだどれもマスターはしていませんが、取り組んでいます。今後の誰かの助けになれば嬉しいと思い、ここに共有します。
 
-
-私はこの会社で最初のインターンでした。正直に言って、自分の知識不足を心から不安に思っていたのですが、みんなと交流を深めるうち、その恐怖は徐々に消えていきました。私はまだ、全社員とのやり取りには制限がありましたが、毎朝Slackを起動して目を覚ますと、いつでも助けてくれる人がいました。I learned that I was the first intern in the company and to be honest I was really scared of being the least knowledgeable of the lot, but slowly the fear went away as I interacted more with everyone. I still have had limited interaction with everyone but when I boot up my Slack every morning as I wake up I know there are always people ready to help out there.
 ### コミュニケーションが鍵に:
-私はこの会社で最初のインターンでした。正直に言って、自分の知識不足を心から不安に思っていたのですが、みんなと交流を深めるうち、その恐怖は徐々に消えていきました。私はまだ、全社員とのやり取りには制限がありましたが、毎朝Slackを起動して目を覚ますと、いつでも助けてくれる人がいました。I learned that I was the first intern in the company and to be honest I was really scared of being the least knowledgeable of the lot, but slowly the fear went away as I interacted more with everyone. I still have had limited interaction with everyone but when I boot up my Slack every morning as I wake up I know there are always people ready to help out there.
-Working in an remote environment, it becomes a little difficult to understand what is expected out of you and what is being conveyed efficiently if you don’t ask questions. On my first assignment of deployment I being inexperienced did not understand what was being asked of me and I spent a day or two days being silent and spending the time on futile research till I was told by our CTO exactly what was expected from me. I still realize I might need to communicate more, and I should not be scared to ask questions no matter how basic they might be. A lesson to follow for me and anyone who might find it relevant in their journey.
+リモート環境で仕事をするには、何を期待され、何が効率的に伝わっているかを理解するのが、質問なしでは少し難しくなります。
+初めてデプロイのタスクに取り組んだ時、経験の浅い私に何が求められているのか理解できず、CTOから私の期待されていることをはっきりと伝えられるまで、1日か2日間黙ったまま、無駄な研究に時間を費やしていました。今なお、もっとコミュニケーションを増やす必要がある可能性も感じますし、どんなに基本的な質問であっても恐れずに質問しなくてはならない、と思います。
 
-### Progress and not Perfection:
-This is a beautiful motto that our CTO told me and I realized that it is a company motto. It can’t be more true. Banging your head over something you are not able to figure out for days is less productive than moving on to the part that you can and probably later come back to the initial problem and find that the solution is now something you can figure easily with the experience gained from those other things that you completed while you moved on. As the saying goes, slow and steady wins the race.
+### 目指すは、完璧より進歩:
+これは私たちのCTOが私に言った美しいモットーであり、企業理念であることにも気付きました。真髄をついていると思います。わからないことに何日も頭でぶつかっていくだけでは、生産性が低くなります。それよりも、わからないことは、できることを先にやってから戻ってみると、わかるところを先に進めた経験から、簡単に理解できる解決策になっていることに気づいたりもします。ことわざにあるように、急がば回れ、ですね。
 
-### Even you have something to contribute:
-While working on a deployment, I came across AWS lambda and subsequently used Zappa for deployment and to my surprise my CTO needed some help while he was checking out the Zappa project and I had an answer to his question! I realized asking questions when you are new to something isn't bad and I am trying to work on it every single day to come out of my shell and start asking for help after my own due research.
+### あなたにも、貢献できることがある:
+デプロイの作業中にAWSラムダに出会い、その後デプロイにZappaを使用したことがあります。驚いたことに、CTOがZappaプロジェクトを調査中に尋ねたことに、なんと、私が彼の質問に答えられたのです！
+不慣れであるときに質問することは、悪いことではない、と理解しました。それからは、自身のそれなりの研究の後には、自分の殻をうちやぶり助けを請うことができるよう、毎日気をつけています。
 
-### Update your team about your work:
-This is important. In a remote work environment it is really difficult for people to know what you are upto so it’s crucial that you communicate every single day about your day's work rather that doing things silently. We have a practice of 'Daily Standup' where everyone lists down their tasks of the day. Often there are days when you are caught up in your own work, but do make a point to drop a message to your team about what you are doing.
+### チームとの、作業状態共有:
+これはとても重要な事です。リモートでの作業環境では、他人が自分の現在の状況を認知するのが困難ですから、黙って物事を行うのではなく、毎日の仕事について毎日連絡することが重要となります。私たちは「デイリースタンドアップ」を実践しており、誰もがその日のタスクをリストアップしています。ほとんどの場合、自分の仕事を進めているとは思いますが、自分のしていることについてチームにメッセージを送るのです。
 
-### Going remote needs strong self discipline:
-When you first start working remotely, you feel the joy of freedom from the regular 9-5 working hours and the flexibility of being able to work at your own set time. But after the initial phase, you start to understand the importance of setting up right short term, long term and daily goals for yourself without which you might end up missing deadlines and getting behind in your work. Thus planning is an essential part of any remote job role.
+### リモートワークを進めるには、強い自己規律が必要:
+リモートで作業を開始すると、まず、通常の9時〜5時の営業時間から解放される喜びと、自分の設定した時間に作業できる柔軟性を感じます。しかし、最初のフェーズが過ぎると、短期目標、長期目標、それに毎日の目標を適切に、自分で、設定することの重要性を理解し始めます。これを怠ると、締め切りに間に合わなくなり、作業に遅れをとる可能性が出てくるのです。したがって、計画はリモートジョブの役割の重要な部分なのです。
 
-### Remote work tends to get lonely when moving from a regular office job:
-In a regular job, you are used to commuting to office, having a vibrant social life with your colleagues and the occasional after office parties. Unfortunately, in remote work the tradeoff between such a social life with flexibility might end up in creating a void during the initial phases. As an intern, that might be little more intimidating as you might not get the kind of hand holding in person as in a office based role. However if you follow the first principle 'Communication is the key’ and start asking for help after doing your own bit of research, things would slowly start falling into the right place and you get to learn a lot more in the time you save by avoiding the daily telecommute.
+### 通常のオフィスでの仕事に比較すると、リモートでの仕事は孤独になる傾向あり:
+通常の仕事では、通勤に慣れ、同僚との社交的生活を送り、ときどきは、アフターオフィスパーティーもあったりします。残念ながら、リモートワークでは、そのような社会生活と柔軟性とのトレードオフが、初期段階から無効となるかもしれません。インターンの身では、オフィスベースの役割のように確実なものがないので、少し怖いかもしれません。ただし、「コミュニケーションが鍵」という最初の原則に従い、独自の調査を行った後、助けを請い始めると、物事はゆっくりと適切な場所に収まり始め、毎日の在宅勤務通勤で節約する時間を使って、より多くのことを学ぶことができます。
 
-### Working in a diverse and multicultural team is amazing:
-I have largely stayed in my home country India and the experience of working with a team that is so diverse and multicultural was a new one. Since it hasn't been long I have started working for [Xoxzo](https://www.xoxzo.com/en/), I am still learning more about the rest of my teammates and this is something I am really excited about and look forward to!
+### 多様で多文化のチームで働く素晴らしさ:
+私は主に母国のインドに滞在しているので、こんなに多様で多文化のチームとの共同作業を経験するのは新鮮でした。 [Xoxzo](https://www.xoxzo.com/ja/)で働き始めて間もないので、他のチームメイトについてもまだ多くのことを学んでいるところです。これは本当にワクワクしていて楽しみなことなのです！
 
-Hope anybody going through the same phase of their journey might relate to my experience and it comes handy to them. I will end it with a motivating quote by the American actress Helen Hayes: *“The expert at anything was once a beginner!”*
+誰かの進んでいく道すがら、私と同じフェーズを通過し私の経験に近いものがあったとき、この記事が何かの役に立つよう願っています。アメリカの女優ヘレン・ヘイズの、やる気を起こさせる引用で終わります:
+*「どんな専門家も、かつては初心者でした！」*
