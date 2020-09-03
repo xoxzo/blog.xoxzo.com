@@ -11,7 +11,7 @@ Summary: 数ヶ月に渡る自己学習のルートの末に、チュートリ�
 「素晴らしい仕事をする唯一の方法は、あなたのすることを愛することです。
 まだ見つからない場合は、探し続けてください。安住することなく。それを見つけた時に、不思議と自分でもわかるでしょう。」 -  **スティーブ・ジョブズ**
 
-私は、最終的にそれを見つけました。
+私は、最終的に「それ」を見つけました。
 学生時代から、テクノロジーに関連するキャリアにつきたいといつも思っていました。
 Google Code-Inを使用して、私は最初にオープンソースプロジェクトに貢献することの意味を理解し、そのプロセスに関与している巨大なコミュニティに触れました。
 何年か後、私が大学を卒業したとき、大きな夢に瞳を輝かせていました。しかし、業界に入った私が就いたのは、エンジニアリングではなく、カスタマーサクセスの職務でした。
@@ -32,13 +32,20 @@ Google Code-Inを使用して、私は最初にオープンソースプロジェ
 人間の脳の面白い点は、一度に1つのものに固執し、それによってあるものから別のものに移動することです。
 私は以前に蓄えた知識が、適切な練習もなく消えていくのに気づきました。そこで、CTOのKamalへメールを送り、実務経験が欲しいので、インターンとして参加できるかどうか訊ねました。
 
-I knew [Xoxzo](https://www.xoxzo.com/en/) was a remote company and the concept was intriguing to someone who for his short work life worked out of a cubicle in an office building with set time bound office hours. I always questioned the fact that an human might be productive at any hour of the day, 9-5 never really made much sense to me. That's why when Kamal was kind enough to offer me another shot at it, I grabbed it without a thought and after a brief interview process, I was taken in as an intern at [Xoxzo](https://www.xoxzo.com/en/).
+[Xoxzo](https://www.xoxzo.com/ja)が 100%リモートの会社であることは知っていました。
+そのコンセプトは、短いワークライフを、時間という縛りのあるオフィスアワーを備えたオフィスビルのキュービクルから出て働こうという考えでした。
+私は常に、人間は9時から5時に限らず、毎日のどの時間帯に働いても生産的であるかもしれない、という事実に疑問を投げかけていました。
+そのため、Kamalが親切にも次の一手を提案してくれると、短いインタビュープロセスの後、何も考えずにそれをつかみ、[Xoxzo](https://www.xoxzo.com/ja) のインターンとして受け入れられました。
 
-I learned that I was the first intern in the company and to be honest I was really scared of being the least knowledgeable of the lot, but slowly the fear went away as I interacted more with everyone. I still have had limited interaction with everyone but when I boot up my Slack every morning as I wake up I know there are always people ready to help out there.
+私はこの会社で最初のインターンでした。正直に言って自分の知識不足を心から不安に思っていたのですが、みんなと交流を深めるうちその恐怖は徐々に消えていきました。
+私はまだ、全社員とのやり取りには制限がありましたが、毎朝Slackを起動して目を覚ますと、いつでも助けてくれる人がいました。
 
-During my short stint, I have had a few lessons, none of which I have mastered yet but still working on them. I will share with the hope that it might help someone in their journey -
+短く切り詰めた期間に学んだことがいくつかあります。まだどれもマスターはしていませんが、取り組んでいます。今後の誰かの助けになれば嬉しいと思い、ここに共有します。
 
-### Communication is the key:
+
+私はこの会社で最初のインターンでした。正直に言って、自分の知識不足を心から不安に思っていたのですが、みんなと交流を深めるうち、その恐怖は徐々に消えていきました。私はまだ、全社員とのやり取りには制限がありましたが、毎朝Slackを起動して目を覚ますと、いつでも助けてくれる人がいました。I learned that I was the first intern in the company and to be honest I was really scared of being the least knowledgeable of the lot, but slowly the fear went away as I interacted more with everyone. I still have had limited interaction with everyone but when I boot up my Slack every morning as I wake up I know there are always people ready to help out there.
+### コミュニケーションが鍵に:
+私はこの会社で最初のインターンでした。正直に言って、自分の知識不足を心から不安に思っていたのですが、みんなと交流を深めるうち、その恐怖は徐々に消えていきました。私はまだ、全社員とのやり取りには制限がありましたが、毎朝Slackを起動して目を覚ますと、いつでも助けてくれる人がいました。I learned that I was the first intern in the company and to be honest I was really scared of being the least knowledgeable of the lot, but slowly the fear went away as I interacted more with everyone. I still have had limited interaction with everyone but when I boot up my Slack every morning as I wake up I know there are always people ready to help out there.
 Working in an remote environment, it becomes a little difficult to understand what is expected out of you and what is being conveyed efficiently if you don’t ask questions. On my first assignment of deployment I being inexperienced did not understand what was being asked of me and I spent a day or two days being silent and spending the time on futile research till I was told by our CTO exactly what was expected from me. I still realize I might need to communicate more, and I should not be scared to ask questions no matter how basic they might be. A lesson to follow for me and anyone who might find it relevant in their journey.
 
 ### Progress and not Perfection:
