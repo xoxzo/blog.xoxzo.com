@@ -11,7 +11,9 @@ Before the year 2020, imagining a situation where the entire world comes to a st
 
 However, by the end of March 2020, it was apparent that the world is going into a long hibernation due to a pandemic induced by a novel strain of virus from a distant city in China. 
 
-We at Xoxzo have been working remotely since inception. It was just our way of life. Remote work was a very narrow niche, a lifestyle choice and a sound business model where our team, made of members from different corners of the globe, came together to build and operate telephony services among other things. Our services empower developers from all over the world to remotely have access to cloud telephony tools for the success of their own ventures.
+We at [Xoxzo](https://www.xoxzo.com/en/) have been working remotely since inception. It was just our way of life. Remote work was a very narrow niche, a lifestyle choice and a sound business model where our team, made of members from different corners of the globe, came together to build and operate telephony services among other things. Our services empower developers from all over the world to remotely have access to cloud telephony tools for the success of their own ventures.
+
+![workspace](/images/surya_workstation.jpg)
 
 Barring the cancellation of our team camp, which is a half-yearly meet-up for our members, there has been very little impact on our business during this period of great turmoil. It has been quite interesting to see how many companies have been forced to take up remote work and struggle with the same problems we as a team have gone through and found solutions for. We could observe the entire spectrum of companies, from the ones which took up remote work with little or no effort to the ones which are still struggling till this date and can't wait to go back to their office spaces and conventional systems of work.
 
@@ -37,6 +39,13 @@ Working remotely for a while, you realize how lonely this endeavor can be if you
 # Set a core time for your team:
 “After going remote, it seems I am at work 24x7” - I have heard this statement in various forms from multiple sources and I couldn’t help but wonder how people can’t wrap their heads around this. And when I say people, I mean managers and subordinates alike. Remote work is a different paradigm from 9-5 regular office work, however the good parts should be retained. Set a core time period for your team when you actively coordinate with each other and expect quicker replies. For all other times the team should get used to asynchronous communication and that should be the de-facto mode of getting things done. Always remember, remote work sets you free to work on your own schedule. If you want to work within the 9-5 that you are used to, or beyond that, it's completely up to you.
 
+
+# There is more...
+Our team has taken the effort to document various facets of remote working over the years and you can find some really helpful tips in our blog articles. For convenience, I list out some really nice articles for further reading if you are interested below.
+
+- [Pitfalls of remote work](https://blog.xoxzo.com/en/2018/11/30/pitfalls-remote-work/)
+- [Challenges of remote meetings](https://blog.xoxzo.com/en/2017/09/28/5-challenges-of-remote-meetings/)
+- [The communication costs of remote work](https://blog.xoxzo.com/en/2016/04/22/the-communication-costs-of-remote-work/)
 
 Like everything else in life, remote work itself is also a skill that you pick up and get better at over time. Also we have to accept the reality that remote work isn't cut out for everyone. But if you are a self motivated professional capable of taking control of your own life and can work without requiring much guidance, remote work might be perfect for you in the long run, much beyond how long this pandemic is going to last.
 
