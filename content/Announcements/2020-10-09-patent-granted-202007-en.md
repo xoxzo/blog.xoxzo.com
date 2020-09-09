@@ -1,9 +1,10 @@
-Title: Patent granted for XOXZO’s SMS Receiving System & Control Technology. 
-Date: 2020-09-09 14:00 
-Slug: patent-granted-for-sms-receiving 
-Lang: en Tags: patent; xoxzo; 2020; sms api; 
-Author: Jocelyn ter Morsche 
-summary: We’re pleased to announce that Xoxzo acquired a patent for Server System, SMS receiving system, as well as the control method and program of servers utilized by our SMS messages API. 
+Title: Patent granted for XOXZO’s SMS Receiving System & Control Technology.
+Date: 2020-09-09 14:00
+Slug: patent-granted-for-sms-receiving
+Lang: en
+Tags: patent; xoxzo; 2020; sms api;
+Author: Jocelyn ter Morsche
+summary: We’re pleased to announce that Xoxzo acquired a patent for Server System, SMS receiving system, as well as the control method and program of servers utilized by our SMS messages API.
 
 
 Thank you very much for your continuous support for [Xoxzo Cloud Telephony Platform and SMS Delivery API Service EZSMS.](https://www.xoxzo.com/en/)

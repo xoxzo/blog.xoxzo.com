@@ -1,9 +1,9 @@
-Title: サーバー装置・SMS受信システム・サーバ装置の制御方法、及びプログラム特許認定のお知らせ 
-Date: 2020-09-09 14:00 
-Slug: patent-granted-for-sms-receiving 
-Lang: ja 
-Tags: patent; xoxzo; 2020; sms api; 
-Author: Jocelyn ter Morsche 
+Title: サーバー装置・SMS受信システム・サーバ装置の制御方法、及びプログラム特許認定のお知らせ
+Date: 2020-09-09 14:00
+Slug: patent-granted-for-sms-receiving
+Lang: ja
+Tags: patent; xoxzo; 2020; sms api;
+Author: Jocelyn ter Morsche
 summary: 2020年8月20日、Xoxzoはサーバー装置・SMS受信システム・サーバ装置の制御方法、及びプログラムにおいて特許を取得しました。
 
 平素は、[Xoxzo](https://www.xoxzo.com/ja/)-クラウドテレフォニープラットフォーム及び SMS配信サービス・EZSMSをご利用いただき、誠にありがとうございます
