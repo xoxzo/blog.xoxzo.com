@@ -13,7 +13,7 @@ We’re pleased to announce that Xoxzo acquired a patent for Server System, SMS 
  
 ![patent-sin](/images/patent_sin.png)
 
- [The patent system that protects technology](https://www.jpo.go.jp/beginner/beginner_03.html)is an "intellectual property right." [The Patent Office](https://www.jpo.go.jp/index.htm) protects ideas and inventions created by technology development, which is useful in the world as property.
+ [The patent system that protects technology](https://www.jpo.go.jp/system/patent/gaiyo/seidogaiyo/chizai04.html) is an "intellectual property right." The Patent Office protects ideas and inventions created by technology development, which is useful in the world as property.
 
 While the patent system allows inventors to monopolize inventions, it is a system that promotes new technological development with hints as it publishes its invention instead. Indeed, it can be said that the patent system is one of the pillars supporting Japan's economic growth.
 
