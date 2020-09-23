@@ -66,21 +66,21 @@ We hope you enjoyed reading about 1G: the first wireless cellular technology or 
 If you're curious about the second generation of mobile phones, check out this article: [A Brief History of 2G Mobile Communication Technology](https://blog.xoxzo.com/en/2018/08/01/history-of-2g/) 
 
 
-Speaking of SMS, did you know that you can now easily send bulk SMS messages from your computer? Try our service [EZSMS] (https://www.ezsms.biz/) to make your life easier! 
+Speaking of SMS, did you know that you can now easily send bulk SMS messages from your computer? Try our service [EZSMS](https://www.ezsms.biz/) to make your life easier! 
 
-Why you should check out [EZSMS] (https://www.ezsms.biz/):
+Why you should check out [EZSMS](https://www.ezsms.biz/):
 International: Send SMS messages to over 170 countries in the world!
 Customizable: Use CSV file on your computer to easily customize your messages.
 All time, everywhere: anything can be managed online, whenever and wherever you want.
 No initial cost! 
 
-How can [EZSMS] (https://www.ezsms.biz/) benefit your business?
+How can [EZSMS](https://www.ezsms.biz/) benefit your business?
 Did you know that SMS marketing is in many ways, more effective than email marketing? 
 98% of people open texts that they receive
 75% of people would like to receive marketing offers by email
 
 Unfortunately many people miss out on special deals and offers by opening their email too late; if they open their email at all! SMS marketing creates a sense of urgency that is often needed to create a successful campaign.  
 
-Get started with [EZSMS] (https://www.ezsms.biz/)  today, signing up is free! 
+Get started with [EZSMS](https://www.ezsms.biz/)  today, signing up is free! 
 
 
