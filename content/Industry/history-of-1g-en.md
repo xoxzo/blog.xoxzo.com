@@ -70,8 +70,10 @@ Speaking of SMS, did you know that you can now easily send bulk SMS messages fro
 
 Why you should check out [EZSMS](https://www.ezsms.biz/):
 
-International: Send SMS messages to over 170 countries in the world!
-Customizable: Use CSV file on your computer to easily customize your messages.
+International: 
+Send SMS messages to over 170 countries in the world!
+Customizable: 
+Use CSV file on your computer to easily customize your messages.
 All time, everywhere: anything can be managed online, whenever and wherever you want.
 No initial cost! 
 
