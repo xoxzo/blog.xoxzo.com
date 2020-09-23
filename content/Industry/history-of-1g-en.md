@@ -68,6 +68,8 @@ If you're curious about the second generation of mobile phones, check out this a
 
 Speaking of SMS, did you know that you can now easily send bulk SMS messages from your computer? Try our service [EZSMS](https://www.ezsms.biz/) to make your life easier! 
 
+![history1g](/images/logo_ezsms(1).png)
+
 Why you should check out [EZSMS](https://www.ezsms.biz/):
 
 - International: Send SMS messages to over 170 countries in the world!
