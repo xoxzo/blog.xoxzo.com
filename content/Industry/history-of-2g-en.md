@@ -65,15 +65,15 @@ Keeping the topic of SMS in mind. We’d like to get your attention for our serv
 ![logo-ezsms](/images/logo_ezsms(1).png)
 
 Why you should check out [EZSMS](https://www.ezsms.biz/):
-International: Send SMS messages to over 170 countries in the world!
-Customizable: Use CSV file on your computer to easily customize your messages.
-All time, everywhere: anything can be managed online, whenever and wherever you want.
-No initial cost! 
+- International: Send SMS messages to over 170 countries in the world!
+- Customizable: Use CSV file on your computer to easily customize your messages.
+- All time, everywhere: anything can be managed online, whenever and wherever you want.
+- No initial cost! 
 
 How can [EZSMS](https://www.ezsms.biz/) benefit your business?
 Did you know that SMS marketing is in many ways, more effective than email marketing? 
-98% of people open texts that they receive
-75% of people would like to receive marketing offers by email 
+- 98% of people open texts that they receive
+- 75% of people would like to receive marketing offers by email 
 
 By sending your customers customized SMS text messages there’s a bigger chance that they open it and read your message. Checking in with customers through SMS can feel more personal compared to an email that gets blasted to everyone, which allows you to build meaningful relationships.
 
