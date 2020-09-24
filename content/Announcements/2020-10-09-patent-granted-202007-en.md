@@ -28,10 +28,11 @@ Using EZSMS, you can easily write, customize and send SMS messages in bulk, all 
 ![logo-EZSMS](/images/logo_EZSMS(1).png)
 
 Why you should check out [EZSMS](https://www.ezsms.biz/):
--International: Send SMS messages to over 170 countries in the world
--Customizable: Use CSV file on your computer to easily customize your messages.
--All time, everywhere: anything can be managed online, whenever and wherever you want.
--No initial cost 
+
+- International: Send SMS messages to over 170 countries in the world
+- Customizable: Use CSV file on your computer to easily customize your messages.
+- All time, everywhere: anything can be managed online, whenever and wherever you want.
+- No initial cost 
 
 Get started with [EZSMS](https://www.ezsms.biz/) today, signing up is free! 
 
