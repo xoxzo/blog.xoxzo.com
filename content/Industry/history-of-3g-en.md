@@ -55,7 +55,7 @@ Also make sure to check out our previous articles:
 
 If you're interested in SMS and technology, We'd like to bring your attention to our service [EZSMS](https://www.ezsms.biz/) which is also part of Xoxzo.
 
-![logo_ezsms(1)](/images/logo_ezsms(1).png)
+![logo_ezsms](/images/ezsms_logo-1.png)
 
 [EZSMS](https://www.ezsms.biz/) allows you to write, customize and send SMS text messages from your computer.
 
