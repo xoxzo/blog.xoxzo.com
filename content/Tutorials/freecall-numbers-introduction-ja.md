@@ -86,6 +86,8 @@ _**[Xoxzo VOICE API](https://www.xoxzo.com/ja/about/voice-api/)**_ をご利用�
 
 SMSと言えば、[EZSMS](https://www.ezsms.biz/) というSMS配信サービスをご存知ですか？
 
+![logo_ezsms](/images/ezsms_logo-1.png)
+
 [EZSMS](https://www.ezsms.biz/)は間単にはコミュニケーションできるサービスを提供しています。無料登録後、即時にご利用のウェブブラウザーから、SMSの配信機能をご利用いただいたり、ダイヤル・イン・ナンバーをご利用いただくことができます。
 - 170カ国以上への送信も対応しています。
 - 複数の宛先への一斉送信や、メッセージをカスタマイズして大量配信可能なCSVファイルを使った配信にも対応しています。
@@ -97,7 +99,7 @@ SMSと言えば、[EZSMS](https://www.ezsms.biz/) というSMS配信サービス
 - SMSは、98％の人が開封します。
 - マーケティングメッセージはSMSで、と75％の人が思っています。
 
-[こちらでEZSMS](https://www.ezsms.biz/)]の無料登録ができます。
+[こちらでEZSMS](https://www.ezsms.biz/)の無料登録ができます。
 
 _Xoxzo機能のデモのご希望にも、関東圏を中心に、お応えします。_
 
