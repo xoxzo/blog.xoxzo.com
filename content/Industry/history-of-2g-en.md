@@ -62,7 +62,7 @@ Also make sure to check out our previous article: [A Brief History of 1G Mobile 
 
 Keeping the topic of SMS in mind. We’d like to get your attention for our service [EZSMS](https://www.ezsms.biz/) that can help you reach multiple customers at the same time by SMS. And what’s even easier? You can write, customize and send SMS text messages from your computer!
 
-![logo-ezsms](/images/logo_ezsms(1).png)
+![logo_ezsms](/images/ezsms_logo-1.png)
 
 Why you should check out [EZSMS](https://www.ezsms.biz/):
 - International: Send SMS messages to over 170 countries in the world!

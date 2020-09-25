@@ -25,7 +25,7 @@ Speaking of SMS, we’d like to update you on our service [EZSMS](https://www.ez
 
 Using EZSMS, you can easily write, customize and send SMS messages in bulk, all online on your computer.
 
-![logo-EZSMS](/images/logo_EZSMS(1).png)
+![logo_ezsms](/images/ezsms_logo-1.png)
 
 Why you should check out [EZSMS](https://www.ezsms.biz/):
 
