@@ -84,7 +84,24 @@ _**[Xoxzo VOICE API](https://www.xoxzo.com/ja/about/voice-api/)**_ をご利用�
 
 その他、**[XoxzoのAPI](https://www.xoxzo.com/ja/)**は _**[SMS配信](https://www.xoxzo.com/ja/about/sms-api/)**_ や _**[発信電話](https://www.xoxzo.com/ja/about/voice-api/)**_ _複数で**電話会議**ができる_ _**[カンファレンスコール](http://docs.xoxzo.com/ja/voice.html#simple-conference-api)**_ の機能も充実しています。
 
+SMSと言えば、[EZSMS](https://www.ezsms.biz/) というSMS配信サービスをご存知ですか？
+
+[EZSMS](https://www.ezsms.biz/)は間単にはコミュニケーションできるサービスを提供しています。無料登録後、即時にご利用のウェブブラウザーから、SMSの配信機能をご利用いただいたり、ダイヤル・イン・ナンバーをご利用いただくことができます。
+- 170カ国以上への送信も対応しています。
+- 複数の宛先への一斉送信や、メッセージをカスタマイズして大量配信可能なCSVファイルを使った配信にも対応しています。
+- いつでも、どこでも: サービスはすべてオンライン完結
+- ダイヤルSMSでビジネスもイベントも大成功
+
+実は、SMSマーケティングは、メールマーケティングよりも遥かに効果的なんです。
+
+- SMSは、98％の人が開封します。
+- マーケティングメッセージはSMSで、と75％の人が思っています。
+
+[こちらでEZSMS](https://www.ezsms.biz/)]の無料登録ができます。
+
 _Xoxzo機能のデモのご希望にも、関東圏を中心に、お応えします。_
 
 ご不明な点があれば、是非 help@xoxzo.com までご連絡ください。
+
+
 
