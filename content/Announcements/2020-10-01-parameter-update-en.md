@@ -10,6 +10,7 @@ We would like to inform you that one of the parameters on Xoxzo's [K-premium ser
 Please use the new parameter going forward:
 
 Parameter (new): jp_kp_sender
+
 Parameter (old): jp_kddi_sender
 
 As you find in our [Documentation](https://docs.xoxzo.com/ja/sms.html#jp-specific-optional-parameters), please specify your pre-registered K-premium SenderID with this parameter together with one of the parameters below:
