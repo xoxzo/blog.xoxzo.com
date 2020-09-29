@@ -2,7 +2,7 @@ Title: TCP clients communication
 Lang: en
 Date: 2020-08-31 09:00
 Author: Arthur Sultanbekov
-Tags: tcp; tcpclient; http; websocket; keepalive;
+Tags: tcp; tcpclient; http; websocket; keepalive; 2020;
 Slug: tcp-clients-communication
 Summary: Analysis of TCP clients
 

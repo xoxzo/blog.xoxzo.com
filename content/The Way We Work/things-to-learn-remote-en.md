@@ -2,7 +2,7 @@ Title: Things to learn from a traditionally remote company
 Date: 2020-09-7 00:00 
 Slug: things-to-learn-remote
 Lang: en 
-Tags: remote; culture; 
+Tags: remote; culture; 2020;
 Author: Surya Banerjee
 Thumbnail: images/blog_redesign_00.png
 Summary: Things to adapt for remote working
