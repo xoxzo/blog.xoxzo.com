@@ -13,11 +13,13 @@ Summary: 独自の送信元IDを設定する「Kプレミアムサービス」�
 
 新パラメーター： jp_kp_sender
 
+
 [ドキュメンテーション](https://docs.xoxzo.com/ja/sms.html#jp-specific-optional-parameters)にてご確認いただけます通り、
 
 [Kプレミアムサービス](https://help.xoxzo.com/ja/xoxzo-cloud-telephony/articles/the-k-premium-service/)では `jp_kp` 
 
 [Kプレミアム Lite](https://help.xoxzo.com/ja/xoxzo-cloud-telephony/articles/the-k-premium-lite/)では、`jp_kpl` 
+
 
 の各パラメーターと併せて、ご登録の番号を指定する際にお使いください。
 
