@@ -3,6 +3,7 @@ Date: 2020-10-06
 Slug: x4-topup-reminder
 Lang: ja
 Tags: xoxzo; release; 2020; top-up-reminder;
+Thumbnail: images/top-up-reminder.png
 Author: Aiko Yokoyama
 Summary: うっかりしていると、クレジット残高不足でせっかくのSMS配信機能が機能していない！・・・ということを防ぐため、アカウントの残高が設定以下になると通知メールを送信する機能がリリースとなりました。
 
@@ -14,6 +15,7 @@ XoxzoのAPIを利用するには、法人のユーザー様であれば請求書
 
 そこで、アカウントの残高不足を事前に通知できる機能が誕生しました。
 
+![top-up-reminder image](images/top-up-reminder.png)
 
 ## クレジット残高低下通知機能
 
