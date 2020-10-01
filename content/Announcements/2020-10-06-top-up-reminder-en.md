@@ -1,28 +1,32 @@
-Title: 【Xoxzo】クレジット残高低下 通知機能リリース！
+Title: Xoxzo releases top-up reminder feature
 Date: 2020-10-06
 Slug: x4-topup-reminder
 Lang: en
 Tags: xoxzo; release; 2020; top-up-reminder;
 Author: Aiko Yokoyama
-Summary: うっかりしていると、クレジット残高不足でせっかくのSMS配信機能が機能していない！・・・ということを防ぐため、アカウントの残高が設定以下になると通知メールを送信する機能がリリースとなりました。
+Summary: To prevent the failure for your API use due to the insufficient account balance, Xoxzo has just released a new feature to send a top-up alert to be triggered at the balance amount of your set.
 
-XoxzoのAPIを利用するには、法人のユーザー様であれば請求書建ての後払いがご利用いただけますが、
-基本的には、オンラインで前払いのXoxzo用クレジットを購入いただき、日々のSMS配信・受信や音声通話にご利用頂いています。
+Thank you for using [Xoxzo APIs](https://www.xoxzo.com/en/).
 
-しかし、クレジットには、購入日より90日間の有効期限がありますので、一度に大量購入してしまうことができません。
-かといって、アカウントが残高不足になってしまうと、せっかくの通知機能が使えない事態に！
+Xoxzo APIs can be used with postpay contract by the corporate/organization users, but many individual
+users use as an online prepay.
 
-そこで、アカウントの残高不足を事前に通知できる機能が誕生しました。
+The prepaid Xoxzo-credits have a 90-day expiry and the users may hesitate to make a bulk purchase.
+On the other hand, the moderate amount of purchase can cause the insufficient balance in your account, then the important messages might not be delivered to the end users!
+
+A new feature to alert the low credit balance is developed as a solution.
 
 
-## クレジット残高低下通知機能
+## A top up reminder feature
 
-XoxzoのAPIをご利用のユーザー様のご利用量は、実に様々です。ユーザー様ひとりひとりに合わせた「残高がこれ以下になったら通知が欲しい！」という
-ご要望にお応えして、クレジット残高低下通知機能は、ユーザー様が通知の要・不要、そして通知を発信するべき残高を設定できるようになっています。
+The amount of Xoxzo-credits that the users use are very various. This reminder feature is built to fit
+every users wish by enabling each user to set their own amount to trigger the notification. 
+The notification can be disabled for the unwanted users.
 
-[ヘルプページ](https://help.xoxzo.com/ja/xoxzo-cloud-telephony/articles/top-up-reminder/)をご参照の上、ぜひご活用ください。
+Please refer the details in [Help Center](https://help.xoxzo.com/ja/xoxzo-cloud-telephony/articles/top-up-reminder/) before you use this feature.
 
-## ご要望はございませんか？
+## Any more wishes?
 
-**継続改善** は、Xoxzoのサービスの鍵となっています。そして、本機能を始め、改善内容の多くは、ユーザー様の声にお応えすることとしています。
-ご利用時にご不便を感じたことがございましたら、いつでもお気軽に、ご連絡ください。チーム一同、お待ち申し上げております。
+**KEIZOKU KAIZEN (continuous improvement)** is the key on Xoxzo to deliver the API service.
+Many of the improvements we made including this top-up reminder are to respond to the users requests.
+Please feel free to talk to us for more wishes that you have in your mind. Team Xoxzo always wants to empower you!
