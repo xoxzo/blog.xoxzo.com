@@ -7,7 +7,7 @@ Lang: en
 Thumbnail: images/history2g2.gif
 Summary: The origin of 2G technology and how it was first used
 
-The limitations of [1G mobile](https://blog.xoxzo.com/2018/07/24/history-of-1g/) handsets and networks limited further spread of the technology. In order to increase the spread and reach of the adoption of mobile communication among the mass, it had to be interoperable (eg: inter-operator and international roaming) and affordable (ie: cheaper mobile phones and service subscriptions). 
+As I talked about in my [previous](https://blog.xoxzo.com/2018/07/24/history-of-1g/) article, the limitations of [1G mobile](https://blog.xoxzo.com/2018/07/24/history-of-1g/) handsets and networks limited further spread of the technology. In order to increase the spread and reach of the adoption of mobile communication among the mass, it had to be interoperable (eg: inter-operator and international roaming) and affordable (ie: cheaper mobile phones and service subscriptions). 
 
 As opposed to the sporadic and competitive development of [1G cellular networks](https://blog.xoxzo.com/2018/07/24/history-of-1g/), the emergence of 2G mobile communication technology took place in a planned and cooperative manner. The cooperative efforts were pioneered by European countries with the formation and work of:
 
@@ -55,3 +55,27 @@ The GSM networks have been serving mobile users in the past decades, and most ar
 -	Market penetration, mobile phone ownership and subscription became a commodity;
 -	Roaming supported;
 -	Texting supported. 
+
+Thanks for reading about the history of 2G mobile communication technology, we’ve sure come a long way. What did you find the most surprising about the development of mobile communication technology? Let us know in a comment below.
+
+Also make sure to check out our previous article: [A Brief History of 1G Mobile Communication Technology](https://blog.xoxzo.com/en/2018/07/24/history-of-1g/) and stay tuned for our next article! 
+
+Keeping the topic of SMS in mind. We’d like to get your attention for our service [EZSMS](https://www.ezsms.biz/) that can help you reach multiple customers at the same time by SMS. And what’s even easier? You can write, customize and send SMS text messages from your computer!
+
+![logo_ezsms](/images/ezsms_logo-1.png)
+
+Why you should check out [EZSMS](https://www.ezsms.biz/):
+- International: Send SMS messages to over 170 countries in the world!
+- Customizable: Use CSV file on your computer to easily customize your messages.
+- All time, everywhere: anything can be managed online, whenever and wherever you want.
+- No initial cost! 
+
+How can [EZSMS](https://www.ezsms.biz/) benefit your business?
+Did you know that SMS marketing is in many ways, more effective than email marketing? 
+- 98% of people open texts that they receive
+- 75% of people would like to receive marketing offers by email 
+
+By sending your customers customized SMS text messages there’s a bigger chance that they open it and read your message. Checking in with customers through SMS can feel more personal compared to an email that gets blasted to everyone, which allows you to build meaningful relationships.
+
+Get started with [EZSMS](https://www.ezsms.biz/) today, signing up is free! 
+

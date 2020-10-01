@@ -7,6 +7,8 @@ Lang: en
 Thumbnail: images/3g04.jpg
 Summary: The origin of 3G technology and how it was first used
 
+Previously I have talked about the development of the [1G](https://blog.xoxzo.com/en/2018/07/24/history-of-1g/) and the [2G](https://blog.xoxzo.com/en/2018/08/01/history-of-2g/) mobile technology, the predecessesors of modern day mobile technology. This time, I will briefly discuss the 3G mobile networks. 
+
 3G networks are still the predominant mobile communication service providers around the world, it is a technology hardly in the history yet. However, the technology has more or less matured, so it is justifiable to summarize the development of 3G in history. 
 Based on the phenomenal success of GSM in 2G, 3G took the same path of cooperation and worldwide standardization to ensure interoperability. Mobile communication is after all an international affair, more so with extensive business and personal travels happening more and more often. 
 
@@ -44,3 +46,22 @@ Further enhancement to 3G technology had been specified: in 2002, HSDPA was defi
 -	CDMA as the channel access method, allowing several users to share a band of frequencies, which is more efficient use of the spectrum;
 -	Circuit switched Core Network for voice, and Packet switched Core Network for data;
 -	Introduction of MIMO, using multiple transmitting and receiving antennas to multiply the capacity of the radio link.
+
+How do you think the development of the 3G mobile network change the way we communicate? Let us know in the comments below.
+
+Also make sure to check out our previous articles:
+- [A Brief History of 1G Mobile Technology](https://blog.xoxzo.com/en/2018/07/24/history-of-1g/)
+- [A Brief History of 2G Mobile Technology](https://blog.xoxzo.com/en/2018/08/01/history-of-2g/)
+
+If you're interested in SMS and technology, We'd like to bring your attention to our service [EZSMS](https://www.ezsms.biz/) which is also part of Xoxzo.
+
+![logo_ezsms](/images/ezsms_logo-1.png)
+
+[EZSMS](https://www.ezsms.biz/) allows you to write, customize and send SMS text messages from your computer.
+
+Are you interested to find out more? Head over to the [EZSMS](https://www.ezsms.biz/) website. Signing up is free!
+
+
+
+
+
