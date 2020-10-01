@@ -3,6 +3,7 @@ Date: 2020-10-06
 Slug: x4-topup-reminder
 Lang: en
 Tags: xoxzo; release; 2020; top-up-reminder;
+Thumbnail: images/top-up-reminder.png
 Author: Aiko Yokoyama
 Summary: To prevent the failure for your API use due to the insufficient account balance, Xoxzo has just released a new feature to send a top-up alert to be triggered at the balance amount of your set.
 
@@ -16,6 +17,7 @@ On the other hand, the moderate amount of purchase can cause the insufficient ba
 
 A new feature to alert the low credit balance is developed as a solution.
 
+![top-up-reminder image](images/top-up-reminder.png)
 
 ## A top up reminder feature
 
