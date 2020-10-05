@@ -61,30 +61,21 @@ The limitations of 1G mobile technology were:
 -	Weak security on air interface, no support for encryption;
 -	No Mobile Assisted Handover and hence more burden on the Mobile Switching Center (MSC).
 
-
 We hope you enjoyed reading about 1G: the first wireless cellular technology or the first mobile phones to ever exist. 
 If you're curious about the second generation of mobile phones, check out this article: [A Brief History of 2G Mobile Communication Technology](https://blog.xoxzo.com/en/2018/08/01/history-of-2g/) 
 
+SMS was the first step in connecting people around the world before the internet became widely available. Nowadays many people use email, messaging apps and social media to communicate, however SMS is seen as more reliable compared to mobile networks, especially in areas in the world where Wi-Fi isn’t available everywhere or the connection isn’t as stable. In that case, the best way to reach someone as fast and reliable as possible is through SMS.
 
-Speaking of SMS, did you know that you can now easily send bulk SMS messages from your computer? Try our service [EZSMS](https://www.ezsms.biz/) to make your life easier! 
+In 2020 many businesses are taking advantage of SMS to reach out to their customers. What makes SMS marketing attractive is the fact that the open rates are astonishing at 98% and customers also don’t mind receiving updates by SMS.
+In fact, according to a study 75% of people would like to receive marketing offers by SMS.
+
+Unfortunately many people miss out on important notifications and offers by opening their email too late; if they open their email at all. SMS marketing creates a sense of urgency that is often needed to create a successful campaign.
+Sending SMS text messages in bulk can be easily achieved with services such as [EZSMS](https://www.ezsms.biz/).
 
 ![logo_ezsms](/images/ezsms_logo-1.png)
 
-Why you should check out [EZSMS](https://www.ezsms.biz/):
+[EZSMS](https://www.ezsms.biz/) allows you to compose, customize and send SMS messages in bulk from your computer; you can send SMS messages internationally to over 170 countries in the world. Everything can be managed online, wherever and whenever you want. If you’re interested in trying out [EZSMS](https://www.ezsms.biz/) you can sign up for free, you only pay when you use the service.
 
-- International: Send SMS messages to over 170 countries in the world!
-- Customizable: Use CSV file on your computer to easily customize your messages.
-- All time, everywhere: anything can be managed online, whenever and wherever you want.
-- No initial cost! 
-
-How can [EZSMS](https://www.ezsms.biz/) benefit your business?
-
-Did you know that SMS marketing is in many ways, more effective than email marketing? 
-- 98% of people open texts that they receive
-- 75% of people would like to receive marketing offers by email
-
-Unfortunately many people miss out on special deals and offers by opening their email too late; if they open their email at all! SMS marketing creates a sense of urgency that is often needed to create a successful campaign.  
-
-Get started with [EZSMS](https://www.ezsms.biz/)  today, signing up is free! 
+Read more about[EZSMS](https://www.ezsms.biz/)
 
 
