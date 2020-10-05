@@ -60,7 +60,7 @@ Thanks for reading about the history of 2G mobile communication technology, we�
 
 Also make sure to check out our previous article: [A Brief History of 1G Mobile Communication Technology](https://blog.xoxzo.com/en/2018/07/24/history-of-1g/) and stay tuned for our next article! 
 
-SMS was the first step in connecting people around the world before the internet became widely available. Nowadays many people use email, messaging apps and social media to communicate, however SMS is seen as more reliable compared to mobile networks, especially in areas in the world where Wi-Fi isn’t available everywhere or the connection isn’t as stable. In that case, the best way to reach someone as fast and reliable as possible is through SMS.
+As you know, SMS was the first step in connecting people around the world before the internet became widely available. Nowadays many people use email, messaging apps and social media to communicate, however SMS is seen as more reliable compared to mobile networks, especially in areas in the world where Wi-Fi isn’t available everywhere or the connection isn’t as stable. In that case, the best way to reach someone as fast and reliable as possible is through SMS.
 
 In 2020 many businesses are taking advantage of SMS to reach out to their customers. What makes SMS marketing attractive is the fact that the open rates are astonishing at 98% and customers also don’t mind receiving updates by SMS.
 In fact, according to a study 75% of people would like to receive marketing offers by SMS.
