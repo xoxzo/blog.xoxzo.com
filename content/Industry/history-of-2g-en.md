@@ -60,22 +60,18 @@ Thanks for reading about the history of 2G mobile communication technology, we�
 
 Also make sure to check out our previous article: [A Brief History of 1G Mobile Communication Technology](https://blog.xoxzo.com/en/2018/07/24/history-of-1g/) and stay tuned for our next article! 
 
-Keeping the topic of SMS in mind. We’d like to get your attention for our service [EZSMS](https://www.ezsms.biz/) that can help you reach multiple customers at the same time by SMS. And what’s even easier? You can write, customize and send SMS text messages from your computer!
+SMS was the first step in connecting people around the world before the internet became widely available. Nowadays many people use email, messaging apps and social media to communicate, however SMS is seen as more reliable compared to mobile networks, especially in areas in the world where Wi-Fi isn’t available everywhere or the connection isn’t as stable. In that case, the best way to reach someone as fast and reliable as possible is through SMS.
+
+In 2020 many businesses are taking advantage of SMS to reach out to their customers. What makes SMS marketing attractive is the fact that the open rates are astonishing at 98% and customers also don’t mind receiving updates by SMS.
+In fact, according to a study 75% of people would like to receive marketing offers by SMS.
+
+By sending your customers customized SMS text messages there’s a bigger chance that they open it and read your message. Checking in with customers through SMS can feel more personal compared to an email that gets blasted to everyone, which allows you to build meaningful relationships.
+Sending SMS text messages in bulk can be easily achieved with services such as [EZSMS](https://www.ezsms.biz/).
 
 ![logo_ezsms](/images/ezsms_logo-1.png)
 
-Why you should check out [EZSMS](https://www.ezsms.biz/):
-- International: Send SMS messages to over 170 countries in the world!
-- Customizable: Use CSV file on your computer to easily customize your messages.
-- All time, everywhere: anything can be managed online, whenever and wherever you want.
-- No initial cost! 
+[EZSMS](https://www.ezsms.biz/) can help you reach multiple customers at the same time by SMS. You can write, customize and send SMS text messages from your computer.
+Internationally available, you can send SMS messages to over 170 countries in the world. Everything can be managed online, wherever and whenever you want. If you’re interested in trying out [EZSMS](https://www.ezsms.biz/) you can sign up for free and you only pay when you use the service.
 
-How can [EZSMS](https://www.ezsms.biz/) benefit your business?
-Did you know that SMS marketing is in many ways, more effective than email marketing? 
-- 98% of people open texts that they receive
-- 75% of people would like to receive marketing offers by email 
-
-By sending your customers customized SMS text messages there’s a bigger chance that they open it and read your message. Checking in with customers through SMS can feel more personal compared to an email that gets blasted to everyone, which allows you to build meaningful relationships.
-
-Get started with [EZSMS](https://www.ezsms.biz/) today, signing up is free! 
+[Click here for more information about EZSMS](https://www.ezsms.biz/)
 
