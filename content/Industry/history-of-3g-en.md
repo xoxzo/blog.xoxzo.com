@@ -53,13 +53,18 @@ Also make sure to check out our previous articles:
 - [A Brief History of 1G Mobile Technology](https://blog.xoxzo.com/en/2018/07/24/history-of-1g/)
 - [A Brief History of 2G Mobile Technology](https://blog.xoxzo.com/en/2018/08/01/history-of-2g/)
 
-If you're interested in SMS and technology, We'd like to bring your attention to our service [EZSMS](https://www.ezsms.biz/) which is also part of Xoxzo.
+Even though people have many ways of communication these days such as email, social media and messaging apps, SMS still remains a popular means of communication. This is mainly due to how reliable it is, especially in areas in the world where Wi-Fi isn’t available everywhere or the connection isn’t as stable. In that case, the best way to reach someone as fast and reliable as possible is through SMS.
+
+SMS is also used as a marketing tool in 2020, what makes it so attractive is the astonishing open rate of 98%, and customers also don’t mind receiving updates by SMS.
+In fact, according to a study 75% of people would like to receive marketing offers by SMS.
+
+You can easily send your customers SMS text messages from your computer with a tool like [EZSMS](https://www.ezsms.biz/).
 
 ![logo_ezsms](/images/ezsms_logo-1.png)
 
-[EZSMS](https://www.ezsms.biz/) allows you to write, customize and send SMS text messages from your computer.
+[EZSMS](https://www.ezsms.biz/) allows you to compose, customize and send SMS text messages from your computer.
 
-Are you interested to find out more? Head over to the [EZSMS](https://www.ezsms.biz/) website. Signing up is free!
+Head over to the [EZSMS](https://www.ezsms.biz/) website to find more information. Signing up is free and you only pay when using the service.
 
 
 
