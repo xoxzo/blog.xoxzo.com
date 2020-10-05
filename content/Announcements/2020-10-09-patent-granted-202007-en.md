@@ -21,20 +21,19 @@ The patent granted will mostly be used for Xoxzo’s  Receive [SMS message API.]
 
 We at Xoxzo hope that our technology will help to build more business security & communication and revitalize the current and the future application development.
 
-Speaking of SMS, we’d like to update you on our service [EZSMS](https://www.ezsms.biz/) which is also part of Xoxzo.
 
-Using EZSMS, you can easily write, customize and send SMS messages in bulk, all online on your computer.
+Speaking of SMS, we’d like to give you an update you about our service [EZSMS](https://www.ezsms.biz/).
+
+Using [EZSMS](https://www.ezsms.biz/), you can easily write, customize and send SMS messages in bulk from your computer.
 
 ![logo_ezsms](/images/ezsms_logo-1.png)
 
-Why you should check out [EZSMS](https://www.ezsms.biz/):
+Internationally available, you can send SMS messages to over 170 countries in the world. 
+Everything can be managed online, wherever and whenever you want. 
+If you’re interested in trying out EZSMS you can sign up for free: you only pay when you use the service.
 
-- International: Send SMS messages to over 170 countries in the world
-- Customizable: Use CSV file on your computer to easily customize your messages.
-- All time, everywhere: anything can be managed online, whenever and wherever you want.
-- No initial cost 
+[Click here for more information about EZSMS](https://www.ezsms.biz/)
 
-Get started with [EZSMS](https://www.ezsms.biz/) today, signing up is free! 
 
 
 
