@@ -76,6 +76,6 @@ Sending SMS text messages in bulk can be easily achieved with services such as [
 
 [EZSMS](https://www.ezsms.biz/) allows you to compose, customize and send SMS messages in bulk from your computer; you can send SMS messages internationally to over 170 countries in the world. Everything can be managed online, wherever and whenever you want. If you’re interested in trying out [EZSMS](https://www.ezsms.biz/) you can sign up for free, you only pay when you use the service.
 
-Read more about[EZSMS](https://www.ezsms.biz/)
+Read more about [EZSMS](https://www.ezsms.biz/)
 
 
