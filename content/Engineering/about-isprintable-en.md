@@ -17,7 +17,7 @@ I was to add an extra check for the input data. The application is written with 
 I discovered a convenient python function `isprintable()` while I was wondering how
 to check if the input string includes any `ESC`.
 
-[specification of isprintqable() in Japanese](https://docs.python.org/ja/3.7/library/stdtypes.html#str.isprintable)
+[specification of isprintqable()](https://docs.python.org/3.7/library/stdtypes.html#str.isprintable)
 
 
 My trial of this function showed that `ESC` can be found in the string.
