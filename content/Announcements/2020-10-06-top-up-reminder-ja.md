@@ -15,7 +15,7 @@ XoxzoのAPIを利用するには、法人のユーザー様であれば請求書
 
 そこで、アカウントの残高不足を事前に通知できる機能が誕生しました。
 
-![top-up-reminder image](images/top-up-reminder.png)
+![top-up-reminder image](/images/top-up-reminder.png)
 
 ## クレジット残高低下通知機能
 
