@@ -25,6 +25,8 @@ The amount of Xoxzo-credits that the users use are very various. This reminder f
 every users wish by enabling each user to set their own amount to trigger the notification. 
 The notification can be disabled for the unwanted users.
 
+This feature can be used for free of charge.
+
 Please refer the details in [Help Center](https://help.xoxzo.com/ja/xoxzo-cloud-telephony/articles/top-up-reminder/) before you use this feature.
 
 ## Any more wishes?
