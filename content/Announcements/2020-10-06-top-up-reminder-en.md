@@ -17,7 +17,7 @@ On the other hand, the moderate amount of purchase can cause the insufficient ba
 
 A new feature to alert the low credit balance is developed as a solution.
 
-![top-up-reminder image](images/top-up-reminder.png)
+![top-up-reminder image](/images/top-up-reminder.png)
 
 ## A top up reminder feature
 
