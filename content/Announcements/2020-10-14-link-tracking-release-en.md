@@ -13,34 +13,44 @@ Do you include the URL of informative website in your SMS to send to your custom
 
 * events, campaigne details
 * products or service page
-* important notification
+* important notification <br>
 The link is the best guidance to the recipient to their convenient or bargain information that won't fit in one SMS (Short Message Service).
 
-But how is the after-care?
-If you send 1,000 messages, don't you want to know who clicked the URL to access your information?
-Don't you want to send the next campaigne notice to those who cliekd, to be more cost-effective? You may add more sales action with the savings.
 
-Even you send those messages to your own customers or on behalf of your client,
+But how is the after-care?<br>
+If you send 1,000 messages, don't you want to know who clicked the URL to access your information? <br>
+Don't you want to send the next campaigne notice to those who cliekd, to be more cost-effective? <br>
+You may add more sales action with the savings.
+
+
+No matter if you sent those messages to your own customers or on behalf of your client,
 you can prepare a better report by including the result of link-tracking. 
 
-We are proudly announcing the release of this link-tracking feather, which is sought after by our current users.
+
+We are proudly announcing the release of this link-tracking feature, which is also sought after by our current users.
 
 
 ### How to use?
 It is simiple an easy. Just add one additional parameter on your normal sending.
+
+
 Please refer [API documentation](https://docs.xoxzo.com/en/sms.html#sms-api) and
 [Help Center](https://help.xoxzo.com/xoxzo-cloud-telephony/articles/what-is-link-tracking/).
 
 ### How it works?
 The first url/domain name in your message will be replaced by our private short link before the message being sent.
+
 In the event of the recipient clicking on the url, it is recorded with the time stamp.
 
-This short url will be expired in 90 days.
+Please note that this short url will be expired in 90 days.
 
 ### Pricing
 The link-tracking feature needs an additional parameter cost on top of standard messaging.
+
+
 Please visit our [SMS pricing page](https://www.xoxzo.com/en/about/pricing/#send-sms) for more details.
 
 
 Our new feature releases will continue on. Please wait for the next announcement.
+
 Please contact us at helpdesk（help@xoxzo.com）for any requests you may have.
