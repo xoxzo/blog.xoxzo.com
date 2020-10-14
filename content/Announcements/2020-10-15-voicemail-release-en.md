@@ -3,7 +3,7 @@ Date: 2020-10-15
 Slug: voicemail-release
 Lang: en
 Tags: voicemail; release; 2020; VoiceAPI; DIN;
-Thumbnail: images/freepik/young-females-download-icon.jpg
+Thumbnail: images/voicemail.png
 Author: Aiko Yokoyama
 Summary: Now you can get a phone number to use Voicemail feature. You will never miss any calls!
 
@@ -26,12 +26,4 @@ If you need any help, please visit our [Help Center](https://help.xoxzo.com/en/x
 
 The price for this Voicemail storage, please refer the [pricing page](https://www.xoxzo.com/ja/about/pricing/voice/#din).
 
-
-### Did you know?
-
-[Xoxzo's direct log download](https://blog.xoxzo.com/en/2019/08/13/logs-download-feature-new-release/) was developed 
-to respond to the users' request. The first release started with the SMS usage download.
-
-
-Thank you to rawpixel.com for the thumbnail:
-[Background photo created by rawpixel.com - www.freepik.com](https://www.freepik.com/free-photos-vectors/background)
+For any further inquiries, please contact helpdesk (help@xoxzo.com).
