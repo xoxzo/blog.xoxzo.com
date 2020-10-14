@@ -3,6 +3,7 @@ Date: 2020-10-15
 Slug: link-tracking-release
 Lang: ja
 Tags: xoxzo; 新規リリース; 2020; リンクトラッキング;
+Thumbnail: images/link-tracking.png
 Author: Aiko Yokoyama
 Summary: 送信したSMS中のリンク、誰がいつクリックしてくれたのか、分かると顧客行動分析や顧客リストの清浄化に役立ちます。そのリンクトラッキング機能がいよいよリリースとなりました。
 
