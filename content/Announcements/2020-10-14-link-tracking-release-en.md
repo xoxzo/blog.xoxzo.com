@@ -3,6 +3,7 @@ Date: 2020-10-15
 Slug: link-tracking-release
 Lang: en
 Tags: xoxzo; release; 2020; link-tracking;
+Thumbnail: images/link-tracking.png
 Author: Aiko Yokoyama
 Summary: The link-tracking feature enable you to find who and when clicked the link within the SMS you send. It will help analyzing your customer behavior and make more clean and effective customer list.
 
