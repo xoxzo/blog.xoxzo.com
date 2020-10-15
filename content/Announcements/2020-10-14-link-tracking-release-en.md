@@ -52,6 +52,6 @@ The link-tracking feature needs an additional parameter cost on top of standard 
 Please visit our [SMS pricing page](https://www.xoxzo.com/en/about/pricing/#send-sms) for more details.
 
 
-Our new feature releases will continue on. Please wait for the next announcement.
+We will keep releasing new API features based on your request.
 
 Please contact us at helpdesk（help@xoxzo.com）for any requests you may have.
