@@ -32,7 +32,7 @@ We are proudly announcing the release of this link-tracking feature, which is al
 
 
 ### How to use?
-It is simiple an easy. Just add one additional parameter on your normal sending.
+It is simple an easy. Just add one additional parameter on your normal sending.
 
 
 Please refer [API documentation](https://docs.xoxzo.com/en/sms.html#sms-api) and
