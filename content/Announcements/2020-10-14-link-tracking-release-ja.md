@@ -29,7 +29,7 @@ Xoxzoのユーザー様からも、そういったお悩みやご希望が、多
 
 ### 使い方
 使い方は、とっても簡単。普段と同様の送信に、パラメーターを一つ加えるだけです。
-詳しくは、[ヘルプセンター](https://help.xoxzo.com/xoxzo-cloud-telephony/articles/what-is-link-tracking/)をご参照ください。
+詳しくは、[ヘルプセンター](https://help.xoxzo.com/ja/xoxzo-cloud-telephony/articles/what-is-link-tracking/)をご参照ください。
 
 ### 仕組み
 リクエストを受け取ると、本文中に最初に出てくるURLまたはドメイン名が、独自の短縮URLへ置き換えられます。<br>
