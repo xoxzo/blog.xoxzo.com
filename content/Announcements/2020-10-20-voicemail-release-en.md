@@ -14,7 +14,8 @@ has a new addition of Voicemail feature now.
 Voicemail works as an answering machine, by setting it to a Dial In Number(DIN) you subscribe.
 
 Dial In Numbers (DIN) are local numbers (DID) which you can subscribe and receive calls with. 
-By setting the parameter with any subscription of a DIN, you can either:<br>
+By setting the parameter with any subscription of a DIN, you can either:
+
 * answer an incoming call with your specified .mp3 file
 
 * answer an incoming call with a customized message specified with our TTS
