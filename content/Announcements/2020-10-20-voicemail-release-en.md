@@ -3,7 +3,7 @@ Date: 2020-10-20
 Slug: voicemail-release
 Lang: en
 Tags: voicemail; release; 2020; VoiceAPI; DIN;
-Thumbnail: images/voicemail.png
+Thumbnail: images/Voicemail.png
 Author: Aiko Yokoyama
 Summary: Now you can get a phone number to use Voicemail feature. You will never miss any calls!
 
