@@ -1,5 +1,5 @@
 Title: [Xoxzo] Voicemail feature release!
-Date: 2020-10-15
+Date: 2020-10-20
 Slug: voicemail-release
 Lang: en
 Tags: voicemail; release; 2020; VoiceAPI; DIN;
