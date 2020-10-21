@@ -3,7 +3,7 @@ Date: 2020-10-20
 Slug: voicemail-release
 Lang: ja
 Tags: voicemail; release; 2020; VoiceAPI; DIN;
-Thumbnail: images/freepik/Voicemail.png
+Thumbnail: images/Voicemail.png
 Author: Aiko Yokoyama
 Summary: 自分の電話番号を取得してボイスメールを設定すると、自動音声が応答し、着信メッセージをお預かりします。
 
