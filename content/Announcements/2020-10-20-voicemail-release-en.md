@@ -8,7 +8,7 @@ Author: Aiko Yokoyama
 Summary: Now you can get a phone number to use Voicemail feature. You will never miss any calls!
 
 
-We are happy to announce that [Dial In Number(DIN) API](https://www.xoxzo.com/en/about/voice-api/)
+We are happy to announce that [Dial In Number(DIN) API](https://www.xoxzo.com/en/about/voice-api/#din)
 has a new addition of Voicemail feature now.
 
 Voicemail works as an answering machine, by setting it to a Dial In Number(DIN) you subscribe.
@@ -29,6 +29,6 @@ Please find how to use this feature within the [API Documentation](https://docs.
 
 If you need any help, please visit our [Help Center](https://help.xoxzo.com/en/xoxzo-cloud-telephony/articles/how-to-use-voicemail/) too. <br>
 
-The price for this Voicemail storage, please refer the [pricing page](https://www.xoxzo.com/ja/about/pricing/voice/#din).
+The price for this Voicemail storage, please refer the [pricing page](https://www.xoxzo.com/en/about/pricing/voice/#din).
 
 For any further inquiries, please contact helpdesk (help@xoxzo.com).
