@@ -9,7 +9,7 @@ Summary: 自分の電話番号を取得してボイスメールを設定する�
 
 
 平素は、[Xoxzo API](https://www.xoxzo.com/ja/) をご利用いただき、ありがとうございます。
-[ダイヤルイン番号(DIN) API](https://www.xoxzo.com/ja/about/voice-api/)
+[ダイヤルイン番号(DIN) API](https://www.xoxzo.com/ja/about/voice-api/#din)
 に、新たな着信オプション、ボイスメールが加わりましたので、お知らせいたします。
 
 ボイスメール機能は、契約したダイヤルイン番号(DIN)に設定することで、留守番電話のような働きをします。
