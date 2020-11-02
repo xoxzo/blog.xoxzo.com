@@ -65,14 +65,60 @@ without any fancy logic.
 
 ## Subscribe to a number
 
+First thing you need to do is to subscribe to a DIN. To find numbers, send a
+request to the Xoxzo API with your user's API SID and Auth Token. If you have the
+`curl` program installed, the request looks like this:
+
+```
+curl -u <SID>:<AUTH_TOKEN> https://api.xoxzo.com/voice/dins/
+```
+
+You can use any program or even programming language to make the request but we'll use
+`curl` in the examples since it's a common way to make requests in the command-line.
+
+This request returns a list of available DINs you can choose from.
+Once you've selected a DIN, take note of its `din_uid` because you need this to subscribe,
+which is what we'll do next. You'll also need this later when we attach the `action_url` to the DIN.
+
+To subscribe to a DIN, send a `POST` request to the API:
+
+```
+curl -u <SID>:<AUTH_TOKEN> -d'din_uid=<din_uid>' https://api.xoxzo.com/voice/dins/subscriptions/
+```
+
+When this request succeeds, your subscription starts immediately and your credits will be charged.
+You can read more about this process in our [documentation](https://docs.xoxzo.com/en/din.html#finding-a-dial-in-number-via-api).
 
 ### Remember to attach the `action_url` to your number
 
+At this point, the DIN doesn't do anything yet so the next step is to attach an `action_url`.
+The voicemail system can be configured to use either **text-to-speech** or a **mp3** file hosted
+somewhere for the voicemail greeting. In this example, tts is used since it's very easy to do.
+
+For a text-to-speech greeting, put `voicemail say` in your `action_url` followed by
+the [language code](https://docs.xoxzo.com/en/utilsapi.html#tts-lang-label) and your message enclosed in quotes:
+
+```
+voicemail say en "Hello, you have reached my voicemail. I cannot answer the phone right now, but I will return your call as soon as I can..."
+```
+This is for the `action_url`, once you have that text hosted somewhere, you can attach it to the DIN:
+
+```
+curl -u <SID>:<AUTH_TOKEN> -d'action_url=<url>' https://api.xoxzo.com/voice/dins/subscriptions/<din_uid>/
+```
+ 
+Once this is done, you're ready to receive voicemail messages.
 
 ## Receiving voicemails to your new number
 
+It works just like any voicemail. When someone calls your DIN, they hear a greeting and they
+can leave a message. The message gets recorded and all the recordings will be available for your use later.
 
 ### Listening to your voicemails
+
+To listen to your voicemail messages, login to the your Xoxzo account and you'll find a link to your 
+`Voicemail Records` on the left. There you'll see a list of your recordings with information such as when and who called.
+You can download or delete recordings and if you start getting a lot of messages, you can filter by date, caller, DIN, or API user.
 
 
 And that's it! Perhaps the most difficult part is figuring out how to host your
