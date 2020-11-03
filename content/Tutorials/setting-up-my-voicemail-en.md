@@ -1,6 +1,6 @@
 Title: Setting up my first online voicemail
 Date: 2020-10-23 10:00
-Author: Iqbal Abdullah
+Author: Iqbal Abdullah, Josef Monje
 Tags: covid19; remotework; 2020; wfh series; voicemail;
 Slug: setting-up-my-first-online-voicemail
 Thumbnail: images/Voicemail.png
@@ -128,6 +128,3 @@ You can now use this number as a contact phone number for non-important stuff.
 Anyone can still get in touch with you at this number, but you won't be sharing
 your real personal or work number with everyone that you need to interact on the
 internet.
-
-
-
