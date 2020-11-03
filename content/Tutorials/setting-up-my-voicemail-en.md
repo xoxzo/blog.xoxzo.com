@@ -60,8 +60,12 @@ receive.
 
 But for this exercise, we're only interested to store incoming voice calls to
 our voicemail, so there is only a simple need to host this text somewhere
-without any fancy logic.
-
+without any fancy logic. Some of us at Xoxzo use Github Gists for this. Signing up
+for an account at github.com is free and it's a quick way to put text files online
+for an `action_url`. At a later step, you'll cconfigure the `action_url` with some text.
+That text will be the content of the gist. You can save the gist and view it as plain text
+by clicking the **raw** button. You can find it on the right side while viewing your gist.
+While viewing the raw gist, take not of its URL. This will be the URL of your `action_url`.
 
 ## Subscribe to a number
 
@@ -101,7 +105,10 @@ the [language code](https://docs.xoxzo.com/en/utilsapi.html#tts-lang-label) and 
 ```
 voicemail say en "Hello, you have reached my voicemail. I cannot answer the phone right now, but I will return your call as soon as I can..."
 ```
-This is for the `action_url`, once you have that text hosted somewhere, you can attach it to the DIN:
+
+This is the content of the the `action_url`. If you have't created a github gist mentioned earlier,
+create one now with your preferred greeting. Get the URL of the **raw** gist and that will be the URL.
+Once you have that URL, you can attach it to the DIN:
 
 ```
 curl -u <SID>:<AUTH_TOKEN> -d'action_url=<url>' https://api.xoxzo.com/voice/dins/subscriptions/<din_uid>/
