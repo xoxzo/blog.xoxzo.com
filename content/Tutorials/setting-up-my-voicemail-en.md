@@ -60,9 +60,11 @@ receive.
 
 But for this exercise, we're only interested to store incoming voice calls to
 our voicemail, so there is only a simple need to host this text somewhere
-without any fancy logic. Some of us at Xoxzo use Github Gists for this. Signing up
+without any fancy logic.
+
+Some of us at Xoxzo use Github Gists for this. Signing up
 for an account at github.com is free and it's a quick way to put text files online
-for an `action_url`. At a later step, you'll cconfigure the `action_url` with some text.
+for an `action_url`. At a later step, you'll configure the `action_url` with some text.
 That text will be the content of the gist. You can save the gist and view it as plain text
 by clicking the **raw** button. You can find it on the right side while viewing your gist.
 While viewing the raw gist, take not of its URL. This will be the URL of your `action_url`.
@@ -127,6 +129,7 @@ To listen to your voicemail messages, login to the your Xoxzo account and you'll
 `Voicemail Records` on the left. There you'll see a list of your recordings with information such as when and who called.
 You can download or delete recordings and if you start getting a lot of messages, you can filter by date, caller, DIN, or API user.
 
+# Your voicemail is setup
 
 And that's it! Perhaps the most difficult part is figuring out how to host your
 `action_url` but once that's done, it's downhill all the way.
