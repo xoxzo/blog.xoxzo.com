@@ -88,7 +88,6 @@ TAG_SAVE_AS = 'tag/{slug}/index.html'
 from datetime import date
 CURRENTYEAR = date.today().year
 
-FOOTER_INSERT_HTML = 'profile/%(author)s.html'
 DISQUS_SITENAME = 'https://xoxzo-blog.disqus.com/'
 
 RELATED_POSTS_MAX = 3
