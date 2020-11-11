@@ -1,5 +1,5 @@
 Title: Xoxzo releases top-up reminder feature
-Date: 2020-10-06
+Date: 2020-11-12
 Slug: x4-topup-reminder
 Lang: en
 Tags: xoxzo; release; 2020; top-up-reminder;
