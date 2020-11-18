@@ -50,7 +50,7 @@
         <span class="mr-2">{{ article.locale_date }}</span>
         <span class="mr-2">·</span>
         {% for author in article.authors %}
-        <a href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
+        <a href="{{ SITEURL }}/{{ author.url }}" class="author-name">{{ author }}</a>
         {% endfor %}
       </p>
       {% import 'translations.html' as translations with context %}

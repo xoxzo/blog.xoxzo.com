@@ -483,11 +483,13 @@ footer .fa-instagram {
   text-decoration: none;
 }
 
+.author-name:not(:last-child):after {
+  content: ", ";
+}
+
 .author-profile {
   padding: 40px 15px;
-  margin: 40px 0;
   border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
   text-align: center;
 }
 
@@ -519,6 +521,11 @@ footer .fa-instagram {
 
 .author-profile p {
   margin-top: 20px;
+}
+
+#disqus_thread {
+  padding-top: 40px;
+  border-top: 1px solid #ddd;
 }
 
 .btn-tag {
