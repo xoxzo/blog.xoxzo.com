@@ -46,7 +46,9 @@
                   {{ article.summary }}
                   <span class="article-info mr-1">{{ article.locale_date }}</span>
                   <span class="article-info">·</span>
-                  <span class="article-info ml-1">{{ article.author }}</span>
+                  {% for author in article.authors %}
+                  <span class="article-info author-name ml-1">{{ author }}</span>
+                  {% endfor %}
                 </div>
               </a>
             </div>

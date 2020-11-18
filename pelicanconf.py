@@ -50,7 +50,7 @@ EXTRA_PATH_METADATA = {
 #THEME           = 'themes/simple'
 THEME           = 'themes/xoxzo'
 PLUGIN_PATHS    = [os.path.join(PROJECT_ROOT, 'plugins'),]
-PLUGINS         = ['i18n_subsites', 'footer_insert', 'related_posts', 'autostatic', 'advthumbnailer', 'sitemap',]
+PLUGINS         = ['i18n_subsites', 'related_posts', 'autostatic', 'advthumbnailer', 'sitemap',]
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n',]}
 
 I18N_UNTRANSLATED_ARTICLES  = "remove"
@@ -88,7 +88,6 @@ TAG_SAVE_AS = 'tag/{slug}/index.html'
 from datetime import date
 CURRENTYEAR = date.today().year
 
-FOOTER_INSERT_HTML = 'profile/%(author)s.html'
 DISQUS_SITENAME = 'https://xoxzo-blog.disqus.com/'
 
 RELATED_POSTS_MAX = 3

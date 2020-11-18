@@ -50,7 +50,7 @@
         <span class="mr-2">{{ article.locale_date }}</span>
         <span class="mr-2">·</span>
         {% for author in article.authors %}
-        <a href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
+        <a href="{{ SITEURL }}/{{ author.url }}" class="author-name">{{ author }}</a>
         {% endfor %}
       </p>
       {% import 'translations.html' as translations with context %}
@@ -73,9 +73,9 @@
       {% endif %}
       </div>
 
-      {% if article.footer_insert_html %}
-        {% include article.footer_insert_html %}
-      {% endif %}
+      {% for author in article.authors %}
+        {% include 'profile/%s.html' % author %}
+      {% endfor %}
 
       {% include 'disqus.html' %}
     </div>

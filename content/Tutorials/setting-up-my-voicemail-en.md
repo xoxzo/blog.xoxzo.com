@@ -1,6 +1,6 @@
 Title: Setting up my first online voicemail
 Date: 2020-10-23 10:00
-Author: Iqbal Abdullah
+Authors: Iqbal Abdullah, Josef Monje
 Tags: covid19; remotework; 2020; wfh series; voicemail;
 Slug: setting-up-my-first-online-voicemail
 Thumbnail: images/Voicemail.png
