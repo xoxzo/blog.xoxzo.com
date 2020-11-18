@@ -73,9 +73,9 @@
       {% endif %}
       </div>
 
-      {% if article.footer_insert_html %}
-        {% include article.footer_insert_html %}
-      {% endif %}
+      {% for author in article.authors %}
+        {% include 'profile/%s.html' % author %}
+      {% endfor %}
 
       {% include 'disqus.html' %}
     </div>
