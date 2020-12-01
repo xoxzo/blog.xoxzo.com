@@ -21,11 +21,11 @@ Very simple. Please add a paramter _lt_callbackurl_ to provide an URL to be call
 For more details, please visit [Help Center](https://help.xoxzo.com/en/xoxzo-cloud-telephony/articles/what-is-link-tracking/).
 
 ### How it works
-**SMS Link Tracking**
+**SMS Link Tracking** <br>
 - When the parameter _track_link_ is provided, link tracking function is enabled. 
 The first URL/domain name in the message will be replaced with our private short url. <br> 
 - The information of when the recipient clicks the link on the mobile terminal will be recorded. <br>
-**SMS Link Tracking with callbackurl**
+**SMS Link Tracking with callbackurl** <br>
 - Provide the URL to call when the link is clicked with the parameter _lt_callbackurl_. <br>
 - XOXZO cloud will call the URL with http POST method<br>
 
