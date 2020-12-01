@@ -13,7 +13,7 @@ Thank you for using [Xoxzo API](https://www.xoxzo.com/).
 Please let us announce an additional parameter _lt_callbackurl_ to be used together with _track_link_ for our SMS API.
 
 
-Please also see[Link tracking release](https://blog.xoxzo.com/en/2020/10/15/link-tracking-release/)
+Please also see [Link tracking release](https://blog.xoxzo.com/en/2020/10/15/link-tracking-release/)
 
 
 ### How to use
@@ -31,7 +31,7 @@ The first URL/domain name in the message will be replaced with our private short
 
 Please check the link tracking details using [Check SMS status API](https://docs.xoxzo.com/en/sms.html#check-sms-status-api) as well.
 
-### 料金
+### Pricing
 The link-tracking feature needs an additional parameter cost on top of standard messaging.
 Please visit our [SMS pricing page](https://www.xoxzo.com/en/about/pricing/#send-sms) for more details.
 
