@@ -36,4 +36,4 @@ The link-tracking feature needs an additional parameter cost on top of standard 
 Please visit our [SMS pricing page](https://www.xoxzo.com/en/about/pricing/#send-sms) for more details.
 
 Link tracking feature was born by our user's voice.<br>
-Please contact our helpdesk（help@xoxzo.com）with your requests too.
+Please contact our [helpdesk](mailto:help@xoxzo.com) with your requests too.
