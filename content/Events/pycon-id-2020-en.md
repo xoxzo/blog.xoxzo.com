@@ -1,9 +1,10 @@
 Title: Python Conference Indonesia 2020 (PyCon ID 2020)
-Date: 2020-11-26 09:00
+Date: 2020-12-02 06:30
 Author: Zaki Akhmad
 Tags: pycon, pyconid, python, conference
 Lang: en
 Slug: pycon-id-2020
+Thumbnail: images/pycon-id-2020/pyconid2020_merchandise.jpg
 Summary: Recap of PyCon ID 2020
 
 My first online conference experience
@@ -39,6 +40,8 @@ although they’re not in the same timezone as in Jakarta timezone.
 
 ---
 
+![Ariya Hidayat - the creator of PhantomJS]({filename}/images/pycon-id-2020/pyconid2020_ariya_hidayat.jpg)
+
 The first speaker was Ariya Hidayat. The very-humble-living-legend-ninja-engineer.
 He has a Ph.D. degree but he decided to not pursue a career as a university professor.
 If I recall correctly, he wrote in his dissertation: “(...) after doing this research,
@@ -68,6 +71,10 @@ the parents knew that we had a very bad pull request: syntax error,
 no test code, the code is not well organized, and so on.
 Who knows that the parents are one of the open-source maintainers. 
 
+---
+
+![Mariatta Wijaya - Python core contributor]({filename}/images/pycon-id-2020/pyconid2020_mariatta_wijaya.jpg)
+
 The second speaker was Mariatta Wijaya. I’ve never met her,
 but I follow her on Twitter. Mariatta shared her experience on how she became
 one of the Python core developers and how her journey started.
@@ -80,7 +87,9 @@ She wrote some tips on how to have a good work-life balance while also still
 contributing to open source. And how she handles impostor syndrome:
 to consult with a health professional.
 Someone from the audience called Mariatta a supermom in the chat box! 
-     
+
+---
+
 The third speaker was Nina Zakharenko. Nina was wearing a jacket with lights.
 She likes tinkering with electronics projects, and she also showed her
 colorful-earring project. Nina said this is also a hard time for the community.
@@ -105,6 +114,8 @@ We had a good time back in the early 2010s when we actively
 organized Python ID meetups.
 Although Fauzan is not using Python in his daily work,
 he keeps his Python sharp by having a pet project.
+
+---
 
 On the other hand, attending a conference online also has some disadvantages.
 It’s the same thing as working from home. The event was on the weekend,
