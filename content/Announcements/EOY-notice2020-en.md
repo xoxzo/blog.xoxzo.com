@@ -3,6 +3,7 @@ Date: 2020-12-10
 Slug: EOY-Holiday-Notice-2020
 Lang: en
 Tags: end of year; 2020;
+Thumbnail: images/2021.png
 Author: Aiko Yokoyama
 Summary: Thank you for your support through 2020. 
 
