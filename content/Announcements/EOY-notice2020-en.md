@@ -8,7 +8,7 @@ Author: Aiko Yokoyama
 Summary: Thank you for your support through 2020. 
 
 Thank you very much for your continuous support for 
-[Xoxzo Cloud Telephony Platform](https://www.xoxzo.com/en/) and [SMS Delivery Service EZSMS](https://www.ezsms.biz/ja/) 
+[Xoxzo Cloud Telephony Platform](https://www.xoxzo.com/en/) and [SMS Delivery Service EZSMS](https://www.ezsms.biz/en/) 
 throughout this year, 2020.
 
 Please note that our office will be closed during the following time period for New Year Season.
