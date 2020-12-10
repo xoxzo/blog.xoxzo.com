@@ -3,6 +3,7 @@ Date: 2020-12-10
 Slug: EOY-Holiday-Notice-2020
 Lang: ja 
 Tags: end of year; 年末年始; 2020; 
+Thumbnail: images/2021.png
 Author: Aiko Yokoyama 
 Summary: 2020年も弊社APIサービスをご利用いただき、誠にありがとうございました。年末年始休業のご案内です。
 
