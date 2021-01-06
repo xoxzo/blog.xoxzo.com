@@ -1,0 +1,78 @@
+Title: 2021年の幕開けに寄せて、新年のご挨拶です
+Date: 2021-01-05 17:00
+Author: Iqbal Abdullah
+Tags: 2021;
+Slug: a-happy-new-year-2021
+Lang: ja
+Thumbnail: images/oka-teamcamp-2019/IMG_9071-syuri-jo.jpg
+Summary: Onwards and upwards after a year of turmoil
+
+1月4日より、日本チームも仕事始めとなりましたので、新年のご挨拶を申し上げます。 明けましておめでとうございます！
+
+2021年の始まりに置いて、2020年のまとめと、本年 Xoxzoがご用意していることを述べたいと思います。
+
+# Xoxzo のミッション
+
+As written in our [new year greetings for 2020]({filename}/The Way We Work/happy-new-year-2020-en.md), our mission is
+still the same: to **make communications easier and better**.
+
+Having written that, we've also realized that the group of people that matter to us need a better way to communicate
+in order to take responsibility and be accountable for what they do, so this will also be an additional focus that we
+will bring to the table. 
+
+![Xoxzo team noukai 2020]({filename}/images/new-year-2021-greeting/noukai-2020.png)
+
+## Wrapping up 2020
+
+Like most of us out there, 2020 was a challenging year. We did lose some business and took a hit, having to
+revisit our budget midyear. On the positive side though, it has forced us to re-focus the investments that we make in terms
+of effort and money to what we consider really important, and to those which we feel will be our future, but have not
+pursued seriously before.
+
+We did ship out new stuff in 2020 too, and here are some of the significant ones:
+
+- [K-Premium V3]({filename}/Announcements/2020-02-18-jp-kp-v3-prerelease-en.md): An improved K-Premium feature that will allow you to set your own sender ID for Japanese recipients
+- All your usage at a glance via [our improved dashboard]({filename}/Announcements/2020-06-29-dashboard-en.md)
+- Logs for your Voice and DIN usage can be downloaded through our [improved logs feature]({filename}/Announcements/2020-08-18-voice-log-download-release-en.md)
+- A much-awaited [link tracking feature]({filename}/Announcements/2020-10-14-link-tracking-release-en.md) that allows you
+  to track clicks granularly in your SMS messages
+- A new [voicemail]({filename}/Announcements/2020-10-20-voicemail-release-en.md) to record messages when you receive a
+  call to your DIN numbers.
+
+## Heading into 2021
+
+As we head into 2021, we will be facing more challenges that will require us to further focus, adapt and execute.
+As written above, 2020 forced us to sit back and think thoroughly on what is most important and needs to be done.
+
+We now believe that our culture, how we look at work and ourselves, have been a bedrock that allowed us to function,
+stay sane, and continue giving value to our customers during 2020. We have tried to capture part of this and share
+it with everyone through our [Company Creed]({filename}/Announcements/announcing-our-creed-en.md) which we released in 2020 and, also through an older document,
+our [People Philosophy](https://info.xoxzo.com/en/careers/). These will be more important as we go into 2021.
+
+**Remote working**, which we have been practicing since 2007 has come to the fore in 2020. Through our sister company
+Xoxzo Europa OÜ in Estonia, we have started sharing resources, our thoughts, ideas, and techniques that have helped us to be
+productive in a 100% remote environment through [The Remote Worker Life (TRWL)](https://theremoteworker.life/)
+and will continue to do so into this year.
+
+These ideas will be implemented in a tool that we codenamed [Plum](https://theremoteworker.life/2020/11/26/plum-development-diaries-episode-01-why-build-this/).
+You are welcomed to follow its progress by signing up to our [The Remote Worker Life mailing list](https://theremoteworker.life/).
+
+Just like 2020, in 2021 **staying relevant** and **improving and strengthening our culture** is still true.
+
+For this year, it will be by listening and sharing more with our customers, partners, and the public, and also
+practicing what we believe in by creating a better remote working environment within this world of ours.
+
+# To summarize
+
+We expect 2021 to be as tumultuous as 2020 was, until we all figure out a way to manage a world ravaged by a pandemic.
+Understanding how to keep things moving will be important, so we will continue as best as we can by sharing, listening
+and talking to each other.
+
+To our customers, we hope that you stick with us in 2021, as we try to give you better value and help you
+communicate better and more effectively.
+
+And, finally, to everyone else: Stay connected on [Twitter](https://twitter.com/xoxzocom/) or signup to
+our [mailing list](https://info.xoxzo.com/en/exchange-mailing-list/) and we'll surprise
+you with new stuff that we'll roll out in 2021.
+
+Until next time, take it easy and take care!
