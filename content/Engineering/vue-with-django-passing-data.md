@@ -291,4 +291,4 @@ def index(request):
 
 - Congratulations! We have succesfully learned how to pass data from Django to Vue!
 
-- In the next post, we will learn How to implement API with Django and Vue. Stay tune!
+- In the next post, we will learn How to implement API with Django and Vue. Stay tuned!
