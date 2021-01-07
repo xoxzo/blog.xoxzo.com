@@ -39,7 +39,7 @@ Summary: 大騒動の一年を終えて、今後について
 2020年、ユーザー様に価値のあるサポートを継続提供できた理由は、Xoxzoの文化と働き方のの成果であると考えています。
 その働き方に関しての考え方は、2020年に書いた
 [Xoxzoの社是(シャゼ)]({filename}/Announcements/announcing-our-creed-ja.md) や、
-[Xoxzoの人物哲学](https://info.xoxzo.com/en/careers/)にて、Xoxzoの価値と信頼を通じてユーザー様と共有したく思っています。これは、2021年も、引き続き大切な考え方になります。
+[Xoxzoの人物哲学](https://info.xoxzo.com/ja/careers/)にて、Xoxzoの価値と信頼を通じてユーザー様と共有したく思っています。これは、2021年も、引き続き大切な考え方になります。
 
 **リモートワーク。**　Xoxzoでは、2007年よりテレワークを実行しており、2020年に、この働き方は世界の企業にひろまりつつあります。
 エストニアにある姉妹会社・Xoxzo Europa OÜを通じて、100％テレワークの生産性向上に役立つ方法やその思い、アイディア、技術などを、 [The Remote Worker Life (TRWL)](https://theremoteworker.life/) (全編英語)より発信し、今年も共有していきます。
