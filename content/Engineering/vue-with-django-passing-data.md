@@ -6,7 +6,7 @@ Slug: vue-with-django-passing-data
 Lang: en
 Summary: Learn how to pass data from Django into Vue
 
-In [the official documentation for Laravel Mix](https://blog.xoxzo.com/2020/08/05/vue-with-django-getting-started/), we learn how to integrate Vue with Django. In this tutorial, we will learn how to pass data from Django into Vue component, and utilize it
+In [previous tutorial](https://blog.xoxzo.com/2020/08/05/vue-with-django-getting-started/), we learn how to integrate Vue with Django. In this tutorial, we will learn how to pass data from Django into Vue component, and utilize it
 
 ### Updating Vue component
 
@@ -278,8 +278,10 @@ export default {
 ```
 def index(request):
 
+    poll = Poll.objects.get(id=1)
+
     poll_serializer = PollSerializer(
-        task
+        poll
     )
 
     poll_json_data = json.dumps(poll_serializer.data)
