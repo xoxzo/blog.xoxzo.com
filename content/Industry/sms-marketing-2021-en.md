@@ -4,7 +4,7 @@ Author: Jocelyn ter Morsche
 Tags: sms; marketing; business; industry
 Slug: sms-marketing-2021
 Lang: en
-Thumbnail: 
+Thumbnail: images/close-up-hand-with-smartphone-world-map.jpg
 Summary: SMS Marketing: Best Practices in 2021
 
 **Did you know that 54% of consumers would like to receive offers by SMS but only 11% of businesses use SMS marketing?**  
@@ -16,6 +16,8 @@ The thing is, there’s a lot of competition when it comes to email and social m
 The modern man is too busy to read lengthy emails, but a short message with valuable information from brands and services they care about is a lot easier to consume. This is exactly the main point of SMS marketing: to keep it short and simple. 
 
 Are you considering incorporating SMS into your digital marketing strategy in 2021? With the COVID-19 pandemic still having a major impact on the world, brands want to build direct relationships with customers and stand out. If you’re interested in finding out how SMS marketing should be used in 2021, keep reading.
+
+![logo_ezsms](close-up-hand-with-smartphone-world-map.jpg)
 
 **SMS marketing best practices in 2021**
 1. Use an SMS delivery tool
