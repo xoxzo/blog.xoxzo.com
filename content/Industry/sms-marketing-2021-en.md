@@ -17,7 +17,7 @@ The modern man is too busy to read lengthy emails, but a short message with valu
 
 Are you considering incorporating SMS into your digital marketing strategy in 2021? With the COVID-19 pandemic still having a major impact on the world, brands want to build direct relationships with customers and stand out. If you’re interested in finding out how SMS marketing should be used in 2021, keep reading.
 
-![lsmartphone](close-up-hand-with-smartphone-world-map.jpg)
+![lsmartphone](/images/close-up-hand-with-smartphone-world-map.jpg)
 
 **SMS marketing best practices in 2021**
 1. Use an SMS delivery tool
