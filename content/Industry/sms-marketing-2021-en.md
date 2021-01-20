@@ -39,7 +39,7 @@ You can use a bulk SMS delivery service such as [EZSMS](https://www.ezsms.biz/).
 With the emphasis on easy, I like that you don’t need technical knowledge to use this tool. Since you’re not stuck to any kind of subscription 
 And you can send SMS text messages internationally at affordable rates. As for some services you’re stuck to a monthly subscription but what I like about [EZSMS](https://www.ezsms.biz/) is that you only pay when you use the service. 
 
-Check out EZSMS [here](https://www.ezsms.biz/)
+Check out EZSMS [here](https://www.ezsms.biz/) 
 
 **Keep your goal in mind**
 
