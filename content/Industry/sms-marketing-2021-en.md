@@ -7,7 +7,7 @@ Lang: en
 Thumbnail: 
 Summary: SMS Marketing: Best Practices in 2021
 
-Did you know that 54% of consumers would like to receive offers by SMS but only 11% of businesses use SMS marketing?  
+**Did you know that 54% of consumers would like to receive offers by SMS but only 11% of businesses use SMS marketing?**  
 
 SMS marketing has been around as long as mobile phones have, but with social media and email marketing taking the spotlight, businesses tend to forget about the power of SMS. Some businesses might not yet know how to use SMS to their advantage or simply haven’t thought about using it. 
 
