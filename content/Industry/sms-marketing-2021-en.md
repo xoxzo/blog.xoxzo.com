@@ -17,7 +17,7 @@ The modern man is too busy to read lengthy emails, but a short message with valu
 
 Are you considering incorporating SMS into your digital marketing strategy in 2021? With the COVID-19 pandemic still having a major impact on the world, brands want to build direct relationships with customers and stand out. If you’re interested in finding out how SMS marketing should be used in 2021, keep reading.
 
-![lsmartphone](close-up-hand-with-smartphone-world-map.jpg)
+![lsmartphone](/images/close-up-hand-with-smartphone-world-map.jpg)
 
 **SMS marketing best practices in 2021**
 1. Use an SMS delivery tool
@@ -39,7 +39,7 @@ You can use a bulk SMS delivery service such as [EZSMS](https://www.ezsms.biz/).
 With the emphasis on easy, I like that you don’t need technical knowledge to use this tool. Since you’re not stuck to any kind of subscription 
 And you can send SMS text messages internationally at affordable rates. As for some services you’re stuck to a monthly subscription but what I like about [EZSMS](https://www.ezsms.biz/) is that you only pay when you use the service. 
 
-Check out EZSMS [here](https://www.ezsms.biz/)
+Check out EZSMS [here](https://www.ezsms.biz/) 
 
 **Keep your goal in mind**
 
