@@ -1,18 +1,21 @@
-Title: 【EZSMS】リンクトラッキング リリース！
+Title: Link-tracking on EZSMS released
 Date: 2021-01-28
 Slug: ez-link-tracking-release
 Lang: en
-Tags: ezsms; 新規リリース; 2021; リンクトラッキング;
+Tags: ezsms; new release; 2021; link-tracking;
 Thumbnail: images/link-tracking.png
 Author: Aiko Yokoyama
-Summary: 開発者でなくても、ウェブブラウザーからカンタンにSMS送信ができるEZSMS。メッセージ中のURLを受信者がクリックしたかどうか、追跡ができるようになりました。
+Summary: EZSMS, sending SMS easily via web-browsers, has just released a new function of link-tracking.
 
-平素は、[EZSMS](https://www.ezsms.biz/)をご利用いただき、ありがとうございます。
+Thank you for using [EZSMS](https://www.ezsms.biz/).
 
-SMS配信時にご利用いただける、リンクトラッキング機能が、昨年10月に、[Xoxzo API](https://www.xoxzo.com/)よりリリースされました。（[リリース記事](https://blog.xoxzo.com/ja/2020/10/15/link-tracking-release/)）それに続き、ウェブからカンタンSMS送信ができる [EZSMS](https://www.ezsms.biz/) でも、リンクトラッキングオプションを選択するだけで使えるリンクトラッキングがご利用可能となりましたので、お知らせいたします。
+Even non-developer can send SMS from the web using [EZSMS](https://www.ezsms.biz/). 
+Now EZSMS has released a new function called _Link-tracking_ which is so easy to use as click just one checkbox. 
+This is a succession release of the same function released on [Xoxzo API](https://www.xoxzo.com/) last October.
+([Related announcement](https://blog.xoxzo.com/en/2020/10/15/link-tracking-release/))
 
 
-### マーケティング・メッセージの反応を得られる！
+### See the response to your marketing messages!
 
 広告宣伝に使うメディア選びは、マーケティングの頭の使い所。
 **印刷物を配る**のは、紙面デザインから印刷代、配送、配布に時間もコストもかかってしまう</br>
