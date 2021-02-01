@@ -3,7 +3,7 @@ Date: 2021-01-28
 Slug: ez-link-tracking-release
 Lang: ja
 Tags: ezsms; 新規リリース; 2021; リンクトラッキング;
-Thumbnail: images/link-tracking.png
+Thumbnail: images/ez-link-tracking.png
 Author: Aiko Yokoyama
 Summary: 開発者でなくても、ウェブブラウザーからカンタンにSMS送信ができるEZSMS。メッセージ中のURLを受信者がクリックしたかどうか、追跡ができるようになりました。
 
