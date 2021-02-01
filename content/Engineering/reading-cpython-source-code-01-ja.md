@@ -4,7 +4,7 @@ Author: Akira Nonaka
 Tags: CPython, python, C
 Slug: reading-cpython-source-code-01
 Lang: ja
-Summary: 
+Summary: CPythonのソースコードを読むの一回目。REPLの場所を見つけます。
 
 明けましておめでとうございます。新年にあたり、私は今年の目標を立てました。
 それはCPythonのソースコードを読むことです。ソースコードはgithubで公開されています。
