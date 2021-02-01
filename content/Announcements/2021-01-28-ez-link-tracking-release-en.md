@@ -15,46 +15,50 @@ This is a succession release of the same function released on [Xoxzo API](https:
 ([Related announcement](https://blog.xoxzo.com/en/2020/10/15/link-tracking-release/))
 
 
-### See the response to your marketing messages!
+### See recipient's reaction to your marketing messages!
 
-広告宣伝に使うメディア選びは、マーケティングの頭の使い所。
-**印刷物を配る**のは、紙面デザインから印刷代、配送、配布に時間もコストもかかってしまう</br>
-**メール配信**なら、物理的なコストは抑えられるものの、スパムフォルダーへ直行したり、開封さえされずに捨てられることも</br>
-**SMSマーケティング**を使うと、ローコスト＋高到達率のメッセージが届けられます。
+How do you select the most cost-effective advertisement media?
+**Printed brochure** would cost you the design and printing plus the delivery and distribution.</br>
+**Email marketing** would reduce the cost but the recipients inbox might move it straight to the spam folders or the recipient might put it in a bin without even opening it.</br>
+**SMS messages** would deliver High delivery rate + Low cost messages
 
-しかし、**SMSマーケティング**にも、難点が。
-1. 1通のメッセージに70文字という制限がある
-2. 配信メッセージへの反応がダイレクトにわからない
+Is **SMS marketing** perfect? Unfortunately, no.
+1. There is a limitation for the length of the text to fit in one message
+2. Unavailble to analyze the direct reaction from the recipients
 
-この度リリースのリンクトラッキング機能は、そんなSMSマーケティングの小さな弱点さえも抑えて上手に活用できる機能なんです。
+EZSMS has just released a new feature, Link-tracking to solve these minor demerits of SMS marketing.
 
-70文字の文字制限に、宣伝したいサービスや商品のセールス文言を含めるのは至難の業。できれば画像や動画も使って、魅力を発信したいところです。そこで、当然必要になってくるのが **詳細はウェブで** ですよね。そのウェブページのURLを、過去に購入歴のあるお客様や展示会で興味を示してくれた方々にSMS配信。SMSの送信に必要なのは、メールアドレスよりも格段に書き間違いや入力間違いの少ない、**電話番号のみ**です。もちろん、広告メッセージを送信する許可は事前に得ておいてください。
-これで、1. 1通のメッセージに70文字という制限がある がクリアできました。
+No matter how your service or product is fantastic, it is difficult to fit the description in 160 characters. The best way to reach your prospects with maximum sales power would be to include the photos and even videos on top of colored and sized font messages. Then what happens in SMS is **See the details in our website**. You send that SMS to the phone numbers of your current customers, people who showed their interest at the exhibitions and events. SMS is the great way to do so, as the messages can be sent to "mobile phone numbers", which has less chance of mistyping than email address.  Of course, you should be getting their approval of sending marketing messages when you acquire the numbers though.
 
-魅力あふれる商品紹介ページを、多くの携帯電話へSMS配信しました。次は、見込みの高いお客様へ特別クーポンを配信したいところです。多くのお客様へ再度お送りしてもよいのですが、商品への興味の高いお客様へお送りするほうが費用対効果が良いのは確実です。そこで、EZSMSのリンクトラッキング機能が活躍します。送信したSMSに含まれるURLをいつ、どの受信者がクリックしたのかが記録されるので、送っても反応のないお客様が明確にわかります。**送信リストを清浄化**して、新たなチャンスや既存のお客様へのさらなるコンタクトへと予算を上手に配分できるのです。
-2. 配信メッセージへの反応がダイレクトにわからない もこれでクリアできました！
+Now, the issue No.1 is cleared.
 
-### 使い方はイロイロ。アイディア次第！
-SMSの一斉配信がウェブからできると、様々な使い方ができます。
-例えば、自分の携帯電話から同じメッセージを何度も複数の宛先へと打ち込まなくて済むので、マーケティングのみならず、法人や教育機関など、多くのメンバーが集まるところであれば、重要・緊急の通知事項は受信者が手元ですぐに確認できるSMSで送るのが適切です。しかし、一方通行で良い通知もあれば、返信が欲しい通知もあります。返信フォームへ入力が済んでいないのは誰かーすぐに分かるのがリンクトラッキングの利点です。送信結果の分析に、ぜひお役立てください。
+You have sent SMS message with the URL of the website that introduces your attractive service/product. What's next? Yes, you will send special discout ticket to the prospects. It is OK to send the discount tickets to all thousands of numbers in the list but do you consider the cost-effectiveness? Sending SMS is not for free. You would send the discount tickets to those who has opened your previous message and tapped the link? Because they have showed their interests on your attractive service/products? This makes sense!
+This is actually possible and easy to do on EZSMS. Use **Link-tracking** option on the first message sending. Later you download your log file to find which recipients has clicked the link in the message with the time stamp. This list will be more cost-effective list for you, as if you have cleaned your list!!
 
-### 使い方
-使い方は、とっても簡単。普段と同様の送信に、リンクトラッキングオプションのチェックボックスをオンにするだけです。
-詳しくは、[ヘルプセンター]()をご参照ください。
+You see how easily you cleared No.2 as well.
 
-### 仕組み
-リンクトラッキングオプションを選択したSMS送信は、本文中に最初に出てくるURLまたはドメイン名が、独自の短縮URLへ置き換えられます。<br>
-メッセージの受信者がURLをクリックすると、クリックした履歴がクリックした日時とともに記録されます。<br>
-クリックの記録は、アカウントページからダウンロードできる、ご利用ログにて、送信ステータスとともに確認することができます。
+### Various Use Case is possible. Give an idea!
+SMS sending from the web-browser can be used in various ways.
+Where we can find a big group of people, such as corporation or educational entities, to notify the important or emergency notification to the member would be the best match of what EZSMS can do, as web-browser sending can send a thousand SMS in one go, not necessary to use your phone to repeat sending. Link-tracking can be used for some of those messages in case you need the reaction of the recipients. Send the link for the web-form with link-tracking for example, you will see who haven't fill the form by only download the log file. We hope this function would become a help for your analysis skills.
 
-### 料金
-リンクトラッキング機能のご利用には、追加料金がSMS通常配信に上乗せされます。
-[SMS配信料金ページ](https://www.ezsms.biz/ja/faq/price/)をご参照ください。
+### How to use Link-tracking?
+Only give a tick on Link-tracking option checkbox when you use web-sending.
+Please visit [Help Center]() for more details.
 
-### リンクトラッキング機能の生い立ち
-リンクトラッキング機能は、XoxzoやEZSMSのユーザー様のお悩みやご希望、ご要望にお応えして、生まれました。
+### How does it work?
+The first URL in your message will be replaced by our private URL when you send link-tracking option SMS.<br>
+When a recipient click on the URL in your message, the date and time is recorded.<br>
+You will find the record in the log file downloadable from the account page together with the sending status.
 
-今後も、新規機能リリースが続きますので、ご期待ください。
+### Price
+There is an additional cost occurd to use link-tracking on top of the standard SMS sending fee.
 
-**その他のご要望等ございましたら、ヘルプデスク （help@xoxzo.com）までご連絡ください。**
+Please refer [Pricing Page](https://www.ezsms.biz/en/faq/price/) to find the current pricing.
+
+### How link-tracking feature is born?
+Link-tracking feature is developed to respond to our service users' voice.
+
+Please wait for more new releases in the near future.
+
+**Do you have your requests or issue to be solved? Please contact Help Desk（help@xoxzo.com）.**
 
