@@ -9,8 +9,8 @@ Summary: EZSMS, sending SMS easily via web-browsers, has just released a new fun
 
 Thank you for using [EZSMS](https://www.ezsms.biz/).
 
-Even non-developer can send SMS from the web using [EZSMS](https://www.ezsms.biz/). 
-Now EZSMS has released a new function called _Link-tracking_ which is so easy to use as click just one checkbox. 
+Even non-developers are able to send SMS messages from the web using [EZSMS](https://www.ezsms.biz/). 
+Now EZSMS has released a new function called _Link-tracking_ which is also easy to use by clicking just one checkbox. 
 This is a succession release of the same function released on [Xoxzo API](https://www.xoxzo.com/) last October.
 ([Related announcement](https://blog.xoxzo.com/en/2020/10/15/link-tracking-release/))
 
