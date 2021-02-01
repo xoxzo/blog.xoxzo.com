@@ -42,9 +42,8 @@ This is actually possible and easy to do on EZSMS. Use **Link-tracking** option 
 
 You see how easily you cleared issue No.2 as well.
 
-### Various Use Case is possible. Give an idea!
-You can send SMS messages from your web-browser in various ways.
-Are you looking for a way to send bulk SMS messages using your web-browser? EZSMS can do exactly this, and send SMS messages to a big group of people, such as a corporation or educational entities, to notify the recipients of important infortmation or emergencies. Link-tracking can be used for some of those messages in case you need the reaction of the recipients. Send the link for the web-form with link-tracking for example, so you can see who hasn't filled out the form by only downloading the log file. We hope this function can help you analyze the results of your SMS campaigns better. 
+### Send SMS in bulk, from your browser!
+Are you looking for a way to send bulk SMS messages using your web-browser? With EZSMS can do exactly this, and send SMS messages to a big group of people, such as a corporation or educational entities, to notify the recipients of important infortmation or emergencies. Link-tracking can be used for some of those messages in case you need the reaction of the recipients. Send the link for the web-form with link-tracking for example, so you can see who hasn't filled out the form by only downloading the log file. We hope this function can help you analyze the results of your SMS campaigns better. 
 
 
 ### How to use Link-tracking?
