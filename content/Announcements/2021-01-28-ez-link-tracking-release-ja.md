@@ -37,7 +37,7 @@ SMSの一斉配信がウェブからできると、様々な使い方ができ�
 
 ### 使い方
 使い方は、とっても簡単。普段と同様の送信に、リンクトラッキングオプションのチェックボックスをオンにするだけです。
-詳しくは、[ヘルプセンター](https://601799ab4f62310007e25563--xoxzo-help.netlify.app/ja/ezsms-sms-delivery-service/articles/link-tracking-feature/)をご参照ください。
+詳しくは、[ヘルプセンター](https://help.xoxzo.com/ja/ezsms-sms-delivery-service/articles/link-tracking-feature/)をご参照ください。
 
 ### 仕組み
 リンクトラッキングオプションを選択したSMS送信は、本文中に最初に出てくるURLまたはドメイン名が、独自の短縮URLへ置き換えられます。<br>
