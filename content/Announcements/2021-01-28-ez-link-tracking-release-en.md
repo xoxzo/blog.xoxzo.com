@@ -48,6 +48,7 @@ Are you looking for a way to send bulk SMS messages using your web-browser? With
 
 ### How to use Link-tracking?
 The only thing you have to do is ticking the Link-tracking option checkbox when you use web-sending.
+This release is for web-sending only, please look forward to select link-tracking with .csv sending and dialSMS for now.
 Please visit [Help Center](https://help.xoxzo.com/ezsms-sms-delivery-service/articles/link-tracking-feature/) for more details.
 
 ### How does it work?
