@@ -3,7 +3,7 @@ Date: 2021-01-28
 Slug: ez-link-tracking-release
 Lang: en
 Tags: ezsms; new release; 2021; link-tracking;
-Thumbnail: images/link-tracking.png
+Thumbnail: images/ez-link-tracking-en.png
 Author: Aiko Yokoyama
 Summary: EZSMS, sending SMS easily via web-browsers, has just released a new function of link-tracking.
 
