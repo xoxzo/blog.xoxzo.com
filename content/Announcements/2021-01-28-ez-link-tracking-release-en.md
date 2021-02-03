@@ -38,7 +38,7 @@ What's next? Yes, you will send a special discount ticket to your prospects.
 Is it OK to send the discount tickets to all thousands of numbers in the list, when considering the cost-effectiveness? 
 Sending SMS messages is not for free. What you can do instead to optimize the power of SMS marketing is sending discount tickets to those who previously opened your message and clicked the link to your website, because they have showed their interest in your attractive service/products. This makes sense!
 
-This is actually possible and easy to do on EZSMS. Use **Link-tracking** option on the first message sending. Later you download your log file to find which recipients has clicked the link in the message with the time stamp. This list will be more cost-effective for you, as if you have cleaned up your list!!
+This is actually possible and easy to do on EZSMS. Use **Link-tracking** option on the first message sending. Later you download your log file to find which recipients has clicked the link in the message. This list will be more cost-effective for you, as if you have cleaned up your list!!
 
 You see how easily you cleared issue No.2 as well.
 
@@ -53,7 +53,7 @@ Please visit [Help Center](https://help.xoxzo.com/ezsms-sms-delivery-service/art
 
 ### How does it work?
 The first URL in your message will be replaced by our private URL when you send link-tracking option SMS.<br>
-When a recipient clicks on the URL in your message, the date and time is recorded.<br>
+When a recipient clicks on the URL in your message, it is recorded.<br>
 You will find the record in the log file downloadable from the account page together with the sending status.
 
 ### Price
