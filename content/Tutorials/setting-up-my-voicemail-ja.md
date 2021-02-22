@@ -79,49 +79,51 @@ curl -u <SID>:<AUTH_TOKEN> https://api.xoxzo.com/voice/dins/
 curl -u <SID>:<AUTH_TOKEN> -d'din_uid=<din_uid>' https://api.xoxzo.com/voice/dins/subscriptions/
 ```
 
-When this request succeeds, your subscription starts immediately and your credits will be charged.
-You can read more about this process in our [documentation](https://docs.xoxzo.com/en/din.html#finding-a-dial-in-number-via-api).
+このリクエストが成功すると、即時に契約が開始となりアカウントからクレジットが差し引かれます。
+詳細は、[ドキュメンテーション](https://docs.xoxzo.com/ja/din.html#finding-a-dial-in-number-via-api)にてご確認ください。
 
-### Remember to attach the `action_url` to your number
+### `action_url` の併記を忘れずに
 
-At this point, the DIN doesn't do anything yet so the next step is to attach an `action_url`.
-The voicemail system can be configured to use either **text-to-speech** or an **mp3** file hosted
-somewhere for the voicemail greeting. In this example, we're using text-to-speech.
+電話番号を取得しただけでは、ダイヤルナンバーは何もできません。
+次のステップは、 `action_url`をこの番号に併記することです。
+ボイスメールのシステムは、着信挨拶メッセージを、**テキスト読み上げ機能** または ホストしている **mp3** ファイルで構成します。
+下記の例では、**テキスト読み上げ機能**を使用します。
 
-For a text-to-speech greeting, put `voicemail say` in your `action_url` followed by
-the [language code](https://docs.xoxzo.com/en/utilsapi.html#tts-lang-label) and your message enclosed in quotes:
+**テキスト読み上げ機能** を使った挨拶文は、`action_url` 内に、`voicemail say` を文頭に、使用する[言語コード](https://docs.xoxzo.com/ja/utilsapi.html#tts-lang-label)、そしてクォーテーションマークで囲ったメッセージで設定してください。
 
 ```
-voicemail say en "Hello, you have reached my voicemail. I cannot answer the phone right now, but I will return your call as soon as I can..."
+voicemail say en "お電話ありがとうございます。ただいま電話に出ることができませんので、折返しお電話させていただきます。"
 ```
 
-This is the content of the `action_url`. If you haven't created a GitHub gist mentioned earlier,
-create one now with your preferred greeting. Get the URL of the **raw** gist and that will be the URL.
-Once you have that URL, you can attach it to the DIN:
+`action_url`の内容は、このようになります。この記事の冒頭に記した Github gist を未だ作成していないようでしたら、
+お好きなメッセージを入れて、是非作ってみてください。そして、**raw** gist のURLを `action_url` としてコピーしてください。
+さぁ、URLが準備できたら、取得したダイヤルインナンバーに併記しましょう。
 
 ```
 curl -u <SID>:<AUTH_TOKEN> -d'action_url=<url>' https://api.xoxzo.com/voice/dins/subscriptions/<din_uid>/
 ```
  
-Once this is done, you're ready to receive voicemail messages.
+ここまでできれば、「自分専用」のボイスメールは準備OKです。
 
-## Receiving voicemails to your new number
+## 「自分専用」の番号に着信を受ける
 
-It works just like any voicemail. When someone calls your DIN, they hear a greeting and they
-can leave a message. The message gets recorded and all the recordings will be available for your use later.
+一般的な留守番電話と、機能としては代わりありません。
+誰かが、この電話番号へ電話を掛けると、設定した挨拶メッセージが流れ、伝言が録音されます。
+あとは、都合の良いときにそのメッセージを聞くだけ、ということです。
 
-### Listening to your voicemails
+### ボイスメールの再生
 
-To listen to your voicemail messages, login to your Xoxzo account and you'll find a link to your 
-`Voicemail Records` on the left. There you'll see a list of your recordings with information such as when it happened and who called.
-You can download or delete recordings and, if you start getting a lot of messages, you can filter by date, caller, DIN, or API user.
+録音された伝言メッセージを聞くには、Xoxzoのアカウントへログインし、左側のメニューから `留守録データ` を選んでください。
+ボイスメールのメッセージと、受信した時間や相手の電話番号が表示されます。メッセージ音声はダウンロードしたり削除できます。たくさんリストに残している場合には、契約している番号やかけてきた相手の電話番号、APIユーザごとにフィルターをかけることもできます。
 
-# Your voicemail is setup
+# ボイスメールの設定完了
 
-And that's it! Perhaps the most difficult part is figuring out how to host your
-`action_url` but once that's done, it's a straightforward process all the way.
+これで完了です！
+`action_url` のホストをどうするかが一番難しいところかもしれませんが、そこができてしまうと、
+複雑な作業はありません。
 
-You can now use it as a contact phone number for non-important stuff.
+これで完了です！And that's it! Perhaps the most difficult part is figuring out how to host your
+重要性のひYou can now use it as a contact phone number for non-important stuff.
 Anyone can still get in touch with through it, but you won't be sharing
 your real personal or work numbers with everyone that you need to interact with on the
 internet.
