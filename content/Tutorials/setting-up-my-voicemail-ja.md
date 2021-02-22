@@ -122,8 +122,6 @@ curl -u <SID>:<AUTH_TOKEN> -d'action_url=<url>' https://api.xoxzo.com/voice/dins
 `action_url` のホストをどうするかが一番難しいところかもしれませんが、そこができてしまうと、
 複雑な作業はありません。
 
-これで完了です！And that's it! Perhaps the most difficult part is figuring out how to host your
-重要性のひYou can now use it as a contact phone number for non-important stuff.
-Anyone can still get in touch with through it, but you won't be sharing
-your real personal or work numbers with everyone that you need to interact with on the
-internet.
+重要性の低い相手への連絡先通知には、今後この電話番号を使ってください。
+この電話番号にも、電話をかけてくる人はいると思われますが、インターネット上で出会う相手へ
+個人的な携帯電話番号や仕事の電話番号を教えたりはしなくてよくなります。
