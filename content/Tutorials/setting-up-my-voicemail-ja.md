@@ -14,7 +14,7 @@ Summary: Xoxzoで自分専用のボイスメールを設定してみました。
 
 # ダイヤルインナンバー(DIN)とボイスメール
 
-そこで、Xoxzoの [リリースしたボイスメール機能]({filename}/Announcements/2020-10-20-voicemail-release-en.md)を使い、
+そこで、Xoxzoがリリースした [ボイスメール機能]({filename}/Announcements/2020-10-20-voicemail-release-en.md)を使い、
 ショッピングサイトの登録用に使う番号をあっさり入手することができました。
 これまでは、Xoxzoでは入電に対し、転送を行ったり、テキスト読み上げ機能やオーディオファイルを使って応答することしか
 できませんでした。しかしボイスメール機能がくわわったことで、相手からのメッセージを保管しておけるようになったのです。
@@ -43,41 +43,37 @@ Xoxzoのシステムは、`action_url` という特定のURLへリクエスト�
 このURLは、ご自身で設定してください。このURLを、ボイスメールを使いたい番号を取得する際、指定します。
 ご自身で設定するURLですから、どこかでホストされているものでなくてはなりません。
 
-You can of course host this URL on your own, but what your `action_url` will be
-returning when the Xoxzo platforms make it request is only a bunch of text. If
-you can programmatically change the text that you send back when Xoxzo makes its
-request, it will be a powerful way for you to change how you handle the call that you
-receive.
+このURLをご自分でホストしてもよいのですが、Xoxzoシステムがリクエストを出して この `action_url` がレスポンスを返すのは
+ほんの少しのテキストのみとなります。Xoxzoからのリクエストに対するレスポンスをプログラム的に変更できれば、
+かかってきた電話をどのように扱いたいのかを変更できる強力な方法となります。
 
-But for this exercise, we're only interested in storing incoming voice calls to
-our voicemail, so there is only a simple need to host this text somewhere
-without any fancy logics.
+今回のエクササイズでは、着信した電話をボイスメールに保管するというだけのことに焦点を当てています。
+ですから、派手なロジックは必要なく、このテキストをホストできるだけのシンプルなもので良いのです。
 
-Some of us at Xoxzo use Github Gists for this. Signing up
-for an account at github.com is free and it's a quick way to put text files online
-for an `action_url`. At a later step, you'll configure the `action_url` with some text.
-That text will be the content of the gist. You can save the gist and view it as plain text
-by clicking the **raw** button. You can find it on the right side while viewing your gist.
-While viewing the raw gist, take note of its URL. This will be the URL of your `action_url`.
+Xoxzoの中には、Github Gist を使っている人もいます。
+github.com へのサインアップは無料ですし、このテキストをオンラインにおいておく `action_url` としては、
+手早い方法ですね。後ほど、この`action_url` と他のテキストを使って構成を行いますが、そのテキストが、gist のファイルの内容となります。
+gist を保存し、**raw** ボタンでプレーンテキストとして確認することができます。自分の gist を見ているときには、
+右側に表示されています。この raw gist を表示しているときの URL をコピーしておいてください。ご自分の `action_url` となります。
 
-## Subscribe to a number
+## 電話番号を取得する
 
-The first thing you need to do is to subscribe to a DIN. To find numbers, send a
-request to the Xoxzo API with your user's API SID and Auth Token. If you have the
-`curl` program installed, the request looks like this:
+まず、ダイヤルインナンバー（DIN）を取得しましょう。
+取得可能な番号を探すには、XoxzoAPIに、ご自分の API SID と Auth Token を使ってリクエストを出します。
+`curl` のプログラムがインストールされている場合、このような感じになります。
 
 ```
 curl -u <SID>:<AUTH_TOKEN> https://api.xoxzo.com/voice/dins/
 ```
 
-You can use any program or even programming language to make the request but we'll use
-`curl` in the examples, since it's a common way to make requests in the command-line.
+このリクエストを出すには、どんなプログラムを使っても、またどんなプログラミング言語を使っていただいても大丈夫です。
+ここでは、コマンドラインのリクエストとして一般的である `curl` を使った例をサンプルとして用いています。
 
-This request returns a list of available DINs you can choose from.
-Once you've selected a DIN, take note of its `din_uid` because you need this to subscribe,
-which is what we'll do next. You'll also need this later when we attach the `action_url` to the DIN.
+このリクエストを出すと、取得可能なダイヤルインナンバーのリストが返されます。
+どの電話番号を取得するか決まったら、次に行う取得に必要となりますので、その番号の `din_uid` を控えてください。
+その後この番号に、`actiona_url` を併記する際にも使用します。
 
-To subscribe to a DIN, send a `POST` request to the API:
+ダイヤルインナンバーの取得には、APIへ `POST` リクエストを出してください。
 
 ```
 curl -u <SID>:<AUTH_TOKEN> -d'din_uid=<din_uid>' https://api.xoxzo.com/voice/dins/subscriptions/
