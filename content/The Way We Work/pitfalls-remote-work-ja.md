@@ -9,10 +9,10 @@ Summary: Xoxzoのチームが、リモートワーキングで直面しがちな
 
 Xoxzoは100%リモートワーク企業ですので、実際の白熱したおしゃべりではなく、
 コミュニケーションツール [slack](https://slack.com/)を通じたものだったのですが、
-リモートワーキングの健康上の利点について投稿された誰かの一言に、その本題からどんどん離れていくような活発な議論を引き起こしました。
+リモートワークにおける健康上の利点について投稿された誰かの一言に、その本題からどんどん離れていくような活発な議論を引き起こしました。
 Xoxzoチームメンバーは、それぞれの視点から「自宅で仕事をすることによる、容赦ない副作用」についてどんどん意見を述べました。
 
-さて、リモートワーキングで、私達を悩ませているのは一体何でしょうか？
+さて、リモートワーキングで、わたし達を悩ませているのは一体何でしょうか？
 
 ![pitfall](/images/Pitfall.jpg)<a class="caption" href="https://unsplash.com/photos/i5iIhHSAtp4">Image credit</a>
 
@@ -58,25 +58,26 @@ Xoxzoチームメンバーは、それぞれの視点から「自宅で仕事を
 ##### 2. 問題点: 稼働時間と休憩時間の境界線がはっきりしない！
 
 稼働時間と休憩時間の境界線がはっきりしないということは、きちんと自己コントロールを図らなければ、より強いストレスへとつながってしまいかねません。
-通勤時間やNot having a clear separation of downtime and uptime, which if not controlled, will lead to more stress. It can become tricky to start balancing our life with all that free time we might get from less commute and less wasted time in office, some might end up overworked or burnt out. 
-稼働時間と休憩時間の境界線がはっきりしないということは、きちんと自己コントロールを図らなければ、より強いストレスへとつながってしまいます。、Not having a clear separation of downtime and uptime, which if not controlled, will lead to more stress. It can become tricky to start balancing our life with all that free time we might get from less commute and less wasted time in office, some might end up overworked or burnt out. 
-稼働時間と休憩時間の境界線がはっきりしないということは、きちんと自己コントロールを図らなければ、より強いストレスへとつながってしまいます。Not having a clear separation of downtime and uptime, which if not controlled, will lead to more stress. It can become tricky to start balancing our life with all that free time we might get from less commute and less wasted time in office, some might end up overworked or burnt out. 
+通勤時間やオフィスでの時間のムダが省けることで得られた自由時間と自分の生活のバランスを取るのにはコツが必要で、超過勤務や過労へつながることもあります。 
 
-###### Solution: 
+###### 解決方法: 
 
-Some of us counter this by using software and tracking sheets for aspects that may seem mundane in terms of work delivery but are essential for well-being. The idea is to apply a similar system that we have for work to our personal life since they overlap anyway in this work-from-home setting. For example, some of us track what we eat to make sure we are having a balanced diet, or that we are not abusing on junk food; some of us track the amount and intensity of our exercise to ensure we are getting enough workout.
+普通は仕事に使うことの多い管理票や追跡ツールを、人生の幸福に必要不可欠な部分に使って、このアンバランスに対抗する人もいました。自宅で働く環境には、似通った部分があるからです。例えば、バランスの良い食事をとっているか、インスタント食品などに偏っていないか、運動不足にならないよう、どのくらい体を動かしているか、などを追跡シートで管理していくのです。
 
-##### 3. Problem: Compromised communication with colleagues
+##### 3. 問題点: 同僚とのコミュニケーションにおける妥協！
 
-Sometimes it is hard to express our abstract ideas through text or a voice or video call, we still feel the need for face-to-face communication assisted by paper and pencil in some instances. 
+はっきりと描けない、まだぼんやりとしたアイディアを、テキストチャットや音声、ビデオ通話で表現するのは難しいこともあります。
+紙と鉛筆を使って、「頭を突き合わせて」話し合う必要性を感じたりもするのです。
 
-The asynchronous work hours, sometimes we expect our colleagues to respond promptly but the response takes a while, and vice versa. 
+同期できない作業時間もあります。
 
-###### Solution: 
+同僚からの反応がすぐにほしいときに時間がかかったり、またその逆も起こり得るのです。
 
-We try to be creative with our means of communication and [usage of readily available tools](https://blog.xoxzo.com/2017/10/12/tools-of-our-trade/). It also helps to plan ahead of time, communicate with our teammate in advance and arrange a schedule that the team can adhere to. 
+###### 解決方法: 
 
-##### 4. Problem: Not meeting people as much as we would like
+コミュニケーションの意義と[使えるツールの利用方法](https://blog.xoxzo.com/2017/10/12/tools-of-our-trade/)について、よりクリエイティブであるよう努めて言います。そうすることで、時間の使い方を予見でき、チームが守りやすいスケジュールを前もってお膳立てしたコミュニケーションをとれるのです。
+
+##### 4. 問題点: なかなか人と会えない！
 
 Remote working might lead to less human touch in our life, we do not meet people on a regular basis, having much less face-to-face interpersonal interactions, most of the time just staring at the computer screen and absorbed in the cyberspace. We might feel isolated from the outside world, and not knowing what is going on the world, for those who are not reading the newspaper, nor watching the news on television. For those who stay alone, staying home too much feels unhealthy, remote working might easily lead to a compromised social life.
 
