@@ -1,11 +1,11 @@
-Title: ジブン専用のボイスメールを設定してみる
+Title: 「自分専用」のボイスメールを設定してみる
 Date: 2020-10-23 10:00
 Authors: Iqbal Abdullah, Josef Monje
 Tags: コロナ禍; リモートワーク; 2020; ボイスメール;
 Slug: setting-up-my-first-online-voicemail
 Thumbnail: images/Voicemail.png
 Lang: ja
-Summary: Xoxzoでジブン専用のボイスメールを設定してみました。その方法を記しておきます。
+Summary: Xoxzoで自分専用のボイスメールを設定してみました。その方法を記しておきます。
 
 このコロナ禍で、多くの人が同じことをしていると思いますが、わたしも外出を控えて様々なショッピングサイトから、注文して配達を頼んでいました。
 ショッピングサイトの登録時には、たいてい電話番号も入力するよう求められていました。
@@ -28,29 +28,20 @@ Summary: Xoxzoでジブン専用のボイスメールを設定してみました
 ## APIユーザーを作る
 
 [アカウントの作成](https://www.xoxzo.com/ja/accounts/signup/)後、電話番号の取得に必要な認証情報を得るために、
-APIユーザーを作ります。you'll need
-[アカウントの作成](https://www.xoxzo.com/ja/accounts/signup/)後、電話番号の取得に必要な認証情報を得るために、you'll need
-[アカウントの作成](https://www.xoxzo.com/ja/accounts/signup/)後、電話番号の取得に必要な認証情報を得るために、you'll need
-to create an API User to get the credentials needed for subscribing to a number. This will be the
-phone number which you'll give to the shops.
+APIユーザーを作ります。取得する電話番号が、ショッピングサイトの登録などに使う電話番号となります。
 
-- After [logging in](https://www.xoxzo.com/en/accounts/login/), you'll be shown your "API Users" dashboard. Click on
-  the "**Add API User**" button on the right side to start creating your API User.
-- You'll be shown a screen to set the nickname of your API User. Set an easy to
-  understand nickname like "Amazon" so you can easily remember what the API User is used for.
-- You'll be shown back to the dashboard. What you need now is the **API SID** and **Auth Token** of your newly
-  created API User. Copy these two, as we'll need them later.
+- [ログイン](https://www.xoxzo.com/ja/accounts/login/)したら、APIユーザ　ダッシュボードが表示されます。 右側の**APIユーザ追加** ボタンをクリックし、新規APIユーザを作りましょう
+- APIユーザにつけるニックネームを設定する画面が表示されます。このAPIユーザを使う目的など、たとえば”Amazon”などわかりやすい名前を設定してください。
+- ダッシュボードに戻ります。つぎに必要なのは、今作成した新規APIユーザの **API SID** と **Auth Token** です。後ほど必要になるので、コピーをとってください。
 
-## Setup action URL
+## アクションURLの設定
 
-You'll need to tell the Xoxzo platform what it should do when it receives a call
-to your number. We need to set this up before getting a number for your
-voicemail.
+取得する電話番号への着信をXoxzoのシステムが受け取った時、システムに何をしてほしいのかをお知らせください。
+ボイスメールを取得する前に、この準備を行ってください。
 
-The Xoxzo platform makes a request to a particular URL which we call
-`action_url`. This URL is set up by you, and you specify this URL when you
-subscribe to a number. Because you need to set up a URL, it has to be hosted
-somewhere.
+Xoxzoのシステムは、`action_url` という特定のURLへリクエストを出します。
+このURLは、ご自身で設定してください。このURLを、ボイスメールを使いたい番号を取得する際、指定します。
+ご自身で設定するURLですから、どこかでホストされているものでなくてはなりません。
 
 You can of course host this URL on your own, but what your `action_url` will be
 returning when the Xoxzo platforms make it request is only a bunch of text. If
