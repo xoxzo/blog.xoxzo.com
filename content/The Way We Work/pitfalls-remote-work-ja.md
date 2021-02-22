@@ -9,7 +9,7 @@ Summary: Xoxzoのチームが、リモートワーキングで直面しがちな
 
 Xoxzoは100%リモートワーク企業ですので、実際の白熱したおしゃべりではなく、
 コミュニケーションツール [slack](https://slack.com/)を通じたものだったのですが、
-リモートワーキングの健康上の利点についての誰かの投稿に、そのストーリーから離れた活発な議論を引き起こしました。
+リモートワーキングの健康上の利点について投稿された誰かの一言に、その本題からどんどん離れていくような活発な議論を引き起こしました。
 Xoxzoチームメンバーは、それぞれの視点から「自宅で仕事をすることによる、容赦ない副作用」についてどんどん意見を述べました。
 
 さて、リモートワーキングで、私達を悩ませているのは一体何でしょうか？
@@ -20,43 +20,47 @@ Xoxzoチームメンバーは、それぞれの視点から「自宅で仕事を
 
 * 家族からの期待
 
-Newcomers to remote working might find issues in gaining understanding from family members or partners when they see that we are home all the time and tend to ask us to do chores. It is still normal for people to associate being present at home with “not at work”. 
+リモートワーク初心者は、家族の理解を得るのが難しい、と思うかもしれません。ずっと家にいると、あれこれ用事をいいつかられがちですよね。
+家にいること = ”仕事中ではない” と考えるのが、まだまだ普通のことのようです。
 
-* Switch off from work
+* 仕事スイッチを消す
 
-It could be challenging to switch off from work at the end of the day since we never leave the working space which is the home office. There is no change of space or a lack of ritual such as commuting to mentally remove ourselves from work, which allows us to adjust our emotion from the office stress so that we become ready to face our family at home.
+自宅オフィスという仕事場からは、離れることがないため、一日の終りに仕事スイッチを消すのが難しいかもしれません。
+空間の変化もなく、心理的に仕事から離れさせてくれる通勤時間という名の儀式がないので、職場で感じるストレスなどの感情を、帰宅して家族に顔を合わせる前に処理できないのです。
 
-* Children experience our work stress
+* 子どもたちが仕事ストレスを経験する
 
-There are times when we have arguments with our colleagues over contradictory opinions, or inadvertently curse or bang the keyboard when we hit the wall while trying to solve some problem. Our children might see disagreeable behaviors which might not be the best version of us.
+意見の対立する同僚と激しく議論したり、行き詰まった問題を解決しようとつい壁を蹴ったり叩いたり、キーボードに当たったり。模範に慣れないモードの、あまり褒められない行動を子どもたちが目の当たりにするかもしれません。
 
-* Work and household multitasking
+* 仕事と家事のマルチタスク
 
-There are rare days when switching off from work is impossible and some of us become a multitask machine. For our customer support colleagues, when an urgent customer support task continues after 5 pm, they would be cooking, parenting, and working all at once, the computer would be on the dinner table with the meal preparation while listening to their children recounting a day at school. 
-
-
-##### Solution: 
-
-* Brief the family
-
-Many of us feel the need to brief our respective family on this issue that we are working at home and please do not disturb.
-
-* Find the switch
-
-It might take some effort to find the switch, but it is achievable with some practice; taking a stroll outside, playing our favorite music, taking a hot bath, or meditating might just do the trick.
-
-* Children exposed to working life
-
-This is not entirely a bad thing. There is little opportunity for children to see how their parents work unless a parent works from home, especially since our children would grow up someday and start working too. 
-
-* Learn to juggle and prioritize
-
-When we have multiple roles at home, the switching skill becomes even more important. Using a task organizer to see the priority, divide the work hours into multiple tasks helps us to complete our tasks effectively.
+仕事スイッチを消すことができないと、マルチタスクマシーンになることも。カスタマーサポート職では、夕方5時の就業時間を過ぎても、緊急の対応が必要になることがあります。そうすると、夕食準備、子育てと仕事を同時にこなすことになるのです。子どもたちがその日の話をするのを聞きながら、食事の支度中のダイニングテーブルにパソコンが置かれている、というふうに。
 
 
-##### 2. Problem: No clear separation of uptime and downtime
+##### 解決方法: 
 
-Not having a clear separation of downtime and uptime, which if not controlled, will lead to more stress. It can become tricky to start balancing our life with all that free time we might get from less commute and less wasted time in office, some might end up overworked or burnt out. 
+* 家族へのブリーフィング
+
+チームXoxzoの大多数が、家にいるのだけれども仕事中なので、お邪魔は無用であることを、大切な家族へブリーフィングする必要性を感じています。
+
+* スイッチを見つける
+
+スイッチを探すには努力が必要ですが、ちょっとしたことで見つかることがあります。例えば、散歩をしたり、お気に入りの曲を聴いたり、熱いお風呂に入ったり、はたまた瞑想してみるのも良いヒントになるかもしれません。
+
+* 仕事人生にさらされる子どもたち
+
+実は、完全に悪いこととは言えないのです。リモートワークをしている家族がいなければ、子供が大人たちの仕事風景を見れるチャンスなんてめったにあるものではありません。子どもたちだって、いつかは大きく育って仕事をすることになるのですから。
+
+* 優先順位を柔軟につけることを学ぶ
+
+家でいくつかの役割がある場合、切り替えという才能がより重要になります。タスク管理ツールで優先順位を確認し、より効率的にタスクを完了していけるように仕事時間を複数のタスクに振り分けていくのです。
+
+##### 2. 問題点: 稼働時間と休憩時間の境界線がはっきりしない！
+
+稼働時間と休憩時間の境界線がはっきりしないということは、きちんと自己コントロールを図らなければ、より強いストレスへとつながってしまいかねません。
+通勤時間やNot having a clear separation of downtime and uptime, which if not controlled, will lead to more stress. It can become tricky to start balancing our life with all that free time we might get from less commute and less wasted time in office, some might end up overworked or burnt out. 
+稼働時間と休憩時間の境界線がはっきりしないということは、きちんと自己コントロールを図らなければ、より強いストレスへとつながってしまいます。、Not having a clear separation of downtime and uptime, which if not controlled, will lead to more stress. It can become tricky to start balancing our life with all that free time we might get from less commute and less wasted time in office, some might end up overworked or burnt out. 
+稼働時間と休憩時間の境界線がはっきりしないということは、きちんと自己コントロールを図らなければ、より強いストレスへとつながってしまいます。Not having a clear separation of downtime and uptime, which if not controlled, will lead to more stress. It can become tricky to start balancing our life with all that free time we might get from less commute and less wasted time in office, some might end up overworked or burnt out. 
 
 ###### Solution: 
 
