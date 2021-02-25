@@ -79,20 +79,28 @@ Xoxzoチームメンバーは、それぞれの視点から「自宅で仕事を
 
 ##### 4. 問題点: なかなか人と会えない！
 
-Remote working might lead to less human touch in our life, we do not meet people on a regular basis, having much less face-to-face interpersonal interactions, most of the time just staring at the computer screen and absorbed in the cyberspace. We might feel isolated from the outside world, and not knowing what is going on the world, for those who are not reading the newspaper, nor watching the news on television. For those who stay alone, staying home too much feels unhealthy, remote working might easily lead to a compromised social life.
+リモートワークは、生活の中で、人と人のふれあいが少ない、と言えるかもしれません。定期的に決まって合う人もおらず、対面で話をすることもとっても少なく、ただパソコンの画面を凝視しては、サイバースペースに飲み込まれていく日々なのです。 外の世界から阻害されている、と感じたり、新聞を読んだりTVのニュースを見たりしない人にとっては、世界で起きていることを知り得ないのでは、と不安になったりするかもしれません。一人暮らしをしている人にとっては、仕事も独り自宅でしていることは、不健康で社会生活を妥協することに繋がりかねません。
 
-###### Solution: 
+###### 解決方法: 
 
-The parents would take advantage of their parenting circle, or volunteer at the parent-teacher-association in the children’s school. The singles could counter this by working at cafes and coworking spaces as often as possible. There are groups such as the ‘Japan female freelance network’, through which members can look for coworking partners to spend some physical face time with. 
+子を持つ親であれば、保護者の会や、子供の学校でのPTA活動でボランティアをできる可能性があります。
+対して独身であれば、できる限りカフェやコワーキングスペースで仕事をすることができるでしょう。
+例えば、 _日本フリーランス女性の会_ のようなグループは多くあり、物理的に対面する機会を持てるコワーキング・パートナーを探すことができます。
 
-##### 5. Problem: Ergonomics of home office
+##### 5. 問題点: ホームオフィスの人間工学！
 
-Not having a proper work table and chair can become a health issue. Sometimes we just slouch over the dining table and make do with whatever chair there is around. Working from home in such a less than ideal setting regularly for a long time could cause back pain. 
+職務に合った机やイスがないと、健康上の問題を引き起こしかねません。
+ちょっとダイニングテーブルに腰掛けて、手近にあるイスか何かで仕事をしたりしますよね。
+見合った環境の整っていない自宅での仕事を日常的に続けていると、長期的に腰痛を引き起こしたりもするものです。
 
-###### Solution: 
+###### 解決方法: 
 
-Some of us find it necessary to have an ergonomic office chair at home. Posture awareness is also a good habit to cultivate. Another way that might possibly help is to set an alarm to go off every 30 minutes or so, and to take a break and do some stretches to avoid maintaining the same posture for a long time. 
+Xoxzoのチームには、人間工学に基づいたオフィスチェアが自宅にも必要だと考えている人もいました。
+姿勢に対する意識も、習慣として育てていくと良いことなのです。
+また、30分くらいごとにアラームを設定して、同姿勢を長時間継続しすぎることのないように、休憩を取りストレッチを行うのも良いでしょう。
 
-##### Conclusion
+##### 最後に
 
-These are the personal experiences of our team. What are yours? Feel free to share them with us in the comments section below. 
+チーム・Xoxzoの個人的な経験レポートは異常です。
+
+テレワークの増える今、あなたのレポートをお聞かせください。下記にコメントを頂ければ嬉しく思います。
