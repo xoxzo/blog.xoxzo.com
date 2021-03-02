@@ -1,25 +1,25 @@
-Title: 【Xoxzo】音声電話着信APIサービス（DIN) 03番号の停止について
+Title: [Xoxzo] Termination of supporting +60 (Malaysian) numbers
 Date: 2021-03-08
 Slug: 60-number-termination
 Lang: en
 Tags: Xoxzo; DIN; 2219; +60;
 Author: Aiko Yokoyama
-Summary: 音声電話着信APIサービス（DIN=ダイヤルインナンバー)にてご提供しております、マレーシア番号のご購読番号につきまして、サービスが終了となります。
+Summary: The Malaysian number (+60) will be terminated in our DIN service. 
 
 
-平素は、[Xoxzo - クラウドテレフォニープラットフォーム](https://www.xoxzo.com/ja)をご利用いただき、誠にありがとうございます。
+Thank you for using [Xoxzo, Cloud Telephony Platform](https://www.xoxzo.com/en/)
+and [SMS delivery service, EZSMS](https://www.ezsms.biz/en/).
 
-Xoxzoの音声電話着信APIサービス（DIN=ダイヤルインナンバー)は、月額にて着信番号をご購読いただき、アクションURLを設定することで、その番号への着信に関して転送や、応答メッセージの設定など、ご希望の処理を行っていただけるAPIサービスです。
-多数の着信が予想されるイベントの案内を自動化したり、複数の着信番号への通話をひとつの電話番号に転送して受信するなど、様々な用途にご利用いただいております。
+Please let us inform you that the provision of the Malaysian numbers (+60) will be terminated in our DIN service. 
 
-また、[テキスト読み上げ機能（TTS)](https://blog.xoxzo.com/ja/2017/05/24/text-to-speech-for-din/)をご利用いただくと、よりカスタマイズされた応答メッセージを準備することが可能となり、**SMS配信では情報発信の難しい固定電話へも、音声にてご案内ができるようになります。**
+Our DIN (Dial In Numbers) is to subscribe a phone number and set an action URL for the various choice that you want to do with the incoming calls, such as transferring the calls to your favorite phones, set an automated answering message and so on.
 
-本日は、この音声電話着信APIサービス（DIN=ダイヤルインナンバー)にてご提供しております、マレーシア国内のご購読番号(+60)につきまして、サービスが終了となります。
+Also, as in our [blog](https://blog.xoxzo.com/en/2017/05/24/text-to-speech-for-din/), you can prepare even more customized messages using TTS (text-to-speech) that enables you to reach your service user who has landline numbers and cannot cover with SMS messages. 
 
-サービス終了に伴う今後の詳細なスケジュールにつきましては、追って該当のユーザー様へご連絡を差し上げます。
+Please wait for the further notices of the termination process, we will contact the users subscribing to this type of number.
 
-なお、国内向けプレフィックス`0800`（フリーダイヤル） `0120`（フリーダイヤル）および`050`（IP電話）につきましては、今後もサービスのご提供を継続させていただきますので、よろしくお願いいたします。
+Please note that DIN service continues with the other prefix numbers in Japan(+81), such as `0800`, `0120` (Freecall) and `050` (IP phones) in the future too.
 
-ご不便をおかけいたしますが、どうぞよろしくお願いいたします。
+We are sorry for any inconvenience caused by this.
 
 
