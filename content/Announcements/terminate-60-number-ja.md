@@ -1,4 +1,4 @@
-Title: 【Xoxzo】音声電話着信APIサービス（DIN) 03番号の停止について
+Title: 【Xoxzo】ダイヤルイン番号（DIN) マレーシア番号のサービス停止について
 Date: 2021-03-08
 Slug: 60-number-termination
 Lang: ja
