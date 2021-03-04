@@ -1,5 +1,5 @@
 Title: [Xoxzo] Termination of supporting +60 (Malaysian) numbers
-Date: 2021-03-08
+Date: 2021-03-04
 Slug: 60-number-termination
 Lang: en
 Tags: Xoxzo; DIN; 2219; +60;
