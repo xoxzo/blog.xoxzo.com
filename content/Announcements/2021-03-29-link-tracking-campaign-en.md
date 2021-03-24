@@ -1,0 +1,32 @@
+Title: EZSMS Link-tracking Campaign -2021 Spring-
+Date: 2021-03-29
+Slug: 2021-spring-campain
+Lang: en
+Tags: ezsms; campaign; 2021; link-tracking; EZSMS;
+Thumbnail: images/link-tracking-campaign-2021-spring.png
+Author: Aiko Yokoyama
+Summary: Has your messaged been read? Has your receipient accessed the URL? Link-tracking on EZSMS can detect it, and it is now at a campaign price!!
+
+平素は、[EZSMS](https://www.ezsms.biz/)をご利用いただき、ありがとうございます。
+
+届けたいメッセージを、有料のSMSで送るからには、受信した相手のリアクションが知りたいですよね。
+70文字という制限の中では書ききれない情報をウェブサイトに載せて、そのURLをSMSで配信した後、EZSMSのリンクトラッキング機能を使うと、
+受信者がリンクをクリックしてくれたかどうかがログで一覧チェックできます。
+
+ログは .csvファイルでダウンロードできるので、ウェブサイトをチェックしてくれた、もしくはしてくれていない受信者へ再度アプローチするなど、
+分析と次のアクションにとっても便利です。
+
+この春、2021年4月1日から30日までの1ヶ月に限り、この**EZSMSのリンクトラッキング機能が特別価格でご利用いただけるキャンペーン**を行います。
+普段の送信に1円プラスでご利用いただけますので、これまで使ってみたことのないユーザー様も、是非お試しください。
+
+リンクトラッキングの仕組みや使い方は、[こちら](https://help.xoxzo.com/ja/ezsms-sms-delivery-service/articles/link-tracking-feature/)から、
+ご利用料金は、[こちら](https://www.ezsms.biz/ja/faq/price/)にてご参照ください。
+
+[EZSMS](https://www.ezsms.biz/ja/)は、開発技術がなくても、ウェブブラウザーから簡単にSMS配信を行うことができるサービスです。
+ご利用には、無料で開設できるアカウントから、1. 送り主 2. 送り先 3. 送信本文　を打ち込んで送信ボタンを押すだけ！
+複数の送り先に、同じメッセージを送りたい時には、送り先を複数入力できます。
+送り先ごとに、メッセージの一部をカスタマイズしたい場合には、.csvファイルのアップロードで指定すればOK！
+リンクトラッキングと併せて、是非お試しください。
+
+**その他のご要望等ございましたら、ヘルプデスク （help@xoxzo.com）までご連絡ください。**
+
