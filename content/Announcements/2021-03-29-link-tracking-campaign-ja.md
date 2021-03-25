@@ -1,6 +1,6 @@
 Title: 【EZSMS】リンクトラッキング・キャンペーン in 2021 春
 Date: 2021-03-29
-Slug: ez-stripe-release
+Slug: 2021-spring-campain
 Lang: ja
 Tags: ezsms; キャンペーン; 2021; リンクトラッキング; EZSMS;
 Thumbnail: images/link-tracking-campaign-2021-spring.png
