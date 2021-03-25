@@ -7,26 +7,28 @@ Thumbnail: images/link-tracking-campaign-2021-spring.png
 Author: Aiko Yokoyama
 Summary: Has your messaged been read? Has your receipient accessed the URL? Link-tracking on EZSMS can detect it, and it is now at a campaign price!!
 
-平素は、[EZSMS](https://www.ezsms.biz/)をご利用いただき、ありがとうございます。
+Thank you for using [EZSMS](https://www.ezsms.biz/).
 
-届けたいメッセージを、有料のSMSで送るからには、受信した相手のリアクションが知りたいですよね。
-70文字という制限の中では書ききれない情報をウェブサイトに載せて、そのURLをSMSで配信した後、EZSMSのリンクトラッキング機能を使うと、
-受信者がリンクをクリックしてくれたかどうかがログで一覧チェックできます。
+As you chose to send an SMS to deliver your message, we are sure that you want to see the reaction of the recipients.
+You can check it in the log records by just use _Link-tracking_ on EZSMS when you create your informative website and put that URL in your SMS message,
+that has a limit of 160 ASCII characters for the length of one message.
 
-ログは .csvファイルでダウンロードできるので、ウェブサイトをチェックしてくれた、もしくはしてくれていない受信者へ再度アプローチするなど、
-分析と次のアクションにとっても便利です。
+The message log can be downloaded in the .csv format, that perfectly fits for your needs and convenience to use it as a data for recipient behavior analysis,
+whether the recipient has accessed your website. You then move onto the next step to resend the message for the non-accessed recipients, or send another message
+to the accessed recipients for a closer approach, yes, this is possible with _Link-tracking_ on EZSMS!
 
-この春、2021年4月1日から30日までの1ヶ月に限り、この**EZSMSのリンクトラッキング機能が特別価格でご利用いただけるキャンペーン**を行います。
-普段の送信に1円プラスでご利用いただけますので、これまで使ってみたことのないユーザー様も、是非お試しください。
+Here is a great news that **this link-traking is on a special campaign** this spring time, from April 1 to April 30.
+All first-time users are welcome to try this with only 1 Japanese Yen surplus on the normal sending cost.
 
-リンクトラッキングの仕組みや使い方は、[こちら](https://help.xoxzo.com/ja/ezsms-sms-delivery-service/articles/link-tracking-feature/)から、
-ご利用料金は、[こちら](https://www.ezsms.biz/ja/faq/price/)にてご参照ください。
+Please find how to use _Link-tracking_ in [here](https://help.xoxzo.com/en/ezsms-sms-delivery-service/articles/link-tracking-feature/)
+and the pricelist from [here](https://www.ezsms.biz/ja/faq/price/).
 
-[EZSMS](https://www.ezsms.biz/ja/)は、開発技術がなくても、ウェブブラウザーから簡単にSMS配信を行うことができるサービスです。
-ご利用には、無料で開設できるアカウントから、1. 送り主 2. 送り先 3. 送信本文　を打ち込んで送信ボタンを押すだけ！
-複数の送り先に、同じメッセージを送りたい時には、送り先を複数入力できます。
-送り先ごとに、メッセージの一部をカスタマイズしたい場合には、.csvファイルのアップロードで指定すればOK！
-リンクトラッキングと併せて、是非お試しください。
+[EZSMS](https://www.ezsms.biz/) is a SMS delivery service online, using just a web-browser without any development skills.
+It is so easy to use, create your free account and send your message by filling 1. Sender 2. Recipient's number 3. Message!
+You can include multiple recipients to send the same message to more than two people.
+Use .csv file to manage how you would like to modify the message to customize to each recipient. Please refer our 
+[help center](https://help.xoxzo.com/ezsms-sms-delivery-service/articles/how-to-send-with-customised-csv/) for more details.
+Please try this together with _Link-tracking_!!
 
-**その他のご要望等ございましたら、ヘルプデスク （help@xoxzo.com）までご連絡ください。**
+**For any questions or queries, please do not hesitate to contact Helpdesk（support@ezsms.biz）**
 
