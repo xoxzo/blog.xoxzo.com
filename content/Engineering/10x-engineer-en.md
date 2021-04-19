@@ -15,8 +15,8 @@ I’d like to highlight some parts of which I think is interesting.
 
 The first one is debugging skill. There’s a famous quote from Edsger Djikstra:
 
-"If debugging is the process of removing software bugs,
-then programming must be the process of putting them in".
+> "If debugging is the process of removing software bugs,
+> then programming must be the process of putting them in".
 
 So whenever we add new features, that means we’re adding the possibility
 of new bugs. One good piece of advice when you get stuck while debugging
@@ -25,8 +25,10 @@ Probably you’re thinking too hard while debugging, and after you wake up
 from sleep you’ll get a completely new perspective of debugging.
 
 The second one is reading code. Martin Fowler once said:
-"Any fool can write that a computer can understand.
-Good programmers write code that humans can understand."
+
+> "Any fool can write that a computer can understand.
+> Good programmers write code that humans can understand."
+
 We should be patient in practicing our reading code skills.
 This will take time, so be persistent.
 
