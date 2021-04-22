@@ -1,5 +1,5 @@
 Title: Xoxzo Online Spring Team Camp 2021
-Date: 2021-04-21 11:00 
+Date: 2021-04-21
 Author: Jocelyn ter Morsche 
 Tags: teamcamp; remoteworking; 2021; online; 
 Slug: Xoxzo-online-spring-team-camp-2021 
