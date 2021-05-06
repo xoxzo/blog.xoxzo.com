@@ -17,17 +17,17 @@ Sharing keyboard and mouse input can be achieved in multiple ways, one can use a
 
 ![remote](/images/wfh-multi-computers-switcher.jpg)
 
-Whenever I push my mouse pointer towards the left side of my workstation screen, through a software called barrier, the control switches to the laptop on the left hand side. Then I can start responding to my teammates on my tasks, or do a quick search to find the documentation related to the task I am working on.
+Whenever I push my mouse pointer towards the left side of my workstation screen, through a software called barrier, the control switches to the laptop on the left-hand side. Then I can start responding to my teammates on my tasks, or do a quick search to find the documentation related to the task I am working on.
 
 ![remote](/images/wfh-multi-computers-barrier.jpg)
 
-Hardware switch is useful if I need input focus to remain on the workstation, but at the same time working on the laptop. I do game and language learning streaming in my spare time, so it is used whenever I need to temporarily switch to the laptop (which is also the machine running OBS, the streaming software).
+A hardware switch is useful if I need input focus to remain on the workstation, but at the same time working on the laptop. I do game and language learning streaming in my spare time, so it is used whenever I need to temporarily switch to the laptop (which is also the machine running OBS, the streaming software).
 
-On the other hand, audio is a harder problem. There are times I need to have my headphones on in order to listen to music/webinar I play on my workstation, or catching audio notifications from the laptop. As they play sounds independently, it is easy to miss important notifications if not properly setup.
+On the other hand, audio is a harder problem. There are times I need to have my headphones on to listen to music/webinar I play on my workstation, or catching audio notifications from the laptop. As they play sounds independently, it is easy to miss important notifications if not properly set up.
 
 ![remote](/images/wfh-multi-computers-mixer.jpg)
 
-I tried using bluetooth in the past to route all audio from my laptop to the workstation. However it is not always working reliably. While trying to optimize my streaming setup, with the advice from a friend, I bought a mixer (as well as a dynamic microphone). Through the mixer, I can now connect my workstation audio output into one of the channels.
+I tried using Bluetooth in the past to route all audio from my laptop to the workstation. However it is not always working reliably. While trying to optimize my streaming setup, with the advice from a friend, I bought a mixer (as well as a dynamic microphone). Through the mixer, I can now connect my workstation audio output into one of the channels.
 
 ![remote](/images/wfh-multi-computers-nyancat.jpg)
 
