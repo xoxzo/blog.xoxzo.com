@@ -8,30 +8,30 @@ Summary: Django Channels 2.x を Amazon Linux 2 Amisを使って、Elasticbeanst
 
 アマゾンウェブサービス（AWS）Elasticbeanstalk（EB）にアプリケーションをデプロイする際に難しいのは、クラスター内にある、それぞれのインスタンスで実行されるプロセスを処理することが挙げられます。私の場合、どのように、ロードバランサーを介してElasticbeanstalkにDjangoChannels 2をデプロイするか、でした。
 
-ネット上には、チュートリアルやガイドがたくさんあるのですが、実際に役に立つものがありませんでした。というのも、AWSの最新の環境プラットフォームは、以前のチュートリアルが使えない、異なる設定とディレクトリ構造を持つAmazon Linux （AMI 2）インスタンスを使用しているというのに、ほとんどのチュートリアルがAmazon Linux AMIインスタンス用の構成ファイルを使用したものだったからです。AMI 2への移行方法について詳しくは、<a href="https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.migration-al.html" target="_blank">こちら（英語）</a>をご覧ください。
+ネット上には、チュートリアルやガイドがたくさんあるのですが、実際に役に立つものがありませんでした。というのも、AWSの最新の環境プラットフォームは、以前のチュートリアルが使えない、異なる設定とディレクトリ構造を持つAmazon Linux （AMI 2）インスタンスを使用しているというのに、ほとんどのチュートリアルがAmazon Linux AMIインスタンス用の構成ファイルを使用したものだったからです。AMI 2への移行方法について詳しくは、<a href="https://docs.aws.amazon.com/ja_jp/elasticbeanstalk/latest/dg/using-features.migration-al.html" target="_blank">こちら</a>をご覧ください。
 
 このチュートリアルは、3つのパートに分かれています。興味のあるところを自由に選んで読んでください。
 
-
-- <a href="#assumptions">Set up assumptions</a>
-- <a href="#deployment">Deploying your application</a>
-- <a href="#using_https">Using Https</a>
-
-
-<h3 id="assumptions" class="anchor-link">Set up assumptions</h3>
-In order for this tutorial to be effective, I have shared my underlying assumptions below:
-
-1. You are using an Application load balancer (ALB) routing setup, which just means that all traffic is handled by ALB. Classic load balancers do not support WebSockets, while Network load balancers were not used for this tutorial;
-
-2. You already have an up and running Django application locally that already runs Django Channels 2;
-
-3. You have an external Redis instance (Any would do as long as it is accessible through your EB instances);
-
-4. lastly, you already have the EB Command Line Interface (CLI) installed, if not, you can follow the instructions <a href="https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install.html" target="_blank">here</a> 
+- <a href="#assumptions">下準備</a>
+- <a href="#deployment">アプリケーションのデプロイ</a>
+- <a href="#using_https">Https を使う</a>
 
 
-<h3 id="deployment" class="anchor-link">Deploying your application</h3>
-Once everything is set up, let’s deploy! If you don’t yet have a .ebextensions folder, please do create it in your root directory. Inside, create a config file `01_<your_custom_name>.config` and paste the entries below:
+<h3 id="assumptions" class="anchor-link">下準備</h3>
+このチュートリアルが有効なものとなるよう、基本的な下準備を下記に記しておきます。
+
+1. アプリケーションロードバランサー（ALB）ルーティングセットアップを使用中。ということは、すべてのトラフィックがALBによって処理されているということです。このチュートリアルではネットワークロードバランサーは使用していませんが、従来のロードバランサーはWebSocketをサポートしていません。
+
+2. DjangoChannels2をすでに実行しているDjangoアプリケーションがローカルで稼働中です。
+
+3. 外部Redisインスタンスがあります（EBインスタンスからアクセスできれば、何でもかまいません）。
+
+4. 最後に、すでにEBコマンドラインインターフェイス（CLI）がインストールされています。インストールされていない場合は、<a href="https://docs.aws.amazon.com/ja_jp/elasticbeanstalk/latest/dg/eb-cli3-install.html" target="_blank">こちら</a> の手順に従ってください。
+
+
+<h3 id="deployment" class="anchor-link">アプリケーションのデプロイ</h3>
+セットアップを確認したら、デプロイしましょう！.ebextensionsフォルダーがまだない場合は、ルートディレクトリに作成してください。
+その中に `01_<your_custom_name>.config` という構成ファイルを作成し、下記のテキストを貼り付けてください。
 
     option_settings:
         aws:elbv2:listener:80:
@@ -50,21 +50,29 @@ Once everything is set up, let’s deploy! If you don’t yet have a .ebextensio
             Port: '5000'
             Protocol: HTTP
 
-This tells our ALB to listen to port 80, and if a path comes in with the pattern `/ws/*` pass the request to port 5000 of the instances under EB. Note that port 5000 here is optional and you can use whichever port you want. You can also lookup other rules <a href="https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/command-options-general.html" target="_blank">here</a> 
 
-Next, we use a `Procfile` to run our processes. Create a file named `Procfile` and save it in your root directory, inside paste the following code:
+これで、ALBにポート80に従うように指示 し、パスが `/ws/*` のパターンで入ってくる場合に、EB下のインスタンスのポート5000に要求を渡すことになります。
+ここでのポート5000はオプションであり、任意のポートを使用できますので、ご注意ください。
+<a href="https://docs.aws.amazon.com/ja_jp/elasticbeanstalk/latest/dg/command-options-general.html" target="_blank">ここで</a> で他のルールを検索することもできます。
+
+
+次に、`Procfile`を使用し て プロセスを実行します。`Procfile`という名前のファイルを作成し、ルートディレクトリに保存して、以下のコードを貼り付けます。
+
 
     web: gunicorn --bind :8000 --workers 3 --threads 2 <your_app>.wsgi:application
     websocket: daphne -b 0.0.0.0 -p 5000 <your_app>.asgi:application
 
 
-Make sure you change `<your_app>` to point to your application. Also, note that we have configured our wsgi entry point here rather than in the config file we did above. Lastly, the daphne server port we’re binding should coincide with the one you specified in your ALB config file as this would receive the requests from WebSockets.
+`<your_app>`が、ご自分のアプリケーションを指すように変更してください。
+また、上記で行った構成ファイルではなく、ここで wsgi エントリポイントを構成していることにご注意ください。
+最後に、バインドする daphne サーバーポートは、WebSocketからのリクエストを受信しますので、ALB構成ファイルで指定したポートにしてください。
 
-You can learn more on using Procfiles and other means to extend your EB Linux platform <a href="https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/platforms-linux-extend.html" target="_blank">here</a> and <a href="(https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/python-configuration-procfile.html" target="_blank">here</a> 
+Procfilesを使用したり、その他の方法にて、EBLinuxプラットフォームを拡張するには <a href="https://docs.aws.amazon.com/ja_jp/elasticbeanstalk/latest/dg/platforms-linux-extend.html" target="_blank">こちら</a> や <a href=("https://docs.aws.amazon.com/ja_jp/elasticbeanstalk/latest/dg/python-configuration-procfile.html" target="_blank">こちら</a> も、参考になるでしょう。
 
 
-<h3 id="using_https" class="anchor-link">Using https</h3>
-Once you enabled https for your application, you would just need to do a minor tweak in your configuration file to listen for `wss` connections and pass them accordingly. In the config file you have created previously, just edit the code to look like the following:
+<h3 id="using_https" class="anchor-link">https を使う</h3>
+アプリケーションでhttpsを有効にしたら、`wss`接続に従い、それに応じて渡すよう、構成ファイルを微調整してください。上記で作成した構成ファイルを、次のようにコード編集するだけです。
+
 
     option_settings:
         aws:elbv2:listener:80:
@@ -90,22 +98,21 @@ Once you enabled https for your application, you would just need to do a minor t
             Protocol: HTTP
 
 
-This just listens to port 443, then passes WebSocket related path to your instances inside EB as per before.  Make sure you replace `<YOUR ARN FROM AWS CERTIFICATES MANAGER>` with the actual arn resource from your approved certificates. 
+これで、ポート443をまず採り上げてから、これまでと同様にEB内のインスタンスにWebSocket関連のパスを渡すようになりました。`<YOUR ARN FROM AWS CERTIFICATES MANAGER>` の部分は、必ず、承認済み証明書の、実際のarnリソースと置き換えてください。
+
+これで完了です。このガイドがお役に立てば幸いです。
 
 
-There you have it, folks! Hope this guide helped.
+参考:
 
+（英語サイト）[https://medium.com/@elspanishgeek/how-to-deploy-django-channels-2-x-on-aws-elastic-beanstalk-8621771d4ff0](https://medium.com/@elspanishgeek/how-to-deploy-django-channels-2-x-on-aws-elastic-beanstalk-8621771d4ff0)
 
-References:
+[Elastic Beanstalk Linux アプリケーションを Amazon Linux 2 に移行する](https://docs.aws.amazon.com/ja_jp/elasticbeanstalk/latest/dg/using-features.migration-al.html)
 
-[https://medium.com/@elspanishgeek/how-to-deploy-django-channels-2-x-on-aws-elastic-beanstalk-8621771d4ff0](https://medium.com/@elspanishgeek/how-to-deploy-django-channels-2-x-on-aws-elastic-beanstalk-8621771d4ff0)
+[EB CLI のインストール](https://docs.aws.amazon.com/ja_jp/elasticbeanstalk/latest/dg/eb-cli3-install.html)
 
-[https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.migration-al.html](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.migration-al.html)
+[すべての環境に対する汎用オプション](https://docs.aws.amazon.com/ja_jp/elasticbeanstalk/latest/dg/command-options-general.html)
 
-[https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install.html](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install.html)
+[Elastic Beanstalk Linux プラットフォームの拡張](https://docs.aws.amazon.com/ja_jp/elasticbeanstalk/latest/dg/platforms-linux-extend.html)
 
-[https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/command-options-general.html](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/command-options-general.html)
-
-[https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/platforms-linux-extend.html](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/platforms-linux-extend.html)
-
-[https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/python-configuration-procfile.html](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/python-configuration-procfile.html)
+[Procfile を使用した WSGI サーバーの設定](https://docs.aws.amazon.com/ja_jp/elasticbeanstalk/latest/dg/python-configuration-procfile.html)
