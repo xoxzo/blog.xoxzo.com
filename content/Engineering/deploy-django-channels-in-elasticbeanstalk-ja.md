@@ -67,11 +67,11 @@ Summary: Django Channels 2.x を Amazon Linux 2 Amisを使って、Elasticbeanst
 また、上記で行った構成ファイルではなく、ここで wsgi エントリポイントを構成していることにご注意ください。
 最後に、バインドする daphne サーバーポートは、WebSocketからのリクエストを受信しますので、ALB構成ファイルで指定したポートにしてください。
 
-Procfilesを使用したり、その他の方法にて、EBLinuxプラットフォームを拡張するには <a href="https://docs.aws.amazon.com/ja_jp/elasticbeanstalk/latest/dg/platforms-linux-extend.html" target="_blank">こちら</a> や <a href=("https://docs.aws.amazon.com/ja_jp/elasticbeanstalk/latest/dg/python-configuration-procfile.html" target="_blank">こちら</a> も、参考になるでしょう。
+Procfilesを使用したり、その他の方法にて、EBLinuxプラットフォームを拡張するには <a href="https://docs.aws.amazon.com/ja_jp/elasticbeanstalk/latest/dg/platforms-linux-extend.html" target="_blank">こちら</a> や <a href="https://docs.aws.amazon.com/ja_jp/elasticbeanstalk/latest/dg/python-configuration-procfile.html" target="_blank">こちら</a> も、参考になるでしょう。
 
 
 <h3 id="using_https" class="anchor-link">https を使う</h3>
-アプリケーションでhttpsを有効にしたら、`wss`接続に従い、それに応じて渡すよう、構成ファイルを微調整してください。上記で作成した構成ファイルを、次のようにコード編集するだけです。
+アプリケーションでhttpsを有効にしたら、`wss` 接続に従い、それに応じて渡すよう、構成ファイルを微調整してください。上記で作成した構成ファイルを、次のようにコード編集するだけです。
 
 
     option_settings:
