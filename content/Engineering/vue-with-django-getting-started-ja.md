@@ -1,12 +1,11 @@
-Title: How to integrate Vue with Django
+Title: VueをDjangoと統合する方法
 Date: 2020-08-05 09:00
 Author: Fathur Rahman
 Tags: django-vue; django-webpack; tutorial; vue;
 Slug: vue-with-django-getting-started
 Lang: ja
-Summary: Learn how to integrate Vue with Django
-
-When I switched from Ruby On Rails to Django, the first thing I notice is the lack of official integration for Webpack.
+Summary: Vue と Django を統合する方法を解説します。
+私がRuby On RailsからDjangoに切り替えたとき、最初に気付いたのはWebpackの公式統合がないということでした。
 
 Webpack is the defacto tool to manage and compile your front end assets.
 
