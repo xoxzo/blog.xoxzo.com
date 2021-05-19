@@ -296,13 +296,13 @@ https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanh
 mkdir resources/js/components
 ```
 
-- Create a new Vue Single File Component
+- 新規Vueシングルファイルコンポーネントを作成しましょう。
 
 ```
 touch resources/js/components/DemoComponent.vue
 ```
 
-- Edit `DemoComponent.vue`
+- `DemoComponent.vue`を編集します。
 
 ```
 <template>
@@ -320,7 +320,7 @@ export default {
 </script>
 ```
 
-- Register the new component inside `poll.js`
+- `poll.js`内に新規コンポーネントを登録します。
 
 ```
 import Vue from "vue";
@@ -337,7 +337,7 @@ let vue = new Vue({
 }).$mount("#app");
 ```
 
-- Edit the `polls/index.html`
+- `polls/index.html`を編集します。
 
 ```
 {% extends 'polls/base_layout.html' %}
@@ -353,16 +353,16 @@ let vue = new Vue({
 {% endblock %}
 ```
 
-- To verify it is working, refresh `http://127.0.0.1:8000/polls/`
+- 動作確認には、`http://127.0.0.1:8000/polls/`を更新しましょう。
 
-- We should see the Welcome to Vue at the page. We also can inspect the component at Vue panel
+- そのページにWelcome to Vueが表示されるはずです。Vueパネルでコンポーネントの検査が可能です。
 
 ![Inspect Vue component]({filename}/images/vue-django/inspect-vue-component.png)
 
-## Wrapping Up
+## まとめ
 
-If you have made this far, congratulations you have successfully integrate Vue with Django.
+ここまでくれば、VueとDjangoの統合に成功したと言えるでしょう。おめでとうございます。
 
-In the next post, we will learn How to pass data from Django into the Vue component.
+次回は、DjangoからVueコンポーネントにデータを渡す方法を解説します。
 
-Stay tuned and happy coding!
+引き続きご期待ください。
