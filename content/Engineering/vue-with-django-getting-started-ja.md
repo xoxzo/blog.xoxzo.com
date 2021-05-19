@@ -5,47 +5,46 @@ Tags: django-vue; django-webpack; tutorial; vue;
 Slug: vue-with-django-getting-started
 Lang: ja
 Summary: Vue と Django を統合する方法を解説します。
-私がRuby On RailsからDjangoに切り替えたとき、最初に気付いたのはWebpackの公式統合がないということでした。
 
-Webpack is the defacto tool to manage and compile your front end assets.
+Ruby On RailsからDjangoに切り替えたとき、私は、まず、Webpackの公式統合がないということに気づきました。
+Webpackは、フロントエンド アセットを、事実上、管理したりコンパイルしたりするためのツールです。
+Webpackの公式統合がないので、私は、このチュートリアルはこれが足りない、こっちはこれが足りない、と、満足のいく結果が得られないまま、無数のチュートリアルを試すことになりました。
 
-Due to lacking official integration of Webpack, I try countless tutorials with no satisfying result due to several shortcomings
+### 足りない、というのは
 
-### Some of the shortcomings are
+1. ほとんどのチュートリアルが、SPAベースのウェブアプリケーションを構築したい開発者を対象としているため、VueをDjangoから分離し、DjangoはRESTAPIプロバイダーとしてのみ機能させているのです。
 
-1. Most tutorials cater for developers who wants to build SPA based web application, so they separate Vue from Django and Django only served as REST API provider
+2. jQueryを置き換えるために、Vueと組み合わせたDjangoに対応しているチュートリアルもありましたが、複雑なVueコンポーネントおよびVuex状態管理にはセットアップが適していませんでした。
 
-2. Some tutorials cater for Django coupled with Vue to replace jQuery, however the setup is not suitable for complex Vue component and Vuex state management.
+### 本チュートリアルの到達目標
 
-### What we want to achieve in this tutorial
+1. VueとDjangoを緊密に統合して、Djangoのルーティング パワーとテンプレート構文の機能を活用できるようにする
 
-1. We want to tightly couple Vue with Django, so we can utilize the power of Django routing and template syntax
+2. Vueシングルファイルコンポーネント（SFC）のパワーを利用してアプリケーションを構築する
 
-2. We want to utilize the power of Vue Single File Component (SFC) to build our application
+ということで、このチュートリアルでは、この目標を達成するために、DjangoでVueを設定する方法について解説します。
 
-So in this tutorial, I will share on how to setup Vue with Django to achieve our objectives
+### レシピ
 
-### Recipes
+1. アセットを管理するためのLaravelMix
 
-1. Laravel Mix to manage assets
+2. アプリケーションのディレクトリにコンパイルされたアセットにLaravelMixを設定
 
-2. Configure Laravel Mix to compiled assets into our application directory
+3. Djangoテンプレートは、LaravelMixでコンパイルしたアセットを参照
 
-3. Django template refer to the assets that were compiled by Laravel Mix
+これを読むと最初は、Djangoプロジェクトで、なぜ他のフレームワークのコンポーネントを使用する必要があるのか、と疑問に思いませんか。
 
-So when you first read about Laravel Mix, you must be wondering why should we use other framework components in Django project?
+名前とは異なり、Laravel Mixは、実はWebpackのフレームワークに依存しないラッパーであり、Webpackの統合を非常に簡単にしてくれるものなのです。
 
-Contrary to the naming, Laravel Mix is actually a framework-agnostic wrapper for Webpack, which makes the webpack integration becomes really easy.
+そのため、Laravel Mixを使用すると、使用するフレームワークに関係なく、フロントエンド アセットを簡単に管理できるのです。
 
-So we can use Laravel Mix to easily manage our front end assets no matter what framework that we use
+## Laravel Mix をインストールする
 
-## Install Laravel Mix
+- Djangoチュートリアルに基づいた、基本的なDjangoプロジェクトのセットアップがある、と仮定しましょう。
 
-- Let assume we have basic Django project setup based on Django tutorial
+- Laravel MixをDjangoにインストールするには、[LaravelMixの 公式ドキュメンテーション](https://laravel-mix.com/docs/5.0/installation) に従ってみましょう。
 
-- To install Laravel Mix into Django, let's follow [the official documentation for Laravel Mix](https://laravel-mix.com/docs/5.0/installation)
-
-- At the installation page, scroll down to the section of Stand-Alone Project. We will follow the steps provided here
+- インストールページで、スタンドアロンプロジェクトのセクションまでスクロールダウンします。ここに記載されている手順に従います。
 
 ```
 cd mysite
@@ -54,13 +53,13 @@ npm install laravel-mix --save-dev
 cp node_modules/laravel-mix/setup/webpack.mix.js ./
 ```
 
-- Open `webpack.mix.js` and we can see the default configuration where our JS and SASS will be compiled. We will update this configuration later to match our Django project
+- `webpack. mix .js` を開くと、JSとSASSがコンパイルされるデフォルトの構成が表示されます。この構成は、Djangoプロジェクトに一致するよう、後ほど更新することにします。
 
 ```
 mix.js('src/app.js', 'dist/').sass('src/app.scss', 'dist/');
 ```
 
-- Setup default directory and file
+- デフォルトのディレクトリとファイルを設定します。
 
 ```
 mkdir src && touch src/app.{js,scss}
@@ -68,7 +67,7 @@ mkdir src && touch src/app.{js,scss}
 
 ![Default directory for JS and CSS]({filename}/images/vue-django/js-css-default-dir.png)
 
-- Let's run our first compile using Laravel Mix
+- LaravelMixを使用して、初コンパイルを実行しましょう。
 
 ```
 node_modules/.bin/webpack --config=node_modules/laravel-mix/setup/webpack.config.js
@@ -76,7 +75,7 @@ node_modules/.bin/webpack --config=node_modules/laravel-mix/setup/webpack.config
 
 ![Success compiling assets]({filename}/images/vue-django/success-compiled.png)
 
-- After compile, we can find the compiled assets here
+- コンパイル後、コンパイルされたアセットは、ここで見つけられます。
 
 ```
 dist/app.css
@@ -86,7 +85,7 @@ dist/mix-manifest.json
 
 ![Compiled assets in dist directory]({filename}/images/vue-django/compiled-dist.png)
 
-- Edit `package.json` and add NPM scripts
+- `package.json` を 編集 してNPMスクリプトを追加します。
 
 ```
 "scripts": {
@@ -99,7 +98,7 @@ dist/mix-manifest.json
 }
 ```
 
-- Install `cross-env`
+- `cross-env` をインストールします。
 
 ```
 npm install cross-env --save-dev
