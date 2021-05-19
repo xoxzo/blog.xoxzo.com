@@ -104,36 +104,36 @@ dist/mix-manifest.json
 npm install cross-env --save-dev
 ```
 
-- Now you can easily compile your assets by running
+- これを実行すれば、アセットを簡単にコンパイルできるようになります。
 
 ```
 npm run dev
 ```
 
-- To always listen to asset changes
+- アセットの変化に常に耳を傾けるには
 
 ```
 npm run watch
 ```
 
-- Since we started using NPM, we should ignore `node_modules` directory. 
+- NPMを使い始めたので、`node_modules` ディレクトリを無視しなくてはなりません。 
 
-- Create new `.gitignore` at the root of the project
+- プロジェクトのルート に 新しい `.gitignore` を作成します。
 
 ```
 touch .gitignore
 ```
 
-- Ignore the `node_modules`
+- `node_modules` を無視します。
 
 ```
 # node modules
 /node_modules
 ```
 
-## Configure Laravel Mix for Django apps
+## Djangoアプリ用にLaravelMixを構成する
 
-- We gonna create `resources` folder in our Poll app
+- Poll アプリ内に、 `resources`フォルダを 作成します。
 
 ```
 cd polls
@@ -142,20 +142,20 @@ mkdir resources/js
 mkdir resources/sass
 ```
 
-- Create empty js file and scss file for our Poll app
+- Poll アプリ用に、空のjsファイルとscssファイルを作成します。
 
 ```
 touch resources/js/poll.js
 touch resources/sass/poll.scss
 ```
 
-- If the folder hasn't existed, create a `static` folder, and inside the `static` folder, create a `build` folder
+- フォルダーがまだない場合は、`static` フォルダーを作成し、その `static` フォルダー内に`build`フォルダーを 作成 しましょう。
 
 ```
 mkdir -p static/build
 ```
 
-- We need to update `webpack.mix.js` configuration
+- `webpack.mix.js` の構成を更新し ます。
 
 ```
 let staticPath = "polls/static/build";
@@ -175,7 +175,7 @@ mix.js(`${resourcesPath}/js/poll.js`, `${staticPath}/`);
 mix.sass(`${resourcesPath}/sass/poll.scss`, `${staticPath}/`);
 ```
 
-- Run the command to compile
+- コマンドを実行してコンパイルします。
 
 ```
 npm run dev
@@ -183,19 +183,19 @@ npm run dev
 
 ![Compile Poll assets in dist directory]({filename}/images/vue-django/compile-poll-assets.png)
 
-- After successfully compiled, we can see the compiled assets inside the `static/build` folder
+- 正常にコンパイルされると、`static / build` フォルダー内にコンパイルされたアセットが表示されます。 
 
 ![Compiled Poll assets in build directory]({filename}/images/vue-django/poll-build-assets.png)
 
-## Install Vue
+## Vue をインストールする
 
-- Let's install Vue and start using it inside our Django app. Navigate to the root of our project mysite and run this command to install Vue
+- Vueをインストールして、Djangoアプリ内で使い始めましょう。プロジェクトmysiteのルートに誘導し、このコマンドを実行してVueをインストールします。
 
 ```
 npm i vue
 ```
 
-- After installed Vue, we can start using Vue inside our JS file. Lets edit `poll.js`
+- Vueをインストールしたら、JSファイル内でVueを使い始められます。`poll.js`を編集しましょう
 
 ```
 import Vue from 'vue'
@@ -205,34 +205,34 @@ let vue = new Vue({
 }).$mount('#app')
 ```
 
-- Compile again by running
+- こちらを実行して、再度コンパイルします。
 
 ```
 npm run dev
 ```
 
-or to automatically recompile by running
+または、こちらを実行して自動的に再コンパイルしましょう。
 
 ```
 npm run watch
 ```
 
-## Setup Django html to use compiled assets by Laravel Mix
+## LaravelMixでコンパイルされたアセットを使うために、Django htmlを設定する
 
-- Since we don't have any html page yet, we will create a basic html page inside `templates/polls` directory
+- html ページがまだないため、`templates / polls` ディレクトリ内に基本的なhtmlページを作成します。
 
 ```
 mkdir templates/polls
 ```
 
-- Create new `base_layout.html` and `index.html` file
+- `base_layout.html` および `index.html` ファイルを新規作成します
 
 ```
 touch templates/polls/base_layout.html
 touch templates/polls/index.html
 ```
 
-- Edit `base_layout.html`. Notice that we use div with id app, to mount Vue instance that was declare in `poll.js`
+- `base_layout.html`を 編集します。`poll.js`で宣言されたVueインスタンスをマウントするため、id appでdivを使用していますので注意してください 。
 
 ```
 {% load static %}
@@ -259,7 +259,7 @@ touch templates/polls/index.html
 </html>
 ```
 
-- Edit `index.html`
+- `index.html`を編集します。
 
 ```
 {% extends 'polls/base_layout.html' %}
@@ -271,26 +271,26 @@ touch templates/polls/index.html
 {% endblock %}
 ```
 
-- Let's update our `views.py` to use the `index.html`
+- `index.html`を使えるように `views.py`を更新しましょう。
 
 ```
 def index(request):
     return render(request, 'polls/index.html')
 ```
 
-- Let's navigate to `http://127.0.0.1:8000/polls/`
+- `http://127.0.0.1:8000/polls/`に誘導しましょう。
 
-- To verify Vue instance exist and make our development easier, we can install this extension:
+- Vueインスタンスが存在することを確認し、開発をラクにするには、次の拡張機能をインストールしましょう。
 
 https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en
 
-- If the Vue instance is working, we can see the Vue panel is activated
+- Vueインスタンスが機能している場合は、Vueパネルがアクティブになっていることがわかります。
 
 ![Vue panel activated]({filename}/images/vue-django/vue-panel-activated.png)
 
-## Use Vue Single File Component at Django html
+## Django htmlでVueシングルファイルコンポーネント(SFC)を使用する
 
-- To start using Vue in our project, let's create a Single File component. Inside the `polls` directory, run this
+- このプロジェクトでVueの使いはじめるので、シングルファイルコンポーネントを作成しましょう。`polls` ディレクトリ内で、こちらを実行します。
 
 ```
 mkdir resources/js/components
