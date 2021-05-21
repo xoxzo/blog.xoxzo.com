@@ -1,0 +1,27 @@
+{% if DEFAULT_LANG == "en" %}
+<div class="author-profile container">
+  <div class="row">
+    <div class="col-sm-4 text-left text-sm-center mb-3">
+      <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/fathur.jpg" alt="Fathur Rahman">
+    </div>
+    <div class="col-sm-8 profile-content">
+      <h3>Choon Siang Lai</h3>
+      <h4>Engineering</h4>
+      <p>Joined March 2021. Backend Developer</p>
+    </div>
+  </div>
+</div>
+{% else %}
+<div class="author-profile container">
+  <div class="row">
+    <div class="col-sm-4 text-left text-sm-center mb-3">
+      <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/fathur.jpg" alt="ファサー・ラーマン">
+    </div>
+    <div class="col-sm-8 profile-content">
+      <h3>ファサー・ラーマン</h3>
+      <h4>エンジニアリング</h4>
+      <p>2020年4月入社。企業向けシステムの構築に何年も携わった、経験豊富なウェブ開発者。現在は VueとReact を使ったフロントエンドの開発を楽しんでいる。真の問題を解決するような製品の構築を愛す。</p>
+    </div>
+  </div>
+</div>
+{% endif %}
