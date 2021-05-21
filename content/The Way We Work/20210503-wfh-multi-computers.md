@@ -1,4 +1,4 @@
-Title: Working fro home with multiple computers
+Title: Working from home with multiple computers
 Date: 2021-05-03 12:00
 Author: Choon-Siang Lai
 Tags: remotework; 2021; workfromhome; wfh series;
