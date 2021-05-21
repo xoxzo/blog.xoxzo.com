@@ -2,7 +2,7 @@ Title: How to integrate Vue with Django Part 3 - Django Rest API integration
 Date: 2021-05-21 09:00
 Author: Fathur Rahman
 Tags: django-vue; django-webpack; tutorial; vue;
-Slug: vue-with-django-passing-data
+Slug: vue-with-django-rest-api
 Lang: en
 Summary: Learn how to use Django Rest API with Vue
 
