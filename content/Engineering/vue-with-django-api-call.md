@@ -1,296 +1,229 @@
-Title: How to integrate Vue with Django Part 3 - Django Rest API integration
-Date: 2021-05-21 09:00
+Title: How to integrate Vue with Django Part 3 - Django Rest Framework API integration
+Date: 2021-05-24 09:00
 Author: Fathur Rahman
 Tags: django-vue; django-webpack; tutorial; vue;
-Slug: vue-with-django-rest-api
+Slug: vue-with-django-rest-framework-api
 Lang: en
-Summary: Learn how to use Django Rest API with Vue
+Summary: Learn how to use Django Rest Framework API with Vue
 
-In [previous tutorial](https://blog.xoxzo.com/2020/08/05/vue-with-django-getting-started/), we learn how to integrate Vue with Django. In this tutorial, we will learn how to pass data from Django into Vue component, and utilize it
+API request is one of the important part in web development. Pair with Django Rest Framework, lets see how can we integrate Django Rest API with Vue
 
-### Updating Vue component
+## Install Axios
 
-- Vue component can accept data via Props
+- Axios is the best API library for JS https://github.com/axios/axios
 
-- Lets update our `DemoComponent.vue` to add new props called `poll`
+- We will utilize Axios to perform API request
+
+- Lets install it via NPM
 
 ```
-<template>
-  <h1>{{ message }}</h1>
-</template>
+npm i axios
+```
 
+## Include `X-CSRFToken` in html page
+
+- Django Rest Framework requires `X-CSRFToken` in for authentication
+
+- We can use `{% csrf_token %}` provide by Django to get the `X-CSRFToken` value 
+
+- Edit your base html, and include the csrf token tag inside the body
+
+- Since we only have simple page `polls/index.html`, lets add to this page
+
+```
+<html>
+<head></head>
+<body>
+<div id="app">
+{% csrf_token %}
+```
+
+## Set the Axios global configuration
+
+- Its better if we can seperate Axios configuration code from application code
+
+- Lets create new file called `api.js`
+
+```
+touch src/api.js
+```
+
+- Add this code to `api.js`. What it does is auto set the header, and auto grab the token from the `csrf_token` for each Axios request
+
+```
+/**
+ * We'll load the axios HTTP library which allows us to easily issue requests
+ * to our Django back-end. This library automatically handles sending the
+ * CSRF token as a header based on the value of the "XSRF" token cookie.
+ */
+
+window.axios = require('axios');
+
+window.axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
+
+/**
+ * Next we will register the CSRF Token as a common header with Axios so that
+ * all outgoing HTTP requests automatically have it attached. This is just
+ * a simple convenience so we don't have to attach every token manually.
+ */
+
+let token = document.getElementsByName("csrfmiddlewaretoken");
+
+if (token) {
+    window.axios.defaults.headers.common['X-CSRFToken'] = token[0].value;
+} else {
+    console.error('CSRF token not found: https://docs.djangoproject.com/en/3.0/ref/csrf/#ajax');
+}
+```
+
+- To start utilizing Axios in each global API request, include the newly created `api.js` into `app.js`
+
+- Edit `app.js` and add this line into the top of the file
+
+```
+require('./api');
+```
+
+## Set the API base url
+
+- We need to setup `base_url` so it can be use to build full url to the API endpoint
+
+- Add `base_url` to the head section of `polls/index.html`
+
+```
+<head>
+
+  <script>
+        window.base_url = '{{ base_url }}';
+  </script>
+
+</head>
+```
+
+## Perform API request from Vue component
+
+- Vue component now can perform API request using Axios, and global configuration already loaded via `api.js`
+
+- Lets update our `DemoComponent.vue` to perform API request
+
+```
 <script>
 export default {
-
   props: {
-
     poll: {
       type: Object,
       required: true,
     },
 
-  },
-
-  data() {
-    return {
-      message: "Welcome to Vue!",
-    };
-  },
-};
-</script>
-```
-
-- Vue component can accept prop with type Object, Array, Boolean and String
-
-- We want to use dict data from Django, so we will use Object type
-
-- Lets refresh our page, and we should see this error since we havent pass the required `poll` props yet
-
-
-
-### Passing dict from Django to Vue
-
-- Lets update our `views.py` to pass simple dict to our html
-
-```
-def index(request):
-
-    # declare a Poll dict. In real life, you should use a Model with Serializer
-
-    poll = dict()
-
-    poll["id"] = 1
-    poll["title"] = "Software Engineering Poll"
-
-    return render(request, 'polls/index.html', { "poll": poll })
-```
-
-- Since the data already passed into `polls/index.html`, lets update the file so we can pass the data to the Vue component
-
-```
-{% extends 'polls/base_layout.html' %}
-
-{% block main_content %}
-
-<h1>Hello, world. You're at the polls index.</h1>
-
-<!-- load the Vue component -->
-
-<demo-component :poll="{{ poll }}" ></demo-component>
-
-{% endblock %}
-```
-
-- Lets refresh our page to check whether Vue component already received the required data
-
-![Poll prop]({filename}/images/vue-django/vue-poll-prop.png)
-
-### Utilizing the prop data with Vue
-
-- Once the `poll` data is available to Vue component via props, we can start using the data inside the Vue component
-
-- Lets update `DemoComponent.vue` html to show the `poll` title. Notice that we wrap under div container to prevent Vue error when using multiple HTML element
-
-```
-<template>
-  <div>
-    <h1>{{ message }}</h1>
-
-    <h2>{{ poll.id }} - {{ poll.title }}</h2>
-  </div>
-</template>
-
-<script>
-export default {
-
-  props: {
-
-    poll: {
-      type: Object,
-      required: true,  
-    },
-
-  },
-
-  data() {
-    return {
-      message: "Welcome to Vue!",
-    };
-  },
-};
-</script>
-```
-
-- Lets refresh our page to preview the changes
-
-![Show Poll info]({filename}/images/vue-django/vue-show-poll.png)
-
-- Congratulations! Next we will pass array of data to our Vue component and utilize it
-
-### Update Vue component to receive array
-
-- Lets edit `DemoComponent.vue` and add new props called `poll_questions`
-
-```
-<template>
-  <div>
-    <h1>{{ message }}</h1>
-
-    <h2>{{ poll.id }} - {{ poll.title }}</h2>
-  </div>
-</template>
-
-<script>
-export default {
-
-  props: {
-
-    poll: {
-      type: Object,
-      required: true,  
-    },
-
     poll_questions: {
       type: Array,
-      required: true
+      required: true,
     },
-
   },
 
   data() {
     return {
       message: "Welcome to Vue!",
+      polls: [],
     };
+  },
+
+  created() {
+    // fetch list of polls after component created
+    this.fetchPolls();
+  },
+
+  methods: {
+    // get list of Poll
+
+    fetchPolls() {
+      const url = `${base_url}api/polls/`;
+
+      let query_param = {};
+
+      return axios
+        .get(url, {
+          params: query_param,
+        })
+        .then((response) => {
+          let polls = response.data.results;
+
+          this.polls = polls;
+
+          return response.data;
+        })
+        .catch(function (error) {
+          console.log("error res -->", error);
+
+          throw error;
+        });
+    },
+
+    // store new Poll
+
+    storePoll(payload) {
+      const url = `${base_url}api/polls/`;
+
+      return axios
+        .post(url, payload)
+        .then((response) => {
+          let poll = response.data;
+
+          return poll;
+        })
+        .catch(function (error) {
+          console.log("error res -->", error);
+
+          throw error;
+        });
+    },
+
+    // update existing Poll
+
+    updatePoll(id, payload) {
+      const url = `${base_url}api/polls/${id}/`;
+
+      return axios
+        .patch(url, payload)
+        .then((response) => {
+          let poll = response.data;
+
+          return poll;
+        })
+        .catch(function (error) {
+          console.log("error res -->", error);
+
+          throw error;
+        });
+    },
+
+    deletePoll(id) {
+      const url = `${base_url}api/polls/${id}/`;
+
+      return axios
+        .delete(url)
+        .then((response) => {
+          return response;
+        })
+        .catch(function (error) {
+          console.log("error res -->", error);
+
+          throw error;
+        });
+    },
   },
 };
 </script>
 ```
 
-### Passing array of dict from Django to Vue
+- Please take note we only put dummy endpoint in the example and you should replace with your real endpoint
 
-- Lets edit `views.py` again
+- Note that `base_url` usage if from the `base_url` that we set up earlier
 
-```
-def index(request):
-
-    # declare a Poll dict. In real life, you should use a Model with Serializer
-
-    poll = dict()
-
-    poll["id"] = 1
-    poll["title"] = "Software Engineering Poll"
-
-    # declare array of Poll Questions dict. In real life, you should use a Model with Serializer
-
-    poll_questions = []
-
-    poll_question1 = dict()
-
-    poll_question1["id"] = 1
-    poll_question1["title"] = "Your favourite Python framework?"
-
-    poll_questions.append(poll_question1)
-
-    poll_question2 = dict()
-    
-    poll_question2["id"] = 2
-    poll_question2["title"] = "Your favourite Javascript framework?"
-
-    poll_questions.append(poll_question2)
-
-    return render(request, 'polls/index.html', { "poll": poll, "poll_questions": poll_questions })
-```
-
-- Now lets edit `polls/index.html` to pass the `poll_questions` data into Vue component
-
-```
-{% extends 'polls/base_layout.html' %}
-
-{% block main_content %}
-
-<h1>Hello, world. You're at the polls index.</h1>
-
-<!-- load the Vue component -->
-
-<demo-component :poll="{{ poll }}" :poll_questions="{{ poll_questions }}"></demo-component>
-
-{% endblock %}
-```
-
-- Lets refresh our page to check whether Vue component already received the required data
-
-![Poll Questions prop]({filename}/images/vue-django/vue-poll-questions-prop.png)
-
-- Lets edit `DemoComponent.vue` to utilize the array of Poll Questions
-
-```
-<template>
-  <div>
-    <h1>{{ message }}</h1>
-
-    <h2>{{ poll.id }} - {{ poll.title }}</h2>
-
-    <!--  demo usage of poll_questions -->
-
-    <p>List of questions:</p>
-
-    <p v-for="question in poll_questions" :key="question.id">{{ question.id }} -  {{ question.title }}</p>
-
-  </div>
-</template>
-
-<script>
-export default {
-
-  props: {
-
-    poll: {
-      type: Object,
-      required: true,  
-    },
-
-    poll_questions: {
-      type: Array,
-      required: true
-    },
-
-  },
-
-  data() {
-    return {
-      message: "Welcome to Vue!",
-    };
-  },
-};
-</script>
-```
-- Lets refresh our page to preview the changes
-
-![Show Poll Questions info]({filename}/images/vue-django/vue-show-poll-questions.png)
-
-
-## Additional Notes
-
-- In real life, you should copy the Vue props into different property to prevent it from being overwrite if new props data coming in
-
-- If you are using Serializer, you must convert Serializer data into JSON data before passing into the HTML for Vue to consume
-
-```
-def index(request):
-
-    poll = Poll.objects.get(id=1)
-
-    poll_serializer = PollSerializer(
-        poll
-    )
-
-    poll_json_data = json.dumps(poll_serializer.data)
-
-    return render(request, 'polls/index.html', { "poll": poll_json_data })
-```
+- Also note that we dont need to pass the authentication token as it was already handled via `api.js` that we setup earlier
 
 ## Wrapping Up
 
-- Congratulations! We have succesfully learned how to pass data from Django to Vue!
+- Congratulations! We have succesfully learned how to perform API request with Vue and Django Rest Framework!
 
-- In the next post, we will learn How to implement API with Django and Vue. Stay tuned!
+- In the next post, we will learn How to use state management with Vue, Vuex and Django. Stay tuned!
