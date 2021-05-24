@@ -28,14 +28,22 @@ npm i axios
 
 - Edit your base html, and include the csrf token tag inside the body
 
-- Since we only have simple page `polls/index.html`, lets add to this page
+- Lets edit `base_layout.html` and add the `{% csrf_token %}`
 
 ```
+{% load static %}
 <html>
-<head></head>
+
+<head>
+
+    <!-- refer to CSS that was compiled by Laravel Mix -->
+
+    <link rel="stylesheet" type="text/css" href="{% static 'build/poll.css' %}">
+</head>
+
 <body>
-<div id="app">
-{% csrf_token %}
+    <div id="app">
+      {% csrf_token %}
 ```
 
 ## Set the Axios global configuration
@@ -88,15 +96,21 @@ require('./api');
 
 - We need to setup `base_url` so it can be use to build full url to the API endpoint
 
-- Add `base_url` to the head section of `polls/index.html`
+- Add `base_url` to the head section of `base_layout.html`
 
 ```
+{% load static %}
+<html>
+
 <head>
 
-  <script>
-        window.base_url = '{{ base_url }}';
-  </script>
+    <!-- refer to CSS that was compiled by Laravel Mix -->
 
+    <link rel="stylesheet" type="text/css" href="{% static 'build/poll.css' %}">
+
+    <script>
+      window.base_url = '{{ base_url }}';
+    </script>
 </head>
 ```
 
