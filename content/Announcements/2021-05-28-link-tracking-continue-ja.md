@@ -3,7 +3,7 @@ Date: 2021-05-28
 Slug: link-tracking-continue
 Lang: ja
 Tags: ezsms; 2021; リンクトラッキング; EZSMS;
-Thumbnail: images/link-tracking-campaign-2021-spring.png
+Thumbnail: images/link-tracking-c-ja.png
 Author: Aiko Yokoyama
 Summary: 送ったメッセージを読んでもらったのか？分析に助かるツール・リンクトラッキングのディスカウント継続です。
 
