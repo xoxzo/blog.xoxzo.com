@@ -3,7 +3,7 @@ Date: 2021-05-28
 Slug: link-tracking-continue
 Lang: en
 Tags: ezsms; 2021; link-tracking; EZSMS;
-Thumbnail: images/link-tracking-campaign-2021-spring.png
+Thumbnail: images/link-tracking-c-en.png
 Author: Aiko Yokoyama
 Summary: Did your recipient read your message? EZSMS continue the discount price on reaction analysis function, link-tracking.
 
