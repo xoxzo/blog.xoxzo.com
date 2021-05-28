@@ -1,6 +1,6 @@
 Title: 【EZSMS】リンクトラッキングの料金値下げを継続
 Date: 2021-05-28
-Slug: 2021-spring-campain
+Slug: link-tracking-continue
 Lang: ja
 Tags: ezsms; 2021; リンクトラッキング; EZSMS;
 Thumbnail: images/link-tracking-campaign-2021-spring.png
