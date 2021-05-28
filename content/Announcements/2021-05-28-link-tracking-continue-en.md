@@ -1,4 +1,4 @@
-Title: [EZSMS] Link-tracking 【EZSMS】リンクトラッキングの料金値下げを継続
+Title: [EZSMS] Link-tracking continues discount pricing
 Date: 2021-05-28
 Slug: link-tracking-continue
 Lang: en
