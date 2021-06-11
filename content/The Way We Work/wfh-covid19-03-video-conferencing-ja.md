@@ -41,76 +41,65 @@ lackのビデオ通話にかなり満足していたのです。
 YouTubeチャンネルで共有するため 録画はほとんど使うことがなく、しかもほとんどは内部記録用です。
 平均して、1か月に約3時間の録画、といったところでしょう。
 - 画面共有
-- 最少でもCan have a conference of up to at least 12 people;
-- 顧客など、社外の人々と話す必要があるため、アプリをダウンロードしたりインストールしたりせずにリンクからブラウザーから直接参加できること![image](https://user-images.githubusercontent.com/16395313/121641590-539dff00-caca-11eb-9df6-e00a64cae86a.png)１２にん
-- 顧客など、社外の人々と話す必要があるため、アプリをダウンロードしたりインストールしたりせずにリンクからブラウザーから直接参加できること![image](https://user-images.githubusercontent.com/16395313/121641590-539dff00-caca-11eb-9df6-e00a64cae86a.png)
-- A call should be able to last at most for 2 hours without having to restart;
-- Something we can use for around USD50 per month;
-- If it requires a client, it should support Ubuntu Linux;
+- 最少でも12人は参加可能なビデオ会議が開けること
+- 通話は、再起動などの中断なしに、最大2時間持続できること
+- 月額約50米ドルで使用できること
+- クライアントが必要な場合は、UbuntuLinuxをサポートしていること
 
-Good additions, but not really necessary for us:
+必要不可欠ではないですが、あれば嬉しいのは：
+-	ドメインまたは組織に応じて、参加者を制限する機能
+-	使いやすさ
 
-- Ability to limit participants according to domain or organization;
-- Simplicity of use;
+必要のないもの：
+-	一度に15人以上のビデオ通話を処理する機能 巨大なウェビナーは行わず、小さなチームであるため
+-	画面共有以外の、リアルタイムホワイトボードのような、いわゆるコラボレーションツール
+-	市内電話番号に電話を介して電話会議に電話をかけるような、電話会議に「電話をかける」機能 過去12年間一緒に仕事をしてきた私達ですが、会議に「電話をかける」必要は一度もありませんでした。ただ、どこにいてもインターネットに接続できることだけは、確認しています。
 
-What we don't need:
+こういった会議ツールは、ほぼすべてが「主催者」「参加者」「部屋」などの概念を持っていて、
+最終的なお支払い価格に影響を及ぼしていて、ともすれば混乱を招く恐れがあるようです。
+この概念は、以下のレビューにも記しています。
 
-- Ability to handle a video call of more than 15 people at any one time. We
-  don't do huge webinars and we have a small team;
-- So-called collaboration tools, like real-time whiteboard, other than screen sharing;
-- Ability to "call-in" to a conference call, like calling to a conference via phone to a local phone number. For the past 12 years we've been working together, we've never once had the need to "call-in" to a conference. We just make sure that we have an internet connection wherever we're at.
-
-Nearly all of these conference tools have concepts such as "Host",
-"Participants" and "Rooms" which will affect the final price that you pay and can be confusing.
-We'll also include these concepts in the short reviews that we have below.
 
 ### Google Meet
 
-In order for you to schedule or create a meeting on Google Meet, you'll [need to
-have an account on Google or have a G Suite account](https://support.google.com/meet/answer/7317473?hl=en&ref_topic=7306097).
+Google Meetで会議を立ち上げたり予約したりするには、「Google 又は GSuite にアカウントを持っていなくてはなりません](https://support.google.com/meet/answer/7317473?hl=ja&ref_topic=7306097)。
 
-We're using G Suite, so even before the global COVID19 pandemic, Google Meet (previously Hangouts) was our
-default video conferencing tool, simply because when you schedule a meeting on
-the Calendar, there is an option to use Google Meet for that meeting.
+私達は、G Suite を使っているので、コロナウイルスが世界的に大流行する前でも、
+Google Meet（以前のハングアウト）はデフォルトのビデオ会議ツールでした。
+カレンダーで会議をスケジュールする際、『その会議を Google Meetで行う』というオプションがあるからです。
 
-Every time you schedule a meeting, you'll get a unique link that
-you can send over email or chat. Clicking on that link will allow anyone to join
-the video call. Guests (people who are not part of your G Suite organization or someone not signed
-in to her Google account) requires permission from someone who is already in the
-meeting, but can still join the video conference.
+会議をスケジュールするたび、固有のリンクが作成されて、メールやチャットで送信できます。
+そのリンクをクリックすれば、誰でもビデオ会議に参加できるのです。
+ゲスト（G Suite組織に属していない人、または該当のGoogleアカウントにサインインしていない人）が参加するには、
+その会議に参加中の人や、その会議に参加権のある人からの許可が必要になります。
 
-Google Meet is pretty easy to use, and the one-click link functionality, without
-having to register for guests, makes it one of the easiest ways to have a
-video conference with people outside of our company.
+Google Meetは非常に使いやすく、ゲストを登録しなくてもワンクリックリンク機能を使用できるため、
+社外の人とビデオ会議を行う場合、一番簡単な選択肢かもしれません。
 
-If you're using Meet from G Suite though, you'll get access to a [Meet quality
-tool dashboard](https://support.google.com/a/answer/9204857?hl=en) which shows
-data that can help debug issues with your meetings.
+G SuiteのMeetを使用している場合、会議ツールの問題のデバッグに役立つデータを表示してくれる [Meet 品質管理ツール](https://support.google.com/a/answer/9204857?hl=ja) にアクセスできます。
 
 ![How Meet looks like]({filename}/images/video-conferencing-review/meet-screenshot.png)
 
-Like other web-browser based solution, Meet puts a significant amount of stress
-on your computer, and some of our team members complained that after a short
-time on a call, their laptops become hot. The Meet quality tool dashboard
-shows CPU utilization going up to 40% for some of our participants, but at the
-same time the dashboard says that if it's under 80% (?) it's normal.
+他のWebブラウザーベースのソリューションもそうなのですが、Meetはコンピューターにかなりのストレスをかけるため、
+チームの中には、短時間の通話の後でさえ、ラップトップが熱くなると言う人もいました。
+Meet品質ツールのダッシュボードには、参加者の中にはCPU使用率が最大40％になっている人があることが示されていますが、
+同時に、ダッシュボードには、80％（？）未満であれば正常であるとも書いてあります。
 
-You can also record your video conferences on Meet, but you'd have to [subscribe
-to the G Suite Enterprise edition](https://support.google.com/a/answer/7557052?hl=en), which is too expensive for us.
+ビデオ会議をMeetで録画することも可能ですが、[G Suite Enterprise版に登録しなくてはなりません](https://support.google.com/a/answer/7557052?hl=ja)。
+これは私達には高価すぎます。
 
-**In terms of call quality and user experience, we give it 3.67 out of 5.**
-This is very subjective though, and is based on user feedback after each meeting:
-We don't have hard numbers such as data drop rate and jitter to compare the quality for each of
-the services that we tried, and to be fair, there are too many moving parts (such as WiFi interference)
-that is required to get your internet video conferencing quality to an acceptable level
-all the time, so your mileage may vary.
+**通話品質とユーザーエクスペリエンスの観点から、5点満点中 3.67点とします。**
+ただし、この評価は非常に主観的なものであり、各会議後のユーザー評価に基づいています。
+試行した各サービスの品質を比較するためのデータドロップ率やジッターなどの厳密な数値はありません。
+公平を期すために、インターネットビデオ会議の品質を常に許容レベルにするために必要な可動部品（WiFi干渉など）が多すぎるため、
+有用性に違いが出る場合があります。
 
-Meet has mobile clients for Android and iOS, and if you're joining from a
-computer, you just need the browser and don't have to install anything.
+MeetにはAndroidとiOS用のモバイルクライアントがあり、コンピューターから参加する場合は、ブラウザーが必要なだけで、何もインストールする必要はありません。
 
-At the end of April 2020, Google has made [Meet free for everyone](https://www.forbes.com/sites/ilkerkoksal/2020/04/30/google-meet-is-now-free-for-everyone/#5dcefde44a0a), and if you're already G Suite user, you
-already paying for it. Meet can support up to 100 participants at any one time,
-and by default a call can last up to 60 minutes.
+2020年4月末に、Googleは [Meetを無制限で無償提供しました](https://apps.google.com/intl/ja/meet/)。
+すでにG Suiteを使用している場合には、料金を支払っていることになります。
+Meetは、一度に最大100人の参加者をサポートでき、デフォルトでは、通話時間は最大60分継続できます。
+
 
 ### [Slack](https://slack.com/)
 
