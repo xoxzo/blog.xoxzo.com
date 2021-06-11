@@ -103,26 +103,26 @@ Meetは、一度に最大100人の参加者をサポートでき、デフォル�
 
 ### [Slack](https://slack.com/)
 
-If you're also using Slack like us, you'll know that Slack also has its own
-[video conferencing tool](https://slack.com/help/articles/216771908-Make-calls-in-Slack).
+私たち同様、Slackを使用している方なら、Slackにも
+[独自のビデオ会議ツール](https://slack.com/help/articles/216771908-Make-calls-in-Slack)が
+備わっていることをご存知でしょう。
 
-You can only make video calls to a person who is in the same Slack workspace as
-you are, so getting external clients to your Slack calls will not work,
-unless you include them as guests.
+Slackワークスペース内の相手にのみビデオ通話を発信できるため、Slack通話には、ゲストとして含めない限り、
+外部の顧客等を接続することができません。
 
-There is a limit of up to 15 people on a Slack video call. Although Slack has a
-mobile app, video calls are only available from the desktop. You can still join
-a call from the mobile app but audio only.
+Slackビデオ通話には、最大15人という人数制限があります。
+Slackにはモバイルアプリがありますが、ビデオ通話が利用できるのは、デスクトップからのみです。
+モバイルアプリから通話に参加することは可能ですが、音声のみとなります。
 
-Since we're always on Slack during office hours, it's the easiest way for us to
-initiate video or voice calls. Just initiate a call on the Slack app, and invite
-anyone in your workspace to it. The invited person will get a continuous
-notification (like an incoming phone call) on her mobile app or desktop.
+私達の場合、就業時間中は常にSlackを使用しているため、ビデオ通話や音声通話を開始する際、最も身近な方法になります。
+Slackアプリで通話を開始し、ワークスペース内の誰でも招待すれば良いのです。
+招待された人には、モバイルアプリまたはデスクトップに通知（電話の着信など）が来ます。
 
-You can't do much with your calls on Slack though, like recording it. But since [Slack
-can be used for free](https://www.theverge.com/2020/3/30/21194567/slack-account-set-up-instant-direct-messaging-channels-work-from-home-remote-office), this means your video calls will also be free.
+Slack アプリでの通話では、録音等、多くの追加機能は利用できません。
+ただし、[Slack自体が無料で使用できる](https://slack.com/intl/ja-jp/pricing)ため、ビデオ通話機能も無料になります。
 
-**In terms of call quality and user experience, we give it 3 out of 5.**
+
+**通話品質とユーザーエクスペリエンスの観点から、5点満点中 3点とします。**
 
 ### [Zoom](https://www.zoom.us/)
 
