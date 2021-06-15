@@ -11,7 +11,9 @@ APIからのSMS配信で重要な要素のひとつとなるのが、送信元ID
 
 [XoxzoのKプレミアムサービス](https://help.xoxzo.com/ja/xoxzo-cloud-telephony/articles/the-k-premium-service/)では、
 事前登録いただいた番号を送信時にパラメーターで引用して配信することで、送信時に使われる送信元IDを固定することができます。
-KDDI/Docomo/Rakuten 向け配信：事前登録した番号
+
+KDDI/Docomo/Rakuten 向け配信：事前登録した番号<br>
+ソフトバンク向け配信：固定のショートコード
 
 
 ## ショートコードの変更
