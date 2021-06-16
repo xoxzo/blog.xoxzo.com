@@ -126,48 +126,39 @@ Slack アプリでの通話では、録音等、多くの追加機能は利用�
 
 ### [Zoom](https://www.zoom.us/)
 
-Zoom has been getting **A LOT** of attention lately, when its usage soared due
-to event hosts needing a way to do webinars and school needing to do online
-classes at scale. Unfortunately, for the most part, it has been negative attention
-focused on its security aspects. Some high profile organizations and companies
-such as NASA, Google and even some countries such as Taiwan and Germany have [banned its use](https://www.techrepublic.com/article/who-has-banned-zoom-google-nasa-and-more/). To its credit, Zoom is taking these security concerns [seriously](https://www.reuters.com/article/us-zoom-video-commn-privacy/video-service-zoom-taking-security-seriously-u-s-government-memo-idUSKBN21P2RD).
+イベント主催者はウェビナーの実施手段が必要となり、
+学校は大人数でのオンライン授業を実施する必要に迫られ、Zoomの使用が**急増**しました。
+最近、多くの注目を集めていますが、残念ながら、注目材料は、ほぼセキュリティの側面に焦点を当てた否定的なものとなっています。
+NASA、Google などの有名な組織や企業、さらには台湾やドイツなどの国でさえ、Zoomの使用を禁止しています。[(英語記事)](https://www.techrepublic.com/article/who-has-banned-zoom-google-nasa-and-more/)この評判に、Zoom はそういったセキュリティ上の懸念を真剣に受け止めています。[(関連英語記事)](https://www.reuters.com/article/us-zoom-video-commn-privacy/video-service-zoom-taking-security-seriously-u-s-government-memo-idUSKBN21P2RD)
 
-If you're not working for the government, or doing work that is extremely critical or sensitive to not be leaked to the public, Zoom can still be a viable tool
-for your video conferencing needs.
+政府で働いていたり、または一般公開できない非常に重要な、機密性の高い作業を行っていなくても、Zoomはビデオ会議のニーズに対応でき得るツールです。
 
-You can use Zoom for free: After registering, [your free plan allows you to have
-video calls up to 40 minutes for conferences of more than two people](https://zoom.us/pricing).
-If you require recording, then you'll have to subscribe to the Pro plan. You can
-see how the recording looks like [here](https://www.youtube.com/watch?v=Rb2IkTvHGxY).
+Zoom は無料で利用できます: 登録後、[無料プランなら 2 人以上の会議で最大 40 分のビデオ通話が可能です](https://zoom.us/pricing)。
+録音が必要な場合は、Proプランに登録しなくてはなりません。会議録画の感じは [こちらから](https://www.youtube.com/watch?v=Rb2IkTvHGxY)ご覧いただけます。
 
-Zoom also has a [client for Linux](https://support.zoom.us/hc/en-us/articles/204206269-Installing-or-updating-Zoom-on-Linux)
+
+Zoom には [Linux用のクライアント](https://support.zoom.us/hc/ja/articles/204206269-Installing-or-updating-Zoom-on-Linux)もあります。
 
 ![How Zoom meetings look like]({filename}/images/video-conferencing-review/zoom-screenshot.png)
 
-Zoom also has the famous virtual background functionality that allows you to
-change yours to an image of your choice.
+Zoomには、お好みの画像に変更できる、人気の仮想背景機能もあります。
 
-Zoom is the most complicated tool among all that we have tested. It has a whole
-bunch of settings for your personal meeting, or organization-wide meetings. You
-can make passwords required for all your meetings or specify which country your
-data gets passed through.
+Zoomは、私たちが試したビデオ通話ツールの中でも、相当複雑なものでした。
+個人的な会議や組織全体の会議のために、設定する項目がたくさんあります。
+すべての会議をパスワード必須にすることも可能で、データの通過国も指定できます。
 
-Joining via a link through the browser is also enabled. If you use the browser
-instead of a native client, some functionalities like the virtual background
-will not be available.
+リンクからの、ブラウザを使った参加も有効にできます。
+ネイティブクライアントではなくブラウザを使用する場合、仮想背景等、一部の機能は使用できません。
 
-One functionality that we find cool, although we don't really use it, is the
-collaborative whiteboard. It is just like the name says: During a conference
-call, multiple people can write on a virtual whiteboard. It is still clunky as
-expected (try drawing a decent round shape using your mouse) but might be useful
-to some teams.
+私たちはあまり使用していませんが、すごいと思うのものに、コラボレーションホワイトボード機能があります。名前が示すとおりです。
+電話会議中に、複数の人が仮想ホワイトボードに書き込むことができるのです。
+予想どおり、まだ不格好ではありますが（マウスを使用してまともな丸い形を描いてみてください）、役立つ人には、役立つと思われます。
 
-Another functionality that we find unique is the so-called breakout rooms: As a
-host, you can assign some portion of your call participants to different groups,
-just like breakout rooms in real-life conferences. As the host, you can move
-between rooms, but the participants can't and will only be able to talk to those
-in the same room as them. As host, you can then join all of them back into one
-big conference.
+もう一つ、ユニークだと思う機能は、いわゆる小会議室です。実際の会議でグループ分けするように、
+ホストが通話参加者をさまざまなグループに小分けすることができるのです。
+ホストであれば、分かれた部屋を移動することが可能ですが、参加者は同じ部屋にいる人としか話すことができず、移動することもできません。
+ホストは、すべてのグループをもとの大会議室に戻すことが可能です。
+
 
 **In terms of call quality and user experience, we give it 3.5 out of 5.**
 
