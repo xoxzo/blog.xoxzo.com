@@ -164,43 +164,45 @@ Zoomは、私たちが試したビデオ通話ツールの中でも、相当複�
 
 ### [Whereby](https://whereby.com/)
 
-This Norway-based startup, [previously known as appear.in](https://medium.com/the-making-of-whereby/appear-in-is-now-whereby-b258d77d3ad9)
-has perhaps the simplest way to start a video conference call, and is the simplest to use
-among those that we have tried.
+ノルウェーを拠点とするこのスタートアップは、以前は [appear.in]((https://medium.com/the-making-of-whereby/appear-in-is-now-whereby-b258d77d3ad9)) として知られており、
+ビデオ会議のスタート方法が、おそらく一番簡単だと言えるでしょう。
+私たちが試した中では確実に、一番簡単に利用できました。
 
 ![How Whereby meetings look like]({filename}/images/video-conferencing-review/team-camp-2020-group-picture.png)
 
-Like Google Meet, meetings are defined by links, which you can share with other
-people through email or chat. Whereby has the concepts of "Rooms", "Hosts" and
-"Participants".
+Google Meetと同様に、会議はリンクによって定義されるので、メールやチャットを通じて参加者と共有できます。
+Wherebyには「部屋」「ホスト」「参加者」の概念があります。
 
-Whereby [has a free plan, and two paid plans (Pro and Business)](https://whereby.com/information/pricing/).
-You can try Whereby for free, but you'll be limited to only four participants in a
-conference. The Pro plan allows you to go beyond this limit to 12 people in a
-conference, and also recording for an additional USD5/month. The Business plan
-allows more control in terms of locking rooms, more "rooms", more participants
-in a single conference (up to 50) and a vanity subdomain for your organization.
 
-After registering, you get to create a "room", which is a fixed link which you
-and anyone you want to have a conference with can go to using the browser and
-start the video call straight away. If the room is "unlocked", anyone can
-go to the link and start a video conference. If it's "locked", only the room owner
-(or if it's a "team room", anyone in your organization) can start the
-conference.
+[Whereby には無料プランと、有料プランが2つ (Pro と Business)あります](https://whereby.com/information/pricing/)。
+Wherebyを無料で試すことは可能ですが、会議の参加人数は4人に制限されます。
+Proプランでは、この制限を超えて、12人まで参加することができ、月額5米ドルの追加料金で会議を録画することもできます。
+Businessプランでは、「部屋」へのアクセス制限がより制御可能となったり、複数の「部屋」、会議1つあたりの参加者枠拡大（最大50人）ができたり、
+また、組織のサブドメイン表示等ができるようになります。
 
-Confused?
+登録すると「部屋」を作成することになります。
+これは、あなたと、あなたが会議を開きたい相手が、ブラウザを使用してすぐにでもビデオ通話を開始できる固定のリンクです。
+部屋の鍵があいていれば、リンクにアクセスし、誰でもビデオ会議を開始できるのです。
+鍵のかかっている場合は、会議室の所有者（または「チームルーム」の場合は、その組織内の誰でも）のみが会議を開始できます。
 
-Well, we tried the Business plan and it was confusing, so I emailed Whereby's support and this is what they say:
+わかりにくいですか？
 
-> **Personal Rooms**
-> When we first started the business plan the concept was modeling a physical office building:
+ですよね、私たちはビジネスプランを試したのですが、わかりづらかったので、Wherebyのサポートにメールを送りました。すると、こういう返答が。
+
+
+> **個別の部屋s**
+> Business プランを開始した当初、物理的なオフィス ビルディングをモデル化することがコンセプトでした。
+> 各従業員が自分のオフィス (個別の部屋) を持っていて、そこで 1 対 1 の会議を開いたり、クライアントとチャットしたりできるのです。
+> 従業員だけが自分の部屋の鍵を持っています。個別の部屋を所有している従業員のみが、鍵の開閉をできるのです。
 > Each employee has their own office (personal room) where they can hold one on one meetings or
 > chat with clients. Only the employee has a key to their personal room. Only the employee that
 > owns the personal room can unlock/lock them.
 >
-> **Team rooms** are like conference rooms where each employee (user registered on the Whereby account)
-> has the key to a team room. They can lock the room or unlock it when need be.
->
+> **チーム ルーム**は、各従業員 (Whereby アカウントに登録されているユーザー) が鍵を持っている会議室のようなものです。
+> 必要に応じて、部屋に鍵をかけたり、開けたりできます。
+> 個人用の部屋の要件については、現在議論中です。
+> 弊社経営陣は、当サービスのさまざまな側面を変更していく必要があるため、UIデザイン、価格設定の形式、データベースの更新などの変更の加えていくかを話し合っているところです。
+個人用の部屋の要件については、現在議論中です。弊社経営陣は、当サービスのさまざまな側面を変更していく必要があるため、UIデザイン、価格設定の形式、データベースの更新などの変更の追加方法を議論中です。
 > I did want to let you know that the personal room requirement is a current discussion we are having.
 > Our management team is in the process of discussing how to make this kind of change in the product as
 > it entails multiple facets of the business to change, ie. UI design, pricing model, database updates, etc.
