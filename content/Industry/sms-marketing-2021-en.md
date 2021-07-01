@@ -1,7 +1,7 @@
 Title: SMS Marketing: Best Practices in 2021
 Date: 2021-1-20 12:00
 Author: Jocelyn ter Morsche
-Tags: sms; marketing; business; industry
+Tags: sms; marketing; business; industry; 2021;
 Slug: sms-marketing-2021
 Lang: en
 Thumbnail: images/close-up-hand-with-smartphone-world-map.jpg

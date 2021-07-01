@@ -39,7 +39,7 @@ We have also asked all our employees to obey local laws and instructions from lo
 and help to stop the spread of the virus.
 
 Having said that, the mental health of our employees cannot be forgotten or even
-understated. Working remotely puts a [unique mental stresses on remote workers]({filename}/The Way We Work/Pitfalls-Remote-Work-en.md),
+understated. Working remotely puts a [unique mental stresses on remote workers]({filename}/The Way We Work/pitfalls-remote-work-en.md),
 and we have always put efforts to constantly monitor and alleviate this stress.
 These efforts, of course, are continuous and did not start and will not stop with the COVID-19 crisis.
 
