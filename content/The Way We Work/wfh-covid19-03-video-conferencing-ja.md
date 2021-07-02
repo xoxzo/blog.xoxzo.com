@@ -160,7 +160,7 @@ Zoomは、私たちが試したビデオ通話ツールの中でも、相当複�
 ホストは、すべてのグループをもとの大会議室に戻すことが可能です。
 
 
-**In terms of call quality and user experience, we give it 3.5 out of 5.**
+**通話品質とユーザーエクスペリエンスの観点から、5点満点中 3.5点とします。**
 
 ### [Whereby](https://whereby.com/)
 
@@ -190,7 +190,7 @@ Businessプランでは、「部屋」へのアクセス制限がより制御可
 ですよね、私たちはビジネスプランを試したのですが、わかりづらかったので、Wherebyのサポートにメールを送りました。すると、こういう返答が。
 
 
-> **個別の部屋s**
+> **個別の部屋**
 > Business プランを開始した当初、物理的なオフィス ビルディングをモデル化することがコンセプトでした。
 > 各従業員が自分のオフィス (個別の部屋) を持っていて、そこで 1 対 1 の会議を開いたり、クライアントとチャットしたりできるのです。
 > 従業員だけが自分の部屋の鍵を持っています。個別の部屋を所有している従業員のみが、鍵の開閉をできるのです。
@@ -202,56 +202,46 @@ Businessプランでは、「部屋」へのアクセス制限がより制御可
 > 必要に応じて、部屋に鍵をかけたり、開けたりできます。
 > 個人用の部屋の要件については、現在議論中です。
 > 弊社経営陣は、当サービスのさまざまな側面を変更していく必要があるため、UIデザイン、価格設定の形式、データベースの更新などの変更の加えていくかを話し合っているところです。
-個人用の部屋の要件については、現在議論中です。弊社経営陣は、当サービスのさまざまな側面を変更していく必要があるため、UIデザイン、価格設定の形式、データベースの更新などの変更の追加方法を議論中です。
-> I did want to let you know that the personal room requirement is a current discussion we are having.
-> Our management team is in the process of discussing how to make this kind of change in the product as
-> it entails multiple facets of the business to change, ie. UI design, pricing model, database updates, etc.
 >
-> **Locking Rights**
-> The type of room does play a huge part about who will be allowed to lock and let people in.
+> **施錠権限s**
+> 各部屋タイプは、施錠を行い、会議参加者を入室させる行為において、重要な役割を果たしているのです。
+> 
+> **個別の部屋**
+> 個別の部屋の場合 自分用の個別の部屋を作成した人だけが 施錠/解除して、ノックした参加者を入室させることができます。
+> 部屋の施錠が解除されている場合、外部・内部の参加者すべてが入室可能となります。
+> 一方、部屋が施錠されている場合は、内部の参加者を含む全員がノックしてから個別の部屋に入ることになります（自分以外が所有している部屋です）。
+> 施錠されているときに、その部屋に入室できるとできない人をフィルタリングする方法はないため、参加者の入室を許可するには、部屋の所有者が立ち会う必要があります。
 >
-> **Personal Rooms**
-> Only the person that created their own personal room will be able to lock/unlock and let in knocking users.
-> If the room is unlocked, all external and internal participants will be able to enter.
-> On the other hand if the room is locked, everyone including internal participants will have to knock
-> to enter the personal room (that is not their own).
-> There isn't a way to filter who can and cannot come in the room when locked so the room owner will need to
-> be present to allow participants in.
->
-> **Team Rooms**
-> Team rooms are considered "shared" rooms for the entire team on the business plan. So anyone that is on the
-> business plan (that has their own login) will be able to lock/unlock the room and allow people in.
-> This means that if someone knocks on the room anyone signed in as a Business user, will be able to let them in.
+> **チームルーム**
+> チーム ルーム は、ビジネス プランのチーム全体の「共有」ルームと見なします。
+> したがって、ビジネスプランに含まれる（自分でログインしている）人は誰でも、部屋の施錠/施錠解除を行って、入室を許可することができるのです。
+> これは、ビジネスユーザーとしてサインインしている人なら誰でも、部屋をノックした人を入室させることができるという意味です。
 
-You can also record your Whereby calls. Unlike Zoom which uses its own client on
-the computer, Whereby recordings are more like a screencast: This means it records *everything*
-that you see on your browser, including the cursor movement unlike Zoom. When you start the recording,
-it allows you to choose a particular tab on your browser to be recorded. 
+Wherebyでは、また、会議録画をすることもできます。
+パソコン内で、独自のクライアントを使用する Zoom とは異なり、Whereby の録画はスクリーンキャストのようなものです。
+つまり、Zoom の録画とは異なり、カーソルの動きを含めたブラウザー表示のすべて を記録するのです。
+録画開始時に、ブラウザのタブを選択して、録画できます。
 
-We had issues when some participants can't hear audio from some of the others. After asking Whereby support about this, it
-looks like it's a known issue with Edge and Safari browsers.
 
-Whereby seemed at first to be a good alternative for Meet and due to its simplicity, it
-seemed like a good way to have conferences with external people. But the audio
-issue with the browsers is a deal-breaker because we can't specify to our clients or
-partners which browser to use when we have video calls with them. It will be
-frustrating and embarrassing when suddenly we can't hear each other during a
-conference call.
+私たちの使用時に、参加者のひとりが、他の参加者の音声が聞こえない、という問題が発生しました。
+サポートに問い合わせたところ、EdgeおよびSafariブラウザ使用時の、既知の問題のようです。
 
-The other downside that we found out was that using Whereby for calls of 10
-people made our laptops go overheat and sluggish. This is being experienced by
-multiple members of the team. I'm using Ubuntu Linux with 16GB of RAM on eight logical cores
-and during our Whereby calls my system load average was 8. It was the highest
-of all the tools that we tried. I did not see the same issue for smaller
-calls like two or four people.
+ということで、Wherebyのシンプルさは当初、Meetの代替手段として、外部の人との会議をする方法として優秀であるように思えていました。
+ただ、顧客や取引先に、ビデオ会議に使用するブラウザまで指定できないので、ブラウザの音声問題は重大問題と言えます。
+ビデオ会議中に突然お互いの声が聞こえなくなると、イライラしたり恥ずかしい思いをすることになってしまいます。
 
-**In terms of call quality and user experience, we give it 2.6 out of 5.**
+また、さらなる欠点が見つかったのですが、Wherebyを10人参加のビデオ会議に使用した際、ラップトップが過熱して動作が遅くなってしまったのです。
+チーム内の複数のメンバーに、起こっていました。
+私は8つの論理コアに16GBのRAMを搭載した UbuntuLinux を使用しているのですが、Whereby使用中のシステムの平均負荷は、8でした。
+私たちが試したツールの中では、この負荷は最高値でした。
+2人とか4人のような小規模のビデオ会議では、この問題は確認されませんでした。
+
+**通話品質とユーザーエクスペリエンスの観点から、5点満点中 2.6点とします。**
 
 ### [BlueJeans](https://www.bluejeans.com/)
 
-[BlueJeans](https://www.bluejeans.com/) is a video conferencing tool somewhat
-similiar in usage to Zoom. It was [acquired by Verizon in April 2020](https://www.businessinsider.com/verizon-acquires-bluejeans-to-expand-b2b-ecosystem-2020-4)
-at the height of the COVID19 pandemic.
+[BlueJeans](https://www.bluejeans.com/) は、Zoom に使い方が似ているビデオ会議ツールです。
+[2020年4月、新型コロナウイルスの世界的感染拡大のさなか、Verizonに買収されました。](https://www.businessinsider.com/verizon-acquires-bluejeans-to-expand-b2b-ecosystem-2020-4)
 
 BlueJeans has three products: BlueJeans Meetings, BlueJeans Events and BlueJeans Rooms.
 It also has a [deb package for Linux](https://www.bluejeans.com/downloads)
