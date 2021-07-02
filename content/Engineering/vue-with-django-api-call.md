@@ -6,7 +6,7 @@ Slug: vue-with-django-rest-framework-api
 Lang: en
 Summary: Learn how to use Django Rest Framework API with Vue
 
-API request is one of the important part in web development. Pair with Django Rest Framework, lets see how can we integrate Django Rest API with Vue
+API request is one of the important part in web development. Pair with Django Rest Framework, lets see how can we integrate Django Rest API with Vue.
 
 ## Install Axios
 
