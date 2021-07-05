@@ -66,4 +66,66 @@ Xoxzoでは、ユーザーからこの問題を聞いて、ソリューション
 受信者は、入力されたURLが [https://xoz.so/XYZ](https://xoz.so/XYZ) のような自動生成されたショートリンクに置き換えられた、SMSメッセージを受信します。
 この機能をテストするために、受信したメッセージ内のリンクをクリックしてみましょう。 送信時に入力したメッセージにあった、元のURLにリダイレクトされます。
 
+4. **リンクのステータスを確認しましょう。**<br />
+まず、ご利用ログをダウンロードしてみましょう。トップバーのメニューをクリックして、ご利用ログページを見ましょう。
+そこで、ご希望の送信日で日付範囲を選択し、ログをダウンロードしてください。送信したメッセージには、リンクトラッキングのステータスに0が表示されます。
+<br />
+これは、まだこのリンクがアクセスされていないことを意味します。機能をテストするために、受信したメッセージ内のリンクをクリックしてみましょう。
+テキストメッセージに配置した元のURLにリダイレクトされます。それから、もう一回ご利用ログをダウンロードしてみてください。
+リンクトラッキングのステータスが0から1に変更されていることをご確認いただけます。
 
+## [Xoxzo SMS API](https://help.xoxzo.com/ja/xoxzo-cloud-telephony/articles/what-is-link-tracking/)で リンクトラッキングを活用する
+
+自分のサービスでこの機能を使用する場合、またはAPIを使用する場合は、これがXoxzoAPIでどのように機能するかを見てみましょう。手順を見ていきましょう。
+
+1. **APIを使用してSMSメッセージを送信しましょう**<br />
+[Xoxzo](http://www.xoxzo.com)に登録したらアカウントにログインして、新しいapiユーザーを作成すると、SIDとトークンにアクセスできるようになります。それができたら、curl コマンドラインツールを使用して下記のリクエストを作成します（でもまだ、Returnキーを押さないでください）<br />
+
+ **_curl -u &lt;SID>:&lt;AUTH_TOKEN> --data-urlencode 'recipient=&lt;recipient>' --data-urlencode 'sender=&lt;sender>' --data-urlencode 'message=&lt;message>' https://api.xoxzo.com/sms/messages/_**
+ 
+ 2. **リンクトラッキングを有効にしましょう**<br />
+
+curl コマンドの最後に**track_link=true**というパラメーターを追加しましょう。完成形の curlコマンドは次のようになります- <br />
+ **_curl -u &lt;SID>:&lt;AUTH_TOKEN> --data-urlencode 'recipient=&lt;recipient>' --data-urlencode 'sender=&lt;sender>' --data-urlencode 'message=&lt;message>' --data-urlencode ‘track_link=true’ https://api.xoxzo.com/sms/messages/_**
+ 
+ 3. **StatusAPIで、SMSのステータスを確認しましょう**<br />
+
+メッセージを送信すると、送信したSMSの識別子である **msgid** が返されます。
+個々のメッセージのステータスを確認するには、次のようなcurlコマンドでステータスAPIを使用できます。- <br />
+
+**_curl -u &lt;SID>:&lt;AUTH_TOKEN> https://api.xoxzo.com/sms/messages/&lt;msgid>/_**<br />
+
+    _(このエンドポイントの最後尾の <msgid> を省略すると、複数のメッセージをチェックできます。_<br />
+    **_curl -u &lt;SID>:&lt;AUTH_TOKEN> https://api.xoxzo.com/sms/messages/_**
+
+このcurlのレスポンスにて、リンクトラッキングの詳細を次のように表示できます。- <br />
+
+```
+{
+    "cost": 15.0,
+    "link_tracking": {
+        "accessed": true,
+        "accessed_on": "2020-10-09 02:40:39",
+        "link": "http://www.example.com",
+        "shortlink": "https://xoz.so/dbNL4"
+    },
+    "msgid": "oxgyFO6tfwYkHLIMbURrz5smCv9QT423",
+    "recipient": "+818012345678",
+    "sender": "XOXZO",
+    "sent_time": "2020-10-09 02:37:47",
+    "status": "DELIVERED",
+    "tags": [],
+    "url": "https://api.xoxzo.com/sms/messages/oxgyFO6tfwYkHLIMbURrz5smCv9QT423/"
+}
+```
+
+**リンクがクリックされたときに通知を受け取るためのコールバックURLを設定（オプション）：**<br />
+メッセージ内のリンクがクリックされたら通知を受けられるように、コールバックURLを設定可能です。
+実行するには、上記の curl に **「lt_callbackurl」** というパラメーターを追加して、リクエストを受信するカスタムエンドポイントを設定します。
+テストするには、コールバックURLを作成する[「requestbin」](https://requestbin.com/)などの無料ツールを使用できます。<br />
+
+**_curl -u &lt;SID>:&lt;AUTH_TOKEN> --data-urlencode 'recipient=&lt;recipient>' --data-urlencode 'sender=&lt;sender>' --data-urlencode 'message=&lt;message>' --data-urlencode ‘track_link=true’ --data-urlencode ‘lt_callbackurl=example.com/callback/’  https://api.xoxzo.com/sms/messages/_**
+
+Xoxzo APIが、指定したエンドポイントに、リンクがクリックされた際の情報をすべて送信し、すぐに次のアクションを実行できるようになります。
+
+この機能の詳細については、[APIドキュメント](https://docs.xoxzo.com/ja/sms.html#send-sms-messages-api)をご覧ください。 APIへのアクセスに問題がある場合は、遠慮なく[help@xoxzo.com](mailto:help@xoxzo.com)までご連絡ください。 皆様からのフィードバックをお待ちしております。
