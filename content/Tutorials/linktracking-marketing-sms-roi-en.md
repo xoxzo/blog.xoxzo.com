@@ -1,7 +1,7 @@
 Title: How to measure Return On Investment of your SMS marketing campaign
 Date: 2021-03-01 12:00
 Author: Surya Banerjee
-Tags: Tutorial; LinkTracking;
+Tags: Tutorial; LinkTracking; 2021;
 Slug: introduction-linktracking
 Lang: en
 Summary: Learn how to use linktracking on EZSMS and Xoxzo API
