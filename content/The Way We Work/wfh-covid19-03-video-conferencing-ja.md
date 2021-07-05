@@ -194,9 +194,6 @@ Businessプランでは、「部屋」へのアクセス制限がより制御可
 > Business プランを開始した当初、物理的なオフィス ビルディングをモデル化することがコンセプトでした。
 > 各従業員が自分のオフィス (個別の部屋) を持っていて、そこで 1 対 1 の会議を開いたり、クライアントとチャットしたりできるのです。
 > 従業員だけが自分の部屋の鍵を持っています。個別の部屋を所有している従業員のみが、鍵の開閉をできるのです。
-> Each employee has their own office (personal room) where they can hold one on one meetings or
-> chat with clients. Only the employee has a key to their personal room. Only the employee that
-> owns the personal room can unlock/lock them.
 >
 > **チーム ルーム**は、各従業員 (Whereby アカウントに登録されているユーザー) が鍵を持っている会議室のようなものです。
 > 必要に応じて、部屋に鍵をかけたり、開けたりできます。
@@ -243,44 +240,32 @@ Wherebyでは、また、会議録画をすることもできます。
 [BlueJeans](https://www.bluejeans.com/) は、Zoom に使い方が似ているビデオ会議ツールです。
 [2020年4月、新型コロナウイルスの世界的感染拡大のさなか、Verizonに買収されました。](https://www.businessinsider.com/verizon-acquires-bluejeans-to-expand-b2b-ecosystem-2020-4)
 
-BlueJeans has three products: BlueJeans Meetings, BlueJeans Events and BlueJeans Rooms.
-It also has a [deb package for Linux](https://www.bluejeans.com/downloads)
+BlueJeansには、BlueJeans Meetings、BlueJeans Events と BlueJeansRoomsの3つの製品があります。
+[Linux 用の deb パッケージ](https://www.bluejeans.com/downloads)もあります。
 
-BlueJeans Events is a product tailored for large webinars, such as company town halls, school classes or
-even shareholders annual general meetings. BlueJeans Rooms is a product for physical meeting rooms
-in your office. We're only interested in BlueJeans Meetings which is the product
-for video conferencing so we signed up for the [free 7-day
-trial](https://www.bluejeans.com/trial/experience/).
+BlueJeans Eventsは、企業のタウンホール、学校のクラス、さらには株主総会などの大規模なウェビナー向けの製品です。
+BlueJeans Roomsは、オフィス内の物理的な会議室向けの製品です。
+私たちは、ビデオ会議用である BlueJeans Meetings にのみ興味があったため、[7日間の無料トライアル[free 7-day
+trial](https://www.bluejeans.com/trial/experience/)に登録しました。
 
-In terms of [pricing](https://store.bluejeans.com/), they charge you per
-*host*, and based on the Standard or Pro plan, what each host can do will
-differ.
 
-In terms of settings for your account, it was very detailed and as complicated as Zoom.
+[価格](https://store.bluejeans.com/)に関しては、*ホスト* ごとへの課金となり、Standard と Proプランによって、各ホストができることが異なっています。
 
-We did one test conference call with all of our team members (10 people) but
-unfortunately it didn't work well: The audio quality was not good for multiple
-participants (there was the typical talking-under-water issue) and some of the
-participants took longer than usual to join the conference call from the link
-through their browser.
+アカウントの設定に関しては、Zoomと同じくらい細かく、複雑でした。
 
-**In terms of call quality and user experience, we give it 2 out of 5.**
+チームメンバー全員（10人）で、1度ビデオ会議を試しに行いましたが、残念ながらうまくいきませんでした。
+複数のメンバーが、低品質な音声（よくある、『水中での会話』のような問題）をうったえました。
+ブラウザを使って、リンクからビデオ会議に参加するのに通常よりも時間がかかったというメンバーもいました。
 
-## In Summary
 
-Many choices exist for us now for video conferencing tools, from free to paid options, 
-for large teams and webinars. Some video conferencing tools like Zoom and
-BlueJeans allow you to tailor them to your needs through many settings, while others
-like Meet or Whereby try to make it as easy as possible for you to just use
-them. In the end, it's up to you to decide which fits best for you and your
-team.
+**通話品質とユーザーエクスペリエンスの観点から、5点満点中 2点とします。**
 
-For now, we've settled down with a combination of tools: Google Meet when we
-want to have a conference with external parties or larger internal
-meetings, Zoom when we have public calls which we want to record, and Slack
-video calls for ad-hoc internal short discussions.
+## まとめ
 
-How about you? If you've tested other video conferencing tools or your experience was
-different from ours for the above tools, please feel free to leave a comment on Disqus
-below or contact us by email [help@xoxzo.com](mailto:help@xoxzo.com)
-or via [Twitter](https://twitter.com/xoxzocom/).
+大規模なチームやウェビナー向けに、無料のものから有料のオプションまで、ビデオ会議ツールには多くの選択肢があります。
+Zoom や BlueJeansなどの一部のビデオ会議ツールでは、さまざまな設定をすることで、ニーズに合わせて調整できますが、MeetやWherebyなどでは、できるだけシンプルに使用できるようになっています。結局のところ、あなたとあなたのチームに最適なものを決めるのはあなた次第です。
+
+今のところ、私たちは複数のツールを組み合わせて使うことで落ち着きました。
+外部の関係者との会議や大規模な内部会議が必要な場合は Google Meet、録音したい公開会議がある場合はZoom、社内のちょっとした通話には、Slack通話を使うのです。
+
+あなたは、どうしますか？他のビデオ会議ツールを試したことがあったり、または上記のツールの使用経験が、私たちの見解と異なる場合、下の Disqus にコメントを残すか、[help@xoxzo.com](mailto:help@xoxzo.com) までメールを、または [Twitter](https://twitter.com/xoxzocom/) にてご連絡ください。
