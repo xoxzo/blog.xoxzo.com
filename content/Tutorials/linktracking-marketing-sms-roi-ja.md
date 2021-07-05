@@ -27,21 +27,17 @@ SMSキャンペーンの効果を測定するための賢い方法がありま�
 SMSの本文には、URLを追加するだけです。SMSには文字制限があるため、ランディングページが、見込み客を引きつけるセールストークを行う機会となるのです。
 
 2. **分析ツールを使用してランディングページへのトラフィックを測定する**<br />
-
 SMSマーケティングキャンペーンのランディングページを設定したら、次のステップです。
 ページを訪問しているユーザーの数を測定して識別するのには、Google Analyticsなどの、素敵で無料の分析ツールが役立ちます。SMSマーケティングキャンペーンのパフォーマンスを測定することができます。 
 
 3. **URL短縮ツールの使用**<br />
-
 SMSキャンペーンのパフォーマンスを把握するために、ランディングページや分析ツールを使用することはいい選択肢ですが、残念ながら、実際にランディングページにアクセスしているユーザーの数とトラフィックの量を完全に把握することはできません。
 そこで、リンク短縮ツールが力を発揮します。こういったツールを使用すると、ページのURLを短くしてSMSの本文に占めるURLの文字数を制限したり、クリック数の分析ができます。
 ただし、顧客がリンクをクリックしても、SMSマーケティングキャンペーンのターゲットリストの顧客を見分けることができないため、理想的な選択とは言えません。
 かといって、手動で短縮リンクをいくつも作成して一つずつSMSのメッセージに挿入したりすれば、とんでもない時間がかかってしまいます。
 （10,000人にマーケティングSMSを送信することを想像してみてください！）
 
-
 4. **EZSMSとXoxzo SMS APIで リンクトラッキングを活用**<br />
-
 Xoxzoでは、ユーザーからこの問題を聞いて、ソリューションを考えました。
 そして、ウェブベースのSMS配信プラットフォーム・EZSMSとXoxzo APIで、送信したメッセージ内の[リンクを追跡](https://blog.xoxzo.com/ja/2020/10/15/link-tracking-release/)できるようになりました。
 [SMS API](https://www.xoxzo.com/ja/about/sms-api/)は、各メッセージを個別に追跡できるようにする track_link というオプションパラメーターで、ランディングページのURLを指定するだけです。
@@ -84,12 +80,10 @@ Xoxzoでは、ユーザーからこの問題を聞いて、ソリューション
  **_curl -u &lt;SID>:&lt;AUTH_TOKEN> --data-urlencode 'recipient=&lt;recipient>' --data-urlencode 'sender=&lt;sender>' --data-urlencode 'message=&lt;message>' https://api.xoxzo.com/sms/messages/_**
  
  2. **リンクトラッキングを有効にしましょう**<br />
-
 curl コマンドの最後に**track_link=true**というパラメーターを追加しましょう。完成形の curlコマンドは次のようになります- <br />
  **_curl -u &lt;SID>:&lt;AUTH_TOKEN> --data-urlencode 'recipient=&lt;recipient>' --data-urlencode 'sender=&lt;sender>' --data-urlencode 'message=&lt;message>' --data-urlencode ‘track_link=true’ https://api.xoxzo.com/sms/messages/_**
  
  3. **StatusAPIで、SMSのステータスを確認しましょう**<br />
-
 メッセージを送信すると、送信したSMSの識別子である **msgid** が返されます。
 個々のメッセージのステータスを確認するには、次のようなcurlコマンドでステータスAPIを使用できます。- <br />
 
