@@ -85,6 +85,8 @@ CATEGORY_SAVE_AS = '{slug}/index.html'
 TAG_URL = 'tag/{slug}/'
 TAG_SAVE_AS = 'tag/{slug}/index.html'
 
+SLUGIFY_USE_UNICODE = True
+
 from datetime import date
 CURRENTYEAR = date.today().year
 
