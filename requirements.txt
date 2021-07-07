@@ -1,4 +1,4 @@
-pelican==3.7.1
+pelican==4.6.0
 Jinja2==2.11.3
 markdown
 babel
