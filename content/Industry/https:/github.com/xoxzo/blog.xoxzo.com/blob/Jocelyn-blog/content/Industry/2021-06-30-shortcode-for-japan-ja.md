@@ -1,9 +1,9 @@
-Title: Title: 日本のSMSのショートコード
+Title: 日本のSMSのショートコード
 Date: 2021-06-30 10:00
 Author: Iqbal Abdullah
 Tags: sms; marketing; business; industry; shortcodes; trends; 2021;
 Slug: sms-shortcodes-for-japan
-Lang: en
+Lang: ja
 Thumbnail: images/woman-texting-black-iphone.jpg
 Summary: 日本のSMSのショートコード
 
