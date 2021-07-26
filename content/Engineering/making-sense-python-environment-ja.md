@@ -87,23 +87,30 @@ In practice, you should never use `python` to run your python code. That `python
 
 ## venv
 
-In python3, a module called `venv` is included by default. This is actually coming from a module called `virtualenv` back in Python2 days. On Ubuntu you still need to install it with `sudo apt install python3-venv`. This allow you to create a separate python environment:-
+python3には、`venv`というモジュールが デフォルト で含まれています。これは実際には、python2の時代に`virtualenv`と 呼ば れ たモジュールから来ています。
+Ubuntuでは、`sudo apt install python3-venv`を使用してインストールする必要があります。これにより、別のpython環境を作成できるのです。
 
     python3 -mvenv myenv
 
-This basically create a new copy of python in `myenv` directory. You can see in the directory something like:-
+ということは、基本的に、`myenv`ディレクトリに 新規 pythonのコピーを作成することになります。次のようなものを、ディレクトリに確認できるでしょう。
 
 ```
 ls myenv/
 bin  include  lib  lib64  pyvenv.cfg  share
 ```
 
-You can even create this [manually](https://dev.to/k4ml/python-diy-virtualenv-5e4j) if you want. You'll see there's another "python" in `myenv/bin/python`. This is the "python" that you should use. You can run it as "myenv/bin/python". You'll also notice pip also included by default, so you can run it as "myenv/bin/pip" to install new packages. Many tutorials related to venv will suggest that you run the following command next:-
+必要に応じて、これを [手動で](https://dev.to/k4ml/python-diy-virtualenv-5e4j)作成することもできます。
+`myenv/bin/python` に別の python があるでしょう。これが、あなたが使うべき "python" です。
+"myenv/bin/python" として実行できるものです。また、pipもデフォルトで含まれているので、"myenv/bin/pip" として実行して新しいパッケージをインストールできます。
+venv に関連するチュートリアルでは、たいてい、この後次のコマンドを実行することを勧めています。
+
 
 ```
 source myenv/bin/activate
 ```
 That basically allow you to just type "python" and it will use `myenv/bin/python`. I would advice against this, at least not in the beginning.
+こうすると、基本的に "python" と入力するだけで、`myenv/bin/python` の方が使用されるのです。少なくとも最初のうちは、これには従わないように、アドバイスしたいと思います。
+
 
 When you install some packages like `myenv/bin/pip install requests`, the packages will be "installed" to `myenv/lib/site-packages` directory. You can verify this from python console:-
 
