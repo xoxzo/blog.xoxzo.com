@@ -54,7 +54,6 @@ which python
 /usr/bin/python
 ```
 
-So my `python` program actually coming from `/usr/bin/python`. You can see that `/usr/bin` was in the list of directories in my `PATH` above. Because my `python` is in the `PATH`, that mean I can simply type `python` to execute it. But you can still execute any command even though it's not in the PATH. In this case you have to type the full path to the command, such as:-
 ということで、私の `python` プログラムは、実際には `/usr/bin/python`　から来ているのです。
 `/usr/bin` が上記の私の `PATH` のディレクトリのリストにあったことがわかるでしょう。
 私の `python` が `PATH` 内にあるのですから、単に `python` と入力すれば実行できることを意味しています。
@@ -80,7 +79,6 @@ So my `python` program actually coming from `/usr/bin/python`. You can see that 
 インストールしようとしている pythonパッケージはどんな任意のコードでも実行でき、ある程度の検証が行われるOSパッケージとは異なり、PyPIにアップロードされたパッケージは、誰も検証していません。
 誰でも、良くても悪くても、悪意があるかどうかにかかわらず、PyPIにコードをアップロードできるのです。
 
-In practice, you should never use `python` to run your python code. That `python` is [not for you](https://dev.to/k4ml/system-python-is-not-for-you-e4g). It is called system python and that because your OS system (I'm talking about Linux like Ubuntu here) also use python a lot to manage the system. They have lot of python program so they need `python` to run it.
 実際に、pythonコードを実行の際、絶対に `python` を使用しないでください。`python` は [あなたのためになりません](https://dev.to/k4ml/system-python-is-not-for-you-e4g)。
 これはシステムpythonと呼ばれ、OSシステム（ここではUbuntuのようなLinuxについて話しています）も、pythonを頻繁に使用してシステムを管理しているためです。
 たくさんのpythonプログラムがあるため、実行するには `python` が必要なのです。
@@ -108,11 +106,9 @@ venv に関連するチュートリアルでは、たいてい、この後次の
 ```
 source myenv/bin/activate
 ```
-That basically allow you to just type "python" and it will use `myenv/bin/python`. I would advice against this, at least not in the beginning.
 こうすると、基本的に "python" と入力するだけで、`myenv/bin/python` の方が使用されるのです。少なくとも最初のうちは、これには従わないように、アドバイスしたいと思います。
 
-
-When you install some packages like `myenv/bin/pip install requests`, the packages will be "installed" to `myenv/lib/site-packages` directory. You can verify this from python console:-
+`myenv/bin/pip install requests` などのパッケージをインストールすると、パッケージは `myenv/lib/site-packages`というディレクトリに "インストール" されます。これは python コンソールから確認できます。
 
 ```
 myenv/bin/python
@@ -120,49 +116,48 @@ myenv/bin/python
 >>> requests
 <module 'requests' from '/home/ubuntu/myenv/lib/python3.6/site-packages/requests/__init__.py'>
 ```
-Your actual path of course will look different than mine.
+もちろん、実際のパスは 私のものとは異なっているでしょう。
 
-So that's the second lesson - always use venv to create a separate environment for your project. In practice, each project will have it's own venv.
+ということで、第二課 - venvを常用し、プロジェクト用に別の環境を作成すること実際には、各プロジェクトには個別のvenvがあるものです。
 
-There are 2 situations actually when you want to use venv:-
+実際にvenvを使用する場合、2つの状況が想定されます。
 
-1. For your programming project. As mentioned above, always create separate vm for each project. As you're progressing, you might feel that having to manage all this manually is cumbersome. You're not wrong to feel that. These days, I'm using [poetry](https://python-poetry.org/) most of the time to manage my project's venv. Let's delve into poetry in the next article, hopefully. There's also pipenv in the same space.
-2. For installing program/application written in python. In this situation, also always create venv before installing the program. For example, if you want to install youtube-dl, do:-
+1.	ご自身のプログラミングプロジェクト用上記のように、プロジェクトごとに常に個別のvmを作成しましょう。進行するにつれて、こういったことすべてを手動で管理しなければならないのが面倒だと感じるかもしれません。そう感じても何もおかしくはありません。最近、私は プロジェクトのvenvを管理するのに、ほぼ常に [poetry](https://python-poetry.org/) を使用しています。うまくいけば、次の記事で poetry について掘り下げましょう。同じ場所に pipenv もあります。
+2.	pythonで書かれたプログラム/アプリケーションのインストール用この場合、プログラムをインストールする前に必ずvenvを作成してください。たとえば、youtube-dlをインストールする場合は、次のようにします。
 
     python -mvenv venv
     venv/bin/pip install youtube-dl
     venv/bin/youtube-dl
 
-Similar to using venv in project, having to create new venv everytime you want to install new program also will start becoming cumbersome. These days, I'm using pipx to handle this.
+プロジェクトでvenvを使用するのと同様に、新しいプログラムをインストールするたびに新しい venv を作成する必要がある、ということも、面倒になってくるでしょう。最近、私はこの処理に pipx を使用しています。
 
     pipx install youtube-dl
 
-`pipx` will install it to `$HOME/.local` directory where the executable `youtube-dl` will be placed in `$HOME/.local/bin`. Just make sure that directory is in your `$PATH`.
+`pipx` は、実行可能な `youtube-dl`が `$HOME/.local/bin` に配置される`$HOME/.local` ディレクトリにインストールします。そのディレクトリが あなたの`$PATH`にあることを確認してください。
 
-Another alternative is to use `--user` flag to `pip` which will also install the package to `$HOME/.local` dir but with pipx I no longer use that.
+もう1つの方法は、`--user`フラグを `pip` に使用することです。これにより、パッケージを `$HOME/. local` ディレクトリにインストールしますが、pipx を使う現在では、使用しなくなりました。
 
 ## pyenv
 
-So we have done  with venv, what about pyenv? Most of the time you don't really need this. You'll need pyenv in the following situation:-
+venv はよしとして、pyenvはどうでしょうか？ほとんどの場合、これが必要になることはありません。pyenv が必要になるのは、次の状況です。
 
-1. Your system doesn't has python version that you want. For example, your system only has python3.4 but you want to use python3.7. In this case you can get python3.7 through pyenv. But as I'm on Ubuntu most of the time, I prefer to use deadsnake/ppa instead to get python version that I need.
-2. You need to use multiple version of python. For example your project must be tested against python2.7, python3.4, python3.6, python3.7 and python3.8. In this situation, pyenv can be helpful.
+1. お使いのシステムに、使いたいバージョンの pythonがない場合たとえば、システムには python3.4しかありませんが、python3.7を使用したいとします。この場合、pyenvを介してpython3.7を取得できるのです。しかし、私はほとんどの場合Ubuntuを使用しているので、必要なpythonバージョンを取得する場合、deadsnake/ppaを代わりに使用するほうを好みます。
+2. 2.	pythonの複数のバージョンを使用する必要がある場合。たとえば、あるプロジェクトで、python2.7、python3.4、python3.6、python3.7、および python3.8 に対してテストする必要があるとします。この場合、pyenv が役立ちます。
 
+要するに、pyenv は異なるバージョンのpythonを提供してくれるのです。しかし、すでに pyenvを使用している場合でも、venv が必要でしょうか？まあ...一般的にはそうでしょう。上記のように、pyenv は異なるバージョンの python のみを提供します。第二課に戻ると、プロジェクトには常に個別の venv を使用する必要があります。違いは、venvを「おそらく」作成するために使用される pythonが、システムpythonではなくpyenvからのものになっていることです。この時点で、しっかり理解していただいている必要があるので、「おそらく」を引用符で囲んでいます。では、第一課に戻ってください。これが、多くの人がつまずくところなのです。pyenv の使用を開始してしまうと、使用している pythonが、よくわからなるのです。
 
-In short, pyenv give you different version of python. But do you still need venv if you already use pyenv? In general yes. As we can see above, pyenv only give different version of python. Back to lesson #2 above, you should always use separate venv for your project. The different is that now the python that will be used to create the venv "probably" come from pyenv instead of the system python. I put "probably" in quote because you have to be very certain here. So go back to the first lesson. This is one area that trip many people off. They don't really know which python they're using, once they have started using pyenv.
+## 概要
+そろそろ終わりが近づいてきました。python環境を設定する方法について、より理解が深まってきていますか。これまでに学んだことをまとめてみましょう。
 
-## Summary
-We have come to an end and hopefully you have better idea now how to setup your python environment. Let's recap what we have learned so far:-
+1. 使用中の python を常に確認しましょう。常に、確認し、再確認し、再度確認してください。エラーメッセージに記載されているパスをたどり、使用している pythonを探しましょう。
+2. インストールするプロジェクトまたはアプリケーションごとに、常に個別のvenvを使用しましょう。
+3. pythonの複数のバージョンを使用することがあるかもしれません。そんな時、pyenv、またはubuntuを使用している場合は deadsnake ppa を使用できます。
 
-1. Always make sure you know which python you're currently using. Check, re-check and double check again, always. Follow the path mentioned in the error message that should bring you to the actual python being used.
-2. Always use separate venv for each of your project or application that you want to install.
-3. You might want to use multiple versions of python. In this case you can use pyenv, or deadsnake ppa if you're on ubuntu.
+ではまた次回、 Happy coding!!
 
-Till we meet again, happy coding.
+## 更新事項
 
-## Updates
-
-I noticed that `get-pip.py` script now by default will install to your local dir. Yeay!
+現在、`get-pip.py` スクリプト がデフォルトでローカルディレクトリにインストールされることに気づきました。やった！
 
 ```
 python get-pip.py
