@@ -21,29 +21,20 @@ Summary: TCP クライアントの対話を分析しました
 ```
 ダイアログを確認すると、次のようになっています。
 
-*	requests appends Connection: keep-alive header by default
+*	`requests` が `Connection: keep-alive` ヘッダーをデフォルトで追加します。
 *	gzip 圧縮されたレスポンスを、受け取りました。
+
 基本的なHTTPクライアントは keepalive を使用しません。簡単にするために、gzipをオフにして続行します。
-
-
-
-
-
-
-* `requests` appends `Connection: keep-alive` header by default
-* We've received gzipped response
-
-Basic HTTP client doesn't use keepalive, and for simplicity let's turn off gzipping, and continue:
 
 ```python
 >>> r = requests.get('http://example.com/', headers={'Accept-Encoding': 'identity', 'Connection': 'Close'})
 ```
 
-Now let's look to the output:
+次に出力を見てみましょう。
 
 ![http dialog]({filename}/images/tcp-clients-communication/2020-08-29_15-12.png)
 
-Or schematic dialog would be:
+または、概略ダイアログは次のようになります。
 
 ![schematic http dialog]({filename}/images/tcp-clients-communication/2020-08-29_16-26.png)
 
@@ -56,51 +47,60 @@ First, we can see that every TCP request or reply has some flags like SYN, ACK, 
 * SYN: Synchronize sequence numbers
 * FIN: No more data from sender
 
-4 flag are quite well-known, and they tell us about:
-SYN - Initiates a connection
-ACK - Acknowledges received data
-FIN - Closes a connection
-RST - Aborts a connection in response to an error
-The other two flags, PSH (push) and URG (urgent), aren't as well-known. You may read about them [here](https://packetlife.net/blog/2011/mar/2/tcp-flags-psh-and-urg/).
+まず、すべてのTCP要求または応答には、制御ビットと呼ばれる SYN、ACKなどのフラグがあり、輻輳通知に使用されていることがわかります。この種のフラグは6つあります。
 
-Look to dialog between client (C) and server (S) above, and you can read it as:
-* C wants to establish a connection with S (sends SYN)
-* S replies with ACK - it allows us to connect
-* C replies with ACK again - connection is established.
-* Now C sends request to GET html page (PSH, ACK)
-* S replies with ACK
-* and then sends requested page.
-* C replies, that it has received data, sends ACK
-* C sends FIN, ACK - client doesn't have any more data to send to S
-* S replies with FIN,ACK too
-* since both sides doesn't have data to exchange, they can close connections. And they do. C sends ACK
-* S closes the connection - sends ACK.
+•	URG：緊急ポインタフィールド 重要
+•	ACK：確認フィールド 重要
+•	PSH：プッシュ機能
+•	RST：接続をリセット
+•	SYN：シーケンス番号を同期
+•	FIN：送信者からのデータは以上
 
-Note, that if we run the code above again (`requests.get('http://example.com/', headers={'Accept-Encoding': 'identity', 'Connection': 'Close'})`), then client would established connection again, with same dialog.
+4つのフラグは有名で、次のことを示しています。
+SYN - 接続を開始します<br>
+ACK - 受信データを確認します<br>
+FIN - 接続を閉じます<br>
+RST - エラーに応答して接続を中止します<br>
+その他2つのフラグ PSH（push）とURG （urgent）は、あまり知られていません。[ここ](https://packetlife.net/blog/2011/mar/2/tcp-flags-psh-and-urg/)で詳細を参照することができます。
 
-## HTTP client with keepalive
+上記のクライアント（C）とサーバー（S）の間のダイアログを見ると、次のように読むことができます。
+* CはSとの接続を確立したい（SYNを送信）
+* SはACKで応答します-接続を許可します
+* Cは再度ACKで応答します-接続が確立されます。
+* CはGEThtmlページ（PSH、ACK）のリクエストを送信します
+* SはACKで応答します*そしてリクエストされたページを送信します。
+* Cはデータを受信したと応答し、ACKを送信します
+* CはFIN、ACKを送信します-クライアントにはSに送信するデータがありません
+* SもFIN、ACKで応答します
+* 両側に交換するデータがないため、接続を閉じることができます。そして、そうしたわけです。CはACKを送信します
+* Sは接続を閉じます。ACKを送信します。
 
-Let's check behaviour when we change `Connection` header value to `keepalive`.
+上記のコードを再度実行すると (`requests.get('http://example.com/', headers={'Accept-Encoding': 'identity', 'Connection': 'Close'})`)クライアントは同じダイアログで再び接続を確立します。
 
-In this case, we can see that dialog was same as in previous example, except client didn't get last ACK from server. So, server doesn't close the connection. To see benefits of keepalive, we need to run multiply requests from client to server. And in this case we may modify code to use session, and make multiply requests, but I decided to use browser, which is a TCP client itself. I looked for simple http website, and found one - [http://supervisord.org/](http://supervisord.org/). If you open it in browser, it will load the `/` page, and then js, css files, images, and so on. And here's the result of TCP dialogs for such case:
+## keepalive を備えた HTTP クライアント
+
+`Connection` ヘッダー値を `keepalive` に変更したときの動作を確認しましょう。
+
+この場合、クライアントがサーバーから最後のACKを取得しなかったことを除いて、ダイアログは前の例と同じであることがわかります。そのため、サーバーは接続を閉じません。keepalive の利点を確認するには、クライアントからサーバーへ、乗算リクエストを実行しなくてはなりません。セッションを使用するようにコードを変更し、乗算リクエストを行うことができます。しかし、私は、TCPクライアント自体であるブラウザーを使用することにしました。カンタンなウェブ検索で、[http://supervisord.org/](http://supervisord.org/) が見つかりました。 ブラウザで開くと、 `/` ページが読み込まれ、次にjs、cssファイル、画像などが読み込まれます。その場合のTCPダイアログの結果は次のとおりです。
 
 ![http with keepalive dialog]({filename}/images/tcp-clients-communication/2020-08-29_18-50.png)
 
-You may see, client opens a connection only once, and then gets data from server (http page, static and media files); then server closes connection after some timeout reaches (the value of timeout may be controlled by `Keep-Alive: timeout=X, max=Y` header). Of course, such approach minimizes CPU usage, and it's good for website performance.
-You may read more about Keep-alive in HTTP in 1) https://www.imperva.com/learn/performance/http-keep-alive/ and 2) https://www.oreilly.com/library/view/http-the-definitive/1565925092/ch04s05.html
+クライアントは接続を1回だけ開き、サーバーからデータ （httpページ、静的ファイル、メディアファイル） を取得します。そして、タイムアウトに達し、サーバーは接続を閉じます（タイムアウトの値は、keepalive によって制御される場合があります：`timeout=X、max=Y ヘッダー`）。 もちろん、このようなアプローチはCPU使用率を最小限に抑え、Webサイトのパフォーマンスに役立ちます。 HTTPでのKeep-aliveの詳細については、1）[https://www.imperva.com/learn/performance/http-keep-alive/](https://www.imperva.com/learn/performance/http-keep-alive/) および 2）[https://www.oreilly.com/library/view/http-the-definitive/1565925092/ch04s05.html
+](https://www.oreilly.com/library/view/http-the-definitive/1565925092/ch04s05.html) を参照してください。 
 
 
 ## Websocket
 
-Let's check how websockets differ from http request. I decided to use simple WS server found at [simple-websocket-server](https://github.com/dpallot/simple-websocket-server).
-I started echo WS server:
+WebSocketがhttpリクエストとどのように異なるかを確認しましょう。[simple-websocket-server](https://github.com/dpallot/simple-websocket-server) にて、単純なWSサーバーを使用することにしました 。 
+まず、 echo WS server を開始しました。
+
 
 ```python
 from SimpleWebSocketServer import SimpleWebSocketServer, WebSocket
 
 class SimpleEcho(WebSocket):
     def handleMessage(self):
-        # echo message back to client
+        # メッセージをクライアントに　echo で返す
         self.sendMessage('resp: %s' % self.data)
     def handleConnected(self):
         print(self.address, 'connected')
@@ -111,39 +111,42 @@ server = SimpleWebSocketServer('127.0.0.1', 8000, SimpleEcho)
 server.serveforever()
 ```
 
-I'll test WS using browser, by opening `websocket.html` file from that repo.
+そのリポジトリから `websocket.html`ファイルを開いて、ブラウザーを使用してWSをテストします。
 
 ![websocket dialog]({filename}/images/tcp-clients-communication/2020-08-29_19-49.png)
 
 ![websocket dialog]({filename}/images/tcp-clients-communication/2020-08-29_19-48.png)
 
-We can see here, that client and server establishes connecion, then both sides doesn't close the connection. C sends data with FIN flag set, and S replies with FIN too, then C sends ACK. Compared to HTTP with `Connection: keep-alive`, WS doesn't close the connection after timeout. If you are interrested in how websockets work, you may read [this article](https://lucumr.pocoo.org/2012/9/24/websockets-101/).
+ここで、クライアントとサーバーが接続を確立します。その後、両側ともが、接続を閉じないことがわかります。CはFINフラグセット付きのデータを送信し、SもFINで応答し、CはACKを送信します。`Connection：keep-alive`を使用したHTTPと比較すると、WSはタイムアウト後にも接続を閉じていません。WebSocketの動作に興味がある場合は、[この記事](https://lucumr.pocoo.org/2012/9/24/websockets-101/)を読むのも良いでしょう。
 
 
 ## HTTP2
-For them, who interrested in understanding HTTP2 protocol, I may recommend next setup, based on [article](https://blog.lgohlke.de/docker/h2o/2016/03/01/dockerized-h2o-webserver.html):
-1. I chose docker container, which allows unsecured connection:
+HTTP2プロトコルの理解に興味をお持ちの場合、こちらの[記事](https://blog.lgohlke.de/docker/h2o/2016/03/01/dockerized-h2o-webserver.html) に基づいて次の設定をお勧めします。
+
+1. 私は、セキュリティで保護されていない接続を許可するDockerコンテナを選択しました。
+
 ```
 > docker run -p "9090:8080" -d lkwg82/h2o-http2-server
 ```
 
-2. I used [curl](https://curl.haxx.se/docs/http2.html) with http2 support:
+2. また、http2サポートで [curl](https://curl.haxx.se/docs/http2.html) を使用しました。
 ```
 > curl --version
 curl 7.68.0 ...
 Release-Date: 2020-01-08
 Protocols: ...
 Features: AsynchDNS brotli GSS-API HTTP2 HTTPS-proxy ...
-# make request
+# リクエストする
 > curl --head --http2 -H 'Accept-Encoding: identity' -v http://localhost:9090
-# in response we get 404 Not Found, but it's ok
+# 応答として404 Not Foundとなりますが、問題ありません
 ```
 
-And here's the dialog flow:
+そしてこちらがダイアログフローです。
 
 ![http2 dialog]({filename}/images/tcp-clients-communication/2020-08-30_11-23.png)
 
-It's interrsting, that if we add `Connection: Close` header, protocol won't switch to HTTP2. In my example above I used `Accept-Encoding: identity` header, but it's meaningless to use in case of http2, since protocol uses data compression, and sends bytes instead of plain text.
+`Connection：Close`ヘッダーを 追加すると、プロトコルがHTTP2に切り替わらないの、面白いところです。上記の例では、 `Accept- Encoding： identity`ヘッダーを使用しましたが、プロトコルはデータ圧縮を使用し、プレーンテキストの代わりにバイトを送信するため、http2の場合に使用しても意味がないのです。
 
-## Conclusion
-You've noticed, that I made unsecure http and ws requests, but not https and wss. If I made secure requests, I'd seen encrypted conversation, which is currently meaningles for me. Along with HTTP and WS requests, there's also interresting things that may be learned: AJAX requests, connection to MySQL/PostgreSQL databases, file uploading or downloading.
+
+## まとめ
+お気づきかもしれませんが、安全でないhttpとwsのリクエストを行い、httpsとwssは行いませんでした。安全なリクエストを行うと、暗号化された対話を見ることとなりますが、これは現在の私にとっては意味がありません。HTTPおよびWSリクエストに加えて、他にも興味深いものもあります。AJAXリクエスト、MySQL / PostgreSQLデータベースへの接続、ファイルのアップロードまたはダウンロードです。
