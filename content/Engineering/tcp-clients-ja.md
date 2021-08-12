@@ -49,12 +49,12 @@ First, we can see that every TCP request or reply has some flags like SYN, ACK, 
 
 まず、すべてのTCP要求または応答には、制御ビットと呼ばれる SYN、ACKなどのフラグがあり、輻輳通知に使用されていることがわかります。この種のフラグは6つあります。
 
-•	URG：緊急ポインタフィールド 重要
-•	ACK：確認フィールド 重要
-•	PSH：プッシュ機能
-•	RST：接続をリセット
-•	SYN：シーケンス番号を同期
-•	FIN：送信者からのデータは以上
+* URG：緊急ポインタフィールド 重要
+* ACK：確認フィールド 重要
+* PSH：プッシュ機能
+* RST：接続をリセット
+* SYN：シーケンス番号を同期
+* FIN：送信者からのデータは以上
 
 4つのフラグは有名で、次のことを示しています。
 SYN - 接続を開始します<br>
@@ -85,8 +85,11 @@ RST - エラーに応答して接続を中止します<br>
 
 ![http with keepalive dialog]({filename}/images/tcp-clients-communication/2020-08-29_18-50.png)
 
-クライアントは接続を1回だけ開き、サーバーからデータ （httpページ、静的ファイル、メディアファイル） を取得します。そして、タイムアウトに達し、サーバーは接続を閉じます（タイムアウトの値は、keepalive によって制御される場合があります：`timeout=X、max=Y ヘッダー`）。 もちろん、このようなアプローチはCPU使用率を最小限に抑え、Webサイトのパフォーマンスに役立ちます。 HTTPでのKeep-aliveの詳細については、1）[https://www.imperva.com/learn/performance/http-keep-alive/](https://www.imperva.com/learn/performance/http-keep-alive/) および 2）[https://www.oreilly.com/library/view/http-the-definitive/1565925092/ch04s05.html
-](https://www.oreilly.com/library/view/http-the-definitive/1565925092/ch04s05.html) を参照してください。 
+クライアントは接続を1回だけ開き、サーバーからデータ （httpページ、静的ファイル、メディアファイル） を取得します。そして、タイムアウトに達し、サーバーは接続を閉じます（タイムアウトの値は、keepalive によって制御される場合があります：`timeout=X、max=Y ヘッダー`）。 もちろん、このようなアプローチはCPU使用率を最小限に抑え、Webサイトのパフォーマンスに役立ちます。 HTTPでのKeep-aliveの詳細については、<br>
+1）[https://www.imperva.com/learn/performance/http-keep-alive/](https://www.imperva.com/learn/performance/http-keep-alive/) および<br> 
+2）[https://www.oreilly.com/library/view/http-the-definitive/1565925092/ch04s05.html
+](https://www.oreilly.com/library/view/http-the-definitive/1565925092/ch04s05.html) <br>
+を参照してください。 
 
 
 ## Websocket
