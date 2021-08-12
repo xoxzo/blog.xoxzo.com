@@ -52,6 +52,7 @@ RST - Aborts a connection in response to an error<br>
 The other two flags, PSH (push) and URG (urgent), aren't as well-known. You may read about them [here](https://packetlife.net/blog/2011/mar/2/tcp-flags-psh-and-urg/).
 
 Look to dialog between client (C) and server (S) above, and you can read it as:
+
 * C wants to establish a connection with S (sends SYN)
 * S replies with ACK - it allows us to connect
 * C replies with ACK again - connection is established.
