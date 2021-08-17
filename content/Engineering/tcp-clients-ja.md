@@ -38,14 +38,6 @@ Summary: TCP クライアントの対話を分析しました
 
 ![schematic http dialog]({filename}/images/tcp-clients-communication/2020-08-29_16-26.png)
 
-First, we can see that every TCP request or reply has some flags like SYN, ACK, they are named Control bits, and used for congestion notification. There's 6 such flags:
-
-* URG: Urgent Pointer field significant
-* ACK: Acknowledgment field significant
-* PSH: Push Function
-* RST: Reset the connection
-* SYN: Synchronize sequence numbers
-* FIN: No more data from sender
 
 まず、すべてのTCP要求または応答には、制御ビットと呼ばれる SYN、ACKなどのフラグがあり、輻輳通知に使用されていることがわかります。この種のフラグは6つあります。
 
@@ -57,10 +49,12 @@ First, we can see that every TCP request or reply has some flags like SYN, ACK, 
 * FIN：送信者からのデータは以上
 
 4つのフラグは有名で、次のことを示しています。
+
 SYN - 接続を開始します<br>
 ACK - 受信データを確認します<br>
 FIN - 接続を閉じます<br>
 RST - エラーに応答して接続を中止します<br>
+
 その他2つのフラグ PSH（push）とURG （urgent）は、あまり知られていません。[ここ](https://packetlife.net/blog/2011/mar/2/tcp-flags-psh-and-urg/)で詳細を参照することができます。
 
 上記のクライアント（C）とサーバー（S）の間のダイアログを見ると、次のように読むことができます。
@@ -82,11 +76,11 @@ RST - エラーに応答して接続を中止します<br>
 
 `Connection` ヘッダー値を `keepalive` に変更したときの動作を確認しましょう。
 
-この場合、クライアントがサーバーから最後のACKを取得しなかったことを除いて、ダイアログは前の例と同じであることがわかります。そのため、サーバーは接続を閉じません。keepalive の利点を確認するには、クライアントからサーバーへ、乗算リクエストを実行しなくてはなりません。セッションを使用するようにコードを変更し、乗算リクエストを行うことができます。しかし、私は、TCPクライアント自体であるブラウザーを使用することにしました。カンタンなウェブ検索で、[http://supervisord.org/](http://supervisord.org/) が見つかりました。 ブラウザで開くと、 `/` ページが読み込まれ、次にjs、cssファイル、画像などが読み込まれます。その場合のTCPダイアログの結果は次のとおりです。
+この場合、クライアントがサーバーから最後のACKを取得しなかったことを除いて、ダイアログは前の例と同じであることがわかります。そのため、サーバーは接続を閉じません。keepalive の利点を確認するには、クライアントからサーバーへ、複数のリクエストを実行しなくてはなりません。セッションを使用するようにコードを変更し、複数のリクエストを行うことができます。しかし、私は、TCPクライアント自体であるブラウザーを使用することにしました。カンタンなウェブ検索で、[http://supervisord.org/](http://supervisord.org/) が見つかりました。 ブラウザで開くと、 `/` ページが読み込まれ、次にjs、cssファイル、画像などが読み込まれます。その場合のTCPダイアログの結果は次のとおりです。
 
 ![http with keepalive dialog]({filename}/images/tcp-clients-communication/2020-08-29_18-50.png)
 
-クライアントは接続を1回だけ開き、サーバーからデータ （httpページ、静的ファイル、メディアファイル） を取得します。そして、タイムアウトに達し、サーバーは接続を閉じます（タイムアウトの値は、keepalive によって制御される場合があります：`timeout=X、max=Y ヘッダー`）。 もちろん、このようなアプローチはCPU使用率を最小限に抑え、Webサイトのパフォーマンスに役立ちます。 HTTPでのKeep-aliveの詳細については、<br>
+クライアントは接続を1回だけ開き、サーバーからデータ （httpページ、静的ファイル、メディアファイル） を取得します。そして、タイムアウトに達し、サーバーは接続を閉じます（タイムアウトの値は、keepalive によって制御される場合があります：`timeout=X、max=Y ヘッダー`）。 もちろん、このようなアプローチはCPU使用率を最小限に抑え、Webサイトのパフォーマンス向上に役立ちます。 HTTPでのKeep-aliveの詳細については、<br>
 1）[https://www.imperva.com/learn/performance/http-keep-alive/](https://www.imperva.com/learn/performance/http-keep-alive/) および<br> 
 2）[https://www.oreilly.com/library/view/http-the-definitive/1565925092/ch04s05.html
 ](https://www.oreilly.com/library/view/http-the-definitive/1565925092/ch04s05.html) <br>
@@ -127,7 +121,7 @@ server.serveforever()
 ## HTTP2
 HTTP2プロトコルの理解に興味をお持ちの場合、こちらの[記事](https://blog.lgohlke.de/docker/h2o/2016/03/01/dockerized-h2o-webserver.html) に基づいて次の設定をお勧めします。
 
-1. 私は、セキュリティで保護されていない接続を許可するDockerコンテナを選択しました。
+　1. 私は、セキュリティで保護されていない接続を許可するDockerコンテナを選択しました。
 
 ```
 > docker run -p "9090:8080" -d lkwg82/h2o-http2-server
