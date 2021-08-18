@@ -44,14 +44,15 @@ First, we can see that every TCP request or reply has some flags like SYN, ACK, 
 * SYN: Synchronize sequence numbers
 * FIN: No more data from sender
 
-4 flag are quite well-known, and they tell us about:
-SYN - Initiates a connection
-ACK - Acknowledges received data
-FIN - Closes a connection
-RST - Aborts a connection in response to an error
+4 flag are quite well-known, and they tell us about:<br>
+SYN - Initiates a connection<br>
+ACK - Acknowledges received data<br>
+FIN - Closes a connection<br>
+RST - Aborts a connection in response to an error<br>
 The other two flags, PSH (push) and URG (urgent), aren't as well-known. You may read about them [here](https://packetlife.net/blog/2011/mar/2/tcp-flags-psh-and-urg/).
 
 Look to dialog between client (C) and server (S) above, and you can read it as:
+
 * C wants to establish a connection with S (sends SYN)
 * S replies with ACK - it allows us to connect
 * C replies with ACK again - connection is established.
@@ -75,7 +76,9 @@ In this case, we can see that dialog was same as in previous example, except cli
 ![http with keepalive dialog]({filename}/images/tcp-clients-communication/2020-08-29_18-50.png)
 
 You may see, client opens a connection only once, and then gets data from server (http page, static and media files); then server closes connection after some timeout reaches (the value of timeout may be controlled by `Keep-Alive: timeout=X, max=Y` header). Of course, such approach minimizes CPU usage, and it's good for website performance.
-You may read more about Keep-alive in HTTP in 1) https://www.imperva.com/learn/performance/http-keep-alive/ and 2) https://www.oreilly.com/library/view/http-the-definitive/1565925092/ch04s05.html
+You may read more about Keep-alive in HTTP in<br> 
+1) https://www.imperva.com/learn/performance/http-keep-alive/ and<br> 
+2) https://www.oreilly.com/library/view/http-the-definitive/1565925092/ch04s05.html
 
 
 ## Websocket
