@@ -80,10 +80,13 @@ RST - エラーに応答して接続を中止します<br>
 
 ![http with keepalive dialog]({filename}/images/tcp-clients-communication/2020-08-29_18-50.png)
 
-クライアントは接続を1回だけ開き、サーバーからデータ （httpページ、静的ファイル、メディアファイル） を取得します。そして、タイムアウトに達し、サーバーは接続を閉じます（タイムアウトの値は、keepalive によって制御される場合があります：`timeout=X、max=Y ヘッダー`）。 もちろん、このようなアプローチはCPU使用率を最小限に抑え、Webサイトのパフォーマンス向上に役立ちます。 HTTPでのKeep-aliveの詳細については、<br>
-1）[https://www.imperva.com/learn/performance/http-keep-alive/](https://www.imperva.com/learn/performance/http-keep-alive/) および<br> 
+クライアントは接続を1回だけ開き、サーバーからデータ （httpページ、静的ファイル、メディアファイル） を取得します。そして、タイムアウトに達し、サーバーは接続を閉じます（タイムアウトの値は、keepalive によって制御される場合があります：`timeout=X、max=Y ヘッダー`）。 もちろん、このようなアプローチはCPU使用率を最小限に抑え、Webサイトのパフォーマンス向上に役立ちます。 HTTPでのKeep-aliveの詳細については、
+
+1）[https://www.imperva.com/learn/performance/http-keep-alive/](https://www.imperva.com/learn/performance/http-keep-alive/) <br>
 2）[https://www.oreilly.com/library/view/http-the-definitive/1565925092/ch04s05.html
-](https://www.oreilly.com/library/view/http-the-definitive/1565925092/ch04s05.html) <br>
+](https://www.oreilly.com/library/view/http-the-definitive/1565925092/ch04s05.html)
+<br>
+<br>
 を参照してください。 
 
 
