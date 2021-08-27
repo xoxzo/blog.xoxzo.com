@@ -4,7 +4,8 @@ Slug: 2021-08-27-downtime
 Lang: en
 Tags: ezsms; 2021;
 Author: Aiko Yokoyama
-Summary: EZSMS is expected to have about 10 min disruption during the server maintenance. 
+Summary: EZSMS is expected to have about 10 min disruption during the server maintenance.
+Status: draft
 
 Thank you for using [Short message service, EZSMS](https://www.ezsms.biz/).
 
