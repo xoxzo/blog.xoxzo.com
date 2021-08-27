@@ -5,6 +5,7 @@ Lang: ja
 Tags: ezsms; 2021;
 Author: Aiko Yokoyama
 Summary:　サーバーメンテナンスのため、１０分程度のダウンタイムが見込まれています。
+Status: draft
 
 平素は [EZSMS](https://www.ezsms.biz/)をご利用いただき、誠にありがとうございます。
 
