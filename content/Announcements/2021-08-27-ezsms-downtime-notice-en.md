@@ -8,7 +8,7 @@ Summary: EZSMS is expected to have about 10 min disruption during the server mai
 
 Thank you for using [Short message service, EZSMS](https://www.ezsms.biz/).
 
-On Friday, September 3rd, 2021, EZSMS will have a scheduled downtime due to the whole instance upgrades.
+On Friday, September 3rd, 2021, EZSMS will have a scheduled downtime due to an infrastructure maintainance.
 The expected downtime duration is about 10 minutes, at around 18:00 (JST).
 
 **During the downtiime, ALL EZSMS WILL BE PAUSED.**
