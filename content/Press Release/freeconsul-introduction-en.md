@@ -4,10 +4,13 @@ Author: Aiko Yokoyama
 Tags: ezsms; 2021; introduction; 
 Slug: freeconsul-introduction-ezsms
 Lang: en
+Thumbnail: /images/freeconsul_logo.jpg
 Summary: FreeConsul, the Japanese business tool comparison site featured EZSMS
 
 Our [SMS delivery service EZSMS](https://www.ezsms.biz/) was featured as one of [6 x SMS service](https://xn--tcke8gsdh0c7c.com/sms_service),
 which is published by [freeconsul.co.jp](freeconsul.co.jp).
+
+![freeconsul_image](/images/freeconsul_image.jpg)
 
 FreeConsul featured EZSMS as the **Practical and Low-cost service with no fixed costs, just pay-as-you-go**.
 Also they noted that **EZSMS is the complete web-service, all including Sending SMS are to be done online**,
