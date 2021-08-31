@@ -1,13 +1,16 @@
 Title: EZSMSが、フリーコンサル.com にて紹介されました
 Date: 2021-08-30
 Author: Aiko Yokoyama
-Tags: ezsms; 2021; introduction; 
+Tags: ezsms; 2021; introduction; フリーコンサル;
 Slug: freeconsul-introduction-ezsms
 Lang: ja
+Thumbnail: /images/freeconsul_logo.jpg
 Summary: ビジネスツール比較サイト フリーコンサル.com のSMS送信サービス厳選比較に、EZSMSが紹介されました
 
 [SMS配信サービス EZSMS](https://www.ezsms.biz/) が、 フリーコンサル.com にて、厳選比較6選に紹介されました。
 [紹介記事はこちらからどうぞ](https://xn--tcke8gsdh0c7c.com/sms_service) お読みください。
+
+![フリーコンサル.com画像](/images/freeconsul_image.jpg)
 
 当比較サイトを運営している [フリーコンサル運営会社](https://freeconsul.co.jp/)は、EZSMSについて、
 
