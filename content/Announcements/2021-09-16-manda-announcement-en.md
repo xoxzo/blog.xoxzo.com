@@ -2,7 +2,7 @@ Title: Xoxzo Inc is merged with
 Date: 2021-09-16
 Slug: manda-announcement
 Lang: en
-Tags: m&a; 2021;
+Tags: business_merge; 2021;
 Author: Aiko Yokoyama
 Summary:　Xoxzo is making a new step as a part of xxxxxxx
 
