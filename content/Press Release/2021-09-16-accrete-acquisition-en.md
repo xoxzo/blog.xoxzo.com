@@ -17,13 +17,13 @@ Xoxzo and we will welcome a new CEO and three other new board members from Accre
 the board for Xoxzo, and will continue to manage the day-to-day operations of the company.
 
 We can expect our contribution to profit for the entire Accrete Group,
-with the extensive customer base and management resources of the SMS business that Accrete Co.,Ltd. owns, 
+with the extensive customer base and management resources of the SMS business that Accrete Inc. owns, 
 our service would acquire the increasing of new clients and reduce the costs at the same time.
 
 As a part of this strong business group, the Xoxzo brand will continue to provide even more enhanced services to its customers as well.
 
 
-Company information of Accrete Co.,Ltd. can be found [here](https://www.accrete-inc.com/company/en/)
+Company information of Accrete Inc. can be found [here](https://www.accrete-inc.com/company/en/)
 
 In case you would like to recall the past steps of Xoxzo Inc., please visit [here](https://info.xoxzo.com/).
 
