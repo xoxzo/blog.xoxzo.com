@@ -16,7 +16,15 @@ The ownership transfer is planned to be finalized on 7th October 2021. At that t
 Xoxzo and we will welcome a new CEO and three other new board members from Accrete. Iqbal will continue as a member of
 the board for Xoxzo, and will continue to manage the day-to-day operations of the company.
 
-株式会社アクリートが運営するSMS配信事業の広範な顧客基盤及び経営リソースを活用することにより、新規受注の増大及びコスト低減が見込め、
-アクリートグループ全体に収益に貢献することが期待できると考えています。
+We can expect our contribution to profit for the entire Accrete Group,
+with the extensive customer base and management resources of the SMS business that Accrete Co.,Ltd. owns, 
+our service would acquire the increasing new clients and reduce the costs at the same time.
 
-強いグループの一員として新たなスタートを切るXoxzoのブランドとしては、更なる強化したサービスをお客様にこれからも提供していきたいと思っています。
+As a part of this strong business group, the Xoxzo brand will continue to provide even more enhanced services to its customers as well.
+
+
+Company information of Accrete Co.,Ltd. can be found [here](https://www.accrete-inc.com/company/en/)
+
+In case you would like to recall the past stepf of Xoxzo Inc., please visit [here](https://info.xoxzo.com/).
+
+Thank you and best wishes,
