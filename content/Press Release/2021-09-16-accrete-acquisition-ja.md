@@ -7,9 +7,13 @@ Author: Iqbal Abdullah
 Thumbnail: images/accrete-mna/tanakaceo-and-iqbal.jpg
 Summary: Xoxzoの株式の67%が株式会社アクリートに取得され、アクリートグループ傘下に入ることとなりました。
 
-株式会社Xoxzoは、2007年に、狭いアパートのキッチンで始まったサービスですが、本日、14年間という長くもあり短い、ひとつのチャプターが終焉を迎え、新たなステージの幕をあけることとなりました。
+株式会社Xoxzoは、2007年に狭いアパートのキッチンで始まったサービスですが、本日、14年間という長くもあり短い、ひとつのチャプターが終焉を迎え、新たなステージの幕をあけることとなりました。
+
+
 [Xoxzo コミュニケーションプラットフォーム](https://www.xoxzo.com/)と、[EZSMS配信サービス](https://www.ezsms.biz/)を運営する[株式会社Xoxzoは、67%の株式を株式会社アクリートに譲渡する](https://ssl4.eir-parts.net/doc/4395/tdnet/2025312/00.pdf)
-という運びになりましたことを、ここに発表させていただきます。これより、株式会社Xoxzoは、[株式会社アクリート](https://www.accrete-inc.com/company/)の子会社となります。
+という運びになりましたことを、ここに発表させていただきます。
+
+これより、株式会社Xoxzoは、[株式会社アクリート](https://www.accrete-inc.com/company/)の子会社となります。
 
 ![アクリート田中社長とXoxzoのイクバル](/images/accrete-mna/tanakaceo-and-iqbal.jpg)
 
