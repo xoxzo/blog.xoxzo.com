@@ -105,3 +105,5 @@ SITEMAP = {
         'pages': 'monthly'
     }
 }
+
+DEPLOY_CONTEXT = os.environ.get("CONTEXT", "dev")
