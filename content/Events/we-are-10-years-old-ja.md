@@ -44,7 +44,7 @@ Stampede とのミーティング
 -------------------------------------------------
 ![Stampede Meets Xoxzo]({filename}/images/company-retreat-10th/stampede-xoxzo.jpg)
 
-滞在2日目、メンバーは、ランカウイに拠点を置く、[Stampede Design/スタンピード・デザイン](http://www.stampede-design.com/work.php)の、ShazaとDovと出会いました。Stampede Design/スタンピード・デザインは、チーム構成や仕事に対する考え方が、Xoxzoとよく似通っていて、チームとしての、リモートワークにおける問題点について、話しをしました。Stampede Designでは、ツールを使ったり、リモート・コミュニケーションに不足しがちなボディ・ランゲージであったり、チーム内の友好的なムードを根付かせる実質的な企業の文化を補う、ある決まったコミュニケーション用のテキスト・プロンプトを使ったりしているようです。
+滞在2日目、メンバーは、ランカウイに拠点を置 Stampede Design/スタンピード・デザインの、ShazaとDovと出会いました。Stampede Design/スタンピード・デザインは、チーム構成や仕事に対する考え方が、Xoxzoとよく似通っていて、チームとしての、リモートワークにおける問題点について、話しをしました。Stampede Designでは、ツールを使ったり、リモート・コミュニケーションに不足しがちなボディ・ランゲージであったり、チーム内の友好的なムードを根付かせる実質的な企業の文化を補う、ある決まったコミュニケーション用のテキスト・プロンプトを使ったりしているようです。
 
 私はその中でも、特に2つの点に興味をもちました。ひとつは、自らの存在の意味と、立ち位置の定義方法、[サイモン・シネックの、ゴールデン・サークル/Simon Sinek's Golden Circle](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)です。
 
