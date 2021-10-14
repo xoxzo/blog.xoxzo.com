@@ -41,8 +41,8 @@ project going forward.
 ![kamal]({filename}/images/moscmy-jomlaunch-2016/kamal.jpg)
 
 Another slot by Abyres (one of the sponsor) also an eye opening. I
-learned about [Data Raya Sektor Awam
-(DRSA)](http://www.mampu.gov.my/DRSA) which is a big data initiative by
+learned about Data Raya Sektor Awam
+DRSA  which is a big data initiative by
 government to provide executive framework on how big data project can be
 implemented in the government agency. It surprise me that they are
 doing Patriotisme Analysis as part of the sentiment analysis project
@@ -56,8 +56,8 @@ warehouse, data mart vs operational db that is currently on proprietary,
 which in their own word provide better risk vs reward.
 
 The real kicker in this conference to me is the slot by [Adzmely
-Mansor](https://www.linkedin.com/in/adzmely) from
-[Nexoprima](https://blog.nexoprima.com/). All this while, I've only
+Mansor](https://www.linkedin.com/in/adzmely) from Nexoprima.
+All this while, I've only
 known him through online channel so it's good to see him in person. Very
 soft spoken but fully energetic guy, especially when talking about
 highly technical topics. His slot was on [Vertical Performance
@@ -75,7 +75,7 @@ dedicated blog post to cover all the details ;)
 
 Jenkins is nothing new to us (and it's a long overdue task for us to
 incorporate Jenkins or some other CI tools into our workflow) but what
-make [the talk](http://lanyrd.com/2016/moscmy2016/sdzxqz/) interesting
+make the talk interesting
 was that it come from a group of student from UiTM Shah Alam. We may
 commonly heard how student are lacking off adequate knowledge about what
 industry need for real job but these students definitely different,
@@ -90,8 +90,8 @@ platform for startup, individual or team to showcase their latest
 project or product. Everyone got 10 minutes stage time and 16
 projects/products have been showcased these time.
 
-Stampede's blog has [already covered the event in
-detail](http://www.stampede-design.com/blog/2016/06/being-all-inspired-at-jomlaunch/)
+Stampede's blog has already covered the event in
+detail
 so I don't plan to repeat it here. Head over to their cool blog !
 
 ![sumbermanusia]({filename}/images/moscmy-jomlaunch-2016/sumbermanusia.jpg)
