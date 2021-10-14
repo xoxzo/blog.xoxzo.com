@@ -40,7 +40,7 @@ mmWave周波数帯の電波の物理的性質のため、移動通信のこれ�
 
 モトローラは2018年8月3日、米通信事業者の[Verizon](https://www.verizonwireless.com/wireless-devices/smartphones/moto-z3/)
 とともに、後に発売される5Gモデムで5Gへのアップグレードが可能な初の携帯電話、
-[Moto Z3](https://www.motorola.com/us/products/moto-z-gen-3)発売 (480ドル) を発表した。
+Moto Z3 発売 (480ドル) を発表した。
 発表当時、5G商用ネットワークは準備が整っていなかった。
 
 
