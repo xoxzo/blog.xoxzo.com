@@ -7,8 +7,7 @@ Slug: porting-function-based-generic-views-to-class-based-views
 Summary: How to port function based generic views to class based views
 
 It not really obvious in the
-[documentation](https://docs.djangoproject.com/en/1.3/ref/class-based-views/)
-how we should proceed. I try to make as little changes as possible to
+documentation how we should proceed. I try to make as little changes as possible to
 code. The following is a sample function that we need to port to class
 based views.
 
