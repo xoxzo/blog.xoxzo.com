@@ -28,7 +28,7 @@ Xoxzoは来訪スタートアップの方々と、予約をとることができ
 今回、話をして興味深いと思ったのは、下記のスタートアップです。
 
 - [SENTBE](https://www.sentbe.com/en/) 銀行を介さずに、知人間で国際送金ができるサービス
-- [XYLEM Networks](https://xylem.network/) ネットワーク・リソースを知人間でシームレスに共有できる
+- XYLEM Networks ネットワーク・リソースを知人間でシームレスに共有できる
 サービス。共有者には表彰システムあり。
 - [flamingo](https://app-flamingo.com/) 語学教師のためのマッチメイク・サービス
 - [Oyraa](https://www.oyraa.com/) オン・デマンドの通訳サービス
