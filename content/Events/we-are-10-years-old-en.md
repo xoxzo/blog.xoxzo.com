@@ -17,7 +17,7 @@ Langkawi]({filename}/images/company-retreat-10th/beach.jpg)
 
 The Andaman
 -------------------------------------------------
-We spent 2 nights at the [The Andaman](http://www.theandaman.com/), a resort on the 
+We spent 2 nights at the The Andaman, a resort on the 
 northern part of Langkawi Island. It is a quiet resort with it's own private beach. 
 The resort has rules to preserve it's surrounding and no motor water sports can take 
 place at it's beach.
