@@ -7,7 +7,7 @@ Lang: ja
 Thumbnail: images/client-logos/moegame.gif
 Summary: 株式会社モエゲームは、ユーザーの電話番号認証システムに、EZSMSを導入しています。
 
-[株式会社モエゲーム](http://moegame.co.jp/)、(本社:大阪府中央区、代表取締役
+株式会社モエゲーム、(本社:大阪府中央区、代表取締役
 岡本光平)は、この度[株式会社Xoxzo](https://info.xoxzo.com/ja/)（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）運営するSMS（ショートメッセージ）[配信APIサービス「EZSMS」](http://www.ezsms.biz/ja)を導入しました。
 
 以下は株式会社モエゲーム担当者からのコメントです。
@@ -24,7 +24,7 @@ Summary: 株式会社モエゲームは、ユーザーの電話番号認証シ�
 住所：大阪府中央区安土町2-3-13大阪国際ビルディング 31階
 代表： 代表取締役 岡本光平
 設立： 2012年1月10日
-URL ：[http://moegame.co.jp/](http://moegame.co.jp/)
+
 
 
 【株式会社Xoxzoについて】
