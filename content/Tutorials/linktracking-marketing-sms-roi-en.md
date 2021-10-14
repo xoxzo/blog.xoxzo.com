@@ -51,7 +51,7 @@ After signing into the dashboard, on the right sidebar click on _From Web_ from 
 Once you have filled in the text you would like to send, click on the checkbox marked _Enable Link Tracking_
 
 3. **Send message:**<br />
-Click on _Send SMS_. Your recipient should receive a text message with the link replaced by an auto generated shortlink that looks something like this - _[https://xoz.so/XYZ](https://xoz.so/XYZ)_. Now for testing the feature, lets click on that link. It should redirect you to the original url you placed in the text message.
+Click on _Send SMS_. Your recipient should receive a text message with the link replaced by an auto generated shortlink. Now for testing the feature, lets click on that link. It should redirect you to the original url you placed in the text message.
 
 4. **Check the status of the Link, if it is accessed or not:**<br />
 Lets first try to download the usage logs. For this go to the menu on the top bar and go to the usage logs page. Once there, select a custom date range and download the log. You will be able to see the message you just sent, and in the _Link Tracking Status_ you will be able to see 0 which means it hasn't yet been accessed.
