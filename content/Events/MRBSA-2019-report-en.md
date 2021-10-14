@@ -47,6 +47,6 @@ After the panel discussions, Malaysia’s up and coming singer-songwriter [Amrit
 
 YB Datuk Seri Mohd Redzuan Yusof, Minister of Ministry Entrepreneur Development (MED) was present as the guest of honour, and delivered an eloquent speech, where he was famously quoted, "Under the National Entrepreneurship Policy 2030 (DKN 2030), launched on July 11, 2019, we seek to foster a stronger entrepreneurship culture across all segments of Malaysian society. For the economy to grow, we must ensure the presence of more startups, capital, talent and markets."
 
-The complete list of winners Malaysia leg is found [here](http://ricebowlawards.com/malaysia/), congratulations to all winners! 
+Congratulations to all winners! 
 
 ![Xoxzo at MRBSA 2019](/images/arbsa-2019/MRBSA_Finalists.jpg)
