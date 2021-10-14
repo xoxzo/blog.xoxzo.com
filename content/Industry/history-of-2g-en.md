@@ -25,7 +25,7 @@ In 1991 [Radiolinja](http://corporate.elisa.com/on-elisa/history/) (now Elisa) l
 
 ![history2g](/images/history2g1.jpg)<a class="caption" href="http://neilpapworth.com/FAQ.htm">Image credit</a>
 
-[GPRS](https://www.etsi.org/technologies-clusters/technologies/mobile/gprs) (General Packet Radio Service) also known as 2.5G that supports packet switching for data rates up to 160 kbps was introduced in 1995, and [EDGE](http://www.3gpp.org/technologies/keywords-acronyms/102-gprs-edge) (Enhanced Data Rates for GSM Evolution) also known as 2.75G that supports 8PSK modulation for data rates up to 500 kbps was introduced in 1997. 
+GPRS(General Packet Radio Service) also known as 2.5G that supports packet switching for data rates up to 160 kbps was introduced in 1995, and [EDGE](http://www.3gpp.org/technologies/keywords-acronyms/102-gprs-edge) (Enhanced Data Rates for GSM Evolution) also known as 2.75G that supports 8PSK modulation for data rates up to 500 kbps was introduced in 1997. 
 
 Nokia 3210 that was launched in 1999 became the third best-selling mobile phone of all time, reaching 150 million units in sales. It is still fondly remembered as many people’s first mobile phone that looked sleek and finally without an external antenna. Its replacement model [3310](https://www.androidauthority.com/10-most-iconic-mobile-phones-634852/) launched in 2000 was sold 126 million units, and is recognized as an icon from the 2G era so much so that it made a [comeback](https://www.nokia.com/en_int/phones/nokia-3310) in 2017.  
  
