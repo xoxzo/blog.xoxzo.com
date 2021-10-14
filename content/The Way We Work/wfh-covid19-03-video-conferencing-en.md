@@ -21,7 +21,7 @@ Before February 2020, we didn't have much reason to try out new video
 conferencing tools: We were pretty happy with Google Meet (Hangouts) and
 Slack's video calls.
 
-But with the pandemic and many people [working from home](/tag/workfromhome/), what the market has
+But with the pandemic and many people working from home, what the market has
 to offer for video conferencing tools exploded. Some gave free trials, which we
 thought were great to allow us to see what's out there. So here we are.
 
