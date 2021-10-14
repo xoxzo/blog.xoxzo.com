@@ -43,7 +43,7 @@ Within the town of Taiping, by 1878 the telegraph network connected the British 
 
 After being in operation for 138 years, Telekom Malaysia Berhad [announced](http://www.theborneopost.com/2012/07/04/telekom-malaysia-puts-last-stop-to-telegram-service/) that the TM Telegram Service was to be discontinued effective 1 July 2012.
 
-![telegraph](/images/telegraph04.jpeg)<a class="caption" href="https://www.eziemall.com/telegraph-museum">Image credit</a>
+![telegraph](/images/telegraph04.jpeg)
 
 ### Japan
 
