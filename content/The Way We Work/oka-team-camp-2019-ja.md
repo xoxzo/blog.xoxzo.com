@@ -40,7 +40,7 @@ Xoxzoは、毎年3月に **スプリング・チーム・キャンプ** と称�
 
 午後は、遠足へ行きました。ジャンボタクシー2台を貸し切り、この島を巡る足としたのです。
 
-まずは、ユネスコ世界遺産登録されている、[首里城](https://ja.wikipedia.org/wiki/Shuri_Castle)です。
+まずは、ユネスコ世界遺産登録されている、[首里城](https://ja.wikipedia.org/wiki/%E9%A6%96%E9%87%8C%E5%9F%8E)です。
 ![Xoxzo at Syuri Castle]({filename}/images/oka-teamcamp-2019/IMG_9071-syuri-jo.jpg)
 
 チームキャンプを行うご当地で、何かしらの文化や土地の人に触れる活動を行ったり、
