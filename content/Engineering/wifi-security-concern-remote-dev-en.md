@@ -7,8 +7,8 @@ Slug: wifi-security-concern-remote-dev
 Thumbnail: images/matnet.jpg
 Summary: Few key things and risks for developer to be aware when working in public wifi network.
 
-I managed to join a session on [Malaysia Open Source Conference 2017 (MOSCMY)][moscmy] by [matnet], 
-which talked about the topic of ["Exploiting 802.11 with OSS tools"][1]. It turned out to a very interesting
+I managed to join a session on Malaysia Open Source Conference 2017 (MOSCMY by matnet, 
+which talked about the topic of "Exploiting 802.11 with OSS tools". It turned out to a very interesting
 session. As remote developer, I think this is very crucial topic as it is very common for us to work
 using a public wifi network, either at our favourite cafe or co-working space.
 
@@ -44,7 +44,7 @@ send deauth signal to disconnect client from legitimate AP and then convince the
 legitimate AP. Once client connected, it effectively become man in the middle (MITM) between client
 and the client's target destination.
 
-matnet and his partner [jep] demonstrated two tools that being used to capture user's credentials like
+matnet and his partner jepdemonstrated two tools that being used to capture user's credentials like
 the wifi's password or their other credentials like facebook or other internet services. The tools,
 wifiphisher and fluxion provide a number of attack scenario that we can choose to orchestrate the exploits.
 All those are automated and running it is as simply as executing a number of commands. 
