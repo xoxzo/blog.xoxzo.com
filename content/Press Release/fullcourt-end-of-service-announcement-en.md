@@ -11,7 +11,7 @@ Summary: FullCourt end of service annoucement
 
 In 2011, a wonderful idea was hatched to allow connectivity to millions
 of phones in the world in under 10 minutes. That idea was named
-*[FullCourt.](https://www.fullcourt.co/en/) *With the help of many
+FullCourt *With the help of many
 people, from our families, to our customers and our friends, we have
 managed to make that idea into a reality, and FullCourt was born.
 
@@ -46,7 +46,7 @@ try. See the section "What's next?" below.
 Motion
 ------
 
-[Motion](https://www.fullcourt.co/en/motion/) will still be available
+Motion will still be available
 until the end of service on Monday 29 February 2016 but all your Motion
 numbers will be lost after that date. Please refer to the section on
 "Incoming phone numbers, including Motion numbers" below for details.
