@@ -54,7 +54,7 @@ Nodejs NPM や PHP Composer と言った、他のプラットフォームは資�
 
 ### [Requests 3.0](https://www.kennethreitz.org/requests3/)
 
-300米ドルを[Requests 3.0](https://www.kennethreitz.org/requests3/) へ贈りました。
+300米ドルをRequests 3.0 へ贈りました。
 
 *Xoxzoでは、内部でこのライブラリを使用しているのですが、APIを提供していますので、Xoxzoを使っている
 ユーザーの方々も、おそらく、Xoxzoの導入において、利用していることでしょう。
