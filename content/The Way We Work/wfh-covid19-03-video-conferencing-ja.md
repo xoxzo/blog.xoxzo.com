@@ -165,7 +165,7 @@ Zoomは、私たちが試したビデオ通話ツールの中でも、相当複�
 
 ### [Whereby](https://whereby.com/)
 
-ノルウェーを拠点とするこのスタートアップは、以前は [appear.in]((https://medium.com/the-making-of-whereby/appear-in-is-now-whereby-b258d77d3ad9)) として知られており、
+ノルウェーを拠点とするこのスタートアップは、以前は appear.in として知られており、
 ビデオ会議のスタート方法が、おそらく一番簡単だと言えるでしょう。
 私たちが試した中では確実に、一番簡単に利用できました。
 
