@@ -50,8 +50,8 @@ have to
 manually copy all the files to some other place. So I search around for
 'svn stash'  
 and luckily there's few others who'd also thinking about 'svn stash'.
-[There's one  
-that look complete](http://www.blisted.org/blog/bin/svn/stash), from a
+There's one  
+that look complete, from a
 guy named scott (can't find any more details) so I  
 give it a try. The script work quite well, it named as `svn`, just put
 somewhere  
@@ -130,4 +130,4 @@ code through
 static code checker before commiting. We're using Unfuddle so no chance
 for us to use  
 the native svn pre-commit hook. Lastly, thanks to
-[scott](http://www.blisted.org/) for such useful script.
+scott for such useful script.
