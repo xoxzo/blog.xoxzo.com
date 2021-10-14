@@ -7,7 +7,7 @@ Lang: ja
 Thumbnail: images/client-logos/venusbroadcast.gif
 Summary: 株式会社ヴィーナスブロードキャストがユーザ認証のためEZSMSとの提携について
 
-[株式会社ヴィーナスブロードキャスト](http://venusbroadcast.com/)、(本社:東京都港区、代表取締役
+株式会社ヴィーナスブロードキャスト、(本社:東京都港区、代表取締役
 西田 圭悟)は、この度株式会社Xoxzo（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）運営する[SMS（ショートメッセージ）配信APIサービス「EZSMS」](http://www.ezsms.biz/ja)を利用し、運営する婚活支援アプリ「[婚ナビ](http://konnavi.info/)」のユーザ認証を安全に行うための連携を開始しました。
 
 以下は株式会社ヴィーナスブロードキャスト担当者からのコメントです。
@@ -21,7 +21,6 @@ Summary: 株式会社ヴィーナスブロードキャストがユーザ認証�
 住所： 〒106-0032　東京都港区六本木6-15-1　けやき坂テラス403  
 代表取締役：西田 圭悟  
 設立： 2009年12月  
-URL ： [http://venusbroadcast.com/](http://venusbroadcast.com/)
 
 【株式会社Xoxzoについて】
 
