@@ -18,7 +18,7 @@ Google Code-Inを使用して、まずオープンソースプロジェクトに
 何年かして大学を卒業したときには、私は大きな夢に瞳を輝かせていました。
 しかし、業界に入った私が就いたのは、エンジニアリングではなく、カスタマーサクセスの職務でした。
 
-![interntakeaway](/images/interntakeaway.jpg)<a class="caption" href="https://unsplash.com/photos/O_CLjxjzN3M">Image credit</a>
+![interntakeaway](/images/interntakeaway.jpg)
 
 さて、カスタマーサクセスという職務には独自の学習曲線があり、ビジネスの側面と、
 グローバル経済のより大きな全体像に、テクノロジー製品がどのように適合するかを学ぶことができます。
