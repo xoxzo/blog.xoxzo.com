@@ -27,7 +27,7 @@ Visitor volume was steady throughout Thursday, and Friday afternoon; We experien
 
 Among the visitors, we had an earnest visitor working on e-commerce for industrial ventilation products who had a discussion with Zaki, myself, and then Iqbal, lasting more than half an hour. Iqbal also had visitors responding to our personal invitation and had a productive discussion at the meeting table. 
 
-[Miss Internet Indonesia](http://missinternet.id/) took place at the summit venue of IIXS on Friday night, we saw the rehearsal in the late afternoon, but did not stay back for the actual event which took place at night. 
+Miss Internet Indonesia took place at the summit venue of IIXS on Friday night, we saw the rehearsal in the late afternoon, but did not stay back for the actual event which took place at night. 
 
 ![Miss Internet Indonesia](/images/IIXS/IIXS5.jpg)
 
