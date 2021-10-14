@@ -6,8 +6,8 @@ Slug: django-transactioncommit_manually-wrapper
 Lang: en
 Summary: Finding the solution for TransactionManagementError
 
-I first [encountered this
-problem](http://metaKamal%20Mustafa.blogspot.com/2011/05/django-transactioncommitmanually-mask.html)
+I first encountered this
+problem http://metaKamal%20Mustafa.blogspot.com/2011/05/django-transactioncommitmanually-mask.html
 1 year ago and it look's like the issue still not being fixed till now.
 The [corresponding ticket](https://code.djangoproject.com/ticket/6623)
 has been 5 years old already. When you used
