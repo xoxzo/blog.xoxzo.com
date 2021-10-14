@@ -22,7 +22,7 @@ While Operational Engineering (OE) roles can be described as below:-
     * Providing a frictionless and continuous way of pushing application from dev to production.
 1. Track outages and incidents, and their associated impact to the business. Make sure all outages and incident properly closed in timely manner with adequate reports of what, when, why and how it affecting our customers.
 
-For more insight of what constitute an effective OE, can refer to this article - [8 Habits of Highly Successful Operations Practitioners][ops-habit]. In general, OE should be an expert in this 3 technical domains:-
+For more insight of what constitute an effective OE, can refer to this article - 8 Habits of Highly Successful Operations Practitioners. In general, OE should be an expert in this 3 technical domains:-
 
 1. Low-level systems knowledge.
     * Know how to debug low-level systems problems.
