@@ -9,7 +9,7 @@ Summary: Xoxzo は、Slush Tokyo 2018に参加し、トップのスタートア�
 
 ![Slush Tokyo]({filename}/images/slush-tokyo-2018.jpg)[Slush Tokyo](http://tokyo.slush.org/)
 
-[Slush](http://www.slush.org/globally/) は、スタートアップや技術者向けのイベントで、毎年、ヘルシンキ、東京、シンガポールや上海で
+Slush は、スタートアップや技術者向けのイベントで、毎年、ヘルシンキ、東京、シンガポールや上海で
 開催されています。今年、Xoxzoはスタートアップ・パスを申請し、このイベントに参加しました。
 
 スタートアップ・パスがあると、マッチメイク・プラットフォームへアクセスできるので、
