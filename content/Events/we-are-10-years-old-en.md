@@ -59,8 +59,8 @@ Meeting Stampede
 -------------------------------------------------
 ![Stampede Meets Xoxzo]({filename}/images/company-retreat-10th/stampede-xoxzo.jpg)
 
-On our second day we met up with Shaza and Dov from [Stampede
-Design](http://www.stampede-design.com/work.php) which is
+On our second day we met up with Shaza and Dov from Stampede
+Design which is
 based in Langkawi. Stampede Design is very similar to us in terms of team
 building and how they look at their work. We discussed issues that we face when
 working in a remote team, and how Stampede Design uses tools and pre-defined
