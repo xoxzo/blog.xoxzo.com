@@ -65,7 +65,7 @@ The winners of Pitch By The Pyramids 2019 was
 
 and two companies were chosen for second place:
 
-- [CloudSale](https://www.cloudsale.io/), a startup from Beirut offering a non-food supplies platform for the hotel
+- CloudSale, a startup from Beirut offering a non-food supplies platform for the hotel
   industry.
 - [Receet](https://getreceet.com/), a startup from Palestine, which is doing an app to manage
   receipts.
