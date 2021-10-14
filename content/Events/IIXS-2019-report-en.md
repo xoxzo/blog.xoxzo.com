@@ -7,7 +7,7 @@ Thumbnail: images/IIXS/IIXS_thumbnail.png
 Author: Ai Sin Chan 
 Summary: Xoxzo showcased its product demo in Jakarta on 26-28 Sep. 
 
-Iqbal, Zaki, Aman, and I have recently returned from participating in [IIXS 2019](http://iixs.id/) in Jakarta. The exhibition ran from 26th to 28th September 2019 (Thursday to Saturday), and we arrived early on 25th to set up the booth and the demonstration. 
+Iqbal, Zaki, Aman, and I have recently returned from participating in IIXS 2019 in Jakarta. The exhibition ran from 26th to 28th September 2019 (Thursday to Saturday), and we arrived early on 25th to set up the booth and the demonstration. 
 
 ![Xoxzo at IIXS](/images/IIXS/IIXS1.jpg)
 
