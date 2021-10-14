@@ -46,7 +46,7 @@ Summary: 電信技術の誕生と、退歩までの1世紀以上もの道のり�
 
 138年間の操業の後、Telekom Malaysia Berhadは2012年の7月1日をもってTM Telegram Serviceを停止すると発表しました。
 
-![telegraph](/images/telegraph04.jpeg)<a class="caption" href="https://www.eziemall.com/telegraph-museum">画像クレジット</a>
+![telegraph](/images/telegraph04.jpeg)
 
 ### 日本では
 
