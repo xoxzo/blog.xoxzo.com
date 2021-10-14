@@ -30,7 +30,7 @@ Summary: 第二世代技術の源と、初期利用方法について、ご紹�
 
 ![history2g](/images/history2g1.jpg)<a class="caption" href="http://neilpapworth.com/FAQ.htm">画像クレジット</a>
 
-[GPRS](https://www.etsi.org/technologies-clusters/technologies/mobile/gprs) は2.5次世代としても知られ、1995年には最大160kbpsのデータ転送速度がサポートされました。さらに、データ転送速度において8PSK変調をサポートする、2.75次世代とも呼ばれる[EDGE](http://www.3gpp.org/technologies/keywords-acronyms/102-gprs-edge) が1997年に最大500 kbpsの転送速度で導入されました。
+GPRS は2.5次世代としても知られ、1995年には最大160kbpsのデータ転送速度がサポートされました。さらに、データ転送速度において8PSK変調をサポートする、2.75次世代とも呼ばれる[EDGE](http://www.3gpp.org/technologies/keywords-acronyms/102-gprs-edge) が1997年に最大500 kbpsの転送速度で導入されました。
 
 1999年に発売されたNokia 3210は、全世界で3番目に売れた携帯電話となり、1億5,000万台の販売台数に達しました。洗練されたデザインで、ついに外付けアンテナなしで使える、多くの人々にとって最初の携帯電話です。 2000年に発売された後継モデル[3310](https://www.androidauthority.com/10-most-iconic-mobile-phones-634852/)は1億2,600万台販売され、第二世代モバイル時代の象徴として認識されており、2017年に[復刻版](https://www.nokia.com/en_int/phones/nokia-3310) が発売されました。
  
