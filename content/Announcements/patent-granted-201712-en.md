@@ -15,9 +15,9 @@ fuctionality on November 24, 2017.
 
 ![patent-certificate](/images/patent.jpg)
 
-[The patent system that protects technology](https://www.jpo.go.jp/beginner/beginner_03.html) is 
+The patent system that protects technology is 
 an "intellectual property right" that 
-[the Patent Office](https://www.jpo.go.jp/index.htm) protects ideas and inventions 
+the Patent Office protects ideas and inventions 
 born by technology development and are useful in the world as property.
 
 While the patent system allows inventors to monopolize inventions, 
