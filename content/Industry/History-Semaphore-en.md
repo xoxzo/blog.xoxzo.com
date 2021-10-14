@@ -21,7 +21,7 @@ The [first message](http://www.historyofinformation.com/detail.php?entryid=496) 
 
 The Semaphore Telegraph System was eventually adopted and widely implemented all throughout France. At the time of French revolution and Napolean prominence, the initial motivation to implement Semaphore Telegraph System was military usage.
 
-The [first two prototypes](https://people.seas.harvard.edu/~jones/cscie129/images/history/chappe.html) built for demonstrations were destroyed by angry mobs. The Synchronous Telegraph Experiments used clocks, while the Panel Telegraph Experiments used 5 bit binary code allowing 32 possible combinations, which was similar to later systems developed in Sweden and England.
+The first two prototypes built for demonstrations were destroyed by angry mobs. The Synchronous Telegraph Experiments used clocks, while the Panel Telegraph Experiments used 5 bit binary code allowing 32 possible combinations, which was similar to later systems developed in Sweden and England.
 
 ![semaphore1](/images/semaphore1.jpg)<a class="caption" href="https://en.wikipedia.org/wiki/File:Tour_du_telegraphe_Chappe_Saverne_02.JPG">Image credit</a>
 
