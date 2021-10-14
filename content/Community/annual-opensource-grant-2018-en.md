@@ -67,7 +67,7 @@ saying for the Python community to keep PyPI running and improved.*
 
 ### [Requests 3.0](https://www.kennethreitz.org/requests3/)
 
-We have contributed USD300 to [Requests 3.0](https://www.kennethreitz.org/requests3/) 
+We have contributed USD300 to Requests 3.0 
 
 *We're using this library internally but as an API provider,
 our customers probably will also be using it in their implementation. Continued
