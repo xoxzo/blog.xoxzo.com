@@ -14,7 +14,7 @@ as well as the control method and program of servers, utilized by our Voice APIs
 
 ![patent-certificate](/images/patent201802.jpg)
 
-[Patent Office](https://www.jpo.go.jp/index.htm) has 
+Patent Office has 
 [Patent system to protect technology](https://www.jpo.go.jp/beginner/beginner_03.html)
 It is "intellectual property right" that protects ideas and inventions born by technology development as property, 
 which is useful in the world.
