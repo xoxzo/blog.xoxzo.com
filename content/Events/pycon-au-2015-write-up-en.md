@@ -30,10 +30,10 @@ with partition on each side.
 ![Pullman Brisbane - King George Square, the PyCon AU 2015
 venue.]({filename}/images/pycon-au-2015/img_6641.jpg)
 
-The [conference](http://2015.pycon-au.org/programme/about) took 5 days.
+The conference about took 5 days.
 One day for miniconf, two days for the conference, and another two days
 for sprints (and also one day for
-[workshop!](http://2015.pycon-au.org/programme/workshops)). Wow, there's
+workshop Wow, there's
 a lot of talks and talks!
 
 One thing the most difficult that I faced with multi-tracks conference
