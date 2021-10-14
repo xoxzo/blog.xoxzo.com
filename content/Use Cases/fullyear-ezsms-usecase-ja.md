@@ -7,7 +7,7 @@ Lang: ja
 Thumbnail: images/client-logos/fullyear-logo.gif
 Summary: EZSMSでサービス認証を行う株式会社フルイヤー
 
-株式会社フルイヤー、(本社:東京都港区、代表取締役上原嗣則、[http://www.fullyear.co.jp/](http://www.fullyear.co.jp/))は、
+株式会社フルイヤー、(本社:東京都港区、代表取締役上原嗣則、
 この度株式会社Xoxzo（本社：東京都台東区、代表取締役：イクバル・アバドゥラ）運営する[SMS（ショートメッセージ）配信APIサービス「EZSMS」](http://www.ezsms.biz/ja)を導入し運営するサービスのユーザ認証を行っています。
 
 以下は株式会社フルイヤー担当者からのコメントです。
@@ -16,12 +16,12 @@ Summary: EZSMSでサービス認証を行う株式会社フルイヤー
 
 【株式会社フルイヤーについて】
 
-[![Fullyear logo]({filename}/images/client-logos/fullyear-logo.gif)](http://www.fullyear.co.jp/)
+[![Fullyear logo]({filename}/images/client-logos/fullyear-logo.gif)
 
 住所： 〒107-0062　東京都港区南青山2-23-8 外苑ビル8F
 代表： 代表取締役 上原嗣則
 設立： 2007年9月
-URL ： <http://www.fullyear.co.jp/>
+
 
 【株式会社Xoxzoについて】
 
