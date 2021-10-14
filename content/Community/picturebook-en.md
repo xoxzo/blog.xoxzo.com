@@ -11,7 +11,7 @@ Summary: Community service at picture book read aloud session
 
 ![picturebook](/images/picturebook01.jpg)
 
-I was invited to read for the session. The organizer initially contacted me for a reading on Malay children’s picture book. At that time, I had in my possession the renown [Sang Kancil picture book series](http://itbm.com.my/shop/book/1520/sangkancildengansiput) which is my all-time favorite. However, the complexity of the Sang Kancil books is more suited for primary school children, which is a mismatch for the age range of the target audience comprising mostly toddlers.
+I was invited to read for the session. The organizer initially contacted me for a reading on Malay children’s picture book. At that time, I had in my possession the renown Sang Kancil picture book series which is my all-time favorite. However, the complexity of the Sang Kancil books is more suited for primary school children, which is a mismatch for the age range of the target audience comprising mostly toddlers.
 
 So, I counter-proposed other books I had on hand, which included English and Cantonese picture books. Apart from Japanese books, English books are abundantly available in Japan, in both public libraries as well as local bookstores. Hence the organizer favored the less readily available Cantonese picture book, and we finalized on this book which contained a [collection of popular nursery rhymes](https://baike.baidu.com/item/%E8%80%81%E5%B9%BF%E6%96%B0%E6%B8%B8%E4%B9%8B%E5%B9%BF%E5%BA%9C%E7%AB%A5%E8%B0%A3/16282334) in the Cantonese language, with illustrations done in traditional Chinese brush painting techniques.
 
