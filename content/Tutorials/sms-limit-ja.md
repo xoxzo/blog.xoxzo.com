@@ -7,7 +7,7 @@ Author: Aiko Yokoyama
 Summary: Eメールに比べて、気軽に送ることができ、しかも開封率の高いSMSは、ビジネス・マーケティングなどにも強い味方です。しかしその文面は、文字制限によって頭を悩ませるところでもあります。ここでは、ちょっとした工夫で、便利になる使い方をご紹介します。
 
 
-Xoxzoの[SMS配信API](https://www.xoxzo.com/ja/about/sms-api/)や、[EZSMSのWebから送信](https://www.ezsms.biz/ja/faq/web-sms/)、及び[ダイヤルSMS](https://www.ezsms.biz/ja/faq/dialsms/)を使うと、自分の携帯電話から宛先や本文を入力することなく、多くの宛先へ送ったり、より使い勝手の良い方法で、SMS配信を行うことができます。
+Xoxzoの[SMS配信API](https://www.xoxzo.com/ja/about/sms-api/)や、[EZSMSのWebから送信](www.ezsms.biz)、及び[ダイヤルSMS](https://www.ezsms.biz/ja/faq/dialsms/)を使うと、自分の携帯電話から宛先や本文を入力することなく、多くの宛先へ送ったり、より使い勝手の良い方法で、SMS配信を行うことができます。
 
 Eメールに比べて、気軽に送ることができ、しかも開封率の高いSMSは、ビジネス・マーケティングを始め、様々な場面であらゆる目的に使われているのです。例えば、
 
