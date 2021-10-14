@@ -12,9 +12,9 @@ and another co-located event that is JomLaunch by prominent local
 developer community called JomWeb.
 
 The first slot I managed to join (I skipped the first day) is
-called [Pentaksiran Pengaturcaraan Komputer Berdasarkan Domain-domain
+called Pentaksiran Pengaturcaraan Komputer Berdasarkan Domain-domain
 Pembelajaran (Programming Assesment based on Learning
-Domains)](http://lanyrd.com/2016/moscmy2016/sdzpgb/)by Ms. Noraini
+Domains) by Ms. Noraini
 Talib, IT Executive at UKM. How to teach programming is always my topic
 of interest and it good to see it from an academic perspective.
 
