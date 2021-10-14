@@ -32,7 +32,7 @@ Some of the interesting startups that I managed to talk to are
 
 - [SENTBE](https://www.sentbe.com/en/) Peer-to-peer international remittance service,
   which skips the banks.
-- [XYLEM Networks](https://xylem.network/) Seemless peer-to-peer network resources
+- XYLEM Networks Seemless peer-to-peer network resources
   sharing service, which rewards you when you share.
 - [flamingo](https://app-flamingo.com/) A language teacher match-making service
 - [Oyraa](https://www.oyraa.com/) An on demand interpretation service
