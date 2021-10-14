@@ -8,7 +8,7 @@ Thumbnail: /images/freeconsul_logo.jpg
 Summary: FreeConsul, the Japanese business tool comparison site featured EZSMS
 
 Our [SMS delivery service EZSMS](https://www.ezsms.biz/) was featured as one of [6 x SMS service](https://xn--tcke8gsdh0c7c.com/sms_service),
-which is published by [freeconsul](https://xn--tcke8gsdh0c7c.com/sms_service)
+which is published by freeconsul
 
 ![freeconsul_image](/images/freeconsul_image.jpg)
 
