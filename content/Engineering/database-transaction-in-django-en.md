@@ -12,7 +12,7 @@ the impression that Django by default execute database operations within
 a  
 transaction block, which is the source of my confusion. It's true only
 to  
-certain extent. The [first section in django documentation](https://docs.djangoproject.com/en/1.3/topics/db/transactions/)
+certain extent. The first section in django documentation
 already explained  
 this (emphasized is mine):-
 
