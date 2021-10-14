@@ -7,7 +7,7 @@ Lang: en
 Thumbnail: images/kl-team-camp-2018.jpg
 Summary: Looking at others working environment during our team camp might improve productivity
 
-On July 2018, we had another [team camp](https://blog.xoxzo.com/tag/team-camp/).
+On July 2018, we had another team camp.
 This time we had it in Kuala Lumpur. It is always an interesting and exciting
 moment when you can meet and work in the same place with your colleague since
 Xoxzo is a
