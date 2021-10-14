@@ -19,7 +19,7 @@ Summary: 2011年6月よりご愛顧頂いております、EZSMS・ショート�
 
 EZSMSのアカウントにログインし、Web上での下記サービスをご利用中のお客様は、引き続きEZSMSをご利用いただくことができます。
 
-1. [Webから送信](https://www.ezsms.biz/ja/faq/web-sms/)（[CSVアップロードによるカスタマイズSMS送信](https://www.ezsms.biz/ja/faq/csv-sms/)を含む）
+1. [Webから送信](https://www.ezsms.biz/ja/faq/web-sms/)CSVアップロードによるカスタマイズSMS送信
 2. [ダイヤルSMS](https://www.ezsms.biz/ja/faq/dialsms/)
 
 
