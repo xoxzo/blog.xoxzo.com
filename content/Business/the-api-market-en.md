@@ -44,9 +44,9 @@ protocols and development tools.
 The Growth of APIs
 ======================================
 
-[Salesforce.com release of it's publicaly available API at the IDG Demo
+Salesforce.com release of it's publicaly available API at the IDG Demo
 conference in 7th Feb
-2000](http://www.prnewswire.com/news-releases/salesforcecom-to-debut-at-demo-2000-72352127.html)
+2000
 kick started the web API market.
 
 In "Tracking The Growth of the API Economy"[^Ref2] Art Anthony shows us that
