@@ -182,7 +182,7 @@ big conference.
 
 ### [Whereby](https://whereby.com/)
 
-This Norway-based startup, [previously known as appear.in](https://medium.com/the-making-of-whereby/appear-in-is-now-whereby-b258d77d3ad9)
+This Norway-based startup, previously known as appear.in
 has perhaps the simplest way to start a video conference call, and is the simplest to use
 among those that we have tried.
 
