@@ -82,5 +82,4 @@ Django-1.5](https://docs.djangoproject.com/en/dev/internals/deprecation/)
 so if you moving to Django-1.3 this a good time to start porting your
 generic views usage to class based views. It also not obvious to me that
 we have to call the superclass method when overriding `get_context_data`
-method otherwise you would not have the complete context data. It only
-after I found this blog [post](http://blog.oscarcp.com/?p=182).
+method otherwise you would not have the complete context data. 
