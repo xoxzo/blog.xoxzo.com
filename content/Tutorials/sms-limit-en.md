@@ -8,7 +8,7 @@ Author: Aiko Yokoyama
 Summary: SMS is a great friend fo marketing as it has higher opening rates and simple and easy to send. A little concern is there is a limit in body text. Here we can introduce some tips to use SMS more convenient.
 
 
-Using Xoxzo's [SMSAPI](https://www.xoxzo.com/en/about/sms-api/) and/or [EZSMS](www.ezsms.biz)(Japanese only) and/or [DialSMS](https://help.xoxzo.com/en/ezsms-sms-delivery-service/articles/what-is-dialsms/), you can send SMS messages by not typing the recipients numbers nor body text on your phone but on your PC, you may send more number of people with ease too.
+Using Xoxzo's [SMSAPI](https://www.xoxzo.com/en/about/sms-api/) and/or [EZSMS](https://www.ezsms.biz/en/) and/or [DialSMS](https://help.xoxzo.com/en/ezsms-sms-delivery-service/articles/what-is-dialsms/), you can send SMS messages by not typing the recipients numbers nor body text on your phone but on your PC, you may send more number of people with ease too.
 
 SMS is utilized in many scenes including business and marketing, as it is simple and easy to send and has higher opening rates than emails. For example:
 
