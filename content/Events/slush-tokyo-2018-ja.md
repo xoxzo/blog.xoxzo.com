@@ -9,7 +9,7 @@ Summary: Xoxzo は、Slush Tokyo 2018に参加し、トップのスタートア�
 
 ![Slush Tokyo]({filename}/images/slush-tokyo-2018.jpg)[Slush Tokyo](http://tokyo.slush.org/)
 
-[Slush](http://www.slush.org/globally/) は、スタートアップや技術者向けのイベントで、毎年、ヘルシンキ、東京、シンガポールや上海で
+Slush は、スタートアップや技術者向けのイベントで、毎年、ヘルシンキ、東京、シンガポールや上海で
 開催されています。今年、Xoxzoはスタートアップ・パスを申請し、このイベントに参加しました。
 
 スタートアップ・パスがあると、マッチメイク・プラットフォームへアクセスできるので、
@@ -28,7 +28,7 @@ Xoxzoは来訪スタートアップの方々と、予約をとることができ
 今回、話をして興味深いと思ったのは、下記のスタートアップです。
 
 - [SENTBE](https://www.sentbe.com/en/) 銀行を介さずに、知人間で国際送金ができるサービス
-- [XYLEM Networks](https://xylem.network/) ネットワーク・リソースを知人間でシームレスに共有できる
+- XYLEM Networks ネットワーク・リソースを知人間でシームレスに共有できる
 サービス。共有者には表彰システムあり。
 - [flamingo](https://app-flamingo.com/) 語学教師のためのマッチメイク・サービス
 - [Oyraa](https://www.oyraa.com/) オン・デマンドの通訳サービス

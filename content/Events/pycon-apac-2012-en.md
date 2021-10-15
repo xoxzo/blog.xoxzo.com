@@ -28,8 +28,7 @@ improvement. 
 of the talks are great, but a few that really interest me is Diversity
 as a Dependency (Anna Ravenscroft), Relational Database Access with
 Python 'sans' ORM (Mark Rees). I've attended Mr Rees's talk on several
-occasions, [MOSC
-2009](http://blog.mosc.my/2009/06/testing-web-apps-with-scripting.html)
+occasions, MOSC 2009
  and other MyOSS Meetup at Technology Park Malaysia, he's an excellent
 speaker and the topic he presents is kind of refreshing in a world where
 framework is abundant, going back to its roots, Python DB API. Diversity

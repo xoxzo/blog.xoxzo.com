@@ -15,12 +15,11 @@ Summary: 株式会社アドパートナーがEZSMS利用していただく理由
 
 【株式会社アドパートナーについて 】
 
-[![AdPartner]({filename}/images/client-logos/adpartner.jpg "AdPartner")](http://www.add-partner.com/company.html)
+[![AdPartner]({filename}/images/client-logos/adpartner.jpg "AdPartner")
 
 住所： 〒581-0037　大阪府八尾市太田5-119　2F
 代表： 代表取締役　佐野 元
 設立： 平成18年10月2日
-URL ： http://www.add-partner.com/company.html
 
 【株式会社Xoxzoについて】
 

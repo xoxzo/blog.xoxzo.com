@@ -36,5 +36,3 @@ just need to dig deeper how exactly does people built it. The is how I
 managed to see how Python features such as list comprehension,
 decorator, metaclass and others being used to solve real problems.
 
-You can view the slides
-[here](https://docs.google.com/presentation/d/1Mt6laaDXGWLN7rm1pvYcqeEzCi9FoJ6VLEMryBEMw_c/edit#slide=id.p).

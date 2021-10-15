@@ -17,6 +17,6 @@ Working with [New Entrepreneurs Foundation](https://www.mynef.com/), Iqbal would
 
 To our esteemed reader, if you would like to nominate worthy startups for the awards, you may do so at the following link by 9 August 2019: [Nomination form](http://ricebowlawards.com/)
 
-More details of the awards can be found in the official press release of the ASEAN Rice Bowl Startup Awards 2019 as follows: [Press release](http://ricebowlawards.com/media/)
+More details of the awards can be found in the official press release of the ASEAN Rice Bowl Startup Awards 2019 as follows: [rice bowl awards](https://www.ricebowlawards.com/)
 
 ![ASEAN Rice Bowl Startup Awards 2019](/images/arbsa-2019/ARBSA_banner.jpg)

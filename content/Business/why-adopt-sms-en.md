@@ -13,7 +13,7 @@ The number of mobile subscription around the world in 2017 has reached 7.6 billi
 
 ## SMS vs Mobile Apps
 
-By 2016, [45% of mobile connections in the world are done over the 2G network](https://www.gsmaintelligence.com/research/2017/02/the-mobile-economy-2017/612/), implying that half of the global market is reachable only by SMS, as opposed to mobile apps. It was also estimated that 49% of mobile subscribers are not using smartphones yet, needless to say, the best way to reach them by text is through SMS. We are essentially talking about a market of 2-3 billion people accessible only by SMS, and not IM apps or social media apps.
+By 2016, 45% of mobile connections in the world are done over the 2G network, implying that half of the global market is reachable only by SMS, as opposed to mobile apps. It was also estimated that 49% of mobile subscribers are not using smartphones yet, needless to say, the best way to reach them by text is through SMS. We are essentially talking about a market of 2-3 billion people accessible only by SMS, and not IM apps or social media apps.
 
 The figures stated above are not a myth. Speaking from experience, marketing personals across the globes had indicated that within a two-year period from 2015 to 2017, they had increasingly use SMS as one of their marketing channels, from 24% to 59%, which is a [growth of 142% in SMS usage as a marketing tool](https://www.salesforce.com/blog/2017/06/fourth-annual-state-of-marketing-report.html).
 

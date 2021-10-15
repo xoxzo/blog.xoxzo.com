@@ -17,7 +17,7 @@ Langkawi]({filename}/images/company-retreat-10th/beach.jpg)
 
 The Andaman
 -------------------------------------------------
-We spent 2 nights at the [The Andaman](http://www.theandaman.com/), a resort on the 
+We spent 2 nights at the The Andaman, a resort on the 
 northern part of Langkawi Island. It is a quiet resort with it's own private beach. 
 The resort has rules to preserve it's surrounding and no motor water sports can take 
 place at it's beach.
@@ -59,8 +59,8 @@ Meeting Stampede
 -------------------------------------------------
 ![Stampede Meets Xoxzo]({filename}/images/company-retreat-10th/stampede-xoxzo.jpg)
 
-On our second day we met up with Shaza and Dov from [Stampede
-Design](http://www.stampede-design.com/work.php) which is
+On our second day we met up with Shaza and Dov from Stampede
+Design which is
 based in Langkawi. Stampede Design is very similar to us in terms of team
 building and how they look at their work. We discussed issues that we face when
 working in a remote team, and how Stampede Design uses tools and pre-defined

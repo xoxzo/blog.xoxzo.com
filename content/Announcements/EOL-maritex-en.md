@@ -7,7 +7,7 @@ Author: Iqbal Abdullah
 Summary: Goodbye from MARITEX
 
 In 2007, with the idea of making international SMS much more affordable and easy
-to use, [MARITEX International SMS Service](http://www.maritex.jp/) was launched. 
+to use, MARITEX International SMS Service was launched. 
 From that time until now, MARITEX at it's peak has sent thousands of messages monthly, 
 connecting family and friends in Japan and abroad.
 

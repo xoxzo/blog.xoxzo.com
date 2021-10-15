@@ -9,7 +9,7 @@ Summary: Xoxzo was at Slush Tokyo 2018, and talked to the top startups and inves
 
 ![Slush Tokyo]({filename}/images/slush-tokyo-2018.jpg)[Slush Tokyo](http://tokyo.slush.org/)
 
-[Slush](http://www.slush.org/globally/) is a startup and tech event, organized annually in Helsinki, Tokyo,
+Slush is a startup and tech event, organized annually in Helsinki, Tokyo,
 Singapore and Shanghai. This year we applied for the Startup pass, and
 particpated in the event.
 
@@ -32,7 +32,7 @@ Some of the interesting startups that I managed to talk to are
 
 - [SENTBE](https://www.sentbe.com/en/) Peer-to-peer international remittance service,
   which skips the banks.
-- [XYLEM Networks](https://xylem.network/) Seemless peer-to-peer network resources
+- XYLEM Networks Seemless peer-to-peer network resources
   sharing service, which rewards you when you share.
 - [flamingo](https://app-flamingo.com/) A language teacher match-making service
 - [Oyraa](https://www.oyraa.com/) An on demand interpretation service

@@ -50,7 +50,7 @@ Comment by Kamal:
 
 ![Geraldo and Iqbal's work setup]({filename}/images/wfh-series/wfh-01-setup-geraldo-iqbal.jpg)
 
-[Geraldo](/author/gerald.html)'s (L) and [Iqbal](/author/iqbal-abdullah.html)'s (R) setups
+Geraldo's (L) and [Iqbal](/author/iqbal-abdullah.html)'s (R) setups
 
 Comment by Geraldo explaining his setup:
 > My idea for creating a working corner at home is to make something sellable.

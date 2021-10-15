@@ -39,8 +39,8 @@ to take advantage of the executive lounge with it's free flow of coffee
 and juice, with some light snacks around 4PM in the afternoon.</span>
 
 The hotel WiFi was also available and pretty fast, although it was a bit
-flaky at times. Each of us has a [YES 4G
-Huddle](http://www.yes.my/v3/personal/devices/huddle.do), so we managed
+flaky at times. Each of us has a YES 4G
+Huddle, so we managed
 to get connected (coverage wasn't an issue since Hatten is in the middle
 of the town) when the hotel WiFi was difficult to connect.
 
@@ -54,8 +54,8 @@ Discussion focused on the current status of development,
 functionalities, issues faced and also an overview of the roadmap that
 we have planned for all of our cloud services.
 
-This meetup was also to congratulate and welcome [Aman, the new addition to
-our team](http://www.marimore.co.jp/en/ourstaff/). Aman in mainly
+This meetup was also to congratulate and welcome Aman, the new addition to
+our team. Aman in mainly
 responsible for the technology transfer of FullCourt from the current
 FullCourt team.  
 

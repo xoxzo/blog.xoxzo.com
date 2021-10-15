@@ -17,7 +17,7 @@ Summary: ちば多文化協働プロジェクトの一環として行われて�
 ![picturebook](/images/picturebook01.jpg)
 
 私は、この会での朗読の依頼を受けました。主催者は当初、私に、マレー語の子供向け絵本の読み聞かせを依頼したのです。
-その時、私の一番のお気に入りでもあり、有名な[Sang　Kancilの絵本シリーズ](http://itbm.com.my/shop/book/1520/sangkancildengansiput) 
+その時、私の一番のお気に入りでもあり、有名なSang　Kancilの絵本シリーズ 
 が、手元にありました。しかし、Sang Kancilの本は、どちらかと言えば小学生向きであり、乳幼児を対象としたこの会で読むには、
 内容が難しくそぐわないと思いました。
 

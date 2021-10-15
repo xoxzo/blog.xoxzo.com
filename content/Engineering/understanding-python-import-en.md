@@ -12,8 +12,8 @@ more. I hope for the former. Having a new hire who is new to Python
 bring up this issue again for us.
 
 Python has few ways to import other modules and has been greatly covered
-in effbot's article - [Importing Python
-Modules](http://effbot.org/zone/import-confusion.htm). Module in Python
+in effbot's article - Importing Python
+Modules Module in Python
 is any file that end with .py. You can import it if you can somehow make
 that file available on Python import path (more on this later). An
 immediate companion to module is package - you can think of it as

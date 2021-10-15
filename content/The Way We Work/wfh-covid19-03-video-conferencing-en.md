@@ -21,7 +21,7 @@ Before February 2020, we didn't have much reason to try out new video
 conferencing tools: We were pretty happy with Google Meet (Hangouts) and
 Slack's video calls.
 
-But with the pandemic and many people [working from home](/tag/workfromhome/), what the market has
+But with the pandemic and many people working from home, what the market has
 to offer for video conferencing tools exploded. Some gave free trials, which we
 thought were great to allow us to see what's out there. So here we are.
 
@@ -182,7 +182,7 @@ big conference.
 
 ### [Whereby](https://whereby.com/)
 
-This Norway-based startup, [previously known as appear.in](https://medium.com/the-making-of-whereby/appear-in-is-now-whereby-b258d77d3ad9)
+This Norway-based startup, previously known as appear.in
 has perhaps the simplest way to start a video conference call, and is the simplest to use
 among those that we have tried.
 

@@ -18,7 +18,7 @@ And similarly to many people, this was my first online conference experience.
 PyCon aka Python Conference is an event where Python enthusiasts gather.
 No matter what your skill is, PyCon will always be a friendly event for everyone.
 PyCon ID 2020 theme
-was: [Connect, Collab, and Contribute](https://pycon.id/blog/connect-collab-contribute). 
+was: Connect, Collab, and Contribute
 
 There were three keynote speakers, regular talks and also the more casual lightning talks.
 I was able to attend all the keynote speakers' sessions,

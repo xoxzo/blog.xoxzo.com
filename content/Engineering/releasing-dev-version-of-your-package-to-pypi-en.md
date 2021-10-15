@@ -19,7 +19,7 @@ install certain packages. For example:-
 
 all those commands above will either install the latest stable release
 of Django or an exact version as specified as argument to the command.
-For our own [mamopublic](https://github.com/marimore/mamopublic)
+For our own mamopublic
 package, I'd plan to also release it on
 [PyPI](http://pypi.python.org/pypi) so it more inline with other third
 party libraries that we need to install as part of our project
@@ -34,7 +34,7 @@ It will ask you to save the username and password in `~/.pypirc` so you
 don't have to  
 type username and password everytime you want to upload to
 [PyPI](http://pypi.python.org/pypi). Now I can install
-[mamopublic](https://github.com/marimore/mamopublic) simpy by just
+mamopublic simpy by just
 typing `easy_install mamopublic`. That will grab the tarball from
 [PyPI](http://pypi.python.org/pypi) website. There's always a case that
 I want to install the latest code from our github commit. I have seen

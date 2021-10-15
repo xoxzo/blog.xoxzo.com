@@ -30,7 +30,7 @@ APIは、多数の違ったデータやサービスを混ぜて併せて、さ�
 APIの成長
 ======================================
 
-[2000年2月7日 IDG デモカンファレンスにて、Salesforce.com が完全公開APIをリリース](http://www.prnewswire.com/news-releases/salesforcecom-to-debut-at-demo-2000-72352127.html)
+2000年2月7日 IDG デモカンファレンスにて、Salesforce.com が完全公開APIをリリース
 これが、ウェブAPI市場の引き金となった。
 
 

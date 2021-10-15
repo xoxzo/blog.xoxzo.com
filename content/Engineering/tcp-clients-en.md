@@ -71,7 +71,7 @@ Note, that if we run the code above again (`requests.get('http://example.com/', 
 
 Let's check behaviour when we change `Connection` header value to `keepalive`.
 
-In this case, we can see that dialog was same as in previous example, except client didn't get last ACK from server. So, server doesn't close the connection. To see benefits of keepalive, we need to run multiply requests from client to server. And in this case we may modify code to use session, and make multiply requests, but I decided to use browser, which is a TCP client itself. I looked for simple http website, and found one - [http://supervisord.org/](http://supervisord.org/). If you open it in browser, it will load the `/` page, and then js, css files, images, and so on. And here's the result of TCP dialogs for such case:
+In this case, we can see that dialog was same as in previous example, except client didn't get last ACK from server. So, server doesn't close the connection. To see benefits of keepalive, we need to run multiply requests from client to server. And in this case we may modify code to use session, and make multiply requests, but I decided to use browser, which is a TCP client itself. I looked for simple http website, and found one - supervisord If you open it in browser, it will load the `/` page, and then js, css files, images, and so on. And here's the result of TCP dialogs for such case:
 
 ![http with keepalive dialog]({filename}/images/tcp-clients-communication/2020-08-29_18-50.png)
 

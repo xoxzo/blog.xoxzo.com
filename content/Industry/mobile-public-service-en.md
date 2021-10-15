@@ -15,7 +15,7 @@ Summary: Ways to use mobile communication for public service
 
 Tanzania, the second biggest economy in East Africa, having a population of 50 million, has approximately [40 million subscribers](https://blog.xoxzo.com/2018/04/06/why-adopt-sms/), attaining a mobile cellular subscription penetration rate of 78% in 2017.
 
-In contrast, birth registration is surprisingly low in the country, it is estimated that [around 80% of Tanzanians](https://www.unicef.org/tanzania/resources_12058.html) do not have birth certificates, being one of the lowest rates of birth registration in Africa. One of the reasons is that travel expenses to the centralized registrar office are too high.
+In contrast, birth registration is surprisingly low in the country, it is estimated that around 80% of Tanzanians do not have birth certificates, being one of the lowest rates of birth registration in Africa. One of the reasons is that travel expenses to the centralized registrar office are too high.
 
 In October 2015, the Tanzanian government [launched a pilot project](https://blogs.unicef.org/innovation/advancing-birth-registration-system-tanzania-providing-five-children-right-protection/) to encourage parents to register births by mobile phone for access to better health and education services. The system enables a local healthcare officer to send the baby’s name, sex, date of birth and family details by SMS to a central database of the registrar office, and a birth certificate is issued free of charge in a matter of days. This is an effective way of increasing birth rate registration in the country.
 

@@ -31,7 +31,7 @@ all about.
 
 ## Digital Transformation: Re-inventing customer relationships
 
-This [talk](https://www.mwcbarcelona.com/session/digital-transformation-reinventing-your-customer-relationships/)
+This talk
 was basically about having mobile first contents and that we're not
 pushing contents fast enough to the mobile screen.
 
@@ -78,7 +78,7 @@ A topic that interests us and also our customers is [RCS](https://en.wikipedia.o
 the 2nd generation SMS service to act as a competitor to Over The Top (OTT)
 services like WhatsApp or Line.
 
-There was a [seminar session on RCS](https://www.mwcbarcelona.com/session/rcs-business-messaging-intelligently-transforming-consumer-experiences/),
+There was a seminar session on RCS,
 which was a full house but I managed to get into to listen in anyway.
 
 The panelist was discussing on how OTT services are eating revenue away from the
@@ -147,7 +147,7 @@ underutilizing it**
 
 ## The Future of Work, Learning and Leading
 
-Another panel discussion that interested was about [the future of work.](https://www.mwcbarcelona.com/session/the-future-of-work-learning-and-leading/)
+Another panel discussion that interested was about the future of work
 They had a panel discussion consisting of panelist from Flylancer, PwC and
 Facebook among others.
 

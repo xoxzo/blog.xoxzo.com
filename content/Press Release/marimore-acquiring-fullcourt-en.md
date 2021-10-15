@@ -70,4 +70,3 @@ the needs of it's customers.
 Address: Matsuura Bldg 5F, 1-9-4 Taito, Taito-ku, Tokyo, JAPAN  
 CEO: Iqbal Abdullah  
 Founded: Feb 2007  
-URL: <http://www.marimore.co.jp/en/></span>

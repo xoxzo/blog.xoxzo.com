@@ -13,7 +13,7 @@ Summary: I took the self learning route and after a couple of months, I found my
 And I did find it eventually. Right from school I always knew I wanted to have a career related to technology. With Google Code-In, I first got a taste of what it meant to contribute to an open source project and was exposed to the huge community that was involved in the process. Many years later, when I came out of college, I was a starry eyed boy with big dreams. However, after getting into the industry and I ended up accepting a job in customer success and not engineering.
 
 
-![interntakeaway](/images/interntakeaway.jpg)<a class="caption" href="https://unsplash.com/photos/O_CLjxjzN3M">Image credit</a>
+![interntakeaway](/images/interntakeaway.jpg)
 
 
 Now, customer success has its own learning curve and you get to learn more about the business aspects and how tech products fit in the bigger picture of the global economy. You learn how to efficiently explain the use cases of a product to the end user and thus mutually benefiting them and your own company. However I was always driven to learn more about the technology and in summer 2018 I decided to take a leap of faith and leave that career behind and start learning to code.
