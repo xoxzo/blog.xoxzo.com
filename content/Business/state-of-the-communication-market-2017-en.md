@@ -45,7 +45,7 @@ with [India being the fastest growing
 market](http://www.thedrum.com/news/2017/07/24/mobile-users-surpass-55bn-2022-fueled-growth-india-and-china).
 
 An interesting fact is we only have around just over
-[2000 mobile operators](https://www.quora.com/How-many-mobile-operators-are-there-worldwide)
+2000 mobile operators
 of various stages (full GSM operators with a license, MVNOs, MNO sub-brands) that are servicing
 the communication demands of these 5.7 billion people worldwide.
 
