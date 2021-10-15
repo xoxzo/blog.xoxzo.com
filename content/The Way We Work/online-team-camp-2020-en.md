@@ -33,7 +33,7 @@ our Annual Open Source grant.
 
 ### Evangelism
 
-The Evangelism team lead by [Geraldo](/author/gerald.html) went through the initiatives that we
+The Evangelism team lead by Geraldo went through the initiatives that we
 carried out last year, and what kind of results we could see from them. A
 particular note of interest is the increase in traffic especially to our
 official blog and the blog posts which received many views are mostly posts which
