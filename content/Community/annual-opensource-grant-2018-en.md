@@ -65,7 +65,7 @@ saying for the Python community to keep PyPI running and improved.*
 
 ![Python packaging]({filename}/images/grantspayments/20180502-donation-for-pypi.png)
 
-### [Requests 3.0](https://www.kennethreitz.org/requests3/)
+### Requests 3.0
 
 We have contributed USD300 to Requests 3.0 
 

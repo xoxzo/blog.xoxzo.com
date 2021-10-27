@@ -52,7 +52,7 @@ Nodejs NPM や PHP Composer と言った、他のプラットフォームは資�
 
 ![Python packaging]({filename}/images/grantspayments/20180502-donation-for-pypi.png)
 
-### [Requests 3.0](https://www.kennethreitz.org/requests3/)
+### Requests 3.0
 
 300米ドルをRequests 3.0 へ贈りました。
 
