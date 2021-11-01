@@ -1,5 +1,5 @@
 Title: テキスト読み上げ機能を使って、電話で認証してみましょう! 
-Date: 2021-09-31 10:00
+Date: 2021-11-01 10:00
 Author: Miko-chan
 Tags: 通話; 音声; テキスト読み上げ; api; チュートリアル; ミコちゃん; 認証;
 Slug: making-a-voice-authentication-call-with-tts
