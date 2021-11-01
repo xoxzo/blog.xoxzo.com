@@ -1,5 +1,5 @@
 Title: SMS送信におけるマナーって？
-Date: 2017-12-25 13:00:00
+Date: 2021-10-29 13:00:00
 Slug: sms-manners
 Lang: ja
 Tags: SMS; 
