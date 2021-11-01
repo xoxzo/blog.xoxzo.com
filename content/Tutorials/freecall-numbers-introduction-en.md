@@ -1,5 +1,5 @@
 Title: 0120 isn’t the only toll-free option for callers!
-Date: 2017-11-02 12:00
+Date: 2021-10-28 12:00
 Author: Aiko Yokoyama
 Tags: voice api; sms api; xoxzo; 2017;
 Slug: freecall-numbers-introduction
