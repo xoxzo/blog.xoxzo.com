@@ -1,5 +1,5 @@
 Title: かけるほうは通話料無料のフリーダイヤルは、0120だけじゃない！！
-Date: 2017-11-02 12:00
+Date: 2021-10-28 12:00
 Author: Aiko Yokoyama
 Tags: APIユーザー; api; チュートリアル; フリーコール; freephone; フリーダイヤル;
 Slug: freecall-numbers-introduction
