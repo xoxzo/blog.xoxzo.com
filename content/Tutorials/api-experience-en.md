@@ -21,7 +21,7 @@ Next, I downloaded [CURL](https://curl.haxx.se/dlwiz/?type=*) to my laptop. Sinc
 
 For anyone familiar with the Command Prompt, all you need is the CD command to navigate, and everything else is CURL function. For the reader who has never used Command Prompt before, you may consider spending an hour or so checking out a user manual and figuring out [how to use Command Prompt](https://www.lifewire.com/command-prompt-2625840). You really only need to practice using the few commands for CD (change directory).
 
-I decided to start with [Voice API](https://www.xoxzo.com/en/about/voice-api/) – Audio File Playback API. I found an MP3 audio file playing harpsichord music with a [URL pointing to it](http://www.hubharp.com/web_sound/WalloonLilliShort.mp3), this is a pre-requisite to run the API. I modified the commands from the [Xoxzo tutorial](https://blog.xoxzo.com/2017/11/28/making-a-simple-playback-call/) to suit my situation. Here’s the command I issued, followed by the screenshot from my Command Prompt: 
+I decided to start with [Voice API](https://www.xoxzo.com/en/about/voice-api/) – Audio File Playback API. I found an MP3 audio file playing harpsichord music with a [URL pointing to it](http://www.hubharp.com/web_sound/WalloonLilliShort.mp3), this is a pre-requisite to run the API. I modified the commands from the [Xoxzo tutorial](https://blog.xoxzo.com/2021/11/08/making-a-simple-playback-call/) to suit my situation. Here’s the command I issued, followed by the screenshot from my Command Prompt: 
 
 ```
 curl -u <API SID>:<Auth Token> --data-urlencode "caller=+60xxxxxxx" --data-urlencode "recipient=+81yyyyyyyy" --data-urlencode "recording_url=http://www.hubharp.com/web_sound/WalloonLilliShort.mp3" https://api.xoxzo.com/voice/simple/playbacks/
