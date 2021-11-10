@@ -32,7 +32,7 @@ Windowsコマンドプロンプトからすべてのコマンドを実行しま�
 私は [音声通話API](https://www.xoxzo.com/ja/about/voice-api/) - オーディオファイル再生API から始めることにしました。
 私は[ハープシコードの音楽を再生するMP3オーディオファイル](http://www.hubharp.com/web_sound/WalloonLilliShort.mp3)を見つけました。
 それを指すURLが、APIを実行するための前提条件です。
-私は、[Xoxzo チュートリアル](https://blog.xoxzo.com/ja/2017/11/28/making-a-simple-playback-call/)のコマンドを 、私の環境に合わせて調整しました。私のコマンドは、こんな感じです。スクリーンショットも続いて御覧ください。
+私は、[Xoxzo チュートリアル](https://blog.xoxzo.com/ja/2021/11/08/making-a-simple-playback-call/)のコマンドを 、私の環境に合わせて調整しました。私のコマンドは、こんな感じです。スクリーンショットも続いて御覧ください。
 
 ```
 curl -u <API SID>:<Auth Token> --data-urlencode "caller=+60xxxxxxx" --data-urlencode "recipient=+81yyyyyyyy" --data-urlencode "recording_url=http://www.hubharp.com/web_sound/WalloonLilliShort.mp3" https://api.xoxzo.com/voice/simple/playbacks/

@@ -1,5 +1,5 @@
 Title: Making a Simple Playback Call
-Date: 2017-11-28 08:00
+Date: 2021-11-08 08:00
 Author: Miko-chan
 Tags: voice api; 2017; mikochan;
 Slug: making-a-simple-playback-call
