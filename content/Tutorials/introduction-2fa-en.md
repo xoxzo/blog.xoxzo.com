@@ -1,5 +1,5 @@
 Title: How to set up Two-Factor Authentication using SMS
-Date: 2018-05-02 10:00
+Date: 2021-11-15 11:00
 Author: Akira Nonaka
 Tags: 2fa; tutorial; sms; api;
 Slug: introduction-2fa-sms
