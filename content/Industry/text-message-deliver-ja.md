@@ -4,10 +4,10 @@ Author: Jocelyn ter Morsche
 Tags: sms; api; 2021
 Slug: text-message-deliver
 Lang: ja
-Thumbnail: images/smsmessage1.jpg
+Thumbnail: images/smsmessage2.jpg
 Summary: SMSメッセージが届かな原因を調べます。
 
-![smsmessage1](/images/smsmessage1.jpg)
+![smsmessage2](/images/smsmessage2.jpg)
 
 SMSとはショートメッセージサービス(Short Message Service)の略で、ショートメールと言われたりすることもあります。
 名前の通り、短いテキストのやりとりができるサービスで、電話番号を利用してメッセージを送信することができます。
@@ -69,7 +69,7 @@ SMS アプリ でメッセージを送受信出来たら便利ですよね。[�
 
 #SMS 届かない！そんな時にはどうしたらいい？
 
-![smsphone](/images/smsphone.jpg)
+![smsphone2](/images/smsphone2.jpg)
 
 SMSは電話番号を利用してメッセージを送信する便利なサービスですが、Eメールと違ってサーバーに置いておかれる事がないので何らかの理由でつながらない場合は「メッセージの送信に失敗しました」などのメッセージが表示されることと思います。SMSが送信できない理由とSMS送信のポイント、また受信側の注意点双方から見ていきましょう。
 
