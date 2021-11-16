@@ -7,7 +7,7 @@ Lang: ja
 Thumbnail: images/smsmessage2.jpg
 Summary: SMSメッセージが届かな原因を調べます。
 
-![smsmessage1](/images/smsmessage1.jpg)
+![smsmessage2](/images/smsmessage2.jpg)
 
 SMSとはショートメッセージサービス(Short Message Service)の略で、ショートメールと言われたりすることもあります。
 名前の通り、短いテキストのやりとりができるサービスで、電話番号を利用してメッセージを送信することができます。
