@@ -1,5 +1,5 @@
 Title: SMSを使った二要素認証のやり方
-Date: 2021-11-15 11:00
+Date: 2021-11-22 11:00
 Author: Akira Nonaka
 Tags: 二要素認証; チュートリアル;sms
 Slug: introduction-2fa-sms
