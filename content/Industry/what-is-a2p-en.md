@@ -32,7 +32,7 @@ __P2P__ messages are often:
  
 Within those places where __A2P-SMS__ can show-off its skills, the typical use is __2-factor-authentication__. (2FA) Auto-booking systems, Upgrade confirmation, and Online Travel Bookings. Many businesses of various industries find __A2P-SMS__ attractive for its convenience, effectiveness and better communication.
 
-A practical example of A2P is the [Xoxzo SMS API](https://www.xoxzo.com/en/about/sms-api/). Using this API you can send SMS marketing messages in bulk to customers including a link to retrieve information about how many customers clicked the link (this function is called link-tracking). The Xoxzo web API can also be used for two-factor-authentication (2FA), with an easy and convenient set up. Check out the tutorial here! 
+A practical example of A2P is the [Xoxzo SMS API](https://www.xoxzo.com/en/about/sms-api/). Using this API you can send SMS marketing messages in bulk to customers including a link to retrieve information about how many customers clicked the link (this function is called link-tracking). The Xoxzo web API can also be used for two-factor-authentication (2FA), with an easy and convenient set up. Check out the tutorial of How to set up Two-Factor Authentication using SMS [here](https://blog.xoxzo.com/en/2021/11/22/introduction-2fa-sms/)! 
 
 The history of __A2P-SMS__ of financial websites goes back 15 years. They use __A2P-SMS__ for Login, Authentication at Sign-up, Fraud prevention, as well as the balance notification and withdrawal confirmation, plus the pre-notice of a coming up direct debit.
 
