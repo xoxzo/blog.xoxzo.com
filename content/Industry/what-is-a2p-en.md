@@ -19,9 +19,9 @@ Yes, they show the difference in the method of how SMS messages are sent to the 
 __P2P__, of course, means from person to person, using their personal mobile phone. For example, two friends exchanging SMS messages.
 
 __P2P__ messages are often:
--Two-way
--Used by individuals rather than businesses
--Conversational only
+- Two-way
+- Used by individuals rather than businesses
+- Conversational only
 
  __A2P__ ,also known as Business SMS or Professional SMS is any kind of traffic in which a person is receiving messages from an application. It can be utilized in various ways, for example chat bots, as an authentication method, as user confirmation for online services, One-time-passwords (OTPS) as well as an emergency notification method. 
  
