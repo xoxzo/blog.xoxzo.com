@@ -59,11 +59,11 @@ A booking confirmation should be short, polite and to the point.
 Well though, the link URL is not always as short and clear as `https://www.xoxzo.com/ja/` it can go over 160 characters sometimes.
 
 So how can we shorten a link that is too long? 
-Xoxzo has an optional service for the SMS API called link tracking which was released in 2020.
+Xoxzo has an optional service for the [SMS API](https://www.xoxzo.com/en/about/sms-api/) called [link tracking](https://www.xoxzo.com/en/about/sms-api/) which was released in 2020.
 By using link tracking your URL will be shortened automatically making it easier to fit within the limits of an SMS message.
 In addition, you’re able to track who, and how many people clicked your link and at what time which can be useful for marketing purposes and improving your messaging even further next time.  
 For example you can create an AB test, 2 types of SMS messages, each sent to half of your customers and track which of the messages had a higher open rate, and which message was clicked on faster. 
-The optional parameter link tracking can easily be enabled when using the Xoxzo SMS API. 
+The optional parameter link tracking can easily be enabled when using the [Xoxzo SMS API](https://www.xoxzo.com/en/about/sms-api/). 
 
 
 It is all up to you and your idea to make the most of 160 characters, using [SMS](https://www.xoxzo.com/en/about/sms-api/).
