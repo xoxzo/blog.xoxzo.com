@@ -49,17 +49,14 @@ __◯◯より（4字）__
 
 しかし、ウェブページのURLは、`https://www.xoxzo.com/ja/` のように、いつもすっきりと短いとは限りません。URLだけで、70字以上！という例もあります。
 
-そんな時には、短縮URLを使いましょう。
+２０２０年で、 [Xoxzo　web API](https://www.xoxzo.com/ja/about/sms-api/) が[link tracking](https://www.xoxzo.com/ja/about/sms-api/)というオプショナルURLパラメータを[リリース](https://blog.xoxzo.com/ja/2020/10/15/link-tracking-release/)しました。
+リンクトラッキングを使用すると、URLが自動的に短縮され、SMSメッセージの制限内に収まりやすくなります。
+そうしたら、別のurl 解析サービスはもう必要はありません。その上、誰、何人の人がリンクをクリックしたか、いつクリックしたかを解析できます。
+マーケティングの目的や次回のメッセージの改善に役立ちます。
+たとえば、ABテストを作成できます。
+2種類のSMSメッセージで、それぞれが顧客の半数に送信されます。 2つのメッセージのどちらが開封率が高く、どのメッセージがより速くクリックされたかを分析できます。
+[Xoxzo SMS API](https://www.xoxzo.com/ja/about/sms-api/)でオプションパラメーターが使われると、リンクトラッキング機能が作動します。とても簡単です！
 
-【短縮URLが簡単に作成できるサービス】
-
-[bit.ly](https://bitly.com/)(英語)
-
-[Google URL Shortener](https://goo.gl/) （英語）
-
-[Syncer](https://syncer.jp/url-shortener)
-
-どれも、簡単に使えるものですが、自己責任にてお使いください。
 
 このように、70字という制限された文面にも、託せる内容は無限にあります。文面も、使い方も、使う人のアイディア次第です。[SMS送信](https://www.xoxzo.com/ja/about/sms-api/)を、有効に楽しくお使いください。
 
