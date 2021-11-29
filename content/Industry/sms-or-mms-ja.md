@@ -52,9 +52,9 @@ Eメール、LINE、SMSなどポピュラーなものからSlackやWowtalkとい
 
 ショートメール 料金 各社リンク
 
-・SoftBank
-・au
-・ドコモ
+・[SoftBank](https://www.softbank.jp/mobile/service/mail/iphone/sms-mms/)
+・[au](https://www.au.com/iphone/service/message/?bid=we-ipo-2016-9006)
+・[ドコモ](https://www.nttdocomo.co.jp/service/sms/charge/)
 
 
 
