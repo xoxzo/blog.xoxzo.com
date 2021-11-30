@@ -5,7 +5,7 @@ Tags: sms; api; 2021
 Slug: text-message-deliver
 Lang: ja
 Thumbnail: images/smsmessage2.jpg
-Summary: SMSメッセージが届かな原因を調べます。
+Summary: SMSメッセージが届かない原因を調べます。
 
 ![smsmessage1](/images/smsmessage1.jpg)
 
