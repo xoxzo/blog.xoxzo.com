@@ -1,11 +1,11 @@
-Title: 
+Title: 「SMS」と「MMS」はどう違う？料金、使い方、サービスなどを紹介します
 Date: 2021-11-30 12:00 
 Author: Jocelyn ter Morsche
 Tags: mobile technology; 2021; sms; mms
 Slug: sms-or-mms
 Lang: ja
 Thumbnail: images/1g03.gif 
-Summary: The origin of 1G technology and how it was first used
+Summary: 　ＳＭＳとＭＭＳにはそれぞれのメリットがあります。しっかり理解して使えば利便性が向上するだけでなく、お得に使用することも可能です。ではこれからＳＭＳとＭＭＳを比較してみましょう。
 
 スマホを使ってメッセージを送る方法が以前より増えてきたため、混乱してしまう方もいらっしゃるかと思います。
 Eメール、LINE、SMSなどポピュラーなものからSlackやWowtalkといった企業が好んで使うものまで多岐にわたります。
