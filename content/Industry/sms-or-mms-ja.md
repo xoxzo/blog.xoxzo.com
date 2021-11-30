@@ -4,8 +4,10 @@ Author: Jocelyn ter Morsche
 Tags: mobile technology; 2021; sms; mms
 Slug: sms-or-mms
 Lang: ja
-Thumbnail: images/1g03.gif 
+Thumbnail: images/mms.png
 Summary: 　ＳＭＳとＭＭＳにはそれぞれのメリットがあります。しっかり理解して使えば利便性が向上するだけでなく、お得に使用することも可能です。ではこれからＳＭＳとＭＭＳを比較してみましょう。
+
+![mms](/images/mms.png)
 
 スマホを使ってメッセージを送る方法が以前より増えてきたため、混乱してしまう方もいらっしゃるかと思います。
 Eメール、LINE、SMSなどポピュラーなものからSlackやWowtalkといった企業が好んで使うものまで多岐にわたります。
@@ -14,6 +16,8 @@ Eメール、LINE、SMSなどポピュラーなものからSlackやWowtalkとい
 
 ## SMSとは
 
+![sms-sms](/images/sms-sms.png)
+
 **｜電話番号を利用してメッセージを送信するサービス**
 　SMSとはショートメッセージサービス(Short Message Service)の略で、ショートメールなんて言われたりすることもあります。 
  電話番号を利用したメール といった感じで、送信の際には相手の電話番号を利用します。
@@ -21,6 +25,9 @@ Eメール、LINE、SMSなどポピュラーなものからSlackやWowtalkとい
 
 
 ## MMSとは
+
+![mms-mms](/images/mms-mms.png)
+
 **｜携帯電話会社（キャリア）独自のメールアドレスを利用してメッセージを送信するサービス**
 
 　携帯電話やスマートフォンを大手キャリア（au、ドコモ、SoftBank)で契約し、インターネット契約をするとメールアドレスが付帯してきます。
@@ -87,7 +94,7 @@ Appleのデバイスに付属しているiMessageというきのうはiOS独自�
 では送信しようとしている相手がiPhoneなのか、そうではないのか分からないときはどうしたらいいのでしょうか？[こちら](https://support.apple.com/ja-jp/HT207006)に見分ける方法が乗っていますので是非参考になさってください。
 メッセージだけの場合は自動的に識別されて送られるようですが、設定によってはSMSの場合送信されないこともあるようです。
 
-
+![mms-mobile](/images/mms-mobile.jpg)
 
 ## SMS送信サービスを使うメリット
 
@@ -117,6 +124,7 @@ Appleのデバイスに付属しているiMessageというきのうはiOS独自�
 
 SMS送受信、一括送信などのSMS送信サービスををお探しですか？ [EZSMS](https://www.ezsms.biz/ja/)はコミュニケーションを簡単に行える SMS送信サービス を提供しています。
 
+![logo_ezsms](/images/ezsms_logo-1.png)
 
 ・利用した分のみのお支払い、月額費用も初期費用もかかりません。
 
