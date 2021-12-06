@@ -3,7 +3,7 @@ Date: 2021-12-06
 Slug: EOY-Holiday-Notice-2021
 Lang: ja 
 Tags: end of year; 年末年始; 2021; 
-Thumbnail: images/2021.png
+Thumbnail: images/holidays2021.png
 Author: Jocelyn ter Morsche
 Summary: 2021年も弊社APIサービスをご利用いただき、誠にありがとうございました。年末年始休業のご案内です。
 
@@ -29,4 +29,4 @@ Summary: 2021年も弊社APIサービスをご利用いただき、誠にあり�
 
 2022年の皆々様のさらなるご活躍と、一日も早いコロナ終息を祈念いたしまして、年末のご挨拶とさせていただきます。
 
-
+![holidays2021](/images/holidays2021.png)
