@@ -4,3 +4,4 @@ markdown
 babel
 pelican-autostatic
 pelican-advthumbnailer
+pelican-series

@@ -6,6 +6,8 @@ Slug: history-of-sms
 Lang: en
 Thumbnail: images/smshistory01.jpg
 Summary: The origin of SMS technology and how it was first used
+Series: featured-en
+series_index: 2
 
 Text messaging as a telecommunications service [had been around for years](http://www.gsmhistory.com/wp-content/uploads/2013/02/SMS-Description-1991-by-K-Holley.pdf) before the development of GSM in 1982. At that time, existing messaging systems were:
 

@@ -6,6 +6,8 @@ Slug: history-of-1g
 Lang: en
 Thumbnail: images/1g03.gif
 Summary: The origin of 1G technology and how it was first used
+Series: featured-en
+series_index: 1
 
 During WWII, the appearance of early radio phones was limited to military use, and not available for civilian or commercial use. These were AM radio phones, that functioned as Walkie-Talkies.
 
