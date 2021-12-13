@@ -10,6 +10,7 @@ blog using Markdown and Pelican.
 
     **virtualenv -p python3** venv
     source venv/bin/activate
+    *IMPORTANT! upgrade pip first:*
     pip install -r requirements.txt
     make build
 
@@ -132,3 +133,17 @@ For example:
 or
 
     ![img-alt](/images/sample2.jpg)<span class="caption">Caption2</span>
+
+### Editor's pick
+
+If you want to show "editor's pick" section, then you need to show 3 articles there, per language.
+To may control selected articles by using 2 additional metadata, `Series:` and `series_index:`, e.g.:
+```
+...
+Thumbnail: images/python-import.jpg
+Summary: Pythonのimportのサーチパスに関する話題
+Series: featured-ja
+series_index: 2
+```
+You set `featured-ja` or `featured-en` for JA or EN pages.
+`series_index:` may take 1, 2 or 3 - it orders articles, e.g. index 2 sets article to the middle position.
