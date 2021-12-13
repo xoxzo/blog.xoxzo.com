@@ -17,7 +17,7 @@ curl -u <API SID>:<Auth Token> --data-urlencode "caller=+60xxxxxxx" --data-urlen
 
 ![apiexp2](/images/apiexp21.jpg)
 
-A Call ID was displayed on Command Prompt. When I answered the Text-to-Speech call ringing on my phone, I was greeted with a brisk and smooth [female voice](https://blog.xoxzo.com/2018/05/23/ivrflow/) reading out the text that I entered in the command above. I experimented with a few commas in between the numbers as suggested in the [TTS tutorial](https://blog.xoxzo.com/2018/03/09/making-a-voice-authentication-call-with-tts/), and noticed that the pause between the numbers increased by a fraction of a second. 
+A Call ID was displayed on Command Prompt. When I answered the Text-to-Speech call ringing on my phone, I was greeted with a brisk and smooth [female voice](https://blog.xoxzo.com/2018/05/23/ivrflow/) reading out the text that I entered in the command above. I experimented with a few commas in between the numbers as suggested in the [TTS tutorial](https://blog.xoxzo.com/2021/11/01/making-a-voice-authentication-call-with-tts/), and noticed that the pause between the numbers increased by a fraction of a second. 
 
 Subsequently, I used the Call ID provided to check the status of my Text-to-Speech call. Following is the command I used, and the screenshot.
 

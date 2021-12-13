@@ -45,7 +45,7 @@ Summary: 第3世代技術の起源と、その使われ方について、ご紹�
 3Gネットワークを提供するにはスペクトルライセンスが欠かせません。その手順は、各国政府によってオークションまたは [ビューティーコンテスト](https://www.itu.int/itunews/issue/2003/06/thirdgeneration.html) の形をとります。前者は最高入札者にライセンスを与えるもので、後者は特定のチェックリストに定められた基準を満たすオペレーターにライセンスを与えるものです。
 
 
-マレーシアでは、マレーシア通信マルチメディア委員会（MCMC）より2つの3Gライセンスが、テレコム・マレーシアとマクシス・コミュニケーションズの子会社UMTSマレーシアに対して、2002年のビューティーコンテストを通じて授与されました。各社とも [譲渡手数料の5000万RM（リンギット）](https://www.mcmc.gov.my/media/press-clippings/malaysia-awards-3g-licenses) に加えて、それぞれの3Gネットワークを構築するトランスミッターの数に応じた追加の管理費を支払いました。2006年には、Uモバイル（旧MiTV）とタイム・ドットコム[（2008年にディジに移譲）](http://www.digi.com.my/aboutus/media/press_release_detail.do?id=3980&page=2&year=2008) に [さらに2つのライセンス](https://www.zdnet.com/article/malaysia-gets-new-3g-operator/) が授与されました。2016年にはこれら四社のすべてが、それぞれ [1億1840万MYR（リンギット）](https://www.developingtelecoms.com/business/operator-news/7576-malaysian-operators-renew-2-1ghz-licences.html)の手数料を支払って2.1GHz周波数ライセンスを更新し、さらに16年間有効となりました。
+マレーシアでは、マレーシア通信マルチメディア委員会（MCMC）より2つの3Gライセンスが、テレコム・マレーシアとマクシス・コミュニケーションズの子会社UMTSマレーシアに対して、2002年のビューティーコンテストを通じて授与されました。各社とも [譲渡手数料の5000万RM（リンギット）](https://www.mcmc.gov.my/media/press-clippings/malaysia-awards-3g-licenses) に加えて、それぞれの3Gネットワークを構築するトランスミッターの数に応じた追加の管理費を支払いました。2006年には、Uモバイル（旧MiTV）とタイム・ドットコム 2008年にディジに移譲 に [さらに2つのライセンス](https://www.zdnet.com/article/malaysia-gets-new-3g-operator/) が授与されました。2016年にはこれら四社のすべてが、それぞれ [1億1840万MYR（リンギット）](https://www.developingtelecoms.com/business/operator-news/7576-malaysian-operators-renew-2-1ghz-licences.html)の手数料を支払って2.1GHz周波数ライセンスを更新し、さらに16年間有効となりました。
 
 2Gでは数多くのフィーチャー・フォンが登場しました。ソニー・エリクソンのカメラフォンやウォークマンフォン、特にメールなど法人通信用のブラックベリー、光沢があってスタイリッシュなモトローラRAZR、LG,それにサムスンのアンドロイド携帯、ノキアN95、パームTreo、HTCタッチといったPDAまたはポケットPC携帯電話など、実に多くの機種がありました。
 

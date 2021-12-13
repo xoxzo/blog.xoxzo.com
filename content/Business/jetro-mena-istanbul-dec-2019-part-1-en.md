@@ -122,7 +122,7 @@ their 3-month program. Startups that apply need to already have an MVP, and
 the founders need to be between 16 to 35 of age. At the end of the program, they
 will have a demo day and present their product.
 
-One of their success stories is a startup which they incubated called [Odiggo](https://www.odiggo.com.eg/en)
+One of their success stories is a startup which they incubated called Odiggo
 MINT does not get directly get any monetary incentive because they don't invest
 in their own incubated startups, but MINT ties up with them by doing researching on
 the customers and passes the data to their parent bank to develop new financial products
