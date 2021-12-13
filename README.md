@@ -11,6 +11,7 @@ blog using Markdown and Pelican.
     **virtualenv -p python3** venv
     source venv/bin/activate
     *IMPORTANT! upgrade pip first:*
+    pip install -U pip
     pip install -r requirements.txt
     make build
 
