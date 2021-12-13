@@ -30,7 +30,7 @@ curl -u <API SID>:<Auth Token> --data-urlencode "caller=+60xxxxxxx" --data-urlen
 テキスト音声変換/TTS（Text-to-Speech）を使った電話にでると、
 [快活で滑らかな女性の声](https://blog.xoxzo.com/ja/2018/05/23/ivrflow/)に挨拶されました。
 上記のコマンドで入力したテキストを読み上げたものです。
-私は、[TTSチュートリアル](https://blog.xoxzo.com/ja/2018/03/09/making-a-voice-authentication-call-with-tts/)
+私は、[TTSチュートリアル](https://blog.xoxzo.com/ja/2021/11/01/making-a-voice-authentication-call-with-tts/)
 で提案されていた通り、数字と数字の間に、カンマをいくつか入れて、
 実験しました。数同士の間がほんの少し開いたことに気づきました。
 
