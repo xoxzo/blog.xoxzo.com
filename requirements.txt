@@ -1,6 +1,7 @@
-pelican==3.7.1
-Jinja2==2.11.3
+pelican
+Jinja2
 markdown
 babel
 pelican-autostatic
 pelican-advthumbnailer
+pelican-series

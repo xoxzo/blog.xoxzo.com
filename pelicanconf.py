@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*- #
-from __future__ import unicode_literals
-
 import os
 
 HERE = os.path.abspath(os.path.dirname(__file__))
@@ -50,7 +46,7 @@ EXTRA_PATH_METADATA = {
 #THEME           = 'themes/simple'
 THEME           = 'themes/xoxzo'
 PLUGIN_PATHS    = [os.path.join(PROJECT_ROOT, 'plugins'),]
-PLUGINS         = ['i18n_subsites', 'related_posts', 'autostatic', 'advthumbnailer', 'sitemap',]
+PLUGINS         = ['i18n_subsites', 'related_posts', 'autostatic', 'advthumbnailer', 'sitemap', 'series', ]
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n',]}
 
 I18N_UNTRANSLATED_ARTICLES  = "remove"
