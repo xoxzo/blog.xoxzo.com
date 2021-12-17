@@ -4,9 +4,10 @@ Author: Jocelyn ter Morsche
 Tags: sms; 2021
 Slug: what-kind-of-service-is-sms
 Lang: ja
-Thumbnail: images/smsmessage2.jpg
+Thumbnail: images/blog3.png
 Summary: SMS とは ショートメッセージサービス（英: short message service）の略で、携帯電話やスマートフォンから電話番号を利用して相手に文字メッセージを送るサービスのことです。
 
+![blog3](/images/blog3.png)
 
 SMS とは ショートメッセージサービス（英: short message service）の略で、携帯電話やスマートフォンから電話番号を利用して相手に文字メッセージを送るサービスのことです。
 電話番号でメール （テキスト）が送ることができ、国際規格なので基本的に世界中の携帯端末同士で送受信でき、比較的安価なため大変便利なサービスです。
@@ -35,6 +36,7 @@ SMS PC から送るには[EZSMS](https://www.ezsms.biz/ja/)のようなSMS配信
 以前はショートメッセージとMMSは別アプリまたは画面から送受信されて間違えることはありませんでしたが、スマートフォンになって、同じメッセージアプリ上で送受信されることもあり、違いがよく分からなくなってきた感があります。
 SMSとMMSの違いについては[こちら](https://blog.xoxzo.com/ja/2021/11/30/sms-or-mms/)をご覧ください。
 
+![blog3-2](/images/blog3-2.jpg)
 
 #・キャリアごとに見たSMS
 
