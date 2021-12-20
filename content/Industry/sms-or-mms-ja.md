@@ -6,6 +6,8 @@ Slug: sms-or-mms
 Lang: ja
 Thumbnail: images/mms.png
 Summary: 　ＳＭＳとＭＭＳにはそれぞれのメリットがあります。しっかり理解して使えば利便性が向上するだけでなく、お得に使用することも可能です。ではこれからＳＭＳとＭＭＳを比較してみましょう。
+Series: featured-ja
+series_index: 2
 
 ![mms](/images/mms.png)
 

@@ -6,8 +6,7 @@ Slug: about-python-import
 Lang: ja
 Thumbnail: images/python-import.jpg
 Summary: Pythonのimportのサーチパスに関する話題
-Series: featured-ja
-series_index: 3
+
 
 Pythonプログラマがしばしば遭遇する問題に、`import` したいモジュールやパッケージが見つからないというものがあります。
 

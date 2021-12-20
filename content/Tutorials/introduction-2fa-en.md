@@ -6,6 +6,8 @@ Slug: introduction-2fa-sms
 Lang: en
 Thumbnail: images/introduction-2fa-sms/sms-2fa-en.jpg
 Summary: Let's learn how to add Two-Factor Authentication on your Web-applications
+Series: featured-en
+series_index: 1
 
 There are many cases that user IDs and passwords are leaked by various Web services, 
 accounts are compromised and illegally used.
