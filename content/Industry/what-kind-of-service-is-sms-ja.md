@@ -6,6 +6,8 @@ Slug: what-kind-of-service-is-sms
 Lang: ja
 Thumbnail: images/blog3.png
 Summary: SMS とは ショートメッセージサービス（英: short message service）の略で、携帯電話やスマートフォンから電話番号を利用して相手に文字メッセージを送るサービスのことです。
+Series: featured-ja
+series_index: 1
 
 ![blog3](/images/blog3.png)
 
