@@ -6,6 +6,8 @@ Slug: voice-or-text
 Lang: en
 Thumbnail: images/oldphone.jpg
 Summary: Voice and text are equally important as means of communication, but which one is the most efficient?
+Series: featured-en
+series_index: 3
 
 
 It’s hard to think of a different reality with fewer choices for communication, but a little over 20 years ago there was only one reliable means of distance communication: landline phones. Nowadays, with a plethora of different text or voice-based apps, and even with some differentials like the use of emoticons or even video calls, it’s hard to imagine that the landline phone was so important for business and personal matters.
