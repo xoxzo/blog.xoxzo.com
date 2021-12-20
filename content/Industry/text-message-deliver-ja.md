@@ -6,6 +6,8 @@ Slug: text-message-deliver
 Lang: ja
 Thumbnail: images/smsmessage2.jpg
 Summary: SMSメッセージが届かない原因を調べます。
+Series: featured-ja
+series_index: 3
 
 ![smsmessage1](/images/smsmessage1.jpg)
 
