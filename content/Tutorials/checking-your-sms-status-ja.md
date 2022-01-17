@@ -15,14 +15,14 @@ Summary: SMSを送信したら、その結果を知りたいよね？　ミコ�
 <a href="https://blog.xoxzo.com/ja/2017/10/31/sending-your-first-sms/">前回のチュートリアル</a>では、SMSを送信しましたよね。
 CURL コマンドを実行した後に、msgid という文字列が返されたのに気が付きましたか？ こんな感じですよ〜。
  <code>[{"msgid":"tHi5i5y0urMsGIdt3xT"}]</code>
- これが返されていれば、SMSがちゃんと送られた、ってことです。そうでなければ、<a href="http://docs.xoxzo.com/ja/sms.html#response-data">別のメッセージ</a>が返されていたはず。
+ これが返されていれば、SMSがちゃんと送信された、ってことです。そうでなければ、<a href="http://docs.xoxzo.com/ja/sms.html#response-data">別のメッセージ</a>が返されていたはず。
  でも、<b>送信</b>したメッセージが、ちゃんと<b>受信</b>されたかどうかって、どうやって確認するんでしょう？
 </div>
 <div style="clear:both;"></div>
 
 ## SMS送信をチェックするコマンド
 
-SMSの_送信ステータスの確認_にも、送信に使ったみたいに、やっぱりCURLを使いま〜す。
+SMSメッセージの_送信ステータスの確認_にも、送信に使ったみたいに、やっぱりCURLを使いま〜す。
 違うのは、つけるパラメーターと、URLだけですよ！
 
 
@@ -52,7 +52,7 @@ Content-Type: application/json
 ```
 
 もちろん、`cost`の部分は、送信したメッセージの数によるわね。
-Xoxzoの[SMS送信料金](https://www.xoxzo.com/ja/about/pricing/sms)を見て、確認してね！
+Xoxzo APIサービスの[SMS送信料金](https://www.xoxzo.com/ja/about/pricing/sms)を見て、確認してね！
 
 送信したメッセージのステータスは、`DELIVERED（配信成功）`ばかりじゃないわよ。
 下のリストにまとめてみたから、参考にしてね。
@@ -140,3 +140,31 @@ Content-Type: application/json
 ではまた次回！
 
 [ミコちゃんのチュートリアル・シリーズ](https://blog.xoxzo.com/ja/tag/mikochiyan/)好評不定期連載中
+
+Mikoシリーズ：
+- [最初のAPIユーザーを作ろう](https://blog.xoxzo.com/ja/2017/10/13/create-your-first-apiuser/)
+- [はじめてのSMSを送ってみよう！](https://blog.xoxzo.com/ja/2017/10/31/sending-your-first-sms/)
+- [SMSの送信ステータスを確認しよう](https://blog.xoxzo.com/ja/2017/11/15/checking-your-sms-status/)
+- [音声案内を発信しましょう！](https://blog.xoxzo.com/ja/2021/11/08/making-a-simple-playback-call/)
+- [テキスト読み上げ機能を使って、電話で認証してみましょう!](https://blog.xoxzo.com/ja/2021/11/01/making-a-voice-authentication-call-with-tts/)
+
+他のXoxzo tutorials:
+- [ダイアルインナンバーを使ってみよう](https://blog.xoxzo.com/ja/2017/07/01/dialinnumbers-tutorial/)
+- [SMSを使った二要素認証のやり方](https://blog.xoxzo.com/ja/2021/11/22/introduction-2fa-sms/)
+- [音声電話を使った二要素認証のやり方](https://blog.xoxzo.com/ja/2018/05/14/introduction-2fa-voice/)
+- [かけるほうは通話料無料のフリーダイヤルは、0120だけじゃない！！](https://blog.xoxzo.com/ja/2021/10/28/freecall-numbers-introduction/)
+- [「自分専用」のボイスメールを設定してみる](https://blog.xoxzo.com/ja/2020/10/23/setting-up-my-first-online-voicemail/)
+- [Xoxzo APIのユーザーエクスペリエンス（第1回）](https://blog.xoxzo.com/ja/2018/06/27/user-experience-on-xoxzo-api-part-1/)
+- [Xoxzo APIのユーザーエクスペリエンス（第2回）](https://blog.xoxzo.com/ja/2018/07/03/user-experience-on-xoxzo-api-part-2/)
+- [SMS文面の字数制限について](https://blog.xoxzo.com/ja/2017/12/28/sms-limit/)
+
+
+
+SMSメッセージを送信するためのさらに簡単なオプションをお探しですか？ PCから顧客にSMSメッセージを送信方法を探しですか？ そして、コーディングせずにすぐに送信始めたいですか？smsアプリの代わりにパソコンからショートメール送信プログラムの おすすめはXoxzoの他のサービス[EZSMS](https://www.ezsms.biz/)はどうでしょう？
+利用した分のみのお支払いからsms の送信、受信 料金心配せず！、月額費用も初期費用もかかりません。
+・プログラムをインストールしたりすることなく簡単にPCからSMSを送信できます。
+・顧客ごとにカスタマイズされたメッセージを送信できます。
+無料登録後、即時にご利用のウェブブラウザーから、SMS(ショートメール)の配信機能をご利用いただいたり、ダイヤル・イン・ナンバーをご利用いただくことができます。 - 170カ国以上への送信も対応しています。 
+- 複数の宛先への一斉送信や、メッセージをカスタマイズして大量配信可能なCSVファイルを使った配信にも対応しています。 
+- いつでも、どこでもSMS送信が可能です。 すべてオンラインで完結できます - ダイヤルSMSでビジネスもイベントも大成功に導きましょう！
+
