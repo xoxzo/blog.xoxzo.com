@@ -8,7 +8,7 @@ Thumbnail: /images/freeconsul_logo.jpg
 Summary: ビジネスツール比較サイト フリーコンサル.com のSMS送信サービス厳選比較に、EZSMSが紹介されました
 
 [SMS配信サービス EZSMS](https://www.ezsms.biz/) が、 フリーコンサル.com にて、厳選比較6選に紹介されました。
-[紹介記事はこちらからどうぞ](https://xn--tcke8gsdh0c7c.com/sms_service) お読みください。
+[紹介記事はこちらからどうぞ](https://freeconsul.co.jp/pd/sms_service/) お読みください。
 
 ![フリーコンサル.com画像](/images/freeconsul_image.jpg)
 
@@ -20,6 +20,4 @@ _手軽で簡単に、必要最小限の機能から低コストでSMS配信を�
 
 と紹介してくださいました。
 
-その他、[多くのビジネスツールについて特徴を比較している優良比較サイト](https://xn--tcke8gsdh0c7c.com/category/business-tools)にて、
-EZSMSの特徴をとてもよく要約してピックアップしていただき、嬉しく思っています。
-
+SMS配信以外にも、[様々なビジネスツールの厳選比較記事が掲載されています](https://xn--tcke8gsdh0c7c.com/category/business-tools)ので、ぜひご参照ください。
