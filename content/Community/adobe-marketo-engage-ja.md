@@ -1,14 +1,14 @@
-Title: Accrete社の三位が、アドビ主催のウェビナーに登壇します
+Title: 株式会社Accreteが、アドビ主催のウェビナーに登壇します
 Date: 2022-02-14
 Author: Aiko Yokoyama
 Tags: Adobe; Accrete; アクリート; アドビ;
 Lang: ja
 Slug: Accrete-Mii-speaker-202202
 Thumbnail: images/
-Summary: 昨年グループ会社となった Accrete社の三位が、アドビ主催のウェビナーMA活用実践塾 - メールが読まれない？開封率９割のSMS活用例」に登壇します
+Summary: 昨年弊社が傘下に入った 株式会社Accreteが、アドビ主催のウェビナー「MA活用実践塾 - メールが読まれない？開封率９割のSMS活用例」に登壇します
 
 2022年2月24日 15:00 - 16:00、[アドビ Adobe Marketo Engage主催のウェビナー](https://engage.marketo.com/MA-Utilization-School-220224.html)に、
-昨年グループ会社となった Accrete社の三位が登壇いたします。
+昨年弊社が傘下に入った [株式会社Accrete](https://www.accrete-inc.com/)の三位が登壇いたします。
 
 ### 『MA活用実践塾 - メールが読まれない？開封率９割のSMS活用例』
 **日時** 
@@ -33,3 +33,7 @@ Marketo Engage からSMSを送る方法を実際の活用事例を交えご紹�
 ウェビナーご参加のお申し込みは[こちら](https://engage.marketo.com/MA-Utilization-School-220224.html)からどうぞ。
 皆様にお会いできますことを楽しみにしております。
 
+#### 株式会社アクリート
+**所在地**：東京都千代田区
+**設立**：2014年5月
+**URL**：https://www.accrete-inc.com/
