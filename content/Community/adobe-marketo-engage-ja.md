@@ -34,7 +34,7 @@ Marketo Engage からSMSを送る方法を実際の活用事例を交えご紹�
 皆様にお会いできますことを楽しみにしております。
 
 
-![images](images/Accrete_logo.png)
+<img src="/images/Accrete_logo_landscape.png" width="200">
 #### 株式会社アクリート
 **所在地**：東京都千代田区
 **設立**：2014年5月
