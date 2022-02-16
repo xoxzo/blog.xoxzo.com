@@ -1,5 +1,5 @@
 Title: Long SMS is no longer SMS
-Date: 2018-07-20 17:00 
+Date: 2021-12-07 12:00
 Slug: long-sms-is-not-sms 
 Lang: en 
 Tags: 2018; sms api; 
@@ -54,5 +54,6 @@ Short-Message-Service is the service to send **Short** messages as it is named a
 In case you really have to inform your customers with tons of sales notices, please prepare a smart-phone sized website full of information, send the URL via SMS. Please note that the link URL is also counted as the letters, so use URL shortening service to make it short and create as simple message as possible.
 
 Using this URL messages, you are not only sending simple and short messages but also are able to track the effectiveness of the SMS notice by utilizing the link-analysis tools.
+Our Xoxzo Web API also has released a link tracking tool which additionally shortens links. Read more about the [link tracking feature here.](https://blog.xoxzo.com/en/2020/10/15/link-tracking-release/)
 
 It is important to understand the differences between SMS and emails and take advantage of each tool and select one of them according to the situation, they are both good communication tools.
