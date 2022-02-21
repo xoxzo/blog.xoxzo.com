@@ -10,7 +10,8 @@ Series: featured-en
 series_index: 3
 
 
-It’s hard to think of a different reality with fewer choices for communication, but a little over 20 years ago there was only one reliable means of distance communication: landline phones. Nowadays, with a plethora of different text or voice-based apps, and even with some differentials like the use of emoticons or even video calls, it’s hard to imagine that the landline phone was so important for business and personal matters.
+It’s hard to think of a different reality with fewer choices for communication, but a little over 20 years ago there was only one reliable means of distance communication: landline phones. Nowadays, with a plethora of different text or voice-based apps, and even with some differentials like the use of emoticons or even video calls, it’s hard to imagine that the landline phone was so important for business and personal matters. Mobile communication, which started with [1G in the ‘80s](https://blog.xoxzo.com/en/2018/07/24/history-of-1g/) was the first step in changing the way we communicate on a scale that was unimaginable at that time. Now we have so many options to reach out to someone: email, SMS messages, phone, video call, and so on. 
+
 
 ![phone](/images/oldphone.jpg)
 _"Yes, we're always up to date regarding new technology, rest assured"_ 
@@ -26,7 +27,7 @@ If there’s a necessity for keeping a record of the content discussed during th
  
 ## Precision
  
-The simple act of writing requires a preorganization of our ideas and thoughts because it’s harder to keep pouring whatever comes to mind into written words. That naturally creates more condensed and organized messages, straight to the point, without any unnecessary distractions from the topic.
+The simple act of writing requires a preorganization of our ideas and thoughts because it’s harder to keep pouring whatever comes to mind into written words. That naturally creates more condensed and organized messages, straight to the point, without any unnecessary distractions from the topic. Therefore it is common for appointments to be confirmed in an email or SMS message with the exact date and time for the recipient to be able to double check. With the [Xoxzo web API for SMS](https://www.xoxzo.com/en/about/sms-api/) you’re able to send text messages from your PC to multiple carriers. Even more conveniently in case you want to add a link to your SMS message Xoxzo has the link tracking functionality which shortens your link and makes it possible to track the date and time the recipient opened the link.
  
 ## Tone and emotions
  
