@@ -21,7 +21,7 @@ Summary: PyCon九州2022で発表しました。
 ![talk]({filename}/images/pycon-kyushu-2022/IMG_8047.jpeg)
 
 さて熊本と言えば、馬刺しと辛子蓮根ですね。今回も堪能させて頂きました。
-今回も太平燕（タイピーエン）を食べ損ねたのがやや心残りです。
+太平燕（タイピーエン）を食べ損ねたのがやや心残りです。
 ![basashi]({filename}/images/pycon-kyushu-2022/IMG_8034.jpeg)
 ![karashi]({filename}/images/pycon-kyushu-2022/IMG_8061.jpeg)
 
