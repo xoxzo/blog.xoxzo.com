@@ -62,7 +62,7 @@ metres under the ground.
 Channel]({filename}/images/tokyo-team-camp-2016/imag0594-e1457311376693.jpg)
 
 On day four, Aiko joined us. We went to [Greater Tokyo Metro Underground
-Discharge Channel](http://www.ktr.mlit.go.jp/edogawa/gaikaku/english/).
+Discharge Channel](https://www.ktr.mlit.go.jp/edogawa//edogawa_index045.html).
 We saw how the Japanese built giant tunnel to prevent an area from
 flood. It's amazing how to see how Japanese built this mega structures
 to prevent flood and saving lives.
