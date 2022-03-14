@@ -26,27 +26,27 @@ Of course, it is possible to remember the rules of the E.164 format and revise t
 
 Most of the content which we sent by SMS, such as marketing messages and emergency broadcasts are of high importance and urgency. You want to send them as fast as possible so that the recipient can also read them as fast as possible.
 
-### EZSMSは非エンジニアをサポート
+### EZSMS supports non-engineers
 
-EZSMSには、姉妹サービス・[Xoxzo（ゾクゾー）](https://www.xoxzo.com/ja/)があります。Xoxzoでは テレフォニーAPIを提供しているので、ウェブサービスやアプリを開発するエンジニアが、便利に使っています。
+EZSMS has a sister service, [Xoxzo] (https://www.xoxzo.com/ja/). Xoxzo offers a telephony API, which is useful for engineers developing web services and apps.
 
-しかし、EZSMSは、コーディングやプログラミングがわからない非エンジニアでも、簡単にウェブブラウザーから登録してすぐに送信開始できるサービスです。そこで、国内表記の電話番号リストを入力すれば、この　E.164形式に自動修正できるツールを作りました。もう、E.164のルールがわからなくても、表計算ソフトでリストの書き換えができなくても、問題ありません。EZSMSにお任せください。
+However, EZSMS is a service that even non-engineers who do not know coding or programming can easily use from a web browser. Simply registeer and you can start sending immediately. So, we developed a tool that can automatically revise any number in your phone number list to the E.164 format. Even if you don't understand the rules of E.164, or if you can't revise the list using spreadsheets, there is no problem! Please leave it to EZSMS.
+
+### How to use the Phone Number Formatter
+
+[How to use the automatic number correction tool] (https://help.xoxzo.com/en/ezsms-sms-delivery-service/articles/how-to-use-number-formatter/) it's very easy! <br>
+If the recipient field contains an invalid phone number that needs to be corrected, the _Send from the web_ will still show up when you try to send the message. For details, see the next section.
+
+The Phone Number Formatter displays a correction sample of the entered number. Numbers in an invalid format that couldn't be modified are excluded from the list. The result of automatic correction will be displayed for all numbers, so that you can look through the revisions before you agree to send your message.
+*Please not that CSV sending is currently not supported. 
+
+For more information please visit the [help center](https://help.xoxzo.com/en/ezsms-sms-delivery-service/articles/how-to-use-number-formatter)。
 
 
-### 使い方
+### Functions of the Phone Number Formatter
 
-[番号自動修正ツールの使い方](https://help.xoxzo.com/ja/ezsms-sms-delivery-service/articles/how-to-use-number-formatter/)は、とてもカンタン。<br>
-というのも、＿ウェブから送信_ でこれまで通り、送信しようとすると、修正が必要な、無効な電話番号が受信者欄に含まれている場合に、自動で現れるからです。詳細は、次項をご確認ください。
-番号自動修正ツールは、入力された番号の修正サンプルを表示します。修正ができない、無効な形式の番号は、リストから除外されます。全ての番号に対して、自動修正を行った結果が表示されますので、確認したユーザーの同意を得て、確定となります。
-現在のところ、csv送信には対応しておりません。ご了承ください。
-
-詳しくは、[ヘルプセンター](https://help.xoxzo.com/ja/ezsms-sms-delivery-service/articles/how-to-use-number-formatter)をご参照ください。
-
-
-### 番号自動修正ツールの機能
-
-番号自動修正ツールは、入力された番号をどのように修正するのでしょうか。<br>
-主に、下記のようなルールに基づいて、修正されます。
+How does the Phone Number Formatter correct the entered number? <br>
+It is mainly modified based on the following rules.
 
 |||
 |--------------------|--------------------|
@@ -63,18 +63,19 @@ EZSMSには、姉妹サービス・[Xoxzo（ゾクゾー）](https://www.xoxzo.c
 ||IPサービス（050）|
 ||固定電話|
 
-* 携帯電話番号が契約されているか、電源が入っているか、電波の届くところにあるか、SMS受信に対応している機種かなどについては、このツールでは判断できませんのでご了承ください。
 
+* Please note that this tool can't determine whether the contract of a mobile phone number, whether the power is on, whether the radio wave is within reach, or if the model can receive SMS messages at that time.
 
-### 料金
+### Price
 
-番号自動修正ツールの利用は、無料です。
+The Phone Number Formatter is free to use.
 
+### The reason for developing this tool
 
-### 番号自動修正ツールの生い立ち
-番号自動修正ツールは、XoxzoやEZSMSのユーザー様のお悩みやご希望、ご要望にお応えして、生まれました。
+The Phone Number Formatter was developed in response to a high number of requests from Xoxzo and EZSMS users.
+We always strive to improve the experience of our customers. 
 
-今後も、新規機能リリースが続きますので、ご期待ください。
+Stay tuned for the next release!
 
-**その他のご要望等ございましたら、ヘルプデスク （help@xoxzo.com）までご連絡ください。**
+** If you have any questions, please send us a message at（help@xoxzo.com）**
 
