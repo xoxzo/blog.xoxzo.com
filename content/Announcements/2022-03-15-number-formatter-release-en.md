@@ -22,12 +22,9 @@ This phone number display format is called [E.164] (https://help.xoxzo.com/ja/ez
 There are unusual rules, such as adding the unnecessary __country code __ and the leading symbol __ + (plus) __ when writing this as a "phone number" in Japan.
 It's a hassle to remember, but you can't send your messages unless the phone number is written in this notation.
 
+Of course, it is possible to remember the rules of the E.164 format and revise the phone number list that you have manually, but it takes a lot of time to go through each phone number and modify it to the standard notation. (Besides, not everyone is good with using spreadsheets!)
 
-
-E.164形式のルールを覚えて、表計算ソフトなどで既存の国内形式の電話番号のリストを書き換えるのが一般的ですが、結局は同じ番号なのに、ひと手間かけるのは、面倒です。
-それに、表計算ソフトを全ての人が上手に使いこなせるわけではありません。
-
-マーケティングのメッセージや、緊急一斉通知など、SMSを使って送信するのは、重要度や緊急性の高い内容がほとんどです。送りたい時に、すぐ送れるといいですよね。
+Most of the content which we sent by SMS, such as marketing messages and emergency broadcasts are of high importance and urgency. You want to send them as fast as possible so that the recipient can also read them as fast as possible.
 
 ### EZSMSは非エンジニアをサポート
 
