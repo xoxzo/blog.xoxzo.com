@@ -50,10 +50,10 @@ It is mainly modified based on the following rules.
 
 |||
 |--------------------|--------------------|
-|**番号自動修正ツール非表示でそのまま送信される**|E.164 compliant mobile phone numbers|
+|**Phone numbers that won't be formatted: **|E.164 compliant mobile phone numbers|
 ||Original (domestic) format mobile phone number | corrected to the E.164 number before sending|
-|**Displaying the Phone Number Formatter**||
-|**Numbers to be modified ** | Mobile numbers that do not comply with E.164|
+|**The Phone Number Formatter is displayed**||
+|**Numbers that will be formatted: ** | Mobile numbers that do not comply with E.164|
 ||080-0000-0000（domestic standard notation）|
 ||08000000000 (Domestic notation without hyphens)|
 ||80-0000-0000(If there is no leading 0)|
