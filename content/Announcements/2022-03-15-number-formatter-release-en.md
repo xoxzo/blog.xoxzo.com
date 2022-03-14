@@ -58,7 +58,7 @@ It is mainly modified based on the following rules.
 ||08000000000 (Domestic notation without hyphens)|
 ||80-0000-0000(If there is no leading 0)|
 ||818000000000(E.164 notation without leading + (plus))|
-|**Excluded numbers ** | Numbers that do not exist in the mobile number library|
+|**Numbers that will be excluded: ** | Numbers that do not exist in the mobile number library|
 ||Free dial (0120/0800)|
 ||IP service（050）|
 ||Fixed-line phone|
