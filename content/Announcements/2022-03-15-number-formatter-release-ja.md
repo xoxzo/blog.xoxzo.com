@@ -3,7 +3,7 @@ Date: 2022-03-15
 Slug: ez-link-tracking-release
 Lang: ja
 Tags: ezsms; 新規リリース; 2022; 番号自動修正ツール;
-Thumbnail: images/ez-link-tracking.png
+Thumbnail: images/formatter-ja.png
 Author: Aiko Yokoyama
 Summary: 開発者でなくても、ブラウザからSMS送信ができるEZSMS。送信用の国際番号表記 E.164 に準拠するよう、簡単に修正できるツールが加わりました。
 
