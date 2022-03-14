@@ -1,24 +1,28 @@
-Title: 【EZSMS】 番号自動修正ツール リリース！！
+Title: 【EZSMS】 Phone Number Formatter tool release! 
 Date: 2022-03-15
 Slug: ez-link-tracking-release
 Lang: en
-Tags: ezsms; 新規リリース; 2022; 番号自動修正ツール;
+Tags: ezsms; new release; 2022; number formatter;
 Thumbnail: images/ez-link-tracking.png
 Author: Aiko Yokoyama
-Summary: 開発者でなくても、ブラウザからSMS送信ができるEZSMS。送信用の国際番号表記 E.164 に準拠するよう、簡単に修正できるツールが加わりました。
+Summary: EZSMS allows you to send SMS messages from your PC, it's easy to use even if you are not a technical person. We have released a new tool that can modify any phone number to comply with the international number notation E.164 before sending.
 
-平素は、[EZSMS](https://www.ezsms.biz/)をご利用いただき、ありがとうございます。
+Thank you for using [EZSMS] (https://www.ezsms.biz/).
 
-開発者でなくても、ブラウザからSMS送信ができるEZSMS。
-マーケティングメッセージの反応を即時に得られる [_リンクトラッキング_](https://blog.xoxzo.com/ja/2021/01/28/ez-link-tracking-release/) など、進化を続けていますが、この度、_番号自動修正ツール_ が
-新規リリースとなりましたので、お知らせいたします。
+EZSMS allows you to send SMS messages from your PC, it's easy to use even if you are not a technical person.
 
-### ウェブからSMS送信するときに、面倒なこと
+We strive to keep improving our product. Last time we released the tool  [_link tracking_] (https://blog.xoxzo.com/en/2021/01/28/ez-link-tracking-release/), which is an optional service that you can use to obtain more information about the people who clicked your link and so have a better idea of how you can improve your marketing efforts.
 
-インターネット・ウェブの世界は、グローバル。つまり、そのウェブから送信するSMSは **世界基準の電話番号表記** が必須となります。
-[E.164](https://help.xoxzo.com/ja/ezsms-sms-delivery-service/articles/E164-format/)と呼ばれる電話番号の表示形式には、
-国内で「電話番号」として表記するときには不要の __国番号__ や先頭の記号 __+(プラス)__ を加えるなど、普段とは違うルールがあります。
-覚えるのが面倒ですが、この表記で入力をしないと送信ができません。
+This time, we're pleased to announce our latest release: the _phone number formatter_
+
+### Issues when sending SMS from the web
+
+The world of the internet and the web is globally oriented. Therefore, SMS sent from the web must have ** world standard phone number notation **.
+This phone number display format is called [E.164] (https://help.xoxzo.com/ja/ezsms-sms-delivery-service/articles/E164-format/)
+There are unusual rules, such as adding the unnecessary __country code __ and the leading symbol __ + (plus) __ when writing this as a "phone number" in Japan.
+It's a hassle to remember, but you can't send your messages unless the phone number is written in this notation.
+
+
 
 E.164形式のルールを覚えて、表計算ソフトなどで既存の国内形式の電話番号のリストを書き換えるのが一般的ですが、結局は同じ番号なのに、ひと手間かけるのは、面倒です。
 それに、表計算ソフトを全ての人が上手に使いこなせるわけではありません。
