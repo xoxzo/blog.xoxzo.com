@@ -3,7 +3,7 @@ Date: 2022-03-15
 Slug: ez-link-tracking-release
 Lang: en
 Tags: ezsms; new release; 2022; number formatter;
-Thumbnail: images/ez-link-tracking.png
+Thumbnail: images/formatter-en.png
 Author: Aiko Yokoyama
 Summary: EZSMS allows you to send SMS messages from your PC, it's easy to use even if you are not a technical person. We have released a new tool that can modify any phone number to comply with the international number notation E.164 before sending.
 
