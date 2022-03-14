@@ -50,19 +50,18 @@ It is mainly modified based on the following rules.
 
 |||
 |--------------------|--------------------|
-|**番号自動修正ツール非表示でそのまま送信される**|E.164に準拠している携帯電話番号|
-||国内表示形式の携帯電話番号(E.164番号に修正して送信)|
-|**番号自動修正ツールが表示される**||
-|**修正される番号**|E.164に準拠しない携帯電話番号|
-||080-0000-0000（国内標準表記）|
-||08000000000(ハイフンを使わない国内表記)|
-||80-0000-0000(先頭の0がない場合)|
-||818000000000(先頭の＋(プラス)がないE.164表記)|
-|**除外される番号**|携帯電話番号ライブラリに存在しない番号|
-||フリーダイヤル(0120/0800)|
-||IPサービス（050）|
-||固定電話|
-
+|**番号自動修正ツール非表示でそのまま送信される**|E.164 compliant mobile phone numbers|
+||Original (domestic) format mobile phone number (corrected to the E.164 number and sent)|
+|**Displaying the Phone Number Formatter**||
+|**Numbers to be modified ** | Mobile numbers that do not comply with E.164|
+||080-0000-0000（domestic standard notation）|
+||08000000000 (Domestic notation without hyphens)|
+||80-0000-0000(If there is no leading 0)|
+||818000000000(E.164 notation without leading + (plus))|
+|**Excluded numbers ** | Numbers that do not exist in the mobile number library|
+||Free dial (0120/0800)|
+||IP service（050）|
+||Fixed-line phone|
 
 * Please note that this tool can't determine whether the contract of a mobile phone number, whether the power is on, whether the radio wave is within reach, or if the model can receive SMS messages at that time.
 
