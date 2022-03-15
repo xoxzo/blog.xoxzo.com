@@ -18,7 +18,7 @@ This time, we're pleased to announce our latest release: the _phone number forma
 ### Issues when sending SMS from the web
 
 The world of the internet and the web is globally oriented. Therefore, SMS sent from the web must have **world standard phone number notation**.
-This phone number display format is called [E.164](https://help.xoxzo.com/ja/ezsms-sms-delivery-service/articles/E164-format/)
+This phone number display format is called [E.164](https://help.xoxzo.com/ezsms-sms-delivery-service/articles/E164-format/)
 There are unusual rules, such as adding the unnecessary __country code__ and the leading symbol **+ (plus)** when writing this as a "phone number" in Japan.
 It's a hassle to remember, but you can't send your messages unless the phone number is written in this notation.
 
@@ -28,7 +28,7 @@ Most of the content which we sent by SMS, such as marketing messages and emergen
 
 ### EZSMS supports non-engineers
 
-EZSMS has a sister service, [Xoxzo](https://www.xoxzo.com/ja/). Xoxzo offers a telephony API, which is useful for engineers developing web services and apps.
+EZSMS has a sister service, [Xoxzo](https://www.xoxzo.com/). Xoxzo offers a telephony API, which is useful for engineers developing web services and apps.
 
 However, EZSMS is a service that even non-engineers who do not know coding or programming can easily use from a web browser. Simply registeer and you can start sending immediately. So, we developed a tool that can automatically revise any number in your phone number list to the E.164 format. Even if you don't understand the rules of E.164, or if you can't revise the list using spreadsheets, there is no problem! Please leave it to EZSMS.
 
