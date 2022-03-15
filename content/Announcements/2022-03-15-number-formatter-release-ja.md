@@ -1,6 +1,6 @@
 Title: 【EZSMS】 番号自動修正ツール リリース！！
 Date: 2022-03-15
-Slug: ez-link-tracking-release
+Slug: number-formatter-release
 Lang: ja
 Tags: ezsms; 新規リリース; 2022; 番号自動修正ツール;
 Thumbnail: images/formatter-ja.png
