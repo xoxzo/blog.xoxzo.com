@@ -1,0 +1,20 @@
+Title: [EZSMS] Downtime notice for the server maintenance 
+Date: 2022-04-25
+Slug: 2022-04-25-downtime
+Lang: en
+Tags: ezsms; 2022;
+Author: Jocelyn ter Morsche
+Summary: The EZSMS website is expected to be down for about 15 min because of server maintenance during the upcoming Friday the 29th of April.
+
+Thank you for using [SMS sending service, EZSMS](https://www.ezsms.biz/).
+
+On Friday, April 29th 2022, EZSMS will have a scheduled downtime due to an infrastructure maintainance.
+The expected downtime duration is about 15 minutes in the afternoon from 16:00 (JST).
+
+**During the downtime, ALL EZSMS WILL BE PAUSED.**
+[The service site](https://www.ezsms.biz/) will not be accessible, including the user log-ins, DialSMS.
+Please refrain from setting the "Schedule sending" around that period to avoid any possible issues.
+
+We apologize for any inconvenience this may cause. 
+
+For any questions, please contact support@ezsms.biz.
