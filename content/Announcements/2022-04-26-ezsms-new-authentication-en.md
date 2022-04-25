@@ -1,21 +1,28 @@
-Title: 【EZSMS】 新規本人認証システムの導入について
+Title: 【EZSMS】 EZSMS has a new authentication method for account creation
 Date: 2022-04-26
 Slug: 2022-04-26-ezsms-new-authentication
 Lang: en
 Tags: ezsms; 2022;
 Author: Jocelyn ter Morsche
-Summary: ２０２２年４月２6日（火）より、セキュリティ強化のため、EZSMSでの本人認証方法が新しくなります。
+Summary: From Tuesday, April 26th, 2022  the authentication method for creating new accounts at EZSMS will be updated to enhance security.
 
-平素は [EZSMS](https://www.ezsms.biz/)をご利用いただき、誠にありがとうございます。
+Thank you for using [EZSMS](https://www.ezsms.biz/)
 
-２０２２年４月２6日（火）　さらなるセキュリティ強化のため、EZSMSでの本人認証方法が新しくなります。
+EZSMS is a platform that allows you to send SMS messages from your PC, it's easy to use even if you are not a technical person. 
 
-【変更点】
-1. 新規アカウント作成時に、本人認証システムによるメールアドレスおよび携帯電話番号の2種類の本人認証を実施いたします。
-  **当日時点で、すでにアカウントを作成のうえ携帯電話番号による認証を済ませておられるユーザー様には、この変更による影響はございません。 **
-  **当日時点で、アカウントを作成されていても携帯電話番号による認証が住んでおられないユーザー様は、ヘルプデスク (support@ezsms.biz) までご連絡ください。**
-2. ご登録のメールアドレスの変更時に、新規導入の外部の認証システムによるメールアドレス認証を実施いたします。
+We always try to keep improving our services. 
+Last time we released [the number formatter](https://blog.xoxzo.com/en/2022/03/15/number-formatter-release/): a tool that automatically changes phone numbers to the E.164 standard format so you don’t have to edit your number list manually.
 
-新規アカウント作成時の認証方法については、[ヘルプセンター](https://help.xoxzo.com/en/ezsms-sms-delivery-service/articles/mobile-number-authentication-2022/)をご参照ください。
+This time we have implemented a new authentication system for the creation of new accounts. We find safety and security highly important, in addition this also made the signup process easier.
 
-ご質問、ご要望等ございましたら、 support@ezsms.biz までご連絡ください。
+The new authentication system will be effective from Tuesday the 26th of April 2022.
+
+What will change?
+1. When creating a new account, we will perform two types of authentication using the new system: one for email and one for your mobile phone number.
+   **As of the 26th of April, users who have already created an account and authenticated with their mobile phone number will not be affected by this change. ** **
+**If you have created an account but haven't authenticated your mobile phone number by the 26th of April, please contact the help desk (support@ezsms.biz). ** 
+**2. When you change your registered e-mail address, the new e-mail address will be authenticated by the newly introduced external authentication system.
+
+For information on how to authenticate when creating a new account, read more at our [Help Center].(https://help.xoxzo.com/en/ezsms-sms-delivery-service/articles/mobile-number-authentication-2022/)をご参照ください。
+
+If you have any questions or comments, please contact us at support@ezsms.biz.
