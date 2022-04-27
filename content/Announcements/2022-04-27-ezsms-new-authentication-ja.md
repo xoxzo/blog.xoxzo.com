@@ -1,10 +1,10 @@
 Title: 【EZSMS】 新規本人認証システムの導入について
-Date: 2022-04-26
-Slug: 2022-04-26-ezsms-new-authentication
+Date: 2022-04-27
+Slug: 2022-04-27-ezsms-new-authentication
 Lang: ja
 Tags: ezsms; 2022;
 Author: Jocelyn ter Morsche
-Summary: ２０２２年４月２6日（火）より、セキュリティ強化のため、EZSMSでの本人認証方法が新しくなります。
+Summary: ２０２２年４月２7日（火）より、セキュリティ強化のため、EZSMSでの本人認証方法が新しくなります。
 
 平素は [EZSMS](https://www.ezsms.biz/)をご利用いただき、誠にありがとうございます。
 
