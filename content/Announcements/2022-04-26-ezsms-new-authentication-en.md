@@ -21,6 +21,7 @@ The new authentication system will be effective from Tuesday the 27th of April 2
 **1. When creating a new account, we will perform two types of authentication using the new system: one for email and one for your mobile phone number.**
 - As of the 27th of April, users who have already created an account and authenticated with their mobile phone number will not be affected by this change.<br>
 - If you have created an account but haven't authenticated your mobile phone number by the 26th of April, please contact the help desk (support@ezsms.biz). <br>
+
 **2. When you change your registered e-mail address, the new e-mail address will be authenticated by the newly introduced external authentication system.**
 
 For information on how to authenticate when creating a new account, read more at our [Help Center].(https://help.xoxzo.com/en/ezsms-sms-delivery-service/articles/mobile-number-authentication-2022/).
