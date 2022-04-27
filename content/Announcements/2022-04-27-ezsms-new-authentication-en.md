@@ -4,7 +4,7 @@ Slug: 2022-04-27-ezsms-new-authentication
 Lang: en
 Tags: ezsms; 2022;
 Author: Jocelyn ter Morsche
-Summary: From Tuesday, April 26th, 2022  the authentication method for creating new accounts at EZSMS will be updated to enhance security.
+Summary: From Tuesday, April 27th, 2022  the authentication method for creating new accounts at EZSMS will be updated to enhance security.
 
 Thank you for using [EZSMS](https://www.ezsms.biz/)
 
