@@ -1,6 +1,6 @@
 Title: 【EZSMS】 EZSMS has a new authentication method for account creation
-Date: 2022-04-26
-Slug: 2022-04-26-ezsms-new-authentication
+Date: 2022-04-27
+Slug: 2022-04-27-ezsms-new-authentication
 Lang: en
 Tags: ezsms; 2022;
 Author: Jocelyn ter Morsche
