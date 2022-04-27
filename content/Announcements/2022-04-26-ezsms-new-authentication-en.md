@@ -23,6 +23,6 @@ What will change?
 **If you have created an account but haven't authenticated your mobile phone number by the 26th of April, please contact the help desk (support@ezsms.biz). ** 
 **2. When you change your registered e-mail address, the new e-mail address will be authenticated by the newly introduced external authentication system.
 
-For information on how to authenticate when creating a new account, read more at our [Help Center].(https://help.xoxzo.com/en/ezsms-sms-delivery-service/articles/mobile-number-authentication-2022/)をご参照ください。
+For information on how to authenticate when creating a new account, read more at our [Help Center].(https://help.xoxzo.com/en/ezsms-sms-delivery-service/articles/mobile-number-authentication-2022/)
 
 If you have any questions or comments, please contact us at support@ezsms.biz.
