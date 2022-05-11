@@ -15,7 +15,7 @@ Last time we released [the number formatter](https://blog.xoxzo.com/en/2022/03/1
 
 This time we have implemented a new authentication system for the creation of new accounts. We find safety and security highly important, in addition this also made the signup process easier.
 
-The new authentication system will be effective from Tuesday the 28th of April 2022.
+The new authentication system that introducing [GetOTP](https://otp.dev/en) will be effective from Tuesday the 28th of April 2022.
 
 ## What will change?
 **1. When creating a new account, we will perform two types of authentication using the new system: one for email and one for your mobile phone number.**
