@@ -1,5 +1,5 @@
 Title: 【EZSMS/Xoxzo】 2022年6月16日のSMS配信における遅延について
-Date: 2022-06-20
+Date: 2022-06-21
 Slug: sms-delay-20220616
 Lang: ja
 Tags: 2022; incident;
