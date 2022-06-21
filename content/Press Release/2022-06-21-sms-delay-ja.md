@@ -4,7 +4,7 @@ Slug: sms-delay-20220616
 Lang: ja
 Tags: 2022; incident;
 Author: Aiko Yokoyama
-Summary: 上流キャリアに寄るタイムアウトの多発と想定を遥かに上回るリクエスト数により、SMS配信に遅延が発生しました。
+Summary: EZSMSとXoxzoの両サービスにおいて、上流キャリアに寄るタイムアウトの多発と想定を遥かに上回るリクエスト数により、SMS配信に遅延が発生しました。
 
 平素は [EZSMS](https://www.ezsms.biz/ja/) および [Xoxzo](https://www.xoxzo.com/ja/) をご利用いただき、誠にありがとうございます。
 
