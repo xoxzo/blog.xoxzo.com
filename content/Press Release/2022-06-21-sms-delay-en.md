@@ -1,23 +1,22 @@
-Title: 【EZSMS/Xoxzo】 2022年6月16日のSMS配信における遅延について
+Title: 【EZSMS/Xoxzo】 About the SMS delivery delays on June 16th, 2022
 Date: 2022-06-21
 Slug: sms-delay-20220616
 Lang: en
 Tags: 2022; incident;
-Author: Aiko Yokoyama
-Summary: 上流キャリアに寄るタイムアウトの多発と想定を遥かに上回るリクエスト数により、SMS配信に遅延が発生しました。
+Author: Jocelyn ter Morsche
+Summary: On June 16th, 2022 SMS deliveries were delayed due to frequent timeouts from carriers and an unusually high number of requests.
 
-平素は [EZSMS](https://www.ezsms.biz/ja/) および [Xoxzo](https://www.xoxzo.com/ja/) をご利用いただき、誠にありがとうございます。
+Thank you for using our services [EZSMS](https://www.ezsms.biz/ja/) and [Xoxzo](https://www.xoxzo.com/ja/) .
 
-[弊社ツイッターにて通知](https://twitter.com/xoxzocom/status/1537357487632171008 )の通り、2022年6月16日(木)、
-EZSMSとXoxzoの両サービスにおいて、SMS配信に、最大5時間28分の遅延が発生いたしました。
+[As we've previously mentioned on Twitter](https://twitter.com/xoxzocom/status/1537357487632171008 )On Thursday June 16th, 2022
+there was a delay of up to 5 hours and 28 minutes in SMS delivery for both EZSMS and Xoxzo.
 
-この遅延は、前日午後より多発しておりました、上流キャリアによるタイムアウトに加え、当日の、想定を遥かに上回るリクエスト数によるものでした。
-午前10時10分頃より遅延が確認され、ルート調整等の対応を行いましたが、全ての送信の完了は、午後5時55分となりました。
+This delay was due to a timeout from carriers, which had been more frequent since the afternoon of the previous day, 
+as well as a higher than expected number of requests on the day.
+We confirmed the delay around 10:10 am, and we took measures such as route adjustment, but it took us until 5:55 pm to finish this.
 
-ご利用のお客様には、多大なご迷惑をおかけいたしまして申し訳ございませんでした。
+We apologize for any inconvenience we may have caused to our customers.
 
-今後、各キャリアの状態をより正確かつ迅速に把握して対応できるよう、弊社の監視体制を見直すとともに、自動化も視野に入れて参りたいと考えております。
+In the future, we plan to review our monitoring system and consider automation so that we can respond to the status of each carrier more accurately and promptly.
 
-影響のあったユーザー様には、詳細を個別にご連絡させていただきます。
-
-どうぞよろしくお願いいたします。
+We will contact the affected users individually with details.
