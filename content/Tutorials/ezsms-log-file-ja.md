@@ -53,7 +53,7 @@ Summary: ログ・ファイルは、EZSMSを使ってSMSを配信したり、ダ
 
 など、分析方法は無限です。
 
-![one_point]({filename}/images/ezsms-tutorial-logo.png)
+![one_point]({filename}/images/ezsms-tutorial-line.png)
 
 今回のチュートリアルは、ここまでです。<br>
 ログ・ファイルは何か、ログ・ファイルは何に使うのかがおわかりいただけましたか？<br>
