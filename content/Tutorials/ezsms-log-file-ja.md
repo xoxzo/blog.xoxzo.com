@@ -7,7 +7,7 @@ Thumbnail: images/ezsms-tutorial-log-file-ja.png
 Lang: ja
 Summary: ログ・ファイルは、EZSMSを使ってSMSを配信したり、ダイヤルSMSを使って着信を受けた記録です。ここでは、3つの主な使いみちをご紹介します。
 
-![header_image](images/ezsms-tutorial-log-file-ja.png)
+![header_image]({filename}/images/ezsms-tutorial-log-file-ja.png)
 
 ## ログ・ファイルって何だろう？
 ログ・ファイルは、EZSMSを使ってSMSを配信したり、ダイヤルSMSを使って着信を受けた記録です。
@@ -19,7 +19,7 @@ Summary: ログ・ファイルは、EZSMSを使ってSMSを配信したり、ダ
 ログ・ファイルには、各送信の記録が一行ごとに並んでいて、送信日時や宛先の電話番号から該当の送信を特定し、
 送信が完了しているかどうかを確認できます。<br>
 
-![one_point](images/ezsms-tutorial-one-point.png)
+![one_point]({filename}/images/ezsms-tutorial-one-point.png)
 
 その送信につけられた「メッセージID」を参照してキャリアに問い合わせを行い、不達の原因を調査することができます。<br>
 「メッセージID」は、システムが各送信に対して割り振るもので、ログ・ファイルに記されています。<br>
@@ -38,7 +38,7 @@ Summary: ログ・ファイルは、EZSMSを使ってSMSを配信したり、ダ
 各送信には、送信した文章中に含まれていたURLが送信時に短縮された、ショートURLおよびそのリンクのアクセス状態の情報が含まれています。<br>
 ログ・ファイルで確認し、今後の送信相手や送信内容、タイミングなどの検討材料としてください。<br>
 
-![one_point](images/ezsms-tutorial-one-point.png)
+![one_point]({filename}/images/ezsms-tutorial-one-point.png)
 
 リンクトラッキング送信後のログ・ファイルは、今後の送信のチューンアップに活かせる情報が入った大切なものです。<br>
 例えば・・・<br>
@@ -53,7 +53,7 @@ Summary: ログ・ファイルは、EZSMSを使ってSMSを配信したり、ダ
 
 など、分析方法は無限です。
 
-![one_point](images/ezsms-tutorial-logo.png)
+![one_point]({filename}/images/ezsms-tutorial-logo.png)
 
 今回のチュートリアルは、ここまでです。<br>
 ログ・ファイルは何か、ログ・ファイルは何に使うのかがおわかりいただけましたか？<br>
