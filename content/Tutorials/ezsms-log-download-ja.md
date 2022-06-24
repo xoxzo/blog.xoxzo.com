@@ -13,11 +13,20 @@ Summary: ログ・ファイルは、お使いのアカウントよりダウン�
 
 ログ・ファイルは、メンバーページからダウンロードできます。
 
-画面右上のプルダウンメニューから「ご利用ログ」を選択する
+1. 画面右上のプルダウンメニューから「ご利用ログ」を選択します。
+
+![screen shot]({filename}/images/ezsms-log-download-01-ja.png)
+
+2. ログの必要な期間を選択します。<br>
+期間の最初と最後を入力します。空欄をクリックするとカレンダーが表示されますので、選択してください。
+
+![screen shot]({filename}/images/ezsms-log-download-02-ja.png)
+
+3. 「ログ取得」ボタンををクリックします。<br>
+システムが、選択された期間のこのアカウントのご利用状況を記録したファイルを生成します。
 
 
 
-ログの必要な期間を選択して「ログ取得」をクリックする（ファイルが生成されます）
 SMS送信のログには「送信ログダウンロード」を、ダイヤルSMSの着信ログには「ダイヤルSMSログをダウンロードする」をクリックしてください。
 ヘルプページを参照：https://help.xoxzo.com/ja/ezsms-sms-delivery-service/articles/how-can-i-check-the-sending-history/
 
