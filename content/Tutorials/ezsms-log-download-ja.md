@@ -3,9 +3,9 @@ Date: 2022-06-24
 Author: Aiko Yokoyama
 Tags: sms; tutorial; log; ezsms;
 Slug: ezsms-log-download
-Thumbnail: images/ezsms-tutorial-head-ja.png
+Thumbnail: images/ezsms-tutorial-thumbnail.png
 Lang: ja
-Summary: ログ・ファイルは、EZSMSを使ってSMSを配信したり、ダイヤルSMSを使って着信を受けた記録です。ここでは、3つの主な使いみちをご紹介します。
+Summary: ログ・ファイルは、お使いのアカウントよりダウンロードできます。
 
 ![header_image]({filename}/images/ezsms-tutorial-head-ja.png)
 
