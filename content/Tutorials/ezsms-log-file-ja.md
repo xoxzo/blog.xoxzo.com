@@ -7,7 +7,7 @@ Thumbnail: images/ezsms-tutorial-thumbnail.png
 Lang: ja
 Summary: ログ・ファイルは、EZSMSを使ってSMSを配信したり、ダイヤルSMSを使って着信を受けた記録です。ここでは、3つの主な使いみちをご紹介します。
 
-![header_image]({filename}/images/ezsms-tutorial-head-ja.png)
+![header_image]({filename}/images/ezsms-tutorial-head.png)
 
 ## ログ・ファイルって何だろう？
 ログ・ファイルは、EZSMSを使ってSMSを配信したり、ダイヤルSMSを使って着信を受けた記録です。
