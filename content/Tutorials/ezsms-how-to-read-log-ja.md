@@ -31,7 +31,7 @@ EZSMSのアカウントページからダウンロードできるログ・ファ
 
 .csvファイルを[表計算ファイル](https://ja.wikipedia.org/wiki/%E8%A1%A8%E8%A8%88%E7%AE%97%E3%82%BD%E3%83%95%E3%83%88)として開く<br>
 <div class="table-responsive">
-  <table>
+  <table border="1" cellpadding="1" cellspacing="1">
 <tr>
   <th>国名</th>
   <th>首都</th>
@@ -158,9 +158,7 @@ EZSMSのアカウントページからダウンロードできるログ・ファ
 (※1)ここで表示される日時は、ご利用登録時に選択された「タイムゾーン」に基づいています。ログ・ファイルの日時が実際の送信時間と大幅にずれている場合、アカウント情報を確認いただき、ご利用のアカウントが、日本時間に設定されていることをご確認ください。
 <br>
 <br>
-「タイムゾーン」の設定を含めた送信ログの読み方は、ヘルプページを参照してください。
-https://help.xoxzo.com/ja/ezsms-sms-delivery-service/articles/how-to-read-your-log-file/
-
+「タイムゾーン」の設定を含めた送信ログの読み方は、[ヘルプページ](https://help.xoxzo.com/ja/ezsms-sms-delivery-service/articles/how-to-read-your-log-file/)を参照してください。
 
 
 ![end of tutorial]({filename}/images/ezsms-tutorial-line.png)
