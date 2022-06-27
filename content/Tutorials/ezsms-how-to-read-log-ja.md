@@ -77,21 +77,21 @@ EZSMSのアカウントページからダウンロードできるログ・ファ
         <td>SEND TIME<br>
         (LOCALTIME)</td>
         <td>送信日時</td>
-        <td>EZSMS側でメッセージの送信リクエストを受け付けた時刻。</td>
+        <td>EZSMS側でメッセージの送信リクエストを受け付けた時刻。(※1)</td>
       </tr>
       <tr>
         <td>2</td>
         <td>LATEST STATUS UPDATED TIME<br>
         (LOCAL TIME)</td>
         <td>送信ステータス<br>最新更新日時</td>
-        <td>SMS送信ステータスを更新した時刻。</td>
+        <td>SMS送信ステータスを更新した時刻。(※1)</td>
       </tr>
       <tr>
         <td>3</td>
         <td>DELIVERY END TIME<br>
         (LOCALTIME)</td>
         <td>送信終了日時</td>
-        <td>送信完了時刻。メッセージが不達の場合でも送信完了といいます。</td>
+        <td>送信完了時刻。(※1)メッセージが不達の場合でも送信完了といいます。</td>
       </tr>
       <tr>
         <td>4</td>
@@ -155,6 +155,11 @@ EZSMSのアカウントページからダウンロードできるログ・ファ
   </table>
 </div>
 
+(※1)ここで表示される日時は、ご利用登録時に選択された「タイムゾーン」に基づいています。ログ・ファイルの日時が実際の送信時間と大幅にずれている場合、アカウント情報を確認いただき、ご利用のアカウントが、日本時間に設定されていることをご確認ください。
+<br>
+<br>
+「タイムゾーン」の設定を含めた送信ログの読み方は、ヘルプページを参照してください。
+https://help.xoxzo.com/ja/ezsms-sms-delivery-service/articles/how-to-read-your-log-file/
 
 
 
