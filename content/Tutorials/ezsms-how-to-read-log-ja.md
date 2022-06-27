@@ -121,7 +121,7 @@ EZSMSのアカウントページからダウンロードできるログ・ファ
         <td>8</td>
         <td>MESSAGE STATUS</td>
         <td>送信ステータス</td>
-        <td>メッセージの送信状況です。以下のステータスのどれかになります。<br>
+        <td>メッセージの送信状況です。以下のステータスのいずれかになります。<br>
         &nbsp;&nbsp;<strong>MESSAGE_DELIVERY_COMPLETE</strong><br>
         &nbsp;&nbsp;正常に配信完了しました。<br>
         &nbsp;&nbsp;<strong>MESSAGE_PASSED_TO_CARRIER_FOR_DELIVERY</strong><br>
