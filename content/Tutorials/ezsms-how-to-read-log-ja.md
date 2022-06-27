@@ -97,7 +97,7 @@ EZSMSのアカウントページからダウンロードできるログ・ファ
         <td>4</td>
         <td>MESSAGE ID</td>
         <td>メッセージID</td>
-        <td>各メッセージに特定するためユニークなID。固有の送信について、問い合わせをいただく際に必要です。</td>
+        <td>各メッセージに特定するため固有のID。ある特定の送信について、問い合わせをいただく際に必要です。</td>
       </tr>
       <tr>
         <td>5</td>
@@ -129,13 +129,13 @@ EZSMSのアカウントページからダウンロードできるログ・ファ
         &nbsp;&nbsp;<strong>MESSAGE_EXPIRED</strong><br>
         &nbsp;&nbsp;メッセージはキャリアまで渡っていますが、キャリアが決めたリトライ回数に達しても宛先の携帯電話まで着信できなかったため配信できませんでした。<br>
         &nbsp;&nbsp;<strong>MESSAGE_DELIVERY_FAILED</strong><br>
-        &nbsp;&nbsp;配信に失敗しました。考えられる理由として [こちら](https://help.xoxzo.com/ja/ezsms-sms-delivery-service/articles/what-would-cause-the-sending-failure/) をご覧ください。</td>
+        &nbsp;&nbsp;配信に失敗しました。考えられる理由として <a href="https://help.xoxzo.com/ja/ezsms-sms-delivery-service/articles/what-would-cause-the-sending-failure/">こちら</a> をご覧ください。</td>
       </tr>
       <tr>
         <td>9</td>
         <td>USED_POINTS</td>
         <td>消費ポイント数</td>
-        <td>このメッセージの送信が消費したポイント数 参照： [料金ページ](https://www.ezsms.biz/ja/faq/price/) </td>
+        <td>このメッセージの送信が消費したポイント数 参照： <a href="https://www.ezsms.biz/ja/faq/price/">料金ページ</a> </td>
       </tr>
       <tr>
         <td>10</td>
