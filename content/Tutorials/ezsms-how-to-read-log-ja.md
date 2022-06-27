@@ -23,7 +23,7 @@ Summary: EZSMSで行った送信や、ダイヤルSMSへの着信が記録され
 EZSMSのアカウントページからダウンロードできるログ・ファイルは「CSV」という拡張子がついた [.csv形式のファイル](https://ja.wikipedia.org/wiki/Comma-Separated_Values) です。
 このファイルは、テキストファイルなので、そのまま開くと、項目が「,」（コンマ）で区切られた形で表示されますが、エクセルなどの表計算ソフトで開くと、簡単に見やすい罫線引きの表として表示できます。
 
-**例）**
+**例）** <br>
 .csvファイルを[テキストファイル](https://ja.wikipedia.org/wiki/Comma-Separated_Values)として開く<br>
 > 国名,首都,国土面積,人口,通貨
 > 日本,東京,"377,973,89km2", 	1億2614万6099人,円
@@ -69,7 +69,7 @@ EZSMSのアカウントページからダウンロードできるログ・ファ
       <tr>
         <th style="text-align: center;"></th>
         <th style="text-align: center;">項目</th>
-        <th style="text-align: center;">項目（日本語）</th>
+        <th style="text-align: center;">日本語</th>
         <th style="text-align: center;">説明</th>
       </tr>
       <tr>
@@ -129,13 +129,13 @@ EZSMSのアカウントページからダウンロードできるログ・ファ
         &nbsp;&nbsp;<strong>MESSAGE_EXPIRED</strong><br>
         &nbsp;&nbsp;メッセージはキャリアまで渡っていますが、キャリアが決めたリトライ回数に達しても宛先の携帯電話まで着信できなかったため配信できませんでした。<br>
         &nbsp;&nbsp;<strong>MESSAGE_DELIVERY_FAILED</strong><br>
-        &nbsp;&nbsp;配信に失敗しました。考えられる理由として[こちら](https://help.xoxzo.com/ja/ezsms-sms-delivery-service/articles/what-would-cause-the-sending-failure/)をご覧ください。</td>
+        &nbsp;&nbsp;配信に失敗しました。考えられる理由として [こちら](https://help.xoxzo.com/ja/ezsms-sms-delivery-service/articles/what-would-cause-the-sending-failure/) をご覧ください。</td>
       </tr>
       <tr>
         <td>9</td>
         <td>USED_POINTS</td>
         <td>消費ポイント数</td>
-        <td>このメッセージの送信が消費したポイント数 参照：[料金ページ](https://www.ezsms.biz/ja/faq/price/)</td>
+        <td>このメッセージの送信が消費したポイント数 参照： [料金ページ](https://www.ezsms.biz/ja/faq/price/) </td>
       </tr>
       <tr>
         <td>10</td>
