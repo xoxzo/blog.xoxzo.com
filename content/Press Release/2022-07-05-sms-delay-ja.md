@@ -1,4 +1,4 @@
-Title: 【EZSMS/Xoxzo】 2022年7月15日のSMS配信における遅延について
+Title: 【EZSMS/Xoxzo】 2022年7月5日のSMS配信における遅延について
 Date: 2022-07-06
 Slug: sms-delay-20220705
 Lang: ja
