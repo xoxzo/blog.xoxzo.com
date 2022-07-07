@@ -4,7 +4,7 @@ Slug: sms-delay-20220705
 Lang: ja
 Tags: 2022; incident;
 Author: Aiko Yokoyama
-Summary: EZSMSとXoxzoの両サービスにおいて、SMS配信に遅延が発生しました。
+Summary: 2022年7月5日(火)、EZSMSとXoxzoの両サービスにおいて、SMS配信に、最大5時間28分の遅延が発生いたしました。午前9時50分頃より遅延が確認され、講じ得る対策を全て行いましたが、全ての送信の完了は、午後3時15分となりました。
 
 平素は [EZSMS](https://www.ezsms.biz/ja/) および [Xoxzo](https://www.xoxzo.com/ja/) をご利用いただき、誠にありがとうございます。
 
