@@ -11,9 +11,10 @@ Thank you for using our services [EZSMS](https://www.ezsms.biz/ja/) and [Xoxzo](
 [As we've previously mentioned on Twitter](https://twitter.com/xoxzocom/status/1544159152574201857) On Tuesday July 5th, 2022
 there was a delay of up to 5 hours and 28 minutes in SMS delivery for both EZSMS and Xoxzo.
 
-This delay was due to a timeout from carriers, which had been more frequent since the afternoon of the previous day, 
-as well as a higher than expected number of requests on the day.
 We confirmed the delay around 9:50 am, and we took measures such as route adjustment, but it took us until 3:15 pm to finish this.
+This delay seems being caused by the timeouts from carriers, which had been more frequent than usual, 
+as well as an extremely high number of requests on the day, but the details are still under investigation.
+We prioritize to figure out the root cause on this issue and examine the measurements how to prevent the recurrance.<pr>
 
 We apologize for any inconvenience we may have caused to our customers.
 
