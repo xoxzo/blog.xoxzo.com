@@ -18,6 +18,5 @@ We prioritize to figure out the root cause on this issue and examine the measure
 
 We apologize for any inconvenience we may have caused to our customers.
 
-In the future, we plan to review our monitoring system and consider automation so that we can respond to the status of each carrier more accurately and promptly.
 
 We will contact the affected users individually with details.
