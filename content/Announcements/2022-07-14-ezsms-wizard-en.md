@@ -1,22 +1,25 @@
-Title: 【EZSMS】 送信ウィザード・リリース！
+Title: 【EZSMS】 Web Wizard sending method release! 
 Date: 2022-07-14
 Slug: 2022-07-14-ezsms-wizard
 Lang: en
 Tags: ezsms; 2022;
 Author: Jocelyn ter Morsche
-Summary: EZSMSの送信に新規ウィザードが追加されました。項目ごとに表示画面が更新されるので、初めて使う方でも迷わずに使えます。
+Summary: New! EZSMS web sending: try the new wizard-style SMS sending method that will be added to the EZSMS dashboard soon. 
 
-平素は [EZSMS](https://www.ezsms.biz/)をご利用いただき、誠にありがとうございます。
+Thank you for using [EZSMS](https://www.ezsms.biz/)
 
-２０２２年7月14日（木）、EZSMSに「送信ウィザード」という新しい送信方法が加わります。<br>
-これまでの送信画面のように、送信元、受信者番号やメッセージ本文の設定を1画面で行うのではなく、設定項目ごとに画面を切り替えるので、初めて使う場合でもわかりやすくお使いいただけます。<br>
+On Thursday, July 14, 2022, EZSMS will have a new sending method called "Web Wizard".<br>
 
-既存の送信画面では、受信者番号　のリストが入ったファイルをアップロードして行う「csv送信」や、シンプルに画面に入力して送信する「ウェブから送信」があり、ファイルのアップロードの有無で、使う画面が分かれていましたが、
-新参の「送信ウィザード」では、受信者番号を、リストでアップロードすることも、直接貼り付けで入力することも一つのウィザード内で選択可能です。
-また、既存の「csv送信」では、アップロード後のファイル内容を見ることはできませんでしたが、新規「送信ウィザード」ではアップロード後のファイルの内容を確認できるだけでなく、編集や追加を行うことができます。
+What has changed? 
+Instead of setting the sender, receiver number and message body on one screen as users are used to with our previous system, we have one screen per item which makes it even easier to use, especially for first-time users.
 
-どの送信画面を使っても、送信料金に違いはありません。新規リリースの送信ウィザードも、ぜひお試しください。
+On the current sending screen, you can see "csv send" which uploads a file containing a list of recipient numbers and "send from the web" on which you can simply input and send on the screen, depending on whether the file is uploaded or not. These screens used to be separated, but with the new "Web Wizard", you can select to upload the recipient numbers in a list or enter them by pasting directly in the wizard.
 
-送信ウィザードのご利用方法詳細については、[ヘルプセンター](https://help.xoxzo.com/ja/ezsms-sms-delivery-service/articles/)をご参照ください。
+In addition, with the "csv sending" method, you couldn't see the contents of the file after uploading, but with the new "Web Wizard", you can not only check the contents of the file after uploading, but also edit it.
 
-ご質問、ご要望等ございましたら、 support@ezsms.biz までご連絡ください。
+You are still able to use the old sending methods and there is no difference in the sending fee between the wizard and the traditional sending methods.
+Please give the newly released Web Wizard sending method a try.
+
+For a more detailed explanation to use the web wizard please read more in this [helpcenter article](https://help.xoxzo.com/ja/ezsms-sms-delivery-service/articles/)
+
+If you have any questions or requests, please send an email to: support@ezsms.biz
