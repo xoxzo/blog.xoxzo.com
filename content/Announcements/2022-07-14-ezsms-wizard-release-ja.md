@@ -17,6 +17,6 @@ Summary: EZSMSの送信に新規ウィザードが追加されました。項目
 
 どの送信画面を使っても、送信料金に違いはありません。新規リリースの送信ウィザードも、ぜひお試しください。
 
-送信ウィザードのご利用方法詳細については、[ヘルプセンター](https://help.xoxzo.com/ja/ezsms-sms-delivery-service/articles/)をご参照ください。
+送信ウィザードのご利用方法詳細については、[ヘルプセンター](https://help.xoxzo.com/ja/ezsms-sms-delivery-service/articles/how-to-use-wizard/))をご参照ください。
 
 ご質問、ご要望等ございましたら、 support@ezsms.biz までご連絡ください。
