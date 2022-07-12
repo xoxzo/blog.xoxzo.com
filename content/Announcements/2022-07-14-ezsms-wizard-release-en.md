@@ -20,6 +20,6 @@ In addition, with the "csv sending" method, you couldn't see the contents of the
 You are still able to use the old sending methods and there is no difference in the sending fee between the wizard and the traditional sending methods.
 Please give the newly released Web Wizard sending method a try.
 
-For a more detailed explanation to use the web wizard please read more in this [helpcenter article](https://help.xoxzo.com/ja/ezsms-sms-delivery-service/articles/)
+For a more detailed explanation to use the web wizard please read more in this [helpcenter article]([https://help.xoxzo.com/ja/ezsms-sms-delivery-service/articles/](https://help.xoxzo.com/ezsms-sms-delivery-service/articles/how-to-use-wizard/)
 
 If you have any questions or requests, please send an email to: support@ezsms.biz
