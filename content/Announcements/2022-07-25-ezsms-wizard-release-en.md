@@ -1,6 +1,6 @@
 Title: 【EZSMS】 Web Wizard sending method release! 
-Date: 2022-07-14
-Slug: 2022-07-14-ezsms-wizard
+Date: 2022-07-25
+Slug: 2022-07-25-ezsms-wizard
 Lang: en
 Tags: ezsms; 2022;
 Author: Jocelyn ter Morsche
@@ -8,7 +8,7 @@ Summary: New! EZSMS web sending: try the new wizard-style SMS sending method tha
 
 Thank you for using [EZSMS](https://www.ezsms.biz/)
 
-On Thursday, July 14, 2022, EZSMS will have a new sending method called "Web Wizard".<br>
+On Monday, July 25, 2022, EZSMS will have a new sending method called "Web Wizard".<br>
 
 What has changed? 
 Instead of setting the sender, receiver number and message body on one screen as users are used to with our previous system, we have one screen per item which makes it even easier to use, especially for first-time users.
