@@ -8,10 +8,10 @@ Summary:　We expect a downtime for database upgrade, for about 30 min.
 
 Thank you for using [Xoxzo Cloud Telephony](https://xoxzo.com/)and[EZSMS](https://www.ezsms.biz/).
 
-Please let us notify that we will have a downtime for database upgrade on ２０２2/0９/22.
+Please let us notify that we will have a downtime for database upgrade on 2022/09/22.
 The downtime will start at around 15:00 (JST) and it will be about the duration of 30 min.
 
-**ALL feature of both Xoxzo and EZSMS will not be available during this period**
+**ALL feature of both Xoxzo and EZSMS will not be available during this period** </br>
 No site access, API requests (both SMS/Voice), DialSMS including the account log-ins will be accessible.
 Please also note that **Schedule Sending on EZSMS** will not be available as well.
 
