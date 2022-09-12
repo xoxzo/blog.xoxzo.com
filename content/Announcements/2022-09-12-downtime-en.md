@@ -1,20 +1,19 @@
-Title: 【Xoxzo/EZSMS】 ダウンタイムのお知らせ 
+Title: [Xoxzo/EZSMS] A Scheduled Downtime on 2022/09/22 
 Date: 2022-09-12
 Slug: 2022-09-22-downtime
 Lang: en
 Tags: ezsms; xoxzo; 2022;
 Author: Aiko Yokoyama
-Summary:　データベースアップグレードのため、3０分程度のダウンタイムが見込まれています。
+Summary:　We expect a downtime for database upgrade, for about 30 min.
 
-平素は [Xoxzo クラウドテレフォニー](https://xoxzo.com/)および[SMS送信　EZSMS](https://www.ezsms.biz/)をご利用いただき、誠にありがとうございます。
+Thank you for using [Xoxzo Cloud Telephony](https://xoxzo.com/)and[EZSMS](https://www.ezsms.biz/).
 
-２０２2年９月22日（木）　データベースアップグレードを行うため、ダウンタイムが予想されております。
-ダウンタイムは、15時頃となり、その時間は、約3０分間となる予定です。
+Please let us notify that we will have a downtime for database upgrade on ２０２2/0９/22.
+The downtime will start at around 15:00 (JST) and it will be about the duration of 30 min.
 
-**この間、XoxzoとEZSMSの全ての機能がご利用いただけませんのでご了承ください。**
-既存のアカウントへのログインを含む、サービスサイトへのアクセス、APIリクエスト（SMS＆音声）、ダイヤルSMSもご利用いただくことができません。
-また、この時間帯の **予約送信** の設定を避けていただけますよう、よろしくお願いいたします。
+**ALL feature of both Xoxzo and EZSMS will not be available during this period**
+No site access, API requests (both SMS/Voice), DialSMS including the account log-ins will be accessible.
+Please also note that **Schedule Sending on EZSMS** will not be available as well.
 
-ご不便をおかけいたしますが、ご了承のほど、よろしくお願いいたします。
-
-ご質問、ご要望等ございましたら、 support@ezsms.biz までご連絡ください。
+We are sorry for any inconvenience this may cause.
+Please contact help@xoxzo.com or support@ezsms.biz for any questions.
