@@ -1,4 +1,4 @@
-Title: 【EZSMS】 ダウンタイムのお知らせ 
+Title: 【Xoxzo/EZSMS】 ダウンタイムのお知らせ 
 Date: 2022-09-12
 Slug: 2022-09-22-downtime
 Lang: ja
