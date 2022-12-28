@@ -3,7 +3,7 @@ Date: 2022-11-16
 Slug: EOY-Holiday-Notice-2022
 Lang: en
 Tags: end of year; 2022;
-Thumbnail: images/holidays2022.png
+Thumbnail: images/Holidays2022.png
 Author: Jocelyn ter Morsche
 Summary: Thank you for supporting Xoxzo and EZSMS throughout 2022. Here is our Holiday announcement for this year 2022 and 2023.
 
