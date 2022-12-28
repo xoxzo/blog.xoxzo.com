@@ -25,12 +25,12 @@ In a nutshell, both Accrete's and Xoxzo's services are described with the same w
 as "SMS delivery services", so I would like to briefly talk about the differences 
 and explain those in a simple way for those who are not sure about this.
 </br>
-Xoxzo's SMS delivery service is characterized by being "<b>flexible</b>" and "**fast & easy**”.
+Xoxzo's SMS delivery service is characterized by being "<b>flexible</b>" and "<b>fast & easy</b>”.
 </br>
-**Flexible**: Displays an alphabetical name, rather than a phone number as the SMS sender. 
-**Fast & easy**: Credit card payment is supported and ready for immediate use. 
+<b>Flexible</b>: Displays an alphabetical name, rather than a phone number as the SMS sender. 
+<b>Fast & easy</b>: Credit card payment is supported and ready for immediate use. 
 </br>
-This service is intended for users who want to use a "**flexible**" and "**fast & easy**" service. 
+This service is intended for users who want to use a "<b>flexible</b>" and "<b>fast & easy</b>" service. 
 </br>
 
 ## The Xoxzonians
@@ -42,7 +42,7 @@ and Japan, and of course, customer support can be provided in both Japanese and 
 These members in one Xoxzo-team work in harmony to provide services to our users. 
 </br>
 </br>
-Please feel free to contact us if you are looking for a "**flexible**" and "**fast & easy**" 
+Please feel free to contact us if you are looking for a "<b>flexible</b>" and "<b>fast & easy</b>" 
 SMS delivery service. 
 </br>
 My New Year greeting seems to be filled with service advertisements, 
