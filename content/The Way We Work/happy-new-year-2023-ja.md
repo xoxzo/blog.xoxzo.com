@@ -1,5 +1,5 @@
 Title: 2023年の幕開けに寄せて、新年のご挨拶です
-Date: 2021-01-01
+Date: 2023-01-01
 Author: Yuta Ikeda
 Tags: 2023;
 Slug: a-happy-new-year-2023
