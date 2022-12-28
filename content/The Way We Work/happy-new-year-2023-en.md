@@ -25,7 +25,7 @@ In a nutshell, both Accrete's and Xoxzo's services are described with the same w
 as "SMS delivery services", so I would like to briefly talk about the differences 
 and explain those in a simple way for those who are not sure about this.
 </br>
-Xoxzo's SMS delivery service is characterized by being "**flexible**" and "**fast & easy**”.
+Xoxzo's SMS delivery service is characterized by being "<b>flexible</b>" and "**fast & easy**”.
 </br>
 **Flexible**: Displays an alphabetical name, rather than a phone number as the SMS sender. 
 **Fast & easy**: Credit card payment is supported and ready for immediate use. 
