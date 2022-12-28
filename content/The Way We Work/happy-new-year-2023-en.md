@@ -8,7 +8,7 @@ Thumbnail: images/oka-teamcamp-2019/IMG_9071-syuri-jo.jpg
 Summary: 2022 was another zap, since the company was merged in the previous year 
 
 ## The best wishes for 2023 from Accrete and Xoxzo
-</br>
+
 I would like to extend my best wishes for the start of the New Year in 2023. 
 </br>
 Since we have become a part of the Accrete Co., Ltd. group, 
