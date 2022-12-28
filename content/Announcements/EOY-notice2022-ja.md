@@ -3,7 +3,7 @@ Date: 2022-11-16
 Slug: EOY-Holiday-Notice-2022
 Lang: ja 
 Tags: end of year; 年末年始; 2022; 
-Thumbnail: images/holidays2022.png
+Thumbnail: /images/holidays2022.png
 Author: Jocelyn ter Morsche
 Summary:  2022年も弊社APIサービスをご利用いただき、誠にありがとうございました。
 年末年始休業のご案内です。本年の年末年始につきましてまことに勝手ではございますが、下記の通り休業させていただきますので、ご高配賜りますようお知らせ申し上げます。
