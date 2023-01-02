@@ -1,0 +1,27 @@
+{% if DEFAULT_LANG == "en" %}
+<div class="author-profile container">
+  <div class="row">
+    <div class="col-sm-4 text-left text-sm-center mb-3">
+      <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/yuta.jpg" alt="Yuta Ikeda">
+    </div>
+    <div class="col-sm-8 profile-content">
+      <h3>Yuta Ikeda</h3>
+      <h4>CEO</h4>
+      <p>Inaugurated as the CEO of Xoxzo in October 2021. 30 years experience in the field of the information and telecommunication industry, from which he worked abroad in Malaysia and Thailand for 10 years, working at a trading company and a telecommunications company. As a member of the Accrete Group he will work together with the members of Xoxzo to provide services to help customers. In his spare time he is engaged in activities with the aim of realizing a multicultural society.</p>
+    </div>
+  </div>
+</div>
+{% else %}
+<div class="author-profile container">
+  <div class="row">
+    <div class="col-sm-4 text-left text-sm-center mb-3">
+      <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/yuta.jpg" alt="池田　祐太">
+    </div>
+    <div class="col-sm-8 profile-content">
+      <h3>池田　祐太</h3>
+      <h4>代表者取締役</h4>
+      <p>2021年10月に就任。横浜国立大学経済学部卒業後、総合商社・通信事業者等で約30年に亘る情報通信業界での勤務経験、うちマレーシア・タイで約10年に亘る海外駐在経験あり。当社の多種多様なメンバーとともにアクリートグループの一員として、お客様のお役に立てるサービスの提供に努めます。個人的には、多文化共生社会の実現を目指した活動もしています。</p>
+    </div>
+  </div>
+</div>
+{% endif %}
