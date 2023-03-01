@@ -1,0 +1,27 @@
+{% if DEFAULT_LANG == "en" %}
+<div class="author-profile container">
+  <div class="row">
+    <div class="col-sm-4 text-left text-sm-center mb-3">
+      <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/aji.jpg" alt="Aji Pratama">
+    </div>
+    <div class="col-sm-8 profile-content">
+      <h3>Aji Pratama</h3>
+      <h4>Engineer</h4>
+      <p>Joined March 2023. Previously work for Indonesian tech company for 5 years.</p>
+    </div>
+  </div>
+</div>
+{% else %}
+<div class="author-profile container">
+  <div class="row">
+    <div class="col-sm-4 text-left text-sm-center mb-3">
+      <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/aji.jpg" alt="あじプライマリー">
+    </div>
+    <div class="col-sm-8 profile-content">
+      <h3>あじプライマリー</h3>
+      <h4>エンジニア、開発担当</h4>
+      <p>2023年3月入社。インドネシアのテック企業に5年間勤務。。</p>
+    </div>
+  </div>
+</div>
+{% endif %}
