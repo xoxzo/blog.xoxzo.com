@@ -1,0 +1,27 @@
+{% if DEFAULT_LANG == "en" %}
+<div class="author-profile container">
+  <div class="row">
+    <div class="col-sm-4 text-left text-sm-center mb-3">
+      <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/aji.jpg" alt="Aji Pratama">
+    </div>
+    <div class="col-sm-8 profile-content">
+      <h3>Aji Pratama</h3>
+      <h4>Engineer</h4>
+      <p>Joined March 2023. Previously worked as Software Engineer at Indonesian tech company for a total of 5 years. graduated from the Faculty of Engineering, University of Muhammadiyah Jakarta, majoring in Informatics Engineering. Loves do something using Python since 2017.</p>
+    </div>
+  </div>
+</div>
+{% else %}
+<div class="author-profile container">
+  <div class="row">
+    <div class="col-sm-4 text-left text-sm-center mb-3">
+      <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/aji.jpg" alt="あじプライマリー">
+    </div>
+    <div class="col-sm-8 profile-content">
+      <h3>あじプライマリー</h3>
+      <h4>エンジニア、開発担当</h4>
+      <p>2023年3月入社。インドネシアのテック企業にてソフトウェアエンジニアとして計5年間勤務。 ジャカルタ・ムハンマディヤ大学工学部卒業、情報工学専攻。 2017 年から Python を使って何かをするのが大好きです。</p>
+    </div>
+  </div>
+</div>
+{% endif %}
