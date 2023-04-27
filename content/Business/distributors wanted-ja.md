@@ -28,8 +28,29 @@ Summary: あなたの顧客へSMSを利用したビジネスブーストをご�
 * [予約リマインダー](https://www.xoxzo.com/ja/about/use-cases/appointment-reminder/)
 * [重要/緊急通知・延滞/滞納催促](https://www.xoxzo.com/ja/about/use-cases/customer-alert-and-notification/)
 などがあります。</br>
-顧客との
+顧客や、学校・企業などのグループとのコミュニケーションが存在すれば、それば業務用SMSが活躍できる場所。</br>
+2010年に4.4%だったスマートフォンの普及率は、今や94.0%となりました。（[NTTドコモ/「データで読み解くモバイル利用トレンド2022-2023-モバイル社会白書](https://www.docomo.ne.jp/binary/pdf/info/news_release/topics_221020_10.pdf)より）</br>
+様々な年代のユーザーが想定される中、特定のアプリを追加する必要なくメッセージが手元に受け取れるSMSが重宝されるのにも不思議はありません。
 
 ## 導入可能な業種
 
 用途にも幅があるSMSは、様々な業種で使われています。
+* [人材業](https://www.ezsms.biz/ja/faq/industries/recruitment/)
+* [不動産業](https://www.ezsms.biz/ja/faq/industries/real-estate/)
+* [婚活支援](https://www.ezsms.biz/ja/faq/industries/dating/)
+* [レンタル収納](https://www.ezsms.biz/ja/faq/industries/storage/)
+* [接客業](https://www.ezsms.biz/ja/faq/industries/hospitality/)
+* 医療関係
+* 小売業
+* 生活関連サービス業（クリーニング店等）
+* 修理業
+など、多種に渡る業種で、活躍中です。
+
+## 導入のハードルが低いサービス
+
+1通の料金が安いSMSは、導入のハードルが低く、また、初期費用や月額利用料のない弊社サービスは、効果の程をまずは試したいという方にも、大変容易に使い始めていただくことができるサービスです。</br>
+
+用途や導入方法によって、例えば二要素認証にご利用の場合には、システムに組み込む必要がありますが、その場合は使いやすく美しいAPI[Xoxzo](xoxzo.com)をご紹介。休眠会員掘り起こしのメッセージを送信したい場合は、ウェブブラウザーから簡単にリストをアップロードして送信可能な[EZSMS](ezsms.biz)をご紹介いただけます。自社サービスとして販売したい代理店さまには、OEM版もご用意しております。</br>
+
+現在顧客に提供中のサービスに、プラスしてご提案いただける柔軟性を持ったSMSサービスの代理店。
+詳細は、distributors@xoxzo.com までお気軽にお問い合わせ下さい。
