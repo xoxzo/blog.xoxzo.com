@@ -1,47 +1,48 @@
-Title: Xoxzoは代理店を募集中です
+Title: We are recruiting distributors
 Date: 2023-04-27 12:00
 Lang: en
 Author: Aiko Yokoyama
 Tags: api; sms; business;
 Slug: distributor-wanted
 Thumbnail: images/boostyourbusiness.jpg
-Summary: あなたの顧客へSMSを利用したビジネスブーストをご提案ください！
+Summary: Please suggest your clients the great business-boost with our service!
 
 
-[SMS を使用して、現在の市場でビジネスに活用する方法](https://blog.xoxzo.com/ja/2018/04/23/boost-your-business/)にもある通り、SMSをビジネスツールにすることは、もはや常識となっています。
-しかも、高品質国際ルートを提供する [EZSMS/イージーエス・エム・エス](ezsms.biz)や[Xoxzo/ゾクゾー](xoxzo.com)を使えば、
-1. 面倒な手続きがなく、思い立ったらすぐ使える
-2. 初期費用や月額利用料がなく、ビジネスサイズを問わず気軽に始められる
-と言った利点もあるのです。
+It has become a standard to utilise SMS for business as you read in our article [How to use SMS to boost your business](https://blog.xoxzo.com/en/2018/04/23/boost-your-business/).
+Our SMS sending services [EZSMS](ezsms.biz)and [Xoxzo](xoxzo.com) would provide with more benefits:
+1. No complicated registration process, start when you want
+2. No initial costs or monthly fees, this fits all sizes of business
 
-より多くのビジネスに導入いただけるよう、Xoxzoでは、代理店募集を開始しました。
+
+Now we are recruiting the distributors who could suggest our services to their clients.
 ![distributors](/images/distributor-en.png)
 
-## 業務用SMSの用途
+## Business-SMS: Use case
 
-業務用のSMSは、様々な用途でご利用いただけます。</br>
-一例としては、
-* [多要素認証](https://www.xoxzo.com/ja/about/use-cases/two-factor-authentication/)
-* マーケティング
-* 休眠会員の掘り起こし
-* 予約確認
-* [予約リマインダー](https://www.xoxzo.com/ja/about/use-cases/appointment-reminder/)
-* [重要/緊急通知・延滞/滞納催促](https://www.xoxzo.com/ja/about/use-cases/customer-alert-and-notification/)
-などがあります。</br>
-顧客や、学校・企業などのグループとのコミュニケーションが存在すれば、それば業務用SMSが活躍できる場所。</br>
-2010年に4.4%だったスマートフォンの普及率は、今や94.0%となりました。（[NTTドコモ/「データで読み解くモバイル利用トレンド2022-2023-モバイル社会白書](https://www.docomo.ne.jp/binary/pdf/info/news_release/topics_221020_10.pdf)より）</br>
-様々な年代のユーザーが想定される中、特定のアプリを追加する必要なくメッセージが手元に受け取れるSMSが重宝されるのにも不思議はありません。
+There are various use cases for Business SMS</br>
+For example:
+* [Multi factor authentication](https://www.xoxzo.com/en/about/use-cases/two-factor-authentication/)
+* Marketing
+* Revive absent users
+* Reservation confirmation
+* [Booking reminders](https://www.xoxzo.com/en/about/use-cases/appointment-reminder/)
+* [Significant/Emergency/delinquency messages](https://www.xoxzo.com/en/about/use-cases/customer-alert-and-notification/)
+</br>
+Business SMS would work best where clients, groups such as school/corporation communicate.</br>
+As smartphone users increase, we could expect various age group users. 
+But SMS is the simpliest communication tool in the smartphones, because there is no extra applications to download necessary.
 
-## 導入可能な業種
 
-用途にも幅があるSMSは、様々な業種で使われています。
-* [人材業](https://www.ezsms.biz/ja/faq/industries/recruitment/)
-* [不動産業](https://www.ezsms.biz/ja/faq/industries/real-estate/)
-* [婚活支援](https://www.ezsms.biz/ja/faq/industries/dating/)
-* [レンタル収納](https://www.ezsms.biz/ja/faq/industries/storage/)
-* [接客業](https://www.ezsms.biz/ja/faq/industries/hospitality/)
-* 医療関係
-* 小売業
+## Which industry to use SMS?
+
+Not only the use cases, SMS is used in various industries.
+* [Recruit](https://www.ezsms.biz/en/faq/industries/recruitment/)
+* [Real Estate](https://www.ezsms.biz/en/faq/industries/real-estate/)
+* [Dating services](https://www.ezsms.biz/en/faq/industries/dating/)
+* [Storage services](https://www.ezsms.biz/en/faq/industries/storage/)
+* [Hospitality](https://www.ezsms.biz/ja/faq/industries/hospitality/)
+* Medical
+* Retail
 * 生活関連サービス業（クリーニング店等）
 * 修理業
 など、多種に渡る業種で、活躍中です。
