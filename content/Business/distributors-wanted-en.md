@@ -43,15 +43,13 @@ Not only the use cases, SMS is used in various industries.
 * [Hospitality](https://www.ezsms.biz/ja/faq/industries/hospitality/)
 * Medical
 * Retail
-* 生活関連サービス業（クリーニング店等）
-* 修理業
-など、多種に渡る業種で、活躍中です。
+* Life-related services (cleaning etc)
+* Repairing
 
-## 導入のハードルが低いサービス
+## SMS for business is easy to start
 
-1通の料金が安いSMSは、導入のハードルが低く、また、初期費用や月額利用料のない弊社サービスは、効果の程をまずは試したいという方にも、大変容易に使い始めていただくことができるサービスです。</br>
+SMS costs small and our SMS service has no initial costs or monthly fees. Use SMS for business is easy to start, to just test how effective it is.</br>
 
-用途や導入方法によって、例えば二要素認証にご利用の場合には、システムに組み込む必要がありますが、その場合は使いやすく美しいAPI[Xoxzo](xoxzo.com)をご紹介。休眠会員掘り起こしのメッセージを送信したい場合は、ウェブブラウザーから簡単にリストをアップロードして送信可能な[EZSMS](ezsms.biz)をご紹介いただけます。自社サービスとして販売したい代理店さまには、OEM版もご用意しております。</br>
+SMS can be used in various workflow. In case the user sends SMS via their systems, it needs some coding but our  SMS API[Xoxzo](xoxzo.com) is simple and beautiful, we are sure that it would be delightful to use. The other case if the user wish to send messages manually, like the messages to find dormant customers, upload the list to our web service [EZSMS](ezsms.biz) to send in bulk. This web service is ready for OEM as well.</br>
 
-現在顧客に提供中のサービスに、プラスしてご提案いただける柔軟性を持ったSMSサービスの代理店。
-詳細は、distributors@xoxzo.com までお気軽にお問い合わせ下さい。
+Please contact distributors@xoxzo.com for the distributor position for the flexible SMS service to offer your current clients as an additional business booster.
