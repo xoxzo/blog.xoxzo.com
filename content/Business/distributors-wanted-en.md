@@ -14,19 +14,19 @@ Our SMS sending services [EZSMS](ezsms.biz)and [Xoxzo](xoxzo.com) would provide 
 2. No initial costs or monthly fees, this fits all sizes of business
 
 
-Now we are recruiting the distributors who could suggest our services to their clients.
+Now we are recruiting the distributors who could suggest our services to their clients.</br>
 ![distributors](/images/distributor-en.png)
 
 ## Business-SMS: Use case
 
 There are various use cases for Business SMS</br>
-For example:
-* [Multi factor authentication](https://www.xoxzo.com/en/about/use-cases/two-factor-authentication/)
-* Marketing
-* Revive absent users
-* Reservation confirmation
-* [Booking reminders](https://www.xoxzo.com/en/about/use-cases/appointment-reminder/)
-* [Significant/Emergency/delinquency messages](https://www.xoxzo.com/en/about/use-cases/customer-alert-and-notification/)
+For example:</br>
+* [Multi factor authentication](https://www.xoxzo.com/en/about/use-cases/two-factor-authentication/)</br>
+* Marketing</br>
+* Revive absent users</br>
+* Reservation confirmation</br>
+* [Booking reminders](https://www.xoxzo.com/en/about/use-cases/appointment-reminder/)</br>
+* [Significant/Emergency/delinquency messages](https://www.xoxzo.com/en/about/use-cases/customer-alert-and-notification/)</br>
 </br>
 Business SMS would work best where clients, groups such as school/corporation communicate.</br>
 As smartphone users increase, we could expect various age group users. 
@@ -35,16 +35,16 @@ But SMS is the simpliest communication tool in the smartphones, because there is
 
 ## Which industry to use SMS?
 
-Not only the use cases, SMS is used in various industries.
-* [Recruit](https://www.ezsms.biz/en/faq/industries/recruitment/)
-* [Real Estate](https://www.ezsms.biz/en/faq/industries/real-estate/)
-* [Dating services](https://www.ezsms.biz/en/faq/industries/dating/)
-* [Storage services](https://www.ezsms.biz/en/faq/industries/storage/)
-* [Hospitality](https://www.ezsms.biz/ja/faq/industries/hospitality/)
-* Medical
-* Retail
-* Life-related services (cleaning etc)
-* Repairing
+Not only the use cases, SMS is used in various industries.</br>
+* [Recruit](https://www.ezsms.biz/en/faq/industries/recruitment/)</br>
+* [Real Estate](https://www.ezsms.biz/en/faq/industries/real-estate/)</br>
+* [Dating services](https://www.ezsms.biz/en/faq/industries/dating/)</br>
+* [Storage services](https://www.ezsms.biz/en/faq/industries/storage/)</br>
+* [Hospitality](https://www.ezsms.biz/ja/faq/industries/hospitality/)</br>
+* Medical</br>
+* Retail</br>
+* Life-related services (cleaning etc)</br>
+* Repairing</br>
 
 ## SMS for business is easy to start
 
