@@ -14,19 +14,19 @@ Summary: あなたの顧客へSMSを利用したビジネスブーストをご�
 2. 初期費用や月額利用料がなく、ビジネスサイズを問わず気軽に始められる
 と言った利点もあるのです。
 
-より多くのビジネスに導入いただけるよう、Xoxzoでは、代理店募集を開始しました。
+より多くのビジネスに導入いただけるよう、Xoxzoでは、代理店募集を開始しました。</br>
 ![distributors](/images/distributor-ja.png)
 
 ## 業務用SMSの用途
 
 業務用のSMSは、様々な用途でご利用いただけます。</br>
 一例としては、
-* [多要素認証](https://www.xoxzo.com/ja/about/use-cases/two-factor-authentication/)
-* マーケティング
-* 休眠会員の掘り起こし
-* 予約確認
-* [予約リマインダー](https://www.xoxzo.com/ja/about/use-cases/appointment-reminder/)
-* [重要/緊急通知・延滞/滞納催促](https://www.xoxzo.com/ja/about/use-cases/customer-alert-and-notification/)
+* [多要素認証](https://www.xoxzo.com/ja/about/use-cases/two-factor-authentication/)</br>
+* マーケティング</br>
+* 休眠会員の掘り起こし</br>
+* 予約確認</br>
+* [予約リマインダー](https://www.xoxzo.com/ja/about/use-cases/appointment-reminder/)</br>
+* [重要/緊急通知・延滞/滞納催促](https://www.xoxzo.com/ja/about/use-cases/customer-alert-and-notification/)</br>
 などがあります。</br>
 顧客や、学校・企業などのグループとのコミュニケーションが存在すれば、それば業務用SMSが活躍できる場所。</br>
 2010年に4.4%だったスマートフォンの普及率は、今や94.0%となりました。（[NTTドコモ/「データで読み解くモバイル利用トレンド2022-2023-モバイル社会白書](https://www.docomo.ne.jp/binary/pdf/info/news_release/topics_221020_10.pdf)より）</br>
@@ -35,15 +35,15 @@ Summary: あなたの顧客へSMSを利用したビジネスブーストをご�
 ## 導入可能な業種
 
 用途にも幅があるSMSは、様々な業種で使われています。
-* [人材業](https://www.ezsms.biz/ja/faq/industries/recruitment/)
-* [不動産業](https://www.ezsms.biz/ja/faq/industries/real-estate/)
-* [婚活支援](https://www.ezsms.biz/ja/faq/industries/dating/)
-* [レンタル収納](https://www.ezsms.biz/ja/faq/industries/storage/)
-* [接客業](https://www.ezsms.biz/ja/faq/industries/hospitality/)
-* 医療関係
-* 小売業
-* 生活関連サービス業（クリーニング店等）
-* 修理業
+* [人材業](https://www.ezsms.biz/ja/faq/industries/recruitment/)</br>
+* [不動産業](https://www.ezsms.biz/ja/faq/industries/real-estate/)</br>
+* [婚活支援](https://www.ezsms.biz/ja/faq/industries/dating/)</br>
+* [レンタル収納](https://www.ezsms.biz/ja/faq/industries/storage/)</br>
+* [接客業](https://www.ezsms.biz/ja/faq/industries/hospitality/)</br>
+* 医療関係</br>
+* 小売業</br>
+* 生活関連サービス業（クリーニング店等）</br>
+* 修理業</br>
 など、多種に渡る業種で、活躍中です。
 
 ## 導入のハードルが低いサービス
