@@ -3,7 +3,7 @@ Date: 2023-07-21
 Slug: x4-mail2sms-release
 Lang: ja
 Tags: x4; new release; 2023;
-Thumbnail: images/sin.png
+Thumbnail: images/mail2sms/mail2sms-icon.png
 Author: Aiko Yokoyama
 Summary: ユーザーがEメールを送信して、受信者にSMSで届く機能です。管理画面から簡単な設定を行って、即時利用開始！
 

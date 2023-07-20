@@ -3,7 +3,7 @@ Date: 2023-07-21
 Slug: x4-mail2sms-release
 Lang: en
 Tags: x4; new release; 2023;
-Thumbnail: images/sin.png
+Thumbnail: images/mail2sms/mail2sms-icon.png
 Author: Aiko Yokoyama
 Summary: With just a few presetting on the dashboard, convert email to SMS messages and send. 
 
