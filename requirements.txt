@@ -5,3 +5,4 @@ babel
 pelican-autostatic
 pelican-advthumbnailer
 pelican-series
+Pillow==9.5.0
