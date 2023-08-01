@@ -11,7 +11,7 @@ On July 7, 2023, the telephony API platform Xoxzo released a new feature: [Mail2
 
 Mail2SMS can easily be used online, from your Xoxzo account page, no need to install any apps or programs! You can either incorporate Mail2SMS into your customer management system, or use Mail2SMS to convert your message and manually send the SMS messages to your customers from your PC. We charge the same rates for this service as for our regular SMS sending!
 
-![Mail2SMS](/images/mail2sms/mail2sms-ja.png)
+![Mail2SMS](/images/mail2sms/mail2sms-en.png)
 
 Please read our help center article for detailed instructions on [how to use Mail2SMS](https://help.xoxzo.com/en/xoxzo-cloud-telephony/sms-api/articles/how-to-send-via-mail2sms/).
 
