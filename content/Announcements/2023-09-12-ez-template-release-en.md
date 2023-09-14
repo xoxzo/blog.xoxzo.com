@@ -3,10 +3,13 @@ Date: 2023-09-12
 Slug: ez-template-release
 Lang: en
 Tags: ezsms; new release; 2023;
+Thumbnail: /images/ezsms-template/ez-template-thumbnail-en.png
 Author: Aiko Yokoyama
 Summary: Be more productive by using this template functionality for the frequently used messages.
 
-
+<div style="text-align:center">
+<img src="/images/ezsms-template/ez-template-eyecatch-en.png" width="450">
+</div><br>
 On September 12, 2023, SMS delivery service EZSMS released a new feature [Message Template](https://help.xoxzo.com/en/ezsms-sms-delivery-service/sms-api/articles/how-to- use-sms-template/).
 
 You can create and save templates, or save any message you are about to send as a template by clicking a single checkbox. To use it, just select a message from the list and click the `Select` button. Please use this to improve the efficiency of your sending work.
