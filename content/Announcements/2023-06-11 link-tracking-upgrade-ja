@@ -8,7 +8,7 @@ Author: Jocelyn ter Morsche
 Summary: 2023年11月6日、Xoxzoはユーザーのご要望に応じて、リンクトラッキング機能をアップグレードしました。
 リンクトラッキングは、XoxzoのSMS APIと使用して、送信したSMSメッセージのデータを取得するためのオプションパラメーターです。
 
-<img src="/images/linktrackingupgrade-ja2.png" alt="linktrackingupgrade-ja2" width="600" height="400">
+<img src="/images/linktrackingupgrade-ja2.png" alt="linktrackingupgrade-ja2" width="450" height="">
 
 2023年11月6日、Xoxzoはユーザーのご要望に応じて、[リンクトラッキング機能](https://blog.xoxzo.com/ja/2020/10/15/link-tracking-release/)をアップグレードしました。
 リンクトラッキングは、XoxzoのSMS APIと使用して、送信したSMSメッセージのデータを取得するためのオプションパラメーターです。
