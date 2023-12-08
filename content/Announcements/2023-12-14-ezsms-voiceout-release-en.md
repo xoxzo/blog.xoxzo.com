@@ -4,12 +4,12 @@ Slug: ez-voiceout-release
 Lang: ja
 Tags: ezsms; xoxzo; 2023; ボイスアウト; リリース;
 Author: Aiko Yokoyama
-Thumbnail: /images/thumbnail-voice-out-ja.png
+Thumbnail: /images/thumbnail-voice-out-en.png
 Summary: 音声で伝えたいメッセージを、EZSMSから簡単に架電できるようになりました
 
 2023年12月14日、EZSMSより、自動音声通話を発信できる『ボイスアウト』機能がリリースとなりました。
 
-![voiceout banner](/images/banner-voice-out-ja.png)
+![voiceout banner](/images/banner-voice-out-en.png)
 
 昼夜を問わずひっきりなしに届く、広告メール。
 自身が受け取っても開封すらしないのに、送信したところで読んでもらえる気がしない。
