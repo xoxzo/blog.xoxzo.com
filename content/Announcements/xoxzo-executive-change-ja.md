@@ -1,6 +1,6 @@
 Title: 役員人事に関するお知らせ 
 Date: 2024-1-10
-Slug: xoxzo-executive-change-ja
+Slug: xoxzo-executive-change
 Lang: ja
 Tags: 2024
 Author: Jocelyn ter Morsche
