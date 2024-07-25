@@ -4,7 +4,7 @@ Author: Geraldo Figueras
 Tags: voice api; sms api; text to speech tts;
 Slug: voice-or-text
 Lang: en
-Thumbnail: images/oldphone.jpg
+Thumbnail: images/blogpost725.jpg
 Summary: Voice and text are equally important as means of communication, but which one is the most efficient?
 Series: featured-en
 series_index: 3
@@ -13,7 +13,7 @@ series_index: 3
 It’s hard to think of a different reality with fewer choices for communication, but a little over 20 years ago there was only one reliable means of distance communication: landline phones. Nowadays, with a plethora of different text or voice-based apps, and even with some differentials like the use of emoticons or even video calls, it’s hard to imagine that the landline phone was so important for business and personal matters. Mobile communication, which started with [1G in the ‘80s](https://blog.xoxzo.com/en/2018/07/24/history-of-1g/) was the first step in changing the way we communicate on a scale that was unimaginable at that time. Now we have so many options to reach out to someone: email, SMS messages, phone, video call, and so on. 
 
 
-![phone](/images/oldphone.jpg)
+![phone](/images/blogpost725.jpg)
 _"Yes, we're always up to date regarding new technology, rest assured"_ 
 
 But it’s not because we’ve seen a huge influx of [text-based](https://www.xoxzo.com/en/about/sms-api/) communication in the later years that it means it’s the best way for communicating. Each one has its advantages and disadvantages, and it’s important to understand the context so we can choose the right tool for delivering our messages.
@@ -37,7 +37,6 @@ On the other hand, this kind of precision regarding the topic leaves little spac
  
 Text might require more skillful wordplay to deliver a message with no room for misinterpretation. Both grammatical errors and the mentioned lack of tone could hurt the true meaning of the message, something that could be quickly and easily addressed with the use of voice.
 
-![multitask](/images/multitaskingman.jpg)
 
 _"Of course I'm paying attention to everything you say"_
  
