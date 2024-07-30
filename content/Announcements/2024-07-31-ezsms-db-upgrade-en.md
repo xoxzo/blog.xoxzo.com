@@ -4,7 +4,7 @@ Slug: 2024-07-31-db-upgrade
 Lang: ja
 Tags: ezsms; 2024;
 Author: Aiko Yokoyama
-Summary:　We plan a database upgrade on 2024/08/13 and this work will not cause any service downtime.
+Summary:We plan a database upgrade on 2024/08/13 and this work will not cause any service downtime.
 
 Thank you for using [EZSMS](https://www.ezsms.biz/).
 <br>
