@@ -1,7 +1,7 @@
 Title: [EZSMS]Database Upgrade
 Date: 2024-07-31
 Slug: 2024-07-31-db-upgrade
-Lang: ja
+Lang: en
 Tags: ezsms; 2024;
 Author: Aiko Yokoyama
 Summary:We plan a database upgrade on 2024/08/13 and this work will not cause any service downtime.
