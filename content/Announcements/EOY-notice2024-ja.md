@@ -3,7 +3,7 @@ Date: 2024-11-25
 Slug: EOY-Holiday-Notice-2024
 Lang: ja 
 Tags: end of year; 年末年始; 2024; 
-Thumbnail: images/holidays2024.png
+Thumbnail: images/Holidays2024-min.png
 Author: Jocelyn ter Morsche
 Summary: 2024年も弊社APIサービスをご利用いただき、誠にありがとうございました。年末年始休業のご案内です。
 
@@ -23,4 +23,4 @@ Summary: 2024年も弊社APIサービスをご利用いただき、誠にあり�
 
 新年には、また元気に皆様とお会いできます事を楽しみにしております。
 
-![holidays2023](/images/holidays2024.png)
+![holidays2024](/images/holidays2024-min.png)
