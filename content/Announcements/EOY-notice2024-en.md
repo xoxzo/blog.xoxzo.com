@@ -3,7 +3,7 @@ Date: 2024-11-25
 Slug: EOY-Holiday-Notice-2024
 Lang: en
 Tags: end of year; 2024;
-Thumbnail: images/holidays2024.png
+Thumbnail: images/holidays2024-min.png
 Author: Jocelyn ter Morsche
 Summary: Thank you for supporting Xoxzo and EZSMS through 2024. Here is our Holiday announcement for this year.
 
@@ -20,4 +20,4 @@ We apologize for any inconvenience this may cause, and we are thankful for your 
 
 Team Xoxzo wishes you and your families all the best and we hope you have a wonderful holiday, welcoming the year 2025!
 
-![holidays2023](/images/holidays2024.png)
+![holidays2024](/images/holidays2024-min.png)
