@@ -4,7 +4,6 @@ Author: Yuta Ikeda
 Tags: 2023;
 Slug: a-happy-new-year-2023
 Lang: ja
-Thumbnail: images/oka-teamcamp-2019/IMG_9071-syuri-jo.jpg
 Summary: 株式会社アクリートの傘下に入り、またたく間に1年が過ぎました
 
 

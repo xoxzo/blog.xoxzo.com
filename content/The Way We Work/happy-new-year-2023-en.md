@@ -4,7 +4,6 @@ Author: Yuta Ikeda
 Tags: 2023;
 Slug: a-happy-new-year-2023
 Lang: en
-Thumbnail: images/oka-teamcamp-2019/IMG_9071-syuri-jo.jpg
 Summary: 2022 was another zap, since the company was merged in the previous year 
 
 ## The best wishes for 2023 from Accrete and Xoxzo
