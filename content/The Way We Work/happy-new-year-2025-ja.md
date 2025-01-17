@@ -6,7 +6,7 @@ Slug: a-happy-new-year-2025
 Lang: ja
 Summary: ２０２５年のスタートにあたり謹んで新年のご挨拶を申し上げます
 
-![banner](/images/2025 blog JA_blog)
+![banner]({filename}/images/2025_JA_blog.png)
 
 株式会社Xoxzoは、2024年12月25日を以って先の事業買収会社（株式会社アクリート）より同業界にある株式会社KYUBIZINVESTの買収を受けて２０２５年を迎えました。<br>
 弊社としては、このような2度に渡る事業買収を受けてこのような形でご挨拶申し上げることは初めてでもあります。<br>
