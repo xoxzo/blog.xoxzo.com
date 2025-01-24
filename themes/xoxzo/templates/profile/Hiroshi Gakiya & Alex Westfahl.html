@@ -1,0 +1,27 @@
+{% if DEFAULT_LANG == "en" %}
+<div class="author-profile container">
+  <div class="row">
+    <div class="col-sm-4 text-left text-sm-center mb-3">
+      <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/aiko.jpg" alt="Aiko Yokoyama">
+    </div>
+    <div class="col-sm-8 profile-content">
+      <h3>Hiroshi Gakiya & Alex Westfahl.html</h3>
+      <h4>CEO</h4>
+      <p>CEO</p>
+    </div>
+  </div>
+</div>
+{% else %}
+<div class="author-profile container">
+  <div class="row">
+    <div class="col-sm-4 text-left text-sm-center mb-3">
+      <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/aiko.jpg" alt="横山 愛子">
+    </div>
+    <div class="col-sm-8 profile-content">
+      <h3>代表取締役　我喜屋　浩・ウェストファル アレックス</h3>
+      <h4>顧客支援及び運営担当</h4>
+      <p>顧客支援及び運営担当</p>
+    </div>
+  </div>
+</div>
+{% endif %}
