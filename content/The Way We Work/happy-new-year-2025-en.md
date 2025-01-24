@@ -6,7 +6,7 @@ Slug: a-happy-new-year-2025
 Lang: en
 Summary: New Year’s Greeting as We Embark on 2025
 
-![banner]({filename}/images/2025EN_blog.png)
+![banner]({filename}/images/2025blogen.png)
 
 <br>
 On December 25, 2024, Xoxzo, Inc. entered 2025 under new ownership, following its acquisition by KYUBIZ INVEST, Inc., a company within the same industry. This marks a significant moment for us, as it is the first time we extend New Year’s greetings after undergoing two successive acquisitions—first by Accrete Inc. and now by KYUBIZ INVEST, Inc.<br>
