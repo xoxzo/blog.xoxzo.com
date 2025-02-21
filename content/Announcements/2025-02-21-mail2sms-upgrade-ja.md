@@ -10,14 +10,14 @@ Summary: ユーザーがEメールを送信して、受信者にSMSで届く機�
 
 テレフォニーAPIプラットフォームXoxzoでは、普段お使いの『Eメール』から『SMS』を送信できる[Mail2SMS](https://help.xoxzo.com/ja/xoxzo-cloud-telephony/sms-api/articles/how-to-send-via-mail2sms/) に追加機能「システムフィードバック」をリリースしました。
 
-【既存のMail2SMSとの変更点】
-* 『システムフィードバック』: 処理失敗時に、原因を説明する通知メールが届きます
-* メールの送信先が変わります：mail2sms@xoxzo.com
-* SMSの受信者番号を件名に入力します：例）+818011111111
+【既存のMail2SMSとの変更点】</br>
+* 『システムフィードバック』: 処理失敗時に、原因を説明する通知メールが届きます</br>
+* メールの送信先が変わります：mail2sms@xoxzo.com</br>
+* SMSの受信者番号を件名に入力します：例）+818011111111</br>
 
 ![Mail2SMS](/images/mail2sms/mail2sms-upgrade-ja.png)
 
-アップグレード版は、すでにご利用可能です。
+アップグレード版は、すでにご利用可能です。</br>
 既存のMail2SMSをご利用の場合、2025年3月10日（月）までにアップグレード版への切り替えをお願いいたします。
 
 ご不明な点は、[ヘルプデスクまで](mailto: help@xoxzo.com )お気軽にお問い合わせください。
