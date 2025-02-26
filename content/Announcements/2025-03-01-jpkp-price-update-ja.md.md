@@ -6,6 +6,8 @@ Tags: 価格改訂; Kプレミアム; 2025;
 Author: Aiko Yokoyama
 Summary: 国内直収網送信、Kプレミアムサービスが、より身近にご利用いただけるようになりました。価格見直しにより、値下げが実現しました、電話番号送信元設定での送信をを存分にお楽しみください。
 
+![jpkp-price](/images/kpremium-ja.jpg)
+
 平素は、[Xoxzo−クラウドテレフォニープラットフォーム](https://www.xoxzo.com/ja/) および 
 [EZSMS国際SMS配信](https://www.ezsms.biz/ja/)のご利用ありがとうございます。
 

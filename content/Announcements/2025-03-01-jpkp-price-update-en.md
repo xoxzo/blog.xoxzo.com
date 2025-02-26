@@ -6,6 +6,8 @@ Tags: k-premium; 2025;
 Author: Aiko Yokoyama
 Summary: Domestic Direct Network Transmission and K Premium Service are now more accessible! Thanks to a price revision, we've successfully lowered the cost. Enjoy seamless messaging with number sender ID settings.
 
+![jpkp-price](/images/kpremium-en.jpg)
+
 Thank you for using [Xoxzo, Cloud Telephony Platform](https://www.xoxzo.com/en/).
 
 Starting March 1, 2025, the messaging fees for K Premium Service have been reduced on the Xoxzo Cloud Telephony Platform. Please check the updated pricing details on our [Pricing Page](https://www.xoxzo.com/about/pricing/#k-premium).
