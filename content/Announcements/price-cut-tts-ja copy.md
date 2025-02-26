@@ -1,0 +1,53 @@
+Title: 【Xoxzo】Kプレミアム送信料金値下げのお知らせ
+Date: 2025-03-01
+Slug: price-cut-jp-kp
+Lang: ja
+Tags: 価格改訂; Kプレミアム; 2025;
+Author: Aiko Yokoyama
+Summary: 国内直収網送信、Kプレミアムサービスが、より身近にご利用いただけるようになりました。価格見直しにより、値下げが実現しました、電話番号送信元設定での送信をを存分にお楽しみください。
+
+平素は、[Xoxzo−クラウドテレフォニープラットフォーム](https://www.xoxzo.com/ja/) および 
+[EZSMS国際SMS配信](https://www.ezsms.biz/ja/)のご利用ありがとうございます。
+
+[Xoxzo−クラウドテレフォニープラットフォーム](https://www.xoxzo.com/ja/) では、
+2025年3月1日よりKプレミアムサービスの送信料金値下げが実施されます。改定後のご利用料金は、[料金ページ](https://www.xoxzo.com/ja/about/pricing/#k-premium)よりご参照ください。
+<br>
+<br>
+Kプレミアムサービスは、法人ユーザー向けの、国内宛SMS送信のオプションサービスです。国内キャリア4社（NTTドコモ/KDDI/ソフトバンク/楽天モバイル）の受信者番号へ直収接続でSMSを配信します。
+<br>
+ご利用前に、ご登録及び簡易審査が必要です。[ヘルプデスクまで](mailto: help@xoxzo.com )お気軽にお問い合わせください。
+<br>
+<br>
+[APIドキュメンテーション](https://docs.xoxzo.com/ja/sms#jp-specific-optional-parameters)
+と[ウェブサイト](https://www.xoxzo.com/ja/about/sms-api/#k-premium) も合わせてご確認ください。
+
+Kプレミアムサービスと標準海外網送信の違いは下記のとおりです。
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0lax"><span style="font-weight:400;font-style:normal">Kプレミアム</span></th>
+    <th class="tg-0lax"><span style="font-weight:400;font-style:normal">sms送信</span></th>
+    <th class="tg-0lax">国際網</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">①到達率が良い<br>②送信者表示は電話番号や6桁コード<br>③受信者による拒否が困難<br>④個人利用不可・事前登録要</td>
+    <td class="tg-0lax">特徴</td>
+    <td class="tg-0lax">①企業名やサービス名を<br>アルファベットで表示できる<br>②即時利用可能<br>③海外SMSの拒否設定により受信拒否の可能性がある</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">（事前登録要）<br>ドコモ/au/楽天モバイル向け<br>→電話番号表示<br>ソフトバンク向け<br>→6桁のコード</td>
+    <td class="tg-0lax">送信元表示</td>
+    <td class="tg-0lax">アルファベットと数字<br>例）EZSMS、BOOKSTORE、HAIRSALON　など</td>
+  </tr>
+</tbody>
+</table>
+
+今後も[Xoxzo](https://www.xoxzo.com/ja/)をどうぞよろしくお願いします。
