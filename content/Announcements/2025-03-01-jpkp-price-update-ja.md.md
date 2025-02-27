@@ -3,6 +3,7 @@ Date: 2025-02-27
 Slug: price-cut-jp-kp
 Lang: ja
 Tags: 価格改訂; Kプレミアム; 2025;
+Thumbnail: /images/xoxzo_logo_white_v.png
 Author: Aiko Yokoyama
 Summary: 国内直収網送信、Kプレミアムサービスが、より身近にご利用いただけるようになりました。価格見直しにより、値下げが実現しました、電話番号送信元設定での送信をを存分にお楽しみください。
 
