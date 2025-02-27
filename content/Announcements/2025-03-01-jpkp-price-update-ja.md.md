@@ -11,7 +11,7 @@ Summary: 国内直収網送信、Kプレミアムサービスが、より身近�
 平素は、[Xoxzo−クラウドテレフォニープラットフォーム](https://www.xoxzo.com/ja/) および 
 [EZSMS国際SMS配信](https://www.ezsms.biz/ja/)のご利用ありがとうございます。
 
-2025年3月1日よりKプレミアムサービスの送信料金値下げが実施されます。改定後のご利用料金は、各料金ページよりご参照ください。
+2025年3月1日よりKプレミアムサービスの送信料金値下げが実施されます。改定後のご利用料金は、各料金ページよりご参照ください。<br>
 [Xoxzo-クラウドテレフォニープラットフォーム　料金ページ](https://www.xoxzo.com/ja/about/pricing/#k-premium)<br>
 [SMS配信EZSMS　料金ページ](https://www.ezsms.biz/ja/faq/price/)
 <br>
