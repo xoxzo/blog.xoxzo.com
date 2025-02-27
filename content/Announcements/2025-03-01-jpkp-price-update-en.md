@@ -4,6 +4,7 @@ Slug: price-cut-jp-kp
 Lang: en
 Tags: k-premium; 2025;
 Author: Aiko Yokoyama
+Thumbnail: /images/xoxzo_logo_white_v.png
 Summary: Domestic Direct Network Transmission and K Premium Service are now more accessible! Thanks to a price revision, we've successfully lowered the cost. Enjoy seamless messaging with number sender ID settings.
 
 ![jpkp-price](/images/kpremium-en.jpg)
