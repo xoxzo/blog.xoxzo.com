@@ -1,5 +1,5 @@
-Title: [Xoxzo] Price deduction on Kpremium SMS sending
-Date: 2025-03-01
+Title: Price deduction on Kpremium SMS sending
+Date: 2025-02-27
 Slug: price-cut-jp-kp
 Lang: en
 Tags: k-premium; 2025;
@@ -10,7 +10,7 @@ Summary: Domestic Direct Network Transmission and K Premium Service are now more
 
 Thank you for using [Xoxzo, Cloud Telephony Platform](https://www.xoxzo.com/en/).
 
-Starting March 1, 2025, the messaging fees for K Premium Service have been reduced on the Xoxzo Cloud Telephony Platform. Please check the updated pricing details on our [Pricing Page](https://www.xoxzo.com/about/pricing/#k-premium).
+Starting March 1, 2025, the messaging fees for K Premium Service have been reduced. Please check the updated pricing details on our [Pricing Page](https://www.xoxzo.com/about/pricing/#k-premium).
 
 **About K Premium Service**
 K Premium Service is an optional SMS transmission service for corporate users, enabling direct connectivity for SMS delivery to recipients on all four major domestic carriers: NTT Docomo, KDDI, SoftBank, and Rakuten Mobile.
@@ -57,3 +57,7 @@ For more details, please refer to our [API Documentation](https://docs.xoxzo.com
     </tr>
   </tbody>
 </table>
+<br>
+[EZSMS](https://www.ezsms.biz/en/) also provides Kpremium service, which routes only KDDI(au)numbers to the direct routing.
+<br>
+Please contact [helpdesk](mailto:help@xoxzo.com) for further details.

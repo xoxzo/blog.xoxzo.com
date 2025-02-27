@@ -1,5 +1,5 @@
-Title: 【Xoxzo】Kプレミアム送信料金値下げのお知らせ
-Date: 2025-03-01
+Title: 【Xoxzo/EZSMS】Kプレミアム送信料金値下げのお知らせ
+Date: 2025-02-27
 Slug: price-cut-jp-kp
 Lang: ja
 Tags: 価格改訂; Kプレミアム; 2025;
@@ -11,17 +11,18 @@ Summary: 国内直収網送信、Kプレミアムサービスが、より身近�
 平素は、[Xoxzo−クラウドテレフォニープラットフォーム](https://www.xoxzo.com/ja/) および 
 [EZSMS国際SMS配信](https://www.ezsms.biz/ja/)のご利用ありがとうございます。
 
-[Xoxzo−クラウドテレフォニープラットフォーム](https://www.xoxzo.com/ja/) では、
-2025年3月1日よりKプレミアムサービスの送信料金値下げが実施されます。改定後のご利用料金は、[料金ページ](https://www.xoxzo.com/ja/about/pricing/#k-premium)よりご参照ください。
+2025年3月1日よりKプレミアムサービスの送信料金値下げが実施されます。改定後のご利用料金は、各料金ページよりご参照ください。
+[Xoxzo-クラウドテレフォニープラットフォーム　料金ページ](https://www.xoxzo.com/ja/about/pricing/#k-premium)
+[Xoxzo-クラウドテレフォニープラットフォーム　料金ページ](https://www.ezsms.biz/ja/faq/price/)
 <br>
 <br>
-Kプレミアムサービスは、法人ユーザー向けの、国内宛SMS送信のオプションサービスです。国内キャリア4社（NTTドコモ/KDDI/ソフトバンク/楽天モバイル）の受信者番号へ直収接続でSMSを配信します。
+Kプレミアムサービスは、法人ユーザー向けの、国内宛SMS送信のオプションサービスです。<br>
+Xoxzoでは国内キャリア4社（NTTドコモ/KDDI/ソフトバンク/楽天モバイル）の受信者番号へ直収接続でSMSを配信します。<br>
+EZSMSではKDDIの受信者番号へ、直収接続でSMSを配信します。
 <br>
-ご利用前に、ご登録及び簡易審査が必要です。[ヘルプデスクまで](mailto: help@xoxzo.com )お気軽にお問い合わせください。
+ご利用前に、ご登録及び簡易審査が必要です。[ヘルプデスクまで](mailto: help@xoxzo.com) お気軽にお問い合わせください。
 <br>
 <br>
-[APIドキュメンテーション](https://docs.xoxzo.com/ja/sms#jp-specific-optional-parameters)
-と[ウェブサイト](https://www.xoxzo.com/ja/about/sms-api/#k-premium) も合わせてご確認ください。
 
 Kプレミアムサービスと標準海外網送信の違いは下記のとおりです。
 <style type="text/css">
@@ -51,5 +52,7 @@ Kプレミアムサービスと標準海外網送信の違いは下記のとお�
   </tr>
 </tbody>
 </table>
-
+<br>
+※EZSMSでは、Kプレミアムサービスを使った送信は、KDDI（au）への送信のみに適用されます。
+<br>
 今後も[Xoxzo](https://www.xoxzo.com/ja/)をどうぞよろしくお願いします。
