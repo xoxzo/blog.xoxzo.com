@@ -33,25 +33,43 @@ Kプレミアムサービスと標準海外網送信の違いは下記のとお�
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg"><thead>
-  <tr>
-    <th class="tg-0lax"><span style="font-weight:400;font-style:normal">Kプレミアム</span></th>
-    <th class="tg-0lax"><span style="font-weight:400;font-style:normal">sms送信</span></th>
-    <th class="tg-0lax">国際網</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">①到達率が良い<br>②送信者表示は電話番号や6桁コード<br>③受信者による拒否が困難<br>④個人利用不可・事前登録要</td>
-    <td class="tg-0lax">特徴</td>
-    <td class="tg-0lax">①企業名やサービス名を<br>アルファベットで表示できる<br>②即時利用可能<br>③海外SMSの拒否設定により受信拒否の可能性がある</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">（事前登録要）<br>ドコモ/au/楽天モバイル向け<br>→電話番号表示<br>ソフトバンク向け<br>→6桁のコード</td>
-    <td class="tg-0lax">送信元表示</td>
-    <td class="tg-0lax">アルファベットと数字<br>例）EZSMS、BOOKSTORE、HAIRSALON　など</td>
-  </tr>
-</tbody>
-</table>
+  <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-0lax">sms送信</th>
+        <th class="tg-0lax">Kプレミアム</th>
+        <th class="tg-0lax">国際網</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-0lax">特徴</td>
+        <td class="tg-0lax">
+          ①到達率が良い<br>
+          ②送信者表示は電話番号や6桁コード<br>
+          ③受信者による拒否が困難<br>
+          ④個人利用不可・事前登録要
+        </td>
+        <td class="tg-0lax">
+          ①企業名やサービス名をアルファベットで表示できる<br>
+          ②即時利用可能<br>
+          ③海外SMSの拒否設定により受信拒否の可能性がある
+        </td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">送信元表示</td>
+        <td class="tg-0lax">
+          （事前登録要）<br>
+          ドコモ/au/楽天モバイル向け → 電話番号表示<br>
+          ソフトバンク向け → 6桁のコード
+        </td>
+        <td class="tg-0lax">
+          アルファベットと数字<br>
+          例）EZSMS、BOOKSTORE、HAIRSALON など
+        </td>
+      </tr>
+    </tbody>
+  </table>
 <br>
 ※EZSMSでは、Kプレミアムサービスを使った送信は、KDDI（au）への送信のみに適用されます。
 <br>
