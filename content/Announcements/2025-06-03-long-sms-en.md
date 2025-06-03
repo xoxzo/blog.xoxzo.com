@@ -32,13 +32,13 @@ Keep it short and actionable:
 
 But sometimes, additional context is needed — like a link to your service page or a map for evacuation. SMS can help, especially as smartphone usage increases and links can direct users smoothly from SMS to browser.
 
-However, links can be long, even with URL shorteners, and within the 70-character limit, every word counts.
+However, links can be long, even with URL shorteners, and within the 140-character limit, every word counts.
 
 ---
 
 ### 📢 Marketing Messages Need More Room
 
-Marketing messages often require more than 70 characters — you may need a greeting, campaign details, and opt-out instructions. That’s why we now support **long-form SMS up to 660 characters**.
+Marketing messages often require more than 140 characters — you may need a greeting, campaign details, and opt-out instructions. That’s why we now support **long-form SMS up to 660 characters**.
 
 Compared to direct mail, SMS offers instant delivery at a fraction of the cost — and now, with much more room to communicate.
 
@@ -53,7 +53,7 @@ With [Mail2SMS](https://www.xoxzo.com/en/about/mail2sms-api/), you can send SMS 
 ---
 
 ### ⚠️ Please Note:
-Due to GSM specifications, Japanese SMS messages are limited to 70 characters per segment. While our API accepts up to 660 characters, it will be divided into multiple parts, and **each segment is billed separately**.
+Due to GSM specifications, Japanese SMS messages are limited to 140 characters per segment. While our API accepts up to 660 characters, it will be divided into multiple parts, and **each segment is billed separately**.
 
 Longer messages don’t always mean better results. For best performance, keep messages concise and to the point:
 
