@@ -34,13 +34,14 @@ SMSメッセージは、携帯電話番号がわかれば送信できて即時�
 マーケティングメッセージを送信する場合は、なおさら。広告内容に加え、オプトアウトの方法や、ひとことご挨拶…を入れることはほぼ不可能ですよね。<br>
 <br>
 そこで、XoxzoのSMSAPIが、660文字に対応します。<br>
-郵送DMに比較して単価の低いSMSで、無限大の伝えたいことを、ぜひ送信してみてください。<br>
+郵送DMに比較して単価の低いSMSで、詳細な情報も余さず届けられます。<br>
 <br>
 長文対応となった、XoxzoのSMS APIで扱う文字数については、[ヘルプページ](https://help.xoxzo.com/ja/xoxzo-cloud-telephony/sms-api/articles/how-many-characters-would-fit-within-1-x-sms/)をご参照ください。<br>
 ドキュメンテーションは、[こちら](https://docs.xoxzo.com/ja/sms#send-sms-messages-api)です。完結で使いやすいXoxzoのSMS APIの導入に、お役立てください。<br>
 <br>
 <br>
-長文SMS API はもちろん、[Mail2SMS](https://www.xoxzo.com/ja/about/mail2sms-api/)でもご利用いただけます。<br>
+###　Mail2SMSでもご利用いただけます。
+長文対応SMS API はもちろん、[Mail2SMS](https://www.xoxzo.com/ja/about/mail2sms-api/)でもご利用いただけます。<br>
 ![Mailsms_ja_042](/images/mailsms_ja_042.png)<br>
 Eメールを送信するように、メーラーから送信可能なため、開発も不要ですので、簡単、お気軽にご利用いただくことができます。<br>
 詳細は、[ヘルプページ](https://help.xoxzo.com/ja/xoxzo-cloud-telephony/sms-api/articles/how-to-send-via-mail2sms/)をご参照ください。
