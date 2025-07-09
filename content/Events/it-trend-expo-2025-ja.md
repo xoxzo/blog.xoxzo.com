@@ -21,14 +21,12 @@ Summary: 2025年9月2日〜5日にオンラインで開催される ITトレン�
 弊社からはSMS絶対認証を出展いたします。
 ぜひ、みなさまのご参加をお待ちしております。
 
-[>>完全無料のイベント詳細はこちらから](https://it.expo.it-trend.jp/key/ngapnwyk)
-
-ITトレンドEXPO2025 Summer イベント概要
-開催日時	2025年9月2日（火）～5日（金）
-開催場所	オンラインでの開催
-参 加 費		無料
-※過去ITトレンドEXPOに参加いただいた方も再度参加登録をお願いします。
-
+ITトレンドEXPO2025 Summer イベント概要<br>
+開催日時	2025年9月2日（火）～5日（金）<br>
+開催場所	オンラインでの開催<br>
+参 加 費		無料<br>
+※過去ITトレンドEXPOに参加いただいた方も再度参加登録をお願いします。<br>
+<br>
 参加登録いただいた方にITトレンドEXPO運営企業より最新情報をお届けします。
 ぜひ以下リンクよりご登録ください。
 
@@ -38,10 +36,11 @@ ITトレンドEXPO2025 Summer イベント概要
 ![expo-image-01](/images/it-trend-expo-2025-02.jpg)
 
 ＜注意事項＞
-・本キャンペーンは株式会社Innovation & Co. による提供です。本キャンペーンについてのお問合せはAmazonではお受けしておりません。株式会社Innovation & Co. ITトレンドEXPO運営事務局<oe_staff@innovation.co.jp>までお願いいたします。
+・本キャンペーンは株式会社Innovation & Co. による提供です。本キャンペーンについてのお問合せはAmazonではお受けしておりません。<br>
+株式会社Innovation & Co. ITトレンドEXPO運営事務局<oe_staff@innovation.co.jp>までお願いいたします。
 ・Amazon、Amazon.co.jp およびそれらのロゴはAmazon.com,inc. またはその関連会社の商標です。
-キャンペーン規約はこちらよりご確認ください。
-https://it.expo.it-trend.jp/term/campaign/first-come-first-served
+[キャンペーン規約はこちらよりご確認ください。](
+https://it.expo.it-trend.jp/term/campaign/first-come-first-served)
 
 新たな出会いが明日の「働く」を変える
 [ITトレンドEXPO2025 Summer](https://it.expo.it-trend.jp/key/ngapnwyk)に是非ご参加ください！
