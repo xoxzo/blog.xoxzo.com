@@ -7,7 +7,7 @@ Thumbnail: images/voiceapi-tutorial-thumbnail.png
 Lang: ja  
 Summary: 音声通話APIでローカル発信者番号を使う方法を、ダイアルイン番号の取得から、APIでの利用方法までステップごとに解説します。
 
-![header_image]({filename}/images/voiceapi-tutorial-head.png)
+![header_image]({filename}/images/ezsms-tutorial-head.png)
 
 ## ローカル発信者番号を設定しよう
 
@@ -29,7 +29,7 @@ APIでの検索方法：[ドキュメントはこちら](http://docs.xoxzo.com/j
 
 ### ② ダイアルイン番号を取得します。  
 
-取得したい番号を決定したら、APIで購読（subscribe）します。  
+取得したい番号を決定したら、APIで契約（subscribe）します。  
 詳細手順：[ダイアルイン番号の取得](http://docs.xoxzo.com/ja/din.html#subscribing-to-a-dial-in-number-via-api)  
 利用料金については、[音声電話着信料金](https://www.xoxzo.com/ja/about/pricing/voice/#din)をご参照ください。
 
