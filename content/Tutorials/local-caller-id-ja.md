@@ -7,7 +7,7 @@ Thumbnail: images/voiceapi-tutorial-thumbnail.png
 Lang: ja  
 Summary: 音声通話APIでローカル発信者番号を使う方法を、ダイアルイン番号の取得から、APIでの利用方法までステップごとに解説します。
 
-![header_image]({filename}/images/ezsms-tutorial-head.png)
+![header_image]({filename}/images/xoxzo-tutorial-head.png)
 
 ## ローカル発信者番号を設定しよう
 
@@ -57,7 +57,7 @@ APIでの検索方法：[ドキュメントはこちら](http://docs.xoxzo.com/j
 
 [設定方法がわかりにくい場合は、ヘルプページもご確認ください。](https://help.xoxzo.com/ja/xoxzo-voice-api/articles/local-caller-id-for-dial-in-numbers/)
 
-![footer_image]({filename}/images/voiceapi-tutorial-line.png)
+![footer_image]({filename}/images/xoxzo-tutorial-line.png)
 
 今回のチュートリアルはここまでです。  
 ローカル発信者番号を使えば、日本国内向けの発信でも「実在する番号」からの着信通知が可能になります。  
