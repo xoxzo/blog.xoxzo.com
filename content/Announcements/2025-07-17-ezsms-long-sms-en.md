@@ -1,12 +1,9 @@
 ---
-title: "[EZSMS] Now Supporting Up to 660 Characters per SMS!"
+title: [EZSMS] Now Supporting Up to 660 Characters per SMS!
 date: 2025-07-17
 slug: long-sms-ezsms
 lang: en
-tags:
-  - Long SMS
-  - 660 Characters
-  - 2025
+tags: Long SMS; 660; 2025;
 thumbnail: /images/longsms-logo-ezsms-en.png
 author: Aiko Yokoyama
 summary: >
