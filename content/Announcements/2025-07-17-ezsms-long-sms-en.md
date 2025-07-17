@@ -1,11 +1,11 @@
-title: EZSMS Now Supporting Up to 660 Characters per SMS!
-date: 2025-07-17
-slug: long-sms-ezsms
-lang: en
-tags: Long SMS; 660; 2025;
-thumbnail: /images/longsms-logo-ezsms-en.png
-author: Aiko Yokoyama
-summary: EZSMS, the sister service of Xoxzo, now supports long SMS messages of up to 660 characters—just like Xoxzo! Get your message across without breaking the bank with low-cost SMS, an efficient alternative to physical direct mail. Make the most of the expanded messaging options.
+Title: EZSMS Now Supporting Up to 660 Characters per SMS!
+Date: 2025-07-17
+Slug: long-sms-ezsms
+Lang: en
+Tags: Long SMS; 660; 2025;
+Thumbnail: /images/longsms-logo-ezsms-en.png
+Author: Aiko Yokoyama
+Summary: EZSMS, the sister service of Xoxzo, now supports long SMS messages of up to 660 characters—just like Xoxzo! Get your message across without breaking the bank with low-cost SMS, an efficient alternative to physical direct mail. Make the most of the expanded messaging options.
 
 ![jpkp-price](/images/longsms-banner-en.png)
 
