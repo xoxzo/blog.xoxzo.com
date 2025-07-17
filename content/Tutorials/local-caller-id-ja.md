@@ -3,7 +3,7 @@ Date: 2025-07-14
 Author: Aiko Yokoyama  
 Tags: voice; tutorial; dial-in; caller-id;  
 Slug: voiceapi-local-caller-id  
-Thumbnail: images/voiceapi-tutorial-thumbnail.png  
+Thumbnail: images/xoxzo-tutorial-head.png  
 Lang: ja  
 Summary: 音声通話APIでローカル発信者番号を使う方法を、ダイアルイン番号の取得から、APIでの利用方法までステップごとに解説します。
 
