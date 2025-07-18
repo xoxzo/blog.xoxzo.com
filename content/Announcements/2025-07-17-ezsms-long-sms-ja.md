@@ -7,7 +7,7 @@ Thumbnail: /images/longsms-logo-ezsms-ja.png
 Author: Aiko Yokoyama
 Summary: APIサービスXoxzoの姉妹サービスEZSMS。Xoxzoに続いて、こちらも660文字までの長文SMSに対応しました。郵送DMに比較して単価の低いSMSで、伝えたいことは無限大。選択肢の広がりを上手にご利用ください。
 
-![jpkp-price](/images/longsms-banner-ja.png)
+![longsms-banner](/images/longsms-banner-ja.jpg)
 
 平素は、[Xoxzo−クラウドテレフォニープラットフォーム](https://www.xoxzo.com/ja/)のご利用ありがとうございます。<br>
 Xoxzoの姉妹サービス[EZSMS](https://www.ezsms.biz/ja/)が、6月の[Xoxzo SMS送信APIでの660文字の長文対応](https://blog.xoxzo.com/ja/2025/06/03/long-sms/)に続き、長文送信サービスをリリースしました。<br>
