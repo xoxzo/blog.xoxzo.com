@@ -3,7 +3,7 @@ Date: 2025-08-07
 Slug: action-url
 Lang: ja
 Tags: アクションURL; DIN; ダイヤルイン番号; 2025;
-Thumbnail: /images/longsms-logo-ezsms-ja.png
+Thumbnail: /images/action-url.jpg
 Author: Aiko Yokoyama
 Summary: 新機能「アクションURL」登場！ダイヤルイン番号に、アクティブ／非アクティブ時間や非通知着信に応じたアクションを、ブラウザ上で簡単に設定できます。
 
