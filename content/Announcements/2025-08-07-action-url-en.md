@@ -3,7 +3,7 @@ Date: 2025-08-07
 Slug: action-url
 Lang: en
 Tags: actionURL; DIN; 2025;
-Thumbnail: /images/longsms-logo-ezsms-en.png
+Thumbnail: /images/action-url.jpg
 Author: Aiko Yokoyama
 Summary: Introducing Action URL: Easily configure how your Dial-In Numbers respond during active hours, inactive hours, or anonymous calls — all from your browser.
 
