@@ -40,7 +40,7 @@ Summary: 新機能「アクションURL」登場！ダイヤルイン番号に�
 
 詳しい使い方や、入電時のフロー図については、以下のページをご覧ください：
 
-👉 [アクションURL ヘルプページ](https://docs.xoxzo.com/ja/din#what-are-actions)
+👉 [アクションURL ヘルプページ](https://help.xoxzo.com/ja/xoxzo-cloud-telephony/voice-api/articles/action-url/)
 
 ---
 

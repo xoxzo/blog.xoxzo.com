@@ -1,4 +1,4 @@
-Title: EZSMS Now Supporting Up to 660 Characters per SMS!
+Title: Simplify Your Incoming Call Logic with the New Action URL Feature!
 Date: 2025-08-07
 Slug: action-url
 Lang: en
@@ -8,21 +8,45 @@ Author: Aiko Yokoyama
 Summary: Introducing Action URL: Easily configure how your Dial-In Numbers respond during active hours, inactive hours, or anonymous calls — all from your browser.
 
 
-![longsms-banner](/images/longsms-banner-en.jpg)
+# New Feature: Action URL Now Available!
 
-Thank you as always for using [Xoxzo – the Cloud Telephony Platform](https://www.xoxzo.com/).  
-Following the [June update that enabled up to 660 characters for Xoxzo’s SMS sending API](https://blog.xoxzo.com/en/2025/06/03/long-sms/), our sister service [EZSMS](https://www.ezsms.biz/) has now launched its own long message SMS feature.
+We’re excited to introduce a new feature for Xoxzo Dial-In Number (DIN) users:  
+**Action URL** — a smarter, more flexible way to handle inbound call actions.
 
-SMS offers immediacy and requires only a recipient’s mobile phone number. With the rise of smartphone usage, it has also become a smooth pathway to drive traffic from text messages to web browsers.  
-However, including long URLs—even when using a URL shortener—can still consume a fair number of characters. With the traditional 70-character limit, crafting an effective message has often been a real challenge.
+Until now, actions could only be set via API.  
+With **Action URL**, you can now configure everything directly from your browser.
+Even better, a single URL can handle **Active Hours**, **Inactive Hours**, and even **Anonymous Callers** — all in one.
 
-This is especially true for marketing messages. Once you include promotional content, opt-out instructions, and maybe a short greeting, there’s hardly any space left.
+---
 
-EZSMS is a no-code, browser-based SMS service with a user-friendly interface. Now that it supports up to 660 characters per message, it has become even more useful—allowing you to tailor the length and content of your message to suit a wide range of marketing strategies.
+## ✅ Highlights of Action URL
 
-Take full advantage of this new flexibility and bring your creative ideas to life.
+- **Browser-based configuration** — no programming needed  
+- **Time-based control** — set different actions for business and off-hours  
+- **Supports anonymous callers** — tailor actions for hidden numbers  
+- **Up to two actions per URL** (API allows only one)
 
-We look forward to your continued support of both [EZSMS](https://www.ezsms.biz/) and [Xoxzo](https://www.xoxzo.com/).
+---
 
+## 💡 Use Case Examples
 
-[def]: /images/longsms-banner-en.jpg
+- Forward calls during working hours, play a TTS message after hours  
+- Switch to voicemail on holidays  
+- Play a message for anonymous callers before allowing or rejecting the call
+
+---
+
+## 🧭 Learn More
+
+Check out the documentation and call flow diagram here:
+
+👉 [Action URL Help Page](https://help.xoxzo.com/en/xoxzo-cloud-telephony/voice-api/articles/action-url/)
+
+---
+
+## 📢 More Features Coming Soon!
+
+We’re constantly working to improve usability and expand functionality based on your feedback.  
+If you have any suggestions or requests, we’d love to hear from you!
+
+📩 Contact us at **help@xoxzo.com**
