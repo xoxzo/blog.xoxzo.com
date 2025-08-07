@@ -19,7 +19,7 @@ Even better, a single URL can handle **Active Hours**, **Inactive Hours**, and e
 
 ---
 
-## ✅ Highlights of Action URL
+## Highlights of Action URL
 
 - **Browser-based configuration** — no programming needed  
 - **Time-based control** — set different actions for business and off-hours  
@@ -28,7 +28,7 @@ Even better, a single URL can handle **Active Hours**, **Inactive Hours**, and e
 
 ---
 
-## 💡 Use Case Examples
+## Use Case Examples
 
 - Forward calls during working hours, play a TTS message after hours  
 - Switch to voicemail on holidays  
@@ -36,17 +36,17 @@ Even better, a single URL can handle **Active Hours**, **Inactive Hours**, and e
 
 ---
 
-## 🧭 Learn More
+## Learn More
 
 Check out the documentation and call flow diagram here:
 
-👉 [Action URL Help Page](https://help.xoxzo.com/en/xoxzo-cloud-telephony/voice-api/articles/action-url/)
+[Action URL Help Page](https://help.xoxzo.com/en/xoxzo-cloud-telephony/voice-api/articles/action-url/)
 
 ---
 
-## 📢 More Features Coming Soon!
+## More Features Coming Soon!
 
 We’re constantly working to improve usability and expand functionality based on your feedback.  
 If you have any suggestions or requests, we’d love to hear from you!
 
-📩 Contact us at **help@xoxzo.com**
+Contact us at **help@xoxzo.com**
