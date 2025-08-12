@@ -3,7 +3,7 @@ import os
 HERE = os.path.abspath(os.path.dirname(__file__))
 PROJECT_ROOT = os.path.abspath(os.path.join(HERE, '.'))
 
-AUTHOR = 'Iqbal Abdullah'
+AUTHOR = 'Aiko Yokoyama'
 SITENAME = 'Xoxzo Official Blog: Empowerment'
 SITEURL = 'http://localhost:8000'
 
