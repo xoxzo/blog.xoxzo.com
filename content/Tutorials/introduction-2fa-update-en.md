@@ -1,10 +1,10 @@
 Title: Implementing Two-Factor Authentication (2FA) with the OTP API
 Date: 2025-08-15 11:00
-Author: Xoxzo Team
+Author: miko-chan
 Tags: two-factor authentication; tutorial; sms; otp
 Slug: otp-api-2fa-tutorial
 Lang: en
-Thumbnail: images/otp-api-2fa/otp-api.jpg
+Thumbnail: /images/otp-api.jpg
 Summary: Learn how to implement secure, simple, and cost-effective two-factor authentication using Xoxzo's new OTP API.
 
 ---

@@ -1,10 +1,10 @@
 Title: OTP APIを使った最新の二要素認証（2FA）導入方法
 Date: 2025-08-15 11:00
-Author: Xoxzo Team
+Author: miko-chan
 Tags: 二要素認証; チュートリアル; sms; otp
 Slug: otp-api-2fa-tutorial
 Lang: ja
-Thumbnail: images/otp-api-2fa/otp-api.jpg
+Thumbnail: /images/otp-api.jpg
 Summary: Xoxzoの新しいOTP APIを使って、安全で簡単、そしてコスト効率の高い二要素認証を導入する方法を紹介します。
 
 ---
