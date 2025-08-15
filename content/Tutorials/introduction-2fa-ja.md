@@ -7,6 +7,12 @@ Lang: ja
 Thumbnail: images/introduction-2fa-sms/sms-2fa-en.jpg
 Summary: Webアプリに二要素認証を導入する方法の紹介です。
 
+> **重要なお知らせ（2025年8月更新）**  
+> 本記事は2021年公開の内容であり、現在は[新しいOTP API](https://docs.xoxzo.com/ja/otp)を利用した実装が推奨されています。  
+> 最新の手順やコード例は[こちらの最新版チュートリアル](https://blog.xoxzo.com/ja/2025/08/15/otp-api-2fa-tutorial/)をご参照ください。
+
+
+
 二要素認証とは何ですか？なぜ使用しているのですか？ 
 パスワードは十分ではありませんか？
 
@@ -70,3 +76,9 @@ Webサービスで、SMSを使った二要素認証を導入するとすれば�
 
 [^1]:Python3.6以降の利用を想定しています。それよりも前のPythonには標準では *secrets* パッケージがないので、
 適当な乱数生成ライブラリを使う必要があります。
+
+---
+**更新情報:**  
+2025年8月時点で、より安全で簡単に二要素認証を実装できる[OTP API](https://docs.xoxzo.com/ja/otp)が利用可能になりました。  
+実装方法の詳細は[こちらの記事](https://blog.xoxzo.com/ja/2025/08/15/otp-api-2fa-tutorial/)をご覧ください。
+

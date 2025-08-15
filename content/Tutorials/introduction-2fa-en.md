@@ -9,6 +9,12 @@ Summary: Let's learn how to add Two-Factor Authentication on your Web-applicatio
 Series: featured-en
 series_index: 1
 
+> **Important Notice (Updated August 2025)**  
+> This article was originally published in 2021 and is now considered outdated. We recommend using our latest [OTP API](https://docs.xoxzo.com/en/otp) for implementation.  
+> For the latest steps and code examples, please refer to [this updated tutorial](https://blog.xoxzo.com/en/2025/08/15/otp-api-2fa-tutorial/).
+
+
+
 There are many cases that user IDs and passwords are leaked by various Web services, 
 accounts are compromised and illegally used.
 As a means to prevent such troubles, it is becoming more common to confirm the mobile number of the user.
@@ -65,3 +71,9 @@ This is an introduction of simple How-to for two-factor authentication using SMS
 With implement of this method, you may avoid the multiple account creation by a user for each of their purpose.
 
 [^1]: It is assumed to use Python 3.6 or later. There is no *secrets* package by default in Python before that ver., so you will need to use the appropriate random number generation library.
+
+---
+**Update:**  
+As of August 2025, our new [OTP API](https://docs.xoxzo.com/en/otp) provides a simpler and more secure way to implement two-factor authentication.  
+For detailed implementation steps, please see [this article](https://blog.xoxzo.com/en/2025/08/15/otp-api-2fa-tutorial/).
+
