@@ -30,3 +30,6 @@ Series_index: 1
    *電話発信APIの使い方を紹介します。*
 
 …（続きは随時追加予定）
+
+
+{% include "tutorial-footer.html" %}
