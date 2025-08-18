@@ -8,7 +8,7 @@ Lang: ja
 Summary: まずは、あなたの最初のAPIユーザーを作ってみてね！
 
 <div>
-  <img src="https://blog.xoxzo.com/images/xoxtan.png" class="float-lg-right lg-width200 md-width300" style="margin: 0;">
+  <img src="https://blog.xoxzo.com/images/xoxtan.png" class="float-lg-right lg-width200 md-width300" style="width:200px; height:auto; margin: 0;">
 </div>
 <div class="lg-padding-top50 md-padding0">
 Xoxzoへようこそ！わたしたちのAPIを使うと、SMSを送ったり、電話をかけたり、もっといろいろ、できちゃうんです。でも、その前に。APIキーとトークンを手に入れてね！
