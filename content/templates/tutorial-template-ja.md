@@ -19,4 +19,10 @@ Series_index: 1
 ## 補足
 補足説明や注意点。
 
-{% include "tutorial-footer.html" %}
+---
+**📚 チュートリアルシリーズ**
+
+[← PREV_TITLE](/PREV_URL) · [目次へ戻る](/tutorial-index-ja.html) · [NEXT_TITLE →](/NEXT_URL)
+
+*おすすめ:* [最初のSMS送信](/send-your-first-sms) ｜ [音声APIを試す](/try-voice-api)
+---
