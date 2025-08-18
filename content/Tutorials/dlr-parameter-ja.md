@@ -5,6 +5,8 @@ Tags: dlr; tutorial;
 Slug: dlr-parameter-tutorial
 Lang: ja
 Summary: 行ったアクションに対するステータス確認に使えるパラメーター「callbackurl」がリリースされました。こちらでは、サンプルコードと併せて、ご案内します。
+Series: Xoxzo API Tutorial
+Series_index: 3
 
 いつも、[Xoxzoークラウドテレフォニープラットフォーム](https://www.xoxzo.com/ja/)をご利用いただき、誠に有難うございます。
 
@@ -45,3 +47,11 @@ curl -v -u $SID:$AUTH_TOKEN \
 
 [SMS配信用callbackurl パラメータについて](http://docs.xoxzo.com/ja/sms.html)
 [VOICE音声通話用callbackurlパラメータについて](http://docs.xoxzo.com/ja/voice.html)
+
+---
+**📚 チュートリアルシリーズ**
+
+[← PREV_TITLE](/PREV_URL) · [目次へ戻る](/tutorial-index-ja.html) · [NEXT_TITLE →](/NEXT_URL)
+
+*おすすめ:* [最初のSMS送信](/send-your-first-sms) ｜ [音声APIを試す](/try-voice-api)
+---
