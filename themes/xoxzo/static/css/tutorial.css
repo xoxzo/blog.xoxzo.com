@@ -1,0 +1,27 @@
+.tutorial-list li {
+  margin-bottom: 1em;
+}
+.tutorial-list small {
+  color: #666;
+  display: block;
+  margin-top: 0.2em;
+}
+
+.tutorial-footer {
+  background: #f9f9fb;
+  border-radius: 8px;
+  padding: 1.5em;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+.tutorial-footer .lead {
+  font-size: 1.1rem;
+  margin-bottom: 0.5em;
+  font-weight: 600;
+  color: #444;
+}
+
+.tutorial-footer a.btn {
+  font-size: 0.9rem;
+  padding: 0.4em 1.2em;
+}

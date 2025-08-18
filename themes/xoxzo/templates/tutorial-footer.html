@@ -1,0 +1,25 @@
+<div class="tutorial-footer text-center mt-5 mb-4">
+  <hr class="my-4">
+  <p class="lead">📚 チュートリアルシリーズ</p>
+
+  <div class="tutorial-nav my-3">
+    {% if article.series.previous %}
+      <a class="btn btn-outline-secondary btn-sm"
+         href="{{ SITEURL }}/{{ article.series.previous.url }}">
+        ← {{ article.series.previous.title }}
+      </a>
+    {% endif %}
+
+    <a class="btn btn-outline-primary btn-sm mx-2"
+       href="{{ SITEURL }}/tutorial-index-ja.html">
+      目次へ戻る
+    </a>
+
+    {% if article.series.next %}
+      <a class="btn btn-outline-secondary btn-sm"
+         href="{{ SITEURL }}/{{ article.series.next.url }}">
+        {{ article.series.next.title }} →
+      </a>
+    {% endif %}
+  </div>
+</div>
