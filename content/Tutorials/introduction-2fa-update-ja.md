@@ -1,7 +1,7 @@
 Title: OTP APIを使った最新の二要素認証（2FA）導入方法
 Date: 2025-08-15 11:00
-Author: miko-chan
-Tags: 二要素認証; チュートリアル; sms; otp
+Author: Miko-chan
+Tags: 二要素認証; チュートリアル; sms; otp;
 Slug: otp-api-2fa-tutorial
 Lang: ja
 Thumbnail: /images/otp-api.jpg

@@ -1,7 +1,7 @@
 Title: Implementing Two-Factor Authentication (2FA) with the OTP API
 Date: 2025-08-15 11:00
-Author: miko-chan
-Tags: two-factor authentication; tutorial; sms; otp
+Author: Miko-chan
+Tags: two-factor authentication; tutorial; sms; otp;
 Slug: otp-api-2fa-tutorial
 Lang: en
 Thumbnail: /images/otp-api.jpg
