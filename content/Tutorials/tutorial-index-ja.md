@@ -35,7 +35,7 @@ Series_index: 1
 ---
 **📚 チュートリアルシリーズ**
 
-[← PREV_TITLE](/PREV_URL) · [目次へ戻る](/tutorial-index-ja.html) · [NEXT_TITLE →](/NEXT_URL)
-
-*おすすめ:* [最初のSMS送信](/send-your-first-sms) ｜ [音声APIを試す](/try-voice-api)
----
+<div class="tutorial-footer">
+  <p><a href="/prev-url">← PREV_TITLE</a> · <a href="/tutorial-index-ja.html">目次へ戻る</a> · <a href="/next-url">NEXT_TITLE →</a></p>
+  <p><strong>おすすめ:</strong> <a href="/send-your-first-sms">最初のSMS送信</a> ｜ <a href="/try-voice-api">音声APIを試す</a></p>
+</div>

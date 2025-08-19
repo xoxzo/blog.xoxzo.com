@@ -52,15 +52,13 @@ APIユーザーは、XoxzoアカウントからAPIを利用するときに必要
 これで、APIユーザーの作成と基本的な管理方法がわかりました。
 次のステップでは、このユーザーを使って実際にAPIを呼び出してみましょう。
 
-👉 APIの詳細は [公式ドキュメント](https://docs.xoxzo.com/ja/) をご覧ください。
-👉 シリーズ記事一覧は [こちら](/tutorial-index-ja.html)
-
 
 ---
 **📚 チュートリアルシリーズ**
 
-[← PREV_TITLE](/PREV_URL) · [目次へ戻る](/tutorial-index-ja.html) · [NEXT_TITLE →](/NEXT_URL)
+<div class="tutorial-footer">
+  <p><a href="/prev-url">← PREV_TITLE</a> · <a href="/tutorial-index-ja.md">目次へ戻る</a> · <a href="/next-url">NEXT_TITLE →</a></p>
+  <p><strong>おすすめ:</strong> <a href="/sending-your-first-sms-ja.md">最初のSMS送信</a> ｜ <a href="/try-voice-api">音声APIを試す</a></p>
+</div>
 
-*おすすめ:* [最初のSMS送信](/send-your-first-sms) ｜ [音声APIを試す](/try-voice-api)
----
 
