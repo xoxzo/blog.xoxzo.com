@@ -1,27 +1,26 @@
-.tutorial-list li {
-  margin-bottom: 1em;
-}
-.tutorial-list small {
-  color: #666;
-  display: block;
-  margin-top: 0.2em;
-}
-
+/* フッター全体に装飾 */
 .tutorial-footer {
-  background: #f9f9fb;
-  border-radius: 8px;
-  padding: 1.5em;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  margin-top: 2em;
+  padding: 1em 0;
+  border-top: 1px solid #ddd;
+  font-size: 0.95rem;
+  color: #555;
+  text-align: center;
 }
 
-.tutorial-footer .lead {
-  font-size: 1.1rem;
-  margin-bottom: 0.5em;
-  font-weight: 600;
-  color: #444;
+/* 「おすすめ:」だけは普通の文字に */
+.tutorial-footer strong {
+  font-weight: normal;  /* ←太字を解除 */
+  color: #777;
+  margin-right: 0.5em;
 }
 
-.tutorial-footer a.btn {
-  font-size: 0.9rem;
-  padding: 0.4em 1.2em;
+/* リンク部分 */
+.tutorial-footer a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.tutorial-footer a:hover {
+  text-decoration: underline;
 }
