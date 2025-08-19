@@ -49,10 +49,8 @@ curl -v -u $SID:$AUTH_TOKEN \
 [VOICE音声通話用callbackurlパラメータについて](http://docs.xoxzo.com/ja/voice.html)
 
 ---
-**📚 チュートリアルシリーズ**
-
 <div class="tutorial-footer">
-  <p><a href="/prev-url">← PREV_TITLE</a> · <a href="/tutorial-index-ja.html">目次へ戻る</a> · <a href="/next-url">NEXT_TITLE →</a></p>
+  <p><a href="/prev-url">← PREV_TITLE</a> · <a href="/tutorial-index-ja.html">チュートリアルシリーズ</a> · <a href="/next-url">NEXT_TITLE →</a></p>
   <p><strong>おすすめ:</strong> <a href="/send-your-first-sms">最初のSMS送信</a> ｜ <a href="/try-voice-api">音声APIを試す</a></p>
 </div>
-
+---
