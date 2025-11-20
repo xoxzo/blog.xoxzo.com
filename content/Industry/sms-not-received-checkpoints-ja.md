@@ -4,6 +4,7 @@ Lang: ja
 Date: 2025-11-14
 Tags: SMS, トラブルシューティング, プラスメッセージ, 受信設定, Xoxzo
 Author: Aiko Yokoyama
+Thumbnail: images/find-sms.png
 Summary: SMSが届かないときにまず確認したい3つのポイントを紹介します。SMSとメールの違い、プラスメッセージアプリの確認方法、海外SMS受信設定の見直し手順も解説。
 
 ---
