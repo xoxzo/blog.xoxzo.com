@@ -4,6 +4,7 @@ Lang: en
 Date: 2025-11-14
 Tags: SMS, Troubleshooting, Plus Message, Delivery Settings, Xoxzo
 Author: Aiko Yokoyama
+Thumbnail: images/find-sms.png
 Summary: Here are three key things to check when an SMS doesn't arrive. Learn the difference between SMS and email, how to check the Plus Message app, and how to review your international SMS settings.
 
 ---
