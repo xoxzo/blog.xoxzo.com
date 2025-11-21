@@ -1,0 +1,27 @@
+{% if DEFAULT_LANG == "en" %}
+<div class="author-profile container">
+  <div class="row">
+    <div class="col-sm-4 text-left text-sm-center mb-3">
+      <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/xoxzo-team.png" alt="Xoxzo Team Logo">
+    </div>
+    <div class="col-sm-8 profile-content">
+      <h3>Xoxzo Team</h3>
+      <h4>Cloud Communications Engineers</h4>
+      <p>Building reliable SMS and telephony APIs since 2007. Passionate about simplifying communications and enabling developers globally.</p>
+    </div>
+  </div>
+</div>
+{% else %}
+<div class="author-profile container">
+  <div class="row">
+    <div class="col-sm-4 text-left text-sm-center mb-3">
+      <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/xoxzo-team.png" alt="Xoxzoチームのロゴ">
+    </div>
+    <div class="col-sm-8 profile-content">
+      <h3>Xoxzoチーム</h3>
+      <h4>クラウド通信エンジニア</h4>
+      <p>2007年から信頼性の高いSMS・電話APIの開発。通信のシンプル化と世界中の開発者の支援を目指す。</p>
+    </div>
+  </div>
+</div>
+{% endif %}
