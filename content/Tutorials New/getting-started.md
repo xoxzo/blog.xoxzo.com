@@ -2,7 +2,7 @@ Title: Xoxzoをはじめよう！
 Date: 2017-10-13 12:00
 Author: Miko-chan
 Tags: api user, api, tutorial
-Slug: create-your-first-apiuser-new
+Slug: getting-started-create-your-first-apiuser
 Thumbnail: images/xoxtan.png
 Lang: ja
 Summary: APIを使うための第一歩として、APIユーザーを作成してみましょう。
