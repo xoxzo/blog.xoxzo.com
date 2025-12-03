@@ -141,5 +141,5 @@ This reduces verification failure and ultimately
 - [Xoxzo OTP API (3 JPY/SMS)](https://docs.xoxzo.com/en/otp/)  
 
 ## Related Articles
-<a href="/Industry/sms-not-received-checkpoints-en.md">What to Do When an SMS Doesn't Arrive: 3 Things to Check</a><br>
-<a href="/Industry/sms-vs-social-auth-en.md">SMS Authentication vs Social App Authentication: Which Is More Reliable?</a>
+<a href="https://blog.xoxzo.com/en/2025/11/14/sms-not-received-checkpoints/">What to Do When an SMS Doesn't Arrive: 3 Things to Check</a><br>
+<a href="https://blog.xoxzo.com/en/2025/12/03/sms-vs-social-auth/">SMS Authentication vs Social App Authentication: Which Is More Reliable?</a>
