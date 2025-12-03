@@ -9,6 +9,8 @@ Summary: SMSが届かない場合の代替手段として、音声通話によ�
 
 - - -
 
+<img src="https://blog.xoxzo.com/images/smsvsvoice-ja.jpg" width="200" height="200" style="margin: 0;">
+
 ## SMS認証が難しいときの「音声通話による認証」という選択肢
 
 本人確認で最も広く使われているのはSMS認証ですが、
@@ -141,5 +143,5 @@ https://docs.xoxzo.com/ja/voice/
 * [認証専用 OTP API（3円/SMS）](https://docs.xoxzo.com/ja/otp/)
 
 ## 関連記事
-[SMSが届かない？まず確認したい3つのポイント](/Industry/sms-not-received-checkpoints-ja.md)<br>
-[SMS認証 vs SNS認証：どちらが本人確認に向いている？](/Industry/sms-vs-social-auth-ja.md)
+[SMSが届かない？まず確認したい3つのポイント](https://blog.xoxzo.com/ja/2025/11/14/sms-not-received-checkpoints/)<br>
+[SMS認証 vs SNS認証：どちらが本人確認に向いている？](https://blog.xoxzo.com/ja/2025/12/03/sms-vs-social-auth/)

@@ -48,15 +48,52 @@ SMS認証はサービス側が指定した番号にSMSを送り、
 
 ## 🧩 比較表：SMS認証 vs SNS認証
 
-| 項目 | SMS認証 | SNS認証（例：LINE） |
-|------|---------|----------------------|
-| 確認できる情報 | 電話番号の所有 | SNSアカウントの所有 |
-| 電話番号の裏付け | ◯（ユーザーが受信） | ✕（サービス側に番号は開示されない） |
-| 本人確認の強度 | 高 | 中 |
-| 利便性 | コード入力が必要 | 高（ワンタップログイン） |
-| インターネット接続 | 不要（電話回線で受信可） | 必須 |
-| 番号変更時の影響 | 要再認証 | アカウント継続可能 |
-| 向いている用途 | 本人確認・セキュリティ強化 | 通知・既存顧客向け連携 |
+<table style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid #ccc; padding: 8px;">項目</th>
+      <th style="border: 1px solid #ccc; padding: 8px;">SMS認証</th>
+      <th style="border: 1px solid #ccc; padding: 8px;">SNS認証（例：LINE）</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 8px;">確認できる情報</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">電話番号の所有</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">SNSアカウントの所有</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 8px;">電話番号の裏付け</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">◯（ユーザーが受信）</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">✕（サービス側に番号は開示されない）</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 8px;">本人確認の強度</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">高</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">中</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 8px;">利便性</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">コード入力が必要</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">高（ワンタップログイン）</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 8px;">インターネット接続</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">不要（電話回線で受信可）</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">必須</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 8px;">番号変更時の影響</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">要再認証</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">アカウント継続可能</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 8px;">向いている用途</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">本人確認・セキュリティ強化</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">通知・既存顧客向け連携</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 

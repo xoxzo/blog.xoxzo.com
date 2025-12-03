@@ -9,6 +9,8 @@ Summary: When SMS delivery is unreliable, voice call text-to-speech authenticati
 
 ---
 
+<img src="https://blog.xoxzo.com/images/smsvsvoice-en.jpg" width="200" height="200" style="margin: 0;">
+
 ## When SMS Doesn't Arrive: Voice Call Authentication as an Alternative
 
 SMS is widely used for identity verification.  
@@ -137,3 +139,7 @@ This reduces verification failure and ultimately
 - [Xoxzo SMS API Documentation](https://docs.xoxzo.com/en/sms/)  
 - [Xoxzo Voice API](https://docs.xoxzo.com/en/voice/)  
 - [Xoxzo OTP API (3 JPY/SMS)](https://docs.xoxzo.com/en/otp/)  
+
+## Related Articles
+<a href="https://blog.xoxzo.com/en/2025/11/14/sms-not-received-checkpoints/">What to Do When an SMS Doesn't Arrive: 3 Things to Check</a><br>
+<a href="https://blog.xoxzo.com/en/2025/12/03/sms-vs-social-auth/">SMS Authentication vs Social App Authentication: Which Is More Reliable?</a>
