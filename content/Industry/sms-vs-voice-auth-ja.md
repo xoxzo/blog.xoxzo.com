@@ -143,5 +143,5 @@ https://docs.xoxzo.com/ja/voice/
 * [認証専用 OTP API（3円/SMS）](https://docs.xoxzo.com/ja/otp/)
 
 ## 関連記事
-[SMSが届かない？まず確認したい3つのポイント](/Industry/sms-not-received-checkpoints-ja.md)<br>
-[SMS認証 vs SNS認証：どちらが本人確認に向いている？](/Industry/sms-vs-social-auth-ja.md)
+[SMSが届かない？まず確認したい3つのポイント](https://blog.xoxzo.com/ja/2025/11/14/sms-not-received-checkpoints/)<br>
+[SMS認証 vs SNS認証：どちらが本人確認に向いている？](https://blog.xoxzo.com/ja/2025/12/03/sms-vs-social-auth/)
