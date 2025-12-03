@@ -80,6 +80,49 @@ https://docs.xoxzo.com/ja/voice/
 | アクセシビリティ | 画面確認が必要 | 音声で伝達 |
 | コスト | 約10円（Xoxzo 絶対認証は3円より） | 約10円（[料金ページ](https://www.xoxzo.com/ja/about/pricing/voice/#outbound-call)） |
 
+
+<table style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid #ccc; padding: 8px;">項目</th>
+      <th style="border: 1px solid #ccc; padding: 8px;">SMS認証</th>
+      <th style="border: 1px solid #ccc; padding: 8px;">音声通話認証</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 8px;">受信方法</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">SMSアプリ</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">電話を受けるだけ</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 8px;">固定電話対応</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">✕</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">◯</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 8px;">海外SMSブロックの影響</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">受ける</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">受けない</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 8px;">キャリア遅延の影響</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">受ける</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">受けにくい</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 8px;">アクセシビリティ</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">画面確認が必要</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">音声で伝達</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 8px;">コスト</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">約10円（Xoxzo 絶対認証は3円より）</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">約10円（<a href="https://www.xoxzo.com/ja/about/pricing/voice/#outbound-call" target="_blank">料金ページ</a>）</td>
+    </tr>
+  </tbody>
+</table>
+
 - - -
 
 ## 導入アイデア
@@ -106,3 +149,7 @@ https://docs.xoxzo.com/ja/voice/
 * [Xoxzo SMS API ドキュメンテーション](https://docs.xoxzo.com/ja/sms/)
 * [Xoxzo Voice API（音声API）](https://docs.xoxzo.com/ja/voice/)
 * [認証専用 OTP API（3円/SMS）](https://docs.xoxzo.com/ja/otp/)
+
+# 関連記事
+[SMSが届かない？まず確認したい3つのポイント](/Industry/sms-not-received-checkpoints-ja.md)
+[SMS認証 vs SNS認証：どちらが本人確認に向いている？](/Industry/sms-vs-social-auth-ja.md)
