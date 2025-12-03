@@ -9,6 +9,8 @@ Summary: When SMS delivery is unreliable, voice call text-to-speech authenticati
 
 ---
 
+<img src="https://blog.xoxzo.com/images/smsvsvoice-en.jpg" width="200" height="200" style="margin: 0;">
+
 ## When SMS Doesn't Arrive: Voice Call Authentication as an Alternative
 
 SMS is widely used for identity verification.  
