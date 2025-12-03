@@ -15,6 +15,7 @@ Series_index: 4
   <img src="https://blog.xoxzo.com/images/xoxtan.png" class="float-lg-right lg-width200 md-width300" style="margin: 0;">
 </div>
 
+
 ## はじめに
 
 前回のチュートリアルでは、最初のAPIユーザーを作成しました。  
