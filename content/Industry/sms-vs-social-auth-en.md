@@ -1,105 +1,100 @@
-Title: When SMS Doesn’t Arrive: Voice Call Authentication as an Alternative
-Slug: sms-vs-voice-auth
+Title: SMS Authentication vs Social App Authentication: Which Is More Reliable for Identity Verification?
+Slug: sms-vs-social-auth
 Lang: en
-Date: 2025-11-21
-Tags: SMS, Voice API, Authentication, Accessibility, Xoxzo
+Date: 2025-12-03
+Tags: SMS, Authentication, Social Login, LINE, Security, Xoxzo
 Author: Aiko Yokoyama
-Thumbnail: images/smsvsvoice-en.jpg
-Summary: When SMS delivery is unreliable, voice call text-to-speech authentication can be an effective alternative. It works even with landlines and improves accessibility for a wider range of users.
+Summary: A comparison of SMS authentication and social app authentication (e.g., LINE), focusing on their reliability, verification strength, and the use cases each method is best suited for.
 
 ---
 
-## When SMS Doesn't Arrive: Voice Call Authentication as an Alternative
+## 🔐 SMS Authentication vs Social App Authentication: Which Is More Reliable?
 
-SMS is widely used for identity verification.  
-However, situations where **“SMS doesn’t arrive”** or **“SMS can’t be found”** do occur:
+When choosing a method for identity verification in an online service,  
+two common options are **SMS authentication** and **social app authentication (e.g., LINE)**.
 
-- International SMS blocking settings  
-- Carrier network delays  
-- Messages being routed into apps like Plus Message  
-- Users who rely on landline phones rather than mobile devices
-
-In these cases, **voice call + text-to-speech authentication** is a practical and reliable alternative.
+Both are convenient, but the **information they validate** and the **level of identity assurance**  
+are significantly different.  
+This article compares their characteristics and explains which method fits which scenario.
 
 ---
 
-## How It Works
+## 💬 Social App Authentication (e.g., LINE) Is *Not* Phone Number Verification
 
-Voice call authentication places an automated call to the user’s phone number and  
-reads out the verification code using TTS (text-to-speech):
+Social app authentication allows users to log in using an app they already use,  
+such as LINE.
 
-“This is your verification service. Your code is 1 2 3 4.”
+However, there is a common misunderstanding:
 
+- LINE requires phone number verification *when creating an account*
+- **But the service integrating LINE does *not* receive the user’s phone number**
 
-- The user simply answers the call  
-- Works on both mobile phones and **landlines**  
-- Stable in areas where SMS delivery may be unreliable  
-- Easy to integrate alongside SMS verification
+In other words:
 
----
+> “Logged in with LINE = This person owns this phone number”  
+is **not necessarily true**.
 
-## When Voice Authentication Is Especially Useful
-
-### ① Environments where SMS is unstable
-International SMS restrictions, Plus Message routing, or other settings  
-may cause SMS to be delayed or undelivered.
-
-### ② Users with only a landline phone
-Reception desks, elderly users, or certain business environments  
-may not use mobile phones at all—but **voice calls always work**.
-
-### ③ Users who have difficulty checking codes visually
-Since the code is read aloud, voice authentication improves accessibility.
+Users can change their phone number while keeping the same LINE account,  
+and some users operate LINE on devices **without a SIM card**.
 
 ---
 
-## Cost & Implementation
+## 📱 SMS Authentication Confirms Actual Ownership of the Phone Number
 
-With Xoxzo’s **Voice API**, voice call authentication costs:
+SMS authentication sends a code to a specific phone number.  
+If the user receives the SMS, they have proven that  
+**they are the owner (or holder) of that phone number**.
 
-- **About 10 JPY per call** (japanese domestic, see [pricing page](https://www.xoxzo.com/en/about/pricing/voice/#outbound-call))  
-- The similar price range as SMS verification  
-- Easy to add to existing authentication flows
-
-Documentation: https://docs.xoxzo.com/en/voice/
-
----
-
-## Comparison: SMS vs Voice Call Authentication
-
-| Item | SMS Authentication | Voice Call Authentication |
-|------|---------------------|---------------------------|
-| Delivery method | SMS app | Phone call (audio) |
-| Works with landline | ✕ | ◯ |
-| Affected by international SMS blocking | Yes | Less likely |
-| Affected by carrier delays | Yes | Less likely |
-| Accessibility | Requires reading text | Code is spoken aloud |
-| Cost | ~10 JPY | see [pricing page](https://www.xoxzo.com/en/about/pricing/voice/#outbound-call) |
+This provides a **high level of identity assurance**,  
+making SMS a strong method for verifying real-world contact information.
 
 ---
 
-## Implementation Ideas
+## 🧩 Comparison: SMS Authentication vs Social App Authentication
 
-- Show SMS **and** voice call authentication options on the login screen  
-- Provide voice call as a fallback when SMS verification fails  
-- Use voice-first authentication for users with landlines
-
-This reduces verification failure and ultimately  
-**helps prevent user drop-off during onboarding.**
+| Item | SMS Authentication | Social App Authentication (e.g., LINE) |
+|------|---------------------|----------------------------------------|
+| What it verifies | Ownership of the phone number | Ownership of the social app account |
+| Proof of phone number | ◯ (code is delivered to the number) | ✕ (phone number is not shared with the service) |
+| Identity assurance | High | Medium |
+| Convenience | Requires code entry | High (one-tap login) |
+| Internet required | No (delivered via carrier network) | Yes |
+| Impact of phone number changes | Requires re-verification | Account continues without issues |
+| Best suited for | Identity verification, security checks | Notifications, integrations for existing users |
 
 ---
 
-## Summary
+## 💡 How Should You Use Them?
 
-- SMS delivery can be unstable depending on device and carrier  
-- Voice call authentication is a highly reliable alternative  
-- Works with landlines and improves accessibility  
-- Simple to implement with Xoxzo’s Voice API  
+### 🔹 For initial identity verification or account creation  
+➡ **SMS authentication is best**  
+It directly verifies ownership of the phone number.
+
+### 🔹 For notifications and ongoing communication  
+➡ **Combine social app login or integration (e.g., LINE)**  
+This improves usability and user engagement.
+
+### 🔹 If SMS doesn’t arrive  
+➡ As explained in **Vol.2**, voice call authentication is a strong fallback option.
+
+---
+
+## 📝 Summary
+
+- Social app authentication is convenient but **does not verify phone number ownership**
+- SMS authentication directly confirms ownership and provides **stronger identity assurance**
+- A hybrid approach—**SMS first, social app integration afterward**—is the most practical
+- Voice call authentication can fill in the gaps when SMS delivery is unreliable
 
 ---
 
 ## Related Links
+- [Vol.1: What to Do When an SMS Doesn't Arrive](/blog/sms-not-received-checkpoints/)
+- [Vol.2: Voice Call Authentication as an Alternative](/blog/sms-vs-voice-auth/)
+- [Xoxzo SMS API Documentation](https://docs.xoxzo.com/en/sms/)
+- [Xoxzo Voice API](https://docs.xoxzo.com/en/voice/)
+- [Xoxzo OTP API (3 JPY/SMS)](https://docs.xoxzo.com/en/otp/)
 
-- [Xoxzo SMS API Documentation](https://docs.xoxzo.com/en/sms/)  
-- [Xoxzo Voice API](https://docs.xoxzo.com/en/voice/)  
-- [Xoxzo OTP API (3 JPY/SMS)](https://docs.xoxzo.com/en/otp/)  
+---
+
+> *“LINE” is a registered trademark of LINE Yahoo Corporation.*
