@@ -52,15 +52,52 @@ making SMS a strong method for verifying real-world contact information.
 
 ## 🧩 Comparison: SMS Authentication vs Social App Authentication
 
-| Item | SMS Authentication | Social App Authentication (e.g., LINE) |
-|------|---------------------|----------------------------------------|
-| What it verifies | Ownership of the phone number | Ownership of the social app account |
-| Proof of phone number | ◯ (code is delivered to the number) | ✕ (phone number is not shared with the service) |
-| Identity assurance | High | Medium |
-| Convenience | Requires code entry | High (one-tap login) |
-| Internet required | No (delivered via carrier network) | Yes |
-| Impact of phone number changes | Requires re-verification | Account continues without issues |
-| Best suited for | Identity verification, security checks | Notifications, integrations for existing users |
+<table style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid #ccc; padding: 8px;">Item</th>
+      <th style="border: 1px solid #ccc; padding: 8px;">SMS Authentication</th>
+      <th style="border: 1px solid #ccc; padding: 8px;">Social App Authentication (e.g., LINE)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 8px;">What it verifies</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Ownership of the phone number</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Ownership of the social app account</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 8px;">Proof of phone number</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">◯ (code delivered to the number)</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">✕ (phone number not shared with the service)</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 8px;">Identity assurance</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">High</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Medium</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 8px;">User convenience</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Requires entering a code</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">High (one-tap login)</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 8px;">Internet required</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">No (delivered via carrier network)</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Yes</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 8px;">Impact of phone number change</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Requires re-verification</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Account continues without issues</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 8px;">Best suited for</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Identity verification, security checks</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Notifications, integrations for existing users</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
