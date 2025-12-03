@@ -4,7 +4,7 @@ Lang: ja
 Date: 2025-11-21
 Tags: SMS, 音声API, 認証, 代替手段, Xoxzo
 Author: Aiko Yokoyama
-Thumbnail: images/smsvsvoice-ja.png
+Thumbnail: images/smsvsvoice-ja.jpg
 Summary: SMSが届かない場合の代替手段として、音声通話によるコード読み上げ認証を解説します。固定電話しか使えない環境やSMS受信が不安定な端末でも利用可能な柔軟な認証方式です。
 
 - - -
