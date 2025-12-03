@@ -67,14 +67,48 @@ Documentation: https://docs.xoxzo.com/en/voice/
 
 ## Comparison: SMS vs Voice Call Authentication
 
-| Item | SMS Authentication | Voice Call Authentication |
-|------|---------------------|---------------------------|
-| Delivery method | SMS app | Phone call (audio) |
-| Works with landline | ✕ | ◯ |
-| Affected by international SMS blocking | Yes | Less likely |
-| Affected by carrier delays | Yes | Less likely |
-| Accessibility | Requires reading text | Code is spoken aloud |
-| Cost | ~10 JPY | see [pricing page](https://www.xoxzo.com/en/about/pricing/voice/#outbound-call) |
+<table style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid #ccc; padding: 8px;">Item</th>
+      <th style="border: 1px solid #ccc; padding: 8px;">SMS Authentication</th>
+      <th style="border: 1px solid #ccc; padding: 8px;">Voice Call Authentication</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 8px;">Delivery Method</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">SMS app</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Answer the call</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 8px;">Landline Support</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">✕</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">◯</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 8px;">Impact of International SMS Blocking</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Affected</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Not affected</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 8px;">Carrier Network Delays</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">May occur</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Less likely</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 8px;">Accessibility</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Requires reading the code</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Code is spoken aloud</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 8px;">Cost</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Approx. 10 JPY (Xoxzo OTP: from 3 JPY)</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Approx. 10 JPY (<a href="https://www.xoxzo.com/en/about/pricing/voice/#outbound-call" target="_blank">Pricing page</a>)</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ---
 

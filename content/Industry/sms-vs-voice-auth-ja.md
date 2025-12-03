@@ -71,16 +71,6 @@ https://docs.xoxzo.com/ja/voice/
 
 ## SMS認証との比較表
 
-| 項目 | SMS認証 | 音声通話認証 |
-| --- | ----- | ------ |
-| 受信方法 | SMSアプリ | 電話を受けるだけ |
-| 固定電話対応 | ✕ | ◯ |
-| 海外SMSブロックの影響 | 受ける | 受けにくい |
-| キャリア遅延の影響 | 受ける | 受けにくい |
-| アクセシビリティ | 画面確認が必要 | 音声で伝達 |
-| コスト | 約10円（Xoxzo 絶対認証は3円より） | 約10円（[料金ページ](https://www.xoxzo.com/ja/about/pricing/voice/#outbound-call)） |
-
-
 <table style="border-collapse: collapse; width: 100%;">
   <thead>
     <tr>
@@ -150,6 +140,6 @@ https://docs.xoxzo.com/ja/voice/
 * [Xoxzo Voice API（音声API）](https://docs.xoxzo.com/ja/voice/)
 * [認証専用 OTP API（3円/SMS）](https://docs.xoxzo.com/ja/otp/)
 
-# 関連記事
-[SMSが届かない？まず確認したい3つのポイント](/Industry/sms-not-received-checkpoints-ja.md)
+## 関連記事
+[SMSが届かない？まず確認したい3つのポイント](/Industry/sms-not-received-checkpoints-ja.md)<br>
 [SMS認証 vs SNS認証：どちらが本人確認に向いている？](/Industry/sms-vs-social-auth-ja.md)
