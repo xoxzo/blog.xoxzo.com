@@ -139,3 +139,7 @@ This reduces verification failure and ultimately
 - [Xoxzo SMS API Documentation](https://docs.xoxzo.com/en/sms/)  
 - [Xoxzo Voice API](https://docs.xoxzo.com/en/voice/)  
 - [Xoxzo OTP API (3 JPY/SMS)](https://docs.xoxzo.com/en/otp/)  
+
+## Related Articles
+<a href="/Industry/sms-not-received-checkpoints-en.md">What to Do When an SMS Doesn't Arrive: 3 Things to Check</a><br>
+<a href="/Industry/sms-vs-social-auth-en.md">SMS Authentication vs Social App Authentication: Which Is More Reliable?</a>
