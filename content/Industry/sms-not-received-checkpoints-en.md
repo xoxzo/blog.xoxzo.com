@@ -9,7 +9,7 @@ Summary: Here are three key things to check when an SMS doesn't arrive. Learn th
 
 ---
 
-## 📱 3 Checkpoints When an SMS Doesn't Arrive
+## 3 Checkpoints When an SMS Doesn't Arrive
 
 SMS messages use a different communication channel from email and are usually received through the **Messages (SMS)** app.  
 On both Android and iPhone, they do **not** appear in an email inbox.

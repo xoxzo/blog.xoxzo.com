@@ -4,7 +4,7 @@ Lang: en
 Date: 2025-11-21
 Tags: SMS, Voice API, Authentication, Accessibility, Xoxzo
 Author: Aiko Yokoyama
-Thumbnail: images/smsvsvoice-en.png
+Thumbnail: images/smsvsvoice-en.jpg
 Summary: When SMS delivery is unreliable, voice call text-to-speech authentication can be an effective alternative. It works even with landlines and improves accessibility for a wider range of users.
 
 ---
