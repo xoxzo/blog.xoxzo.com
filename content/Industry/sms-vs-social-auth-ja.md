@@ -3,7 +3,7 @@ Slug: sms-vs-social-auth
 Lang: ja
 Date: 2025-12-03
 Tags: SMS, 認証, SNS認証, LINE, セキュリティ, Xoxzo
-Thumbnail: /Images/sms-vs-social.jpg
+Thumbnail: images/sms-vs-social.jpg
 Author: Aiko Yokoyama
 Summary: SMS認証とSNS認証（例：LINE）を比較し、それぞれの特性や本人確認としての信頼性、向いているユースケースを解説します。
 
@@ -109,7 +109,7 @@ SMS認証はサービス側が指定した番号にSMSを送り、
 利便性が高まり、ユーザー体験が向上。
 
 ### 🔹 SMSが届かない場合  
-➡ 前回の記事（Vol.2）の通り、**音声通話認証**が代替手段として有効。
+➡ [前回の記事（Vol.2）](https://blog.xoxzo.com/ja/2025/11/21/sms-vs-voice-auth/)の通り、**音声通話認証**が代替手段として有効。
 
 ---
 
@@ -123,8 +123,8 @@ SMS認証はサービス側が指定した番号にSMSを送り、
 ---
 
 ## 関連リンク
-- [Vol.1：SMSが届かない？まず確認したい3つのポイント](/blog/sms-not-received-checkpoints/)
-- [Vol.2：SMSが届かない？音声通話による認証という選択肢](/blog/sms-vs-voice-auth/)
+- [Vol.1：SMSが届かない？まず確認したい3つのポイント](https://blog.xoxzo.com/ja/2025/11/14/sms-not-received-checkpoints/)
+- [Vol.2：SMSが届かない？音声通話による認証という選択肢](https://blog.xoxzo.com/ja/2025/11/21/sms-vs-voice-auth/)
 - [Xoxzo SMS API ドキュメンテーション](https://docs.xoxzo.com/ja/sms/)
 - [Xoxzo Voice API](https://docs.xoxzo.com/ja/voice/)
 - [Xoxzo OTP API（3円/SMS）](https://docs.xoxzo.com/ja/otp/)
