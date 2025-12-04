@@ -3,7 +3,7 @@ Slug: sms-vs-social-auth
 Lang: ja
 Date: 2025-12-03
 Tags: SMS, 認証, SNS認証, LINE, セキュリティ, Xoxzo
-Thumbnail: images/sms-vs-social.jpg
+Thumbnail: images/sms-social.jpg
 Author: Aiko Yokoyama
 Summary: SMS認証とSNS認証（例：LINE）を比較し、それぞれの特性や本人確認としての信頼性、向いているユースケースを解説します。
 

@@ -3,7 +3,7 @@ Slug: sms-vs-social-auth
 Lang: en
 Date: 2025-12-03
 Tags: SMS, Authentication, Social Login, LINE, Security, Xoxzo
-Thumbnail: images/sms-vs-social.jpg
+Thumbnail: images/sms-social.jpg
 Author: Aiko Yokoyama
 Summary: A comparison of SMS authentication and social app authentication (e.g., LINE), focusing on their reliability, verification strength, and the use cases each method is best suited for.
 
