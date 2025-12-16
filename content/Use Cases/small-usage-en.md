@@ -44,6 +44,13 @@ However, the situation is very different for small businesses, startups, and ind
 
 Under these conditions, it is difficult to even begin discussions that assume large-scale SMS usage.
 
+<figure>
+  <img src="images/small-usage-insert-en.jpg" alt="we only need 100 sms">
+  <figcaption>
+    For small projects, even “just 100 authentication messages” can be a significant hurdle.
+  </figcaption>
+</figure>
+
 
 ### Should Small Projects Give Up on SMS Authentication?
 

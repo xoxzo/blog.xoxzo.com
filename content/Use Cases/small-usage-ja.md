@@ -45,6 +45,15 @@ Xoxzoは、業界の中では比較的長く続いているサービスですが
 こうした状況では、
 「月◯万通送ります」といった前提の商談自体が難しいのが現実です。
 
+<figure>
+  <img src="images/small-usage-insert-ja.jpg" alt="必要なのは、たった100通なのに">
+  <figcaption>
+    小規模プロジェクトにとって、「たった100通」のSMS認証は意外と高いハードルになります。
+  </figcaption>
+</figure>
+
+For small projects, even “just 100 authentication messages” can be a significant hurdle.
+
 ### 小規模プロジェクトは、SMS認証を諦めるしかない？
 
 SMS認証を自前で用意しようとすると、
