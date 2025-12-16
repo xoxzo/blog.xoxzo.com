@@ -4,7 +4,7 @@ Slug: small-usage
 Lang: ja
 Tags: sms api; 2025; otp api; 音声API; ちょっと使い;
 Author: Aiko Yokoyama
-Thumbnail: images/3proMrOmura01.jpg
+Thumbnail: images/small-usage-ja.jpg
 Summary:SMS認証は、大規模サービスだけのものではありません。ユーザー数が少なくても、セキュリティは妥協できない。Xoxzoは「ちょっとだけ使いたい」というニーズに応え、小規模サービスや個人開発者のSMS認証導入を支えてきました。
 
 ### 小さく始めて、ちゃんと守る。 「ちょっと使い」のSMS認証を支えてきた理由

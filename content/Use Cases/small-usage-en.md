@@ -4,7 +4,7 @@ Slug: small-usage
 Lang: en
 Tags: sms api; 2025; otp api; voice api; light usage;
 Author: Aiko Yokoyama
-Thumbnail: images/3proMrOmura01.jpg
+Thumbnail: images/small-usage-en.jpg
 Summary: SMS authentication is not just for large-scale services. Even with a small number of users, security should never be compromised. Xoxzo has long supported small businesses and individual developers by meeting the need for “light usage” SMS authentication.
 
 ### Start Small, Protect Properly  
