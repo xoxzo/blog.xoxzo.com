@@ -8,7 +8,6 @@ Thumbnail: images/small-usage-en.jpg
 Summary: SMS authentication is not just for large-scale services. Even with a small number of users, security should never be compromised. Xoxzo has long supported small businesses and individual developers by meeting the need for light usage SMS authentication.
 
 ### Start Small, Protect Properly  
-### Why Xoxzo Has Continued to Support “Light Usage” SMS Authentication
 
 Xoxzo has been in the industry for many years, but we are not a large company.
 We operate fully remotely with a minimal team, and we do not have a particularly “strong” corporate culture.

@@ -52,8 +52,6 @@ Xoxzoは、業界の中では比較的長く続いているサービスですが
   </figcaption>
 </figure>
 
-For small projects, even “just 100 authentication messages” can be a significant hurdle.
-
 ### 小規模プロジェクトは、SMS認証を諦めるしかない？
 
 SMS認証を自前で用意しようとすると、
