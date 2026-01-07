@@ -3,7 +3,7 @@ Date: 2026-01-07
 Author: Hiroshi Gakiya & Alex Westfahl
 Tags: 2026
 Slug: a-happy-new-year-2026
-Thumbnail: images/2026-new-year-thumb.png
+Thumbnail: /images/2026-new-year-thumb.png
 Lang: en
 Summary: At the beginning of 2026, we would like to extend our sincere New Year’s greetings.
 
