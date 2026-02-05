@@ -7,7 +7,7 @@ Author: Aiko Yokoyama
 Thumbnail: images/why-sms-for-authentication-en.jpg  
 Summary: Why is SMS so well suited for authentication? By avoiding replies and conversation, SMS enables identity verification that is simple and less prone to failure. This article explores why SMS continues to be a standard method for authentication today.
 
-# Our Identity in the Digital Age
+### Our Identity in the Digital Age
 
 We live surrounded by authentication.
 
@@ -20,7 +20,7 @@ one has been relied upon for a long time: SMS.
 
 Why is SMS chosen for so many authentication processes?
 
-# Authentication Does Not Require Conversation
+### Authentication Does Not Require Conversation
 
 The purpose of authentication is not  
 to build relationships  
@@ -41,7 +41,7 @@ It should not make them hesitate.
 
 From this perspective, SMS is highly rational.
 
-# SMS Asks Only for Action
+### SMS Asks Only for Action
 
 SMS authentication messages are extremely simple.
 
@@ -62,7 +62,7 @@ This is a natural extension of the idea discussed in our previous article,
 SMS does not ask for replies, read receipts, or reactions.  
 Instead, it quietly prompts a single action.
 
-# Fewer Opportunities for Impersonation
+### Fewer Opportunities for Impersonation
 
 Social networks and chat tools are flexible and convenient,  
 but they also carry a higher risk of account takeover and impersonation.
@@ -77,7 +77,7 @@ and entering it within a short window—
 
 this sequence naturally limits opportunities for impersonation.
 
-# Authentication Works Best When It Is Quiet
+### Authentication Works Best When It Is Quiet
 
 Authentication does not need to stand out.  
 In fact, **the less noticeable it is, the better.**
@@ -92,7 +92,7 @@ and completes its task without interrupting the flow.
 That is why it continues to be used  
 as a **default choice** across so many services.
 
-# Beyond SMS Authentication
+### Beyond SMS Authentication
 
 Of course, SMS is not a perfect solution for every situation.
 
@@ -113,7 +113,7 @@ is increasingly used as a complementary option.
 This design philosophy is shared  
 by both SMS and voice authentication.
 
-# Why SMS Continues to Be Used for Authentication
+### Why SMS Continues to Be Used for Authentication
 
 SMS is not used for authentication because it is new,  
 nor because it is trendy.
