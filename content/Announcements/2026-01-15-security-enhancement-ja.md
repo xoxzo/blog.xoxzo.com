@@ -5,8 +5,7 @@ Lang: ja
 Tags: security-enhancement; リリース; 2026;
 Thumbnail: /images/security2026.jpg
 Author: Aiko Yokoyama
-Summary: Xoxzoでは、ユーザーの皆さまにより安心してサービスをご利用いただけるよう、  
-アカウントの**セキュリティ強化に関する新機能・仕様変更**を順次導入いたします。
+Summary: Xoxzoでは、ユーザーの皆さまにより安心してサービスをご利用いただけるよう、アカウントの**セキュリティ強化に関する新機能・仕様変更**を順次導入いたします。
 
 
 # アカウントセキュリティ強化に関するお知らせ
