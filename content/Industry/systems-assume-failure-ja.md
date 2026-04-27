@@ -1,7 +1,7 @@
 Title: システムは失敗する前提で設計する
 Slug: systems-assume-failure
 Lang: ja
-Date: 2026-04-15
+Date: 2026-04-27
 Tags: SMS, Voice API, API設計, 冗長性, システム設計, 通信, 信頼性
 Author: Aiko Yokoyama
 Thumbnail: images/systems-assume-failure-ja.jpg

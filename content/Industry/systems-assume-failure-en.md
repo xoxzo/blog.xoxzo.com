@@ -1,7 +1,7 @@
 Title: Systems Should Assume Failure
 Slug: systems-assume-failure
 Lang: en
-Date: 2026-04-15
+Date: 2026-04-27
 Tags: SMS, Voice API, API-design, redundancy, system-design, transmission, reliability
 Author: Aiko Yokoyama
 Thumbnail: images/systems-assume-failure-en.jpg
