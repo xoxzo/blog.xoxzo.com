@@ -1,5 +1,5 @@
 Title: A Strange Week of Subscription Bombing on Our Support Inbox
-Date: 2026-05-15
+Date: 2026-05-14
 Author: Aiko Yokoyama
 Tags: subscription bombing; email bombing; support operations; operational security; inbox flooding;
 Slug: subscription-bombing

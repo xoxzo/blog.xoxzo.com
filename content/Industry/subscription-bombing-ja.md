@@ -1,5 +1,5 @@
 Title: “認証メールが大量に届く” それ、Subscription Bombingかもしれません
-Date: 2026-05-15
+Date: 2026-05-14
 Author: Aiko Yokoyama
 Tags: subscription bombing; 大量登録メール; 仮登録メール; メール爆撃; サブスクリプションボム; inbox flooding; なりすまし登録; セキュリティ運用
 Slug: subscription-bombing
