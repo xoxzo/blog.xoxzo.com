@@ -1,5 +1,5 @@
 Title: Introducing SMS Templates
-Date: 2026-03-10
+Date: 2026-06-10
 Slug: template-sending
 Lang: ja
 Tags: template; xoxzo; releases; 2026;
