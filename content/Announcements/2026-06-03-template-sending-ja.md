@@ -1,5 +1,5 @@
 Title: SMS Templates機能をリリースしました
-Date: 2026-06-10
+Date: 2026-06-03
 Slug: template-sending
 Lang: ja
 Tags: template; xoxzo; リリース; 2026;

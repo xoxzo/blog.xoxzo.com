@@ -1,7 +1,7 @@
 Title: Introducing SMS Templates
-Date: 2026-06-10
+Date: 2026-06-03
 Slug: template-sending
-Lang: ja
+Lang: en
 Tags: template; xoxzo; releases; 2026;
 Thumbnail: /images/ez-sub-account-ja.jpg
 Author: Aiko Yokoyama
