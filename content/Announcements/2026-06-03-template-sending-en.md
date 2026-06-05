@@ -3,7 +3,6 @@ Date: 2026-06-03
 Slug: template-sending
 Lang: en
 Tags: template; xoxzo; releases; 2026;
-Thumbnail: /images/ez-sub-account-ja.jpg
 Author: Aiko Yokoyama
 Summary: Xoxzo now offers SMS Templates, allowing users to create and manage reusable SMS content with dynamic variables. The feature helps improve operational efficiency while supporting reliable and consistent messaging workflows.
 

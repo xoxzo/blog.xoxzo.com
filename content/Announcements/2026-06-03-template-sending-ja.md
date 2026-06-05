@@ -3,7 +3,6 @@ Date: 2026-06-03
 Slug: template-sending
 Lang: ja
 Tags: template; xoxzo; リリース; 2026;
-Thumbnail: /images/ez-sub-account-ja.jpg
 Author: Aiko Yokoyama
 Summary: Xoxzoでは、SMS Templates機能の提供を開始しました。繰り返し利用するSMS本文をテンプレートとして管理できるほか、変数による動的なメッセージ生成にも対応。運用効率の向上とサービス品質の維持を両立するための新機能です。
 
