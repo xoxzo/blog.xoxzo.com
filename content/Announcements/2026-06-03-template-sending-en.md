@@ -58,6 +58,13 @@ while continuing to support legitimate messaging use cases.
 
 The feature will be rolled out gradually to eligible users.
 
-If you have any questions regarding SMS Templates, please feel free to contact our support team.
+### Additional note: Impact on Existing Users (2026-06-11)
 
-Thank you for using Xoxzo.
+The introduction of SMS Templates does not affect approved users who are already sending SMS messages through Xoxzo.
+
+Users whose use cases have already been reviewed and approved may continue to send free-form SMS messages using the existing API, just as before.
+
+New users are encouraged to use SMS Templates for sending messages, while approved users can continue using their existing workflows (Freeform SMS sending) without changes.
+
+If you have any questions regarding your account or sending options, please feel free to contact our support team.
+
