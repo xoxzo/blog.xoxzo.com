@@ -66,5 +66,9 @@ Users whose use cases have already been reviewed and approved may continue to se
 
 New users are encouraged to use SMS Templates for sending messages, while approved users can continue using their existing workflows (Freeform SMS sending) without changes.
 
+For more information about SMS Templates and the sending API, please refer to the documentation below.
+
+[SMS Templates Documentation](https://docs.xoxzo.com/en/smstemplates)
+
 If you have any questions regarding your account or sending options, please feel free to contact our support team.
 
