@@ -1,5 +1,5 @@
 Title: Creating a State Where Customers Can Wait with Confidence
-Date: 2026-07-01
+Date: 2026-06-26
 Author: Aiko Yokoyama
 Tags: SMS; Customer Support; Customer Experience; CX; Automation; Communication; Business Efficiency; Reminders; Customer Satisfaction; Warm Automation;
 Slug: making-waiting-easier

@@ -1,5 +1,5 @@
 Title: 『安心して待てる状態』を作る
-Date: 2026-07-01
+Date: 2026-06-26
 Author: Aiko Yokoyama
 Tags: SMS; 顧客対応; カスタマーサポート; 顧客体験; CX; 自動化; コミュニケーション; 業務効率化; リマインダー; 顧客満足; 自動化しても暖かい顧客対応;
 Slug: making-waiting-easier
