@@ -9,7 +9,6 @@ Summary: APIを使うための第一歩として、APIユーザーを作成し�
 Category: Tutorial-new
 Order: 02       # 並び順。02, 03... とゼロ埋め推奨
 Summary: 〜要約〜
-# 任意: Thumbnail: images/tutorials/xxx.jpg
 
 
 ## はじめに
