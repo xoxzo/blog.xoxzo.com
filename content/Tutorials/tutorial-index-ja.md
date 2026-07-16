@@ -3,7 +3,7 @@ Date: 2026-07-20
 Slug: tutorial-index
 Lang: ja
 Tags: tutorial; getting started; sms; voice api; otp; webhook;
-Author: Aiko Yokoyama
+Author: Xoxzo Team
 Summary: Xoxzo Tutorialsでは、SMSやVoice APIを使ったシステムを、一つずつ実際に作りながら学ぶことができます。APIの使い方だけでなく、小さなビジネスの業務フローを実現する方法を、ステップ形式で紹介します。
 Series: Xoxzo Tutorials
 Series_index: 2
