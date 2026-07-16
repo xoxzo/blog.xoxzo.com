@@ -7,7 +7,7 @@ Thumbnail: images/xoxtan.png
 Lang: ja
 Summary: APIを使うための第一歩として、APIユーザーを作成してみましょう。
 Series: Xoxzo API Tutorial
-Series_index: 2
+Series_index: 3
 
 ## はじめに
 
