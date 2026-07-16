@@ -178,4 +178,4 @@ SMS認証やOTP APIなど、
 
 📚 **Xoxzo Tutorials**
 
-**← PREV** ｜ **目次（この記事）** ｜ **[Step 1：APIユーザーを作成してみましょう ](https://blog.xoxzo.com/ja/2017/10/13/create-your-first-apiuser-new/)**
+**← PREV** ｜ **目次（この記事）** ｜ **[Step 1：APIユーザーを作成してみましょう ](/create-your-first-apiuser-new)**
