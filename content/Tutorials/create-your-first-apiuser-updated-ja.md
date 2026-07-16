@@ -1,6 +1,6 @@
 Title: APIユーザーを作成してみましょう
-Date: 2017-10-13 12:00
-Author: Miko-chan
+Date: 2026-07-17
+Author: Xoxzo Team
 Tags: api user, api, tutorial
 Slug: create-your-first-apiuser-new
 Thumbnail: images/xoxtan.png
