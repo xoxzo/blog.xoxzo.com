@@ -1,5 +1,6 @@
 Title: Xoxzo Tutorialsへようこそ
-Date: 2026-07-20
+Date: 2025-07-20
+Modified: 2026-07-17
 Slug: tutorial-index
 Lang: ja
 Tags: tutorial; getting started; sms; voice api; otp; webhook;
@@ -173,6 +174,10 @@ SMS認証やOTP APIなど、
 最初のチュートリアルから始めましょう。
 
 👉 **Step 1：APIユーザーを作成してみましょう**
+
+
+
+2026年７月更新
 
 ---
 

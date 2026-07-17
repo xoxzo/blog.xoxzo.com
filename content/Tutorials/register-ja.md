@@ -1,5 +1,6 @@
 Title: はじめる前に － Xoxzoアカウントを作成しましょう
-Date: 2026-07-17
+Date: 2025-07-17
+Modified: 2026-07-17
 Author: Xoxzo Team
 Tags: api user, api, tutorial
 Slug: register
@@ -71,6 +72,9 @@ help@xoxzo.com
 それでは次は、
 
 APIユーザーを作成してみましょう。
+
+
+2026年７月更新
 
 ---
 <div class="tutorial-footer">
