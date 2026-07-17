@@ -1,5 +1,6 @@
 Title: APIユーザーを作成してみましょう
-Date: 2026-07-17
+Date: 2025-07-17
+Modified: 2026-07-17
 Author: Xoxzo Team
 Tags: api user, api, tutorial
 Slug: create-your-first-apiuser-new
@@ -52,6 +53,7 @@ APIユーザーは、XoxzoアカウントからAPIを利用するときに必要
 これで、APIユーザーの作成と基本的な管理方法がわかりました。
 次のステップでは、このユーザーを使って実際にAPIを呼び出してみましょう。
 
+2026年７月更新
 
 ---
 <div class="tutorial-footer">
