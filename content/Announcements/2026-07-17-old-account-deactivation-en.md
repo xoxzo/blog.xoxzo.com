@@ -1,5 +1,5 @@
 Title: Update to Our Inactive Account Policy
-Date: 2026-07-17
+Date: 2026-07-16
 Slug: old-account-deactivation
 Lang: en
 Tags: security; xoxzo; release; 2026;
