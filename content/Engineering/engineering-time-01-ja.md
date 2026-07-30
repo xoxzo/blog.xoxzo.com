@@ -5,6 +5,7 @@ Author: Aiko Yokoyama
 Category: Engineering
 Tags: engineering; system-design; automation; api;
 Slug: engineering-time-01
+Thumbnail: images/engineering-time-01-ja.jpg
 Summary: エンジニアの時間は、限られた大切なリソースです。システム設計には「何を作るか」だけでなく、「何を作らないか」を考える工程も必要です。共通機能を上手に活用し、本当に価値を生む部分へ開発リソースを集中させる――それもまた、良い設計の一つです。
 
 ### システム設計の大切な工程

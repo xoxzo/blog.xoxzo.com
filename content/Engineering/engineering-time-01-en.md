@@ -5,6 +5,7 @@ Author: Aiko Yokoyama
 Category: Engineering
 Tags: engineering; system-design; automation; api;
 Slug: engineering-time-01
+Thumbnail: images/engineering-time-01-en.jpg
 Summary: Engineering time is one of your most valuable resources. Good system design is not only about deciding what to build, but also what not to build. By making smart use of well-established shared services, your team can focus on the parts of the system that truly create value.
 
 ### An Often Overlooked Step in System Design
