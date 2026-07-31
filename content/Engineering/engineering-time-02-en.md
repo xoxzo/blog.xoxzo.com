@@ -3,6 +3,7 @@ Date: 2026-07-31
 Category: Engineering
 Tags: engineering, system-design, api, software-development
 Slug: dont-reinvent-the-wheel
+Lang: en
 Thumbnail: images/engineering-time-02-en.jpg
 Authors: Aiko Yokoyama
 Summary: Building everything yourself isn't always the best approach. By combining proven, well-maintained building blocks, engineers can spend more time creating the parts of a service that truly make it unique. That's also part of good system design.
