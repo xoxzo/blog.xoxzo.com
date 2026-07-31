@@ -1,14 +1,14 @@
 Title: Don't Reinvent the Wheel
 Date: 2026-07-31
 Category: Engineering
-Tags: engineering, system-design, api, software-development
-Slug: dont-reinvent-the-wheel
+Tags: engineering; system-design; api; software-development;
+Slug: engineering-time-02
 Lang: en
 Thumbnail: images/engineering-time-02-en.jpg
-Authors: Aiko Yokoyama
+Author: Aiko Yokoyama
 Summary: Building everything yourself isn't always the best approach. By combining proven, well-maintained building blocks, engineers can spend more time creating the parts of a service that truly make it unique. That's also part of good system design.
 
-## The Age of Composable Building Blocks
+### The Age of Composable Building Blocks
 
 When developing a system, it's easy to think,
 
@@ -19,7 +19,7 @@ Of course, that's technically possible.
 
 But is that feature really something your team should spend time building, operating, and continuously improving?
 
-## A System Is Never Finished
+### A System Is Never Finished
 
 A feature isn't "done" the day it's is released.
 
@@ -37,7 +37,7 @@ Systems continue to evolve over time.
 
 And as your service grows, maintaining every single component at the same level of quality becomes increasingly difficult.
 
-## Where Does Your Value Come From?
+### Where Does Your Value Come From?
 
 Think about services such as:
 
@@ -61,7 +61,7 @@ Of course, you can build them yourself.
 
 But these are also areas that have been refined and improved by thousands of engineers over many years.
 
-## Designing by Composing
+### Designing by Composing
 
 Modern software development isn't about building everything from scratch.
 
@@ -83,7 +83,7 @@ Today, developers can choose from countless services, including:
 
 By combining proven technologies, you can build faster, reduce operational burden, and spend more time creating the parts of your service that truly matter.
 
-## You Don't Need to Reinvent the Wheel
+### You Don't Need to Reinvent the Wheel
 
 The goal isn't to build a better wheel.
 
