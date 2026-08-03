@@ -1,5 +1,5 @@
 Title: 車輪は、もう発明しなくていい
-Lang: Ja
+Lang: ja
 Date: 2026-07-31
 Category: Engineering
 Tags: engineering; system-design; api; software-development;
