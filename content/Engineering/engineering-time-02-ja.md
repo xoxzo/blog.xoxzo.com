@@ -1,9 +1,9 @@
 Title: 車輪は、もう発明しなくていい
+Lang: Ja
 Date: 2026-07-31
 Category: Engineering
 Tags: engineering; system-design; api; software-development;
 Slug: engineering-time-02
-Lang: Ja
 Thumbnail: images/engineering-time-02-ja.jpg
 Author: Aiko Yokoyama
 Summary: システム開発では、自分ですべてを作ることが最善とは限りません。すでに磨かれた仕組みを組み合わせることで、エンジニアは本当に価値を生み出す部分へ時間を使うことができます。それもまた、良い設計のひとつです。
