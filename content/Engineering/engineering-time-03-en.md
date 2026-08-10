@@ -1,6 +1,6 @@
 Title: Spend Your Time on Design, Not Features
-Date: 2026-08-07
-Modified:
+Lang: en
+Date: 2026-08-10
 Category: Engineering
 Tags: engineering, system-design, ux, workflow, software-development
 Slug: engineering-time-03

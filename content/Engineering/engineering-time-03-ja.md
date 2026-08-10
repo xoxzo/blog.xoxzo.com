@@ -1,6 +1,6 @@
 Title: 時間は、機能ではなく設計に使おう
-Date: 2026-08-07
-Modified:
+Lang: ja
+Date: 2026-08-10
 Category: Engineering
 Tags: engineering, system-design, ux, workflow, software-development
 Slug: engineering-time-03
