@@ -1,6 +1,6 @@
 Title: There Is No Single Best Authentication Method
 Lang: en
-Date: 2026-09-07
+Date: 2026-09-14
 Category: Engineering
 Tags: engineering, authentication, fallback, system-design, user-experience
 Slug: engineering-time-07
