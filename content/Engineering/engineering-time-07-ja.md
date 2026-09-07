@@ -1,6 +1,6 @@
 Title: 最高の認証は、一つじゃない
 Lang: ja
-Date: 2026-09-07
+Date: 2026-09-14
 Category: Engineering
 Tags: engineering, authentication, fallback, system-design, user-experience
 Slug: engineering-time-07
