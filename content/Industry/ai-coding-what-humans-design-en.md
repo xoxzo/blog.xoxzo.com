@@ -4,7 +4,7 @@ Date: 2026-09-28
 Category: Industry
 Tags: ai, engineering, system-design, software-development, requirements
 Slug: ai-coding-what-humans-design
-Thumbnail: images/ai-coding-what-humans-design-en.jpeg
+Thumbnail: images/ai-coding-what-humans-design-en.jpg
 Authors: Aiko Yokoyama
 Summary: As AI makes coding faster, deciding what to build and what success looks like may become even more important. What should humans design in the age of AI—and could AI help us with that earliest stage of design as well? Let's think about the "far left" of software development.
 
