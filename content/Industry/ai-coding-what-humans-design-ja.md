@@ -1,6 +1,6 @@
 Title: AIがコードを書く時代に、人間は何を設計する？
 Lang: ja
-Date: 2026-09-21
+Date: 2026-09-28
 Category: Industry
 Tags: ai, engineering, system-design, software-development, requirements
 Slug: ai-coding-what-humans-design

@@ -1,6 +1,6 @@
 Title: What Do Humans Design When AI Writes the Code?
 Lang: en
-Date: 2026-09-21
+Date: 2026-09-28
 Category: Industry
 Tags: ai, engineering, system-design, software-development, requirements
 Slug: ai-coding-what-humans-design
