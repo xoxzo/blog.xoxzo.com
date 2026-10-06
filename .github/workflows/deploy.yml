@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - master
-      - 'test-*'
   workflow_dispatch:
 
 permissions:
@@ -37,12 +36,8 @@ jobs:
           pip install --upgrade pip
           pip install -r requirements.txt
           make compile_translation
-          if [ "${{ github.ref_name }}" != "master" ]; then
-            pelican content -o output -s publishconf.py --relative-urls
-            rm -f output/CNAME
-          else
-            pelican content -o output -s publishconf.py
-          fi
+          pelican content -o output -s publishconf.py
+          echo "blog.xoxzo.com" > output/CNAME
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
