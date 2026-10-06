@@ -37,8 +37,12 @@ jobs:
           pip install --upgrade pip
           pip install -r requirements.txt
           make compile_translation
-          pelican content -o output -s publishconf.py
-          if [ "${{ github.ref_name }}" != "master" ]; then rm -f output/CNAME; fi
+          if [ "${{ github.ref_name }}" != "master" ]; then
+            pelican content -o output -s publishconf.py --relative-urls
+            rm -f output/CNAME
+          else
+            pelican content -o output -s publishconf.py
+          fi
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
