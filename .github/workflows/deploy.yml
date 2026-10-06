@@ -1,20 +1,17 @@
-name: Deploy Pelican to GitHub Pages
+name: Deploy to GitHub Pages
 
 on:
   push:
     branches:
       - master
       - 'test-*'
-      - 'feature/*'
   workflow_dispatch:
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
   pages: write
   id-token: write
 
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
 concurrency:
   group: "pages"
   cancel-in-progress: false
@@ -23,7 +20,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Set up Python
@@ -32,67 +29,18 @@ jobs:
           python-version: '3.10'
           cache: 'pip'
 
-      - name: Clone Pelican plugins
-        run: |
-          git clone --depth 1 https://github.com/getpelican/pelican-plugins.git plugins
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-
-      - name: Compile translations & Build site
+      - name: Build site
         env:
           CONTEXT: production
         run: |
+          git clone --depth 1 https://github.com/getpelican/pelican-plugins.git plugins
+          pip install --upgrade pip
+          pip install -r requirements.txt
           make compile_translation
           pelican content -o output -s publishconf.py
+          if [ "${{ github.ref_name }}" != "master" ]; then rm -f output/CNAME; fi
 
-      - name: Setup redirects and CNAME for GitHub Pages
-        run: |
-          # Ensure custom domain CNAME is present
-          echo "blog.xoxzo.com" > output/CNAME
-
-          # Create root redirect to /en/ (matching Netlify _redirects behavior)
-          cat << 'EOF' > output/index.html
-          <!DOCTYPE html>
-          <html lang="en">
-            <head>
-              <meta charset="utf-8">
-              <meta http-equiv="refresh" content="0; url=/en/">
-              <link rel="canonical" href="https://blog.xoxzo.com/en/">
-              <title>Redirecting to Xoxzo Blog...</title>
-              <script>
-                window.location.replace('/en/');
-              </script>
-            </head>
-            <body>
-              <p>Redirecting to <a href="/en/">/en/</a>...</p>
-            </body>
-          </html>
-          EOF
-
-          # Legacy redirect for /category/engineering.html -> /engineering/
-          mkdir -p output/category
-          cat << 'EOF' > output/category/engineering.html
-          <!DOCTYPE html>
-          <html lang="en">
-            <head>
-              <meta charset="utf-8">
-              <meta http-equiv="refresh" content="0; url=/engineering/">
-              <link rel="canonical" href="https://blog.xoxzo.com/engineering/">
-              <title>Redirecting...</title>
-              <script>
-                window.location.replace('/engineering/');
-              </script>
-            </head>
-            <body>
-              <p>Redirecting to <a href="/engineering/">/engineering/</a>...</p>
-            </body>
-          </html>
-          EOF
-
-      - name: Upload GitHub Pages artifact
+      - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: output/
