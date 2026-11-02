@@ -1,6 +1,5 @@
-
 Title: SMSは古い技術？ それでも使われ続ける理由
-Date: 2026-11-02 12:00
+Date: 2026-11-02
 Author: Aiko Yokoyama
 Tags: SMS; メッセージング; 技術; 本人認証; OTP; 通信; SMSの歴史
 Slug: why-sms-still-matters
