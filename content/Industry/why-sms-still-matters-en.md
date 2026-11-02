@@ -1,6 +1,5 @@
-
 Title: Is SMS Outdated? Why It Still Matters
-Date: 2026-11-02 12:00
+Date: 2026-11-02
 Author: Aiko Yokoyama
 Tags: SMS; Messaging; Technology; Authentication; OTP; Communication; SMS History
 Slug: why-sms-still-matters
