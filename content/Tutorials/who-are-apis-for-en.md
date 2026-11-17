@@ -1,4 +1,3 @@
-
 Title: Who Are APIs Really For?
 Date: 2026-11-16 12:00
 Author: Aiko Yokoyama
