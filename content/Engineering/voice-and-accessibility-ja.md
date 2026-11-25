@@ -1,4 +1,3 @@
-
 Title: 情報を届ける方法は、ひとつじゃない — 音声とアクセシビリティ
 Date: 2026-11-24 12:00
 Author: Aiko Yokoyama
