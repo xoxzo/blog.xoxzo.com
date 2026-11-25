@@ -1,4 +1,3 @@
-
 Title: There Is More Than One Way to Share Information — Voice and Accessibility
 Date: 2026-11-24 12:00
 Author: Aiko Yokoyama
